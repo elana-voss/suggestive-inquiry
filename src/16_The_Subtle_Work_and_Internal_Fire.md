@@ -1,9 +1,9 @@
-# Chapter Analysis & Condensation: Part IV, Chapter 2
+# Chapter 2: The Subtle Work and Internal Fire
 
 ### 1. Chapter Core Thesis
 Part IV, Chapter 2 ("Of the Philosophic or Subtle Work") details the transition from the preliminary physical/gross preparations to the inward, subtle operations of the Great Work [1577–1585]. Mary Anne Atwood demonstrates that after the initial dissolution (*Gross Work*), the subtle vital spirit must be sublimed, rectified, and fermented through a threefold order of operation [1585–1590, 1602–1606]. She aligns this metaphysical process with the Christian mystery of regeneration, the secret fire of the Neoplatonists, and the mathematical mystery of the Quadrature of the Circle (*Divine Tetractys*) [1598–1606, 1621–1626, 1633–1635].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -31,7 +31,7 @@ Part IV, Chapter 2 ("Of the Philosophic or Subtle Work") details the transition 
 * **Multiplication** exponentially increases the virtue, weight, and transmutative potency of the Stone through repeated rotations of solution and coagulation (*Solve et Coagula*) [1623–1626].
 * **Projection** is the final outward transmission of this concentrated spiritual perfection onto imperfect subjects, immediately transmuting them into pure gold or silver [1628–1631, 1634–1635].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 
@@ -41,7 +41,7 @@ Part IV, Chapter 2 ("Of the Philosophic or Subtle Work") details the transition 
 * **Quadrature of the Circle**: The geometrical expression of alchemical completion, wherein the four elements are integrated into a perfect, immortal, circular Monad (*Divine Tetractys*) [1610–1612, 1625–1626].
 * **Fermentation & Multiplication**: The Stone must be fermented with kindred gold/silver to make it operable, and can be multiplied infinitely in virtue through repeated rotations of the philosophic wheel [1608–1610, 1623–1626].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 
@@ -52,7 +52,7 @@ Part IV, Chapter 2 ("Of the Philosophic or Subtle Work") details the transition 
 * **Fermentation (*Fermentatio* / Bodily & Spiritual Leaven)**
 * **Multiplication (*Multiplicatio*) & Projection (*Projectio*)**
 
----
+
 
 ### 5. Key Direct Quotes
 

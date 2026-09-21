@@ -1,9 +1,9 @@
-# Chapter Analysis & Condensation: Part III, Chapter 3
+# Chapter 3: Signs and Stages of the Interior Work
 
 ### 1. Chapter Core Thesis
 Part III, Chapter 3 ("Of the Manifestations of the Philosophic Matter") details the precise phenomenal signs, energetic shifts, and symbolic stages that accompany the interior transformation of the Philosophic Subject. Mary Anne Atwood explains that as the unpurified vital spirit undergoes radical dissolution (*Solve*), it passes through dark purgatorial mortification (*Nigredo*, *Head of the Crow*), vibrant polychromatic display (*Peacock's Tail*, *Iris*), and albification, culminating in the spiritual resurrection of the glorified red carbuncle (*Rubedo*, *Philosopher's Stone*). This chapter establishes that the alchemical Great Work is a living, internal, theurgic process wherein the soul's central fire is extracted, purified, and permanently conjoined with its divine, solar origin [1200-1227].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -23,7 +23,7 @@ Part III, Chapter 3 ("Of the Manifestations of the Philosophic Matter") details 
 * **Sowing in Tears, Reaping in Joy**: Citing the Apostle Paul and ancient alchemists, Atwood correlates putrefaction with spiritual burial [1215-1217]. Just as a grain of wheat must rot in the moist earth before rising as a new crop, the natural body must be mortified so the spiritual body can be resurrected in glory [1217-1220].
 * **Solve et Coagula & The Divine Tetractys**: The Benedictine monk's rule (*Solve et Coagula*) dissolves the cold crudities of quicksilver through incombustible sulfur [1220-1221]. This completes the *Quadrature of the Circle*—converting the fourfold elements through the three principles into the unified *Monad* or *Divine Tetractys*, where body, soul, and spirit abide in eternal, incorruptible union [1221-1227].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 * **Polychromatic Progression**: The manifestation of the Philosophic Matter follows a strict sequence: initial blackness (*Nigredo/Crow*), followed by the iridescence of the Peacock's Tail (*Cauda Pavonis*), immaculate whiteness (*Albedo*), citrine yellow, and final royal redness (*Rubedo/Carbuncle*) [1208-1215].
@@ -31,7 +31,7 @@ Part III, Chapter 3 ("Of the Manifestations of the Philosophic Matter") details 
 * **The Living Matrix**: The "water" of the philosophers is drawn from the higher, spiritual region of the human frame, not from physical wells or earth-bound minerals [1212-1214].
 * **The Spiritual Rebis**: The culmination of the operation establishes an indestructible, glorified spiritual body (*Lapis*) that can react upon imperfect natures, curing physical and psychical diseases [1215-1217, 1225-1227].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 * **Tears of Isis / Hyanthe's Dew** (*Aqua Philosophica*) [1200-1202]
@@ -42,7 +42,7 @@ Part III, Chapter 3 ("Of the Manifestations of the Philosophic Matter") details 
 * **Sowing in Tears, Reaping in Joy** (*Metaphysical Resurrection*) [1215-1218]
 * **Quadrature of the Circle / Divine Tetractys** [1221-1227]
 
----
+
 
 ### 5. Key Direct Quotes
 1. *"In cruce sub sphera venit Sapientia vera."* [1210]

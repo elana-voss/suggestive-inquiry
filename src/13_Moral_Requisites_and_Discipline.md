@@ -1,9 +1,9 @@
-# Chapter Analysis & Condensation: Part III, Chapter 4
+# Chapter 4: Moral Requisites and Discipline of the Adept
 
 ### 1. Chapter Core Thesis
 Part III, Chapter 4 examines the subjective, moral, and intellectual prerequisites—as well as the fatal impediments—that dictate an individual's capacity to engage in the Hermetic Art [1371-1378]. Mary Anne Atwood emphasizes that because Alchemy operates upon living universal nature through the human operator, success depends entirely on rectitude of intention, rational sagacity, and divine grace rather than physical machinery or avaricious desires [1374-1378, 1400-1402]. The chapter warns against false motives (particularly Mammon-worship) and outlines the indispensable role of prayer, mental stability, and manual dexterity in realizing the Great Work [1378-1385, 1433-1447].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -23,7 +23,7 @@ Part III, Chapter 4 examines the subjective, moral, and intellectual prerequisit
 * **Manual Dexterity & Perseverance:** The Gross Work demands indefatigable physical and mental labor ("manual operation"), patience, and exact regimen [1413-1414, 1461-1470].
 * **Concordances of Environment:** Successful operation requires harmonious physical conditions—quiet, dryness or moisture as appropriate, and freedom from violent atmospheric or emotional disturbances [1471-1476].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 
@@ -32,7 +32,7 @@ Part III, Chapter 4 examines the subjective, moral, and intellectual prerequisit
 * **The Trap of the Literal Sense:** Superficial readers who attempt alchemical practice based on literal readings of chemical receipts surround themselves with coals and stills in vain, failing to grasp that the true vessel and fire are hyperphysical [1417-1422, 1461-1470].
 * **Hermetic Secrecy as Ethical Duty:** Adepts are bound by solemn oaths to conceal the operational key from the profane to prevent the perversion of divine power in a fallen world [1394-1399, 1426-1430].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 
@@ -43,7 +43,7 @@ Part III, Chapter 4 examines the subjective, moral, and intellectual prerequisit
 * **Manual Operation (*Opus Manuale*)**
 * **Concordance of Place & Environment**
 
----
+
 
 ### 5. Key Direct Quotes
 

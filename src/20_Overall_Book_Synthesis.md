@@ -1,6 +1,4 @@
-# Overall Book Synthesis: Mary Anne Atwood's *A Suggestive Inquiry into the Hermetic Mystery*
-
----
+# Overall Book Synthesis
 
 ## Executive Summary & Macro-Arc
 Mary Anne Atwood's 1850 masterpiece, *A Suggestive Inquiry into the Hermetic Mystery*, represents one of the most ambitious, rigorous, and profound restorations of Hermetic philosophy in modern history. The book's macro-arc spans four structured parts and an authorial appendix, systematically deconstructing the superficial, physical caricatures of alchemy to expose its true nature as an **internal, experimental, and theurgic science of divine human regeneration**.
@@ -27,7 +25,7 @@ APPENDIX: Table Talk & Memorabilia
    └─ Core Discovery: Auto-magnetism ferments the vital spirit, completing the circle of Eternity.
 ```
 
----
+
 
 ## Sequential Section-by-Section Synthesis
 
@@ -60,7 +58,7 @@ APPENDIX: Table Talk & Memorabilia
   3. **Auto-Magnetism:** The transition from external operator-patient mesmerism to self-directed, internal Hermetic fermentation driven by the Divine Will [1851, 1857, 1873, 1960].
   4. **The Ashes (*Caput Mortuum*):** The underlying principle of body saved as "our pigmy" or "diadem of the body," from which resurrection occurs [1865].
 
----
+
 
 ## Evolution of the Master Lexicon & Hermeneutic Vocabulary
 
@@ -74,7 +72,7 @@ Throughout the text, Atwood's vocabulary undergoes a deliberate, multi-layered e
 | **The Process** | Chemical Distillation, Solution | *Katharsis*, *Myesis*, *Epopteia*, *Descensus Averni* | Grafting of Spirit, Northern Fixation, *Cauda Pavonis* | Gross Work (*Opus Manuale*), Subtle Work, Six Keys of Eudoxus |
 | **The Goal** | Transmutation Powder, Gold | Divine Rebirth, *Nosce Te Ipsum*, Monad Union | Divine Tetractys, Resurrected Stone | Living Philosopher's Stone, Palingenesia, The Metaphysical Cross |
 
----
+
 
 ## Ultimate Theoretical & Practical Conclusions
 

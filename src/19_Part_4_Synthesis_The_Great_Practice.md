@@ -1,4 +1,4 @@
-# Book Part Synthesis: Part IV (The Hermetic Practice)
+# Part IV Synthesis: The Great Practice
 
 ### 1. Macro-Arc of Part IV
 Part IV ("The Hermetic Practice") represents the operational culmination of the entire *Suggestive Inquiry*. Having laid the exoteric history (Part I), esoteric philosophy (Part II), and vital conditions (Part III), Part IV unfolds the actual stages of the Great Work:
@@ -7,7 +7,7 @@ Part IV ("The Hermetic Practice") represents the operational culmination of the 
 3. **Chapter 3 (*The Six Keys of Eudoxus*):** Decodes the practical, step-by-step operational blueprint. It details the extraction of the seed, the application of the Secret Fire, the conversion of elements, fixation, fermentation, multiplication, and projection [1641–1681].
 4. **Chapter 4 (*The Conclusion*):** Delivers the grand philosophical synthesis. It brings the entire inquiry full circle, confirming that Man himself is the laboratory, that the Philosopher's Stone is the divinized human soul, and that Hermeticism is the ultimate Causal Science [1781–1798].
 
----
+
 
 ### 2. Systemic Progression of Vocabulary
 * **Gross & Manual Stage (Chapter 1):** Terms focus on physical manipulation, vital extraction, and patient labor—*Opus Manuale, First and Second Menstruals, Eagles of the Sages, Doves of Diana, Cavern of Saturn, Festina Lente*.
@@ -15,7 +15,7 @@ Part IV ("The Hermetic Practice") represents the operational culmination of the 
 * **Keyed Operational Stage (Chapter 3):** Focuses on symbolic keys and secret agents—*Six Keys of Eudoxus, Caput Corvi (Raven's Head), Blood of the Pelican, Secret Fire (Ignis Secretus), Vinegar of the Wise, Land of Promise (Terra Philosophica)*.
 * **Ontological Synthesis (Chapter 4):** Resolves all symbolic vocabulary into absolute metaphysical realities—*Universal Subject in Man, Causal Science vs. Empirical Science, Divine Regeneration (Palingenesia), Recreative Force, Final Synthesis of the Stone*.
 
----
+
 
 ### 3. Major Theoretical & Symbolic Conclusions
 
@@ -23,7 +23,7 @@ Part IV ("The Hermetic Practice") represents the operational culmination of the 
 * **The Mechanism of Transformation (*Solve et Coagula*):** *Solve* dissolves the sensory, egoic attachments of the body and elevates the vital spirit into the Noetic Light; *Coagula* permanently fixes that Light within the physical vessel, creating an immortalized human being [1500, 1674–1676].
 * **The Absolute Unity of Science and Religion:** Hermetic alchemy bridges the gap between physical chemistry, human psychology, and divine theosophy, offering a complete, practical science of deification [1795–1798].
 
----
+
 
 ### 4. Unresolved Questions & Transitions to the Appendix
 

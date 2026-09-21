@@ -1,9 +1,9 @@
-# Chapter Analysis & Condensation: Part IV, Chapter 1
+# Chapter 1: The Gross Work and Manual Operation
 
 ### 1. Chapter Core Thesis
 Part IV opens the practical section of Mary Anne Atwood's inquiry by detailing the "Gross Work" (*Opus Manuale*)—the preliminary vital purification of the Hermetic Subject [1491-1494]. Atwood establishes that true alchemical operation requires "manual operation" of the hands (*handicraft*) to dissolve the natural-born hypostasis and release the hidden First Matter from its gross, adscititious impurities [1498-1501]. This phase demands indefatigable physical and mental labor, patience, and a gentle, regulated heat (*festina lente*) to avoid destroying the volatile life-spirit [1504-1508, 1518-1522].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -23,7 +23,7 @@ Part IV opens the practical section of Mary Anne Atwood's inquiry by detailing t
 * **Concordance of Place (*Norton's Ordinals*)**: The operation demands specific local conditions: places that are dry, close, dark, or moist/cold, always protected from violent winds [1526-1528].
 * **The Two Vulcans & The Heroic Will**: The external natural fire must be gently regulated to cherish the internal, vital, magical fire (*microcosmic Vulcan*) [1536-1539, 1544-1547].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 
@@ -32,7 +32,7 @@ Part IV opens the practical section of Mary Anne Atwood's inquiry by detailing t
 * **Axiom of *Festina Lente***: Excessive heat or hasty operation stirs up wrath in the moist nature, causing division in the Chaos and driving the peaceful Quintessence away [1518-1522].
 * **Inseparable Connection Between Operator and Subject**: The operator must possess moral purity, quiet patience, and charity; a violent or greedy operator will ruin the delicate balance of the matter [1502-1504, 1527].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 
@@ -43,7 +43,7 @@ Part IV opens the practical section of Mary Anne Atwood's inquiry by detailing t
 * **Doves of Diana**
 * **Festina Lente (*Make Haste Slowly* / Gentle Coction)**
 
----
+
 
 ### 5. Key Direct Quotes
 

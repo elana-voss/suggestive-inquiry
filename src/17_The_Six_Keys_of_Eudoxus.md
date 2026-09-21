@@ -1,9 +1,9 @@
-# Chapter Analysis & Condensation: Part IV, Chapter 3
+# Chapter 3: The Six Keys of Eudoxus
 
 ### 1. Chapter Core Thesis
 Part IV, Chapter 3 presents "The Six Keys of Eudoxus" as an allegorical and operational roadmap for the subtle stages of the Hermetic Great Work [1639–1676]. Atwood decodes Eudoxus's keys to demonstrate how the alchemist sequentially extracts the hidden seed from the body, applies the divine Secret Fire to convert the elements, purifies and ferments the triune principles (Salt, Sulfur, and Mercury), and stabilizes the Stone for infinite multiplication [1639–1676, 1776].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -37,7 +37,7 @@ Part IV, Chapter 3 presents "The Six Keys of Eudoxus" as an allegorical and oper
 * **Progression of Thought:** Reiterating the rotation of *Solve et Coagula* continuously purges subtle residual impurities and increases the Stone's power, weight, and transmutative potency [1676].
 * **Symbolic Outcome:** The completed Medicine attains infinite multiplicative virtue, unlocking the universal treasury of nature [1676–1677].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 
@@ -46,7 +46,7 @@ Part IV, Chapter 3 presents "The Six Keys of Eudoxus" as an allegorical and oper
 * **Non-Discarding of the Caput Mortuum:** Unlike vulgar chemistry which discards slag, Hermetic chemistry purifies the heavy "faeces" at the bottom of the vessel to extract the Fixed Salt, proving that the grossest matter contains the root of light [1650–1652].
 * **Fermentation as the Engine of Growth:** Spiritual multiplication follows the exact law of organic leavening—a small quantity of the perfected ferment transforms the whole mass into its own nature [1673–1674].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 
@@ -58,7 +58,7 @@ Part IV, Chapter 3 presents "The Six Keys of Eudoxus" as an allegorical and oper
 * **Philosophical Paste & Leaven (*Fermentatio*)**
 * **Land of Promise (*Terra Philosophica*)**
 
----
+
 
 ### 5. Key Direct Quotes
 

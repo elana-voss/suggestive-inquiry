@@ -1,10 +1,11 @@
-# Chapter Summary: Part I, Chapter II
+# Chapter 2: Theory of Transmutation and First Matter
+
 ## Of the Theory of Transmutation in General, and of the First Matter
 
 ### 1. Chapter Core Thesis
 Metalline transmutation does not attempt the impossible task of altering fixed, indestructible species (such as changing lead as lead directly into gold) [216, 218]. Instead, through the process of Solution, the individual body is reduced to its corruptible subject-matter—its radical moisture or First Matter (Philosophic Mercury) [217, 218]. Once freed from its crude external form, this Universal Subject is re-informed and exalted by the application of its own internal Formal Light [222, 223].
 
----
+
 
 ### 2. Section-by-Section Breakdown
 
@@ -36,7 +37,7 @@ Metalline transmutation does not attempt the impossible task of altering fixed, 
 * **Metalline Radix & Gold**: While present throughout nature, the First Matter is most closely allied to gold, which dissolves in it gently without noise or violence "like ice in warm water" [297, 298].
 * **Application Across Three Kingdoms**: The Great Art applies to animals, vegetables, and minerals, but is most easily practiced in the mineral kingdom because minerals consist primarily of proportion and composition rather than complex vital organization [289, 300, 301].
 
----
+
 
 ### 3. Primary Conceptual Takeaways
 * **Species vs. Subject**: Transmutation operates on the corruptible *subject* of a species by reducing it to its First Matter through *Solution*, not by changing one specific form directly into another [216–218].
@@ -44,7 +45,7 @@ Metalline transmutation does not attempt the impossible task of altering fixed, 
 * **Operational Inversion (*Solve et Coagula*)**: Perfection requires inverting ordinary natural procedure—dissolving the fixed, volatilizing the dissolved, and re-fixing the volatile [243, 244].
 * **The Tria Prima in Unity**: Salt, Sulfur, and Mercury are not three distinct chemical ingredients, but three modal relations (agent, patient, offspring) of the one Ethereal Being [275, 280, 284].
 
----
+
 
 ### 4. Vocabulary & Esoteric Terms Introduced
 * **First Matter (*Prima Materia* / Universal Subject / Hyle)** [218, 221, 259]
@@ -58,7 +59,7 @@ Metalline transmutation does not attempt the impossible task of altering fixed, 
 * **Green Lion / Toad / Dragon (Intermediate Alchemical States)** [282]
 * **Stone of Fire / *Lapis Ignis*** [287]
 
----
+
 
 ### 5. Key Direct Quotes
 1. *"Species non transmutantur, sed subjecta specierum optime et propriisime: --- therefore the first work is to reduce the body into water, that is, into mercury, and this is called Solution, which is the foundation of the whole art."* — Friar Roger Bacon [Cited in Passage 217]
