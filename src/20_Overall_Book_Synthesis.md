@@ -1,84 +1,53 @@
 # Overall Book Synthesis
 
-## Executive Summary & Macro-Arc
-Mary Anne Atwood's 1850 masterpiece, *A Suggestive Inquiry into the Hermetic Mystery*, represents one of the most ambitious, rigorous, and profound restorations of Hermetic philosophy in modern history. The book's macro-arc spans four structured parts and an authorial appendix, systematically deconstructing the superficial, physical caricatures of alchemy to expose its true nature as an **internal, experimental, and theurgic science of divine human regeneration**.
+*A Suggestive Inquiry into the Hermetic Mystery* sets out to show what the Hermetic art really was and how it was worked. Atwood's central claim is that one sacred, experimental science runs through the whole tradition, and that its single living subject, the "mercurial first matter" (I.2 ¶3), is finally found in man: "Man then, shall we conclude at length, is the true laboratory of the Hermetic art" (II.1 ¶30). The book moves from the art's public history and theory, through its identity with the ancient Mysteries, to the laws of the experiment and its practice. It ends on the formula "Life is the nucleus of the whole Hermetic Mystery, and the Key thereof is Light" (IV.4 ¶32). On this account gold and the elixir are by-products of a "Vital Experiment" (II.4 ¶58) whose real aim is the regeneration of the one who works it.
 
-```
-PART I: Exoteric View
-└─ Historical transmission, theoretical physics, and operational allegory (Tractatus Aureus).
-   └─ Core Discovery: Transmutation operates on the Universal Subject, not fixed species.
+## How the argument unfolds
 
-PART II: Esoteric Consideration
-└─ Stripping the chemical disguise to expose the True Subject: MAN himself.
-   └─ Core Discovery: The Mysteries were Theurgy; Solve et Coagula is internal psychical regeneration.
+**Part I, An Exoteric View of the Progress and Theory of Alchemy**, looks at the art from outside. Its history is offered to show that Atwood's later propositions "are not gratuitous" (I.1 ¶4). From Hermes and the Smaragdine Table onward, the masters wrote "under coverts" (I.1 ¶15), so that "the roots of the Hermetic science are fairly stated; but the practice most carefully concealed" (I.1 ¶39). Pretenders who placed the truth "in salts, or niters, or boraxes" taught the world to "despise alchemy" (I.1 ¶53). Turning to theory, Atwood links the first matter, "mercury", to the ancients' hidden fire, the Ether (I.2 ¶5, ¶12). She concludes that the Stone is "the pure Ethereality of nature, separated by artificial means, purified and made concrete" by its own Light (I.2 ¶44). Her footnotes to the Golden Treatise read its images as this subject being dissolved and revived (I.3 n7, ¶49). The Part closes with the source of the Matter still unshown: "whence, when or how the Matter is to be taken" (I.3 n71).
 
-PART III: Laws & Vital Conditions
-└─ The experimental method, active darkness (Caligo Divina), interior manifestations, and moral requisites.
-   └─ Core Discovery: Alchemy is an a priori inquisition of causes requiring absolute moral rectitude.
+**Part II, A More Esoteric Consideration of the Hermetic Art and its Mysteries**, answers that gap by turning inward. Atwood argues that modern chemistry shares nothing with Alchemy "beyond the borrowed terms" (II.1 ¶5). Through a chain of authorities she reports with approval, she argues that man, as microcosm, is the subject, matter and vessel (II.1 ¶9–15, ¶30). She then identifies the Art with the Theurgy of the Mysteries (II.2 ¶3). She sets the Mysteries beside Mesmerism, which works "in the same material and with similar instruments" but without the ancients' principles (II.2 ¶7–8). She names the subject as the Common Soul, the alchemists' "thing indifferent, abject, and exposed in all hands" (II.2 ¶17–18). She follows the initiate down into Hades, "a state of vital submersion" (II.3 ¶7), through a second death that dissolves the "sensual compact" "all without destruction to the mortal body" (II.3 ¶37), and up to a formless Divine Light and union "in Identity" (II.4 ¶42). This consummation, she says, is "the ground of the Hermetic philosophy" (II.4 ¶52).
 
-PART IV: Hermetic Practice
-└─ Direct operational execution: Gross Work (manual purification) -> Subtle Work -> Six Keys of Eudoxus -> Deification.
-   └─ Core Discovery: The Philosopher's Stone is the divinized human consciousness fixed in the waking frame.
+**Part III, Concerning the Laws and Vital Conditions of the Hermetic Experiment**, turns from what the art was to how it was done. The first matter is a real life known only by experiment within one's own being (III.1 ¶3), finally "our Identity. This is the true Hermetic material" (III.2 ¶7). It is worked by Intellect, "no other Fire but that of Intellect" (III.2 ¶62), with "Mind to be the true Separator" (III.1 ¶21). The Part sets out a ferment, a putrefaction driven by the wrathful Efficient, and a reunion of agent and patient "under another law" as "the Elixir of Life" (III.1 ¶24, ¶49, ¶56). It then gives the manifestations in order, from the first Water to the Stone, with two conjunctions called "Mercury and Gold" (III.3 ¶3–30). Since the agent is "Springing directly from ourselves" (III.4 ¶9), the operator's character becomes a condition of the experiment. On this ground avarice, pride and disbelief count as impediments within the work itself (III.4 ¶3–7).
 
-APPENDIX: Table Talk & Memorabilia
-└─ Unvarnished practical clarification: Mesmerism, auto-magnetism, the Three Lives, and the Cross.
-   └─ Core Discovery: Auto-magnetism ferments the vital spirit, completing the circle of Eternity.
-```
+**Part IV, The Hermetic Practice**, carries this into procedure. The Gross Work begins with "entrancing the senses in their own medial light", which is "a beginning only" (IV.1 ¶3–4). It goes on with a slow manual trituration (IV.1 ¶5, ¶13), then moves inward to "the Solution of the Philosophic Salt (i.e., the voluntary bond)" (IV.1 ¶36), where "Everything depends upon the Motive" (IV.1 ¶44). The Subtle Work reduces "the Ternary by the Quaternary, through the rejection of the Binary, to the simplicity of the Monad" (IV.2 ¶18). It needs "quietude and a cessation of mental energy" (IV.2 ¶33) and ends in "sudden illumination" (IV.2 ¶41). The Six Keys of Eudoxus give the most operational language. Atwood reads their Fermentation as "the union of man, reduced to the simplicity of the Monad, with God" (IV.3 ¶27). The Conclusion restates the whole: "Man was the proper laboratory of the whole Art" (IV.4 ¶3), and success comes "by conditionating, in obedience to the Divine Will" (IV.4 ¶23).
 
+Each Part builds on the one before. Part I describes the subject but withholds its source. Part II locates it in man and in the Mysteries. Part III gives the laws by which it is worked. Part IV gives the practice, while still keeping back "an important link" (IV.2 ¶45).
 
+## The method in outline
 
-## Sequential Section-by-Section Synthesis
+The Part pages establish the following. The full statement is in [The Method in Plain Terms](23_The_Method_in_Plain_Terms.md).
 
-### Part I: An Exoteric View of the Progress and Theory of Alchemy
-* **Chapter I (History & Lineage):** Traces the Hermetic tradition from ancient Egypt (*Chemia*) through Persia, Greece, Arabia, and medieval Europe. It refutes the notion that alchemy was a greedy quest for physical gold-making, demonstrating that true adepts (*Geber, Flamel, Lully, Bacon*) veiled a divine hyperphysical science behind "gibberish" and allegorical riddles (*Aelia Laelia Crispis*) to protect it from profane abuse.
-* **Chapter II (Theory of Transmutation):** Establishes the core physical axiom: **species are indestructible**, so alchemy does not change lead *as lead* into gold. Instead, it reduces the individual subject to its underlying **First Matter** (*radical moisture* or *Philosophic Mercury*) through **Solution**, allowing a superior ferment (**Formal Light**) to impress a new Form upon it (*Solve, Coagula, Fige*).
-* **Chapter III (Tractatus Aureus):** Analyzes the seven-fold operational path of the Golden Treatise of Hermes. It outlines the death of the **Crow** (*Nigredo*), the ascension of the **Vulture**, the self-devouring **Dragon**, and the multiplicative power of the solar ferment (**Ixir**).
+- **Subject.** One root substance common to all things (I.2 ¶8), defined as "the simple generated substance of life and light, immanifestly flowing throughout nature" (I.2 ¶34). In man it is his own vital life: "This matter, O king, is extracted from thee" (II.1 ¶8), the Common Soul (II.2 ¶17–18), and finally "our Identity" (III.2 ¶7).
+- **Vessel.** Man himself (II.1 ¶30; IV.4 ¶3). Part III also calls it the gross body (III.3 ¶24) and a glass vessel that "the Spirit finally constructs" (III.4 ¶31–32).
+- **Agent.** The subject carries its own light (I.3 n5) and, in Aquinas's words endorsed by Atwood, "dissolves and coagulates itself" (I.2 ¶11). Later Parts name the agent as Intellect (III.2 ¶62), "an invisible Artist" (IV.2 ¶18), "the Fire of the Wise" (IV.3 ¶5) and the "ray of motive Light", "the true Form of Gold" (IV.4 ¶9). Reading these as one agent is an interpretation; the Part pages note that the text does not settle how they relate.
+- **Operator.** He needs "study, experience, and the divine benediction" (I.3 n1), consent by will, for "Will is the greatest part of purgation" (II.2 ¶13), and "a motive purely rational" (II.3 ¶9). He must be receptive rather than straining (III.2 ¶57) and upright in intention (III.4 ¶11). His role narrows from hand and will in the Gross Work to keeping heat and keeping silent in the Subtle Work (IV.1 ¶5, ¶31; IV.2 ¶18, ¶33).
+- **Stages.** Solution or dissolution of the sensible medium (I.2 ¶5; II.3 ¶5); purification of the imaginative spirit (II.2 ¶13); descent into darkness, the "happy gate" of blackness (I.3 n42; II.3 ¶37); the colours; two conjunctions (III.3 ¶30); the Stone; multiplication (IV.3 ¶3–16). The Parts give these in parallel schemes. Reading them as one sequence is an interpretation, and the text does not map them onto each other.
+- **Signs.** Turmoil "like a tempestuous sea" (III.1 ¶24), images "as in dreams, only more intense" (II.3 ¶22), blackness, the peacock's colours, whiteness before red (I.1 ¶60; III.3 ¶13, ¶19), and "sudden illumination" (IV.2 ¶41).
+- **Result.** Gold, healing and moral regeneration (I.1 ¶57, ¶66); "the living gold of the philosophers" (III.1 ¶49); reason becoming an immortal Light (III.3 ¶80); "a new birth, superior to nature" (IV.4 ¶12).
 
-### Part II: A More Esoteric Consideration of the Hermetic Art and its Mysteries
-* **Chapter I (The True Subject & Concealed Root):** Strips away the chemical facade, revealing that the **True Subject** and **Concealed Vessel** (*Vas Philosophorum*) is **Man himself**—the complete microcosm containing the full anatomy of the macrocosm.
-* **Chapter II & III (The Mysteries):** Re-evaluates the Egyptian, Eleusinian, and Bacchic Mysteries as efficacious spiritual operations (**Theurgy**). Citing Neoplatonists (*Plotinus, Proclus, Iamblichus*), Atwood demonstrates that initiation progressed through *Katharsis* (purification), *Myesis* (sensory closure), and *Epopteia* (beatific vision). Mesmerism is introduced as the "vestibule" or physical door-keeper to this vital trance.
-* **Chapter IV (The Mysteries Concluded):** Maps the soul's ascent through the **Cave of the Nymphs**, shedding the bestial "hide of the ass" before Queen Isis, and achieving non-dual union with the **Paternal Monad**.
+**Main decoding keys** (stated unless marked): Mercury is the philosophers' first matter (I.2 ¶5). Salt, Sulfur and Mercury are "modes of being of the same thing" (I.2 ¶39). Gold, Sol and Sulfur are names for Reason or Intellect (III.1 ¶21). The Moon is "the Passive Intelligence" (III.1 ¶40). The Sphinx is the unpurified imaginative Spirit (II.2 ¶15) and, in Part III, the Ether (III.1 ¶20). Typhon and the Green Lion are the wrathful Efficient of dissolution (III.1 ¶56). Hades and Black Saturn are consciousness submerged beneath sense (II.3 ¶7, ¶18). The head of the crow is the willed dissolution of the soul's bond to the body (II.3 ¶37). The Philosophic Salt is "the voluntary bond" (IV.1 ¶36). The Motive is "the true spiritual ferment" (IV.1 ¶44). Fermentation is the union of man with God (IV.3 ¶27). The seat of the matter in the arterial blood is an interpretation (II.1 ¶21).
 
-### Part III: Concerning the Laws and Vital Conditions of the Hermetic Experiment
-* **Chapter I (Experimental Method & Paracelsians):** Contrasts modern *a posteriori* inductive physics with the ancient *a priori* experimental inquisition of causes. It introduces the **Sphinx** as the guardian Ether, internal pyrotechny (*microcosmic Antimony*), and the **Hunting of the Green Lion**.
-* **Chapter II (Analysis of Initial Principle):** Explores the negative absoluteness of Deity (*Ain*) and the eduction of Light out of **Active Darkness** (*Caligo Divina* / *Tenebrae Activae*). It details Boehme's vision of the Bysse and Abysse and the necessity of binding the **Protean Flux**.
-* **Chapter III (Manifestations of Matter):** Details the interior phenomena of regeneration: the **Tears of Isis** (*Aqua Philosophica*), the nuptials of Mars and Venus, the polychromatic display of the **Peacock's Tail** (*Cauda Pavonis*), and the **Northern Fixation**.
-* **Chapter IV (Mental Requisites & Impediments):** Outlines the disqualifications for operators (*Avarice, Mammon-worship, levity*), the necessity of **Threefold Prayer** (*Theurgic Invocation*), and the strict concordance of environmental place and moral purity.
+## The Appendix: a later layer
 
-### Part IV: The Hermetic Practice
-* **Chapter I (The Gross Work):** Focuses on the physical handicraft (*opus manuale*) of **Vital Purification**. The human hand ("instrument of instruments") is used via gentle, continuous coction (*festina lente*) to dissolve the hard body of sense into its radical moisture.
-* **Chapter II (The Subtle Work):** Details the inner sublimation (*opus subtile*) governed by **Elias Artista**. It establishes the exact parallel between alchemical transmutation and Christian salvation, culminating in the **Quadrature of the Circle** (*Divine Tetractys*), fermentation, multiplication, and projection.
-* **Chapter III (The Six Keys of Eudoxus):** Unpacks the six practical keys: 1. Extraction (*Caput Corvi*); 2. Dissolution (*Secret Fire*); 3. Conversion of Elements (*Vinegar of the Wise / Bath of Sun and Moon*); 4. Fixation (*Land of Promise*); 5. Fermentation (*Leaven*); 6. Multiplication (*Rotations of Solve et Coagula*).
-* **Chapter IV (The Conclusion):** Re-affirms that Man is the living laboratory. The **Philosopher's Stone** is defined as the **perfected, divinized human consciousness** made concrete within the waking frame, uniting physical and moral sciences into a single **Causal Science of Life**.
+The Table Talk and Memorabilia is headed "Begun August 1860". It is a set of numbered sayings, not a continuous argument, and it stands apart from the 1850 text (APP ¶1). In it Atwood restates the Art in compressed form as "an universal art of vital chemistry" (APP ¶6). She also adds or sharpens several points.
 
-### Appendix: Table Talk and Memorabilia of Mary Anne Atwood
-* **Explicit Practical Clarifications:** Notes recorded from 1860 onward providing unvarnished insights:
-  1. **The Three Lives:** Terrestrial (Animal/Head), Celestial (Vegetable/Heart/Solar Plexus), and Infernal (Mineral/Lumbar/Will) [1868–1870].
-  2. **The Metaphysical Cross:** Formed by the intersection of vertical passes (withdrawing from sense) and transverse passes (restoring sense) [1858–1859].
-  3. **Auto-Magnetism:** The transition from external operator-patient mesmerism to self-directed, internal Hermetic fermentation driven by the Divine Will [1851, 1857, 1873, 1960].
-  4. **The Ashes (*Caput Mortuum*):** The underlying principle of body saved as "our pigmy" or "diadem of the body," from which resurrection occurs [1865].
+- **Three Lives.** The Terrestrial (head), Celestial or medial (epigastric) and Infernal or voluntary (lumbar) lives, with the aim "to reverse the whole action of these lives in their natural order" (APP ¶32–35). The Stone is the lowest, mineral life perfected (APP ¶44, ¶46). The Appendix calls this lowest life both what man is fallen into and the state reached by fermentation, and leaves open whether these are the same life before and after its release (APP ¶2–3, ¶22). The 1850 Part pages do not contain this scheme.
+- **Fermentation as the central operation.** Life is fermented "by another life" (APP ¶132), and when one fermented life passes into another equally fermented, the patient becomes more perfect than the agent was (APP ¶42). The work is "an action of agent on patient, and the reaction of patient, advancing, on agent" (APP ¶111), and must be "gone over and over again" (APP ¶17). The Appendix page leaves open whether the fermenting "similar" is another person's life or the same life acting on itself (APP ¶2–3).
+- **Will.** "Will has substance, nay, is the only substance" (APP ¶8). Will is the Salt (APP ¶65), and "Saturn (i.e., Will) has the Key to the prison where Sulphur lies bound" (APP ¶125). Self-will makes power "diabolical" (APP ¶4–5), and forming the First Matter for private ends is "the true idolatry" (APP ¶37). This restates the 1850 emphasis on will and Motive (II.2 ¶13; IV.1 ¶44) more sharply.
+- **Body and blood.** "The process takes place in and through the human body in the blood" (APP ¶6). Salt, Mercury and Sulphur become the blood's Attraction, Circulation and Repulsion (APP ¶24). This bears on a question Part II left open, whether "attraction, repulsion, and circulation" restate the three principles (II.1 ¶14).
+- **Signs.** The purplish Golden Fleece (APP ¶22), a "sudden coruscation" (APP ¶126), and a breathless body with soul and spirit held to it "as by a thread" (APP ¶96).
+- **Definitions.** "The One Thing; it is our psychical essence; our nervous system" (APP ¶176); "The soul in its metalline perfection is the philosopher's stone" (APP ¶181); "Alchemy is philosophy" (APP ¶183). Atwood also holds the Hermetic to be "the only true key" to Homer and Virgil (APP ¶157), and ranks Behmen, who was "in the Experience", above the metaphysicians (APP ¶96).
 
+## Open questions
 
+The Part pages record these points as left open:
 
-## Evolution of the Master Lexicon & Hermeneutic Vocabulary
-
-Throughout the text, Atwood's vocabulary undergoes a deliberate, multi-layered evolution:
-
-| Domain | Exoteric / Historical Phase (Part I) | Esoteric / Psychical Phase (Part II) | Experimental / Theurgic Phase (Part III) | Practical / Operational Phase (Part IV & Appendix) |
-| :--- | :--- | :--- | :--- | :--- |
-| **The Subject** | Base metals, Quicksilver, Lead, Gold | Man as Microcosm, Vital Spirit | Active Darkness (*Caligo Divina*), *Ain*, Proteus | Three Lives (Terrestrial, Celestial, Infernal), Lumbar Will |
-| **The Vessel** | Crucible, Alembic, Glass Vessel | *Vas Philosophorum*, Human Organism | Sphinx, Athanor, Internal Laboratory | Human Body, *Caput Mortuum*, Epigastric Solar Plexus |
-| **The Agent / Fire** | Common Coal Fire, External Heat | Vital Trance, Animal Magnetism, *Pneuma* | Microcosmic Antimony, Rational Fire, Perscrutinator | Secret Fire (*Ignis Secretus*), Auto-Magnetism, Vertical Passes |
-| **The Process** | Chemical Distillation, Solution | *Katharsis*, *Myesis*, *Epopteia*, *Descensus Averni* | Grafting of Spirit, Northern Fixation, *Cauda Pavonis* | Gross Work (*Opus Manuale*), Subtle Work, Six Keys of Eudoxus |
-| **The Goal** | Transmutation Powder, Gold | Divine Rebirth, *Nosce Te Ipsum*, Monad Union | Divine Tetractys, Resurrected Stone | Living Philosopher's Stone, Palingenesia, The Metaphysical Cross |
-
-
-
-## Ultimate Theoretical & Practical Conclusions
-
-1. **Unity of Matter & Non-Dual Spirit:** Matter and Spirit are not two alien substances, but two ends of a single continuum. Matter is condensed, solidified Spirit (*Salt*), and Spirit is volatile, ethereal Matter (*Mercury*).
-2. **The True Philosopher's Stone:** The Stone is neither a physical mineral nor an abstract metaphor—it is **the divinized, regenerated human soul and body**, wherein the Noetic Light has been permanently fixed within the waking physical frame (*Jivanmukti*).
-3. **The Mechanism of Regeneration (*Solve et Coagula*):**
-   * **Solve (Dissolution & Ascent):** The vital spirit is withdrawn from the physical senses via vertical passes/trance, dissolved into its radical moisture, and raised through the Celestial life to merge with the Divine Mind (*Fire/Nous*).
-   * **Coagula (Fixation & Descent):** The newly illuminated Divine Will directs the Noetic Light back downward to lock into the purified physical vessel (*Salt/Ashes*), transforming the waking human being into a living conduit of Causal Power.
-4. **The Moral Imperative:** The Great Work cannot be accomplished by avarice, pride, or intellectual curiosity. Because the operator's mind and the alchemical vessel are identical, only absolute moral rectitude, self-ablation, and divine grace can open the door to the **Religion of Intellect**.
+- The source of the Matter: "whence, when or how the Matter is to be taken" (I.3 n71), together with the practical means on which the Initiated were silent (II.1 ¶53).
+- The "important link" of practice that Atwood withholds (IV.2 ¶45), the device passed almost only by word of mouth (IV.4 ¶7), and "the Master Key", named but not explained (III.4 ¶47).
+- The identity of "the Fire of the Wise" (IV.3 ¶5), and how the various named agents relate.
+- Whether the Moon, the Passive Intelligence, and the reciprocating "Subject" are an inner faculty or a second person (III.1 ¶40; III.4 ¶29).
+- Whether the "voluntary bond" is the soul–body bond or self-will (IV.1 ¶36).
+- The exact relation of Mesmerism to the Hermetic practice, called "a first key" and "the neglected Door-keeper" (III.1 ¶8; III.4 ¶13).
+- How the stage schemes of the four Parts, and the First and Second Operations of the Gross Work, map onto one another (IV.1 ¶16–17).
+- Undefined terms, including the Pontic Medium (II.4 ¶49), Aquaster and Fire World (II.3 ¶16, ¶41), Latex (II.1 ¶47) and "Identic co-operation" (IV.4 ¶12).

@@ -1,24 +1,27 @@
 # Suggestive Inquiry: Summaries and Hermetic Lorebook
 
-Chapter-by-chapter summaries of Mary Anne Atwood's *A Suggestive Inquiry into the Hermetic Mystery* (1850), published as an mdBook, with a SillyTavern lorebook extracted from those summaries.
+A structured digest of Mary Anne Atwood's *A Suggestive Inquiry into the Hermetic Mystery* (1850), published as an mdBook, with a SillyTavern worldbook built from its lexicon. The book is the only source: quotations are verbatim with paragraph/footnote references, and nothing is added from outside knowledge.
 
 Read the book online: <https://elana-voss.github.io/suggestive-inquiry/>
 
 ## Lorebook
 
-The generated SillyTavern World Info file ships in this repo:
-[`lorebook/Atwood_Hermetic_Mystery.json`](https://raw.githubusercontent.com/elana-voss/suggestive-inquiry/main/lorebook/Atwood_Hermetic_Mystery.json). Download it and import it in SillyTavern under World Info, Import.
+[`lorebook/Atwood_Hermetic_Mystery.json`](https://raw.githubusercontent.com/elana-voss/suggestive-inquiry/main/lorebook/Atwood_Hermetic_Mystery.json) — one entry per term, person, work or voice in the Master Lexicon. Download it and import it in SillyTavern under World Info, Import.
 
-Entries ship in Normal mode and trigger on their keywords. If those terms rarely come up naturally in your chats, switching entries to Vectorized may give better results. Note that this requires embeddings to be set up under Data Bank / Vector Storage.
+Entries ship in Normal mode and trigger on the forms of each headword found in the text. If those terms rarely come up naturally in your chats, switching entries to Vectorized may give better results (requires embeddings under Data Bank / Vector Storage).
 
-To regenerate it from the chapter summaries:
+## How it was made
+
+- `input/` — the book's text, split into chapters and footnotes; `chunks/` — the same, cut into referenced chunks.
+- `prompts/` — instructions for the reading, synthesis, dictionary and checking agents; `prompts/rules_core.md` holds the binding rules.
+- `scripts/` — chunking, bundling, verbatim quote checks, dictionary extraction/rendering, and worldbook generation.
+- `PLAN.md` — the method; `RUNBOOK.md` — run notes.
+
+Every chunk was read by one or two independent agents and reconciled; every synthesized page and dictionary batch was checked against its inputs by a separate checker agent and by a script that verifies each quotation verbatim against the source.
+
+Regenerate the lexicon page and worldbook from the checked dictionary batches (kept outside git in `work/`):
 
 ```bash
-pip install openai pydantic
-export LLM_API_KEY="your_api_key"                  # required, any OpenAI-compatible provider
-export LLM_BASE_URL="https://nano-gpt.com/api/v1"  # optional, defaults to OpenAI
-export LLM_MODEL="z-ai/glm-5.3:thinking"           # optional, must support structured output
-python lorebook/generate_lorebook.py
+python3 scripts/dict_render.py all      # src/22_Master_Lexicon_and_Concordance.md + work/dict/dictionary.json
+python3 scripts/dict_worldbook.py       # lorebook/Atwood_Hermetic_Mystery.json
 ```
-
-The script reads all summaries from `src/` and writes `lorebook/Atwood_Hermetic_Mystery.json`.

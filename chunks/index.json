@@ -1,0 +1,2064 @@
+[
+ {
+  "chunk": "I.1_01",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   1,
+   143
+  ],
+  "paragraphs": [
+   1,
+   11
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "words_text": 2280,
+  "words_notes": 110
+ },
+ {
+  "chunk": "I.1_02",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   144,
+   329
+  ],
+  "paragraphs": [
+   12,
+   21
+  ],
+  "footnotes": [
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "words_text": 2203,
+  "words_notes": 171
+ },
+ {
+  "chunk": "I.1_03",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   330,
+   496
+  ],
+  "paragraphs": [
+   22,
+   36
+  ],
+  "footnotes": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42
+  ],
+  "words_text": 2336,
+  "words_notes": 174
+ },
+ {
+  "chunk": "I.1_04",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   497,
+   643
+  ],
+  "paragraphs": [
+   37,
+   46
+  ],
+  "footnotes": [
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "words_text": 2275,
+  "words_notes": 218
+ },
+ {
+  "chunk": "I.1_05",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   644,
+   815
+  ],
+  "paragraphs": [
+   47,
+   57
+  ],
+  "footnotes": [
+   56,
+   57,
+   58,
+   59,
+   60,
+   61
+  ],
+  "words_text": 2543,
+  "words_notes": 80
+ },
+ {
+  "chunk": "I.1_06",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   816,
+   991
+  ],
+  "paragraphs": [
+   58,
+   65
+  ],
+  "footnotes": [
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72
+  ],
+  "words_text": 2363,
+  "words_notes": 126
+ },
+ {
+  "chunk": "I.1_07",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   992,
+   1150
+  ],
+  "paragraphs": [
+   66,
+   73
+  ],
+  "footnotes": [
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93
+  ],
+  "words_text": 2477,
+  "words_notes": 245
+ },
+ {
+  "chunk": "I.1_08",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   1151,
+   1295
+  ],
+  "paragraphs": [
+   74,
+   83
+  ],
+  "footnotes": [
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107
+  ],
+  "words_text": 2302,
+  "words_notes": 135
+ },
+ {
+  "chunk": "I.1_09",
+  "chapter": "I.1",
+  "source": "0001_part_I_chapter_I.txt",
+  "lines": [
+   1296,
+   1348
+  ],
+  "paragraphs": [
+   84,
+   86
+  ],
+  "footnotes": [
+   108,
+   109,
+   110,
+   111,
+   112,
+   1742
+  ],
+  "words_text": 809,
+  "words_notes": 42
+ },
+ {
+  "chunk": "I.2_01",
+  "chapter": "I.2",
+  "source": "0002_part_I_chapter_II.txt",
+  "lines": [
+   1,
+   156
+  ],
+  "paragraphs": [
+   1,
+   15
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "words_text": 2280,
+  "words_notes": 126
+ },
+ {
+  "chunk": "I.2_02",
+  "chapter": "I.2",
+  "source": "0002_part_I_chapter_II.txt",
+  "lines": [
+   157,
+   309
+  ],
+  "paragraphs": [
+   16,
+   30
+  ],
+  "footnotes": [
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32
+  ],
+  "words_text": 2252,
+  "words_notes": 176
+ },
+ {
+  "chunk": "I.2_03",
+  "chapter": "I.2",
+  "source": "0002_part_I_chapter_II.txt",
+  "lines": [
+   310,
+   463
+  ],
+  "paragraphs": [
+   31,
+   43
+  ],
+  "footnotes": [
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42
+  ],
+  "words_text": 2365,
+  "words_notes": 88
+ },
+ {
+  "chunk": "I.2_04",
+  "chapter": "I.2",
+  "source": "0002_part_I_chapter_II.txt",
+  "lines": [
+   464,
+   627
+  ],
+  "paragraphs": [
+   44,
+   51
+  ],
+  "footnotes": [
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51
+  ],
+  "words_text": 2566,
+  "words_notes": 75
+ },
+ {
+  "chunk": "I.3_01",
+  "chapter": "I.3",
+  "source": "0003_part_I_chapter_III.txt",
+  "lines": [
+   1,
+   62
+  ],
+  "paragraphs": [
+   1,
+   13
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "words_text": 976,
+  "words_notes": 2491
+ },
+ {
+  "chunk": "I.3_02",
+  "chapter": "I.3",
+  "source": "0003_part_I_chapter_III.txt",
+  "lines": [
+   63,
+   142
+  ],
+  "paragraphs": [
+   14,
+   27
+  ],
+  "footnotes": [
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "words_text": 1324,
+  "words_notes": 2325
+ },
+ {
+  "chunk": "I.3_03",
+  "chapter": "I.3",
+  "source": "0003_part_I_chapter_III.txt",
+  "lines": [
+   143,
+   170
+  ],
+  "paragraphs": [
+   28,
+   35
+  ],
+  "footnotes": [
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "words_text": 423,
+  "words_notes": 1945
+ },
+ {
+  "chunk": "I.3_04",
+  "chapter": "I.3",
+  "source": "0003_part_I_chapter_III.txt",
+  "lines": [
+   171,
+   208
+  ],
+  "paragraphs": [
+   36,
+   44
+  ],
+  "footnotes": [
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "words_text": 615,
+  "words_notes": 950
+ },
+ {
+  "chunk": "I.3_05",
+  "chapter": "I.3",
+  "source": "0003_part_I_chapter_III.txt",
+  "lines": [
+   209,
+   278
+  ],
+  "paragraphs": [
+   45,
+   62
+  ],
+  "footnotes": [
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71
+  ],
+  "words_text": 1116,
+  "words_notes": 2230
+ },
+ {
+  "chunk": "II.1_01",
+  "chapter": "II.1",
+  "source": "0004_part_II_chapter_I.txt",
+  "lines": [
+   1,
+   156
+  ],
+  "paragraphs": [
+   1,
+   10
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "words_text": 2568,
+  "words_notes": 50
+ },
+ {
+  "chunk": "II.1_02",
+  "chapter": "II.1",
+  "source": "0004_part_II_chapter_I.txt",
+  "lines": [
+   157,
+   303
+  ],
+  "paragraphs": [
+   11,
+   23
+  ],
+  "footnotes": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19
+  ],
+  "words_text": 2230,
+  "words_notes": 113
+ },
+ {
+  "chunk": "II.1_03",
+  "chapter": "II.1",
+  "source": "0004_part_II_chapter_I.txt",
+  "lines": [
+   304,
+   449
+  ],
+  "paragraphs": [
+   24,
+   32
+  ],
+  "footnotes": [
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "words_text": 2394,
+  "words_notes": 92
+ },
+ {
+  "chunk": "II.1_04",
+  "chapter": "II.1",
+  "source": "0004_part_II_chapter_I.txt",
+  "lines": [
+   450,
+   589
+  ],
+  "paragraphs": [
+   33,
+   41
+  ],
+  "footnotes": [
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37
+  ],
+  "words_text": 2240,
+  "words_notes": 86
+ },
+ {
+  "chunk": "II.1_05",
+  "chapter": "II.1",
+  "source": "0004_part_II_chapter_I.txt",
+  "lines": [
+   590,
+   743
+  ],
+  "paragraphs": [
+   42,
+   53
+  ],
+  "footnotes": [
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "words_text": 2596,
+  "words_notes": 102
+ },
+ {
+  "chunk": "II.2_01",
+  "chapter": "II.2",
+  "source": "0005_part_II_chapter_II.txt",
+  "lines": [
+   1,
+   154
+  ],
+  "paragraphs": [
+   1,
+   9
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "words_text": 2325,
+  "words_notes": 97
+ },
+ {
+  "chunk": "II.2_02",
+  "chapter": "II.2",
+  "source": "0005_part_II_chapter_II.txt",
+  "lines": [
+   155,
+   286
+  ],
+  "paragraphs": [
+   10,
+   16
+  ],
+  "footnotes": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "words_text": 2235,
+  "words_notes": 59
+ },
+ {
+  "chunk": "II.2_03",
+  "chapter": "II.2",
+  "source": "0005_part_II_chapter_II.txt",
+  "lines": [
+   287,
+   412
+  ],
+  "paragraphs": [
+   17,
+   30
+  ],
+  "footnotes": [
+   16,
+   17,
+   18,
+   19,
+   20
+  ],
+  "words_text": 1886,
+  "words_notes": 46
+ },
+ {
+  "chunk": "II.3_01",
+  "chapter": "II.3",
+  "source": "0006_part_II_chapter_III.txt",
+  "lines": [
+   1,
+   159
+  ],
+  "paragraphs": [
+   1,
+   19
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "words_text": 2209,
+  "words_notes": 303
+ },
+ {
+  "chunk": "II.3_02",
+  "chapter": "II.3",
+  "source": "0006_part_II_chapter_III.txt",
+  "lines": [
+   160,
+   306
+  ],
+  "paragraphs": [
+   20,
+   32
+  ],
+  "footnotes": [
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37
+  ],
+  "words_text": 2265,
+  "words_notes": 273
+ },
+ {
+  "chunk": "II.3_03",
+  "chapter": "II.3",
+  "source": "0006_part_II_chapter_III.txt",
+  "lines": [
+   307,
+   453
+  ],
+  "paragraphs": [
+   33,
+   45
+  ],
+  "footnotes": [
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49
+  ],
+  "words_text": 2228,
+  "words_notes": 144
+ },
+ {
+  "chunk": "II.3_04",
+  "chapter": "II.3",
+  "source": "0006_part_II_chapter_III.txt",
+  "lines": [
+   454,
+   587
+  ],
+  "paragraphs": [
+   46,
+   56
+  ],
+  "footnotes": [
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62
+  ],
+  "words_text": 2063,
+  "words_notes": 99
+ },
+ {
+  "chunk": "II.4_01",
+  "chapter": "II.4",
+  "source": "0007_part_II_chapter_IV.txt",
+  "lines": [
+   1,
+   170
+  ],
+  "paragraphs": [
+   1,
+   17
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "words_text": 2574,
+  "words_notes": 119
+ },
+ {
+  "chunk": "II.4_02",
+  "chapter": "II.4",
+  "source": "0007_part_II_chapter_IV.txt",
+  "lines": [
+   171,
+   345
+  ],
+  "paragraphs": [
+   18,
+   29
+  ],
+  "footnotes": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22
+  ],
+  "words_text": 2652,
+  "words_notes": 113
+ },
+ {
+  "chunk": "II.4_03",
+  "chapter": "II.4",
+  "source": "0007_part_II_chapter_IV.txt",
+  "lines": [
+   346,
+   494
+  ],
+  "paragraphs": [
+   30,
+   40
+  ],
+  "footnotes": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "words_text": 2311,
+  "words_notes": 66
+ },
+ {
+  "chunk": "II.4_04",
+  "chapter": "II.4",
+  "source": "0007_part_II_chapter_IV.txt",
+  "lines": [
+   495,
+   683
+  ],
+  "paragraphs": [
+   41,
+   58
+  ],
+  "footnotes": [
+   30,
+   31
+  ],
+  "words_text": 2958,
+  "words_notes": 35
+ },
+ {
+  "chunk": "III.1_01",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   1,
+   147
+  ],
+  "paragraphs": [
+   1,
+   10
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "words_text": 2385,
+  "words_notes": 79
+ },
+ {
+  "chunk": "III.1_02",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   148,
+   353
+  ],
+  "paragraphs": [
+   11,
+   22
+  ],
+  "footnotes": [
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ],
+  "words_text": 3374,
+  "words_notes": 192
+ },
+ {
+  "chunk": "III.1_03",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   354,
+   535
+  ],
+  "paragraphs": [
+   23,
+   37
+  ],
+  "footnotes": [
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42
+  ],
+  "words_text": 2767,
+  "words_notes": 186
+ },
+ {
+  "chunk": "III.1_04",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   536,
+   680
+  ],
+  "paragraphs": [
+   38,
+   50
+  ],
+  "footnotes": [
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56
+  ],
+  "words_text": 2359,
+  "words_notes": 124
+ },
+ {
+  "chunk": "III.1_05",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   681,
+   850
+  ],
+  "paragraphs": [
+   51,
+   63
+  ],
+  "footnotes": [
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71
+  ],
+  "words_text": 2594,
+  "words_notes": 150
+ },
+ {
+  "chunk": "III.1_06",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   851,
+   1150
+  ],
+  "paragraphs": [
+   64,
+   66
+  ],
+  "footnotes": [
+   72
+  ],
+  "words_text": 2305,
+  "words_notes": 8
+ },
+ {
+  "chunk": "III.1_07",
+  "chapter": "III.1",
+  "source": "0008_part_III_chapter_I.txt",
+  "lines": [
+   1151,
+   1260
+  ],
+  "paragraphs": [
+   67,
+   71
+  ],
+  "footnotes": [
+   73,
+   74
+  ],
+  "words_text": 1314,
+  "words_notes": 10
+ },
+ {
+  "chunk": "III.2_01",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   1,
+   144
+  ],
+  "paragraphs": [
+   1,
+   15
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "words_text": 2220,
+  "words_notes": 158
+ },
+ {
+  "chunk": "III.2_02",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   145,
+   277
+  ],
+  "paragraphs": [
+   16,
+   24
+  ],
+  "footnotes": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25
+  ],
+  "words_text": 2210,
+  "words_notes": 85
+ },
+ {
+  "chunk": "III.2_03",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   278,
+   426
+  ],
+  "paragraphs": [
+   25,
+   36
+  ],
+  "footnotes": [
+   26,
+   27,
+   28,
+   30,
+   31,
+   32
+  ],
+  "words_text": 2262,
+  "words_notes": 115
+ },
+ {
+  "chunk": "III.2_04",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   427,
+   591
+  ],
+  "paragraphs": [
+   37,
+   49
+  ],
+  "footnotes": [
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "words_text": 2477,
+  "words_notes": 312
+ },
+ {
+  "chunk": "III.2_05",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   592,
+   744
+  ],
+  "paragraphs": [
+   50,
+   59
+  ],
+  "footnotes": [
+   41,
+   42,
+   43,
+   44
+  ],
+  "words_text": 2555,
+  "words_notes": 391
+ },
+ {
+  "chunk": "III.2_06",
+  "chapter": "III.2",
+  "source": "0009_part_III_chapter_II.txt",
+  "lines": [
+   745,
+   881
+  ],
+  "paragraphs": [
+   60,
+   67
+  ],
+  "footnotes": [
+   45,
+   46,
+   47,
+   48
+  ],
+  "words_text": 2197,
+  "words_notes": 36
+ },
+ {
+  "chunk": "III.3_01",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   1,
+   192
+  ],
+  "paragraphs": [
+   1,
+   24
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17
+  ],
+  "words_text": 2751,
+  "words_notes": 152
+ },
+ {
+  "chunk": "III.3_02",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   193,
+   341
+  ],
+  "paragraphs": [
+   25,
+   44
+  ],
+  "footnotes": [
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "words_text": 2217,
+  "words_notes": 230
+ },
+ {
+  "chunk": "III.3_03",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   342,
+   484
+  ],
+  "paragraphs": [
+   45,
+   57
+  ],
+  "footnotes": [
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  "words_text": 2344,
+  "words_notes": 38
+ },
+ {
+  "chunk": "III.3_04",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   485,
+   644
+  ],
+  "paragraphs": [
+   58,
+   64
+  ],
+  "footnotes": [
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "words_text": 2840,
+  "words_notes": 109
+ },
+ {
+  "chunk": "III.3_05",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   645,
+   903
+  ],
+  "paragraphs": [
+   65,
+   77
+  ],
+  "footnotes": [
+   46,
+   47,
+   48,
+   49
+  ],
+  "words_text": 2405,
+  "words_notes": 36
+ },
+ {
+  "chunk": "III.3_06",
+  "chapter": "III.3",
+  "source": "0010_part_III_chapter_III.txt",
+  "lines": [
+   904,
+   963
+  ],
+  "paragraphs": [
+   78,
+   82
+  ],
+  "footnotes": [
+   50,
+   51
+  ],
+  "words_text": 1013,
+  "words_notes": 17
+ },
+ {
+  "chunk": "III.4_01",
+  "chapter": "III.4",
+  "source": "0011_part_III_chapter_IV.txt",
+  "lines": [
+   1,
+   200
+  ],
+  "paragraphs": [
+   1,
+   10
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "words_text": 2835,
+  "words_notes": 50
+ },
+ {
+  "chunk": "III.4_02",
+  "chapter": "III.4",
+  "source": "0011_part_III_chapter_IV.txt",
+  "lines": [
+   201,
+   375
+  ],
+  "paragraphs": [
+   11,
+   17
+  ],
+  "footnotes": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "words_text": 2360,
+  "words_notes": 26
+ },
+ {
+  "chunk": "III.4_03",
+  "chapter": "III.4",
+  "source": "0011_part_III_chapter_IV.txt",
+  "lines": [
+   376,
+   527
+  ],
+  "paragraphs": [
+   18,
+   24
+  ],
+  "footnotes": [
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "words_text": 2362,
+  "words_notes": 137
+ },
+ {
+  "chunk": "III.4_04",
+  "chapter": "III.4",
+  "source": "0011_part_III_chapter_IV.txt",
+  "lines": [
+   528,
+   763
+  ],
+  "paragraphs": [
+   25,
+   41
+  ],
+  "footnotes": [
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "words_text": 2301,
+  "words_notes": 67
+ },
+ {
+  "chunk": "III.4_05",
+  "chapter": "III.4",
+  "source": "0011_part_III_chapter_IV.txt",
+  "lines": [
+   764,
+   817
+  ],
+  "paragraphs": [
+   42,
+   48
+  ],
+  "footnotes": [
+   35
+  ],
+  "words_text": 891,
+  "words_notes": 12
+ },
+ {
+  "chunk": "IV.1_01",
+  "chapter": "IV.1",
+  "source": "0012_part_IV_chapter_I.txt",
+  "lines": [
+   1,
+   141
+  ],
+  "paragraphs": [
+   1,
+   11
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13
+  ],
+  "words_text": 2220,
+  "words_notes": 106
+ },
+ {
+  "chunk": "IV.1_02",
+  "chapter": "IV.1",
+  "source": "0012_part_IV_chapter_I.txt",
+  "lines": [
+   142,
+   334
+  ],
+  "paragraphs": [
+   12,
+   30
+  ],
+  "footnotes": [
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25
+  ],
+  "words_text": 2367,
+  "words_notes": 73
+ },
+ {
+  "chunk": "IV.1_03",
+  "chapter": "IV.1",
+  "source": "0012_part_IV_chapter_I.txt",
+  "lines": [
+   335,
+   472
+  ],
+  "paragraphs": [
+   31,
+   40
+  ],
+  "footnotes": [
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "words_text": 2237,
+  "words_notes": 68
+ },
+ {
+  "chunk": "IV.1_04",
+  "chapter": "IV.1",
+  "source": "0012_part_IV_chapter_I.txt",
+  "lines": [
+   473,
+   572
+  ],
+  "paragraphs": [
+   41,
+   49
+  ],
+  "footnotes": [
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42
+  ],
+  "words_text": 1473,
+  "words_notes": 51
+ },
+ {
+  "chunk": "IV.2_01",
+  "chapter": "IV.2",
+  "source": "0013_part_IV_chapter_II.txt",
+  "lines": [
+   1,
+   150
+  ],
+  "paragraphs": [
+   1,
+   14
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "words_text": 2283,
+  "words_notes": 57
+ },
+ {
+  "chunk": "IV.2_02",
+  "chapter": "IV.2",
+  "source": "0013_part_IV_chapter_II.txt",
+  "lines": [
+   151,
+   304
+  ],
+  "paragraphs": [
+   15,
+   33
+  ],
+  "footnotes": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22
+  ],
+  "words_text": 2396,
+  "words_notes": 108
+ },
+ {
+  "chunk": "IV.2_03",
+  "chapter": "IV.2",
+  "source": "0013_part_IV_chapter_II.txt",
+  "lines": [
+   305,
+   427
+  ],
+  "paragraphs": [
+   34,
+   45
+  ],
+  "footnotes": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28
+  ],
+  "words_text": 1305,
+  "words_notes": 47
+ },
+ {
+  "chunk": "IV.3_01",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   1,
+   136
+  ],
+  "paragraphs": [
+   1,
+   9
+  ],
+  "footnotes": [],
+  "words_text": 2369,
+  "words_notes": 0
+ },
+ {
+  "chunk": "IV.3_02",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   137,
+   263
+  ],
+  "paragraphs": [
+   10,
+   16
+  ],
+  "footnotes": [],
+  "words_text": 2276,
+  "words_notes": 0
+ },
+ {
+  "chunk": "IV.3_03",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   264,
+   432
+  ],
+  "paragraphs": [
+   17,
+   26
+  ],
+  "footnotes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "words_text": 2286,
+  "words_notes": 65
+ },
+ {
+  "chunk": "IV.3_04",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   433,
+   575
+  ],
+  "paragraphs": [
+   27,
+   36
+  ],
+  "footnotes": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "words_text": 2327,
+  "words_notes": 51
+ },
+ {
+  "chunk": "IV.3_05",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   576,
+   702
+  ],
+  "paragraphs": [
+   37,
+   48
+  ],
+  "footnotes": [
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   24
+  ],
+  "words_text": 2202,
+  "words_notes": 57
+ },
+ {
+  "chunk": "IV.3_06",
+  "chapter": "IV.3",
+  "source": "0014_part_IV_chapter_III.txt",
+  "lines": [
+   703,
+   833
+  ],
+  "paragraphs": [
+   49,
+   62
+  ],
+  "footnotes": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "words_text": 1956,
+  "words_notes": 21
+ },
+ {
+  "chunk": "IV.4_01",
+  "chapter": "IV.4",
+  "source": "0015_part_IV_chapter_IV.txt",
+  "lines": [
+   1,
+   151
+  ],
+  "paragraphs": [
+   1,
+   13
+  ],
+  "footnotes": [],
+  "words_text": 2301,
+  "words_notes": 0
+ },
+ {
+  "chunk": "IV.4_02",
+  "chapter": "IV.4",
+  "source": "0015_part_IV_chapter_IV.txt",
+  "lines": [
+   152,
+   295
+  ],
+  "paragraphs": [
+   14,
+   26
+  ],
+  "footnotes": [],
+  "words_text": 2270,
+  "words_notes": 0
+ },
+ {
+  "chunk": "IV.4_03",
+  "chapter": "IV.4",
+  "source": "0015_part_IV_chapter_IV.txt",
+  "lines": [
+   296,
+   400
+  ],
+  "paragraphs": [
+   27,
+   33
+  ],
+  "footnotes": [],
+  "words_text": 1734,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_01",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   1,
+   148
+  ],
+  "paragraphs": [
+   1,
+   35
+  ],
+  "footnotes": [],
+  "words_text": 2245,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_02",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   149,
+   291
+  ],
+  "paragraphs": [
+   36,
+   72
+  ],
+  "footnotes": [],
+  "words_text": 2220,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_03",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   292,
+   429
+  ],
+  "paragraphs": [
+   73,
+   96
+  ],
+  "footnotes": [],
+  "words_text": 2221,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_04",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   430,
+   564
+  ],
+  "paragraphs": [
+   97,
+   110
+  ],
+  "footnotes": [],
+  "words_text": 2236,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_05",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   565,
+   705
+  ],
+  "paragraphs": [
+   111,
+   129
+  ],
+  "footnotes": [],
+  "words_text": 2272,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_06",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   706,
+   849
+  ],
+  "paragraphs": [
+   130,
+   158
+  ],
+  "footnotes": [],
+  "words_text": 2240,
+  "words_notes": 0
+ },
+ {
+  "chunk": "APP_07",
+  "chapter": "APP",
+  "source": "0016_appendix.txt",
+  "lines": [
+   850,
+   967
+  ],
+  "paragraphs": [
+   159,
+   184
+  ],
+  "footnotes": [],
+  "words_text": 1809,
+  "words_notes": 0
+ }
+]

@@ -1,67 +1,54 @@
-# Chapter 2: Theory of Transmutation and First Matter
+# Of the Theory of Transmutation in General, and of the First Matter
 
-## Of the Theory of Transmutation in General, and of the First Matter
+*Part I, Chapter 2*
 
-### 1. Chapter Core Thesis
-Metalline transmutation does not attempt the impossible task of altering fixed, indestructible species (such as changing lead as lead directly into gold) [216, 218]. Instead, through the process of Solution, the individual body is reduced to its corruptible subject-matter—its radical moisture or First Matter (Philosophic Mercury) [217, 218]. Once freed from its crude external form, this Universal Subject is re-informed and exalted by the application of its own internal Formal Light [222, 223].
+This chapter sets out the theory behind the Hermetic work and names its subject. Atwood argues that transmutation acts not on species but on the one root substance common to all things, the "mercurial first matter" (I.2 ¶3). She links this matter to the ancients' Ether, a hidden fire of life and light, and concludes that the Stone is this Ether, purified and perfected by its own Light (I.2 ¶12–15, ¶44). The chapter ends by introducing the Golden Treatise of Hermes (I.2 ¶50).
 
+## What is transmuted
 
+Atwood endorses Arnold di Villanova's statement of the theory. In his words, "a certain pure matter", once perfected by art, "converts to itself proportionally all imperfect bodies that it touches" (I.2 ¶2). Objectors say species cannot change. Atwood replies that the alchemists agree: lead is not changed "as lead". Art works on the "subject-matter" or "radical moisture" beneath the species. It draws this out of inferior forms "by the force of a superior ferment or attraction" (I.2 ¶4). Bacon and the Rosarium call the first work "Solution", reducing the body "into water, that is, into mercury". After that, one form can be expelled and another introduced (I.2 ¶5). Once freed, this Universal Subject is also "the thing transmuting" (I.2 ¶8). Aquinas, whom she endorses, says Mercury "dissolves and coagulates itself" without any foreign addition (I.2 ¶11).
 
-### 2. Section-by-Section Breakdown
+## The Ether, or hidden fire
 
-#### The Immutability of Species vs. Reduction to First Matter
-* **Refuting the Vulgar Misconception**: Adepts address the philosophical objection raised by Aristotle and Avicenna that metalline species are fixed and unchangeable [215, 220]. Alchemists agree that species as formal definitions are indestructible; they do not claim to turn a tulip into a daisy or lead as lead into gold [216].
-* **The Role of Solution**: Transmutation operates on the *subject* of species (*subjecta specierum*) rather than the species itself [217, 219]. By artificial *Solution*, the body is reduced to water—its radical moisture or Argent Vive [217, 218].
-* **Expulsion and Introduction of Forms**: Just as glass is made by corrupting flints and ashes to introduce a new form, the experienced philosopher corrupts the subject-matter of metals to introduce a superior Form once the body is reduced to its beginning [218, 219].
+Atwood sets out "to identify this mercury" (I.2 ¶12). She turns to the ancients' "pure and hidden fire", the all-pervading Ether (I.2 ¶12). Homberg, Boerhaave and Boyle held that such an Ether is "always at hand", and Berkeley called it "a pure invisible fire". These moderns saw that ordinary fire is only an effect of it, but they had no proof (I.2 ¶14–15). The magi presented their Quintessence as something obtainable "compact and tangible without heterogeneity". The Greeks called it the "Free Ether", freed from gross matter (I.2 ¶16).
 
-#### The Universal Subject and the Formal Light
-* **The Dual Nature of the Subject**: The Universal Subject is both the thing transmutable and the thing transmuting [221, 222]. When set free from gross matter, the fermented Spirit assimilates and multiplies Light throughout [222].
-* **Light as the Fermental Principle**: It is Light alone that is multiplied; when applied to any body, it exalts that body in its own kind (animal, vegetable, or mineral) [222, 223]. Every body possesses passive principles for this Light to act upon [223].
-* **Critique of Literalists and Sophists**: Skeptics fail because they literally interpret alchemical metaphors—such as weighing gross elements or condensing mine vapors—rather than working the living occult nature through itself [224, 225].
-* **The Living Water / Salt of the World**: Quoting *Lucerna Solis*, Geber, Aquinas, and the *Rosarium*, the text establishes that "All is made of Mercury" or dry water—a foetid spirit and living water that contains all life within itself [226–229].
+## Working against nature's order
 
-#### Ether, Anima Mundi, and the Fontal Spirit of Nature
-* **Harmonization with Ancient Cosmology**: The Hermetic First Matter corresponds to the pure hidden fire, Ether, or *Anima Mundi* celebrated by Stoics, Pythagoreans, Platonists, and Hebrew Kabbalists [231–233].
-* **The Secret Aliment of Life**: Life in the atmosphere depends on an invisible, vitalizing principle [233, 234]. Classical chemists (Homberg, Boerhaave, Boyle) and philosophers (Bishop Berkeley) recognized this universally diffused, pure invisible fire/ether as the sustaining bond of all natural elements [235, 236].
-* **Free Ether / *Lumen Vestimenti***: In Hermetic science, this fontal spirit is not merely a speculative idea, but a compact, tangible essence—the *Lumen Vestimenti* (Vehicle of Light) or Free Ether, freed from gross matter to work plastic miracles by its included light [239, 240].
+This spirit never exists on its own. It is "occultated" and "defiled" inside the beings it sustains (I.2 ¶20). Nature's ordinary course runs "in direct contrariety to her perfect law", so the work must reverse it. The fixed is made volatile and the volatile fixed, so that the "central form" can be brought to life (I.2 ¶20). Atwood accepts a principle from Bacon's fable of Proteus, which he takes from Democritus. Matter forced toward annihilation passes through every shape and restores itself "if the force be continued" (I.2 ¶23). Bacon's own fire-digesters, she says, drive off the very spirit sought. The aim is to "entrap the bare spirit" at that point and help it re-form itself. If the spirit escapes, it is defiled again (I.2 ¶24). Here "elements" means "elements of the Mercury, properties of the universal spirit" (I.2 ¶26).
 
-#### Inversion of Nature, Solution, and Separation
-* **The Inverted Law of Manifestation**: Nature operates her ordinary manifestations in direct contrariety to her perfect law—making true Light occult while darkness and imperfection appear [243].
-* **The Hermetic Axiom (*Solve, Coagula, Fige*)**: To achieve perfection, the order of nature must be inverted: "making light things heavy, and spirits no spirits" (*Si fixum solvas faciasque volare solutum / Et volucrem figas...*) [243, 244].
-* **Democritean / Baconian Vexation of Nature**: By torturing and vexing matter to the verge of annihilation, the spirit is forced to transform and spontaneously restore itself through a revolutionary force [245, 246, 251].
-* **Paracelsian Separation**: Separation is the greatest miracle in philosophy [252]. By separating the elements of Mercury and re-commixing them in due proportion, the elixir is completed [252, 253].
+## One Matter under many names
 
-#### Multi-Nominal Manifestations of the First Matter (Proteus / Pan)
-* **Protean Mutability**: Because the Universal Subject contains all nature, adepts conceal it under an infinity of symbols and names: Hyle, unctuous vapor, white fume, permanent water, dry water, viscous celestial soul, green lion, toad, dragon, virgin milk, etc. [257–268, 276–282].
-* **The Tria Prima (Salt, Sulfur, Mercury)**: Out of its primal unity, the reacting matter exhibits three magnetic principles of being—Salt, Sulfur, and Mercury—representing agent, patient, and universal offspring [275, 280].
-* **Metalline Radix & Gold**: While present throughout nature, the First Matter is most closely allied to gold, which dissolves in it gently without noise or violence "like ice in warm water" [297, 298].
-* **Application Across Three Kingdoms**: The Great Art applies to animals, vegetables, and minerals, but is most easily practiced in the mineral kingdom because minerals consist primarily of proportion and composition rather than complex vital organization [289, 300, 301].
+Arnold calls the matter "a stone and no stone", and Belus explains the phrase. "This very permanent water is the stone, but whilst it is water it is no stone" (I.2 ¶29). Basil Valentine says it resembles no particular thing (I.2 ¶31). It is called "third" because it comes from the active and passive relations of the Universal Spirit (I.2 ¶31). Atwood ventures a definition: "the simple generated substance of life and light, immanifestly flowing throughout nature". It is no thing the senses know, and only experience fixes the idea (I.2 ¶34). Salt, Sulfur and Mercury are "modes of being of the same thing". The many names mark stages of the work, like the parts of a tree (I.2 ¶39). Writers describe these stages out of order (I.2 ¶42).
 
+## The Stone and its Light
 
+The Stone is "the pure Ethereality of nature, separated by artificial means, purified and made concrete" by multiplying "its proper Light" (I.2 ¶44). "Light is the true fermental principle" (I.2 ¶44). It is the inward Form that matter lacks (I.2 ¶45). The material is "one throughout", but the forms differ. It yields gold in minerals and an elixir in plants. In man it yields a divine Image, embryonic in this life (I.2 ¶46). Dissolution separates pure from impure and makes "the agent and the patient" one. The Vital Spirit is then raised by its own leaven, as juice ferments into wine. Once transmuted, it transmutes: it draws crude life into "its own assimilative light" (I.2 ¶48). The method is the same in all three kingdoms. Metals are used because their root appears first and less is at risk. The work needs the true matter and a fit artist (I.2 ¶49).
 
-### 3. Primary Conceptual Takeaways
-* **Species vs. Subject**: Transmutation operates on the corruptible *subject* of a species by reducing it to its First Matter through *Solution*, not by changing one specific form directly into another [216–218].
-* **Formal Light as Transmuting Agent**: The ultimate transmuting force is Light (*Lumen*), which exalts and perfects every passive body upon which it acts [222, 223].
-* **Operational Inversion (*Solve et Coagula*)**: Perfection requires inverting ordinary natural procedure—dissolving the fixed, volatilizing the dissolved, and re-fixing the volatile [243, 244].
-* **The Tria Prima in Unity**: Salt, Sulfur, and Mercury are not three distinct chemical ingredients, but three modal relations (agent, patient, offspring) of the one Ethereal Being [275, 280, 284].
+## The Work in this chapter
 
+- **Subject**: the "mercurial first matter" (I.2 ¶3). It lies hidden and impure in nature (stated, I.2 ¶20).
+- **First stage**: "Solution", reducing the body to mercury (stated, I.2 ¶5).
+- **Procedure**: make the fixed volatile and the volatile fixed (stated, I.2 ¶20). Then capture the freed spirit near annihilation (stated, I.2 ¶24).
+- **Stages**: green lion, toad, magnesia, acetum, milk and Red Stone name successive stages (stated, I.2 ¶40).
+- **Agent**: Light acts as the ferment (stated, I.2 ¶44). The freed matter is its own agent (stated, I.2 ¶8).
+- **Impediment**: mechanical heat expels the spirit (stated, I.2 ¶24).
+- **Operator**: nature needs help from experience and skill (stated, I.2 ¶18, ¶34, ¶49).
 
+## Terms introduced
 
-### 4. Vocabulary & Esoteric Terms Introduced
-* **First Matter (*Prima Materia* / Universal Subject / Hyle)** [218, 221, 259]
-* **Solution (*Solutio* / Reduction to Water)** [217, 218]
-* **Radical Moisture (*Humidum Radicale*)** [217]
-* **Formal Light (*Lumen* / *Sulphur Tingens*)** [222, 223]
-* **Free Ether / *Lumen Vestimenti*** [239]
-* **Inversion of Nature / *Solve, Coagula, Fige*** [243, 244]
-* **Proteus / Pan (Universal Mutable Subject)** [257, 273, 276]
-* **Salt, Sulfur, and Mercury (*Tria Prima*)** [275, 280]
-* **Green Lion / Toad / Dragon (Intermediate Alchemical States)** [282]
-* **Stone of Fire / *Lapis Ignis*** [287]
+- **First Matter / Universal Subject**: the one root substance of all things. It is what is transmuted and, once freed, what transmutes (I.2 ¶3, ¶7–8).
+- **subject-matter / radical moisture**: what lies beneath a species and can take a new form (I.2 ¶4).
+- **species**: a thing's fixed kind (I.2 ¶4).
+- **Mercury**: the philosophers' first matter, also called "water" (I.2 ¶5).
+- **Solution**: the first work (I.2 ¶5).
+- **Ether / Quintessence**: the all-pervading hidden fire (I.2 ¶14, ¶16).
+- **fixed / volatile**: the two states the work inverts (I.2 ¶20).
+- **elements**: properties of the universal spirit (I.2 ¶26).
+- **Proteus / Pan**: the one subject in its many forms (I.2 ¶36–37).
+- **Salt, Sulfur, Mercury**: modes of the one matter (I.2 ¶39).
+- **Stone**: the purified Ether, perfected (I.2 ¶44).
+- **Light**: the fermenting Form (I.2 ¶44–45).
 
+## Authorities cited
 
-
-### 5. Key Direct Quotes
-1. *"Species non transmutantur, sed subjecta specierum optime et propriisime: --- therefore the first work is to reduce the body into water, that is, into mercury, and this is called Solution, which is the foundation of the whole art."* — Friar Roger Bacon [Cited in Passage 217]
-2. *"Si fixum solvas faciasque volare solutum / Et volucrem figas, facient te vivere tutum: / Solve, Coagula, Fige."* — Hermetic Axiom [Cited in Passage 244]
-3. *"Convert the elements, and you will find what you seek; for our operation is nothing else than a mutation of natures, and the method of conversion in our Argent vive is the reduction of natures to their first root."* — Arnold di Villa Nova [Cited in Passage 253]
+On species and their subject: Arnold, Bacon, the Rosarium and Ripley (I.2 ¶2–6). On the matter's oneness: Lucerna Solis, Geber and Aquinas (I.2 ¶9–11). On the Ether: Homberg, Boerhaave, Boyle, Berkeley, Zeno, Cicero and Euripides (I.2 ¶14–17). On transformation: Bacon's report of Democritus and Paracelsus (I.2 ¶23–26). On the matter's names: Albertus, Arnold, Belus, Basil Valentine, Vaughan, Sendivogius and Synesius (I.2 ¶29–41). On the Light: Eiranaeus (I.2 ¶45). On metals: Sendivogius and Geber (I.2 ¶48–49).
