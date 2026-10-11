@@ -1,0 +1,245 @@
+# II.4_04
+
+*Concluding the account of the Mysteries, Atwood sets out through Proclus, the Oracle and Plotinus the final union of the soul with the First as knowledge in identity, says this union needs theurgic assistance and cannot come from reason alone, and defends the Mysteries' light as the real 'Light of Life'. She then calls this consummation the ground of the Hermetic philosophy and a 'Vital Experiment' whose by-products are the elixir and gold.*
+
+## Argument
+
+- The soul, become an Intellectual World, must grow familiar with the Maker through intellectual energy, since uninterrupted energy resuscitates dormant Ideas. Familiarity leads to union. Discovery is meeting, union and sight of Him, 'the Alone with the Alone'. `II.4 ¶41` — QUOTED: Proclus
+- This Discovery of the Father is not doxastic (opinion) or scientific (syllogistic, composite). It is Intellectual Vision: contact with the Intelligible and union with the Demiurgic Intellect. It comes after generation, purification and science, when intellectual energy alone conjoins Light with Light. It surpasses the vision in Elysium. This is the 'Paternal Port', undefiled union with the Father. `II.4 ¶41, II.4 n30` — QUOTED: Proclus
+- The Platonic Successor exhorts us to remove multiform knowledge and still opinion, phantasy, passions and 'the air and the universe' within. With nearly closed eyes, since none may behold Him intently, we survey the Sun of the Intelligible gods. We then descend into Intellect and reasoning and celebrate the First God as beyond all. `II.4 ¶41` — QUOTED: the Platonic Successor
+- The wise Ethnics sought Reality in the Great Unknown, concealed in this life. When the soul returns into herself with her beams concentrated, He is known in Identity, without subject and object, and she becomes consubstantial with Him. `II.4 ¶42` — ATWOOD
+- The Divine Oracle confirms this: the Intelligible is understood with the 'Flower of thy mind', never wholly, not fixedly, with 'the empty mind', for it exists beyond the mind. `II.4 ¶43, II.4 ¶44, II.4 ¶45, II.4 ¶46, II.4 ¶47, II.4 ¶48` — QUOTED: the Divine Oracle
+- This 'metaphysical alienation' toward deification was proved by ancient experience, while natural reason holds it only by faith. Contemplation and active thought are inadequate: without the Pontic Medium and Theurgic assistance we cannot transcend this life's consciousness. Reason, like the eye, cannot affirm; affirmation needs subject and object. Intellect in 'visive contact' would assert truly, and doubters resemble a waker clinging to his dreams. `II.4 ¶49` — ATWOOD
+- Reason, enthusiasm, desire and abstraction are only preparatory to a self-oblivious amplitude. Per Plotinus He comes suddenly alone. In that ultimate circulation all is diaphanous, each star is the sun, and thinker and thought are one. Intellect is the subsistence of all. `II.4 ¶50` — QUOTED: Plotinus
+- In the sensible world the equilibrium is broken at the circumference. Life's wheel disobeys its axle until, returning, it sees its transgression in self-will. One with Lynceus-like sight, penetrating all centres, finds himself in the source. `II.4 ¶50` — ATWOOD
+- This consummation of the Mysteries is the ground of the Hermetic philosophy, prolific in transmutations and magical effects. The Vital Spirit ascends and descends in circulations. Divine men, through voluntary abnegation and exciting the divine virtue within, rose through Intellect and Wisdom to the First Principle and descended, gaining virtue with each ascent until the whole life was irradiated. `II.4 ¶51, II.4 ¶52, II.4 ¶53` — ATWOOD
+- Illumination has degrees; capacity, good habits of thought and inclination fit the Spirit to sublime. Plato's 'more thrysus bearers than Bacchic souls' means that many had and perceived the fire but could not draw it forth. Bacchus, Osiris, Apollo, Socrates, Orpheus, Achilles and Jason appeared radiant, the light spreading from the freed centre to the circumference of sense. `II.4 ¶54, II.4 ¶55, II.4 n31` — ATWOOD
+- Atwood rejects the expounders' narcotic explanation. The light of the true initiations was the Light of Life, the visions were not mere symbols, and theurgic rites gave ascent through appropriate media. Secrecy guards unpurified souls and the uncomprehending. The rites were pure at their institution, and later corruption does not discredit them. `II.4 ¶56` — ATWOOD
+- Per Epictetus the Mysteries are venerable as provided for perfecting life. Atwood's sketch is meant to connect the Sacred Art and Alchemy. The 'Vital Experiment' discloses powers whose fragments, shown without their source, set chemistry chasing the elixir and gold, both 'vital products'. `II.4 ¶57, II.4 ¶58` — ATWOOD
+
+## Method
+
+- **result** — “the Alone with the Alone” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (stated):** The end is discovery of the Father, which means meeting him, being united to him and seeing him directly, with the soul withdrawn from every other activity.
+  - Basis: II.4 ¶41: 'For discovery is this, --- to meet with him, to be united to Him, and to see Him Himself'.
+  - Also: “For discovery is this, --- to meet with him, to be united to Him, and to see Him Himself” `II.4 ¶41`
+- **result** — “the Paternal Port” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (stated):** The 'Paternal Port' is an undefiled union with the Father, in which the soul rests in the Father as in a harbour.
+  - Basis: II.4 ¶41: 'This, then, is the Paternal Port and the discovery of the Father, according to Proclus, viz., an undefiled union with him'.
+  - Also: “locating the soul in the Father, as in a port” `II.4 ¶41`
+- **procedure** — “For uninterrupted energy about anything calls forth and resuscitates our dormant Ideas” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (stated):** Sustained, unbroken intellectual activity directed at the Maker brings familiarity with him by awakening latent ideas in the soul. That familiarity is the way to union.
+  - Basis: II.4 ¶41 links 'a certain intellectual energy' to familiarity, then 'through this familiarity' to union.
+- **principle** — “But it is that which subsists according to Intellectual Vision itself: a contact with the Intelligible, and a union with the Demiurgic Intellect.” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (stated):** The discovery is not opinion, which is dubious and close to irrational life, and not science, which is syllogistic and composite and never touches its object. It is direct intellectual seeing and contact.
+  - Basis: II.4 ¶41 explicitly excludes the 'doxastic' and the 'scientific' and gives the reasons.
+  - Also: “neither is it scientific; for this is syllogistic and composite” `II.4 ¶41`
+- **stage** — “For after wandering about generation, after the purification and the light of science; intellectual energy alone, by the Intellect that is in us, shines forth” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (stated):** The stages come in this order: wandering in generation (embodied life), purification, the light of science (discursive knowledge), and then the shining forth of pure intellectual energy. The last surpasses the earlier 'vision that was in Elysium'.
+  - Basis: II.4 ¶41 gives the sequence and adds 'Not such as was with science, or that vision that was in Elysium, but more beautiful'.
+- **result** — “conjoining Light with Light” `II.4 ¶41` (QUOTED: Proclus)
+  - **Plain (interpreted):** The light of the intellect in the soul is united with the divine light.
+  - Basis: II.4 ¶41 places the phrase right after 'intellectual energy alone, by the Intellect that is in us, shines forth; locating the soul in the Father'. II.4 ¶50 describes the ultimate state as one where 'light everywhere meets light'.
+  - Also: “For light everywhere meets light” `II.4 ¶50`
+- **procedure** — “let the air and the universe be still (within us)” `II.4 ¶41` (QUOTED: the Platonic Successor)
+  - **Plain (stated):** Inner stilling: lay aside multiform knowledge and the variety of life, and quiet opinion, imagination, the passions and the whole inner 'world', so that one approaches the Cause of all in perfect quiet.
+  - Basis: II.4 ¶41 lists what is to be stilled, and '(within us)' marks it as inward.
+  - Also: “to remove from ourselves multiform knowledge, exterminate all the variety of life, and in perfect quiet approach near to the Cause of all” `II.4 ¶41`
+- **procedure** — “with nearly closed eyes, adoring, as it were, the rising sun” `II.4 ¶41` (QUOTED: the Platonic Successor)
+  - **Plain (interpreted):** The First is approached by an indirect, reverent, non-fixed regard and is not stared at. The Oracle's instruction to understand 'not fixedly' with a 'turning eye' gives the same manner.
+  - Basis: II.4 ¶41 gives the reason: 'since it is not lawful for any being whatever intently to behold Him'. II.4 ¶47 says 'not fixedly but having a pure turning eye'.
+  - Also: “not fixedly but having a pure turning eye,” `II.4 ¶47`
+- **stage** — “again from this divine tranquility descending into Intellect, and from Intellect, employing the reasonings of the soul” `II.4 ¶41` (QUOTED: the Platonic Successor)
+  - **Plain (stated):** After the stillness, one comes back down into intellect and then into discursive reasoning in order to state what the First is exempt from.
+  - Basis: II.4 ¶41.
+- **result** — “consubstantial, becomes herself the ultimate object as she was before the subject in simultaneous accord” `II.4 ¶42` (ATWOOD)
+  - **Plain (stated):** In the final knowing, the distinction of knower and known disappears. The soul, gathered into herself, knows the Archetype by becoming one with it ('in Identity') and not as a separate object.
+  - Basis: II.4 ¶42: 'not as before, either in separation of subject and object; but absolutely, in Identity'.
+  - Also: “But returning from thence into herself with all her beams concentrated, addressing the Great Archetype, He becomes known” `II.4 ¶42`
+  - Also: “Thus that which thinks and understands, and the thing understands, and the thing understood are one” `II.4 ¶50`
+- **operator** — “There is something Intelligible which it behooves thee to understand with the Flower of thy mind.” `II.4 ¶43` (QUOTED: the Divine Oracle)
+  - **Plain (interpreted):** The Intelligible is reached by a faculty other than ordinary understanding: an emptied mind directed toward what lies beyond the mind. Ordinary understanding never comprehends it wholly. This chunk does not define 'Flower of thy mind' further.
+  - Basis: II.4 ¶44 'understanding, thou shalt not comprehend this wholly'; II.4 ¶47 'Extend the empty mind of thy soul towards the Intelligible'; II.4 ¶48 'it exists beyond the mind'.
+  - Also: “Extend the empty mind of thy soul towards the Intelligible,” `II.4 ¶47`
+- **impediment** — “Theoretic contemplation, sensible attraction, continuity of active thought, all are alike inadequate” `II.4 ¶49` (ATWOOD)
+  - **Plain (stated):** Natural faculties cannot reach union. Thought, contemplation, desire and abstraction are only preparatory, and natural reason assents to the goal only by faith.
+  - Basis: II.4 ¶49 and II.4 ¶50: 'these are preparatory steps only'.
+  - Also: “But not reason, nor enthusiasm, nor ardent desire, nor an intellectual conception, nor abstraction, as we are taught, conjoins theurgist with the One” `II.4 ¶50`
+- **agent** — “Without the Pontic Medium, without Theurgic assistance we are unable to transcend the consciousness of this life” `II.4 ¶49` (ATWOOD)
+  - **Plain (interpreted):** Some medium or theurgic aid is needed to pass beyond ordinary consciousness. Theurgic rites gave an ascent 'through appropriate media' that could not happen without them. This chunk does not explain what the 'Pontic Medium' is.
+  - Basis: II.4 ¶49 and II.4 ¶56: 'by Theurgic rites, an ascent was made through appropriate media and a gradual assimilation, which without these could not be effected'.
+  - Also: “by Theurgic rites, an ascent was made through appropriate media and a gradual assimilation, which without these could not be effected, to the knowledge of the First Cause” `II.4 ¶56`
+- **sign** — “If therefore Intellect should by any means be enabled to come into visive contact with its vision, as if begetting an experience, it would then assert” `II.4 ¶49` (ATWOOD)
+  - **Plain (stated):** The proof is experiential. Only when intellect actually sees its object can it affirm, and that affirmation is true for it. Disbelief by the inexperienced is compared to a waking dreamer who denies the waking world.
+  - Basis: II.4 ¶49: affirmation needs 'a doubled testimony in subject and object', followed by the dreamer analogy.
+- **sign** — “He comes, says Plotinus, suddenly alone, bringing with him his own empyreal universe and total deity, in one.” `II.4 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** The union is not produced by effort. Preparation brings a self-forgetting openness, and then the divine arrives suddenly and of itself.
+  - Basis: II.4 ¶50: the preparatory steps lead 'to the self-oblivious amplitude of conception which precedes Him'.
+  - Also: “these are preparatory steps only to the self-oblivious amplitude of conception which precedes Him” `II.4 ¶50`
+- **result** — “And all things in that ultimate circulation are diaphanous, nothing dark or resisting” `II.4 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** The united state is one of total transparency. No subject-object resistance remains, each part contains the whole, and each thing rests in itself, as in 'The sun which is there is all the stars'.
+  - Basis: II.4 ¶50 describes the state at length.
+  - Also: “The sun which is there is all the stars, and again each star is the sun” `II.4 ¶50`
+- **impediment** — “nor does the devious wheel of life obey her axle any more, until returning into it, she perceives her error and the transgression that was made in self-will” `II.4 ¶50` (ATWOOD)
+  - **Plain (stated):** In ordinary sensible life, being is broken at the circumference into separate, opposed individuals cut off from their centre through self-will. Restoration comes by returning to the centre and recognising the error.
+  - Basis: II.4 ¶50: 'the equilibrium of being is broken everywhere at the circumference for manifestation; one thing does not subsist by another'.
+  - Also: “the equilibrium of being is broken everywhere at the circumference for manifestation” `II.4 ¶50`
+- **operator** — “having a sight like that of Lynceus, penetrating all centers, discovers himself in That finally which is the source of all” `II.4 ¶50` (ATWOOD)
+  - **Plain (stated):** The adept needs a penetrating sight that reaches the centre of things and finds himself in their source. The chunk gives Lynceus no gloss beyond 'penetrating all centers'.
+  - Basis: II.4 ¶50.
+- **principle** — “And this was the consummation of the Mysteries, the ground of the Hermetic philosophy, prolific in supernatural increase, transmutations and magical effects.” `II.4 ¶52` (ATWOOD)
+  - **Plain (stated):** Atwood identifies the final union of the Mysteries as the foundation of Hermetic philosophy. Transmutations and other effects are its fruits.
+  - Basis: II.4 ¶52.
+- **procedure** — “it is said to be lawful for the Vital Spirit to descend and ascend in successive circulations until she terminated her flight in the Principle of things” `II.4 ¶52` (ATWOOD)
+  - **Plain (stated):** The work goes by repeated cycles of ascent and descent. Each ascent increases divine virtue, until the whole life is irradiated.
+  - Basis: II.4 ¶52: 'increasing in divine virtue by each ascent'. The II.4 ¶53 verse speaks of going to the archetypal world 'saepe atque redire' (often and returning; our translation).
+  - Also: “increasing in divine virtue by each ascent, until the total life was irradiated from the ample recess of light” `II.4 ¶52`
+  - Also: “Tunc ire ad mundum archetypum saepe atque redire” `II.4 ¶53`
+- **stage** — “proceeding through Intellect to Wisdom, they arrived at the First Principle” `II.4 ¶52` (ATWOOD)
+  - **Plain (stated):** The order of ascent is Intellect, then Wisdom, then the First Principle.
+  - Basis: II.4 ¶52.
+- **operator** — “rising in voluntary abnegation above the evil and sensual habitude of this life” `II.4 ¶52` (ATWOOD)
+  - **Plain (stated):** The operator must voluntarily renounce sensual habits and actively stir up the divine virtue within. Liberation from bodily sufferings and a foretaste of eternal life follow.
+  - Basis: II.4 ¶52: 'by exciting the divine virtue within, they became simultaneously elevated'.
+  - Also: “by exciting the divine virtue within, they became simultaneously elevated” `II.4 ¶52`
+- **result** — “Cujus tunc Co-operator effectus potest Omnia.” `II.4 ¶54` (UNCLEAR)
+  - **Plain (interpreted):** Having become co-operator with the Father of all things, one can do all things. This rests on our own translation of the Latin.
+  - Basis: Our translation of II.4 ¶54. 'Cujus' plausibly refers back to 'Cunctarumque patrem rerum' in II.4 ¶53; this is not stated by the book.
+- **operator** — “But there are many degrees of Divine illumination” `II.4 ¶54` (ATWOOD)
+  - **Plain (stated):** Success differs by person. Souls differ in capacity and bias, and the best habits of thought and natural inclination make the Spirit fitter 'to sublime'. Earlier initiations prepare for later ones.
+  - Basis: II.4 ¶54.
+  - Also: “the possession of the best habits of thought in this life, and natural inclination, render the Spirit better adapted to sublime” `II.4 ¶54`
+- **impediment** — “there are many more thrysus bearers than Bacchic souls” `II.4 ¶54` (ATWOOD)
+  - **Plain (stated):** Many possess the hidden fire and can even perceive it, but lack the power to bring it out into manifestation. Having the fire is not enough; it must be drawn forth.
+  - Basis: II.4 ¶54: 'which is to say, that many had the fire indeed, and were able even to perceive it, who were without the power to discover and draw it forth to manifestation'.
+  - Also: “For, in the thrysus, Prometheus is fabled to have concealed the fire he stole from heaven” `II.4 ¶54`
+- **sign** — “diffusing itself from the freed center outwardly center outwardly until it moved the dark circumference of sense itself” `II.4 ¶54` (ATWOOD)
+  - **Plain (interpreted):** The sign of the completed work is a visible radiance that spreads from the freed inner centre out to the outer, sensible body. Atwood instances Bacchus, Osiris, Apollo, Socrates, Orpheus, Achilles and Jason with the Golden Fleece.
+  - Basis: II.4 ¶54 describes the transfigured figures as radiant, with Socrates' light spreading from the 'freed center' to the 'circumference of sense'. II.4 ¶55 continues the list. II.4 ¶50 contrasts centre and circumference.
+  - Also: “So Osiris appeared in shining garments, as Apollo, all over radiant” `II.4 ¶54`
+  - Also: “and Jason, on his return from Colchis, with the Golden Fleece” `II.4 ¶55`
+- **agent** — “was the Light of Life which these could kindle and fortify” `II.4 ¶56` (ATWOOD)
+  - **Plain (stated):** The light seen in the true initiations was the life-light itself, which could be kindled and strengthened. It was not a narcotic hallucination or a stage effect, and the visions were not mere symbols.
+  - Basis: II.4 ¶56 rejects the narcotic explanation and says the visions were not 'dead images, nor mere symbols'.
+  - Also: “nor were the visions or gods attending on those Mysteries dead images, nor mere symbols” `II.4 ¶56`
+- **principle** — “that mandate of the Mysteries which forbids that divine things should be divulged to the uninitiated” `II.4 ¶56` (ATWOOD)
+  - **Plain (stated):** The secrecy is justified because the teaching endangers unpurified souls and can only be understood by those who have perceived it themselves.
+  - Basis: II.4 ¶56: 'beyond the early danger to unpurified souls, there remains this objection, that such things cannot be understood by the multitude'.
+- **result** — “These intermediate fruits and fragments, having been exhibited at intervals to the world, without a discovery of their source” `II.4 ¶58` (ATWOOD)
+  - **Plain (stated):** In the progress of the 'Vital Experiment' powers and particular secrets of nature are disclosed. The elixir and gold are such intermediate, 'vital products'; shown to the world without their source, they astonished common chemistry.
+  - Basis: II.4 ¶58: 'In the progress of this Vital Experiment ... powers would be disclosed'; 'the elixir and gold. Both of which are vital products'.
+  - Also: “Both of which are vital products” `II.4 ¶58`
+
+## Terms
+
+- **Discovery of the Father** (also: discovery of the Father, discovery) — Meeting, union with and direct sight of the Father or Maker. It is not opinion or science but Intellectual Vision. (QUOTED: Proclus)
+  - = Paternal Port: “This, then, is the Paternal Port and the discovery of the Father” `II.4 ¶41`
+  - “For discovery is this, --- to meet with him, to be united to Him, and to see Him Himself” `II.4 ¶41`
+- **Paternal Port** — Undefiled union with the Father, with the soul established in him as in a harbour. (QUOTED: Proclus)
+  - = undefiled union with him: “This, then, is the Paternal Port and the discovery of the Father, according to Proclus, viz., an undefiled union with him” `II.4 ¶41`
+  - “locating the soul in the Father, as in a port” `II.4 ¶41`
+- **doxastic** — Pertaining to opinion. It is dubious and close to irrational life, and it is not the true discovery. (QUOTED: Proclus)
+  - “not that which is doxastic, or pertaining to opinion” `II.4 ¶41`
+- **Intellectual Vision** — Direct intellectual sight, meaning contact with the Intelligible and union with the Demiurgic Intellect. It is opposed to syllogistic science. (QUOTED: Proclus)
+  - “But it is that which subsists according to Intellectual Vision itself: a contact with the Intelligible, and a union with the Demiurgic Intellect.” `II.4 ¶41`
+- **Intellectual World** — What the soul becomes when assimilated as far as possible to the whole intelligible universe. (QUOTED: Proclus)
+  - “the soul thus becoming an Intellectual World” `II.4 ¶41`
+- **Intelligible** (also: the Intelligible, Intelligible Universe, intelligible universe) — The object of intellectual contact. The Oracle says it is understood with the Flower of the mind, never wholly comprehended, and exists beyond the mind. The Platonic Successor speaks of transcending even the Intelligible toward the Ineffable. (QUOTED: the Divine Oracle)
+  - “That thou mayest learn the Intelligible, for it exists beyond the mind.” `II.4 ¶48`
+  - “having transcended the Intelligible” `II.4 ¶41`
+- **Flower of thy mind** — The faculty with which the Intelligible is to be understood. It is associated with an 'empty mind' and a 'pure turning eye'. The chunk does not define it further. (QUOTED: the Divine Oracle)
+  - “There is something Intelligible which it behooves thee to understand with the Flower of thy mind.” `II.4 ¶43`
+- **anagogic impulse** — The impulse toward the First, which the passions impede. The text gives no further gloss. (QUOTED: the Platonic Successor)
+  - “the passions alone, which impede our anagogic impulse to the First” `II.4 ¶41`
+- **First God** (also: First) — The highest principle. It is celebrated first as unfolding the Intelligible Universe, and only last as producing earth, heavens and souls. It is beyond and more ineffable than all. (QUOTED: the Platonic Successor)
+  - “as the God of all gods, the Unity of all unities, and beyond the First Adyta” `II.4 ¶41`
+  - “as more ineffable than all silence, and more Unknown than all recondite essence” `II.4 ¶41`
+- **Great Unknown** — The highest reality, called unknown because it is concealed in this life. It becomes known in Identity when the soul concentrates herself. (ATWOOD)
+  - “seek to prove Reality in the Great Unknown --- unknown, because concealed in this life” `II.4 ¶42`
+- **Identity** — Knowing without separation of subject and object. The soul becomes consubstantial with what she knows. (ATWOOD)
+  - “but absolutely, in Identity” `II.4 ¶42`
+- **metaphysical alienation** — The condition, proved by ancient experience, of passing beyond this life's consciousness toward deification. (ATWOOD)
+  - “Such is the condition and metaphysical alienation which ancient experience sublimely proved, as passing to deification” `II.4 ¶49`
+- **Pontic Medium** — Something without which, together with Theurgic assistance, one cannot transcend the consciousness of this life. This chunk does not explain it. (ATWOOD)
+  - “Without the Pontic Medium, without Theurgic assistance we are unable to transcend the consciousness of this life” `II.4 ¶49`
+- **Theurgic** (also: theurgist, Theurgic rites, Theurgic assistance, Theurgic associations, theurgic) — Concerning rites and assistance by which an ascent was made through appropriate media and gradual assimilation to the First Cause. Such an ascent cannot be made without them. (ATWOOD)
+  - “by Theurgic rites, an ascent was made through appropriate media and a gradual assimilation, which without these could not be effected, to the knowledge of the First Cause” `II.4 ¶56`
+- **circulation** (also: circulations, ultimate circulation) — The movement of being. In the ultimate circulation all is transparent and self-evident; in the sensible world the circulation is broken at the circumference. The Vital Spirit ascends and descends in 'successive circulations'. (ATWOOD)
+  - “And all things in that ultimate circulation are diaphanous” `II.4 ¶50`
+  - “But in the sensible world the circulation of things is altogether different” `II.4 ¶50`
+- **center / circumference** (also: center, centers, circumference) — The universal centre, from which the sensible world is an outbirth, versus the circumference, where the equilibrium of being is broken for manifestation. The illuminated light spreads from the freed centre to the circumference of sense. (ATWOOD)
+  - “the equilibrium of being is broken everywhere at the circumference for manifestation” `II.4 ¶50`
+  - “diffusing itself from the freed center outwardly center outwardly until it moved the dark circumference of sense itself” `II.4 ¶54`
+- **Vital Spirit** — That which may lawfully descend and ascend in successive circulations until it ends in the Principle of things. (ATWOOD)
+  - “it is said to be lawful for the Vital Spirit to descend and ascend in successive circulations until she terminated her flight in the Principle of things” `II.4 ¶52`
+- **thrysus** — That in which Prometheus is fabled to have concealed the fire he stole from heaven. 'Thrysus bearers' are those who have and perceive the fire but cannot draw it forth to manifestation; the chunk sets them against 'Bacchic souls'. (ATWOOD)
+  - “For, in the thrysus, Prometheus is fabled to have concealed the fire he stole from heaven” `II.4 ¶54`
+  - “many had the fire indeed, and were able even to perceive it, who were without the power to discover and draw it forth to manifestation” `II.4 ¶54`
+- **Light of Life** — The light exhibited in the true Eleusinian initiations. It could be kindled and fortified. (ATWOOD)
+  - = The light exhibited in the Eleusinian msteries: “The light exhibited in the Eleusinian msteries, i.e., in the true initiations as is plainly to be gathered from the sense of the ancients, was the Light of Life” `II.4 ¶56`
+  - “was the Light of Life which these could kindle and fortify” `II.4 ¶56`
+- **Vital Experiment** — Atwood's name for the process sketched through the Mysteries in connection with the Sacred Art and Alchemy. Its progress discloses powers and secrets of nature. (ATWOOD)
+  - “In the progress of this Vital Experiment, it may not be difficult to imagine that powers would be disclosed and particular secrets of nature in the substance of her Whole.” `II.4 ¶58`
+- **elixir and gold** — Intermediate fruits of the Vital Experiment, called 'vital products'. Exhibited without discovery of their source, they gave rise to 'much astonishment of common chemistry'. (ATWOOD)
+  - “Both of which are vital products” `II.4 ¶58`
+- **Sacred Art** — Named alongside Alchemy as the art whose connection with the Mysteries this chapter was meant to show. (ATWOOD)
+  - “to indicate the connection of the Sacred Art and Alchemy” `II.4 ¶58`
+- **Mystae** — Those to whom, according to the expounders, narcotic liquors were given before the shows. (QUOTED: the expounders)
+  - “which were administered to the Mystae before the shows commence” `II.4 ¶56`
+
+## Sources cited
+
+- **Proclus** — “This, then, is the Paternal Port and the discovery of the Father, according to Proclus, viz., an undefiled union with him” `II.4 ¶41` — Supports: gives Atwood's account of the soul's union with the Father, the 'Paternal Port'.
+- **Taylor**, *On the Timaeus of Plato, Vol. 1* `II.4 n30` — Reference only, for the Proclus passage (p. 254).
+- **the Platonic Successor** — “Now, if ever, to remove from ourselves multiform knowledge” `II.4 ¶41` — Supports: an exhortation to inner stilling and adoration of the First, praised by Atwood for its 'magnificence of thought and diction'.
+- **Plato** — “there are many more thrysus bearers than Bacchic souls” `II.4 ¶41, II.4 ¶54` — Supports: the discovery is called 'difficult' as Plato alludes. Plato cites the records of the Mysteries, which Atwood reads as saying that many have the fire but cannot draw it forth.
+- **the Poets** — “emerging, as the Poets say, from the bosom of the ocean” `II.4 ¶41` — Illustrates the Sun from which the Intelligible gods proceed (inside the Platonic Successor's passage).
+- **the Divine Oracle** — “There is something Intelligible which it behooves thee to understand with the Flower of thy mind.” `II.4 ¶42, II.4 ¶43, II.4 ¶44, II.4 ¶45, II.4 ¶46, II.4 ¶47, II.4 ¶48` — Supports: said to ratify the Platonic instruction on how to apprehend the Intelligible.
+- **Plotinus** — “He comes, says Plotinus, suddenly alone” `II.4 ¶50` — Supports: the sudden arrival of the One and the description of the transparent ultimate state.
+- **unattributed Latin verse** — “Ille deum vitam accipiet, divisque videbit” `II.4 ¶51` — Illustrates the attainment of the life of the gods.
+- **unattributed Latin verse** — “Tunc ire ad mundum archetypum saepe atque redire” `II.4 ¶53, II.4 ¶54` — Illustrates repeated going to and returning from the archetypal world.
+- **records of the Mysteries** `II.4 ¶54` — Cited by Plato as witness to the thrysus-bearers saying.
+- **the orphic verse** — “triumphant, and appearing in splendour to mortals” `II.4 ¶54` — Illustrates the radiant return of Bacchus.
+- **Agrippa**, *Occult Phil., Book 3* `II.4 n31` — Reference: 'several notable examples in ths kind' of radiant transfiguration.
+- **Apuleius**, *on the Demon of Socrates* `II.4 n31` — Reference for Socrates shining forth in ecstasy.
+- **the expounders** — “all this splendid delirium and transfiguration in the Mysteries was the effect of narcotic liquors” `II.4 ¶56` — Criticized: Atwood rejects the narcotic explanation as common sense acting 'Procrustes like'.
+- **Greek and Alexandrian Platonists; mystics of the middle ages; the enlightened Fathers of the Christian Church** `II.4 ¶56` — Supports: Atwood says their writings give much evidence that the Eleusinian rites differed widely from common report.
+- **early Christians; the wisest Ethnics** — “early Christians concurring with the wisest Ethnics in declaring that they proposed the noblest ends” `II.4 ¶56` — Supports: they agree that the Mysteries were instituted pure.
+- **Epictetus** `II.4 ¶57` — Supports: the Mysteries become venerable when one believes they were provided for the perfection of human life.
+
+## Ambiguities
+
+- “Without the Pontic Medium, without Theurgic assistance” `II.4 ¶49`
+  - Reading: The Pontic Medium and Theurgic assistance are the same thing, named twice in apposition.
+  - Reading: They are two distinct requisites, both needed.
+  - Basis: The parallel 'without..., without...' construction allows either reading. II.4 ¶56 speaks of theurgic rites working 'through appropriate media', which suits both.
+- “the Platonic Successor” `II.4 ¶41`
+  - Reading: Proclus, who is named just before.
+  - Reading: Another successor in the Platonic school, not identified.
+  - Basis: The phrase follows directly on 'according to Proclus (30)' but the text does not name him again.
+- “He comes, says Plotinus, suddenly alone” `II.4 ¶50`
+  - Reading: Only this sentence is from Plotinus, and what follows is Atwood's elaboration.
+  - Reading: Plotinus' voice runs through the description of the ultimate circulation up to 'Intellect according to these philosophers is the subsistence of all'.
+  - Basis: There are no quotation marks. 'according to these philosophers' in II.4 ¶50 suggests reported doctrine, and 'But in the sensible world' marks a shift.
+- “was the Light of Life which these could kindle and fortify” `II.4 ¶56`
+  - Reading: 'these' = the true initiations.
+  - Reading: 'these' = the ancients.
+  - Basis: Both nouns precede in the same sentence: 'in the true initiations as is plainly to be gathered from the sense of the ancients'.
+- “Cujus tunc Co-operator effectus potest Omnia.” `II.4 ¶54`
+  - Reading: Co-operator of the Father of all things, the referent of 'patrem' in the preceding verse.
+  - Reading: Co-operator of the First Principle described in II.4 ¶52.
+  - Basis: 'Cujus' has no antecedent in its own sentence. The nearest is 'Cunctarumque patrem rerum' in II.4 ¶53.
+
+## Translations
+
+- `II.4 ¶51` “Ille deum vitam accipiet, divisque videbit Permixtos heroas, et ipse videbitur illis.” → He shall receive the life of the gods, and shall see heroes mingled with the gods, and he himself shall be seen by them. *(ours)*
+- `II.4 ¶53` “Tunc ire ad mundum archetypum saepe atque redire Cunctarumque patrem rerum spectare licebit ---” → Then it will be permitted often to go to the archetypal world and to return, and to behold the father of all things --- *(ours)*
+- `II.4 ¶54` “Cujus tunc Co-operator effectus potest Omnia.” → Having then become his co-operator, he is able to do all things. *(ours)*
+- `II.4 ¶54` “Bacchus, ipse totus igneus et fulgidus apparet, qui nudis oculis tolerari non posset.” → Bacchus himself appears wholly fiery and gleaming, so that he could not be endured by naked eyes. *(ours)*
+
+## Threads
+
+- `II.4 ¶41` 'that vision that was in Elysium' refers back to an earlier stage of vision (Elysium), which the final union surpasses. II.4 ¶42 also mentions the soul 'whilst yet in Elysium'.
+- `II.4 ¶56` Evidence on the true nature of the Eleusinian rites is 'Too much to intrude in this place'; it is not given here.
+- `II.4 ¶58` 'Thus far we have endeavored to sketch through the order of the Mysteries' summarizes the preceding account of the Mysteries as ground for the inquiry into the Sacred Art and Alchemy and the 'proper Subject of this philosophy'.
+- `II.4 ¶58` 'as we shall proceed to elucidate with the method and metaphysical origin of the Philosopher’s Stone' promises a later treatment of the elixir and gold as vital products, and of the Stone's method and origin.

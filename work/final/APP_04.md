@@ -1,0 +1,315 @@
+# APP_04
+
+*A run of numbered appendix notes (91)-(109) on the inward work: the will as the fire and basis of microcosmic recreation, drawn upward by love and fermented through the individual Logos, guarded against self-centers, inner idolatry, the phantastic region and over-haste, until Light penetrates the body and the residuum of the sensual medium gives body to the regenerate soul.*
+
+## Argument
+
+- Endorsing Kirchberger, Atwood says the fire through which the voice conducts Light is our chaotic will in potentiality, basis of microcosmic recreation. Only Arndt among Mystics grasps the Psalms. `APP ¶97` — ATWOOD
+- The Key to the Work (Key of the House of David) comes from the desire of the lower, generative, fallen life opening into the heart life by exstasis. `APP ¶97` — ATWOOD
+- What is above (feminine principle, Wisdom, heart life) suddenly draws the self-willed source up by love, making it passive; the paternal seed is drawn up. The feminine spirit caused the Fall and, advanced, the restoration, which exceeds what was lost. `APP ¶98` — ATWOOD
+- St Martin's 'true pronunciation of the two great names' means the revealed utterance of God's life in man, ground of both Testaments. Polytheism deviates from the central principle. `APP ¶98, APP ¶99` — ATWOOD
+- Where the Word comes there is power and the danger of self-centers, key to the Second Commandment. A graven image is an utterance carved into the understanding spirit, worshipped inwardly; material idolatry is its weaker, lesser copy. `APP ¶100` — ATWOOD
+- Initiates moved one another by words of power; Masons lost the magic Key. Words and true tools are found within, given as wanted; outward tools represent those in the Recess of Light. Religious systems persist by faith in the invisible. `APP ¶100` — ATWOOD
+- Perfection: one's fundamental faith, the individual Logos, fermented to transmute body, soul and spirit; not meant to complete till the time comes. `APP ¶101` — ATWOOD
+- Alchemical seeking tempts one to force the work; Norton and Ripley (red poppies: work burnt, restarted) warn against the self-willed magnet's haste. `APP ¶102, APP ¶103` — ATWOOD
+- The Crown is the Logos. God's purpose: through man's consent and operation, Lucifer's fallen body of the will becomes body to the Divine. `APP ¶104` — ATWOOD
+- Engelbrecht lacked Behmen's penetration. The analogical sphere (Regio phantastica, Evester) has relative truth; Hermetists took only its essence's derived light; self-desire adulterates. `APP ¶105` — ATWOOD
+- Regenerate bodies become like iron in the forge, invisible through inner Light; light thrown inward awakens its center to coruscate. Archetypal Light burns up all images; it is Truth. `APP ¶105, APP ¶106` — ATWOOD
+- Numbers order the Divine Law's creative development, known in theurgic art where spirit multiplies spirit into points, planes, cubes, materiality; so the Tetractys, basis of the philosophic stone, known in Regeneration. `APP ¶107, APP ¶108` — ATWOOD
+- Senses turn against the sensuous medium in the blood; hyperphysical exudation and tears replace natural secretion; the connate spirit, bereft of its understanding spirit, rallies from a new center. Will is noun, love adjective, their union 'I am'. `APP ¶109` — ATWOOD
+- The sensual medium's residuum embodies the regenerate soul after its Cross; this earth becomes the Cross's punctum saliens. Haste to be good is self-will, empowering the contrary principle. `APP ¶110` — ATWOOD
+
+## Method
+
+- **subject** — “the fire here is our chaotic will in potentiality” `APP ¶97` (ATWOOD)
+  - **Plain (stated):** The 'fire' through which the Light is conducted is the person's own will in its unformed, potential state; it is the ground of inner ('microcosmic') re-creation.
+  - Basis: APP ¶97: Atwood glosses Kirchberger's 'fire' directly and calls it the basis of recreation.
+  - Also: “it is the basis of our microcosmic recreation” `APP ¶97`
+- **agent** — “the Divine Will makes use of the human voice as an organ for conducting the Light, through the fire” `APP ¶97` (QUOTED: Kirchberger (endorsed: 'It strikes me that he is right in this'))
+  - **Plain (stated):** The Divine Will is the agent; the human voice is its organ for conducting Light through the will (the fire).
+  - Basis: APP ¶97: Kirchberger's statement, which Atwood says is right; 'fire' glossed in the same note.
+- **procedure** — “The Key to the Work, or into another life, the Key of the House of David” `APP ¶97` (ATWOOD)
+  - **Plain (stated):** Entry to the work is gained when the desire of the lower (generative, fallen) life opens upward into the heart life through exstasis.
+  - Basis: APP ¶97: 'is obtained from the desire of the lower life ... opening up into the heart life ... by exstasis'.
+  - Also: “opening up into the heart life, or the medial life, or the celestial life, or the vegetable life, by exstasis” `APP ¶97`
+- **agent** — “it is love which attracts” `APP ¶98` (ATWOOD)
+  - **Plain (stated):** What is above (feminine principle, Wisdom, heart life) draws the self-willed source upward like a magnet; the drawing power is love, and nothing else can move it from self-consciousness into self-oblivion.
+  - Basis: APP ¶98 states the mechanism directly.
+  - Also: “forces, draws, attracts as by a magnet, the self-willed source upwards” `APP ¶98`
+  - Also: “Nothing else could move that principle from its self-conscious center into self-oblivion” `APP ¶98`
+- **sign** — “The draw up is sudden and as at an instant; a sudden force of admiration does it” `APP ¶98` (ATWOOD)
+  - **Plain (stated):** The upward drawing happens suddenly, in an instant, set off by a surge of admiration.
+  - Basis: APP ¶98 literal statement.
+- **result** — “this latter becomes transmuted into a passive feminine principle” `APP ¶98` (ATWOOD)
+  - **Plain (stated):** The self-willed source, drawn up, ceases to be self-assertive and becomes passive/receptive; what is drawn up is the seed or paternal principle of this life.
+  - Basis: APP ¶98: both sentences stated directly in the note.
+  - Also: “The seed of this life, the paternal principle, is drawn up.” `APP ¶98`
+- **principle** — “When the attraction is placed above instead of below a restoration of what was lost takes place and more also” `APP ¶98` (ATWOOD)
+  - **Plain (stated):** Redirecting desire from below to above reverses the Fall and yields more than was lost; the feminine spirit that caused the Fall causes the restoration in an advanced stage.
+  - Basis: APP ¶98.
+  - Also: “As the feminine spirit is the cause of the Fall, so is it in an advanced stage, you know the cause of the restoration” `APP ¶98`
+  - Also: “for the second Adam is greater than the first” `APP ¶98`
+- **principle** — “in the true pronunciation of the two great names” `APP ¶98` (QUOTED: St Martin (glossed and endorsed by Atwood))
+  - **Plain (stated):** Atwood reads St Martin's phrase as the revealed utterance of the life of God in man, the original ground of both Testaments.
+  - Basis: APP ¶98: 'namely, on the revealed utterance of the life of God in man'.
+- **impediment** — “the danger is the tendency in such gifted beings to set up self-centers” `APP ¶100` (ATWOOD)
+  - **Plain (stated):** When the Word gives power to an individual, the risk is that he makes himself a center apart from God; Atwood calls this the key to the Second Commandment as result of violating the First.
+  - Basis: APP ¶100: 'Where that Word comes there is power in an individual'; 'This is the key to the philosophy of the Second Commandment'.
+  - Also: “Where that Word comes there is power in an individual” `APP ¶100`
+- **impediment** — “A graven image means a vocal utterance carved into the understanding spirit which conceives it by the desire of life” `APP ¶100` (ATWOOD)
+  - **Plain (stated):** The forbidden 'graven image' is an inner utterance fixed in the understanding and worshipped from the heart; this living inner idolatry is far more dangerous than material idols, its weakened, dead copies.
+  - Basis: APP ¶100 defines the term and compares the two kinds.
+  - Also: “the image lives in the heart and the whole individual worships it” `APP ¶100`
+  - Also: “the danger and sin of the latter is as nothing compared to those of the former, for in it was vitality and efficacy” `APP ¶100`
+- **operator** — “The Initiated moved one another on by words of power.” `APP ¶100` (ATWOOD)
+  - **Plain (stated):** Initiates advanced one another by effective words; these words (lost by the Masons with the 'magic Key') are found only by seeking within, in the subjective, fundamental life.
+  - Basis: APP ¶100: 'they want the words, which are only to be found by seeking them in the subjective, the fundamental life'.
+  - Also: “which are only to be found by seeking them in the subjective, the fundamental life” `APP ¶100`
+  - Also: “the magic Key, which was so carefully prepared by the anonymous author of the Tractatus Aureus” `APP ¶100`
+- **procedure** — “The true tools also may be found on the way in” `APP ¶100` (ATWOOD)
+  - **Plain (stated):** The real instruments of the work are found on the inward way and given one by one as needed; outward tools only represent those in the Recess of Light and are consecrated only by purpose. This chunk does not explain the double Triangle or triple Tau.
+  - Basis: APP ¶100: 'they will be given one after another as they are wanted'; 'they are representatives of these that are in the Recess of Light'.
+  - Also: “the double Triangle and triple Tau” `APP ¶100`
+  - Also: “they are representatives of these that are in the Recess of Light” `APP ¶100`
+  - Also: “they are meant for sacred use, and are so far consecrated on account of purpose” `APP ¶100`
+- **procedure** — “his fundamental faith, which is his individual Logos, perfectly elaborated --- i.e., fermented --- so as to transmute the whole being” `APP ¶101` (ATWOOD)
+  - **Plain (stated):** The work is to submit one's core faith (one's own Logos) to be fully worked through, 'fermented', until it transforms body, soul and spirit.
+  - Basis: APP ¶101 glosses 'elaborated' as 'fermented' and identifies faith with the individual Logos.
+- **impediment** — “the birth of this life prevents the complete work” `APP ¶101` (ATWOOD)
+  - **Plain (stated):** Few perfect the work; it is not meant to be completed till 'the time comes'. What 'the birth of this life' refers to is not explained (see ambiguities).
+  - Basis: APP ¶101.
+  - Also: “it is not intended to be completed till the time comes” `APP ¶101`
+- **impediment** — “break the seals upon the book of life artificially in order to hasten the work” `APP ¶102` (ATWOOD)
+  - **Plain (stated):** Forcing the work faster than God's will allows is the chief danger of alchemical seeking; the self-willed magnet, acting before its time, works powerfully and destructively.
+  - Basis: APP ¶102: 'instead of waiting for God’s will and pleasure about it'; APP ¶103.
+  - Also: “Haste is the Devil’s part” `APP ¶103`
+  - Also: “There is a swiftness in the self-willed magnet working powerfully and to destruction if suffered to do so before its time.” `APP ¶103`
+- **sign** — “the similitude of red poppies” `APP ¶103` (QUOTED: Ripley (endorsed by Atwood))
+  - **Plain (stated):** Ripley's image for the failure caused by haste: the work is all burnt up and the artist must begin again.
+  - Basis: APP ¶103: 'the work gets all burnt up and the artist has to begin over again'.
+- **principle** — “The Crown, to use Behmen’s and de St Martin’s phrase, is the Logos.” `APP ¶104` (ATWOOD)
+  - **Plain (stated):** 'The Crown' means the Logos.
+  - Basis: APP ¶104 direct identity.
+- **result** — “bring the self-willed opposition into subjection through man’s consent and operation” `APP ¶104` (ATWOOD)
+  - **Plain (stated):** The Divine aim: by human consent and work, the rebellious will is subdued so that the fallen body of the will becomes a ground and body for the Divine; this is the value of man.
+  - Basis: APP ¶104.
+  - Also: “the original fallen body of the will in Lucifer may become a ground and body to the Divine instead of being apostate” `APP ¶104`
+  - Also: “The body, the really efficient body of the Will, is at present alienated from and in rebellion” `APP ¶104`
+- **impediment** — “The wise called it the Regio phantastica” `APP ¶105` (ATWOOD)
+  - **Plain (stated):** The analogical/visionary sphere has only relative truth; true Hermetists used only the derived light of its essence, stripped of phantasmagoric form, and a deep intellect is drawn past it to the primary sources of life. Some may still see pretty truly if faithful of purpose without much self-desire (the passage is partly garbled; see ambiguities); self-desire adulterates.
+  - Basis: APP ¶105.
+  - Also: “it was as a pabalum for them, but only when deprived of all phantasmagoric form” `APP ¶105`
+  - Also: “A deep intellect will not stay in these spheres, it will be drawn deeper by gravitation to the primary sources of life” `APP ¶105`
+  - Also: “it is self-desire that adulterates” `APP ¶105`
+  - Also: “misconceive this Evester, as Paracelsus calls it” `APP ¶105`
+- **result** — “the body became as the iron in the forge, no longer visible as before, but penetrated through and swallowed up with the Light” `APP ¶105` (ATWOOD)
+  - **Plain (stated):** In regenerate men the body is penetrated by Light as iron in the forge; a body becomes invisible only through excess of light from within.
+  - Basis: APP ¶105.
+  - Also: “a body can only become invisible through excess of light from within it” `APP ¶105`
+- **procedure** — “that light thrown in to find its own center and origin which awakens that center at last and causes it to coruscate” `APP ¶105` (ATWOOD)
+  - **Plain (interpreted):** Light turned inward toward its own center and origin eventually awakens that center so that it shines out.
+  - Basis: APP ¶105: preceding clauses say we are visible because 'ours' is shut up in its center and that light emanates from the eye's focus; the antecedent is uncertain (see ambiguities).
+- **result** — “When the archetypal Light is perceived, it burns up all anterior manifestation, images and representations” `APP ¶106` (ATWOOD)
+  - **Plain (stated):** Perceiving the archetypal Light consumes all prior images and representations; it is Truth, both objective and subjective, and transmutes into itself whatever is not combustible.
+  - Basis: APP ¶106.
+  - Also: “transmuting all that is not combustible into itself” `APP ¶106`
+- **principle** — “through their personal representation in theurgic art, by which spirit is added to spirit and multiplied as offspring” `APP ¶107` (ATWOOD)
+  - **Plain (stated):** Numbers are the order of the Divine Law's creative development; their arithmetic is known through theurgic art, where spirit joins spirit and multiplies, producing points, planes, cubes that converge in materiality.
+  - Basis: APP ¶107: Atwood's 'notion of numbers considered theosophically'.
+- **result** — “such an ens was the basis of the philosophic stone, a metaphysico-chemical birth” `APP ¶108` (ATWOOD)
+  - **Plain (stated):** The entity obtained by that spiritual multiplication (like Pythagorus's Tetractys) underlies the philosophic stone, a birth both metaphysical and chemical, produced under the creative law and verified in Regeneration.
+  - Basis: APP ¶108: 'The mystic Tetractys of Pythagorus was thus obtained'; 'this is known in Regeneration'.
+  - Also: “proving itself doubly, triply, by a realization of the first represented will” `APP ¶108`
+  - Also: “this is known in Regeneration, individually proven and proving all” `APP ¶108`
+- **procedure** — “All the organs of the senses are brought to bear against the principle of sense or the sensuous medium in the blood” `APP ¶109` (ATWOOD)
+  - **Plain (stated):** The sense faculties are turned against the sensuous medium in the blood; the members that serve the natural work also serve the super-essential. This chunk does not explain 'the hands are taught to war'.
+  - Basis: APP ¶109.
+  - Also: “All members that work here for the natural work, work also for the super-essential.” `APP ¶109`
+  - Also: “the hands are taught to war and the fingers to fight” `APP ¶109`
+- **sign** — “all natural secretion is superseded by super-essential hyperphysical exudation and tears” `APP ¶109` (ATWOOD)
+  - **Plain (stated):** A sign of the work: ordinary secretions give way to 'hyperphysical' exudation and tears. This chunk does not explain them further.
+  - Basis: APP ¶109.
+- **stage** — “when the connate spirit is deprived of its understanding spirit” `APP ¶109` (ATWOOD)
+  - **Plain (stated):** A stage of loss: separated from its understanding spirit, the connate spirit's life drains away until, by self-realization, it rallies from a new center; imaged by the Iliad after Patroclus' death and Hercules' grief for Hylas.
+  - Basis: APP ¶109.
+  - Also: “life flows away, until by self-realization it rallies from a new center” `APP ¶109`
+- **principle** — “will is the substantive or noun, love the qualitative adjective form; their union coming into self-expression is the verb affirmative, I am” `APP ¶109` (ATWOOD)
+  - **Plain (stated):** Grammar mirrors operations of the Spirit: will as noun, love as adjective, their union expressed as 'I am'.
+  - Basis: APP ¶109 direct statement.
+- **stage** — “The sensual medium must in the work be brought to its pivot, to its last ens.” `APP ¶110` (ATWOOD)
+  - **Plain (stated):** The sensual medium is reduced to its final essence; its residue supplies the body of the regenerate soul, after the soul has passed under its Cross. Earth is the crucible for souls as well as bodies.
+  - Basis: APP ¶110.
+  - Also: “The residuum from this medium supplies body to the regenerate soul” `APP ¶110`
+  - Also: “the earth is the crucible for souls as well as bodies” `APP ¶110`
+- **principle** — “The power is integral if it be turned into earth” `APP ¶110` (QUOTED: the Smaragdine Tablet (endorsed))
+  - **Plain (interpreted):** Cited for the residuum ('earth') that embodies the regenerate soul: power is complete when it takes earthly body.
+  - Basis: APP ¶110: quoted right after the residuum supplying body and St Martin's earth-as-crucible.
+- **result** — “this earth becomes the punctum saliens of the Divine Cross which before was its punctum” `APP ¶110` (ATWOOD)
+  - **Plain (interpreted):** The 'earth' (residuum of the sensual medium) changes from a mere point into the living, springing point of the Divine Cross. This chunk does not explain further.
+  - Basis: APP ¶110: 'this earth' follows the residuum/earth sentences; rendering of the Latin is ours (see translations, ambiguities).
+- **operator** — “it is the duty of man’s will to follow God’s Will as He, according to His time and measure, opens the way” `APP ¶110` (ATWOOD)
+  - **Plain (stated):** The operator must neither hurry nor overdo, even in striving to be good: haste to be perfect is self-will that defeats the end, and exceeding one's given capacity lets the contrary principle react. Religious self-will shows as spiritual pride, contempt, morbid self-anatomy, uncharity and odium theologicum.
+  - Basis: APP ¶110, including Solomon's saying and the Note.
+  - Also: “Festina lente, Ne quid nimis” `APP ¶110`
+  - Also: “too much haste to be good or perfect involves a self-willed action which defeats the end” `APP ¶110`
+  - Also: “if we do, it gives power to the contrary principle to react upon the over-run” `APP ¶110`
+  - Also: “Be not righteous overmuch” `APP ¶110`
+
+## Terms
+
+- **fire** — The medium through which the Divine Will conducts Light; here our chaotic will in potentiality, basis of microcosmic recreation. (ATWOOD)
+  - = our chaotic will in potentiality: “the fire here is our chaotic will in potentiality” `APP ¶97`
+  - “it is the basis of our microcosmic recreation” `APP ¶97`
+- **microcosmic recreation** — The inner re-creation whose basis is the will as fire. (ATWOOD)
+  - “it is the basis of our microcosmic recreation” `APP ¶97`
+- **Key to the Work** — Entry into the work or into another life, obtained from the desire of the lower life opening into the heart life by exstasis. (ATWOOD)
+  - = Key of the House of David: “The Key to the Work, or into another life, the Key of the House of David” `APP ¶97`
+- **exstasis** — The means by which the desire of the lower life opens into the heart life. (ATWOOD)
+  - “opening up into the heart life, or the medial life, or the celestial life, or the vegetable life, by exstasis” `APP ¶97`
+- **lower life** — The generative, fallen life whose desire, opened upward, yields the Key. (ATWOOD)
+  - = the generative, the fallen life: “the desire of the lower life, the generative, the fallen life” `APP ¶97`
+- **heart life** — The higher life into which the lower opens; 'that which is above', which attracts (whether medial/celestial/vegetable life are synonyms is uncertain: see ambiguities). (ATWOOD)
+  - = feminine principle, Wisdom: “that which is above (the feminine principle, --- Wisdom, --- the heart life)” `APP ¶98`
+  - “the heart life, or the medial life, or the celestial life, or the vegetable life” `APP ¶97`
+- **feminine principle** (also: feminine spirit, passive feminine principle) — That which is above, drawing the self-willed source upward by love; cause of the Fall and, advanced, of restoration; the self-willed source becomes a passive feminine principle. (ATWOOD)
+  - = Wisdom; the heart life: “that which is above (the feminine principle, --- Wisdom, --- the heart life)” `APP ¶98`
+  - “As the feminine spirit is the cause of the Fall” `APP ¶98`
+- **self-will** (also: self-willed source, self-willed magnet, self-willed opposition, self-willed action) — The self-centred will: drawn upward by love it becomes passive; acting before its time it works destructively; the Divine purpose is to subject it through man's consent; in religion it exaggerates the soul's religious life. (ATWOOD)
+  - “There is a swiftness in the self-willed magnet working powerfully and to destruction” `APP ¶103`
+  - “bring the self-willed opposition into subjection” `APP ¶104`
+  - “The action of the self-will on the soul which exaggerates its religious life” `APP ¶110`
+- **paternal principle** — The seed of this life, which is drawn up. (ATWOOD)
+  - = the seed of this life: “The seed of this life, the paternal principle, is drawn up.” `APP ¶98`
+- **second Adam** — Greater than the first; the restoration exceeds what was lost. (ATWOOD)
+  - “for the second Adam is greater than the first” `APP ¶98`
+- **self-centers** — Centers set up by gifted beings in whom the Word gives power; key to the Second Commandment as result of violating the First. (ATWOOD)
+  - “the danger is the tendency in such gifted beings to set up self-centers” `APP ¶100`
+- **graven image** — Inwardly, a vocal utterance carved into the understanding spirit and worshipped by the heart; outwardly, its weakened material form, common idolatry. (ATWOOD)
+  - = vocal utterance carved into the understanding spirit: “A graven image means a vocal utterance carved into the understanding spirit” `APP ¶100`
+- **words of power** — Words by which the Initiated moved one another on; found only in the subjective, fundamental life; lost by the Masons. (ATWOOD)
+  - “The Initiated moved one another on by words of power.” `APP ¶100`
+  - “which are only to be found by seeking them in the subjective, the fundamental life” `APP ¶100`
+- **magic Key** — Key prepared by the anonymous author of the Tractatus Aureus to open the Hermetic garden; lost by the Masons. (ATWOOD)
+  - “to open the door into the Hermetic garden” `APP ¶100`
+- **Recess of Light** — Where the originals of the true tools are; outward tools represent these. (ATWOOD)
+  - “they are representatives of these that are in the Recess of Light” `APP ¶100`
+- **Logos** (also: individual Logos) — Each man's individual Logos is his fundamental faith, to be fermented until it transmutes his whole being; the Crown is the Logos. (ATWOOD)
+  - = fundamental faith: “his fundamental faith, which is his individual Logos” `APP ¶101`
+  - = the Crown: “The Crown, to use Behmen’s and de St Martin’s phrase, is the Logos.” `APP ¶104`
+- **fermented** — Perfectly elaborated, so as to transmute the whole being (said of the individual Logos). (ATWOOD)
+  - = elaborated: “perfectly elaborated --- i.e., fermented” `APP ¶101`
+- **Regio phantastica** — The analogical sphere, of only relative truth; valued by Hermetists only for the derived light of its essence, stripped of phantasmagoric form; misconceived by some visionaries. (ATWOOD)
+  - = the analogical sphere: “There is a certain truth in the analogical sphere, but it is only relative. The wise called it the Regio phantastica” `APP ¶105`
+  - = Evester: “misconceive this Evester, as Paracelsus calls it” `APP ¶105`
+  - “it was as a pabalum for them, but only when deprived of all phantasmagoric form” `APP ¶105`
+- **self-desire** — What adulterates vision in the phantastic sphere. (ATWOOD)
+  - “it is self-desire that adulterates” `APP ¶105`
+- **archetypal Light** (also: Light) — Light that, perceived, burns up all prior images, perceives itself alone, is both objective and subjective, and transmutes the non-combustible into itself. (ATWOOD)
+  - = Truth: “for it is objective and subjective both; it is Truth” `APP ¶106`
+  - “transmuting all that is not combustible into itself” `APP ¶106`
+- **numbers** (also: Numerical numbers) — Outwardly 'bark'; theosophically, the order of development of the Divine Law in creative operation, known through theurgic art. (ATWOOD)
+  - “Numerical numbers are merely the bark of things” `APP ¶107`
+- **theurgic art** — The art in which numbers are personally represented: spirit added to spirit and multiplied as offspring. (ATWOOD)
+  - “by which spirit is added to spirit and multiplied as offspring” `APP ¶107`
+- **Tetractys** — Pythagorus's mystic Tetractys, obtained by the theurgic process of APP ¶107; such an ens was the basis of the philosophic stone. (ATWOOD)
+  - = the source of ever-flowing Nature: “the source, as he called it, of ever-flowing Nature” `APP ¶108`
+- **philosophic stone** — Based on an ens like the Tetractys; a metaphysico-chemical birth emanating by the creative law, known in Regeneration. (ATWOOD)
+  - “a metaphysico-chemical birth, emanating according to the creative law” `APP ¶108`
+- **ens** (also: last ens) — An entity; such an ens underlies the stone; the final term to which the sensual medium is brought. (ATWOOD)
+  - “such an ens was the basis of the philosophic stone” `APP ¶108`
+  - “brought to its pivot, to its last ens” `APP ¶110`
+- **Regeneration** (also: regenerate) — Where the philosophic birth is known and proven individually; regenerate men's bodies are penetrated with Light; the regenerate soul receives body from the residuum of the sensual medium. (ATWOOD)
+  - “this is known in Regeneration, individually proven and proving all” `APP ¶108`
+- **super-essential** — The higher work served by the same members as the natural work; its hyperphysical exudation supersedes natural secretion. (ATWOOD)
+  - “All members that work here for the natural work, work also for the super-essential.” `APP ¶109`
+- **sensual medium** (also: sensuous medium) — The principle of sense in the blood, against which the senses are turned; brought to its last ens, its residuum supplies body to the regenerate soul. (ATWOOD)
+  - = principle of sense: “the principle of sense or the sensuous medium in the blood” `APP ¶109`
+  - “The residuum from this medium supplies body to the regenerate soul” `APP ¶110`
+- **connate spirit** — Spirit whose life flows away when deprived of its understanding spirit, until it rallies from a new center by self-realization. (ATWOOD)
+  - “when the connate spirit is deprived of its understanding spirit” `APP ¶109`
+- **understanding spirit** — That into which a graven image is carved; that of which the connate spirit may be deprived. (ATWOOD)
+  - “carved into the understanding spirit which conceives it by the desire of life” `APP ¶100`
+- **Cross** (also: Divine Cross) — What the soul passes under before the residuum supplies its regenerate body; the earth becomes its punctum saliens. (ATWOOD)
+  - “after that the soul has passed under its Cross” `APP ¶110`
+- **earth** — Crucible for souls as well as bodies; that into which power is turned to be integral; becomes the punctum saliens of the Divine Cross. (ATWOOD)
+  - “the earth is the crucible for souls as well as bodies” `APP ¶110`
+  - “this earth becomes the punctum saliens of the Divine Cross which before was its punctum” `APP ¶110`
+- **punctum saliens** (also: punctum) — What the earth becomes in relation to the Divine Cross, having before been its punctum; not explained further. (ATWOOD)
+  - “this earth becomes the punctum saliens of the Divine Cross which before was its punctum” `APP ¶110`
+
+## Sources cited
+
+- **Kirchberger**, *Theos. Corresp., p. 236* — “the Divine Will makes use of the human voice as an organ for conducting the Light, through the fire” `APP ¶97` — supports: endorsed; Atwood glosses the fire as our chaotic will.
+- **Arndt** `APP ¶97` — illustrates: the one Mystic who recognizes the depth of the Psalms.
+- **the Psalms** `APP ¶97` — praised for 'surpassing depth of Divine experience', neglected by the Mystics.
+- **unattributed scriptural phrase** — “eternal purpose, purposed in Christ Jesus, our Lord” `APP ¶98` — supports: the Fall accords with a purpose of greater restoration.
+- **St Martin**, *Theos. Corresp., p. 244* — “in the true pronunciation of the two great names” `APP ¶98` — supports: foundation of both Testaments, glossed as the revealed utterance of the life of God in man.
+- **Old and New Testaments** `APP ¶98` — illustrates: founded on the revealed utterance; the New fulfils the Old's promise and gives another.
+- **our Lord, on the language of David** — “I have said ye are gods, if (says our Lord) ye called them gods unto whom the Word of God came” `APP ¶100` — illustrates: powers subordinate to God evolved where the Word comes, with the danger of self-centers.
+- **the First and Second Commandments** `APP ¶100` — interpreted: graven images (Second) as the practical result of self-centering (violating the First).
+- **the ancient prophets** `APP ¶100` — impugned both inner and material idolatry.
+- **the Masons** `APP ¶100` — is criticized: ape the words of power but lost the magic Key; outward form absurd, kept alive by a secret response of commonsense to the original mystery.
+- **the anonymous author of the Tractatus Aureus**, *Tractatus Aureus (Museum Hermeticum, edit. 1649, p. 45)* `APP ¶100` — supports: carefully prepared the magic Key to open the door into the Hermetic garden.
+- **Norton** — “Haste is the Devil’s part” `APP ¶103` — supports: Hermetists war against over-haste.
+- **Ripley** `APP ¶103` — supports: warns against haste under the similitude of red poppies.
+- **Behmen** `APP ¶104, APP ¶105` — supports/contrasts: with de St Martin, source of 'the Crown'; contrasted with Engelbrecht as penetrating surfaces; in him the body was swallowed up with Light.
+- **de St Martin** `APP ¶104` — with Behmen, source of the phrase 'the Crown'.
+- **Engelbrecht** `APP ¶105` — is criticized: visionary without education of the intellect, little gauge for truth; perhaps misconceived the Evester.
+- **Swedenborg** `APP ¶105` — compared: Engelbrecht lived like him in the visionary sphere.
+- **Paracelsus** `APP ¶105` — source of the name 'Evester' for the analogical sphere.
+- **Vaughan, the Welshman** `APP ¶105` — illustrates: 'very elegantly depicts the play of that ether'.
+- **De St Martin**, *Corresp., p. 298* — “Numerical numbers are merely the bark of things” `APP ¶107` — supports: numbers as outer bark; extended to outer nature and scriptural tradition.
+- **Pythagorus** — “the source, as he called it, of ever-flowing Nature” `APP ¶108` — supports: his Tetractys, obtained by theurgic multiplication, as the kind of ens underlying the stone.
+- **the Iliad** `APP ¶109` — illustrates: after the death of Patroclus, the connate spirit deprived of its understanding spirit.
+- **Hercules and Hylas** `APP ¶109` — illustrates: Hercules' grief for Hylas, same point as the Iliad.
+- **Se St Martin**, *Tableau Naturel, vol 2, p. 230* — “the earth is the crucible for souls as well as bodies” `APP ¶110` — supports: the residuum of the sensual medium giving body to the regenerate soul.
+- **the Smaragdine Tablet** — “The power is integral if it be turned into earth” `APP ¶110` — supports: the earth/residuum point.
+- **Festina lente, Ne quid nimis (sayings)** — “Festina lente, Ne quid nimis” `APP ¶110` — supports: against haste and excess in the work, higher or lower.
+- **Solomon** — “Be not righteous overmuch” `APP ¶110` — supports: do not exceed the capacity given.
+- **Pharisees, Katharoi, Devotes, Puritans** `APP ¶110` — illustrates: religious self-will in history.
+
+## Ambiguities
+
+- “the heart life, or the medial life, or the celestial life, or the vegetable life” `APP ¶97`
+  - Reading: Four names for one and the same higher life.
+  - Reading: Alternative or successive levels into which the lower life may open.
+  - Basis: The 'or' series can be appositive or disjunctive; APP ¶98 names only 'the heart life' as that which is above, favouring synonymy without settling it.
+- “the celestial as well as the ultimate may be used” `APP ¶100`
+  - Reading: Both celestial and outermost forms of the tools are permissible to use.
+  - Reading: Both may be used freely because they lack the sacredness of the originals.
+  - Basis: APP ¶100: preceded by 'sacred in their originals; in their ultimates from the center they are not so'; followed by 'There is not that sacredness in the outward tools' yet 'they are meant for sacred use'.
+- “the birth of this life prevents the complete work” `APP ¶101`
+  - Reading: The present natural life stands in the way of completion.
+  - Reading: The birth of the new life itself marks a limit short of completion.
+  - Basis: APP ¶101: followed by 'it is not intended to be completed till the time comes', which fits either; 'this life' is unspecified.
+- “misconceive this Evester, as Paracelsus calls it, and having a see things pretty truly” `APP ¶105`
+  - Reading: Text is corrupt; such visionaries, though misconceiving it, can still see fairly truly if faithful and free of self-desire.
+  - Reading: 'misconceive' may mean 'conceive in' (receive) the Evester rather than misunderstand it.
+  - Reading: Words are missing after 'having a', so the conditions may be incomplete.
+  - Basis: The phrase 'having a see' is grammatically broken; the clause continues 'if they continue faithful of purpose without much self-desire; it is self-desire that adulterates'.
+- “Vaughan, the Welshman, very elegantly depicts the play of that ether.” `APP ¶105`
+  - Reading: 'that ether' is the Regio phantastica / Evester just discussed.
+  - Reading: 'that ether' is some other medium not named in this chunk.
+  - Basis: The sentence follows directly on the Evester; no explicit identity is asserted.
+- “It is by shutting up of ours in its center that we become sensibly visible to sense” `APP ¶105`
+  - Reading: 'ours' = our light, shut up in its center, so the body shows instead of shining.
+  - Reading: 'ours' = our eye or body, shut in its center.
+  - Basis: Preceded by 'a body can only become invisible through excess of light from within it' and the eye-and-iris image; the antecedent is unstated.
+- “this earth becomes the punctum saliens of the Divine Cross which before was its punctum” `APP ¶110`
+  - Reading: The earth (residuum) changes from a fixed point into the living point of the Cross.
+  - Reading: The Cross, formerly the earth's point, becomes its living point.
+  - Basis: The relative clause 'which before was its punctum' could refer to earth or to the Cross.
+
+## Translations
+
+- `APP ¶100` “Tractatus Aureus” → Golden Treatise *(ours)*
+- `APP ¶105` “Regio phantastica” → the phantastic region *(ours)*
+- `APP ¶110` “punctum saliens” → leaping (springing) point *(ours)*
+- `APP ¶110` “Festina lente, Ne quid nimis” → Make haste slowly; nothing in excess *(ours)*
+- `APP ¶110` “odium theologicum” → theological hatred *(ours)*
+- `APP ¶110` “Katharoi” → the pure ones *(ours)*
+
+## Threads
+
+- `APP ¶97` Notes are numbered (91)-(109); what they annotate is not stated in this chunk.
+- `APP ¶100` Points to the magic Key prepared by the anonymous author of the Tractatus Aureus (Museum Hermeticum, edit. 1649, p. 45).

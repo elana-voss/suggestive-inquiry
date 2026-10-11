@@ -1,0 +1,314 @@
+# I.3_05
+
+*Sections Five to Seven of the Golden Treatise of Hermes: the dissolution and repeated death and revival of the matter by withdrawal and return of the spirit, the hidden unguent, the joining of Heaven and Earth through the Water, and gold as the ferment Ixir. Atwood's footnotes read these as operations of the Spirit and of light in life, and close the treatise by stressing how thoroughly the alchemists veiled the matter, the vessel and the method.*
+
+## Argument
+
+- Section Fifth: what is born of the crow begins the Art. Hermes has obscured the matter by circumlocution, calling one thing dissolved and joined, nearest and furthest. `I.3 ¶45, I.3 ¶46` — QUOTED: Hermes
+- The philosophic work begins only after the dissolution; the preliminary preparation is the gross work. Alchemists everywhere veil by repetition and circumlocution, imitating the spirit's devious instinct. `I.3 n56` — ATWOOD
+- Boil the matter in what comes from the horse's belly 7, 14 or 21 days; it becomes the Dragon eating his wings. Lute the furnace so no spirit escapes. The earth's periods are in the water, bound until the bath is applied. `I.3 ¶47` — QUOTED: Hermes
+- This restates the dissolution. Scholiast: decoct in the Athanor with continual fire; seal the vessel with the Hermetic seal lest the mineral vapour escape and leave a dead body. `I.3 n57` — QUOTED: Scholiast
+- The brain is triturated in sharp vinegar until obscured; it then lives in putrefaction, its dark clouds changed; repeated, it dies and lives again. It dies when the spirit is withdrawn, revives when it returns; then the sought thing and the joyful signs appear. `I.3 ¶48, I.3 ¶49` — QUOTED: Hermes
+- The Spirit's superior life is obscured in purification to reveal its mineral radix. `I.3 n58` — ATWOOD
+- Ancestors veiled this in figures; Hermes claims to have opened the riddle and 'associated the Spirit'. The Art is said to consist summarily in a scientific association of the Spirit. `I.3 ¶50, I.3 n59` — QUOTED: Hermes
+- Section Sixth: thanks to God. The stone's possessor must be grateful, guard against abusing it, and sink from self-love into adoration of divine goodness; only in humility is God met. `I.3 ¶52, I.3 n60` — ATWOOD
+- Reject unguents of fats, hair, verdigrease, tragacanth and bones. Scholiast: the adepts' fixed sulfur is nature's true balsam, preserving bodies; the universal medicine is concreted from things rich in it. `I.3 ¶53, I.3 n61` — QUOTED: Hermes
+- The tincture-bearing ointment is the occult unguent in the matter's own body, like fire in stones, to be extracted without combustion. Atwood: the matter is simple; the artist dissolves the spirit's external forms without destroying the continental life. `I.3 ¶54, I.3 n62` — QUOTED: Hermes
+- Heaven joins Earth through the Water; from the Stone come water, gold, then medial gold. Atwood: these are the Spirit's two poles and medium; the water is the mercurial quintessence, vaporous at first, made golden by the central light, converting nature into itself. `I.3 ¶55, I.3 n63` — QUOTED: Hermes
+- Dissolution drives vapour, blackness and death from water, unguent and feces, yielding the secret of all hidden things. Atwood: artificial dissolution of the vital bond develops the Causal principle into reminiscence in the recreated life. `I.3 ¶56, I.3 n64` — QUOTED: Hermes
+- Section Seventh: gold, first of seven bodies, incorruptible, is the ferment Ixir that vivifies every metallic body. Atwood: this is living gold, not dead metal; the seven bodies are inferior spheres of vitality. `I.3 ¶57, I.3 ¶58, I.3 n65` — QUOTED: Hermes
+- As leaven in dough: purify, separate, conjoin, ferment earth with water until the Ixir ferments. The ferment must be kindred; it whitens, prevents combustion, holds the tincture, joins bodies: the Key of the philosophers. Negligence and false opinion pervert it. `I.3 ¶58` — QUOTED: Hermes
+- Meditate the analogy: without the ferment of its own virtue a thing corrupts. Whitening precedes rubifying, so no contradiction. Errors come from misunderstanding fermentation. `I.3 n66, I.3 n67, I.3 n68` — ATWOOD
+- Maria: rectify Kibric and Zibeth (soul and spirit), two fumes of one root, on the white body; under moderate fire it reaches perfect red or white, a pearl-like transmuting body. The fumes are repeatedly separated and reunited until indecomposable. `I.3 n67` — QUOTED: Maria
+- The golden matter tends to red and is not sweet; it makes Sericum, Ixir; the king's seal tinges the clay. Atwood: the new light first terrifies the outer life, whose wrath yields to love (the theosophist); the King's seal is the Law of Light impressed on regenerated nature. `I.3 ¶59, I.3 n69` — QUOTED: Hermes
+- The Stone is spotless gold, the citrine Universal Ferment. Atwood asks whether it is Light essentialized into an immutable magnet, an ultimate reward of toil. Adept: it cures and tinges; ferment with pure gold before projection; multiply by dissolution and coagulation. `I.3 ¶60, I.3 n70` — ATWOOD
+- Gold of the wise digested with fiery water makes Ixir; temperate, not equal, composition. The work begins from vegetable, then animal, as in an egg; our earth is gold. `I.3 ¶61, I.3 ¶62` — QUOTED: Hermes
+- Atwood: the treatise hides whence, when and how the Matter is taken, and the vessel. An experimental clue led her; she seeks Isis, who gathers the scattered members. `I.3 n71` — ATWOOD
+
+## Method
+
+- **principle** — “this nearest I have termed furthest off” `I.3 ¶46` (QUOTED: Hermes)
+  - **Plain (stated):** One and the same thing is deliberately given opposite names (dissolved/joined, nearest/furthest) to hide it.
+  - Basis: I.3 ¶46 says this was done to obscure the matter by circumlocution; I.3 n56 says alchemists everywhere obscure the truth by repetition and circumlocution.
+  - Also: “I have obscured matter treated of, by circumlocution, depriving it of light” `I.3 ¶46`
+  - Also: “imitating the devious instinct of the spirit in his illustrations” `I.3 n56`
+- **stage** — “the preliminary preparation of the matter being very generally termed the gross work” `I.3 n56` (ATWOOD)
+  - **Plain (stated):** The work has two phases: a preliminary preparation (the gross work), and the philosophic work proper, which begins only after the dissolution.
+  - Basis: I.3 n56.
+  - Also: “The philosophic work is not considered to begin until after the dissolution” `I.3 n56`
+- **stage** — “that which is born of the crow is the beginning of this Art” `I.3 ¶46` (QUOTED: Hermes)
+  - **Plain (interpreted):** The Art properly begins from what issues out of the 'crow' stage; the chunk does not explain the crow, but Atwood's note places the beginning of the philosophic work after the dissolution, so the narrowest reading is that the crow-born thing is the product of the dissolution.
+  - Basis: I.3 n56, attached to this sentence, says the philosophic work begins only after the dissolution.
+- **procedure** — “boil them in that which comes from the horse's belly for seven, fourteen, or twenty-one days” `I.3 ¶47` (QUOTED: Hermes)
+  - **Plain (interpreted):** A prolonged decoction of the matter with continual heat, for seven, fourteen or twenty-one days.
+  - Basis: I.3 n57 says this paragraph restates the dissolution and gives the Scholiast's reading: decoction in the furnace Athanor 'with a continual fire'. The 'horse's belly' itself is not explained.
+  - Also: “The matter, he says, is to be decocted in the philosophic furnace called Athanor, with a continual fire.” `I.3 n57`
+- **sign** — “the Dragon eating his own wings and destroying himself” `I.3 ¶47` (QUOTED: Hermes)
+  - **Plain (interpreted):** The matter undergoes self-dissolution; the image marks the dissolution stage.
+  - Basis: I.3 n57: 'The process of the dissolution is here gone over again'. The dragon itself is not glossed in this chunk.
+- **procedure** — “let it be put into a furnace, which lute diligently, and observe that none of the spirit may escape” `I.3 ¶47` (QUOTED: Hermes)
+  - **Plain (stated):** The vessel must be sealed exactly, so the penetrating vapour (the spirit) cannot escape and leave the matter a dead body.
+  - Basis: I.3 n57 (Scholiast) explains the luting as exact sealing of the vessel with the Hermetic seal.
+  - Also: “lest the penetrative mineral vapor should expire and leave the dead body” `I.3 n57`
+  - Also: “with the lutum Sapientiae, or Hermetic seal” `I.3 n57`
+- **procedure** — “take the brain thereof and triturate it in most sharp vinegar till it becomes obscured” `I.3 ¶48` (QUOTED: Hermes)
+  - **Plain (stated):** The higher ('cerebral') life of the Spirit is darkened during the purification so that its true mineral root or source can be revealed.
+  - Basis: I.3 n58, Atwood's gloss on this sentence. The 'vinegar' is not separately explained.
+  - Also: “The cerebral, or superior life of the Spirit, is obscured during the purification, and for the revealment of its true mineral radix or source.” `I.3 n58`
+- **stage** — “it lives in the putrefaction; the dark clouds which were in it before it died in its own body will be changed” `I.3 ¶48` (QUOTED: Hermes)
+  - **Plain (stated):** After the obscuring, the matter revives within putrefaction and its prior darkness is transformed; the death-and-revival is repeated more than once.
+  - Basis: I.3 ¶48 says so directly, including the repetition.
+  - Also: “it dies again as I said, thence it lives” `I.3 ¶48`
+- **principle** — “as it dies by the taking away of the spirit, so it lives in the return and is revived and rejoices in them” `I.3 ¶49` (QUOTED: Hermes)
+  - **Plain (stated):** 'Death' of the matter means withdrawal of the spirit from it; 'life' means the spirit's return. The work is done by working with the spirits.
+  - Basis: I.3 ¶49 states the identity directly ('In the life and death thereof we work with the spirits').
+- **sign** — “I have even related to thee the joyful signs, that which doth fix its own body” `I.3 ¶49` (QUOTED: Hermes)
+  - **Plain (interpreted):** On reaching the revival, what was sought becomes apparent: a sign of success is something that fixes its own body. The chunk does not explain further.
+  - Basis: I.3 ¶49 'Being arrived then at this, that which thou hast been searching for is made apparent'; the signs themselves are not described here.
+- **principle** — “even I have associated the Spirit” `I.3 ¶50` (QUOTED: Hermes)
+  - **Plain (stated):** The whole Hermetic Art can be summed up as a scientific 'association' (joining together) of the Spirit.
+  - Basis: I.3 n59 on this sentence.
+  - Also: “In a scientific association of the Spirit the Hermetic Art has been said summarily to consist” `I.3 n59`
+- **operator** — “should humble himself and sink away from every appetite of self love into the single adoration of the divine goodness” `I.3 n60` (ATWOOD)
+  - **Plain (stated):** The possessor of the stone must be grateful, watchful against abusing its power, and humble, giving up self-love; only in humility is God met.
+  - Basis: I.3 n60.
+  - Also: “to be watchful of every temptation, lest he should be drawn, even unwittingly, to abuse it” `I.3 n60`
+  - Also: “Yet this is an ultimate promise only, and the reward of ardent and continual toil” `I.3 n70`
+- **impediment** — “Away the, O sons of Science, with the unguents extracted from fats, hair, verdigrease, tragacanth, and bones” `I.3 ¶53` (QUOTED: Hermes)
+  - **Plain (stated):** The true unguent is not made from ordinary animal, vegetable or mineral substances listed in older books; such recipes are to be rejected.
+  - Basis: I.3 ¶53 rejects them; I.3 ¶54 contrasts them with the occult unguent.
+- **subject** — “It is the Form of all other unguents in which is the occult and buried unguent, and of which there appears to be no preparation.” `I.3 ¶54` (QUOTED: Hermes)
+  - **Plain (stated):** The true unguent is hidden within the matter's own body, needing no outside preparation; Atwood takes this as a reminder that the matter is simple and has its own formal light.
+  - Basis: I.3 ¶54 'It dwells in his own body'; I.3 n62 gloss.
+  - Also: “It dwells in his own body, as fire in trees and stones” `I.3 ¶54`
+  - Also: “Here again we are reminded of the simplicity of the matter worked with, and its formal light.” `I.3 n62`
+- **procedure** — “which by most subtle art and ingenuity it behooves us to extract without combustion” `I.3 ¶54` (QUOTED: Hermes)
+  - **Plain (stated):** The hidden unguent must be drawn out without destroying it: the artist strips away the various external forms the spirit has taken on, dissolving them without destroying the containing life.
+  - Basis: I.3 n62 glosses this sentence.
+  - Also: “it behooves the artist to extract these, therefore, and to dissolve without destroying the continental life” `I.3 n62`
+- **subject** — “The fixed sulfur of adepts, according to our Scholiast, is the true balsam of nature” `I.3 n61` (QUOTED: Scholiast)
+  - **Plain (stated):** The preserving principle the adepts call fixed sulfur is a natural balsam; the more a thing contains it, the longer it lives; the universal medicine is concreted from things rich in it.
+  - Basis: I.3 n61.
+  - Also: “From things, therefore, abounding with a balsam of this kind, the universal medicine is concreted” `I.3 n61`
+- **agent** — “the Heaven is to be joined mediately with the Earth; but the middle nature, which is the Water” `I.3 ¶55` (QUOTED: Hermes)
+  - **Plain (stated):** Two opposite principles (Heaven and Earth, which Atwood calls the two invisible poles of the Spirit) are joined through a middle term, the Water, which is the mercurial quintessence.
+  - Basis: Water = middle nature in I.3 ¶55; poles and medium in I.3 n63; water = mercurial quintessence in I.3 n63.
+  - Also: “The two invisible poles of the Spirit are here especially signalized by Hermes, and that consummate medium which brings them forth into manifestation.” `I.3 n63`
+  - Also: “The water alluded to is the mercurial quintessence” `I.3 n63`
+- **stage** — “the water holds of all the first place which goes forth from this Stone; the second is gold; and the third is our almost or medial gold” `I.3 ¶55` (QUOTED: Hermes)
+  - **Plain (interpreted):** Order of products from the Stone: water first, then gold, then 'medial gold'. Atwood's note describes the water (mercurial quintessence) as first born humid and vaporous, then becoming golden as the central light informs it, communicating its tincture and growing by converting nature into itself; the note does not map 'medial gold' explicitly.
+  - Basis: I.3 ¶55 gives the order; I.3 n63 describes the water becoming golden. Linking n63's sequence to the three products is inference.
+  - Also: “which being successively informed by the central light becomes golden and aurific, communicating its tincture” `I.3 n63`
+  - Also: “transmuting the catholic nature into itself” `I.3 n63`
+- **impediment** — “drive away the vapour from the water, the blackness from the unguent, and death from the feces, and this by dissolution” `I.3 ¶56` (QUOTED: Hermes)
+  - **Plain (stated):** Smoke, blackness and death inhere in the products and are removed by dissolution; when this is done the whole secret is had.
+  - Basis: I.3 ¶56.
+  - Also: “we have the sovereign philosophy and secret of all hidden things” `I.3 ¶56`
+- **result** — “By an artificial dissolution of the vital bond, by means of Alchemy, the Causal principle of nature is said to be developed into reminiscence and to arise in the experience of the recreated life.” `I.3 n64` (ATWOOD)
+  - **Plain (stated):** The dissolution is an artificial loosening of the bond of life; through it the causal principle of nature is recalled to awareness and experienced within the renewed life. Atwood calls this an experiment leading to a science of nature.
+  - Basis: I.3 n64.
+- **agent** — “so gold, which is the ferment Ixir, vivifies and contains every metallic body” `I.3 ¶58` (QUOTED: Hermes)
+  - **Plain (stated):** The 'gold' meant is the philosophers' living gold (a luminous concrete), not the dead metal; its soul acts as a medium perfecting the seven bodies, which here mean the lower spheres of vitality.
+  - Basis: I.3 n65 glosses this sentence.
+  - Also: “The gold of the philosophers, or living gold, as they sometimes call their luminous concrete, is here alluded to throughout” `I.3 n65`
+  - Also: “i.e., to signify here, according to Hermes, the inferior spheres of vitality in which it moves” `I.3 n65`
+  - Also: “Our gold is not common gold, says the adept, but a depurated substance, in the highest degree perfected and brought to an astral or heavenly complexion.” `I.3 n63`
+- **procedure** — “put in them the ferment confecting the earth with the water until the Ixir ferment even as dough ferments” `I.3 ¶58` (QUOTED: Hermes)
+  - **Plain (stated):** Sequence: sublime and purify the body, separate its impurity from the dregs, rejoin and mix the parts, add the ferment, and work earth and water together until the whole ferments like leavened dough.
+  - Basis: I.3 ¶58.
+  - Also: “when thou hast sublimed the body and purified it, separating the uncleanness from the faeces” `I.3 ¶58`
+- **principle** — “observe, also, that there is no ferment otherwise than from a kindred nature” `I.3 ¶58` (QUOTED: Hermes)
+  - **Plain (stated):** The ferment must be of the same nature as what it ferments: a thing is exalted only by the ferment of its own advanced virtue; Hermes asks that this be meditated so as to take the principle of perfecting into the understanding.
+  - Basis: I.3 ¶58; I.3 n66.
+  - Also: “or the liquor receive the ferment of its own advanced virtue, it will not be exalted; but die and corrupt in the inferior elements of its nature” `I.3 n66`
+  - Also: “Hermes, therefore, advises us to meditate here, that we may imbibe the principle of perfecting in our understanding” `I.3 n66`
+- **result** — “this is the Key of the philosophers and the end of their works” `I.3 ¶58` (QUOTED: Hermes)
+  - **Plain (stated):** The ferment's action (whitening, preventing burning, holding the tincture, making the bodies penetrate and join one another) is called the Key and the goal of the work.
+  - Basis: I.3 ¶58.
+  - Also: “the ferment whitens the confection and hinders it from combustion, and holds the tincture lest it should fly” `I.3 ¶58`
+- **stage** — “the fermentive light is indeed white before the multiplication of its internal form has rubified it, and the silvery spirit is made manifest before the solar ray” `I.3 n67` (ATWOOD)
+  - **Plain (stated):** Colour order: white (silver) appears first, red (solar) later, as the internal form multiplies.
+  - Basis: I.3 n67.
+- **agent** — “it is necessary to rectify Kibric and Zibeth (the soul and spirit) upon this body” `I.3 n67` (QUOTED: Maria)
+  - **Plain (stated):** Kibric and Zibeth are soul and spirit, two 'fumes' from one root; they are repeatedly separated, dissolved and reunited on the fixed white body until their fermenting power can no longer be decomposed. These two fumes are called the root of the Hermetic science.
+  - Basis: I.3 n67 (Maria).
+  - Also: “these two fumes are the root of the Hermetic science; which, being of one root, are separated, dissolved, and reunited so often until their fermentive virtue survives the utmost efforts of art or nature any more to decompose” `I.3 n67`
+- **sign** — “the composition will pass from one color to another, till it comes to the perfect red or white” `I.3 n67` (QUOTED: Maria)
+  - **Plain (stated):** Under moderate fire the composition changes colour quickly to perfect red or white, leaving a clear body like a pearl or wild poppy mixed with white, which melts, penetrates and transmutes.
+  - Basis: I.3 n67 (Maria).
+  - Also: “There is nothing further required but to maintain a moderate fire” `I.3 n67`
+  - Also: “there will appear in it a body clear, shining like a pearl or the color of wild poppy mingled with white” `I.3 n67`
+- **impediment** — “through negligence and a false opinion of the matter, the operation is perverted” `I.3 ¶58` (QUOTED: Hermes)
+  - **Plain (stated):** Carelessness and a wrong idea of what the matter is spoil the work, like bad leaven; the cause is not understanding the method and matter of fermentation.
+  - Basis: I.3 ¶58; I.3 n68.
+  - Also: “without understanding the proper method and matter of fermentation” `I.3 n68`
+- **sign** — “The colour of the golden matter points to redness, and the nature thereof, is not sweetness” `I.3 ¶59` (QUOTED: Hermes)
+  - **Plain (stated):** The appearance of the new light is at first unwelcome: it terrifies the outer life, whose wrathful properties try to swallow it, until they are weakened and lose their own will.
+  - Basis: I.3 n69 glosses this sentence, with the theosophist's account of wrath and love.
+  - Also: “The apparition of the new light to the outward qualifications of the spirit is not welcome or sweet at first, but causes a terrification of the whole circumferential life.” `I.3 n69`
+  - Also: “Thus is found, at last, a poison to death and a pestilence to hell” `I.3 n69`
+- **result** — “with the king's seal we tinge the clay” `I.3 ¶59` (QUOTED: Hermes)
+  - **Plain (stated):** The 'king's seal' is the great Law of Light, or universal reason, finally impressed on the regenerated vitality of nature. The 'clay' is not glossed separately.
+  - Basis: I.3 n69 states the meaning of the King's seal.
+  - Also: “By the King’s seal, Hermes signifies the great Law of Light or universal reason, which is finally impressed upon the regenerated vitality of nature.” `I.3 n69`
+- **result** — “The Stone, therefore, is the most precious gold without spots” `I.3 ¶60` (QUOTED: Hermes)
+  - **Plain (stated):** The Stone is a perfectly tempered, incorruptible 'gold', the Universal Ferment. Atwood proposes, as a question, that it is Light given its own substance and raised by fermentation into an unchangeable magnet that draws nature into accord with itself.
+  - Basis: I.3 ¶60; I.3 n70 (phrased as a question).
+  - Also: “the Universal Ferment rectifying all things by its composition, which is of the yellow or true citrine colour” `I.3 ¶60`
+  - Also: “This most precious Stone, are we at length to conclude then, is Light essentialized in its proper substance, and exalted by fermentation into an immutable magnet” `I.3 n70`
+- **procedure** — “if this medicine be multiplied and be again dissolved and coagulated by the water of its mercury, white or red, of which it was prepared, then the tinging virtue will be augmented each time by ten degrees” `I.3 n70` (QUOTED: the adept)
+  - **Plain (stated):** Multiplication: repeated dissolving and coagulating of the finished medicine in the same mercurial water it was made from increases its power each time. For projection on metals it must first be fermented with pure gold (red) or silver (white), and the metals purified.
+  - Basis: I.3 n70 (the adept).
+  - Also: “if the intention be to change metals into gold, it is requisite they should be first fermented with the most pure gold” `I.3 n70`
+- **procedure** — “The gold of the wise, concocted and well digested, with a fiery water, makes Ixir” `I.3 ¶61` (QUOTED: Hermes)
+  - **Plain (interpreted):** The Ixir is made by digesting the gold of the wise with a 'fiery water'; the right proportion is 'temperate', not 'equal'. The chunk does not explain the fiery water.
+  - Basis: I.3 ¶61 only; no gloss given.
+- **subject** — “our earth is gold, of all which we make seriacum, which is the ferment Ixir” `I.3 ¶62` (QUOTED: Hermes)
+  - **Plain (stated):** The 'earth' of the work is identified with gold, and from it the ferment Ixir is made; the work proceeds from vegetable to animal, as in a hen's egg (not explained here).
+  - Basis: Identity stated in I.3 ¶62; the vegetable/animal sequence is not glossed.
+  - Also: “For the work begins from the vegetable, next from the animal, as in the egg of a hen, in which is great support” `I.3 ¶62`
+- **impediment** — “the philosophic vessel, with the whole apparatus for working the Spirit to perfection, is wrapped up under an ambiguous disguise” `I.3 n71` (ATWOOD)
+  - **Plain (stated):** The treatise never says where, when or how the Matter is taken, and hides the vessel and apparatus; Atwood says she was guided through this by 'a certain experimental clue', not named here.
+  - Basis: I.3 n71.
+  - Also: “neither the does Hermes discover the true Art, either whence, when or how the Matter is to be taken” `I.3 n71`
+  - Also: “by the leading of a certain experimental clue” `I.3 n71`
+
+## Terms
+
+- **gross work** — The preliminary preparation of the matter, before the dissolution, after which the philosophic work begins. (ATWOOD)
+  - = preliminary preparation of the matter: “the preliminary preparation of the matter being very generally termed the gross work” `I.3 n56`
+  - “The philosophic work is not considered to begin until after the dissolution” `I.3 n56`
+- **dissolution** — The stage after which the philosophic work begins; by it vapour, blackness and death are driven out; Atwood calls it an artificial dissolution of the vital bond. (ATWOOD)
+  - “By an artificial dissolution of the vital bond, by means of Alchemy” `I.3 n64`
+  - “and this by dissolution” `I.3 ¶56`
+- **Athanor** — The philosophic furnace in which the matter is decocted with continual fire. (QUOTED: Scholiast)
+  - = philosophic furnace: “the philosophic furnace called Athanor” `I.3 n57`
+- **Hermetic seal** (also: lutum Sapientiae) — The exact sealing of the philosophic vessel's orifices and junctures so no vapour escapes. (QUOTED: Scholiast)
+  - = lutum Sapientiae: “with the lutum Sapientiae, or Hermetic seal” `I.3 n57`
+  - “how the orifices and junctures of the philosophic vessel must be encircled, so that no breath may go forth” `I.3 n57`
+- **putrefaction** — The state in which the obscured matter lives again and its dark clouds are changed. (QUOTED: Hermes)
+  - “it lives in the putrefaction” `I.3 ¶48`
+- **Spirit** (also: spirit, spirits) — That whose removal is the matter's death and whose return is its life; must be kept from escaping the vessel; its 'association' sums up the Art; Atwood speaks of its superior life, its two invisible poles, and its external forms. (UNCLEAR)
+  - “In the life and death thereof we work with the spirits” `I.3 ¶49`
+  - “In a scientific association of the Spirit the Hermetic Art has been said summarily to consist” `I.3 n59`
+- **unguent** (also: unguents, ointments) — The true unguent is occult, buried in the matter's own body, the Form of all other unguents, with no apparent preparation, extracted without combustion; distinct from unguents made of fats, hair etc. (QUOTED: Hermes)
+  - “the occult and buried unguent” `I.3 ¶54`
+  - “the ointments which contain the tincture coagulate the tincture, coagulate the fugitive and adorn the sulphurs” `I.3 ¶54`
+- **fixed sulfur** — The true balsam of nature which preserves bodies; the universal medicine is concreted from things rich in it. (QUOTED: Scholiast)
+  - = balsam of nature: “The fixed sulfur of adepts, according to our Scholiast, is the true balsam of nature” `I.3 n61`
+  - “The more anything abounds with this balsam, the longer it lives and is preserved from perishing.” `I.3 n61`
+- **universal medicine** — Concreted from things abounding in the balsam of nature; preserves health and roots out diseases. (QUOTED: Scholiast)
+  - “the universal medicine is concreted” `I.3 n61`
+- **Water** (also: water) — The middle nature joining Heaven and Earth; first to go forth from the Stone; the mercurial quintessence, born humid and vaporous, which becomes golden when informed by the central light. (QUOTED: Hermes)
+  - = middle nature: “the middle nature, which is the Water” `I.3 ¶55`
+  - = mercurial quintessence: “The water alluded to is the mercurial quintessence” `I.3 n63`
+  - “as it is first born in a humid and vaprous consistency” `I.3 n63`
+- **Heaven and Earth** — Two principles to be joined through the Water; Atwood reads the passage as signalizing the two invisible poles of the Spirit. (QUOTED: Hermes)
+  - “the Heaven is to be joined mediately with the Earth” `I.3 ¶55`
+- **medial gold** (also: almost or medial gold) — The third product from the Stone, after water and gold, nobler than the water with the faeces. (QUOTED: Hermes)
+  - “the third is our almost or medial gold which is more noble than the water with the faeces” `I.3 ¶55`
+- **gold of the philosophers** (also: philosopher’s gold, gold of the wise, our gold) — Not common or dead gold but a living, luminous, depurated substance of heavenly complexion, which fructifies and perfects other bodies; heavier than lead; made into Ixir with a fiery water. (ATWOOD)
+  - = living gold: “The gold of the philosophers, or living gold, as they sometimes call their luminous concrete” `I.3 n65`
+  - = our earth: “our earth is gold” `I.3 ¶62`
+  - “Our gold is not common gold, says the adept, but a depurated substance” `I.3 n63`
+  - “the gold of the wise is more heavy than lead” `I.3 ¶61`
+- **soul of gold** — The true aurific principle, which as a medium perfects the seven bodies, as the sun perfects sublunary nature. (QUOTED: Scholiast)
+  - = true aurific principle: “our soul of gold, writes the Scholiast, which is the true aurific principle” `I.3 n65`
+- **seven bodies** — In Hermes, seven bodies of which gold is first; Atwood says they signify the inferior spheres of vitality in which the soul of gold moves. (ATWOOD)
+  - = inferior spheres of vitality: “perfect all the other seven bodies; i.e., to signify here, according to Hermes, the inferior spheres of vitality in which it moves” `I.3 n65`
+  - “there are seven bodies --- of which gold is the first, the most perfect, the king of them, and their head” `I.3 ¶58`
+- **Ixir** — The ferment: made from the gold of the wise with a fiery water; tinges and fixes; without it bodies cannot be made pure. (QUOTED: Hermes)
+  - = ferment / gold: “gold, which is the ferment Ixir” `I.3 ¶58`
+  - = Sericum: “we make of them Sericum, i.e., Ixir” `I.3 ¶59`
+  - = seriacum: “we make seriacum, which is the ferment Ixir” `I.3 ¶62`
+  - = Elixir, true Ferment: “This is the Elixir, Ixir, or true Ferment tinging and fixing” `I.3 n63`
+  - “and without which bodies cannot be made pure” `I.3 n63`
+- **ferment** (also: Ferment, fermentation, leaven) — That which, like leaven in dough, changes natures into another thing; must be of kindred nature; whitens, prevents combustion, holds the tincture and joins bodies; the Key of the philosophers. (QUOTED: Hermes)
+  - “see how the ferment in this case doth change the former natures to another thing” `I.3 ¶58`
+  - “there is no ferment otherwise than from a kindred nature” `I.3 ¶58`
+- **confection** — The mixture which the ferment whitens and protects from combustion. (QUOTED: Hermes)
+  - “the ferment whitens the confection” `I.3 ¶58`
+- **Key of the philosophers** — The ferment's action of whitening, protecting, holding the tincture and joining the bodies; the end of their works. (QUOTED: Hermes)
+  - “this is the Key of the philosophers and the end of their works” `I.3 ¶58`
+- **tincture** (also: tinctures) — The colouring/transmuting virtue which the ferment holds lest it fly and which the golden quintessence communicates. (QUOTED: Hermes)
+  - “holds the tincture lest it should fly” `I.3 ¶58`
+  - “becomes golden and aurific, communicating its tincture” `I.3 n63`
+- **Kibric and Zibeth** — Soul and spirit; two fumes of one root, the root of the Hermetic science, rectified upon the white body. (QUOTED: Maria)
+  - = the soul and spirit: “Kibric and Zibeth (the soul and spirit)” `I.3 n67`
+  - = the two fumes: “the two fumes which comprise and embrace each other in the two luminaries” `I.3 n67`
+- **encaustic** — Something made from the golden matter, 'of which we have written'; not explained here. (QUOTED: Hermes)
+  - “of them we make the encaustic of which we have written” `I.3 ¶59`
+- **King's seal** (also: king's seal, King’s seal) — The great Law of Light or universal reason impressed on the regenerated vitality of nature. (ATWOOD)
+  - = great Law of Light / universal reason: “By the King’s seal, Hermes signifies the great Law of Light or universal reason” `I.3 n69`
+- **Stone** (also: philosopher’s stone, Our stone) — The most precious spotless gold, incorruptible by the elements, the citrine Universal Ferment; possibly Light essentialized and exalted by fermentation into an immutable magnet; cures maladies and tinges metals. (QUOTED: Hermes)
+  - = most precious gold without spots: “The Stone, therefore, is the most precious gold without spots” `I.3 ¶60`
+  - = Universal Ferment: “the Universal Ferment rectifying all things by its composition” `I.3 ¶60`
+  - “is Light essentialized in its proper substance, and exalted by fermentation into an immutable magnet” `I.3 n70`
+- **multiplication** (also: multiplied) — Repeated dissolution and coagulation of the medicine by the water of its mercury, augmenting its tinging virtue each time; also (n67) the growth of the internal form that rubifies the white. (UNCLEAR)
+  - “the multiplication of its internal form has rubified it” `I.3 n67`
+- **projection** — Application of the medicine to imperfect metals, which must first be fermented with pure gold to bear its subtlety. (QUOTED: the adept)
+  - “there would ensue loss and damage in the projection” `I.3 n70`
+- **circumferential life** (also: circumferential manifestations) — The outward life of the spirit, terrified at first by the new light; contrasted with the 'central whole'. (ATWOOD)
+  - “causes a terrification of the whole circumferential life” `I.3 n69`
+  - “converting her circumferential manifestations into their central whole conditionedly” `I.3 n65`
+- **continental life** — The containing life that must not be destroyed when the spirit's external forms are dissolved. (ATWOOD)
+  - “to dissolve without destroying the continental life” `I.3 n62`
+
+## Sources cited
+
+- **Hermes**, *Golden Treatise* — “that which is born of the crow is the beginning of this Art” `I.3 ¶46, I.3 ¶58, I.3 n63, I.3 n65, I.3 n66, I.3 n69, I.3 n71` — The text being commented on: Sections Fifth–Seventh form the main text; Atwood glosses it throughout and calls it a fair, less sophistical example of alchemical writing, yet veiled.
+- **the Scholiast**, *the Scholium* — “The matter, he says, is to be decocted in the philosophic furnace called Athanor, with a continual fire.” `I.3 n57, I.3 n60, I.3 n61, I.3 n63, I.3 n65, I.3 n66, I.3 n67` — Supports/explains: practical readings (Athanor, Hermetic seal), the treasury of nature in the breast, fixed sulfur as balsam of nature, soul of gold as aurific principle; also cited for reference.
+- **Lucerna Salis**, *Lucerna Salis* `I.3 n61, I.3 n63, I.3 n70` — Reference only (spelled 'Laucerna Salis' in n63).
+- **the adept** — “Our gold is not common gold, says the adept, but a depurated substance” `I.3 n63, I.3 n70` — Supports: philosophic gold is not common gold; the Stone's medical and transmuting powers, fermentation with gold before projection, and multiplication.
+- **Basil Valentine**, *Chariot of Antimony* `I.3 n66` — Reference only, for the ferment analogy.
+- **None**, *the Stone of Fire* `I.3 n66` — Reference only, for the ferment analogy.
+- **Maria**, *Maria Practica* — “Take the white, clear, and dignified herb, says Maria, which grows upon the little mountains” `I.3 n67` — Illustrates the white-before-red order and the rectification of Kibric and Zibeth (soul and spirit), the two fumes that are the root of the science.
+- **Freher**, *Analogy* `I.3 n67, I.3 n69` — Reference only.
+- **the theosophist** — “The wrathfulness is mightily exasperated by this appearance of love, says the theosophist” `I.3 n69` — Illustrates the initial hostile reception of the new light by the wrathful outer life, and love's victory over it.
+- **Khunrath**, *Amphitheat.* `I.3 n70` — Reference only ('circa finem').
+- **our ancestors** — “are given by our ancestors in figures and types” `I.3 ¶50` — Hermes says earlier masters veiled the secret in figures, which he claims to open.
+- **the books of our fathers** — “which are written in the books of our fathers” `I.3 ¶53` — Criticized: their unguents from fats, hair etc. are rejected.
+- **the philosophers** — “this gold, in relation of other bodies, is as the sun amongst the stars” `I.3 ¶58` — Hermes reports their praise of gold as sun among the stars.
+- **None** — “Ut ventus qui fiat est ille qui dat. --- Qui capit ille sapit.” `I.3 n59` — Unattributed Latin saying attached to the summary that the Art consists in an association of the Spirit.
+
+## Ambiguities
+
+- “boil them in that which comes from the horse's belly” `I.3 ¶47`
+  - Reading: A source of steady heat (the continual fire of the Athanor).
+  - Reading: A liquid or menstruum in which the matter is boiled.
+  - Basis: Reading 1: I.3 n57 summarises the paragraph's instruction as decoction 'with a continual fire'. Reading 2: the grammar 'boil them in that which comes from' names it as the medium. The chunk does not resolve it.
+- “so gold, which is the ferment Ixir, vivifies and contains every metallic body” `I.3 ¶58`
+  - Reading: Literal: the ferment acts on metals (projection, tinging).
+  - Reading: Vital: the 'seven bodies' are the inferior spheres of vitality and the passage concerns operations of the divine Law in life.
+  - Basis: Reading 1: ¶58 'every metallic body'; n70 on transmuting metals. Reading 2: n65 says the seven bodies signify the inferior spheres of vitality and the paragraph is 'not so much' about external applications. Atwood admits both but favours the second.
+- “in a temperate composition is the ferment Ixir, and contrariwise, becomes distempered by an equal composition” `I.3 ¶61`
+  - Reading: 'Temperate' means rightly proportioned, 'equal' means mere equal quantities, which spoils it.
+  - Reading: A verbal contradiction with ¶58/¶60, where gold's perfection is that its complexion is 'equalised' and 'evenly tempered'.
+  - Basis: ¶58 'its complexion is equalised'; ¶60 'evenly tempered'; ¶61 opposes 'temperate' to 'equal'. No gloss given.
+- “For the work begins from the vegetable, next from the animal, as in the egg of a hen” `I.3 ¶62`
+  - Reading: A sequence of material starting points.
+  - Reading: Stages of growth by analogy (like the developing egg), in line with the vegetable/seed and fermentation analogies.
+  - Basis: Reading 2: n63 compares the quintessence's growth to a seed becoming a tree; ¶58 uses dough and ferment analogically. No gloss on this sentence.
+- “This most precious Stone, are we at length to conclude then, is Light essentialized in its proper substance” `I.3 n70`
+  - Reading: Atwood's own conclusion, phrased rhetorically.
+  - Reading: A tentative proposal she does not fully assert.
+  - Basis: Phrased as a question; followed by 'Yet this is an ultimate promise only'.
+
+## Translations
+
+- `I.3 n59` “Ut ventus qui fiat est ille qui dat. --- Qui capit ille sapit.” → As the wind that is made is the one that gives. — He who grasps it is wise. *(ours)*
+- `I.3 n57` “lutum Sapientiae” → lute (sealing clay) of Wisdom; the book glosses it as 'Hermetic seal'. *(ours)*
+- `I.3 n71` “disjecta membra” → scattered limbs *(ours)*
+- `I.3 n70` “circa finem” → near the end *(ours)*
+
+## Threads
+
+- `I.3 n57` 'The process of the dissolution is here gone over again' — points back to an earlier treatment of the dissolution in the treatise.
+- `I.3 ¶48` 'as I have described; it dies again as I said' — refers to an earlier description of the death of the matter.
+- `I.3 ¶49` 'I have even related to thee the joyful signs' — the signs were related earlier in the treatise.
+- `I.3 ¶59` 'the encaustic of which we have written' — refers to an earlier mention of the encaustic.
+- `I.3 n62` 'Here again we are reminded of the simplicity of the matter worked with, and its formal light' — points back to earlier statements on the simplicity of the matter.
+- `I.3 n67` 'our author may be thought to contradict what has been before stated' — an earlier statement (not specified) apparently at odds with the ferment whitening.
+- `I.3 n61` 'See the Scholium and Lucerna Salis towards the end.'
+- `I.3 n69` 'See Freher’s Analogy at the end.'
+- `I.3 n71` Forward pointer: Atwood hopes, by 'a certain experimental clue', to point out the disjecta membra and discover the abode of Isis — the program of the rest of the book.

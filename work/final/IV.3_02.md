@@ -1,0 +1,313 @@
+# IV.3_02
+
+*The first-person adept of the Keys (Eudoxus, per the chapter heading; not named in this chunk) ends the Third Key by revealing 'the secret of the two mercuries', the bath of the King and the Alcahest. He then briefly gives the Fourth Key (Water into Earth), the Fifth (fermentation with the Perfect Body, likened to bread-making) and the Sixth (multiplication by reiteration). He closes on the secret fire, inspiration and prayer, philosophic versus common calcination, and the Stone as Astral Fire.*
+
+## Argument
+
+- They make two Mercuries, White and Red, of the liquor. Flammel: the citrine Mercury makes the Imbibition of the Red (he was deceived until the Jew informed him). Others: White is the Moon's bath, Red the Sun's. None shows how. `IV.3 ¶10` — QUOTED: Eudoxus
+- The Lunaria is the White Mercury, the most sharp Vinegar the Red. Feed them with 'the blood of innocents', i.e. the spirits of the bodies, the Bath where Sun and Moon wash. `IV.3 ¶10` — QUOTED: Eudoxus
+- Cosmopolite: the old man swallows gold and silver, dies, is burnt; his ashes boiled in water cure leprosy (the whole magistery). Our Old Man is our Mercury, first matter and water of metals, also steel and lodestone. Gold coupling with it eleven times is spent; the Chalybes begets a son more glorious than the Father. `IV.3 ¶10` — QUOTED: Eudoxus
+- This secret of the two mercuries, which contain the two tinctures, is the most essential point in the Practice: keep them separate lest they beget a monstrous Lineage. `IV.3 ¶10` — QUOTED: Eudoxus
+- Strike the Liquor of the Sages, hidden under the Stone, with the Red of Magic Fire. Prepare the King's bath with the Innocents' blood: the animated Mercury results, kept in a closed vessel. Hermes: united purified bodies and spirits never part. The liquor is the Alcahest, a permanent water that dissolves and stays united with the metals. `IV.3 ¶10` — QUOTED: Eudoxus
+- Fourth Key, entrance to the Second Work: boiling turns our Water into Earth, since the Mercury carries its own coagulating Sulphur. Terrification of the Spirit is the only operation. Late coagulation marks mean the body enclosing the Sulphur was badly dissolved. The earth, Land of Promise, is moistened with its own humidity and dried repeatedly. `IV.3 ¶12` — QUOTED: Eudoxus
+- Fifth Key (Third Work): the Stone is fermented with the Perfect Body, leaven of Our Paste, the Spirit uniting them as water moistens meal. Per Hermes, the whole becomes a leaven multiplying to infinity. Proportions follow bread: more meal than leaven, more water than both. `IV.3 ¶14` — QUOTED: Eudoxus
+- Sixth Key: multiplication by reiterated dissolving and coagulating, imbibing and drying. Projection is skipped. The design was to teach the preparation of Mercury; only the Third Key got full instructions, its operations needing knowledge of Nature, the matter, chemistry and heat. `IV.3 ¶16` — QUOTED: Eudoxus
+- Knowing the matter, the speaker lost fifteen years for want of the secret fire, which draws from the dry 'plant' a water that wets not the hands; joined with the dry water of the sea of the wise it becomes the mercurial liquor, Key of the Art. The royal bath must still be purified, healed and animated. `IV.3 ¶16` — QUOTED: Eudoxus
+- Knowledge comes rather by Inspiration of Heaven: pray, read, meditate on Nature. Knowing the Stone and Our Fire gives the Keys. Philosophic calcination, unlike violent common calcination, increases radical humidity, as natural fire's spirit corporifies in analogous substances. The Stone is an Astral Fire, growing like a Salamander in Elementary Fire. `IV.3 ¶16` — QUOTED: Eudoxus
+
+## Method
+
+- **subject** — “The Lunaria is the White Mercury, the most sharp Vinegar is the Red Mercury” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** The two Mercuries made from the liquor are named: the White Mercury is the 'Lunaria', the Red Mercury is the 'most sharp Vinegar'.
+  - Basis: IV.3 ¶10, given outright as the answer to 'by what means they may get these two mercuries'.
+  - Also: “of the liquor they make two Mercuries --- the one White and the other Red” `IV.3 ¶10`
+- **principle** — “the White Mercury is the bath of the Moon, and that the Red Mercury is the bath of the Sun” `IV.3 ¶10` (QUOTED: Others (reported by Eudoxus, not disputed))
+  - **Plain (stated):** Each Mercury serves as the bath of one luminary: White for the Moon, Red for the Sun. The speaker reports this without disputing it, objecting only that no one shows how to get the two.
+  - Basis: IV.3 ¶10, reported as the teaching of 'Others'.
+- **procedure** — “one must make use of the citrine Mercury to make the Imbibition of the Red” `IV.3 ¶10` (QUOTED: Flammel (via Eudoxus))
+  - **Plain (stated):** Flammel's rule: the Imbibition of the Red is made with the citrine Mercury. He warns he was himself deceived on this point until the Jew informed him. This chunk does not explain 'citrine Mercury'.
+  - Basis: IV.3 ¶10, attributed to Flammel with his warning 'not to be deceived on this point'.
+- **agent** — “the blood of innocents whose throats are cut; that is to say, the spirits of the bodies are the Bath where the Sun and Moon go to wash themselves” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** 'The blood of innocents' means the spirits of the bodies. These spirits 'feed' the two Mercuries and are the bath in which Sun and Moon are washed.
+  - Basis: IV.3 ¶10: 'that is to say' glosses the blood of innocents as the spirits of the bodies.
+  - Also: “feed them with flesh of their own species” `IV.3 ¶10`
+  - Also: “prepare the bath of the King with the blood of the Innocents” `IV.3 ¶10`
+- **subject** — “Our Old Man is our Mercury” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** In Cosmopolite's allegory the 'old man' is the Mercury. The name fits because he is the first matter of all metals; he is also their water, and Cosmopolite calls him steel and lodestone.
+  - Basis: IV.3 ¶10: 'this name indeed agrees with him because He is the first matter of all metals. He is their water'.
+  - Also: “He is the first matter of all metals” `IV.3 ¶10`
+  - Also: “to which he gives also the name of steel and of the lodestone” `IV.3 ¶10`
+- **procedure** — “if you shall give our old man gold and silver to swallow, that he may consume them, and at length he also dying may be burnt” `IV.3 ¶10` (QUOTED: Cosmopolite (via Eudoxus))
+  - **Plain (stated):** The allegory concerns purifying the Mercury: it consumes gold and silver, then itself 'dies' and is 'burnt'; its ashes, put in water and boiled enough, become a healing medicine. Cosmopolite thereby describes 'the whole magistery'. This chunk does not decode the gold, silver, death, burning or leprosy.
+  - Basis: IV.3 ¶10: Cosmopolite speaks 'of the purification of the Mercury' and 'makes an end of describing the whole magistery in these terms'; old man = Mercury is stated. Only that frame is stated.
+  - Also: “Let his ashes be strewed in the water; boil it until it is enough, and you have a medicine to cure the leprosy” `IV.3 ¶10`
+- **procedure** — “if gold couples with it eleven times it sends forth its seed, and is debilitated almost unto death; but the Chalybes conceives and begets a son more glorious than the Father” `IV.3 ¶10` (QUOTED: Cosmopolite (via Eudoxus))
+  - **Plain (interpreted):** Repeated union of gold with the Mercury exhausts the gold and passes its seed on; the receiving partner produces something superior to the gold. The chunk does not explain the number eleven.
+  - Basis: IV.3 ¶10: 'it' is the Mercury, just given 'the name of steel'; the speaker offers the passage as confirmation of the secret of the two mercuries. That 'the Chalybes' names the Mercury is inferred (see ambiguities).
+- **principle** — “this is the secret of the two mercuries which contain the two tinctures. Keep them separately, and do not confound their species, for fear they should beget a monstrous Lineage” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** The White and Red Mercuries carry the two tinctures and must be kept apart; mixing them spoils the result. The speaker calls this the most essential point in the Practice.
+  - Basis: IV.3 ¶10, said 'without an enigma', followed by 'I also reveal to you the most essential point in the Practice'.
+  - Also: “I also reveal to you the most essential point in the Practice” `IV.3 ¶10`
+- **subject** — “search the source of the Liquor of the Sages, which contains all that is necessary for the work; it is hidden under the Stone” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** Everything the work needs is in a liquor hidden in or under 'the Stone' (the matter), from which it must be drawn out.
+  - Basis: IV.3 ¶10; compare IV.3 ¶16, extracting 'out of the Stone the precious juice which it encloses in its bosom'.
+  - Also: “extract out of the Stone the precious juice which it encloses in its bosom” `IV.3 ¶16`
+- **procedure** — “strike upon it with the Red of Magic Fire, and a clear fountain will issue out” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** An agent called 'the Red of Magic Fire' applied to the Stone releases the hidden liquor as a clear flow. This chunk does not explain this fire.
+  - Basis: IV.3 ¶10: follows directly on the liquor 'hidden under the Stone'. Its possible identity with the 'secret fire of the wise' (IV.3 ¶16) is not stated (see ambiguities).
+- **result** — “you will have the animated Mercury of the wise, which never loses its virtue, if you keep it in a vessel well closed” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** Preparing the King's bath with the spirits ('blood of the Innocents') yields an 'animated' Mercury that keeps its power while kept sealed.
+  - Basis: IV.3 ¶10, in sequence after 'prepare the bath of the King with the blood of the Innocents'.
+- **principle** — “there is so much sympathy between the purified bodies and the spirits, that they never quit one another when they are united together” `IV.3 ¶10` (QUOTED: Hermes (via Eudoxus), endorsed)
+  - **Plain (stated):** Once bodies are purified, the spirits join them permanently, enlivening and dwelling in them, as the soul joins the glorified body for good.
+  - Basis: IV.3 ¶10, attributed to Hermes and endorsed: 'By this you may observe the merit of this precious liquor'.
+  - Also: “the spirits desire to be in the cleansed bodies, and having them, they enliven and dwell in them” `IV.3 ¶10`
+  - Also: “this union resembles that of the soul with the glorified body” `IV.3 ¶10`
+- **agent** — “which is in sum the great Alcahest, which radically dissolves the metals -- a true permanent water” `IV.3 ¶10` (QUOTED: Eudoxus)
+  - **Plain (stated):** The precious liquor, called by a thousand names, is the Alcahest: a permanent water that dissolves the metals completely, then stays united with them, increasing their weight and tincture.
+  - Basis: IV.3 ¶10, direct identification.
+  - Also: “after having radically dissolved them, is inseparably united to them, increasing their weight and tincture” `IV.3 ¶10`
+- **stage** — “it is this which reduces our Water into Earth” `IV.3 ¶12` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Fourth Key opens the Second Work. Our Water is turned into earth by boiling alone, because the Mercury contains its own coagulating Sulphur.
+  - Basis: IV.3 ¶12: 'by a bare boiling can be converted into Earth, because the Mercury of the Wise carries in its centre its own Sulphur, which coagulates it'.
+  - Also: “there is but this only Water in the world, which by a bare boiling can be converted into Earth” `IV.3 ¶12`
+  - Also: “the Mercury of the Wise carries in its centre its own Sulphur, which coagulates it” `IV.3 ¶12`
+- **procedure** — “The terrification of the Spirit is the only operation of this work” `IV.3 ¶12` (QUOTED: Eudoxus)
+  - **Plain (stated):** The single operation of this stage is to make the Spirit (our Mercury) bodily, i.e. turn it to earth, by patient boiling.
+  - Basis: IV.3 ¶12: 'to corporify the Spirit, which is our Mercury'; 'Boil them with patience'.
+  - Also: “to corporify the Spirit, which is our Mercury” `IV.3 ¶12`
+  - Also: “Boil them with patience” `IV.3 ¶12`
+- **sign** — “if they appear not in their time, they will never appear” `IV.3 ¶12` (QUOTED: Eudoxus)
+  - **Plain (stated):** Marks of coagulation should appear soon during boiling. If they do not, an essential earlier step failed: the body enclosing the Sulphur was not well dissolved.
+  - Basis: IV.3 ¶12: 'an undoubted sign that you have failed in some essential thing in the former operations; for to corporify the Spirit ... you must have well dissolved the body'.
+  - Also: “you must have well dissolved the body in which the Sulphur which coagulates the Mercury is enclosed” `IV.3 ¶12`
+- **result** — “the Land of Promise of the Wise” `IV.3 ¶12` (QUOTED: Eudoxus, citing Hermes)
+  - **Plain (stated):** The mercurial water turned into earth is extremely fertile; only as earth does it gain all the virtues the philosophers attribute to it.
+  - Basis: IV.3 ¶12: Hermes 'assumes that our mercurial water shall obtain all the virtues ... if it be turned into earth. An earth admirable is it for fertility'.
+  - Also: “our mercurial water shall obtain all the virtues which the philosophers attribute to it if it be turned into earth” `IV.3 ¶12`
+- **procedure** — “moisten it often with its own humidity, dry it as often” `IV.3 ¶12` (QUOTED: Eudoxus)
+  - **Plain (stated):** Repeatedly re-wet the earth with its own liquid and dry it again; this increases its virtue, weight and fertility. The 'dew of Heaven' the wise make fall on it is not explained (see ambiguities).
+  - Basis: IV.3 ¶12: 'and you will no less augment its virtue than its weight and its fertility'.
+  - Also: “knowing how to make the dew of Heaven fall upon it, cause it to produce fruits of an inestimable price” `IV.3 ¶12`
+- **stage** — “the Perfect Body is a necessary leaven of Our Paste” `IV.3 ¶14` (QUOTED: Eudoxus)
+  - **Plain (stated):** Fifth Key (the Third Work): the Stone is fermented with the Perfect Body as leaven, yielding the medicine of the Third order.
+  - Basis: IV.3 ¶14: 'The Fifth Key includes the Fermentation of the Stone with the perfect body, to make thereof the medicine of the Third order'.
+  - Also: “the Fermentation of the Stone with the perfect body, to make thereof the medicine of the Third order” `IV.3 ¶14`
+- **agent** — “the Spirit ought to make the union of the paste with the leaven in the same manner as water moistens meal” `IV.3 ¶14` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Spirit binds paste and leaven together as water joins meal and leaven into dough.
+  - Basis: IV.3 ¶14, explicit comparison, said to have been first made by Hermes.
+- **result** — “put a ferment to them and make the water earth, that the paste may be made a ferment” `IV.3 ¶14` (QUOTED: Hermes (via Eudoxus), endorsed and expounded)
+  - **Plain (stated):** Fermentation turns the whole preparation into a leaven able to ferment new matter and multiply it without limit. The speaker says this 'repeats the instruction of the whole work'.
+  - Basis: IV.3 ¶14: 'so all the philosophic confection becomes, by this operation, a leaven proper to ferment a new matter, and to multiply it to infinity'.
+  - Also: “a leaven proper to ferment a new matter, and to multiply it to infinity” `IV.3 ¶14`
+- **procedure** — “Do not the bakers put more meal than leaven, and more water than the leaven and the meal?” `IV.3 ¶14` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** Proportions follow bread-making: most 'water' (the Spirit), less 'meal' (the paste), least 'leaven' (the Perfect Body).
+  - Basis: IV.3 ¶14 says the proportions can be found from how bread is made, and assigns the Perfect Body to leaven, 'Our Paste' to what is leavened, and the Spirit to the role of water. Mapping 'meal' to the paste is inferred from 'water moistens meal'.
+- **stage** — “opening and shutting, dissolving and coagulating, imbibing and drying” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Sixth Key: the Stone is multiplied by repeating the same operation, alternately dissolving and solidifying, wetting and drying, which increases its virtues without limit. Projection is left out because success does not depend on it.
+  - Basis: IV.3 ¶16: 'The Sixth Key teaches the Multiplication of the Stone, by the reiteration of the same operation ... whereby the virtues of the Stone are infinitely augmentable'.
+  - Also: “will tell you nothing more of what relates to the Projection of the Medicine, because the success you expect depends not thereon” `IV.3 ¶16`
+- **operator** — “a great understanding of the Laws of Nature, and of the qualities of Our Matter, as well as a perfect knowledge of chemistry and of the different degrees of heat” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Only the Third Key got full instructions, because its long train of simple, natural operations requires understanding of Nature's laws, the matter's qualities, chemistry and the right degrees of heat. The speaker's stated design was to teach the operations concerning the preparation of Mercury. Nature's laws are the rules of the practice.
+  - Basis: IV.3 ¶16, the stated reason only the Third Key got full instructions; the design statement is in the same paragraph but the text does not explicitly equate the Third Key with the preparation of Mercury. IV.3 ¶14 makes the laws of Nature the rules.
+  - Also: “The laws of Nature are the rules you ought to follow in the practice of our magistery” `IV.3 ¶14`
+  - Also: “the preparation of Mercury, which the philosophers commonly pass over in silence” `IV.3 ¶16`
+- **agent** — “the secret fire of the wise, which makes to run out of this plant (dry and withered in appearance) a water which wets not the hands” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** The secret fire releases the liquid ('precious juice') from the Stone, which looks dry and dead. Without it, knowing the true matter is not enough; the speaker lost fifteen years this way. 'Our Fire', which the text calls both secret and natural, is probably the same fire.
+  - Basis: IV.3 ¶16: 'without being able to extract out of the Stone the precious juice ... for want of knowing the secret fire of the wise, which makes to run out of this plant'. That 'plant' means the Stone is inferred from this sentence; that 'Our Fire' (later in ¶16) is the same as the secret fire of the wise is inferred, not stated.
+  - Also: “the Understanding of Our Fire, which is both secret and natural” `IV.3 ¶16`
+- **procedure** — “by a magical union of the dry water of the sea of the wise, is dissolved into a viscous water -- into a mercurial liquor, which is the beginning, the foundation, and the Key of our Art” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** The extracted water, joined with another 'dry water', dissolves into a viscous mercurial liquor, the starting point and key of the whole Art. This chunk does not explain 'the dry water of the sea of the wise'.
+  - Basis: IV.3 ¶16, stated directly; the identity of the 'dry water' is not given.
+- **procedure** — “Convert, separate, and purify the elements, as I have taught you, and you will possess the true Mercury of the philosophers” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Converting, separating and purifying the elements produces the true Mercury, which in turn gives the fixed Sulphur and the Universal Medicine.
+  - Basis: IV.3 ¶16: '... which will give you the fixed Sulphur and the Universal Medicine'.
+- **stage** — “you must know how to purify, to heal, and to animate the royal bath” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** Even with the secret fire, a further stage remains: preparing the 'royal bath' (purifying, healing, animating it), in which the King is renewed. These operations are described under the Third Key.
+  - Basis: IV.3 ¶16. That this is the 'bath of the King' prepared with the 'blood of the Innocents' to give the 'animated Mercury' is inferred from IV.3 ¶10.
+  - Also: “the mysterious fountain where the King bathes himself, is made young again, and retakes a new life exempt from all sorts of infirmities” `IV.3 ¶16`
+  - Also: “you shall not attain your point at your first career” `IV.3 ¶16`
+- **operator** — “the knowledge of our Magistery comes rather by the Inspiration of Heaven than from the Lights which we can get by ourselves” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Success depends more on divine inspiration than on unaided reasoning. Work is not enough: pray daily, read good books, and meditate constantly on Nature's operations and what she can do when assisted by Art.
+  - Basis: IV.3 ¶16: 'This truth is acknowledged by all artists; ... it is not enough to work; pray daily ...'.
+  - Also: “pray daily, read good books, and meditate night and day on the operations of Nature” `IV.3 ¶16`
+- **principle** — “if you know the Stone which is the only matter of Our Stone, and if you have the Understanding of Our Fire, which is both secret and natural, you have the Keys of the Art” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Two things together give the Keys and the power to calcine the Stone: knowing the one matter, and understanding the fire, which is secret yet natural.
+  - Basis: IV.3 ¶16: '... you have the Keys of the Art, and you can calcine Our Stone'.
+- **procedure** — “not by the common calcination which is made by the violence of fire, but by a philosophic calcination which is purely natural” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Stone is calcined by a natural process, not violent heat. Common calcination destroys the body and its radical humidity; philosophic calcination preserves and increases that humidity, subliming and distilling the Stone as it calcines.
+  - Basis: IV.3 ¶16, explicit contrast, given 'with the most enlightened philosophers'; experience will confirm it.
+  - Also: “the first destroys the body and consumes the greatest part of its radical humidity; but the second does not only preserve the humidity of the body in calcining it, but still considerably augments it” `IV.3 ¶16`
+  - Also: “this philosophical calcination, which sublimes and distills the Stone in calcining it, much augments its humidity” `IV.3 ¶16`
+- **principle** — “the igneous spirit of the natural fire is corporified in the substances which are analogous to it” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** Philosophic calcination increases humidity because the fiery spirit of natural fire takes bodily form in matter akin to it.
+  - Basis: IV.3 ¶16, given as 'the reason'.
+- **subject** — “Our stone is an Astral Fire which sympathizes with the Natural Fire” `IV.3 ¶16` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Stone is itself a kind of fire, akin to natural fire. Like a salamander, it is born, nourished and grows in elementary fire suitably proportioned to it.
+  - Basis: IV.3 ¶16, direct identification, with the Salamander simile in the same sentence.
+  - Also: “as a true Salamander receives it nativity, is nourished and grows in the Elementary Fire, which is geometrically proportioned to it” `IV.3 ¶16`
+
+## Terms
+
+- **Mercury** (also: Mercuries, mercuries, our Mercury, Mercury of the Wise, true Mercury of the philosophers, mercurial) — The philosophers' Mercury: made of the liquor in two forms, White and Red, containing the two tinctures. It is the first matter and water of all metals, the Spirit to be corporified, and carries in its centre its own coagulating Sulphur. Its preparation is what the philosophers pass over in silence. (QUOTED: Eudoxus)
+  - = Our Old Man: “Our Old Man is our Mercury” `IV.3 ¶10`
+  - = first matter of all metals: “He is the first matter of all metals” `IV.3 ¶10`
+  - = water of the metals: “He is their water” `IV.3 ¶10`
+  - = Spirit: “the Spirit, which is our Mercury” `IV.3 ¶12`
+  - “the two mercuries which contain the two tinctures” `IV.3 ¶10`
+  - “the Mercury of the Wise carries in its centre its own Sulphur, which coagulates it” `IV.3 ¶12`
+- **White Mercury** — One of the two Mercuries; the speaker identifies it with the Lunaria, others call it the bath of the Moon. (QUOTED: Eudoxus)
+  - = Lunaria: “The Lunaria is the White Mercury” `IV.3 ¶10`
+  - = bath of the Moon: “the White Mercury is the bath of the Moon” `IV.3 ¶10`
+- **Red Mercury** — One of the two Mercuries; the speaker identifies it with the most sharp Vinegar, others call it the bath of the Sun. (QUOTED: Eudoxus)
+  - = most sharp Vinegar: “the most sharp Vinegar is the Red Mercury” `IV.3 ¶10`
+  - = bath of the Sun: “the Red Mercury is the bath of the Sun” `IV.3 ¶10`
+- **citrine Mercury** — According to Flammel, the Mercury used for the Imbibition of the Red. Not explained further in this chunk. (QUOTED: Flammel (via Eudoxus))
+  - “one must make use of the citrine Mercury to make the Imbibition of the Red” `IV.3 ¶10`
+- **Imbibition** (also: imbibing) — An operation named for the Red (with the citrine Mercury); in the Sixth Key it pairs with drying in the cycle of multiplication. (QUOTED: Eudoxus)
+  - “imbibing and drying” `IV.3 ¶16`
+- **Bath** (also: bath, bath of the King, royal bath) — The medium where Sun and Moon wash, identified with the spirits of the bodies. The bath of the King is prepared with the blood of the Innocents; the royal bath must be purified, healed and animated, and in it the King is made young again. (QUOTED: Eudoxus)
+  - = the spirits of the bodies: “the spirits of the bodies are the Bath where the Sun and Moon go to wash themselves” `IV.3 ¶10`
+  - “prepare the bath of the King with the blood of the Innocents” `IV.3 ¶10`
+  - “purify, to heal, and to animate the royal bath” `IV.3 ¶16`
+- **blood of innocents** (also: blood of the Innocents) — Veiled name for the spirits of the bodies, which feed the two Mercuries and prepare the King's bath. (QUOTED: Eudoxus)
+  - = spirits of the bodies: “the blood of innocents whose throats are cut; that is to say, the spirits of the bodies” `IV.3 ¶10`
+- **Our Old Man** (also: our old man) — Cosmopolite's allegorical name for the Mercury; it fits because the Mercury is the first matter of all metals. (QUOTED: Eudoxus)
+  - = Mercury: “Our Old Man is our Mercury” `IV.3 ¶10`
+  - “give our old man gold and silver to swallow” `IV.3 ¶10`
+- **first matter** — What the Mercury (Old Man) is with respect to all metals; the reason the name 'Old Man' fits. (QUOTED: Eudoxus)
+  - = Mercury / Our Old Man: “He is the first matter of all metals” `IV.3 ¶10`
+- **steel** — A name Cosmopolite gives the Mercury, with lodestone. Whether 'Chalybes' is the same name is not stated (see ambiguities). (QUOTED: Cosmopolite (via Eudoxus))
+  - = Mercury (Our Old Man): “to which he gives also the name of steel and of the lodestone” `IV.3 ¶10`
+- **lodestone** — Another name Cosmopolite gives the Mercury. (QUOTED: Cosmopolite (via Eudoxus))
+  - = Mercury (Our Old Man): “to which he gives also the name of steel and of the lodestone” `IV.3 ¶10`
+- **Chalybes** — The partner that conceives after gold couples with 'it' and begets a son more glorious than the Father. The chunk does not say what it is (see ambiguities). (QUOTED: Cosmopolite (via Eudoxus))
+  - “the Chalybes conceives and begets a son more glorious than the Father” `IV.3 ¶10`
+- **tincture** (also: tinctures) — What the two Mercuries contain (two tinctures); the Alcahest increases the metals' tincture. (QUOTED: Eudoxus)
+  - “the two mercuries which contain the two tinctures” `IV.3 ¶10`
+- **Liquor of the Sages** (also: liquor, Liquor, precious liquor) — The liquor hidden under the Stone that contains all the work needs; it has more than a thousand names and is in sum the great Alcahest. Whether it is 'the liquor' of which the two Mercuries are made is not stated (see ambiguities). (QUOTED: Eudoxus)
+  - = Alcahest: “this precious liquor, to which the philosophers have given more than a thousand different names, which is in sum the great Alcahest” `IV.3 ¶10`
+  - “search the source of the Liquor of the Sages, which contains all that is necessary for the work; it is hidden under the Stone” `IV.3 ¶10`
+- **Alcahest** — The liquor as radical dissolvent of the metals: a permanent water that stays inseparably united with the metals it dissolves, increasing their weight and tincture. (QUOTED: Eudoxus)
+  - = true permanent water: “the great Alcahest, which radically dissolves the metals -- a true permanent water” `IV.3 ¶10`
+- **animated Mercury of the wise** — The Mercury obtained once the King's bath is prepared with the blood of the Innocents; it never loses its virtue if kept in a well-closed vessel. (QUOTED: Eudoxus)
+  - “you will have the animated Mercury of the wise, which never loses its virtue” `IV.3 ¶10`
+- **Stone** (also: Our Stone, our stone, the Stone) — Used both for the matter that hides the liquor or 'precious juice' and for what is fermented, multiplied and calcined. One Stone is 'the only matter of Our Stone'. Called an Astral Fire. (QUOTED: Eudoxus)
+  - = Astral Fire: “Our stone is an Astral Fire which sympathizes with the Natural Fire” `IV.3 ¶16`
+  - “the Stone which is the only matter of Our Stone” `IV.3 ¶16`
+  - “this plant (dry and withered in appearance)” `IV.3 ¶16`
+- **Astral Fire** — What the Stone is said to be; it sympathizes with Natural Fire and grows, like a Salamander, in Elementary Fire. (QUOTED: Eudoxus)
+  - = Our stone: “Our stone is an Astral Fire” `IV.3 ¶16`
+- **Red of Magic Fire** — What strikes the Stone so that a clear fountain issues. Not explained in this chunk. (QUOTED: Eudoxus)
+  - “strike upon it with the Red of Magic Fire” `IV.3 ¶10`
+- **secret fire of the wise** (also: Secret Fire of the Wise) — The fire that makes a water which wets not the hands run out of the dry-looking 'plant'; without knowing it one fails even after knowing the true matter. The same paragraph names 'Our Fire', 'both secret and natural', as one of the two things that give the Keys; their identity is not stated outright. (QUOTED: Eudoxus)
+  - “for want of knowing the secret fire of the wise” `IV.3 ¶16`
+  - “the Understanding of Our Fire, which is both secret and natural” `IV.3 ¶16`
+- **mercurial liquor** — What the water drawn out by the secret fire dissolves into through magical union with the dry water of the sea of the wise; the beginning, foundation and Key of the Art. (QUOTED: Eudoxus)
+  - = viscous water: “is dissolved into a viscous water -- into a mercurial liquor” `IV.3 ¶16`
+  - “a mercurial liquor, which is the beginning, the foundation, and the Key of our Art” `IV.3 ¶16`
+- **dry water of the sea of the wise** — That with which the extracted water is joined by 'a magical union', dissolving it into the viscous mercurial liquor. Not explained in this chunk. (QUOTED: Eudoxus)
+  - “by a magical union of the dry water of the sea of the wise” `IV.3 ¶16`
+- **our Water** (also: Water, mercurial water) — The only water in the world that bare boiling converts into Earth; the text explains this by the Mercury of the Wise carrying its own Sulphur. As earth it gains all its virtues. (QUOTED: Eudoxus)
+  - “it is this which reduces our Water into Earth” `IV.3 ¶12`
+  - “our mercurial water shall obtain all the virtues which the philosophers attribute to it if it be turned into earth” `IV.3 ¶12`
+- **Sulphur** (also: fixed Sulphur) — The principle carried in the Mercury's centre that coagulates it; it is enclosed in a body that must first be well dissolved. The true Mercury gives the fixed Sulphur. (QUOTED: Eudoxus)
+  - “the body in which the Sulphur which coagulates the Mercury is enclosed” `IV.3 ¶12`
+  - “the fixed Sulphur and the Universal Medicine” `IV.3 ¶16`
+- **terrification** — Turning the Spirit into earth: the only operation of the Fourth Key, done by boiling. Described in the same paragraph as corporifying the Spirit and as coagulation by the Sulphur. (QUOTED: Eudoxus)
+  - “The terrification of the Spirit is the only operation of this work” `IV.3 ¶12`
+  - “to corporify the Spirit, which is our Mercury” `IV.3 ¶12`
+- **Spirit** (also: spirits) — Identified with our Mercury; corporified (turned to earth) in the Fourth Key, and unites paste and leaven in the Fifth. In the plural, the spirits of the bodies are the Bath and unite permanently with purified bodies. (QUOTED: Eudoxus)
+  - = Mercury: “the Spirit, which is our Mercury” `IV.3 ¶12`
+  - “the spirits desire to be in the cleansed bodies, and having them, they enliven and dwell in them” `IV.3 ¶10`
+- **Land of Promise of the Wise** — The fertile earth into which the mercurial water is turned; the wise make the dew of Heaven fall on it. (QUOTED: Eudoxus)
+  - = the earth made from the mercurial water: “An earth admirable is it for fertility -- the Land of Promise of the Wise” `IV.3 ¶12`
+- **dew of Heaven** — What the wise make fall on the earth so it yields precious fruit. Not explained in this chunk (see ambiguities). (QUOTED: Eudoxus)
+  - “knowing how to make the dew of Heaven fall upon it” `IV.3 ¶12`
+- **Second Work** — The stage entered by the Fourth Key, in which the Water is reduced to Earth. (QUOTED: Eudoxus)
+  - “The Fourth Key of the Art is the entrance to the Second Work” `IV.3 ¶12`
+- **Third work** — The operation of the Fifth Key, fermentation with the Perfect Body, making the medicine of the Third order. The speaker says nothing particular about it. (QUOTED: Eudoxus)
+  - “I will say nothing in particular of the operation of the Third work” `IV.3 ¶14`
+- **Fermentation** (also: ferment, fermented) — Fifth Key operation: joining the Stone with the Perfect Body as leaven, through the Spirit, so the whole becomes a leaven able to multiply. (QUOTED: Eudoxus)
+  - “the Fermentation of the Stone with the perfect body” `IV.3 ¶14`
+- **Perfect Body** (also: perfect body) — The necessary leaven with which the Stone is fermented in the Fifth Key. (QUOTED: Eudoxus)
+  - = leaven of Our Paste: “the Perfect Body is a necessary leaven of Our Paste” `IV.3 ¶14`
+- **Our Paste** (also: paste, philosophical paste) — The matter leavened by the Perfect Body, with the Spirit uniting them; composed of several matters in proportions learned from bread-making. Once fermented, 'all the philosophic confection' becomes a leaven. (QUOTED: Eudoxus)
+  - “the matters which compose our philosophical paste” `IV.3 ¶14`
+- **Multiplication** — Sixth Key: increasing the Stone's virtues without limit by reiterating the same operation. (QUOTED: Eudoxus)
+  - “the Multiplication of the Stone, by the reiteration of the same operation” `IV.3 ¶16`
+- **Projection** — Projection of the Medicine; deliberately not described, since success does not depend on it. (QUOTED: Eudoxus)
+  - “the Projection of the Medicine” `IV.3 ¶16`
+- **Universal Medicine** — Given, with the fixed Sulphur, by the true Mercury of the philosophers. The chunk also mentions 'the medicine of the Third order' and 'the three medicines'. (QUOTED: Eudoxus)
+  - “which will give you the fixed Sulphur and the Universal Medicine” `IV.3 ¶16`
+- **Keys** (also: Key, Keys of the Art) — Numbered divisions of the practice (Fourth, Fifth, Sixth here; the Third referred back to). Knowing the Stone and Our Fire is having 'the Keys of the Art'; the mercurial liquor is 'the Key of our Art'. (QUOTED: Eudoxus)
+  - “you have the Keys of the Art” `IV.3 ¶16`
+- **philosophic calcination** (also: philosophical calcination) — Purely natural calcination of the Stone that sublimes and distills it, preserving and increasing its radical humidity; opposed to common calcination by violence of fire, which destroys the body. (QUOTED: Eudoxus)
+  - = natural calcination: “a philosophic calcination which is purely natural” `IV.3 ¶16`
+  - “this philosophical calcination, which sublimes and distills the Stone in calcining it, much augments its humidity” `IV.3 ¶16`
+- **radical humidity** (also: humidity) — The body's essential moisture: common calcination consumes it, philosophic calcination preserves and increases it. In the Fourth Key the earth is moistened with its own humidity. (QUOTED: Eudoxus)
+  - “consumes the greatest part of its radical humidity” `IV.3 ¶16`
+- **Natural Fire** (also: natural fire) — Fire with which the Stone (Astral Fire) sympathizes; its igneous spirit is corporified in analogous substances. The Stone grows in 'Elementary Fire' geometrically proportioned to it; the text does not state that Natural and Elementary Fire are the same. (QUOTED: Eudoxus)
+  - “the igneous spirit of the natural fire is corporified in the substances which are analogous to it” `IV.3 ¶16`
+- **Salamander** — Image of the Stone as born, nourished and grown in fire. (QUOTED: Eudoxus)
+  - “as a true Salamander receives it nativity, is nourished and grows in the Elementary Fire” `IV.3 ¶16`
+- **magistery** (also: Magistery) — The whole work or Art; its knowledge comes rather by the Inspiration of Heaven than by one's own lights. (QUOTED: Eudoxus)
+  - “He makes an end of describing the whole magistery in these terms” `IV.3 ¶10`
+  - “the knowledge of our Magistery comes rather by the Inspiration of Heaven” `IV.3 ¶16`
+
+## Sources cited
+
+- **Eudoxus** `IV.3 ¶10, IV.3 ¶12, IV.3 ¶14, IV.3 ¶16` — Not named in this chunk. The chapter heading identifies him as the first-person speaker of the whole quoted text, which Atwood presents as instruction on the practice.
+- **Flammel** — “one must make use of the citrine Mercury to make the Imbibition of the Red” `IV.3 ¶10` — Supports: said 'more particularly' than others about the two Mercuries; warns that he was himself deceived until the Jew informed him.
+- **the Jew** `IV.3 ¶10` — Mentioned as the one who informed Flammel of the truth on this point.
+- **Cosmopolite** — “if you shall give our old man gold and silver to swallow, that he may consume them, and at length he also dying may be burnt” `IV.3 ¶10` — Supports and illustrates: his 'ingenious allegory' of the old man (Mercury) on the purification of the Mercury and the whole magistery; his naming of the Mercury as water, steel and lodestone; gold coupling eleven times and the Chalybes. Offered as confirmation of the secret of the two mercuries.
+- **Hermes** — “there is so much sympathy between the purified bodies and the spirits, that they never quit one another when they are united together” `IV.3 ¶10, IV.3 ¶12, IV.3 ¶14` — Supports: permanent union of purified bodies and spirits (¶10); the mercurial water gaining all its virtues when turned to earth (¶12); the ferment/bread comparison, 'put a ferment to them and make the water earth' (¶14).
+- **Faith** — “there shall be no more separation or death” `IV.3 ¶10` — Illustrates: the soul's permanent union with the glorified body as analogy for the union of spirits and purified bodies.
+- **Others (unnamed philosophers)** — “the White Mercury is the bath of the Moon, and that the Red Mercury is the bath of the Sun” `IV.3 ¶10` — Reported teaching on the two Mercuries as baths, which the speaker does not dispute but supplements.
+- **the philosophers / the Adepts** `IV.3 ¶10, IV.3 ¶14, IV.3 ¶16` — Contrasted: none shows how to get the two mercuries; they pass over the point 'very slightly' and the preparation of Mercury 'in silence'; the Adepts are less reserved about the last operations than the First. Reading them alone will hardly suffice.
+- **the most enlightened philosophers** `IV.3 ¶16` — Supports: the difference between common and natural calcination.
+- **all artists** — “This truth is acknowledged by all artists” `IV.3 ¶16` — Supports: that knowledge of the Magistery comes rather by Inspiration of Heaven.
+
+## Ambiguities
+
+- “Since I speak only to you, ye true scholars of Hermes” `IV.3 ¶10`
+  - Reading: The first-person speaker throughout is Eudoxus, quoted by Atwood.
+  - Reading: Some parts are Atwood's own voice or interpolation.
+  - Basis: The chapter heading and the speaker's personal history ('I myself have undergone', 'fifteen years', IV.3 ¶16) suggest a quoted adept; the chunk itself names no speaker and has no quotation marks.
+- “(and a reiteration in part and development of the foregoing)” `IV.3 ¶12`
+  - Reading: The speaker's own remark.
+  - Reading: An editorial insertion by Atwood into the quoted text.
+  - Basis: The parenthesis interrupts the Key's definition and comments on the text's structure; nothing marks whose remark it is.
+- “of the liquor they make two Mercuries” `IV.3 ¶10`
+  - Reading: 'The liquor' is the Liquor of the Sages named later in the paragraph.
+  - Reading: A liquor not identified in this chunk.
+  - Basis: Both occur in IV.3 ¶10 and the two Mercuries and the Liquor are discussed together, but no identity is stated.
+- “but the Chalybes conceives and begets a son more glorious than the Father” `IV.3 ¶10`
+  - Reading: 'Chalybes' is the Mercury/Old Man under the name 'steel', which receives gold's seed.
+  - Reading: A separate partner in Cosmopolite's figure, not identified in this chunk.
+  - Basis: Reading 1: the preceding clause says Cosmopolite gives the Mercury 'the name of steel', and gold 'couples with it'. Reading 2: the text never states Chalybes = steel = Mercury.
+- “strike upon it with the Red of Magic Fire, and a clear fountain will issue out” `IV.3 ¶10`
+  - Reading: The same as the 'secret fire of the wise' that draws water from the Stone (IV.3 ¶16).
+  - Reading: A distinct agent or operation.
+  - Basis: Reading 1: both passages describe a fire making liquid issue from the Stone ('makes to run out of this plant ... a water', IV.3 ¶16). Reading 2: no identity is stated.
+- “if you keep it in a vessel well closed, Hermes says, that there is so much sympathy” `IV.3 ¶10`
+  - Reading: 'Hermes says' introduces the following statement on the sympathy of bodies and spirits.
+  - Reading: 'Hermes says' attaches to the preceding instruction about the closed vessel.
+  - Basis: The comma splice allows either attachment; the following 'that' clause favours reading 1.
+- “knowing how to make the dew of Heaven fall upon it” `IV.3 ¶12`
+  - Reading: The 'dew of Heaven' is the earth's own humidity, re-applied by moistening.
+  - Reading: An external moistening agent not identified in this chunk.
+  - Basis: Reading 1: the next sentence says 'moisten it often with its own humidity'. Reading 2: the text does not equate the two.
+- “the Stone which is the only matter of Our Stone” `IV.3 ¶16`
+  - Reading: 'Stone' names the raw matter, 'Our Stone' the product made from it.
+  - Reading: One Stone named twice for emphasis.
+  - Basis: IV.3 ¶10 and ¶16 use 'Stone' for what hides the liquor or juice; ¶14 and ¶16 for what is fermented, multiplied and calcined. The chunk does not explain the distinction.
+
+## Threads
+
+- `IV.3 ¶10` 'If you apprehend me well, you have the point already cleared up to you' and 'then do as I have shown you' point back to earlier instructions in the Third Key.
+- `IV.3 ¶12` The Fourth Key is 'a reiteration in part and development of the foregoing'; failure of coagulation is traced to 'the former operations' (dissolving the body enclosing the Sulphur).
+- `IV.3 ¶14` The last operations are contrasted with 'the First, which are the foundations of the Art', about which the Adepts are more reserved.
+- `IV.3 ¶16` Only the Third Key received full instructions; purifying, healing and animating the royal bath are 'described' there.
+- `IV.3 ¶16` 'Convert, separate, and purify the elements, as I have taught you' refers back to earlier Keys.
+- `IV.3 ¶16` Mentions 'the three medicines' and their application, deliberately not fully described.

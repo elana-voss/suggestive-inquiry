@@ -1,6 +1,7 @@
 """Build the SillyTavern worldbook from work/dict/dictionary.json (one entry per dictionary concept).
   python3 scripts/dict_worldbook.py -> lorebook/Atwood_Hermetic_Mystery.json"""
-import json, re
+import json, re, sys
+sys.exit('Superseded by scripts/dict_worldbook_v2.py (2026-10-11 cleanup, see RUNBOOK). Old version: git show 285de1b:scripts/dict_worldbook.py')
 D = json.load(open('work/dict/dictionary.json', encoding='utf-8'))
 by = {e['id']: e for e in D}
 KIND = {'term': 'Term', 'person': 'Person', 'treatise': 'Treatise', 'collective': 'Voice'}
@@ -23,5 +24,5 @@ for e in D:
         'position': 1, 'disable': False, 'excludeRecursion': False, 'probability': 100, 'useProbability': False, 'depth': 4}
 out = {'entries': entries, 'name': 'Atwood Hermetic Mystery Lorebook',
        'description': "Dictionary of terms, persons, works and voices in Mary Anne Atwood's A Suggestive Inquiry into the Hermetic Mystery (1850), drawn only from the book. Appendix (Table Talk, begun 1860) material is labelled as a later layer."}
-json.dump(out, open('lorebook/Atwood_Hermetic_Mystery.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+json.dump(out, open('lorebook/Atwood_Hermetic_Mystery.json', 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
 print(len(entries), 'entries')

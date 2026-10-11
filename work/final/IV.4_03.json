@@ -1,0 +1,1075 @@
+{
+  "chunk": "IV.4_03",
+  "gist": "The book's closing pages. Atwood places the lost Wisdom in self-knowledge (the 'Nothing' that has the All, reached by abandoning selfhood) and laments its loss under sense-bound modern science. She ends by naming Life as the nucleus and Light as the Key of the Hermetic Mystery, with final directions for the qualified seeker: search the Root of Reason, know the first entrance and how to render the fixed tincture of life volatile and return it, and read the Adepts with the Key.",
+  "notes": [
+    {
+      "point": "Assurance of this Wisdom comes only by searching and proving 'His own Identity'; it is above science, art and faith and includes all the inquiring Spirit seeks within itself.",
+      "refs": [
+        "IV.4 ¶27"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "It is Heraclitus' Well where Truth lies hidden; the Nothing Socrates knew, for which the oracle called him wisest; what Democritus beheld; what warned Friar Bacon and convicted Agrippa, who learned that to know Nothing is the happiest life.",
+      "refs": [
+        "IV.4 ¶27"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Who knows Nothing, 'no one apostate particular', has the All and can discern, make and effect the whole; becoming 'dividual' he ceases to be the Universe; abandoning selfhood he rises and governs the world.",
+      "refs": [
+        "IV.4 ¶27"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Platonists, Kabbalah, Hermetic and Chaldaic Fragments and Adeptists agree in one divine tradition, with the Gospel's doctrine of fulfillment added, now forgotten. Moderns are blind amid 'the beguilements of sense'; theoretic science is gone with the Wisdom of Antiquity.",
+      "refs": [
+        "IV.4 ¶28"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "External science without Causal knowledge leaves us no wiser; literal readings of fable memorialize ignorance, strip the Ideal Standard, and make sense the beacon and utility the highest good.",
+      "refs": [
+        "IV.4 ¶29"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Experimental philosophy serves selfish aggrandizement; yet Lord bacon urged pursuit of Causes and the ancients' hidden Wisdom, unknowingly. Atwood addresses those naturally drawn and deemed worthy.",
+      "refs": [
+        "IV.4 ¶30"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The Light will attract them toward the true end.",
+      "refs": [
+        "IV.4 ¶31"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "She expects truth soon manifest by 'revelation of power and irresistible fact'. The catholic torch kindles the Light of Universal Nature through the three kingdoms; above all it rejoices in the Mind of Man when, upright and, with every temptation of self-idolatry in view, oblivious of all else in admiration of the Wisdom, he submits to this Reason's Rule and co-operates with the First Cause.",
+      "refs": [
+        "IV.4 ¶32"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Causal Nature is the worthiest knowledge; beyond the sea of sense lies a haven. Life is the Mystery's nucleus, Light its Key, without which its wards cannot be entered. Understanding the philosophers' language is understanding their Art; she has only opened the way; congenial Sight is needed. Seek the Root of Reason; who knows the first entrance and how to volatilize the fixed tincture of life and return it is admitted to Divine Science, the method being allied. The Adepts all declare one discovery to him with the Key. The End.",
+      "refs": [
+        "IV.4 ¶32",
+        "IV.4 ¶33"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "procedure",
+      "veiled": "It is by the searching and proving of His own Identity, not otherwise, that man can arrive at the assurance of this Wisdom",
+      "ref": "IV.4 ¶27",
+      "plain": "The only way to the Wisdom is to investigate and test one's own identity; the search is inward.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶27: 'not otherwise' excludes other routes, and the Wisdom includes 'every particular which the inquiring Spirit seeks within itself'. Whose Identity 'His' denotes is uncertain (see ambiguities).",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "every particular which the inquiring Spirit seeks within itself",
+          "ref": "IV.4 ¶27"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "this Wisdom, which is above science, art, and every other kind of faith; which includes all knowledges, arts",
+      "ref": "IV.4 ¶27",
+      "plain": "The goal is a Wisdom higher than, and containing, all science, art and faith.",
+      "status": "stated",
+      "basis": "IV.4 ¶27.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "This is that Well of Heraclitus in which the Truth yet lies profoundly hidden",
+      "ref": "IV.4 ¶27",
+      "plain": "The Wisdom reached by self-search is what is meant by Heraclitus' Well and by the Nothing Socrates knew. The chunk does not explain the 'philosophic tears'.",
+      "status": "stated",
+      "basis": "IV.4 ¶27: both 'This is that ...' clauses refer back to 'this Wisdom'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "This is that Nothing which Socrates knew",
+          "ref": "IV.4 ¶27"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "For he who in such wise knows Nothing --- no one apostate particular --- has the All",
+      "ref": "IV.4 ¶27",
+      "plain": "To 'know Nothing' means to hold to no separate, fallen-away particular; whoever does so possesses the whole.",
+      "status": "stated",
+      "basis": "IV.4 ¶27: the dash clause glosses 'Nothing' as 'no one apostate particular'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "to know Nothing was the most happy life",
+          "ref": "IV.4 ¶27"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "falling off from this, in becoming dividual, he ceases to be the Universe",
+      "ref": "IV.4 ¶27",
+      "plain": "Separating into an individual self cuts a person off from the whole; selfhood is the obstacle.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶27 states the loss directly; 'dividual' is read as separate selfhood because the remedy is 'returning again, however, into the Universal and abandoning the selfhood'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "returning again, however, into the Universal and abandoning the selfhood, he raises himself on high, and governs the world",
+      "ref": "IV.4 ¶27",
+      "plain": "Giving up selfhood and returning to the universal raises a person up and restores universal power of perception and action.",
+      "status": "stated",
+      "basis": "IV.4 ¶27, said of him who knows Nothing.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "being composed of the whole, he is able to discern, to make, and to effect the whole",
+          "ref": "IV.4 ¶27"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "blind and baffled everywhere about the beguilements of sense",
+      "ref": "IV.4 ¶28",
+      "plain": "Reliance on the senses and on external things blocks the Wisdom.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶28 contrasts the ancients' knowledge with life 'wasted on externals'; IV.4 ¶29 condemns sense as 'beacon light'; IV.4 ¶32 places the haven 'beyond the turbulent sea of sense'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "life is wasted on externals",
+          "ref": "IV.4 ¶28"
+        },
+        {
+          "text": "sense has been the acknowledged beacon light, and worldy utility the highest good",
+          "ref": "IV.4 ¶29"
+        },
+        {
+          "text": "experimental philosophy labours for selfish aggrandizement",
+          "ref": "IV.4 ¶30"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "For the discovery of the Causal Nature is doubtless of all parts of knowledge the worthiest to be sought after",
+      "ref": "IV.4 ¶32",
+      "plain": "The aim is knowledge of causes, not an accumulation of external facts.",
+      "status": "stated",
+      "basis": "IV.4 ¶29: no one is wiser 'without the Causal knowledge of these things'; IV.4 ¶30 praises 'the pursuit of Causes above every other'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "what would we be wiser without the Causal knowledge of these things?",
+          "ref": "IV.4 ¶29"
+        },
+        {
+          "text": "recommended the pursuit of Causes above every other",
+          "ref": "IV.4 ¶30"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "Those low, literal, spiritless interpretations of poetic fable and philosophy",
+      "ref": "IV.4 ¶29",
+      "plain": "The old fables and philosophy must not be read literally; literal reading only records ignorance. They are to be read through the philosophers' language, with the Key.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶29: of what use 'but to memorialize our ignorance'. IV.4 ¶32: one must understand 'the language of the philosophers' and 'peruse the fables', which are 'instructive to him who has the Key'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "we have sought to attract those chiefly to whom such a pursuit would be naturally pleasing, and such as have been customarily esteemed worthy of the reward",
+      "ref": "IV.4 ¶30",
+      "plain": "The work suits those with a natural inclination for it who are judged worthy; the Light itself draws them. Arguments convince some, while others need none, having instinctive faith.",
+      "status": "stated",
+      "basis": "IV.4 ¶30 (including 'an instinctive faith and appreciation'); IV.4 ¶31.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "for those to whom it is addressed the Light will attract",
+          "ref": "IV.4 ¶31"
+        },
+        {
+          "text": "neither was this research undertaken indiscriminately",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "nor can it be prosecuted without a congenial Sight",
+      "ref": "IV.4 ¶32",
+      "plain": "Carrying out the work needs a fitting inner faculty of perception, which argument alone does not supply. The chunk does not define 'Sight'.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32 states the requirement; IV.4 ¶30 contrasts arguments with 'an instinctive faith and appreciation'; IV.4 ¶27 stresses inward search.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "The catholic torch, miraculously kindled, kindles the Light of Universal Nature",
+      "ref": "IV.4 ¶32",
+      "plain": "A universal agent, once kindled, awakens nature's Light and works through all three kingdoms, externally or internally, morally or physically, depending on application, bringing things to their full strength by assimilation. The chunk does not say what the torch is.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32 describes its action ('diffusing energy, life and joy', 'by its voluntary assimilation') and refers its action in the three kingdoms back to earlier proof ('as we have shown').",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "either externally or internally, morally or physically, or in all these ways, according to the application",
+          "ref": "IV.4 ¶32"
+        },
+        {
+          "text": "increasing and promoting things to their utmost boundary of strength",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "he submits his own omnipotence to the omniscience of its Rule",
+      "ref": "IV.4 ¶32",
+      "plain": "The worker, upright in thought and action, subordinates his own power to the rule of the universal Reason.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32: the torch 'rejoices in the Mind of Man, when, in conscious rectitude of thought and action' he does this; 'its Rule' read as the Rule of 'this Reason' (antecedent uncertain, see ambiguities).",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "in conscious rectitude of thought and action",
+          "ref": "IV.4 ¶32"
+        },
+        {
+          "text": "including all in the catholic perceivance of this Reason",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "with every temptation of self-idolatry laid open to view",
+      "ref": "IV.4 ¶32",
+      "plain": "When nature's resources open to the worker, the danger is self-worship; he must forget himself in admiration and love of the Wisdom.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32: the clause is followed by 'oblivious of all else in admiration and love of so much Wisdom'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "oblivious of all else in admiration and love of so much Wisdom and integral perfection",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "he co-operates with the First Cause",
+      "ref": "IV.4 ¶32",
+      "plain": "The highest outcome is that the person works together with the First Cause.",
+      "status": "stated",
+      "basis": "IV.4 ¶32.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "sign",
+      "veiled": "beyond the turbulent sea of sense, there is a haven and signal marks to direct where the Promised Land is to be found",
+      "ref": "IV.4 ¶32",
+      "plain": "Beyond sense experience there is a real goal, and there are signs pointing the way to it. The chunk does not say what the marks are.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32 follows the saying about 'ill discoverers that think there is no land because they discern nothing but sea'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "And Life is the nucleus of the whole Hermetic Mystery",
+      "ref": "IV.4 ¶32",
+      "plain": "Life is the central subject of the Hermetic work.",
+      "status": "stated",
+      "basis": "IV.4 ¶32.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the Key thereof is Light",
+      "ref": "IV.4 ¶32",
+      "plain": "Light opens the Mystery; without it one can neither enter nor explain it, and with it the Adepts' writings become instructive.",
+      "status": "stated",
+      "basis": "IV.4 ¶32: 'If, however, the Key is wanting, how may we presume to enter'; the Adepts are 'instructive to him who has the Key'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the golden ore of which, likewise, we have lavishly shown",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "those mirific wards which were constructed by it, and for it to pass through, and for it alone",
+      "ref": "IV.4 ¶32",
+      "plain": "The intricate obscurities of the Mystery (the 'wards' of the lock) were made by and for the Key, Light, and only it can pass through or explain them. What the wards are is not stated (see ambiguities).",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32: the lock-and-key image follows 'the Key thereof is Light'; 'it' read as the Key.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "They, we repeat, who can understand the language of the philosophers, will understand their Art",
+      "ref": "IV.4 ¶32",
+      "plain": "Understanding the philosophers' language is understanding their Art. The book only opens the way; success is assured to whoever travels it, and to no one otherwise. Atwood admits she may have opened too much or too little.",
+      "status": "stated",
+      "basis": "IV.4 ¶32.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "for this we have opened the way only, which if any one will consent to travel in, we assure him of success, but not otherwise",
+          "ref": "IV.4 ¶32"
+        },
+        {
+          "text": "Some may consider we have opened too much, others too little of a mystery irrelevant to the common understanding of mankind",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "let him search for the Root of Reason rationally, and hold by it, and conspire with It",
+      "ref": "IV.4 ¶32",
+      "plain": "The seeker must rationally seek the source of Reason, hold to it and act in concert with it. The chunk does not define 'Root of Reason'.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32; 'conspire with' read as acting in unison, in line with submitting to 'the omniscience of its Rule' and 'this Reason' earlier in the paragraph.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "He who knows the first entrance, and how to render the fixed tincture of life volatile, and to return it, being free",
+      "ref": "IV.4 ¶32",
+      "plain": "The key operation, with knowledge of the 'first entrance', is to make the fixed life-tincture volatile and then return it. Whether 'being free' qualifies the tincture or the knower is uncertain. The chunk does not explain the operation further.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32 names the operation without explaining it; such a one 'is already admitted to the temple of Divine Science'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "through all the interior recesses, the method is allied",
+      "ref": "IV.4 ¶32",
+      "plain": "One method runs through every stage, so whoever knows the entrance and that operation has access to the whole.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32 gives it ('because') as the reason such a person is admitted; 'allied' read as 'of one kind throughout'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "is already admitted to the temple of Divine Science, and joins in with the whole conclave",
+      "ref": "IV.4 ¶32",
+      "plain": "Whoever knows the operation joins the company of those who possess the divine knowledge.",
+      "status": "interpreted",
+      "basis": "IV.4 ¶32.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "if they advance by it to the true end",
+          "ref": "IV.4 ¶31"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "Let him search into the enigmas, peruse the fables, and consider the parables and maxims of the wise Adepts",
+      "ref": "IV.4 ¶32",
+      "plain": "Study the Adepts' symbolic writings; they all point to one discovery, and even their contradictions teach whoever has the Key.",
+      "status": "stated",
+      "basis": "IV.4 ¶32.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "They all tend to one discovery, and declare the same",
+          "ref": "IV.4 ¶32"
+        },
+        {
+          "text": "even in their inconsistencies will be instructive to him who has the Key",
+          "ref": "IV.4 ¶32"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Wisdom",
+      "variants": [
+        "Wisdom of Antiquity",
+        "hidden Wisdom",
+        "lost Wisdom"
+      ],
+      "meaning": "Knowledge above science, art and faith that includes all knowledges, reached only by searching one's own Identity; once held by the ancients, now lost.",
+      "equivalences": [
+        {
+          "with": "Well of Heraclitus",
+          "quote": "This is that Well of Heraclitus in which the Truth yet lies profoundly hidden",
+          "ref": "IV.4 ¶27"
+        },
+        {
+          "with": "Nothing",
+          "quote": "This is that Nothing which Socrates knew",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "this Wisdom, which is above science, art, and every other kind of faith",
+          "ref": "IV.4 ¶27"
+        },
+        {
+          "text": "the Wisdom of Antiquity has disappeared from amongst men",
+          "ref": "IV.4 ¶28"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Identity",
+      "variants": [],
+      "meaning": "What must be searched and proved to reach the Wisdom; whose Identity is uncertain (see ambiguities).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the searching and proving of His own Identity",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Nothing",
+      "variants": [],
+      "meaning": "Knowing no 'apostate particular'; whoever knows Nothing in this sense has the All.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "For he who in such wise knows Nothing --- no one apostate particular --- has the All",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "the All",
+      "variants": [],
+      "meaning": "What he has who knows Nothing; being composed of the whole, he can discern, make and effect the whole.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "being composed of the whole, he is able to discern, to make, and to effect the whole",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Universal",
+      "variants": [
+        "Universe"
+      ],
+      "meaning": "The whole, which one ceases to be by becoming dividual and returns into by abandoning selfhood.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "returning again, however, into the Universal and abandoning the selfhood",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "dividual",
+      "variants": [],
+      "meaning": "The condition, reached by 'falling off', in which one ceases to be the Universe.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "in becoming dividual, he ceases to be the Universe",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "selfhood",
+      "variants": [],
+      "meaning": "What must be abandoned to return into the Universal.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "abandoning the selfhood",
+          "ref": "IV.4 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Theoretic science",
+      "variants": [],
+      "meaning": "Everywhere condemned, yet Atwood says none exists today, since the Wisdom of Antiquity has disappeared.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Theoretic science is everywhere condemned; but there is no such thing at this day",
+          "ref": "IV.4 ¶28"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Causal knowledge",
+      "variants": [
+        "Causal Nature",
+        "Causes"
+      ],
+      "meaning": "Knowledge of causes; without it external science leaves us no wiser; the worthiest part of knowledge.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "what would we be wiser without the Causal knowledge of these things?",
+          "ref": "IV.4 ¶29"
+        },
+        {
+          "text": "For the discovery of the Causal Nature is doubtless of all parts of knowledge the worthiest to be sought after",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Ideal Standard",
+      "variants": [],
+      "meaning": "The ideal measure of excellence, stripped away by modern literal conceits.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "conceits which have stripped the Ideal Standard of all excellency",
+          "ref": "IV.4 ¶29"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "experimental philosophy",
+      "variants": [],
+      "meaning": "Modern science led by Lord bacon's 'exterminating chase'; it labours for selfish aggrandizement.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "experimental philosophy labours for selfish aggrandizement",
+          "ref": "IV.4 ¶30"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "sense",
+      "variants": [],
+      "meaning": "Sense perception and its beguilements, made the beacon of modern thought; the 'turbulent sea' beyond which the haven lies.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the beguilements of sense",
+          "ref": "IV.4 ¶28"
+        },
+        {
+          "text": "beyond the turbulent sea of sense",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Sacred Art",
+      "variants": [
+        "Art"
+      ],
+      "meaning": "The Art whose lights and relics Atwood has tried to revive; understood by whoever understands the philosophers' language.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "these lights and relics of the Sacred Art long buried in oblivion",
+          "ref": "IV.4 ¶30"
+        },
+        {
+          "text": "who can understand the language of the philosophers, will understand their Art",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "catholic torch",
+      "variants": [],
+      "meaning": "Something 'miraculously kindled' that kindles the Light of Universal Nature, acts through the three kingdoms by voluntary assimilation, and rejoices most in the Mind of Man; not identified further.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The catholic torch, miraculously kindled, kindles the Light of Universal Nature",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Light of Universal Nature",
+      "variants": [],
+      "meaning": "The light the catholic torch kindles; not defined further.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "kindles the Light of Universal Nature",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "three kingdoms",
+      "variants": [],
+      "meaning": "The domains through which the torch diffuses energy, life and joy; not named here, referred back to earlier proof.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "in either if the three kingdoms, as we have shown, by its voluntary assimilation",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "voluntary assimilation",
+      "variants": [],
+      "meaning": "The means by which the torch's action increases and promotes things to their utmost strength.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by its voluntary assimilation, increasing and promoting things to their utmost boundary of strength",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Reason",
+      "variants": [
+        "Root of Reason"
+      ],
+      "meaning": "The universal Reason whose Rule the upright mind submits to; its Root is to be searched for rationally, held by and conspired with.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "including all in the catholic perceivance of this Reason",
+          "ref": "IV.4 ¶32"
+        },
+        {
+          "text": "let him search for the Root of Reason rationally, and hold by it, and conspire with It",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "First Cause",
+      "variants": [],
+      "meaning": "That with which the upright Mind of Man co-operates.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "he co-operates with the First Cause",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hermetic Mystery",
+      "variants": [],
+      "meaning": "The whole subject of the book; Life is its nucleus and Light its Key.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "And Life is the nucleus of the whole Hermetic Mystery, and the Key thereof is Light",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Life",
+      "variants": [],
+      "meaning": "The nucleus of the whole Hermetic Mystery.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "And Life is the nucleus of the whole Hermetic Mystery",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Key",
+      "variants": [],
+      "meaning": "What opens the Mystery and alone passes through its wards; without it the Mystery cannot be entered or explained; with it the Adepts' writings become instructive.",
+      "equivalences": [
+        {
+          "with": "Light",
+          "quote": "the Key thereof is Light",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "If, however, the Key is wanting, how may we presume to enter",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Light",
+      "variants": [],
+      "meaning": "The Key of the Hermetic Mystery, whose 'golden ore' Atwood says she has shown; it attracts the readers the book addresses.",
+      "equivalences": [
+        {
+          "with": "Key",
+          "quote": "the Key thereof is Light",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "for those to whom it is addressed the Light will attract",
+          "ref": "IV.4 ¶31"
+        },
+        {
+          "text": "the golden ore of which, likewise, we have lavishly shown",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "wards",
+      "variants": [],
+      "meaning": "Intricate structures constructed by and for the Key, for it alone to pass through.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "those mirific wards which were constructed by it, and for it to pass through, and for it alone",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "congenial Sight",
+      "variants": [],
+      "meaning": "The fitting faculty without which the research cannot be prosecuted; not defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "nor can it be prosecuted without a congenial Sight",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "first entrance",
+      "variants": [],
+      "meaning": "An initial step whose knowledge, with volatilizing the fixed tincture, admits one to the temple of Divine Science; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "He who knows the first entrance",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "fixed tincture of life",
+      "variants": [],
+      "meaning": "Something fixed that must be rendered volatile and then returned; knowing how admits one to the temple of Divine Science; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "how to render the fixed tincture of life volatile, and to return it, being free",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Divine Science",
+      "variants": [],
+      "meaning": "The knowledge whose temple the knower of the first entrance and the volatilizing is admitted to, joining 'the whole conclave'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "is already admitted to the temple of Divine Science, and joins in with the whole conclave",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Promised Land",
+      "variants": [],
+      "meaning": "The goal beyond the sea of sense, where a haven is and signal marks direct.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "there is a haven and signal marks to direct where the Promised Land is to be found",
+          "ref": "IV.4 ¶32"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Heraclitus",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: the Wisdom is 'that Well of Heraclitus' where Truth lies hidden; 'whence also those philosophic tears'.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "Socrates",
+      "work": null,
+      "quote": null,
+      "use": "Supports: the Wisdom is the Nothing Socrates knew.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "the oracle",
+      "work": null,
+      "quote": null,
+      "use": "Supports: pronounced Socrates the wisest of mankind on account of that Nothing.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "Democritus",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: beholding it, he laughed at other things.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "Friar Bacon",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: it warned him 'from the error of his ways'.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "Agrippa",
+      "work": null,
+      "quote": "to know Nothing was the most happy life",
+      "use": "Supports: convicted of the vanity and confusion of his youth, he came in manhood to know this.",
+      "refs": [
+        "IV.4 ¶27"
+      ]
+    },
+    {
+      "name": "the Platonic successors",
+      "work": null,
+      "quote": null,
+      "use": "Supports: their 'highly elevated philosophy' agrees in the same divine tradition.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "the Hebrew Kabbalah",
+      "work": null,
+      "quote": null,
+      "use": "Supports: 'profound yet simple metaphysics', 'partially transmitted'; agrees in the same tradition.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "the Hermetic and Chaldaic Fragments",
+      "work": null,
+      "quote": null,
+      "use": "Supports: their 'soul-stirring syllables' agree in the same divine tradition.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "the Middle Age Adeptists",
+      "work": null,
+      "quote": null,
+      "use": "Supports: their 'refined enthusiasm' agrees in the same divine tradition.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "the Gospel",
+      "work": null,
+      "quote": null,
+      "use": "Supports: 'the Christian doctrine of fulfillment' is added to all these as agreeing in the same tradition.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "the bards and hallowed sages of Asia Minor",
+      "work": null,
+      "quote": null,
+      "use": "Contrasts: they knew their Creator under the same sun, while moderns remain blind.",
+      "refs": [
+        "IV.4 ¶28"
+      ]
+    },
+    {
+      "name": "Lord bacon",
+      "work": "Inauguration",
+      "quote": null,
+      "use": "Criticized and used: leader of the 'exterminating chase' of experimental philosophy, yet he recommended the pursuit of Causes and inquiry after the ancients' hidden Wisdom, 'though he knew it not'.",
+      "refs": [
+        "IV.4 ¶30"
+      ]
+    },
+    {
+      "name": "the wise Adepts",
+      "work": null,
+      "quote": null,
+      "use": "Supports: their enigmas, fables, parables and maxims all tend to one discovery; to be studied with the Key.",
+      "refs": [
+        "IV.4 ¶32"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "the searching and proving of His own Identity",
+      "ref": "IV.4 ¶27",
+      "readings": [
+        "man's own identity (capital H for emphasis)",
+        "God's own Identity, searched by man"
+      ],
+      "basis": "The sentence's subject is 'man' and the Wisdom is what 'the inquiring Spirit seeks within itself' (IV.4 ¶27), favouring the first; the capitalized 'His' allows the second."
+    },
+    {
+      "quote": "including all in the catholic perceivance of this Reason, he submits his own omnipotence to the omniscience of its Rule",
+      "ref": "IV.4 ¶32",
+      "readings": [
+        "'this Reason' and 'its' refer to the catholic torch, which is then the universal Reason.",
+        "'this Reason' is a separate principle the mind perceives; 'it' (borne 'elect over the rest') is the torch."
+      ],
+      "basis": "The sentence has 'it rejoices', 'he bears it' and 'this Reason' with no stated antecedent for 'this Reason'; IV.4 ¶32 later speaks of 'the Root of Reason'."
+    },
+    {
+      "quote": "The catholic torch, miraculously kindled",
+      "ref": "IV.4 ¶32",
+      "readings": [
+        "The Light that is the Key of the Mystery.",
+        "The Reason whose Rule man submits to, or the Wisdom.",
+        "An agent distinct from both."
+      ],
+      "basis": "IV.4 ¶32: the torch 'kindles the Light' (which suggests distinctness) yet the same paragraph says 'the Key thereof is Light'; the torch 'rejoices in the Mind of Man' who perceives 'this Reason'. The text never names the torch."
+    },
+    {
+      "quote": "those mirific wards which were constructed by it, and for it to pass through, and for it alone",
+      "ref": "IV.4 ¶32",
+      "readings": [
+        "The philosophers' enigmatic writings, built to be understood only with the Key.",
+        "The inner structure of the Mystery or of nature itself, which only Light can penetrate."
+      ],
+      "basis": "Reading 1: the next sentences turn to 'the language of the philosophers' and to enigmas 'instructive to him who has the Key'. Reading 2: the wards stand with 'enter' and 'Life is the nucleus of the whole Hermetic Mystery'."
+    },
+    {
+      "quote": "how to render the fixed tincture of life volatile, and to return it, being free",
+      "ref": "IV.4 ¶32",
+      "readings": [
+        "'Being free' describes the tincture: once freed (volatilized), it is returned.",
+        "'Being free' describes the knower: he who, being free, knows this."
+      ],
+      "basis": "The syntax allows both; reading 1 is the more natural attachment to 'it'."
+    },
+    {
+      "quote": "how to render the fixed tincture of life volatile, and to return it",
+      "ref": "IV.4 ¶32",
+      "readings": [
+        "A material operation of volatilizing and refixing.",
+        "An inward operation on the life-principle, freeing and returning it."
+      ],
+      "basis": "The torch works 'morally or physically' and 'Life is the nucleus' (IV.4 ¶32); the inward search of IV.4 ¶27 favours the second; the chunk does not specify."
+    }
+  ],
+  "translations": [],
+  "threads": [
+    {
+      "ref": "IV.4 ¶27",
+      "note": "'this Wisdom' continues the Wisdom discussed before this chunk."
+    },
+    {
+      "ref": "IV.4 ¶30",
+      "note": "'having studied to revive these lights and relics of the Sacred Art': sums up the whole preceding Inquiry."
+    },
+    {
+      "ref": "IV.4 ¶32",
+      "note": "'in either if the three kingdoms, as we have shown': points to an earlier demonstration of the torch's action in the three kingdoms."
+    },
+    {
+      "ref": "IV.4 ¶32",
+      "note": "'the golden ore of which, likewise, we have lavishly shown': points to earlier exposition of Light as the Key."
+    },
+    {
+      "ref": "IV.4 ¶32",
+      "note": "'we repeat our persuasion' that the subject is worthy of the highest minds, and 'we repeat' that understanding the philosophers' language means understanding their Art: both restate earlier claims."
+    },
+    {
+      "ref": "IV.4 ¶33",
+      "note": "'The End.': close of the book's main text."
+    }
+  ]
+}

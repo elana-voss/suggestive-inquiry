@@ -1,0 +1,1253 @@
+{
+  "chunk": "I.2_01",
+  "gist": "Opens Chapter II by stating the simple theory of transmutation: what is transmuted is not species but their common subject, the mercurial first matter, which art must reduce and free, and which once freed is also the transmuting agent. Atwood then sets out to identify this mercury, turning to the ancient doctrine of the Ether or hidden fire and to the few moderns who held it without being able to prove it.",
+  "notes": [
+    {
+      "point": "Epigraph: all the wise seek is in Mercury.",
+      "refs": [
+        "I.2 ¶1"
+      ],
+      "voice": "QUOTED: Turba"
+    },
+    {
+      "point": "The theory is simple: a pure matter in nature, perfected by art, converts to itself proportionally all imperfect bodies it touches.",
+      "refs": [
+        "I.2 ¶2"
+      ],
+      "voice": "QUOTED: Arnold di Villanova (endorsed)"
+    },
+    {
+      "point": "Ground of transmutation: all natures share one radical substance and can be reduced to a common mercurial first matter, occult and undiscoverable by ordinary analysis.",
+      "refs": [
+        "I.2 ¶3"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Objection: species cannot change; gold infused into lead gives only a mixed middle nature, so transmutation is sophistical.",
+      "refs": [
+        "I.2 ¶3"
+      ],
+      "voice": "QUOTED: unnamed objectors (Atwood: rests on misunderstanding the alchemists)"
+    },
+    {
+      "point": "Alchemists accept this: not lead as lead (no more than dog into horse), but the subject-matter, the radical moisture of metals, is withdrawn by art from inferior Forms, freed by a superior ferment or attraction.",
+      "refs": [
+        "I.2 ¶4"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "First work and foundation is Solution: reducing the body into water, i.e. mercury, argent vive. Subjects of species change only once reduced to first matter; then one form is expelled and another introduced, as glass from flints and ashes.",
+      "refs": [
+        "I.2 ¶5"
+      ],
+      "voice": "QUOTED: Friar Bacon; the author of the Rosarium (endorsed)"
+    },
+    {
+      "point": "Arnold, Avicenna, Aristotle concur; Ripley: metals transmute only reduced to their beginning, so liquable bodies may be mercurized.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 ¶6"
+      ],
+      "voice": "QUOTED: Arnold; Ripley (endorsed)"
+    },
+    {
+      "point": "Lully denies only a false version of the art.",
+      "refs": [
+        "I.2 ¶7"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The Universal Subject is both thing transmuted and, freed in its proper essentiality, thing transmuting. An adept: only the Light multiplies; perfected by art it exalts any body in its own kind; every body has passive principles for it, so nothing is borrowed from gold or silver.",
+      "refs": [
+        "I.2 ¶8",
+        "I.2 n9"
+      ],
+      "voice": "ATWOOD; QUOTED: the adept"
+    },
+    {
+      "point": "This corrects the notion that alchemists extracted the Form from metals. Imputed follies (weighing elements, fixing metallic vapor by heat or sun and moon rays) were not theirs: they worked the one universal living occult nature by and through itself.",
+      "refs": [
+        "I.2 ¶9"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Lucerna Solis: one thing everywhere, no element yet able to become each, containing all nature; the Sages call it their salt, from their earth, not vulgar salt but salt of the world containing all Life; it makes the universal medicine.",
+      "refs": [
+        "I.2 ¶9",
+        "I.2 ¶10"
+      ],
+      "voice": "QUOTED: Lucerna Solis"
+    },
+    {
+      "point": "Stone and medicine are one; only superfluities are removed. Geber: Sol reduced to mercury, nature embraces nature; the Stone is foetant spirit and living water, dry water. Aquinas: Mercury alone, root of gold and silver, dissolves, coagulates, colours, conceives and brings forth itself.",
+      "refs": [
+        "I.2 ¶11"
+      ],
+      "voice": "QUOTED: the monk (Rosary); Geber; Aquinas (endorsed)"
+    },
+    {
+      "point": "Nature is ordinarily known only in changes; alchemists claim to know her simple essence. Read their doctrine by this unity, not through metaphor. Atwood sets out to identify this mercury.",
+      "refs": [
+        "I.2 ¶12"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Ancient sages derived all from a pure hidden fire; the schools celebrated the all-pervading, perfective Ether governing nature; Virgil: spirit nourishes heaven, earth, stars.",
+      "refs": [
+        "I.2 ¶12",
+        "I.2 ¶13"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Ethnic Anima Mundi differs from Hebrew doctrine only in words. Air holds a secret food of life moderns cannot isolate, so the One Element is derided. Homberg, Boerhaave, Boyle held a universal Ether ready to act on predisposed subjects; Berkeley called it pure invisible fire.",
+      "refs": [
+        "I.2 ¶14"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "These moderns distinguished the fontal Spirit from its manifestation and from common fire (its mere excitation), but lacking proof and perhaps experience were disbelieved by a philosophy that supposes nothing not shown.",
+      "refs": [
+        "I.2 ¶15"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "principle",
+      "veiled": "there abides in nature a certain pure matter, which, being discovered and brought by art to perfection, converts to itself proportionally all imperfect bodies that it touches",
+      "ref": "I.2 ¶2",
+      "plain": "The whole theory: there is one pure matter in nature; once found and perfected by art, it assimilates imperfect bodies to itself in proportion.",
+      "status": "stated",
+      "basis": "I.2 ¶2 presents this as the basis of the theory.",
+      "voice": "QUOTED: Arnold di Villanova (endorsed)",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the homogeneity of the radical substance of things",
+      "ref": "I.2 ¶3",
+      "plain": "All things, metals included, share one root substance; all can be reduced to this common basis, called the mercurial first matter.",
+      "status": "stated",
+      "basis": "I.2 ¶3: 'may be reduced into their common basis or mercurial first matter'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "their common basis or mercurial first matter",
+          "ref": "I.2 ¶3"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the subject-matter of these metals, the radical moisture of which they are uniformly composed",
+      "ref": "I.2 ¶4",
+      "plain": "The art works on the common substance underlying species, not on the species (kinds) themselves.",
+      "status": "stated",
+      "basis": "I.2 ¶4; restated I.2 ¶5 and I.2 ¶7.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Species non transmutantur, sed subjecta specierum optime et propriisime",
+          "ref": "I.2 ¶5"
+        },
+        {
+          "text": "the fundamental possibility and principle of transmutation being not of species, but of their Universal Subject or first matter",
+          "ref": "I.2 ¶7"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "being set free by the force of a superior ferment or attraction",
+      "ref": "I.2 ¶4",
+      "plain": "The subject-matter is drawn out of the inferior forms by a stronger fermenting or attracting power.",
+      "status": "interpreted",
+      "basis": "I.2 ¶4 only; this chunk does not say what the ferment is. I.2 ¶8 says the freed subject is itself 'the thing transmuting', which may be this ferment.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "withdrawn by art and transported from inferior Forms",
+          "ref": "I.2 ¶4"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "the first work is to reduce the body into water, that is, into mercury, and this is called Solution, which is the foundation of the whole art",
+      "ref": "I.2 ¶5",
+      "plain": "First step: Solution, reducing the body to its first matter, which is called 'water', 'mercury' or 'argent vive'.",
+      "status": "stated",
+      "basis": "I.2 ¶5 glosses water as mercury and as argent vive.",
+      "voice": "QUOTED: Friar Bacon; the author of the Rosarium (endorsed)",
+      "also": [
+        {
+          "text": "Solution and a reduction of the body into water, which is argent vive",
+          "ref": "I.2 ¶5"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "one form being expelled, another may be introduced",
+      "ref": "I.2 ¶5",
+      "plain": "Once reduced to first matter, the subject is free to take a new form; the philosopher corrupts the old subject-matter and introduces a new Form, as glass is made from flints, stones and ashes.",
+      "status": "stated",
+      "basis": "I.2 ¶5.",
+      "voice": "QUOTED: the author of the Rosarium (endorsed)",
+      "also": [
+        {
+          "text": "unless they are reduced first into their first matter, and made free to pass from one into another form",
+          "ref": "I.2 ¶5"
+        },
+        {
+          "text": "corrupt the Subject-matter of natures and to introduce a new Form",
+          "ref": "I.2 ¶5"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "the Subject be freed by an artificial reduction",
+      "ref": "I.2 ¶5",
+      "plain": "The subject must be freed by art, by reducing it to its beginning; bodies so reduced become mercury ('mercurizate').",
+      "status": "interpreted",
+      "basis": "I.2 ¶5-6: Ripley's verse sets 'reduced to their beginning materiable' as the condition for transmutation and concludes that such bodies 'may be mercurizate', i.e. turned to mercury (word not glossed in the text).",
+      "voice": "QUOTED: Arnold; Ripley (endorsed)",
+      "also": [
+        {
+          "text": "Without they be reduced to their beginning materiable",
+          "ref": "I.2 ¶6"
+        },
+        {
+          "text": "Mineral and metalline may be mercurizate",
+          "ref": "I.2 ¶6"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the thing transmuting also, when set free and segregated in its proper essentiality",
+      "ref": "I.2 ¶8",
+      "plain": "The same Universal Subject that is transmuted becomes the transmuting agent once it is freed and separated in its pure form.",
+      "status": "stated",
+      "basis": "I.2 ¶8.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "It is the Light only that can be truly multiplied",
+      "ref": "I.2 ¶8",
+      "plain": "The active principle that multiplies and perfects is called 'the Light'; it comes from the first source of multiplication and generation.",
+      "status": "interpreted",
+      "basis": "I.2 ¶8: the Light 'ascends and descends from the first fountain of multiplication and generation' and is 'discovered and perfected by art'. Its relation to the freed Universal Subject is unclear (see ambiguities).",
+      "voice": "QUOTED: the adept",
+      "also": [
+        {
+          "text": "This Light (discovered and perfected by art)",
+          "ref": "I.2 ¶8"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "applied to any body, exalts and perfects it in its own kind",
+      "ref": "I.2 ¶8",
+      "plain": "The perfected Light improves whatever it is applied to within that thing's own kind: animals, vegetables, minerals. For minerals it raises them from worst to best condition.",
+      "status": "stated",
+      "basis": "I.2 ¶8.",
+      "voice": "QUOTED: the adept",
+      "also": [
+        {
+          "text": "translates them from the worst to the best condition",
+          "ref": "I.2 ¶8"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "every body hath passive principles in itself for this Light to work upon",
+      "ref": "I.2 ¶8",
+      "plain": "No gold or silver is needed as an ingredient: every body already contains what the Light acts on. Atwood says this corrects the error that alchemists extracted the Form out of metals.",
+      "status": "stated",
+      "basis": "I.2 ¶8; I.2 ¶9.",
+      "voice": "QUOTED: the adept; ATWOOD",
+      "also": [
+        {
+          "text": "needs not to borrow any from gold or silver",
+          "ref": "I.2 ¶8"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "weighing and proportioning the elements so exactly as to constitute them into lasting accord",
+      "ref": "I.2 ¶9",
+      "plain": "Literal readings (weighing elements, fixing metallic vapor with artificial heat or with sun and moon rays) are misunderstandings the adepts rejected; also the 'sulphur tingens' talk of impostors.",
+      "status": "stated",
+      "basis": "I.2 ¶9 calls these 'literally imputed follies'; I.2 ¶8 rejects 'sulphur tingens' as fables.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "consolidating the metalline vapor by heat artificially introduced, or by the rays of the sun and moon drawn to simultaneous cooperation",
+          "ref": "I.2 ¶9"
+        },
+        {
+          "text": "those imposters who tell you of a sulphur tingens",
+          "ref": "I.2 ¶8"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "working, as it is said, the only universal living and occult nature by and through itself, scientifically",
+      "ref": "I.2 ¶9",
+      "plain": "The adepts' method works the one universal living nature by means of itself, not by outside agents; this let them follow nature and help her exceed her ordinary limits.",
+      "status": "interpreted",
+      "basis": "I.2 ¶9; 'by and through itself' is consistent with I.2 ¶11, where Mercury works 'without foreign intervention' and dissolves, coagulates and conceives itself.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "help her to exceed the ordinary limits of her law",
+          "ref": "I.2 ¶9"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "The band of Sages only have known it, And they call it their salt.",
+      "ref": "I.2 ¶10",
+      "plain": "'Their salt' is a name for the one universal thing found in everything, containing all nature and all Life. It is not common salt; it is extracted from 'their earth', which is not common earth.",
+      "status": "stated",
+      "basis": "I.2 ¶9-10: the verse names the universal thing 'their salt' and contrasts it with 'the vulgar salt'. 'Their earth' is not explained in this chunk.",
+      "voice": "QUOTED: Lucerna Solis",
+      "also": [
+        {
+          "text": "It is extracted from their earth",
+          "ref": "I.2 ¶10"
+        },
+        {
+          "text": "But rather the salt of the world, Which contains in itself all Life",
+          "ref": "I.2 ¶10"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "It is not earth, nor fire, nor air, nor water",
+      "ref": "I.2 ¶10",
+      "plain": "The universal matter is none of the four elements, yet it can become any of them and take every opposite quality (white/red, hot/cold, moist/dry).",
+      "status": "stated",
+      "basis": "I.2 ¶10.",
+      "voice": "QUOTED: Lucerna Solis",
+      "also": [
+        {
+          "text": "Nay it can become to be fire, air, water, and earth",
+          "ref": "I.2 ¶10"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "Of it is made that medicine which will preserve you from all maladies",
+      "ref": "I.2 ¶10",
+      "plain": "The universal medicine is made from this salt of the world.",
+      "status": "stated",
+      "basis": "I.2 ¶10.",
+      "voice": "QUOTED: Lucerna Solis",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "to which we add nothing nor take away anything, only in the preparation, removing superfluities",
+      "ref": "I.2 ¶11",
+      "plain": "The Stone is a single matter. The work adds nothing and removes nothing except superfluities during preparation.",
+      "status": "stated",
+      "basis": "I.2 ¶11; also Aquinas's 'nothing different must be added'.",
+      "voice": "QUOTED: the monk in his Rosary (endorsed)",
+      "also": [
+        {
+          "text": "The Stone is one",
+          "ref": "I.2 ¶11"
+        },
+        {
+          "text": "nothing different must be added",
+          "ref": "I.2 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "when Sol is reduced to his first original, i.e., the mercury, then nature embraceth nature",
+      "ref": "I.2 ¶11",
+      "plain": "When Sol is reduced to its first original, which is the mercury, 'nature embraceth nature'. This chunk does not say what Sol is or explain 'nature embraceth nature'.",
+      "status": "stated",
+      "basis": "I.2 ¶11 glosses 'first original' as 'the mercury'.",
+      "voice": "QUOTED: Geber",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "our Stone is no other than a foetant spirit and living water, which we have named dry water",
+      "ref": "I.2 ¶11",
+      "plain": "The Stone is identified as a spirit and a 'living water', also called 'dry water', whose parts are cleansed and permanently united.",
+      "status": "stated",
+      "basis": "I.2 ¶11. 'Foetant' is not explained.",
+      "voice": "QUOTED: Geber",
+      "also": [
+        {
+          "text": "by natural proportion cleansed and united with such union, that they can never more be absent each from other",
+          "ref": "I.2 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "It is Mercury alone which perfects in our work",
+      "ref": "I.2 ¶11",
+      "plain": "Only one matter, Mercury, is needed. It is the root of gold and silver, so it is not foreign to them, and it needs no partner ('sister') to serve as agent and patient.",
+      "status": "interpreted",
+      "basis": "I.2 ¶11 gives 'it is their root' and 'without foreign intervention'. Reading it as agent and patient in one rests on I.2 ¶8 (the subject is 'the thing transmuting also'); the 'sister' sentence is defective (see ambiguities).",
+      "voice": "QUOTED: Aquinas (endorsed)",
+      "also": [
+        {
+          "text": "gold and silver are not unlike in kind to this our Mercury; for it is their root",
+          "ref": "I.2 ¶11"
+        },
+        {
+          "text": "if thou workest therefore with Mercury alone, without foreign intervention, thou obtainest thy desire",
+          "ref": "I.2 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "for it dissolves and coagulates itself ---whitens, rubifies, and makes itself to be both yellow and black",
+      "ref": "I.2 ¶11",
+      "plain": "The matter goes through its own changes (dissolution, coagulation, colour changes to white, red, yellow, black), then unites with, conceives and brings forth itself until it is perfected. This chunk gives no order for the colours.",
+      "status": "stated",
+      "basis": "I.2 ¶11.",
+      "voice": "QUOTED: Aquinas (endorsed)",
+      "also": [
+        {
+          "text": "The White and Red proceed from one root",
+          "ref": "I.2 ¶11"
+        },
+        {
+          "text": "it unites with itself, conceives itself, and brings itself forth, to the full perfecting of its intention",
+          "ref": "I.2 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "by no means be led aside by their metaphoric language into a common misconstruction of its meaning",
+      "ref": "I.2 ¶12",
+      "plain": "The texts' metaphors must be read in light of the one essential nature the alchemists claim to have found, not literally.",
+      "status": "stated",
+      "basis": "I.2 ¶12.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "a certain pure and hidden fire",
+      "ref": "I.2 ¶12",
+      "plain": "Right after setting out to identify the mercury, Atwood presents the ancients' Ether, a pure hidden fire, from which all things come and which pervades all things.",
+      "status": "interpreted",
+      "basis": "I.2 ¶12 places this right after 'let us seek therefore if we may be able at all to identify this mercury'. This chunk does not state the identity outright (see ambiguities).",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the occult virtues of the Ether; its all-pervading essence and perfective power",
+          "ref": "I.2 ¶12"
+        },
+        {
+          "text": "which he likewise calls ether, and a pure invisible fire",
+          "ref": "I.2 ¶14"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "this mighty Ether moreover is always at hand, ready to break forth into action on predisposed subjects",
+      "ref": "I.2 ¶14",
+      "plain": "The Ether is always present and acts (fermenting, producing, destroying) on subjects prepared to receive it.",
+      "status": "stated",
+      "basis": "I.2 ¶14.",
+      "voice": "QUOTED: Homberg, Boerhaave, Boyle (reported with approval)",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the fontal Spirit of nature, apart from its manifestation",
+      "ref": "I.2 ¶15",
+      "plain": "Nature's source-spirit is distinct from its visible effects. Ordinary fire is not this fire but only an excitation or effect of it.",
+      "status": "stated",
+      "basis": "I.2 ¶15: 'they do not allow that to be fire indeed, but an excitation only or effect of the antecedent potency'.",
+      "voice": "ATWOOD (reporting concurring moderns)",
+      "also": [
+        {
+          "text": "an excitation only or effect of the antecedent potency",
+          "ref": "I.2 ¶15"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "which in part it was perhaps, in their minds, without experience",
+      "ref": "I.2 ¶15",
+      "plain": "The moderns' Ether theory stayed speculative because they had no experience of it and no tangible proof. Atwood contrasts this with the alchemists, who claim 'another experience'.",
+      "status": "interpreted",
+      "basis": "I.2 ¶15; contrast I.2 ¶12 'these alchemists profess to have enjoyed another experience'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "But then they could adduce no tangible proof of their doctrine.",
+          "ref": "I.2 ¶15"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "First Matter",
+      "variants": [
+        "first matter",
+        "mercurial first matter"
+      ],
+      "meaning": "The common root substance of all natures, to which bodies can be reduced and from which they can take a new form; the true subject of transmutation.",
+      "equivalences": [
+        {
+          "with": "Universal Subject",
+          "quote": "their Universal Subject or first matter",
+          "ref": "I.2 ¶7"
+        },
+        {
+          "with": "Universal Matter",
+          "quote": "nor does ordinary analysis at all discover this Universal Matter of the adepts",
+          "ref": "I.2 ¶3"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "may be reduced into their common basis or mercurial first matter",
+          "ref": "I.2 ¶3"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Universal Subject",
+      "variants": [
+        "Universal Subject",
+        "Subject"
+      ],
+      "meaning": "The foundation of the Hermetic experiment: both what is transmuted and, once freed in its proper essentiality, what transmutes.",
+      "equivalences": [
+        {
+          "with": "first matter",
+          "quote": "their Universal Subject or first matter",
+          "ref": "I.2 ¶7"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "this Universal Subject is the alleged foundation of the whole Hermetic experiment",
+          "ref": "I.2 ¶8"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "subject-matter",
+      "variants": [
+        "subject-matter",
+        "Subject-matter",
+        "subjecta specierum",
+        "Subjects of species"
+      ],
+      "meaning": "What underlies a species. Unlike species it is corruptible and can be freed and transferred to another form.",
+      "equivalences": [
+        {
+          "with": "radical moisture",
+          "quote": "the subject-matter of these metals, the radical moisture of which they are uniformly composed",
+          "ref": "I.2 ¶4"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "but the Subjects of species rather, since they are corruptible and may be changed",
+          "ref": "I.2 ¶5"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "radical moisture",
+      "variants": [],
+      "meaning": "The substance of which metals are uniformly composed; it can be withdrawn from inferior Forms.",
+      "equivalences": [
+        {
+          "with": "subject-matter",
+          "quote": "the subject-matter of these metals, the radical moisture of which they are uniformly composed",
+          "ref": "I.2 ¶4"
+        }
+      ],
+      "quotes": [],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "radical substance",
+      "variants": [],
+      "meaning": "The homogeneous root substance of all things; its homogeneity is the ground of transmutation.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the homogeneity of the radical substance of things",
+          "ref": "I.2 ¶3"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "species",
+      "variants": [
+        "species",
+        "Species"
+      ],
+      "meaning": "Used in a special sense: the specific kind of a thing (lead as lead). Species are indestructible, not liable to corruption and not transmutable.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "It is not species that they profess to transmute",
+          "ref": "I.2 ¶4"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Form",
+      "variants": [
+        "Form",
+        "Forms",
+        "form"
+      ],
+      "meaning": "The specifying form of a body. Subject-matter is withdrawn from inferior Forms, and one form is expelled so another can be introduced. Atwood calls it an error that the Form was extracted from metals.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "one form being expelled, another may be introduced",
+          "ref": "I.2 ¶5"
+        },
+        {
+          "text": "the alchemists extracted from the Form out of these metals to transmute and increase with",
+          "ref": "I.2 ¶9"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Mercury",
+      "variants": [
+        "Mercury",
+        "mercury",
+        "Mercurio"
+      ],
+      "meaning": "In the philosophers' sense, the first matter to which bodies are reduced. It is the root of gold and silver and alone suffices for the work. It is distinguished from 'mercury as mercury specificate', which cannot be changed into gold.",
+      "equivalences": [
+        {
+          "with": "water",
+          "quote": "reduce the body into water, that is, into mercury",
+          "ref": "I.2 ¶5"
+        },
+        {
+          "with": "argent vive",
+          "quote": "a reduction of the body into water, which is argent vive",
+          "ref": "I.2 ¶5"
+        },
+        {
+          "with": "first original (of Sol)",
+          "quote": "when Sol is reduced to his first original, i.e., the mercury",
+          "ref": "I.2 ¶11"
+        },
+        {
+          "with": "root of gold and silver",
+          "quote": "gold and silver are not unlike in kind to this our Mercury; for it is their root",
+          "ref": "I.2 ¶11"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "All is in Mercury which the wise men seek",
+          "ref": "I.2 ¶12"
+        },
+        {
+          "text": "nor do they ever teach in theory that lead as lead, or mercury as mercury specificate, can be changed into gold",
+          "ref": "I.2 ¶4"
+        }
+      ],
+      "voice": "QUOTED: Bacon, Rosarium, Geber, Aquinas (endorsed by ATWOOD)"
+    },
+    {
+      "term": "Solution",
+      "variants": [],
+      "meaning": "The first work and foundation of the art: reducing the body into water, i.e. mercury.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "this is called Solution, which is the foundation of the whole art",
+          "ref": "I.2 ¶5"
+        }
+      ],
+      "voice": "QUOTED: Friar Bacon; Rosarium"
+    },
+    {
+      "term": "mercurizate",
+      "variants": [],
+      "meaning": "Said of fusible mineral and metallic bodies once reduced to their beginning; apparently 'turned into mercury' (not glossed).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Mineral and metalline may be mercurizate",
+          "ref": "I.2 ¶6"
+        }
+      ],
+      "voice": "QUOTED: Ripley"
+    },
+    {
+      "term": "ferment",
+      "variants": [
+        "ferment",
+        "fermented Spirit",
+        "fermenting"
+      ],
+      "meaning": "A superior power by whose force the subject-matter is freed. The Ether is described as 'fermenting'. Not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "being set free by the force of a superior ferment or attraction",
+          "ref": "I.2 ¶4"
+        },
+        {
+          "text": "the fermented Spirit assimilates the Light throughout",
+          "ref": "I.2 ¶8"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Light",
+      "variants": [],
+      "meaning": "The only thing that can truly be multiplied; it comes from the first fountain of multiplication and generation. Once perfected by art it exalts any body in its kind, acting on that body's passive principles.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "It is the Light only that can be truly multiplied, for this ascends and descends from the first fountain of multiplication and generation",
+          "ref": "I.2 ¶8"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "sulphur tingens",
+      "variants": [],
+      "meaning": "A notion the adept rejects as one of the impostors' fables.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "those imposters who tell you of a sulphur tingens, and I know not what fables",
+          "ref": "I.2 ¶8"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Chemia",
+      "variants": [],
+      "meaning": "A name the adept calls too narrow for a science 'ancient and infinite'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "who pin also the narrow name of Chemia on a science ancient and infinite",
+          "ref": "I.2 ¶8"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "salt (of the Sages)",
+      "variants": [
+        "their salt",
+        "salt of the world"
+      ],
+      "meaning": "The Sages' name for the one universal thing present everywhere. It contains all nature and all Life, is extracted from 'their earth', and is not vulgar salt.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The band of Sages only have known it, And they call it their salt.",
+          "ref": "I.2 ¶10"
+        },
+        {
+          "text": "Nor the vulgar salt in any manner, But rather the salt of the world",
+          "ref": "I.2 ¶10"
+        }
+      ],
+      "voice": "QUOTED: Lucerna Solis"
+    },
+    {
+      "term": "Stone",
+      "variants": [],
+      "meaning": "One single thing; the whole mystery; identified with a spirit and a living water.",
+      "equivalences": [
+        {
+          "with": "foetant spirit and living water",
+          "quote": "our Stone is no other than a foetant spirit and living water",
+          "ref": "I.2 ¶11"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "The Stone is one",
+          "ref": "I.2 ¶11"
+        }
+      ],
+      "voice": "QUOTED: the monk (Rosary); Geber"
+    },
+    {
+      "term": "dry water",
+      "variants": [],
+      "meaning": "The philosophers' name for the 'living water' that the Stone is.",
+      "equivalences": [
+        {
+          "with": "living water",
+          "quote": "living water, which we have named dry water",
+          "ref": "I.2 ¶11"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Geber"
+    },
+    {
+      "term": "medicine",
+      "variants": [],
+      "meaning": "Made from the salt of the world; one single thing in which the whole mystery consists; preserves from all maladies.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the medicine is one, in which the whole mystery consists",
+          "ref": "I.2 ¶11"
+        },
+        {
+          "text": "Of it is made that medicine which will preserve you from all maladies",
+          "ref": "I.2 ¶10"
+        }
+      ],
+      "voice": "QUOTED: Lucerna Solis; the monk (Rosary)"
+    },
+    {
+      "term": "Ether",
+      "variants": [
+        "Ether",
+        "ether"
+      ],
+      "meaning": "An all-pervading, perfective essence that regulates nature. It is a distinct, universally diffused substance, sensible only in its mixtures and effects; it is the source and bond of the elements, always ready to act on predisposed subjects, and it gives air its vitalizing power.",
+      "equivalences": [
+        {
+          "with": "pure invisible fire",
+          "quote": "which he likewise calls ether, and a pure invisible fire",
+          "ref": "I.2 ¶14"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "the occult virtues of the Ether; its all-pervading essence and perfective power",
+          "ref": "I.2 ¶12"
+        }
+      ],
+      "voice": "ATWOOD; QUOTED: Homberg, Boerhaave, Boyle, Berkeley"
+    },
+    {
+      "term": "Anima Mundi",
+      "variants": [],
+      "meaning": "The Ethnics' doctrine, which Atwood says differs from Hebrew doctrine only in words.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the assertions of the Ethnics, about the Anima Mundi, differ very little or nothing in substance from the Hebrew doctrine, but in words only",
+          "ref": "I.2 ¶14"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "One Element",
+      "variants": [],
+      "meaning": "The ancient theory of a single vitalizing principle in air and all things. Moderns deride it because it escapes their analyses.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the ancient theory of the One Element has been very much derided",
+          "ref": "I.2 ¶14"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "fontal Spirit of nature",
+      "variants": [],
+      "meaning": "Nature's source-spirit, distinct from its manifestation and from sensible fire, which is only its excitation or effect.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the fontal Spirit of nature, apart from its manifestation",
+          "ref": "I.2 ¶15"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "elementary ignition",
+      "variants": [],
+      "meaning": "Ordinary sensible fire. It is not true fire, only 'an excitation only or effect of the antecedent potency'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "distinct from that elementary ignition with which we are sensibly familiar",
+          "ref": "I.2 ¶15"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Turba",
+      "work": "Turba Ecercit.1",
+      "quote": "Est in Mercurio quicquid quaerunt Sapientes",
+      "use": "Chapter epigraph; the maxim that all the wise seek is in Mercury, taken up again in I.2 ¶12.",
+      "refs": [
+        "I.2 ¶1",
+        "I.2 ¶12"
+      ]
+    },
+    {
+      "name": "Arnold di Villanova",
+      "work": "Speculum",
+      "quote": "there abides in nature a certain pure matter",
+      "use": "Supports: the basis of the whole theory.",
+      "refs": [
+        "I.2 ¶2"
+      ]
+    },
+    {
+      "name": "Arnold",
+      "work": "Liber Perfect. Magist.; Speculum Alchymiae Arnoldi, Octava Dispositio",
+      "quote": "Species non transmutari sed individual specierum",
+      "use": "Supports: species are indestructible, so the subject must be freed by artificial reduction.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 n3",
+        "I.2 n4"
+      ]
+    },
+    {
+      "name": "Friar Bacon",
+      "work": "Radix Mundi et Speculum Alchemiae (n1, as 'Roger Bacon')",
+      "quote": "Species non transmutantur, sed subjecta specierum optime et propriisime",
+      "use": "Supports: subject-matter, not species, is transmuted; the first work is Solution.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 n1"
+      ]
+    },
+    {
+      "name": "the author of the Rosarium",
+      "work": "Rosar. Abbrev., Tract ii. De Lapide in Thet. Chem., vol iii",
+      "quote": "Adverte carissime...",
+      "use": "Supports: Solution as first preparation; subjects of species must be reduced to first matter; analogy of glass-making.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 n2"
+      ]
+    },
+    {
+      "name": "Avicenna",
+      "work": "Sciant Artifices Alchimiae, Lib. ii, Tractat. i, Cap. iv, De Operat.Med. Sing.",
+      "quote": null,
+      "use": "Cited as concurring on species; reference only.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 n5"
+      ]
+    },
+    {
+      "name": "Aristotle",
+      "work": "Metoer lib. iii cap. iv (the 'Book of Meteors')",
+      "quote": "Metalla autem omnia...",
+      "use": "Cited as concurring, via Ripley's verse: metals not transmutable unless reduced to their beginning.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 ¶6",
+        "I.2 n6"
+      ]
+    },
+    {
+      "name": "Ripley",
+      "work": "Epistle to King Edward, stanza 10",
+      "quote": "Without they be reduced to their beginning materiable",
+      "use": "Supports: reduction to first matter; liquable bodies may be mercurized; the science is true.",
+      "refs": [
+        "I.2 ¶5",
+        "I.2 ¶6",
+        "I.2 n7"
+      ]
+    },
+    {
+      "name": "Raymond",
+      "work": null,
+      "quote": null,
+      "use": "Named in Ripley's verse as having determined the science true.",
+      "refs": [
+        "I.2 ¶6"
+      ]
+    },
+    {
+      "name": "Lully",
+      "work": "De Arto Magna, part ix",
+      "quote": "Elementiva habent vera conditiones et una species se non transmutet in aliam",
+      "use": "Apparent contradiction explained: he denies only a false position of the art.",
+      "refs": [
+        "I.2 ¶7",
+        "I.2 n8"
+      ]
+    },
+    {
+      "name": "the adept (Vaughan)",
+      "work": "Anima Magia Abscondita, p. 30",
+      "quote": "It is the Light only that can be truly multiplied",
+      "use": "Supports: the Light as multiplying agent; every body has passive principles; nothing borrowed from gold or silver.",
+      "refs": [
+        "I.2 ¶8",
+        "I.2 n9"
+      ]
+    },
+    {
+      "name": "Lucerna Solis (n10: 'Lucerna Salis, from the Latin verse')",
+      "work": "Lucerna Solis",
+      "quote": "A certain thing is found in the world",
+      "use": "Illustrates the one universal matter, called the Sages' salt.",
+      "refs": [
+        "I.2 ¶9",
+        "I.2 ¶10",
+        "I.2 n10"
+      ]
+    },
+    {
+      "name": "the monk in his Rosary",
+      "work": "Rosar., Abbrev. Tract. iii and iv",
+      "quote": "The Stone is one",
+      "use": "Supports: Stone and medicine are one; nothing is added or taken away.",
+      "refs": [
+        "I.2 ¶11",
+        "I.2 n11"
+      ]
+    },
+    {
+      "name": "Geber",
+      "work": "Investigation of Perfection, cap. xi",
+      "quote": "All is made of Mercury",
+      "use": "Supports: all from Mercury; the Stone is foetant spirit and living water, dry water.",
+      "refs": [
+        "I.2 ¶11",
+        "I.2 n12"
+      ]
+    },
+    {
+      "name": "Aquinas",
+      "work": "Roasrium Abbrev. Tract. iii and v",
+      "quote": "It is Mercury alone which perfects in our work",
+      "use": "Supports: Mercury alone suffices; it is the root of gold and silver and works itself.",
+      "refs": [
+        "I.2 ¶11",
+        "I.2 n13"
+      ]
+    },
+    {
+      "name": "the Greeks and eastern sages; Stoics, Pythagoreans, Platonists, and Peripatetics",
+      "work": null,
+      "quote": "a certain pure and hidden fire",
+      "use": "Supports: ancient doctrine of the Ether as universal source.",
+      "refs": [
+        "I.2 ¶12"
+      ]
+    },
+    {
+      "name": "Virgil",
+      "work": "Aenid, lib. vi 724",
+      "quote": "Spiritus intus alit",
+      "use": "Illustrates: the spirit nourishing heaven, earth and stars.",
+      "refs": [
+        "I.2 ¶12",
+        "I.2 ¶13",
+        "I.2 n14"
+      ]
+    },
+    {
+      "name": "the Ethnics",
+      "work": null,
+      "quote": null,
+      "use": "Their Anima Mundi doctrine is said to agree in substance with Hebrew doctrine.",
+      "refs": [
+        "I.2 ¶14"
+      ]
+    },
+    {
+      "name": "Hebrew doctrine",
+      "work": null,
+      "quote": null,
+      "use": "Compared: differs from the Ethnic Anima Mundi only in words.",
+      "refs": [
+        "I.2 ¶14"
+      ]
+    },
+    {
+      "name": "Homberg, with Boerhaave, Boyle",
+      "work": null,
+      "quote": "this mighty Ether moreover is always at hand",
+      "use": "Supports: moderns who held with the alchemists a universal Ether; but they lacked proof.",
+      "refs": [
+        "I.2 ¶14",
+        "I.2 ¶15"
+      ]
+    },
+    {
+      "name": "Bishop Berkeley",
+      "work": "Siris",
+      "quote": "a pure invisible fire",
+      "use": "Supports: universal material called ether, source of air's vitalizing power.",
+      "refs": [
+        "I.2 ¶14"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "the thing transmuting also, when set free and segregated in its proper essentiality, the fermented Spirit assimilates the Light throughout",
+      "ref": "I.2 ¶8",
+      "readings": [
+        "The freed Universal Subject is the fermented Spirit, which assimilates (makes like itself) the Light throughout.",
+        "The freed Universal Subject, as fermented Spirit, is itself the Light that the adept's quote then calls the only multipliable thing."
+      ],
+      "basis": "The sentence is textually defective (the phrase 'the thing transmutable in natures, as is above' is duplicated) and its syntax breaks. The adept's quote that follows makes the Light the multiplying agent, which suggests reading 2, but no explicit identity is stated."
+    },
+    {
+      "quote": "Some, mistaking, believe that the work cannot be perfected with mercury alone without his sister (i.e., as agent and patient) that thou addest nothing different from mercury",
+      "ref": "I.2 ¶11",
+      "readings": [
+        "The mistaken view needs a second substance (the 'sister') paired with mercury as agent and patient; the correct view is that mercury alone serves as both.",
+        "The parenthesis glosses the pair mercury-and-sister as agent and patient, without saying which is which."
+      ],
+      "basis": "Words are evidently missing before 'that thou addest'. The context ('nothing different must be added'; it 'conceives itself, and brings itself forth') supports reading 1."
+    },
+    {
+      "quote": "let us seek therefore if we may be able at all to identify this mercury, and whether the same ancient material be yet on earth",
+      "ref": "I.2 ¶12",
+      "readings": [
+        "Atwood is preparing to identify the philosophers' mercury with the Ether, or pure hidden fire.",
+        "She is only surveying analogous ancient and modern doctrines without asserting an identity yet."
+      ],
+      "basis": "The Ether discussion (I.2 ¶12-15) follows immediately, but no sentence in this chunk says mercury is the Ether."
+    },
+    {
+      "quote": "It is extracted from their earth",
+      "ref": "I.2 ¶10",
+      "readings": [
+        "'Their earth' is a figurative source distinct from common earth.",
+        "It is some particular matter the Sages work on, left unnamed."
+      ],
+      "basis": "I.2 ¶10 says only that 'the common earth is worth nothing here'."
+    },
+    {
+      "quote": "which in part it was perhaps, in their minds, without experience",
+      "ref": "I.2 ¶15",
+      "readings": [
+        "The moderns' Ether doctrine was partly mere speculation because they had no experience of it.",
+        "Atwood implies that the alchemists had such experience, which is the difference."
+      ],
+      "basis": "I.2 ¶12: alchemists 'profess to have enjoyed another experience'. I.2 ¶15 does not state the contrast directly."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.2 ¶1",
+      "original": "Est in Mercurio quicquid quaerunt Sapientes",
+      "translation": "All is in Mercury which the wise men seek",
+      "by": "book"
+    },
+    {
+      "ref": "I.2 ¶5",
+      "original": "Species non transmutantur, sed subjecta specierum optime et propriisime",
+      "translation": "Species are not transmuted, but their subject-matter rather",
+      "by": "book"
+    },
+    {
+      "ref": "I.2 ¶5",
+      "original": "Species non transmutantur, sed subjecta specierum optime et propriisime",
+      "translation": "Species are not transmuted, but the subjects of species are, most fittingly and properly.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.2 ¶5",
+      "original": "Species non transmutari sed individual specierum",
+      "translation": "That species are not transmuted, but the individuals of species.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.2 ¶6",
+      "original": "As the Philosopher who in the Book of Meteors did wryte, That the likeness of bodyes metallyne be not transmutable. But afterwards he added theis words of more delyte, Without they be reduced to their beginning materiable; Wherefore such bodies as in nature be liquable Mineral and metalline may be mercurizate, Conceive ye may theis science is not opinable, But very true by Raymond and others determinate",
+      "translation": "As the Philosopher wrote in the Book of Meteors, the likeness (kind) of metallic bodies is not transmutable. But afterwards he added these more pleasing words: unless they are reduced to their material beginning. Therefore mineral and metallic bodies that are naturally fusible may be turned into mercury. You may understand that this science is not mere opinion, but very true, as Raymond and others have determined.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.2 ¶7",
+      "original": "Elementiva habent vera conditiones et una species se non transmutet in aliam",
+      "translation": "species are absolute and cannot be changed one into another",
+      "by": "book"
+    },
+    {
+      "ref": "I.2 ¶7",
+      "original": "Elementiva habent vera conditiones et una species se non transmutet in aliam",
+      "translation": "Elemented things have true conditions, and one species does not transmute itself into another.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.2 ¶13",
+      "original": "Principio coelum, ac terras, composque liquentes, Lucentemque globum Lunae, Titaniaque astra, Spiritus intus alit; totamque infusa per artus Mens agitat molem, et magno se corpore miscet",
+      "translation": "In the first place, a spirit within nourishes the heaven and the lands and the watery plains, the shining globe of the Moon and the Titanian stars; and mind, poured through the limbs, moves the whole mass and mingles itself with the great body.",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.2 ¶8",
+      "note": "'as is above shown': points back to I.2 ¶3-7, which argue that the Universal Subject is the thing transmutable."
+    },
+    {
+      "ref": "I.2 ¶12",
+      "note": "Atwood says the whole doctrine must be considered 'with reference to this presumed unity', and she sets out to identify the philosophers' mercury and whether 'the same ancient material be yet on earth'. Continued beyond this chunk."
+    },
+    {
+      "ref": "I.2 ¶15",
+      "note": "Ends with 'how then should she recognize that recondite fire?': philosophy's failure to recognize the invisible fire, presumably taken up in the next chunk."
+    }
+  ]
+}

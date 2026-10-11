@@ -1,0 +1,282 @@
+# IV.3_01
+
+*Opens Chapter 3, the Six Keys of Eudoxus, given in a first-person voice: the First Key (freeing the Sulphur, separating the blackness, the white Stone), the Second (sublimation by the Secret Fire, dissolving the Stone into Water), and much of the Third (separating, purifying and reuniting the principles of 'our Mercury' without discarding the earthy residue, by repeated washing and distillation).*
+
+## Argument
+
+- Chapter heading presents the Six Keys of Eudoxus; a first-person speaker gives them. Atwood adds no comment in this chunk. `IV.3 ¶1` — ATWOOD
+- First Key frees the imprisoned Sulphur, extracts the seed from the body, and forms the Stone by conjoining spirit with body, sulphur with mercury. Hermes: the Stone lies in the caverns of the metals, the Sea of the Wise. `IV.3 ¶3` — QUOTED: Eudoxus
+- The three works are analogous and philosophers speak equivocally on purpose. In each work the Artist dissolves body with spirit, cuts off the Raven's head, whitens the Black, vivifies the White; beheading the Black Dragon and Raven belongs properly to the First (Hermes: what is born of the Crow begins the Art). `IV.3 ¶3` — QUOTED: Eudoxus
+- Separating the stinking fume of the Blackest Black forms the white Stone; the First Key ends at this first purification and whiteness. `IV.3 ¶3` — QUOTED: Eudoxus
+- Second Key: sublimation, raising subtle above gross, by the Fire of the Wise, a Secret Fire never openly revealed, known more by Heaven's gift than reasoning; seek it by reading, Work, Meditation, Prayer. `IV.3 ¶5` — QUOTED: Eudoxus
+- Sublimation alone allows conversion of Elements and extraction of Principles, the only way to prepare Mercury. The Fire dissolves the Stone gently into Water by distillation of Sun and Moon; the vine becomes Wine, then Water of Life and Vinegar. Digestion and putrefaction end the Second Key of the First Work. `IV.3 ¶5` — QUOTED: Eudoxus
+- Third Key: longest; Mercury's perfection depends on it, so Artefius, Trevisan, Flammel kept silent and others feigned. Aim: purify Mercury's Principles by dissolving and glorifying the body and uniting soul to body through the Spirit, yielding a nobler substance. `IV.3 ¶7` — QUOTED: Eudoxus
+- The Water holds Salt, Sulphur, Mercury (spirit, soul, body), not truly united; distilling off the Water leaves the body as black earth, not to be despised. Pontanus: superfluities become essence, nothing is to be separated. Hermes: its power is not integral until turned into earth. `IV.3 ¶7` — QUOTED: Eudoxus
+- Fire and Sulphur hide in the earth; washing it with its spirit extracts the Fixed Salt, Blood of the Stone. Fire and water are reconciled in their earth (Cosmopolite) by often moistening it. Spirit is Eve, Body Adam. They rise together into a nobler form, like rectified alcohol from wine. `IV.3 ¶7` — QUOTED: Eudoxus
+- The Water from the Stone is the Art's foundation (Hermes), named by degree of preparation, properly Vinegar of the Wise; its oily efficacious part rises last. Dissolve the body wholly to extract the humidity, else no blackness. Senior: reduce the highest fume to the lowest. Washing the faeces of blackness animates the Water with Fiery Essence. `IV.3 ¶8` — QUOTED: Eudoxus
+- Compound of Nature (Nature's, the Artist assisting) versus compound of Art (Artist unites fixed and volatile; Geber: Argent vive and Sulphur). Whitening the faeces yields white sulphur; all is extraction of fixed salt. Repeated affusion readies Mercury for fixation, ending the second Work. Thickening water is a good sign (Hermes); the liquor is Pontick Water, Lunaria. `IV.3 ¶9` — QUOTED: Eudoxus
+
+## Method
+
+- **subject** — “In the caverns of the metals there is hidden the Stone, which is venerable, bright in colour, a mind sublime, and an open sea.” `IV.3 ¶3` (QUOTED: Hermes)
+  - **Plain (stated):** The Stone is hidden in 'the caverns of the metals' (not explained in this chunk); the text glosses it as brightly glittering, containing a Spirit of sublime origin, and as the Sea of the Wise.
+  - Basis: IV.3 ¶3 glosses Hermes' words: "This Stone has a bright glittering: it contains a Spirit of a sublime original; it is the Sea of the Wise".
+  - Also: “it is the Sea of the Wise, in which they angle for their mysterious Fish” `IV.3 ¶3`
+- **stage** — “The First Key is that which opens the dark prisons in which the Sulphur is shut up” `IV.3 ¶3` (QUOTED: Eudoxus)
+  - **Plain (stated):** The first operation frees the enclosed Sulphur, extracts the seed from the body, and forms the Stone by joining spirit with body (sulphur with mercury). Whether the seed is the Sulphur is not stated.
+  - Basis: IV.3 ¶3 continues: "this is it which knows how to extract the seed out of the body, and which forms the Stone of the philosophers by the conjunction of the spirit with the body".
+  - Also: “this is it which knows how to extract the seed out of the body” `IV.3 ¶3`
+  - Also: “conjunction of the spirit with the body -- of sulphur with mercury” `IV.3 ¶3`
+- **principle** — “the philosophers do designedly speak in equivocal terms, to the end that those who have not the Lynx's eyes may pursue wrong” `IV.3 ¶3` (QUOTED: Eudoxus)
+  - **Plain (stated):** The three works resemble one another and writers deliberately blur them, so a passage seeming to describe one work may describe another; the reader must tell them apart.
+  - Basis: IV.3 ¶3: "the operations of the three works have a great deal of analogy one to another"; "when one imagines that they speak of one work, they often treat of another."
+  - Also: “when one imagines that they speak of one work, they often treat of another” `IV.3 ¶3`
+  - Also: “the operations of the three works have a great deal of analogy one to another” `IV.3 ¶3`
+- **procedure** — “in each work the Wise Artist ought to dissolve the body with the spirit; he must cut off the Raven's head, whiten the Black, and vivify the White” `IV.3 ¶3` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** Every one of the three works repeats one cycle: dissolve the body by the spirit, remove its blackness, bring it to whiteness, then quicken the white.
+  - Basis: IV.3 ¶3 states the cycle applies to each work; reading 'cut off the Raven's head' as removing blackness rests on the same paragraph's separation of the "black, foul, and stinking fume" to form the white Stone.
+- **stage** — “it is properly in the First operation that the Wise Artist cuts off the head of the Black Dragon and of the Raven” `IV.3 ¶3` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** The decisive step of the first operation is separating off the black, foul, stinking fume, from which separation the white Stone is formed; this blackness is the beginning of the Art. Dragon and Raven are not further explained.
+  - Basis: IV.3 ¶3: the image is followed by Hermes' "What is born of the Crow is the beginning of this Art" and by "it is by separation of the black, foul, and stinking fume of the Blackest Black that our astral, white, and resplendent Stone is formed".
+  - Also: “What is born of the Crow is the beginning of this Art.” `IV.3 ¶3`
+- **sign** — “It is at this First Purification of the Stone, and at this shining whiteness, that the work of the First Key is ended.” `IV.3 ¶3` (QUOTED: Eudoxus)
+  - **Plain (stated):** The end of the first operation is marked by a first purification yielding a shining white Stone. It is said to contain 'the blood of the Pelican', which this chunk does not explain.
+  - Basis: IV.3 ¶3 directly.
+  - Also: “our astral, white, and resplendent Stone” `IV.3 ¶3`
+  - Also: “which contains in its veins the blood of the Pelican” `IV.3 ¶3`
+- **procedure** — “The Second Key dissolves the compound of the Stone, and begins the separation of the Elements in a philosophical manner” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** The second operation is sublimation: dissolving the Stone and separating its Elements by raising the subtle, pure parts above the thick, earthy parts.
+  - Basis: IV.3 ¶5: "this separation of the elements is not made but by raising up the subtle and pure parts above the thick and terrestrial parts"; "He who knows how to sublime the Stone philosophically".
+  - Also: “He who knows how to sublime the Stone philosophically” `IV.3 ¶5`
+- **agent** — “the Fire of the Wise, which is the only instrument which can work this sublimation” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** A single agent, never openly named by any writer, performs the sublimation and dissolves the Stone gently ('naturally and without violence') into Water. The chunk describes its function but does not identify it.
+  - Basis: IV.3 ¶5: "No philosopher has ever openly revealed this Secret Fire"; "this Secret Fire, which dissolves the Stone naturally and without violence".
+  - Also: “No philosopher has ever openly revealed this Secret Fire, and this powerful agent, which works all the wonders of the Art” `IV.3 ¶5`
+- **operator** — “the knowledge of this great Secret is rather a gift of Heaven, than a Light acquired by the natural force of reasoning” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** The operator who cannot recognise the Secret Fire from its described characters should stop and pray; it is known more by divine gift than by reasoning, yet reading the philosophers, meditation, work and prayer overcome the difficulty. The Third Key likewise needs Heaven's inspiration or a faithful friend.
+  - Basis: IV.3 ¶5: "ought to make a stand here, and pray to God to make it clear to him"; IV.3 ¶7 on the labyrinth.
+  - Also: “there is no difficulty which may not in the end be made clear by Work, Meditation, and Prayer” `IV.3 ¶5`
+  - Also: “without the inspiration of Heaven, or without the help of a faithful friend, one remains undoubtedly in this labyrinth” `IV.3 ¶7`
+- **procedure** — “this conversion, which makes Water of Earth, Air of Water, and Fire of Air, is the only way whereby our Mercury can be prepared” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** Sublimation makes possible the step-by-step conversion of the elements (earth into water, water into air, air into fire) and the extraction of the Principles; only this prepares 'our Mercury'.
+  - Basis: IV.3 ¶5: "Without the sublimation of the Stone, the conversion of the Elements and the extraction of the Principles is impossible".
+- **procedure** — “makes it dissolve into Water in the great sea of the Wise, by the distillation which is made by the rays of the Sun and Moon” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Secret Fire turns the Stone into Water by a distillation; what 'the rays of the Sun and Moon' are is not explained in this chunk.
+  - Basis: IV.3 ¶5: the subject of "makes it dissolve" is "this Secret Fire, which dissolves the Stone naturally"; Sun and Moon unglossed (see ambiguities).
+- **stage** — “the Stone, which, according to Hermes, is the vine of the Wise, becomes their Wine” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** Dissolved, the Stone ('vine') becomes a liquid ('Wine'), from which the operations of Art produce a rectified 'Water of Life' and a sharp 'Vinegar'. Such names (wine, water of life, vinegar, oil) mark degrees of preparation or different effects of the same Water.
+  - Basis: IV.3 ¶5: "by the operations of Art, produces their rectified Water of Life, and their most sharp Vinegar"; IV.3 ¶8: "sometimes they call it wine, sometimes water of life, sometimes vinegar, sometimes oil, according to the different degrees of Preparation".
+  - Also: “has made a spring of living water come out of the stone, and has pressed out the vine of the philosophers, and has made their wine” `IV.3 ¶7`
+- **stage** — “nor can a perfect dissolution be made of it, but after a proportioned digestion and putrefaction” `IV.3 ¶5` (QUOTED: Eudoxus)
+  - **Plain (stated):** Perfect dissolution of the Stone requires measured digestion and putrefaction; that completes the Second Key, which belongs to the First Work.
+  - Basis: IV.3 ¶5: "at which the operation of the Second Key of the First Work is ended".
+- **stage** — “The Third Key comprehends of itself alone a longer train of operations than all the rest together.” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Third Key, the preparation of 'our Mercury', is the longest and most important part of the practice and the one the writers most conceal or misrepresent; the speaker promises to set it out in order.
+  - Basis: IV.3 ¶7: "seeing the Perfection of our Mercury depends thereon"; "there is hardly one found who has not feigned, instead of showing the longest and the most important of the operations of our Practice".
+  - Also: “there is hardly one found who has not feigned, instead of showing the longest and the most important of the operations of our Practice” `IV.3 ¶7`
+- **result** — “the generation of a new substance infinitely nobler than the First” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Third Key aims to separate and purify the Principles of Mercury by fully dissolving and 'glorifying' the body and reuniting soul with body, the Spirit being the binding tie; the outcome is a nobler new substance.
+  - Basis: IV.3 ¶7: "the separation and the purification of the Principles of our Mercury, which is made by a perfect dissolution and glorification of the body"; "the intimate union of the soul with its body, of whom the Spirit is the only tie".
+  - Also: “of whom the Spirit is the only tie which works this conjunction” `IV.3 ¶7`
+- **subject** — “three natural principles of bodies --- Salt, Sulphur and Mercury --- which are the spirit, the soul, and the body” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (stated):** The seemingly homogeneous Water holds three principles not yet truly united. Distilling draws off the Water (soul and spirit) and leaves the body as a dead black earth at the bottom, which must be kept.
+  - Basis: IV.3 ¶7: "though they appear pure and perfectly united together, there still wants much of their being so"; "the Body remains in the bottom of the vessel, like a dead, black, and dredgy earth, which, nevertheless, is not to be despised".
+  - Also: “when by distillation we draw the Water, which is the soul and the spirit, the Body remains in the bottom of the vessel, like a dead, black, and dredgy earth” `IV.3 ¶7`
+- **principle** — “he who pretends to separate anything from our subject knows nothing of philosophy” `IV.3 ¶7` (QUOTED: John Pontanus (endorsed by Eudoxus))
+  - **Plain (stated):** Nothing of the material is thrown away: the residue and impurities are themselves converted and perfected by 'our Fire'. Purification does not mean keeping the subtle and discarding the heavy.
+  - Basis: IV.3 ¶7: Pontanus "protests that the very superfluities of the Stone are converted into a true essence"; correction of those who think "they must only take the subtile and cast away the heavy".
+  - Also: “for in our subject there is nothing which is not good” `IV.3 ¶7`
+  - Also: “power of it is not integral until it be turned into earth” `IV.3 ¶7`
+- **procedure** — “they must wash it exactly with its spirit, to extract out of it the Fixed Salt, which is the Blood of our Stone” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (stated):** The residual earth holds the Fire and Sulphur at its centre; washing it with its own spirit extracts the Fixed Salt. This needs suitable digestion and slow distillation.
+  - Basis: IV.3 ¶7: "the Fire and the Sulphur are hidden in the centre of the Earth"; "This is the essential Mystery of the operation, which is not accomplished till after a convenient digestion and a slow distillation."
+  - Also: “the Fire and the Sulphur are hidden in the centre of the Earth” `IV.3 ¶7`
+- **procedure** — “the Wise Artist must make peace between the enemies, who radically love each other vehemently” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** Fire and water, opposites, must be reconciled; this happens in their own earth, by moistening that earth again and again with its own water so that the body is dissolved and penetrated and made fit for generation.
+  - Basis: IV.3 ¶7: "nothing is more contrary than fire and water"; Cosmopolite "told the manner thereof": friends "in their earth, which had ascended with them"; then "moisten oftentimes the earth with its water" and "Must not the body be dissolved by the water, and the Earth be penetrated with its Humidity". The link of the moistening to the reconciliation is by sequence.
+  - Also: “moisten oftentimes the earth with its water, and you will obtain what you seek” `IV.3 ¶7`
+  - Also: “All things must therefore being purged make Fire and Water to be Friends, which they will easily do in their earth, which had ascended with them.” `IV.3 ¶7`
+- **principle** — “the Spirit is Eve, the Body is Adam” `IV.3 ¶7` (QUOTED: philosophers (endorsed by Eudoxus))
+  - **Plain (stated):** Spirit and body are a female and male pair, 'of the same nature but of different genders', that must be joined to generate; the water (spirit) surmounts and excites the fixed nature in the body.
+  - Basis: IV.3 ¶7: "they ought to be joined together for the propagation of their species"; "these two substances, which are of the same nature but of different genders"; Hermes' words on Water and the fixed Nature.
+  - Also: “For Water is the strongest Nature which surmounts and excites the fixed Nature in the Body, that is, rejoices in it” `IV.3 ¶7`
+- **result** — “ascend insensibly together, leaving but a little faeces in the bottom of their vessel” `IV.3 ¶7` (QUOTED: Eudoxus)
+  - **Plain (stated):** The outcome of the Third Key: the two substances ascend together leaving little residue, and soul, spirit and body appear inseparably united in a nobler form, as different from the first liquid as rectified alcohol with its salt is from wine.
+  - Basis: IV.3 ¶7: the alcohol-of-wine comparison is said to give "a precise knowledge of the operations of the Third Key".
+  - Also: “as different from its first liquid Form as the alcohol of Wine exactly rectified and actuated with its salt is different from the substance of the wine” `IV.3 ¶7`
+- **subject** — “Our Water is a living Spring which comes out of the Stone by a natural miracle of our philosophy.” `IV.3 ¶8` (QUOTED: Eudoxus)
+  - **Plain (stated):** The Water drawn from the Stone itself is the foundation of the Art; its proper name is Vinegar of the Wise.
+  - Basis: IV.3 ¶8: "He acknowledges, further, that this water is the foundation of our Art"; "it is properly called the Vinegar of the Wise".
+  - Also: “The first of all is the water which issueth out of this Stone.” `IV.3 ¶8`
+  - Also: “it is properly called the Vinegar of the Wise” `IV.3 ¶8`
+- **sign** — “the water and the phlegm ascend first; the oily substance, in which the efficacy of the water consists, comes the last” `IV.3 ¶8` (QUOTED: Eudoxus)
+  - **Plain (stated):** Distilling this Water behaves like distilling common vinegar: the watery part comes over first and the effective oily part last; hence the body must be dissolved entirely to get all its humidity.
+  - Basis: IV.3 ¶8: "there happens the same thing as in that of common vinegar"; "It is therefore necessary to dissolve the body entirely to extract all its humidity".
+- **sign** — “this blackness so desired by all the philosophers” `IV.3 ¶8` (QUOTED: Eudoxus)
+  - **Plain (stated):** A blackness in the vessel is the desired sign; it appears only if the body is dissolved entirely and all its humidity (holding the ferment, the sulphur, the balm) is extracted.
+  - Basis: IV.3 ¶8: "extract all its humidity which contains the precious ferment ... without which you ought not to hope ever to see in your vessel this blackness".
+- **procedure** — “the highest fume should be reduced to the lowest” `IV.3 ¶8` (QUOTED: Senior (endorsed by Eudoxus))
+  - **Plain (interpreted):** What has risen (volatile) must be brought back down onto what stayed below (fixed), uniting them; the divine water descends and restores the soul to its body, reviving it.
+  - Basis: IV.3 ¶8: preceded by "make a perfect union of the volatile with the fixed" and followed by "the divine water is the thing descending from heaven, the reducer of the soul to its body, which it at length revives."
+  - Also: “Reduce then the whole compound into water, and make a perfect union of the volatile with the fixed” `IV.3 ¶8`
+  - Also: “the divine water is the thing descending from heaven, the reducer of the soul to its body, which it at length revives” `IV.3 ¶8`
+- **procedure** — “you ought to wash them with this celestial water until you have removed away the blackness from them” `IV.3 ¶8` (QUOTED: Eudoxus)
+  - **Plain (stated):** Wash the residue with the Water until its blackness is gone; the Water then takes up the vital principle hidden in the residue and is 'animated with this Fiery Essence'.
+  - Basis: IV.3 ¶8: "The Balm of Life is hid in these unclean faeces"; "and then your Water shall be animated with this Fiery Essence, which works all the wonders of our Art".
+  - Also: “The Balm of Life is hid in these unclean faeces” `IV.3 ¶8`
+  - Also: “your Water shall be animated with this Fiery Essence” `IV.3 ¶8`
+- **principle** — “the philosophers have two sorts of compounds” `IV.3 ¶9` (QUOTED: Eudoxus)
+  - **Plain (stated):** The compound of Nature (treated in the First Key) is made by Nature, the Artist only assisting with external means; the compound of Art is made by the Artist uniting fixed with volatile, and differs between the Second and Third Work.
+  - Basis: IV.3 ¶9 defines both directly.
+  - Also: “who does nothing but lend a hand to Nature by the adhibition of external things” `IV.3 ¶9`
+  - Also: “it is the Wise man who makes it by the secret union of the fixed with the volatile” `IV.3 ¶9`
+- **principle** — “a mixture of Argent vive and Sulphur, that is to say, of the volatile and the fixed” `IV.3 ¶9` (QUOTED: Geber (endorsed by Eudoxus))
+  - **Plain (stated):** The compound of Art is a volatile and a fixed component acting on each other until both reach perfect fixity, as earth bears fruit only when penetrated by moisture and moisture stays fruitful only when retained by the earth's dryness.
+  - Basis: IV.3 ¶9: "acting on one another, are volatilized and fixed reciprocally into a perfect Fixity"; the earth/humidity example.
+  - Also: “the earth will never produce fruit if it be not penetrated with its humidity” `IV.3 ¶9`
+- **procedure** — “purify the Serpent, born of the Slime of the earth” `IV.3 ¶9` (QUOTED: Eudoxus)
+  - **Plain (interpreted):** In the first work the black residue is purified and whitened to separate a white sulphur; the whole is described as extracting the compound's fixed salt. The chunk does not say directly what the Serpent is.
+  - Basis: IV.3 ¶9: the Serpent clause is paired with "whiten these foul and black faeces, to separate from thence the white sulphur" and summed up as "all this mystery is but the extraction of the fixed salt of our compound".
+  - Also: “whiten these foul and black faeces, to separate from thence the white sulphur, which is the Sal Amoniac of the Wise, and their Chaste Diana, who washes herself in the bath” `IV.3 ¶9`
+  - Also: “all this mystery is but the extraction of the fixed salt of our compound, in which the whole energy of our Mercury consists” `IV.3 ¶9`
+- **stage** — “the affusion of the water on the body, reiterated many times, impregnates, fattens, and fertilizes our Mercury, and makes it fit to be fixed, which is the end of the second Work” `IV.3 ¶9` (QUOTED: Eudoxus)
+  - **Plain (stated):** The distilled water carries up part of the fiery salt; pouring it back on the body many times enriches the Mercury until it can be fixed, which ends the second Work.
+  - Basis: IV.3 ¶9: "The water which ascends by distillation carries up with it a part of this fiery salt".
+  - Also: “The water which ascends by distillation carries up with it a part of this fiery salt” `IV.3 ¶9`
+- **sign** — “When I saw that the water by degrees did become thicker and harder I did rejoice” `IV.3 ¶9` (QUOTED: Hermes)
+  - **Plain (stated):** Gradual thickening and hardening of the water is a sign of success; its viscous 'ponticity' marks its virtue, which grows with further rectification and work.
+  - Basis: IV.3 ¶9: "Its exuberant ponticity is indeed the true character of its virtue, and the more you shall rectify it, and the more you shall work upon it, the more virtue will it acquire."
+  - Also: “Its exuberant ponticity is indeed the true character of its virtue” `IV.3 ¶9`
+
+## Terms
+
+- **Key** (also: Keys) — One of six successive operations; each ends at a stated point (First at the whitening of the Stone, Second at digestion and putrefaction). Keys are placed within works (the Second Key belongs to the First Work). (QUOTED: Eudoxus)
+  - “the operation of the Second Key of the First Work is ended” `IV.3 ¶5`
+- **works** (also: First Work, first work, second Work, Third Work) — Three closely analogous works of the Art, each repeating dissolution, removal of blackness, whitening and vivifying; the philosophers deliberately confuse them. (QUOTED: Eudoxus)
+  - “the operations of the three works have a great deal of analogy one to another” `IV.3 ¶3`
+- **Stone** (also: Stone of the philosophers) — Formed in the First Key by conjunction of spirit with body; hidden in the caverns of the metals; bright, holding a sublime Spirit; made white by separating the black fume; dissolved into Water in the Second Key; source of the Water. (QUOTED: Eudoxus)
+  - = Sea of the Wise: “it is the Sea of the Wise, in which they angle for their mysterious Fish” `IV.3 ¶3`
+  - = vine of the Wise: “the Stone, which, according to Hermes, is the vine of the Wise” `IV.3 ¶5`
+  - “forms the Stone of the philosophers by the conjunction of the spirit with the body” `IV.3 ¶3`
+- **Sulphur** (also: sulphur) — Shut up in dark prisons and freed by the First Key; one of the three principles; hidden with the Fire in the centre of the Earth; contained in the body's humidity; in Geber's definition, the fixed. (QUOTED: Eudoxus)
+  - = precious ferment, balm of Nature, wonderful unguent: “the precious ferment, the sulphur, that balm of Nature, and wonderful unguent” `IV.3 ¶8`
+  - = the fixed (per Geber): “a mixture of Argent vive and Sulphur, that is to say, of the volatile and the fixed” `IV.3 ¶9`
+  - “the dark prisons in which the Sulphur is shut up” `IV.3 ¶3`
+  - “the Fire and the Sulphur are hidden in the centre of the Earth” `IV.3 ¶7`
+- **white sulphur** — Separated by whitening the foul black faeces in the first work. (QUOTED: Eudoxus)
+  - = Sal Amoniac of the Wise: “the white sulphur, which is the Sal Amoniac of the Wise” `IV.3 ¶9`
+  - = Chaste Diana: “the Sal Amoniac of the Wise, and their Chaste Diana, who washes herself in the bath” `IV.3 ¶9`
+- **Mercury** (also: mercury, our Mercury) — One of the three principles; 'our Mercury' is prepared only through the conversion of Elements; its perfection depends on the Third Key; its whole energy lies in the fixed salt; repeated affusion makes it fit to be fixed. (QUOTED: Eudoxus)
+  - “the only way whereby our Mercury can be prepared” `IV.3 ¶5`
+  - “the fixed salt of our compound, in which the whole energy of our Mercury consists” `IV.3 ¶9`
+- **Salt, Sulphur and Mercury** — Three natural principles of bodies present in the apparently homogeneous Water, seemingly but not truly united. (QUOTED: Eudoxus)
+  - = the spirit, the soul, and the body: “Salt, Sulphur and Mercury --- which are the spirit, the soul, and the body” `IV.3 ¶7`
+- **Principles** — The principles of 'our Mercury' (Salt, Sulphur, Mercury), extracted after sublimation and separated and purified in the Third Key. (QUOTED: Eudoxus)
+  - “the separation and the purification of the Principles of our Mercury” `IV.3 ¶7`
+- **Fixed Salt** (also: fixed salt, fiery salt) — Extracted from the earth by washing it with its spirit; the whole energy of Mercury consists in it; distilled water carries part of it upward. (QUOTED: Eudoxus)
+  - = Blood of our Stone: “the Fixed Salt, which is the Blood of our Stone” `IV.3 ¶7`
+  - “carries up with it a part of this fiery salt” `IV.3 ¶9`
+- **Spirit** (also: spirit) — Joined with body to form the Stone; the only tie uniting soul and body; used to wash the earth; called Eve. (QUOTED: Eudoxus)
+  - = Eve: “the Spirit is Eve, the Body is Adam” `IV.3 ¶7`
+  - “of whom the Spirit is the only tie which works this conjunction” `IV.3 ¶7`
+- **Body** (also: body) — What remains after the Water is distilled off: a dead, black, dredgy earth, not to be despised; must be wholly dissolved and glorified; called Adam. (QUOTED: Eudoxus)
+  - = Adam: “the Spirit is Eve, the Body is Adam” `IV.3 ¶7`
+  - “the Body remains in the bottom of the vessel, like a dead, black, and dredgy earth” `IV.3 ¶7`
+- **Water** (also: water, our Water, living water, divine water, celestial water) — Springs from the Stone; foundation of the Art; holds the three principles; named by degree of preparation or effect; descends to restore soul to body; washes the faeces and is animated by the Fiery Essence. (QUOTED: Eudoxus)
+  - = the soul and the spirit: “the Water, which is the soul and the spirit” `IV.3 ¶7`
+  - = wine, water of life, vinegar, oil: “sometimes they call it wine, sometimes water of life, sometimes vinegar, sometimes oil, according to the different degrees of Preparation” `IV.3 ¶8`
+  - = Vinegar of the Wise: “it is properly called the Vinegar of the Wise” `IV.3 ¶8`
+  - = Divine Liquor: “in the distillation of this Divine Liquor there happens the same thing as in that of common vinegar” `IV.3 ¶8`
+  - = reducer of the soul to its body: “the divine water is the thing descending from heaven, the reducer of the soul to its body” `IV.3 ¶8`
+  - “Our Water is a living Spring which comes out of the Stone by a natural miracle of our philosophy.” `IV.3 ¶8`
+- **Pontick Water** (also: ponticity) — Name for the viscous liquor that thickens under repeated affusion; its exuberant ponticity is the character of its virtue. (QUOTED: Eudoxus)
+  - = Water of Life: “It has been called the Water of Life, because it gives life to the metals” `IV.3 ¶9`
+  - = great Lunaria: “it is properly called the great Lunaria, because of its brightness wherewith it shines” `IV.3 ¶9`
+  - “the philosophers give this viscous Liquor the name of Pontick Water” `IV.3 ¶9`
+- **Fire of the Wise** — The only instrument of sublimation; dissolves the Stone naturally and without violence into Water; never openly revealed; known by its described characters and by divine gift. 'Our Fire' perfects the whole compound (identity with the Fire of the Wise not asserted). (QUOTED: Eudoxus)
+  - = Secret Fire: “No philosopher has ever openly revealed this Secret Fire” `IV.3 ¶5`
+  - = powerful agent: “this Secret Fire, and this powerful agent, which works all the wonders of the Art” `IV.3 ¶5`
+  - “the Fire of the Wise, which is the only instrument which can work this sublimation” `IV.3 ¶5`
+  - “the whole compound, is made perfect by the action of our Fire” `IV.3 ¶7`
+- **sublimation** (also: sublime) — Separating the Elements by raising subtle and pure parts above the thick and terrestrial; prerequisite to conversion of Elements and extraction of Principles. (QUOTED: Eudoxus)
+  - “raising up the subtle and pure parts above the thick and terrestrial parts” `IV.3 ¶5`
+  - “Without the sublimation of the Stone, the conversion of the Elements and the extraction of the Principles is impossible” `IV.3 ¶5`
+- **Elements** (also: elements) — Constituents of the Stone separated in the Second Key and converted in sequence: Earth to Water, Water to Air, Air to Fire. (QUOTED: Eudoxus)
+  - “makes Water of Earth, Air of Water, and Fire of Air” `IV.3 ¶5`
+- **digestion** — A measured process required, with putrefaction, before perfect dissolution (Second Key), and, with slow distillation, before extraction of the Fixed Salt (Third Key). (QUOTED: Eudoxus)
+  - “after a proportioned digestion and putrefaction” `IV.3 ¶5`
+  - “a convenient digestion and a slow distillation” `IV.3 ¶7`
+- **Blackest Black** (also: Black) — Source of the black, foul, stinking fume whose separation forms the white Stone. (QUOTED: Eudoxus)
+  - “the black, foul, and stinking fume of the Blackest Black” `IV.3 ¶3`
+- **faeces** — The black earthy residue at the bottom of the vessel; not to be discarded; hides the Balm of Life; washed with the celestial water until no longer black. (QUOTED: Eudoxus)
+  - “The Balm of Life is hid in these unclean faeces” `IV.3 ¶8`
+- **Fiery Essence** — What animates the Water after the faeces are washed free of blackness; works all the wonders of the Art. (QUOTED: Eudoxus)
+  - “your Water shall be animated with this Fiery Essence, which works all the wonders of our Art” `IV.3 ¶8`
+- **compound of Nature** — The compound treated in the First Key, made by Nature incomprehensibly to the Artist, who only aids her by external things. (QUOTED: Eudoxus)
+  - “The first is the compound of Nature, whereof I have spoken in the First Key” `IV.3 ¶9`
+- **compound of Art** — Made by the Wise man by secret union of fixed and volatile; not altogether the same in the Second and Third Work; always made by the Artist. (QUOTED: Eudoxus)
+  - = mixture of Argent vive and Sulphur (per Geber): “Geber defines it, a mixture of Argent vive and Sulphur” `IV.3 ¶9`
+  - “it is the Wise man who makes it by the secret union of the fixed with the volatile” `IV.3 ¶9`
+- **Argent vive** — In Geber's definition of the compound of Art, the volatile. (QUOTED: Geber)
+  - = the volatile: “a mixture of Argent vive and Sulphur, that is to say, of the volatile and the fixed” `IV.3 ¶9`
+- **volatile and fixed** (also: the volatile with the fixed, the fixed with the volatile, Fixity) — The two components whose union makes the compound of Art; they act on each other until reciprocally volatilized and fixed into perfect Fixity. (QUOTED: Eudoxus)
+  - “are volatilized and fixed reciprocally into a perfect Fixity” `IV.3 ¶9`
+- **Wise Artist** (also: Artist) — The operator; lends a hand to Nature for the compound of Nature, and makes the compound of Art himself. (QUOTED: Eudoxus)
+  - = Wise man: “it is the Wise man who makes it” `IV.3 ¶9`
+  - “it is always the Artist who makes it” `IV.3 ¶9`
+
+## Sources cited
+
+- **Eudoxus**, *The Six Keys of Eudoxus, Opening Into the Most Secret Philosophy* `IV.3 ¶1` — Named in the chapter heading; the first-person text of the chunk is presented as his.
+- **Hermes** — “In the caverns of the metals there is hidden the Stone, which is venerable, bright in colour, a mind sublime, and an open sea.” `IV.3 ¶3` — Supports: demonstrates the operation of the First Key.
+- **Hermes** — “What is born of the Crow is the beginning of this Art.” `IV.3 ¶3` — Supports: beheading the Raven/Black Dragon belongs properly to the First operation.
+- **Hermes** — “the Stone, which, according to Hermes, is the vine of the Wise” `IV.3 ¶5` — Supports: the Stone as vine that becomes Wine.
+- **Hermes** — “power of it is not integral until it be turned into earth” `IV.3 ¶7` — Supports: the earthy residue must not be discarded.
+- **Hermes** — “For Water is the strongest Nature which surmounts and excites the fixed Nature in the Body, that is, rejoices in it” `IV.3 ¶7` — Supports: union of water/spirit with body.
+- **Hermes** — “The first of all is the water which issueth out of this Stone.” `IV.3 ¶8` — Supports: the water from the Stone is the foundation of the Art.
+- **Hermes** — “When I saw that the water by degrees did become thicker and harder I did rejoice” `IV.3 ¶9` — Supports: thickening water as sign of success at the end of the second Work.
+- **Artefius** `IV.3 ¶7` — Cited, with Trevisan and Flammel, among 'the sincerest' who passed the Preparation of Mercury in silence.
+- **Trevisan** `IV.3 ¶7` — As Artefius.
+- **Flammel** `IV.3 ¶7` — As Artefius.
+- **John Pontanus** — “he who pretends to separate anything from our subject knows nothing of philosophy” `IV.3 ¶7` — Supports: nothing in the subject is to be discarded; superfluities are converted into essence by the Fire.
+- **Cosmopolite** — “All things must therefore being purged make Fire and Water to be Friends, which they will easily do in their earth, which had ascended with them.” `IV.3 ¶7` — Supports: the manner of reconciling fire and water.
+- **philosophers** — “the Spirit is Eve, the Body is Adam” `IV.3 ¶7` — Supports: spirit and body must be joined for generation.
+- **Senior** — “the highest fume should be reduced to the lowest” `IV.3 ¶8` — Supports: union of volatile with fixed; called a precept 'which deserves attention'.
+- **Geber** — “a mixture of Argent vive and Sulphur” `IV.3 ¶9` — Supports: definition of the compound of Art as volatile and fixed.
+
+## Ambiguities
+
+- “this is it which knows how to extract the seed out of the body” `IV.3 ¶3`
+  - Reading: The seed is the Sulphur released from its dark prisons.
+  - Reading: The seed is a distinct thing extracted in the same operation.
+  - Basis: Both clauses describe the First Key in successive phrases (IV.3 ¶3); the text does not assert identity.
+- “Salt, Sulphur and Mercury --- which are the spirit, the soul, and the body” `IV.3 ¶7`
+  - Reading: Correspondence in order: Salt = spirit, Sulphur = soul, Mercury = body.
+  - Reading: The two triads are equated only as sets, without one-to-one mapping.
+  - Reading: Sulphur = spirit and Mercury = body, following the pairing in IV.3 ¶3.
+  - Basis: IV.3 ¶7 lists both triads in parallel order; IV.3 ¶3 "the conjunction of the spirit with the body -- of sulphur with mercury" pairs sulphur with spirit and mercury with body, conflicting with the ordered reading; IV.3 ¶7 also ties the Fixed Salt to the earth/body rather than to spirit.
+- “by the distillation which is made by the rays of the Sun and Moon” `IV.3 ¶5`
+  - Reading: Literal sunlight and moonlight as the source of the distillation.
+  - Reading: Figurative names for agents not explained in this chunk.
+  - Basis: IV.3 ¶5 gives no gloss; IV.3 ¶3 warns that the philosophers speak "in equivocal terms".
+- “The Elements of the Stone cannot be dissolved but by this Nature wholly Divine” `IV.3 ¶5`
+  - Reading: 'This Nature wholly Divine' is the Secret Fire.
+  - Reading: It is the Water (Wine, Water of Life) just described.
+  - Basis: Reading 1: the Secret Fire is earlier said to dissolve the Stone "naturally" (IV.3 ¶5). Reading 2: the immediately preceding sentence concerns Wine, Water of Life and Vinegar; IV.3 ¶8 calls the water "divine water" and "Divine Liquor".
+- “But Hermes says that power of it is not integral until it be turned into earth” `IV.3 ¶7`
+  - Reading: 'it' is the Stone/compound, whose power is complete only when its earth is retained.
+  - Reading: 'it' is the Water/spirit, whose power is complete only when fixed into earth.
+  - Basis: IV.3 ¶7: preceded by the defence of the earthy residue ("the whole compound, is made perfect"), followed by washing the earth with its spirit; IV.3 ¶9 has the water becoming "thicker and harder".
+- “makes it fit to be fixed, which is the end of the second Work” `IV.3 ¶9`
+  - Reading: The Keys are spread across the three Works, and operations described under the Third Key reach the end of the second Work.
+  - Reading: 'Work' here is used loosely or concerns the compound of Art generally, and does not fix the Key-to-Work mapping.
+  - Basis: IV.3 ¶5 "the Second Key of the First Work"; IV.3 ¶9 mixes "in the first work purify the Serpent" with the second Work's end, within the Third Key discussion; IV.3 ¶3 warns that writers speaking of one work often treat of another.
+
+## Threads
+
+- `IV.3 ¶1` Six Keys are announced; this chunk covers the First, Second and part of the Third. The rest follow.
+- `IV.3 ¶3` 'the three works' are said to be analogous; their distinct contents are developed beyond this chunk.
+- `IV.3 ¶7` Speaker promises to enlarge on the Third Key more than others and set it in order; continues beyond this chunk.
+- `IV.3 ¶9` "whereof I have spoken in the First Key": the compound of Nature refers back to the First Key (IV.3 ¶3).
+- `IV.3 ¶9` "The compound of Art is not altogether the same in the Second as in the Third Work" points to later treatment of the Second and Third Works.
+- `IV.3 ¶9` The chunk ends mid-discussion with "...." after "the great Lunaria, because of its brightness wherewith it shines"; continues in the next chunk.

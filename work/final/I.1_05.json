@@ -1,0 +1,900 @@
+{
+  "chunk": "I.1_05",
+  "gist": "Atwood closes the story of Lully's gold-making in England, then describes the avarice, fraud and spurious books that discredited alchemy in the 14th–15th centuries (with Norton's verse as witness), and begins the story of Nicholas Flamel, quoting his own account of finding the book, preparing the first principles, making projection, and the moral effect of the Stone.",
+  "notes": [
+    {
+      "point": "The king broke faith and imprisoned Lully in his laboratory to get more gold; Cremer's Testament condemns this. Lully escaped; the gold was coined as Nobles of the Rose (about 10 ducats), of the finest metal, their inscription denoting miraculous origin. Camden, Cremer, Lully, Borrichius, Constantius, Dufresnoy and Dickenson attest the story; Dickenson says powder of transmutation later found in Lully's Westminster cell enriched the workmen.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 n56",
+        "I.1 n57"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Lully's alchemical writings are obscure, understood only by those holding 'the key of his cabalistic mind'. Atwood leaves open whether his contradictions were meant to baffle sordid chemists or reflect his late conversion by Arnold. None, she thinks, denies the art; Dufresnoy lists some 200 treatises; his Theoriea et Practica is among the best alchemical philosophy extant.",
+      "refs": [
+        "I.1 ¶48",
+        "I.1 n58"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Lully's case is one of many. Avarice raged; the Stone was no longer sought by philosophers alone: beside Lully, Cremer, Rupicessa, De Meun, Flamel, Pontanus, Basil Valentine and Ripley came a spurious brood of idlers living on public credulity, men of every rank searching like monomaniacs.",
+      "refs": [
+        "I.1 ¶49"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Norton's verse lists every estate, from popes to tinkers, seeking the craft; goldsmiths and glass-tincturers have some excuse, but hasty artificers wasted their thrift in lifelong vain hope. Only 'a great clerke' should meddle with it, for it is 'most profounde philosophye'.",
+      "refs": [
+        "I.1 ¶49",
+        "I.1 ¶52",
+        "I.1 n59"
+      ],
+      "voice": "QUOTED: Norton's Ordinal (endorsed by Atwood as illustration)"
+    },
+    {
+      "point": "False adepts, ignorant even of the Art's preliminaries, made the world despise alchemy by confusing the genuine doctrine with sophistical productions, so the true light is still hard to separate out. Deceptive books placed the truth in salts, niters, boraxes or any vegetable body; mutilated editions of the old masters blasphemed the Sacred Science. Norton's monk of a thousand malicious receipts illustrates this.",
+      "refs": [
+        "I.1 ¶53",
+        "I.1 ¶54",
+        "I.1 n60"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Merchants lost valuables entrusted for multiplication; Parliament and papal bulls forbade transmutation on pain of death. This checked the pursuit only outwardly: knaves and philosophers kept experimenting secretly, and Pope John XXII, who interdicted it, is said to have practised it profitably. Atwood will detail only the more remarkable artists.",
+      "refs": [
+        "I.1 ¶55",
+        "I.1 n61"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Atwood introduces Flamel and Perenelle, noted for humble origin, charity, piety and mystery, and honorably connected with the Hermetic art. She summarizes that, after much fruitless study, a Jew stranger met in his travels explained the book's hieroglyphics to him.",
+      "refs": [
+        "I.1 ¶56",
+        "I.1 ¶57"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Flamel, a Paris scrivener with little Latin, bought for 2 florins an old gilded book of bark leaves with a graven brass cover; of its thrice seven leaves, every seventh bore painted images instead of writing.",
+      "refs": [
+        "I.1 ¶56"
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "point": "Flamel had the prima material but not its preparation, the hardest thing of all; after three years of study, prayer and trial he found it, knowing it by its scent, and easily accomplished the magistery by following his book. Projection on mercury made silver, and with the Red Stone gold better than common gold, three times with Perenelle, who could have done it alone.",
+      "refs": [
+        "I.1 ¶57"
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "point": "Perenelle kept the secret; they founded 14 hospitals, 3 chapels and 7 churches in Paris and did similarly at Bologne. Flamel painted the signs of the art under hieroglyphical veils for the wise, and says the perfected Stone removes the root of sin from its maker, provided the work reaches its legitimate end, leaving him ravished with God's goodness.",
+      "refs": [
+        "I.1 ¶57"
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "subject",
+      "veiled": "I had now the prima material, the first principles, yet not their preparation, which is a thing most difficult above all things in the world",
+      "ref": "I.1 ¶57",
+      "plain": "Possessing the first matter (the first principles) is distinct from knowing how to prepare it; the preparation is the hardest part of the whole work.",
+      "status": "stated",
+      "basis": "Flamel distinguishes the two directly and ranks the preparation as most difficult.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "For knowing the preparations of the prime agents, and then literally following the directions in my book, I could not then miss the work if I would.",
+      "ref": "I.1 ¶57",
+      "plain": "Once the preparation of the first agents is known, the rest of the work follows reliably by following the written directions literally; the hidden key is the preparation, not the later steps.",
+      "status": "stated",
+      "basis": "I.1 ¶57: 'Having this, I easily accomplished the magistery' immediately precedes this sentence.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "Having this, I easily accomplished the magistery.",
+          "ref": "I.1 ¶57"
+        },
+        {
+          "text": "Again following the same direction in my book, word by word",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "At length, I found that which I desired; which I also soon knew, by the scent and odor thereof.",
+      "ref": "I.1 ¶57",
+      "plain": "What he sought was recognized by its scent; this chunk does not say which product or what the scent is like (see ambiguities).",
+      "status": "interpreted",
+      "basis": "I.1 ¶57: 'that which I desired' follows his three years' search for the preparation he lacked; the text does not say what the scent is like.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "praying also continuously unto God, and reading attentively in my book, pondering the words of the philosophers, and then trying and proving the various operations which I thought they might mean by their words",
+      "ref": "I.1 ¶57",
+      "plain": "The way to the preparation was continuous prayer joined with close reading of the philosophers' words and experimental trial of the operations they might signify.",
+      "status": "stated",
+      "basis": "Flamel's own description of his three years' labour.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "after a long aberration and wandering in the labyrinth of errors, for the space of three years",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "through the grace of God it was, that I attained the perfect knowledge of all that I desired",
+      "ref": "I.1 ¶57",
+      "plain": "Flamel attributes his attainment of the knowledge to divine grace rather than to his own skill.",
+      "status": "stated",
+      "basis": "Direct statement; echoed in ¶56 'by the blessing of God, I have not wanted an understanding of the books of the philosophers'.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "by the blessing of God, I have not wanted an understanding of the books of the philosophers, but learned them, and attained to a certain kind of knowledge, even of their hidden secrets",
+          "ref": "I.1 ¶56"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "their meaning was explained to him by a Jew stranger , whom he met with in his travels",
+      "ref": "I.1 ¶57",
+      "plain": "The book's hieroglyphic figures were not understood through solitary study; their meaning came through explanation by another person.",
+      "status": "interpreted",
+      "basis": "I.1 ¶57: explanation came 'after much study and fruitless toil'; this chunk does not say what the stranger explained.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "the first time I made projection, was upon mercury; a pound and a half whereof, or thereabouts, I turned into pure silver, better than that of the mine",
+      "ref": "I.1 ¶57",
+      "plain": "Projection is the final application of the finished product to a base substance (here mercury); the first projection yielded silver, a later one with the Red Stone yielded gold.",
+      "status": "interpreted",
+      "basis": "I.1 ¶57: 'Having attained this, I came now to the Projection' — projection follows completion of the magistery; silver and gold results stated.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "I made projection of the Red Stone, on a like quantity of mercury",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "This mercury I truly transmuted into almost as much gold, much better indeed than common gold, more soft also, and more pliable.",
+      "ref": "I.1 ¶57",
+      "plain": "The Red Stone yields gold of roughly the same weight as the mercury, superior in quality to ordinary gold.",
+      "status": "stated",
+      "basis": "Direct statement.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "Those who have examined these coins pronounce them to be of the finest metal",
+          "ref": "I.1 ¶47"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "which being perfected by anyone, takes away from him the root of all sin and evil; changing his evil into good",
+      "ref": "I.1 ¶57",
+      "plain": "The completed Stone morally transforms its maker, removing the root of sin and making him liberal, courteous, religious and God-fearing, whatever he was before.",
+      "status": "stated",
+      "basis": "Direct statement in I.1 ¶57; the condition and the sequel follow in the same sentence.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "provided only he carries through the work to its legitimate end",
+          "ref": "I.1 ¶57"
+        },
+        {
+          "text": "For from thenceforward he is continually ravished with the goodness of God",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "I found exceeding great pleasure and delight in seeing and contemplating the admirable works of nature, within the vessels",
+      "ref": "I.1 ¶57",
+      "plain": "The work is a natural process observed in vessels, and its contemplation, not further gain, was the adept's chief delight after success.",
+      "status": "stated",
+      "basis": "I.1 ¶57: 'I had truly enough, when I had once done it' precedes this.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "I had truly enough, when I had once done it",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "the most true and essential marks and signs of this art, yet under veils and types and hieroglyphical characters",
+      "ref": "I.1 ¶57",
+      "plain": "Flamel's arch paintings encode the true method of the Stone in symbolic images legible only to the wise.",
+      "status": "stated",
+      "basis": "I.1 ¶57 continues: 'demonstrating to the wise and men of understanding, the direct and perfect way of operation and lineary work of the philosophers’ stone'. The images themselves are not described in this chunk.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "I caused to be depicted under the same arch, three furnaces, like to those which serve the operations of the work",
+          "ref": "I.1 ¶57"
+        },
+        {
+          "text": "every seventh leaf was without writing; but in place thereof were several images and figures painted",
+          "ref": "I.1 ¶56"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "I have made three times with the help of Perenelle, who understands it as well as myself",
+      "ref": "I.1 ¶57",
+      "plain": "A woman partner worked the art with full understanding and, Flamel says, could have perfected it alone.",
+      "status": "stated",
+      "basis": "Direct statement, continued: 'if she would have done it alone, she would have brought the work to the same, or full as great perfection as I had done'.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "and without doubt, if she would have done it alone, she would have brought the work to the same, or full as great perfection as I had done",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "a sober chaste wife; but she was also a wise prudent woman",
+      "ref": "I.1 ¶57",
+      "plain": "Sobriety, prudence and secrecy about the treasure, and devotion to God and charity, characterize the successful operators.",
+      "status": "interpreted",
+      "basis": "I.1 ¶57: Flamel's fear 'lest Perenelle, by reason of extreme joy, should not hide her felicity' and their giving themselves 'to the works of charity and mercy'; ¶56 notes their 'eminent piety'. The text presents these as their qualities, not explicitly as requirements.",
+      "voice": "QUOTED: Nicholas Flamel",
+      "also": [
+        {
+          "text": "lest Perenelle, by reason of extreme joy, should not hide her felicity",
+          "ref": "I.1 ¶57"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "For trewly he that is not a great clerke, Is nice and lewd to medle with this werke;",
+      "ref": "I.1 ¶52",
+      "plain": "Only a deeply learned person should attempt the work; it is profound philosophy, not a craft for the unlearned.",
+      "status": "stated",
+      "basis": "I.1 ¶52 continues: 'For it is most profounde philosophye This subtill science of holy Alkimy'.",
+      "voice": "QUOTED: Norton's Ordinal",
+      "also": [
+        {
+          "text": "Ye may trust me it is no small inginn, To know alle secrets pertaining to this myne.",
+          "ref": "I.1 ¶52"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "But manie Artificers have byn over swifte, With hastie credence to sume away their thrift;",
+      "ref": "I.1 ¶52",
+      "plain": "Hasty belief and greed lead would-be practitioners to waste their means in lifelong fruitless hope.",
+      "status": "stated",
+      "basis": "I.1 ¶52: 'Which in such hope continued all their lyfe, Whereby they were made poore'; ¶49 on 'the spirit of avarice'.",
+      "voice": "QUOTED: Norton's Ordinal",
+      "also": [
+        {
+          "text": "the spirit of avarice, bursting forth expectant, absolutely raged",
+          "ref": "I.1 ¶49"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "some indeed affirming, that the truth was to be found in salts, or niters, or boraxes; but others, in all vegetable bodies indiscriminately",
+      "ref": "I.1 ¶53",
+      "plain": "Atwood rejects as deceptive the books that locate the subject of the art in common salts, niters, boraxes or any plant matter.",
+      "status": "stated",
+      "basis": "I.1 ¶53: these belong to 'a multitude of books ... put forth with the merest purpose of deception'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "introduce mutilated editions of the old masters, filled with inconsistencies, and the wicked inventions of designing fraud",
+      "ref": "I.1 ¶53",
+      "plain": "Even the old masters' texts were corrupted; a reader must distinguish genuine doctrine from interpolation.",
+      "status": "stated",
+      "basis": "I.1 ¶53; ¶54 (Norton's monk and his 'thousand receipts'); ¶55 'such knavish interpolation'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "a difficulty yet remains to distinguish them, and segregate, from so great an interspersion of darkness, the true light",
+          "ref": "I.1 ¶53"
+        },
+        {
+          "text": "Of a thousand receipts in malice for despighte,",
+          "ref": "I.1 ¶54"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Many usurped the title of the adepts, who had no knowledge even of the preliminaries of the Art",
+      "ref": "I.1 ¶53",
+      "plain": "Alchemy's disrepute stems from fraudulent pretenders, not from the genuine doctrine, which Atwood holds to be real.",
+      "status": "stated",
+      "basis": "I.1 ¶53: 'confounding the genuine doctrine with their sophistical and vile productions'; ¶49 'the Stone was no longer sought after by philosophers alone'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "confounding the genuine doctrine with their sophistical and vile productions",
+          "ref": "I.1 ¶53"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Whether his equivocal and contradictory language was so contrived to baffle the sordid chemists",
+      "ref": "I.1 ¶48",
+      "plain": "Adepts' writings may be deliberately contradictory to keep the secret from greedy experimenters; their sense is reached only with a 'key'.",
+      "status": "interpreted",
+      "basis": "I.1 ¶48 offers this as one possibility (the other being Lully's late learning) and says his writings were understood only by those possessing 'the key of his cabalistic mind'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "have only been understood with great pains and application even by those who have been so fortunate as to possess the key of his cabalistic mind",
+          "ref": "I.1 ¶48"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "a certain quantity of the powder of transmutation, by means of which the workmen and architects became enriched",
+      "ref": "I.1 ¶47",
+      "plain": "The product is reported as a powder 'of transmutation' whose finders were enriched by it; the chunk does not say what it was used on.",
+      "status": "interpreted",
+      "basis": "I.1 ¶47: the powder is named 'of transmutation' and enriched those who found it; reported via Dickenson.",
+      "voice": "QUOTED: Dickenson",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "prima material",
+      "variants": [],
+      "meaning": "The first matter or first principles of the work, which Flamel possessed before he knew how to prepare it.",
+      "equivalences": [
+        {
+          "with": "first principles",
+          "quote": "I had now the prima material, the first principles, yet not their preparation",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "I had now the prima material, the first principles, yet not their preparation, which is a thing most difficult above all things in the world",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "preparation",
+      "variants": [
+        "preparations"
+      ],
+      "meaning": "The treatment of the first principles / prime agents; the most difficult part of the work, after which the magistery is easy.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "For knowing the preparations of the prime agents, and then literally following the directions in my book, I could not then miss the work if I would.",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "prime agents",
+      "variants": [],
+      "meaning": "The initial agents of the work whose preparation must be known; used in place of 'first principles' in the same account (identity not explicitly asserted).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "knowing the preparations of the prime agents",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "magistery",
+      "variants": [],
+      "meaning": "The accomplishment of the work after the preparation, leading to projection.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Having this, I easily accomplished the magistery.",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "Projection",
+      "variants": [
+        "projection"
+      ],
+      "meaning": "The act, after the magistery, of applying the Stone to a substance (here mercury), which Flamel says turned it into silver or, with the Red Stone, gold.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Having attained this, I came now to the Projection; and the first time I made projection, was upon mercury",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "Red Stone",
+      "variants": [],
+      "meaning": "The form of the Stone that, projected on mercury, yields gold (the earlier projection yielded silver).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "I made projection of the Red Stone, on a like quantity of mercury",
+          "ref": "I.1 ¶57"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "philosophers’ stone",
+      "variants": [
+        "Stone",
+        "stone"
+      ],
+      "meaning": "The object of the art; the end product of the 'lineary work' which, perfected, both transmutes metals and removes the root of sin from its maker.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the direct and perfect way of operation and lineary work of the philosophers’ stone",
+          "ref": "I.1 ¶57"
+        },
+        {
+          "text": "the Stone was no longer sought after by philosophers alone",
+          "ref": "I.1 ¶49"
+        }
+      ],
+      "voice": "QUOTED: Nicholas Flamel"
+    },
+    {
+      "term": "powder of transmutation",
+      "variants": [],
+      "meaning": "A powder found in Lully's cell that enriched the workmen; the transmuting product in powder form.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a certain quantity of the powder of transmutation",
+          "ref": "I.1 ¶47"
+        }
+      ],
+      "voice": "QUOTED: Dickenson"
+    },
+    {
+      "term": "transmutation",
+      "variants": [],
+      "meaning": "Conversion of a metal into gold or silver; forbidden by Parliament and papal bulls.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "forbidding transmutation, on pain of death, and the pursuit of alchemy",
+          "ref": "I.1 ¶55"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "multiplied",
+      "variants": [],
+      "meaning": "The promised increase of entrusted gold, silver or gems, used by frauds to cheat merchants.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "which they lost, in vain hope of getting them multiplied",
+          "ref": "I.1 ¶55"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Alchemy",
+      "variants": [
+        "alchemy",
+        "Alkimy"
+      ],
+      "meaning": "The art itself; in Norton's verse, a subtle science that is the most profound philosophy.",
+      "equivalences": [
+        {
+          "with": "most profounde philosophye",
+          "quote": "For it is most profounde philosophye This subtill science of holy Alkimy",
+          "ref": "I.1 ¶52"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "the world has learned to despise alchemy, confounding the genuine doctrine with their sophistical and vile productions",
+          "ref": "I.1 ¶53"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Sacred Science",
+      "variants": [],
+      "meaning": "Name for the genuine art which the fraudulent books blasphemed.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "they have blasphemed the Sacred Science, and by their errors have brought contempt on men philosophizing",
+          "ref": "I.1 ¶53"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Hermetic art",
+      "variants": [],
+      "meaning": "Name for the art with whose history Flamel's name is honorably connected.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "connects their name honorably with the history of the Hermetic art",
+          "ref": "I.1 ¶56"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "adepts",
+      "variants": [
+        "adept"
+      ],
+      "meaning": "True masters of the art, as distinct from pretenders who usurped the title.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Many usurped the title of the adepts, who had no knowledge even of the preliminaries of the Art",
+          "ref": "I.1 ¶53"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "philosophers",
+      "variants": [
+        "men philosophizing"
+      ],
+      "meaning": "Genuine seekers of the Stone, contrasted with knaves, idlers and 'sordid chemists'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "experiments continued to be carried on in secret with no less ardour than before, both by knaves and philosophers",
+          "ref": "I.1 ¶55"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "tincture",
+      "variants": [],
+      "meaning": "In Norton's verse, the coloring of glass; given as the reason glaziers had 'some collour' for meddling in the work. Not otherwise explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "yet some collour there was For all such men as give tincture to glasse;",
+          "ref": "I.1 ¶52"
+        }
+      ],
+      "voice": "QUOTED: Norton's Ordinal"
+    },
+    {
+      "term": "cabalistic",
+      "variants": [],
+      "meaning": "Describes Lully's mind/writing, whose 'key' is needed to understand his obscure alchemical works.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "possess the key of his cabalistic mind",
+          "ref": "I.1 ¶48"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Nobles of the Rose",
+      "variants": [],
+      "meaning": "Coins struck from Lully's gold, about 10 ducats in weight, of the finest metal, with a marginal inscription said to denote their miraculous origin.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a coinage of the gold was struck in pieces weighing about 10 ducats each, called Nobles of the Rose",
+          "ref": "I.1 ¶47"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Cremer",
+      "work": "Testament (Cremeri Testamentum)",
+      "quote": null,
+      "use": "Supports the Lully story; Cremer openly condemns the king's breach of faith.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 n56"
+      ]
+    },
+    {
+      "name": "Camden",
+      "work": "Antiquities",
+      "quote": null,
+      "use": "Supports: describes the Nobles of the Rose coins.",
+      "refs": [
+        "I.1 ¶47"
+      ]
+    },
+    {
+      "name": "Lully",
+      "work": null,
+      "quote": null,
+      "use": "His own declarations cited as evidence for the England story; his alchemical writings described as obscure but numerous and favorable to the art.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 ¶48"
+      ]
+    },
+    {
+      "name": "Lully",
+      "work": "Theoriea et Practica (in the third volume of the Theat. Chem.)",
+      "quote": "appears to us one of the very best pieces of Alchemical philosophy extant",
+      "use": "Atwood recommends it highly.",
+      "refs": [
+        "I.1 n58"
+      ]
+    },
+    {
+      "name": "Olaus Borrichius",
+      "work": "de Ortu et Progressu Chemiae, 4 to., p. 242",
+      "quote": "Aureas illas Anglorum primum...",
+      "use": "Supports the Lully story / the English gold coins.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 n57"
+      ]
+    },
+    {
+      "name": "R. Constantius",
+      "work": null,
+      "quote": null,
+      "use": "Cited as containing allusions supporting the Lully story.",
+      "refs": [
+        "I.1 ¶47"
+      ]
+    },
+    {
+      "name": "l’Englet Dufresnoy",
+      "work": "Histoire Hermetique (Hist. Herm.), vol. 2 p. 11; vol 3",
+      "quote": null,
+      "use": "Supports the Lully story; his catalogue lists about 200 of Lully's alchemical treatises; reference for the laws forbidding transmutation.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 ¶48",
+        "I.1 n58",
+        "I.1 n61"
+      ]
+    },
+    {
+      "name": "Dickenson",
+      "work": "de Quintessentia (E. Dickenson)",
+      "quote": null,
+      "use": "Relates the discovery of powder of transmutation in Lully's Westminster cell.",
+      "refs": [
+        "I.1 ¶47",
+        "I.1 n57"
+      ]
+    },
+    {
+      "name": "Arnold",
+      "work": null,
+      "quote": null,
+      "use": "Mentioned as possibly having convinced Lully by exhibiting transmutation in his presence.",
+      "refs": [
+        "I.1 ¶48"
+      ]
+    },
+    {
+      "name": "Rupicessa, De Meun, Flamel, John Pontanus, Basil Valentine, Ripley",
+      "work": null,
+      "quote": null,
+      "use": "Listed with Lully and Cremer as genuine seekers entering the lists, contrasted with the spurious brood of idlers.",
+      "refs": [
+        "I.1 ¶49"
+      ]
+    },
+    {
+      "name": "Norton",
+      "work": "Norton’s Ordinal (cap. 1)",
+      "quote": "For it is most profounde philosophye This subtill science of holy Alkimy",
+      "use": "Illustrates the universal craze for alchemy across all estates, the ruin of hasty seekers, the need for learning, and the damage done by a monk's book of false receipts.",
+      "refs": [
+        "I.1 ¶49",
+        "I.1 ¶52",
+        "I.1 ¶54",
+        "I.1 n59",
+        "I.1 n60"
+      ]
+    },
+    {
+      "name": "the adept",
+      "work": null,
+      "quote": "they have blasphemed the Sacred Science, and by their errors have brought contempt on men philosophizing",
+      "use": "Supports Atwood's condemnation of fraudulent books; the adept is not named.",
+      "refs": [
+        "I.1 ¶53"
+      ]
+    },
+    {
+      "name": "acts of Parliament; Pope’s Bull’s",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates the legal suppression of transmutation, which only drove the pursuit into secrecy.",
+      "refs": [
+        "I.1 ¶55",
+        "I.1 n61"
+      ]
+    },
+    {
+      "name": "Pope John XXII",
+      "work": null,
+      "quote": null,
+      "use": "Said to have practised the art he interdicted and enriched the treasury by it; illustrates continued secret pursuit.",
+      "refs": [
+        "I.1 ¶55"
+      ]
+    },
+    {
+      "name": "Nicholas Flamel",
+      "work": null,
+      "quote": "I had now the prima material, the first principles, yet not their preparation",
+      "use": "His own account is quoted at length as a remarkable, well-known case: the book, its explanation, the preparation, projection, and the moral effect of the Stone.",
+      "refs": [
+        "I.1 ¶56",
+        "I.1 ¶57"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "Whether his equivocal and contradictory language was so contrived to baffle the sordid chemists",
+      "ref": "I.1 ¶48",
+      "readings": [
+        "Lully's contradictions are deliberate concealment from greedy chemists.",
+        "They reflect his learning the art late, convinced only by Arnold's demonstration."
+      ],
+      "basis": "Atwood states both alternatives in I.1 ¶48 and declines to decide ('it would require scrupulous examination to judge at this day')."
+    },
+    {
+      "quote": "which I also soon knew, by the scent and odor thereof",
+      "ref": "I.1 ¶57",
+      "readings": [
+        "The scent identifies the properly prepared first principles (the preparation he lacked).",
+        "The scent identifies the completed product he sought more generally."
+      ],
+      "basis": "'that which I desired' follows directly on the three-year search for the preparation, and the next sentence says 'Having this, I easily accomplished the magistery', favoring the first; but 'all that I desired' earlier in ¶57 refers to the whole knowledge."
+    },
+    {
+      "quote": "which being perfected by anyone, takes away from him the root of all sin and evil; changing his evil into good",
+      "ref": "I.1 ¶57",
+      "readings": [
+        "The work itself, carried to its end, inwardly transforms the operator.",
+        "The transformation comes through the consequent contemplation of God's goodness and works rather than from the material product."
+      ],
+      "basis": "¶57 ties the change to perfecting the Stone 'provided only he carries through the work to its legitimate end', and then explains it: 'For from thenceforward he is continually ravished with the goodness of God ... and with the contemplation of his admirable works'."
+    },
+    {
+      "quote": "yet some collour there was For all such men as give tincture to glasse;",
+      "ref": "I.1 ¶52",
+      "readings": [
+        "Glass-colorers had some plausible reason (their craft of tinting) for engaging in the work.",
+        "'collour' may play on color/pretext, implying a mere pretext."
+      ],
+      "basis": "The verse contrasts them with brewers, tanners etc. whose involvement is a 'wonder'; it parallels goldsmiths whom 'sights in their craft meveth them to believe'. The text does not resolve the word."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.1 n57",
+      "original": "Aureas illas Anglorum primum...",
+      "translation": "Those golden [coins] of the English first...",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶52",
+      "original": "As Gouldsmithes, whome we shall leaste repreuve For sights in their craft meveth them to believe; But wonder it is that Brewers deale with such werkes, Free Masons, and Tanners, with poore parish clerkes;",
+      "translation": "Such as goldsmiths, whom we shall blame least, because what they see in their craft moves them to believe; but it is a wonder that brewers deal with such works, freemasons and tanners, with poor parish clerks;",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶52",
+      "original": "Ailors and Glaziers woll not therefore cease, And eke sely Tinkers will put them in prease With great presumption; yet some collour there was For all such men as give tincture to glasse;",
+      "translation": "Tailors(?) and glaziers will not cease from it, and also simple tinkers will push into the crowd with great presumption; yet there was some excuse for all such men as color glass;",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶52",
+      "original": "But manie Artificers have byn over swifte, With hastie credence to sume away their thrift; Yet ever in hope continued their hearte;",
+      "translation": "But many craftsmen have been too quick, with hasty belief, to consume their savings; yet their heart always continued in hope;",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶52",
+      "original": "For trewly he that is not a great clerke, Is nice and lewd to medle with this werke; Ye may trust me it is no small inginn, To know alle secrets pertaining to this myne.",
+      "translation": "For truly he who is not a great scholar is foolish and ignorant to meddle with this work; you may trust me, it takes no small ingenuity to know all the secrets belonging to this mine.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶52",
+      "original": "For it is most profounde philosophye This subtill science of holy Alkimy",
+      "translation": "For this subtle science of holy alchemy is the most profound philosophy.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶54",
+      "original": "As of that Monke which a boke did write Of a thousand receipts in malice for despighte, Which he copied in manie a place,",
+      "translation": "As with that monk who wrote a book of a thousand recipes out of malice and spite, which he copied in many places,",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶54",
+      "original": "Whereby hath byn made manie a pale face And manie gowndes have been made bare of hewe, And men made fals which beforetimes were trewe",
+      "translation": "by which many a face has been made pale, many gowns worn threadbare of color, and men made false who were formerly true.",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.1 ¶48",
+      "note": "'as before said, he learned the art late in life' — points back to the earlier account of Lully meeting Arnold late in life (preceding chunk)."
+    },
+    {
+      "ref": "I.1 ¶49",
+      "note": "'told by the authors before cited and in the alchemical collections' — refers to authorities cited earlier in the chapter for other authenticated transmutations."
+    },
+    {
+      "ref": "I.1 ¶55",
+      "note": "'it may be needful only to detail the more remarkable' — announces that the following pages give selected artists of the 14th–15th centuries, beginning with Flamel."
+    },
+    {
+      "ref": "I.1 ¶57",
+      "note": "Flamel's minute description of the book and its hieroglyphics is summarized, not quoted; 'the said fourth arch' implies arches described elsewhere in his account, not in this chunk."
+    }
+  ]
+}

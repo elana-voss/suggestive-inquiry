@@ -1,0 +1,312 @@
+# III.2_01
+
+*Atwood traces the Initial Principle from its hidden, negative state (the Kabalistic Unknown, Ain, divine darkness, a nothing as respects us) to its eduction into manifestation as white Light, and identifies this white, universal ground with the alchemists' Matter (vapour, salt, water that wets not, magic earth), which is 'our Identity' and is recognized only by those who have entered within to know themselves.*
+
+## Argument
+
+- Epigraph: God, alone in the beginning, created one substance, named the first matter. `III.2 ¶2` — QUOTED: Mylius
+- Kabalah: all things psychically derived; by essential emanation the universe is corporified by multiplying the indeficient unit under the Law of its own Light. `III.2 ¶3, III.2 n1, III.2 n2` — ATWOOD
+- The Zohar calls the Initial Principle Wisdom or Supreme Crown once manifest; in the Beginning, the Unknown, described negatively. `III.2 ¶3` — ATWOOD
+- Zohar: all lay concealed in the Infinite; the Unknown manifests by producing a point, but while that point of Light stays subjective and inseparate he is unknown: Ancient of Days, White Head, Mystery of Mysteries. `III.2 ¶3, III.2 n3` — QUOTED: Zohar
+- Ben Jocahi: seen yet unknown, clothed in white, he shakes from his head a dew of light that awakens the dead, white as diamond, the colour containing all. `III.2 ¶3, III.2 n4` — QUOTED: Rabbi Ben Jocahi
+- This white splendour recurs in Apocalypse and Enoch. The worldly mind deems it fanciful; only those who entered experimentally within to know themselves recognize the ground. `III.2 ¶4, III.2 n5, III.2 n6` — ATWOOD
+- As colours unite in white, Nature appears white in her Fontal Light; Paracelsus: a simple ground of diversity whereon to recreate. `III.2 ¶5` — ATWOOD
+- Lucerna Salis: the matter whitens like a hoary man, then silver; with carefully governed fire, snow-white: the white work perfected. `III.2 ¶5, III.2 ¶6, III.2 n7` — QUOTED: author of the Lucerna Salis
+- Sendivogius saw and felt the Water of our Sea, not wetting the hands, white as snow. `III.2 ¶7, III.2 n8` — QUOTED: Sendivogius
+- This is the old Alchemists' Matter: an unctuous mineral vapour, into which bodies are turned; the vapour is the Stone. `III.2 ¶7` — ATWOOD
+- It appears first in vision in demoniacal forms, known only when the purifying eye of mind meets its source, in intellectual contact with the Thing itself, our Identity. It is Orpheus's material, Cheiron's power, Silenus, Pan. `III.2 ¶7` — ATWOOD
+- It is also Flos Salis Albi, Van Helmont's Quellum, the magic earth whose recreative fire coagulates it, the Water that wets not the hands, the Magnesia of the Mysteries. `III.2 ¶8, III.2 n9, III.2 n10` — ATWOOD
+- Platonists: true Being is white. Olympiodorus: Tartarus is the soul's trial and the wholeness of existence; souls without reason follow bodily temperament, reason-ruled souls assimilate to the Supreme virtue. `III.2 ¶9, III.2 n11` — QUOTED: the Platonists; Olympiodorus
+- The soul's first motion toward this is the true origin of matter, generative virtue allied with the medial life and light. `III.2 ¶9` — QUOTED: these philosophers (the Platonists)
+- Reuchlin: Wisdom alone is in the beginning; retracted in darkness it is Ain, nothing as respects us; shown in human apprehension, dark Aleph becomes light Aleph. `III.2 ¶10, III.2 ¶11` — QUOTED: Reuchlin
+- So Paradise opened in the Seer: kindled Divine enthusiasm created the Light whence all emerge. Enoch saw the Radical Essence, Adamic Soil, the cloud before creation. `III.2 ¶12, III.2 n12` — ATWOOD
+- Modern Kabalists: this cloud is Divinity concentrated, birthing the primitive Ether, an attracting vacuum or understanding. Dionysius: caligo divina; Lumen de Lumine: Tenebrae activae; Parmenides: Non-being. `III.2 ¶13, III.2 ¶14, III.2 n13, III.2 n14` — QUOTED: some modern Kabalists; Dionysius; author of the Lumen de Lumine; Parmenides
+- Its End is infinite (the Oracle's precipice); nothing to consciousness before conceived, yet the only True Thing. Boehme: the first something, a darkness condensed into water, the One Thing. `III.2 ¶15, III.2 n15` — ATWOOD
+
+## Method
+
+- **subject** — “intellectual contact of the Thing itself, which is our Identity. This is the true Hermetic material” `III.2 ¶7` (ATWOOD)
+  - **Plain (stated):** The Matter of the Hermetic work is the practitioner's own essential identity, met by direct intellectual contact rather than imagination.
+  - Basis: III.2 ¶7 says the Thing itself is 'our Identity' and that 'This is the true Hermetic material'.
+  - Also: “this is the Matter everywhere alluded to, and so often denoted in the Mysteries” `III.2 ¶7`
+  - Also: “This is the true Hermetic material, which is celebrated by all is disciples” `III.2 ¶7`
+- **subject** — “it is no common water, but an unctuous mineral vapour, universally subsisting” `III.2 ¶7` (QUOTED: the old Alchemists (endorsed by Atwood))
+  - **Plain (stated):** The Matter is not ordinary water but a subtle, oily vapour present everywhere.
+  - Basis: III.2 ¶7: given as 'the Matter already defined so often by the old Alchemists', introduced by Atwood's rhetorical 'is not this the Matter', i.e. endorsed.
+  - Also: “the Water of our Sea, the Water of Life, not wetting the hands” `III.2 ¶7`
+- **procedure** — “Bodies, therefore, say they, are to be turned into such a vapour, and this vapour is the Stone” `III.2 ¶7` (QUOTED: the old Alchemists (endorsed by Atwood))
+  - **Plain (stated):** The work reduces bodies to this universal vapour; the vapour so obtained is the Stone. This chunk does not say how the reduction is done.
+  - Basis: III.2 ¶7 states it directly as the alchemists' rule, following their definition of the Matter.
+- **sign** — “which in demoniacal forms is at first in vision made apparent, nor known until the eye of mind, regardant and purifying, meets its First source” `III.2 ¶7` (ATWOOD)
+  - **Plain (stated):** The Matter first shows itself in visions of demonic forms; it is not truly known until the mind's eye, turned back and purifying itself, reaches its origin.
+  - Basis: III.2 ¶7 states this directly of the Matter.
+- **result** — “every phantastic desire and imagination is alienated and merged in intellectual contact of the Thing itself” `III.2 ¶7` (ATWOOD)
+  - **Plain (stated):** The discovery is real, not a dream: fantasy and desire are left behind and absorbed into direct intellectual contact with the Thing.
+  - Basis: III.2 ¶7: 'the discovery of it is no dream, if we may believe the experienced; but, on the contrary...'.
+  - Also: “the discovery of it is no dream, if we may believe the experienced” `III.2 ¶7`
+- **operator** — “They only who have entered experimentally within to know themselves, have been satisfactorily able to recognize the ground” `III.2 ¶4` (ATWOOD)
+  - **Plain (stated):** Recognition of this ground requires experiential self-knowledge gained by turning inward, plus a faith able to tell genuine testimony from fanatical delusion.
+  - Basis: III.2 ¶4 directly.
+  - Also: “they only who are gifted with an approximately faith, to discriminate their universal testimony from amongst so many fanatical delusions” `III.2 ¶4`
+- **impediment** — “the worldly mind is shut out from the imagination even, of occult truth” `III.2 ¶4` (ATWOOD)
+  - **Plain (stated):** Ordinary outward-directed consciousness cannot even imagine this truth and dismisses it as fanciful.
+  - Basis: III.2 ¶4; compare III.2 ¶12 on those 'chained to these exterior surfaces'.
+  - Also: “who are chained to these exterior surfaces, content with the bare tradition of a life to come” `III.2 ¶12`
+- **principle** — “all things in the hand of God are white, says the Magian, He colours them according to His pleasure” `III.2 ¶5` (QUOTED: Paracelsus (endorsed by Atwood))
+  - **Plain (stated):** Whiteness (all colours united) signifies the simple, undifferentiated ground underlying all diversity, on which things can be recreated without confusion.
+  - Basis: III.2 ¶5: Paracelsus gives as reason 'that there should be a simple ground of all diversity without confusion whereon to recreate'; prism analogy in the same paragraph.
+  - Also: “As all colours in their prismatic unison are white, just so is the Universal Nature, described as appearing in the evolution of her Fontal Light” `III.2 ¶5`
+  - Also: “the aspect of this dew is white, as the diamond is white, the colour which contains all” `III.2 ¶3`
+  - Also: “The Platonists have declared true Being to be white” `III.2 ¶9`
+- **stage** — “your matter will become white as snow. Then is your elixir perfect as to the white work” `III.2 ¶5` (QUOTED: author of the Lucerna Salis (endorsed by Atwood))
+  - **Plain (stated):** A stage in which the matter whitens progressively (hoary, then silver, then snow-white); full whiteness marks completion of the 'white work'.
+  - Basis: III.2 ¶5-6 (Lucerna Salis and its verse original); Atwood links it to the white appearance of the first principle in III.2 ¶4-5.
+  - Also: “he matter will become white like a hoary man, whose aged complexion resembles ice; it will also whiten more afterwards, like silver” `III.2 ¶5`
+  - Also: “that water was as white as snow” `III.2 ¶7`
+- **procedure** — “Govern your fire with a great deal of care” `III.2 ¶5` (QUOTED: author of the Lucerna Salis)
+  - **Plain (stated):** The fire must be carefully regulated during the whitening. This chunk does not explain what the fire is here.
+  - Basis: III.2 ¶5; Latin 'Summa dilignetia ignem rege' III.2 ¶6.
+- **subject** — “this salt is the Water that wets not the hands” `III.2 ¶8` (ATWOOD)
+  - **Plain (stated):** The same Matter is a 'salt' that is also a 'water' which does not wet: not an ordinary liquid. It is further named the Flower of White Salt and the Magnesia of the Mysteries.
+  - Basis: III.2 ¶8: 'This same, the Arabians call Flos Salis Albi'; 'this salt is the Water that wets not the hands; and that identical Magnesia'.
+  - Also: “Flos Salis Albi --- the Flower of White Salt” `III.2 ¶8`
+  - Also: “that identical Magnesia that was exhibited in the Mysteries” `III.2 ¶8`
+  - Also: “the White Island of Vishnu; the Lord of Radha; the White Paradise” `III.2 ¶8`
+- **subject** — “the white sand, Quellum, which Van Helmont speaks of as manifesting itself forth in a vivid vital soil, which spade or mattock never pierced” `III.2 ¶8` (ATWOOD)
+  - **Plain (stated):** The same Matter, appearing as a living soil untouched by any tool; it is the 'magic earth' in which the recreative fire dwells.
+  - Basis: III.2 ¶8: 'this is the white sand, Quellum'; 'This is the true magic earth wherein is the recreative fire'.
+  - Also: “This is the true magic earth wherein is the recreative fire, even that "Land of Havilah, where good gold is"” `III.2 ¶8`
+- **agent** — “this fire binds the parts thereof spontaneously to himself, coagulates them, and stops their flux” `III.2 ¶8` (ATWOOD)
+  - **Plain (stated):** The recreative fire within the Matter acts of itself to draw its parts together, solidify them and halt their fluidity.
+  - Basis: III.2 ¶8 directly.
+- **subject** — “that recommended by Orpheus to be taken in the cave of Mercury, and carried in both hands away” `III.2 ¶7` (ATWOOD)
+  - **Plain (stated):** Mythic figures are identified with the Hermetic material: what Orpheus bade be taken from the cave of Mercury, the power borne by Cheiron (cloud-begotten, from an impure ether, double, promising a more perfect life), Silenus, Pan. This chunk asserts the identities but does not explain the images.
+  - Basis: III.2 ¶7: 'This is the true Hermetic material ... that recommended by Orpheus'; 'this is the power borne by the Centaur Cheiron'; 'The same in Silenus'; 'this is Pan'.
+  - Also: “this is the power borne by the Centaur Cheiron, the monster tutor of heroes, cloud-begotten, sprung from out of the nebulous impure ether, with a duplicate real, and promise of a more perfect life to come” `III.2 ¶7`
+  - Also: “The same in Silenus is satirically personified the most venerable preceptor of the God of Wine; and this is Pan” `III.2 ¶7`
+  - Also: “the foundation of the great Saturnian Monarchy of the Freed Will, which was once circumscribed in Intellect, for the manifestation of its Light” `III.2 ¶7`
+- **stage** — “Tartarus is the place of the soul’s trial, where the balance of existence is struck, and imperfections are made manifest” `III.2 ¶9` (QUOTED: Olympiodorus)
+  - **Plain (stated):** Plato's Tartarus, read ethically, is a trial of the soul in which its imperfections are exposed; read physically, it is the wholeness of existence.
+  - Basis: III.2 ¶9: Olympiodorus's twofold reading.
+- **operator** — “souls, in which reason does not preside as a charioteer, are changed according to the subject temperament of the body; but when reason has the dominion, the soul does not yield” `III.2 ¶9` (QUOTED: Olympiodorus)
+  - **Plain (stated):** Without reason in control, the soul takes on the qualities of the body, as water takes those of the earth it flows through; ruled by reason, it does not yield and assimilates to the Supreme virtue.
+  - Basis: III.2 ¶9: Olympiodorus explicitly gives the psychical meaning of Plato's rivers and seas.
+  - Also: “assimilated herself to the Supreme virtue” `III.2 ¶9`
+- **principle** — “her first motion towards this from her ultimate artificial recessure is the true origin of matter” `III.2 ¶9` (QUOTED: these philosophers (the Platonists))
+  - **Plain (interpreted):** The soul's first movement back toward the Supreme virtue, from its farthest withdrawal, is what these philosophers call the true origin of matter: the generative power drawn up into union with intellect and the medial life and light.
+  - Basis: III.2 ¶9: 'her' refers to the soul and 'this' to 'the Supreme virtue' of the preceding sentence; the clause 'when the generative virtue is drawn up into intellectual alliance with the medial life and light' specifies it. 'artificial recessure' is not explained (see ambiguities).
+  - Also: “when the generative virtue is drawn up into intellectual alliance with the medial life and light” `III.2 ¶9`
+- **subject** — “Ain, i.e., to say, Nihil quoad nos; nothing or no entity as respects us” `III.2 ¶10` (QUOTED: Reuchlin)
+  - **Plain (stated):** The hidden principle seems to be nothing only because we cannot conceive what does not appear to us, not because it is absent.
+  - Basis: III.2 ¶10: 'Because we, being affected with inability in the conception, do judge and imagine of those things which do not appear immediately as if they were not at all'.
+  - Also: “it is nothing as respects the consciousness before it is conceived” `III.2 ¶15`
+- **stage** — “is dark Aleph converted into light Aleph” `III.2 ¶10` (QUOTED: Reuchlin)
+  - **Plain (stated):** When the hidden principle actually shows itself in human apprehension, its darkness becomes light.
+  - Basis: III.2 ¶10: the conversion happens 'when it has showed itself forth to be somewhat indeed, and that it does really in the human apprehension exist'; prayer in III.2 ¶11.
+  - Also: “Si tu, Deus meus, illuminaveris me Lux fiunt tenebrae meae.” `III.2 ¶11`
+- **stage** — “he begins by producing a point; but, whilst the point of Light remains within subjective and inseparate, he is unknown” `III.2 ¶3` (QUOTED: Zohar)
+  - **Plain (stated):** Manifestation begins with a point of Light; while it stays internal and undivided the principle remains unknown, developing only by separating things within itself.
+  - Basis: III.2 ¶3 (Zohar, as given): 'as the Unity of things to be developed only by the separation of them in Himself'.
+- **agent** — “From his head he shakes a dew which awakens the dead, and brings them to new life” `III.2 ¶3` (QUOTED: Rabbi Ben Jocahi)
+  - **Plain (stated):** A white, life-restoring 'dew of light' issues from the hidden principle; it is also the manna that nourishes the saints. This chunk links it to its theme only through whiteness and does not apply it to the practice.
+  - Basis: III.2 ¶3: 'Thy dew is the dew of light'; 'the manna which descends'; III.2 ¶4 follows with 'This white appearance of the primeval splendour'.
+  - Also: “Thy dew is the dew of light” `III.2 ¶3`
+- **procedure** — “by that kindling of Divine enthusiasm in conjunction with its source, the soft lenient Light was created” `III.2 ¶12` (ATWOOD)
+  - **Plain (stated):** In the seer, the Light from which all things come arises when divine enthusiasm is kindled in union with its source; this is the opening of Paradise in him.
+  - Basis: III.2 ¶12 directly: 'So Paradise was opened in the Seer, and by that kindling ...'.
+  - Also: “So Paradise was opened in the Seer” `III.2 ¶12`
+- **subject** — “the wooden receptacles (the vegetable or medial life) out of which the winds became separated” `III.2 ¶12` (ATWOOD)
+  - **Plain (stated):** Enoch's 'wooden receptacles' mean the vegetable or medial life; with the winds, clouds and snow they belong to the Radical Essence and Adamic Soil the seer beheld.
+  - Basis: III.2 ¶12: the parenthetical gloss is inserted in the quotation.
+  - Also: “what he beheld of the Radical Essence, and the manifold glories of that mystical Adamic Soil” `III.2 ¶12`
+- **stage** — “This nebulous apparition of the Catholic Embryo before its birth” `III.2 ¶13` (QUOTED: some modern Kabalists)
+  - **Plain (stated):** The primordial cloud is a concentration of Divinity within its original identity, which, like a cloud before rain, gives birth to the primitive Ether.
+  - Basis: III.2 ¶13: 'some modern Kabalists have explained to be an absolute concentration of Divinity within its original identity'.
+  - Also: “the cloud itself which continued over the earth before the creation of the world” `III.2 ¶12`
+- **agent** — “the primitive Ether, which is the pure attracting vacuum, or understanding whereby the central efficient is drawn forth to will and operation” `III.2 ¶13` (QUOTED: some modern Kabalists)
+  - **Plain (stated):** The primitive Ether is an attracting emptiness, equivalently an understanding, which draws the central active power out into willing and acting.
+  - Basis: III.2 ¶13 defines it directly.
+- **subject** — “Dionysius styles it caligo divina, because, as he says, it is obscure and humanly incomprehensible, though visible indeed” `III.2 ¶13` (QUOTED: Dionysius; author of the Lumen de Lumine)
+  - **Plain (stated):** The originating principle is a divine or active darkness: visible yet incomprehensible, below all sense and imagination, a terrible, inexpressible chasm.
+  - Basis: III.2 ¶13: Dionysius and the Lumen de Lumine both describe it.
+  - Also: “Tenebrae activae, and describes it as beneath all degrees of sense and imagination --- a certain horrible, inexpressible chasm” `III.2 ¶13`
+- **impediment** — “Stoop not down, for a precipice lies below in the earth” `III.2 ¶15` (QUOTED: the Oracle)
+  - **Plain (interpreted):** A warning attached to the infinite, pre-conscious ground; with the Parmenides verse it suggests that this ground is not to be approached with ordinary mental notions. This chunk does not explain the 'precipice' (see ambiguities).
+  - Basis: III.2 ¶15 introduces it with 'For its End is infinite; as the Oracle forewarns' and follows with 'it is nothing as respects the consciousness before it is conceived'; III.2 ¶14: 'But there thy intellectual notions check When in this path exploring'.
+  - Also: “But there thy intellectual notions check When in this path exploring” `III.2 ¶14`
+- **result** — “it becomes that only True Thing of which we can affirm nothing, whose theology is negative; but which constitutes the perfect possession of the most happy life” `III.2 ¶15` (QUOTED: Dionysius (endorsed by Atwood))
+  - **Plain (stated):** The 'nothing' is nothing only to consciousness before it is conceived; once reached it is the one True Thing, known only negatively, and the possession of the happiest life.
+  - Basis: III.2 ¶15 directly, with 'it is nothing as respects the consciousness before it is conceived'.
+- **subject** — “this first something was a certain cloud or darkness, which was condensed into water; and this water is that One Thing in which all things are contained” `III.2 ¶15` (QUOTED: Boehme (endorsed by Atwood))
+  - **Plain (stated):** The first thing God made out of nothing was a dark cloud condensed into a water; this water is the One Thing containing all.
+  - Basis: III.2 ¶15 (Boehme) directly, introduced by 'This Boehme also declares'.
+
+## Terms
+
+- **Initial Principle** — The first principle under discussion; in the Zohar named Wisdom or Supreme Crown once manifest, the Unknown in the Beginning. (ATWOOD)
+  - = Wisdom: “is in the Zohar designated by the name of Wisdom, or the Supreme Crown” `III.2 ¶3`
+  - = Supreme Crown: “is in the Zohar designated by the name of Wisdom, or the Supreme Crown” `III.2 ¶3`
+  - = Unknown: “the divine hypostasis is distinguished by the epithet of Unknown” `III.2 ¶3`
+  - “after it has become into manifest Being” `III.2 ¶3`
+- **Unknown** — The divine hypostasis before manifestation: concealed in the Infinite, without mind, figure or Being; unknown while the point of Light remains subjective and inseparate. (QUOTED: Zohar)
+  - = Ancient of Days: “in this sense he is called the Ancient of Days, the White Head, the Old Man by excellence, the Mystery of Mysteries” `III.2 ¶3`
+  - = White Head: “in this sense he is called the Ancient of Days, the White Head, the Old Man by excellence, the Mystery of Mysteries” `III.2 ¶3`
+  - = Old Man by excellence: “in this sense he is called the Ancient of Days, the White Head, the Old Man by excellence, the Mystery of Mysteries” `III.2 ¶3`
+  - = Mystery of Mysteries: “in this sense he is called the Ancient of Days, the White Head, the Old Man by excellence, the Mystery of Mysteries” `III.2 ¶3`
+  - “whilst the point of Light remains within subjective and inseparate, he is unknown” `III.2 ¶3`
+  - “under this form by which he is seen, he remains still unknown” `III.2 ¶3`
+- **emanation** — Kabalistic doctrine by which the physical universe is extended and corporified through multiplication of the indeficient unit into its parts under the Law of its own proceeding Light. (ATWOOD)
+  - “according to the doctrine of an essential emanation, the whole physical universe is extended and corporified” `III.2 ¶3`
+- **dew of light** (also: dew) — Dew shaken from the head of the hidden principle; awakens the dead, nourishes the saints, white as the diamond. (QUOTED: Rabbi Ben Jocahi)
+  - = manna: “It is this which nourishes the most exalted saints, the manna which descends into the field of sacred fruits” `III.2 ¶3`
+  - “Thy dew is the dew of light” `III.2 ¶3`
+- **Fontal Light** — The source-light in whose evolution the Universal Nature appears white, as all colours united. (ATWOOD)
+  - “just so is the Universal Nature, described as appearing in the evolution of her Fontal Light” `III.2 ¶5`
+- **white work** (also: album) — Stage at which the matter has become snow-white and the elixir is perfect 'as to the white'. (QUOTED: author of the Lucerna Salis)
+  - “Then is your elixir perfect as to the white work” `III.2 ¶5`
+  - “Et tum confectum est elixir ad album” `III.2 ¶6`
+- **first matter** (also: primam materiam) — The one substance God created in the beginning (epigraph). The chunk does not itself equate it with the alchemists' 'Matter' of III.2 ¶7. (QUOTED: Mylius)
+  - = one substance: “creavit unam substantiam; hanc primam materiam nominamus” `III.2 ¶2`
+- **Matter** — The Hermetic subject: not common water but a universal unctuous mineral vapour; ultimately the Thing itself, our Identity, first appearing in vision in demoniacal forms. (ATWOOD)
+  - = Water of our Sea (by rhetorical question): “is not this the Matter already defined so often by the old Alchemists” `III.2 ¶7`
+  - = unctuous mineral vapour: “it is no common water, but an unctuous mineral vapour, universally subsisting” `III.2 ¶7`
+  - = Thing itself / our Identity / true Hermetic material: “the Thing itself, which is our Identity. This is the true Hermetic material” `III.2 ¶7`
+  - = power borne by Cheiron: “this is the power borne by the Centaur Cheiron” `III.2 ¶7`
+  - = Pan: “and this is Pan” `III.2 ¶7`
+  - = Flos Salis Albi: “This same, the Arabians call Flos Salis Albi” `III.2 ¶8`
+  - “this is the Matter everywhere alluded to, and so often denoted in the Mysteries” `III.2 ¶7`
+- **Stone** — The vapour into which bodies are to be turned. (QUOTED: the old Alchemists)
+  - = vapour: “this vapour is the Stone known and proven in the Book of Life” `III.2 ¶7`
+- **Water of our Sea** — Sendivogius's name for a water that does not wet the hands, seen and felt white as snow. (QUOTED: Sendivogius)
+  - = Water of Life: “call the Water of our Sea, the Water of Life, not wetting the hands” `III.2 ¶7`
+  - “that water was as white as snow” `III.2 ¶7`
+- **Flos Salis Albi** (also: Flower of White Salt) — Arabian name for the Matter, said to designate the substant hypothesis truly. (ATWOOD)
+  - = white sand, Quellum: “and this is the white sand, Quellum, which Van Helmont speaks of” `III.2 ¶8`
+  - = Water that wets not the hands: “this salt is the Water that wets not the hands” `III.2 ¶8`
+  - = Magnesia: “and that identical Magnesia that was exhibited in the Mysteries” `III.2 ¶8`
+  - = White Island of Vishnu; Lord of Radha; White Paradise: “the White Island of Vishnu; the Lord of Radha; the White Paradise” `III.2 ¶8`
+  - “thus the substant hypothesis is said very truly to be designated” `III.2 ¶8`
+- **Quellum** — Van Helmont's white sand, manifesting in a vital soil never pierced by spade or mattock. (ATWOOD)
+  - “manifesting itself forth in a vivid vital soil, which spade or mattock never pierced” `III.2 ¶8`
+- **magic earth** — The Matter as an earth containing the recreative fire. (ATWOOD)
+  - = Land of Havilah: “This is the true magic earth wherein is the recreative fire, even that "Land of Havilah, where good gold is"” `III.2 ¶8`
+- **recreative fire** — The fire within the magic earth that spontaneously binds its parts, coagulates them and stops their flux. (ATWOOD)
+  - “this fire binds the parts thereof spontaneously to himself, coagulates them, and stops their flux” `III.2 ¶8`
+- **Saturnian Monarchy of the Freed Will** — Something of which the Matter (as Pan) is the foundation; once circumscribed in Intellect for the manifestation of its Light. Not further explained. (ATWOOD)
+  - “the foundation of the great Saturnian Monarchy of the Freed Will, which was once circumscribed in Intellect, for the manifestation of its Light” `III.2 ¶7`
+- **true Being** — Declared white by the Platonists. (QUOTED: the Platonists)
+  - “The Platonists have declared true Being to be white” `III.2 ¶9`
+- **Tartarus** — In Plato's Phaedo as read by Olympiodorus: ethically the place of the soul's trial; physically the wholeness of existence. (QUOTED: Olympiodorus)
+  - “physically, in that it is the wholeness of existence” `III.2 ¶9`
+- **generative virtue** — Power which, drawn up into intellectual alliance with the medial life and light, marks the origin of matter for the Platonists. (QUOTED: these philosophers)
+  - “when the generative virtue is drawn up into intellectual alliance with the medial life and light” `III.2 ¶9`
+- **medial life** (also: vegetable or medial life) — Intermediate life: Atwood's gloss on Enoch's 'wooden receptacles'; also the 'medial life and light' with which the generative virtue allies (III.2 ¶9, Platonists). (ATWOOD)
+  - = wooden receptacles: “the wooden receptacles (the vegetable or medial life)” `III.2 ¶12`
+  - “intellectual alliance with the medial life and light” `III.2 ¶9`
+- **Wisdom** (also: Sapientia, Sapience) — For Reuchlin, what alone is in the beginning: an Absolute Essence, retracted in darkness; in the Zohar, the name of the Initial Principle once manifest. (QUOTED: Reuchlin)
+  - = Three Persons in Divinity: “It is this which we are accustomed to call the Three Persons in Divinity, the which is an Absolute Essence” `III.2 ¶10`
+  - = Ain: “is for this cause termed by the Hebrews, Ain” `III.2 ¶10`
+  - “Nothing is in the beginning but Wisdom, or Sapience” `III.2 ¶10`
+- **Ain** — Hebrew name of the Absolute Essence while retracted in darkness and at rest: nothing as respects us, because we cannot conceive what does not immediately appear. (QUOTED: Reuchlin)
+  - = Nihil quoad nos: “Ain, i.e., to say, Nihil quoad nos; nothing or no entity as respects us” `III.2 ¶10`
+  - “we, being affected with inability in the conception, do judge and imagine of those things which do not appear immediately as if they were not at all” `III.2 ¶10`
+- **dark Aleph / light Aleph** — Dark Aleph is the hidden essence; it becomes light Aleph when it shows itself to exist in human apprehension. (QUOTED: Reuchlin)
+  - “is dark Aleph converted into light Aleph” `III.2 ¶10`
+- **Radical Essence** — What the prophet (Enoch) beheld in the Place to which he was snatched up; paired with the mystical Adamic Soil. (ATWOOD)
+  - “what he beheld of the Radical Essence, and the manifold glories of that mystical Adamic Soil” `III.2 ¶12`
+- **Adamic Soil** — Mystical soil whose glories the prophet describes; context of the winds, clouds, snow and wooden receptacles. (ATWOOD)
+  - “that mystical Adamic Soil” `III.2 ¶12`
+- **Catholic Embryo** — The universal germ before birth, seen as a nebulous apparition (cloud); an absolute concentration of Divinity within its original identity, giving birth to the primitive Ether. (QUOTED: some modern Kabalists)
+  - “This nebulous apparition of the Catholic Embryo before its birth” `III.2 ¶13`
+- **primitive Ether** — Born of the concentrated Divinity as a shower from a cloud; the pure attracting vacuum or understanding that draws the central efficient to will and operation. (QUOTED: some modern Kabalists)
+  - = pure attracting vacuum / understanding: “the primitive Ether, which is the pure attracting vacuum, or understanding” `III.2 ¶13`
+- **caligo divina** — Dionysius's name for the primordial cloud: obscure and humanly incomprehensible, though visible; called by the Lumen de Lumine 'Tenebrae activae', beneath all sense and imagination. (QUOTED: Dionysius; author of the Lumen de Lumine)
+  - = Tenebrae activae: “The author of the Lumen de Lumine calls it, from the Kabalists, Tenebrae activae” `III.2 ¶13`
+  - “it is obscure and humanly incomprehensible, though visible indeed” `III.2 ¶13`
+  - “a certain horrible, inexpressible chasm” `III.2 ¶13`
+- **Non-being** — What neither mind can see nor speech reveal; not the object of the mental eye. (QUOTED: Parmenides)
+  - “since, as of Being void, ‘Tis not the object of the mental eye” `III.2 ¶14`
+- **One Thing** — For Boehme, the water condensed from the first cloud or darkness, containing all things celestial and terrestrial. (QUOTED: Boehme)
+  - = water: “this water is that One Thing in which all things are contained” `III.2 ¶15`
+  - “this first something was a certain cloud or darkness, which was condensed into water” `III.2 ¶15`
+
+## Sources cited
+
+- **Mylius**, *Phil. Reform., Pars. VI, Lib. 1* — “Deus, cum solus fuisset in principio, creavit unam substantiam; hanc primam materiam nominamus.” `III.2 ¶2` — Epigraph: God created one substance, the first matter.
+- **Rosenroth**, *Kabbala Denudata, seu Doctrina Hebraeorum Transcendentalis et Liber Zohar Restitutus* `III.2 ¶3, III.2 n1` — Reference only: recommended for study of the Kabalah.
+- **Franck / Ad. Franck**, *La Kabbale, ou Philosophie Religieuse des Hebreux* `III.2 ¶3, III.2 n2, III.2 n3, III.2 n4` — Recommended history of the Kabalah, read 'with no less instruction than delight'; source of the Zohar translations cited.
+- **Zohar**, *Zohar* — “he begins by producing a point” `III.2 ¶3, III.2 n3, III.2 n4` — Supports: the Initial Principle as Wisdom/Supreme Crown and as the Unknown manifesting by a point of Light; its white appearance.
+- **Rabbi Ben Jocahi** — “From his head he shakes a dew which awakens the dead” `III.2 ¶3, III.2 n4` — Supports: the hidden principle's white form and dew of light.
+- **Apocalypse / Revelation of St.John**, *Revelation of St.John, Chap. 1:14; chap. 2:17* — “whose hair was like wool, and white as snow” `III.2 ¶4, III.2 n5` — Illustrates the white appearance of the primeval splendour (White Stone, Son of Man).
+- **Enoch / Book of Enoch**, *Book of Enoch, chap. 46:1; chap. 46 and 41* — “the Ancient of Days, whose head was like wool” `III.2 ¶4, III.2 ¶12, III.2 n6, III.2 n12` — Illustrates whiteness; and the seer's vision of the Radical Essence, winds, clouds and the cloud before creation.
+- **Paracelsus** — “Omnia in Dei manu alba sunt; is eas tingit ut vult” `III.2 ¶5` — Supports: whiteness as the simple ground of diversity whereon to recreate.
+- **author of the Lucerna Salis**, *Lucerna Salis* — “Govern your fire with a great deal of care” `III.2 ¶5, III.2 ¶6, III.2 n7` — Supports: the whitening of the matter in the white work.
+- **Arnold, Lully, Artephius** `III.2 ¶5` — Said to agree with the Lucerna Salis description of whitening; cited earlier 'in the Theory'.
+- **Sendivogius**, *New Light; Philosophical Parable* — “that water was as white as snow” `III.2 ¶7, III.2 n8` — Supports: the Water of our Sea, not wetting the hands, white as snow, attested by sight and touch.
+- **Eireanaeus** `III.2 ¶7` — Mentioned, not quoted ('we will not enlarge').
+- **the old Alchemists** — “it is no common water, but an unctuous mineral vapour, universally subsisting” `III.2 ¶7` — Supports (endorsed): definition of the Matter; bodies to be turned into vapour, which is the Stone.
+- **the Arabian** — “Sumatur lais in capitulis notus” `III.2 ¶7` — Cited as 'the subtle phrase' on the Stone known and proven.
+- **unattributed quotation** — “such stuff as dreams are made of” `III.2 ¶7` — Illustrates the dreamlike nature of human beings, contrasted with the real discovery of the Matter.
+- **Orpheus** `III.2 ¶7` — Illustrates: recommended the Hermetic material be taken in the cave of Mercury.
+- **the Arabians** — “Flos Salis Albi” `III.2 ¶8` — Supports: name of the Matter, Flower of White Salt.
+- **Van Helmont**, *Oreatrike, chap. 9* `III.2 ¶8, III.2 n9` — Supports: the white sand Quellum in a vital soil never pierced.
+- **unattributed quotation** — “Land of Havilah, where good gold is” `III.2 ¶8` — Identifies the magic earth.
+- **H. O’Brien, author of the Round Towers**, *the Round Towers of Ireland, chap. 22, p. 327* `III.2 ¶8, III.2 n10` — Mildly criticized: mistook the White Paradise for his 'Emerald Home', an exclusiveness pardonable for its enthusiasm; called 'an estimable work'.
+- **the Platonists** — “The Platonists have declared true Being to be white” `III.2 ¶9` — Supports whiteness of true Being; their view of the origin of matter.
+- **Plato**, *Phaedo* `III.2 ¶9` — His Tartarus, rivers and seas are read ethically, physically and psychically via Olympiodorus.
+- **Olympiodorus** — “souls, in which reason does not preside as a charioteer, are changed according to the subject temperament of the body” `III.2 ¶9, III.2 n11` — Supports: ethical/physical reading of Tartarus; reason's dominion over the soul.
+- **Taylor**, *Dissertation on Aristotle, Book 2, p. 319* `III.2 n11, III.2 n14` — Reference only (source of the Olympiodorus passage and the Parmenides fragments).
+- **Reuchlin**, *De Arte Cabalistica, third book* — “Nihil est in principio nisi Sapientia.” `III.2 ¶10` — Supports: Wisdom as Ain in darkness; dark Aleph turned to light Aleph.
+- **scripture ('as it is written')** — “The night shineth as the day, the darkness and the light are all alike to Him” `III.2 ¶10` — Supports the conversion of darkness into light.
+- **unattributed Latin verse** — “Si tu, Deus meus, illuminaveris me Lux fiunt tenebrae meae.” `III.2 ¶11` — Illustrates darkness made light by divine illumination.
+- **some modern Kabalists** — “an absolute concentration of Divinity within its original identity” `III.2 ¶13` — Explain the nebulous apparition of the Catholic Embryo and the primitive Ether.
+- **Dionysius** — “caligo divina” `III.2 ¶13, III.2 ¶15` — Supports: divine darkness, visible yet incomprehensible; the True Thing of negative theology, possession of the happiest life.
+- **author of the Lumen de Lumine**, *Lumen de Lumine, the chapter on Matter* — “a certain horrible, inexpressible chasm” `III.2 ¶13, III.2 n13` — Supports: Tenebrae activae beneath sense and imagination.
+- **Parmenides**, *Fragments* — “Non-being, which nor mind can see” `III.2 ¶13, III.2 ¶14, III.2 n14` — Supports: Non-being is not the object of the mental eye; check intellectual notions on this path.
+- **the Oracle** — “Stoop not down, for a precipice lies below in the earth” `III.2 ¶15` — Warning about the infinite End of the principle.
+- **Boehme**, *Generation of the Three Principles* — “this water is that One Thing in which all things are contained” `III.2 ¶15, III.2 n15` — Supports: creation out of nothing of a cloud or darkness condensed into water, the One Thing.
+
+## Ambiguities
+
+- “Sumatur lais in capitulis notus” `III.2 ¶7`
+  - Reading: 'lais' as printed, meaning unexplained.
+  - Reading: A word naming the Stone just mentioned.
+  - Basis: Reading 1: the text prints 'lais' and gives no translation. Reading 2: the phrase directly follows 'this vapour is the Stone known and proven in the Book of Life' (III.2 ¶7), with 'notus' set beside 'known'; the chunk does not confirm it.
+- “the foundation of the great Saturnian Monarchy of the Freed Will, which was once circumscribed in Intellect, for the manifestation of its Light” `III.2 ¶7`
+  - Reading: The Matter (our Identity) underlies a state of freed will once contained within intellect.
+  - Reading: 'which' refers to the Matter itself (Pan), once circumscribed in Intellect.
+  - Basis: III.2 ¶7: the antecedent of 'which' may be 'Monarchy' or 'Pan'/the Matter; no further explanation in the chunk.
+- “with a duplicate real, and promise of a more perfect life to come” `III.2 ¶7`
+  - Reading: Cheiron's own double nature, as 'Centaur' and 'monster'.
+  - Reading: A doubled reality of the power he bears.
+  - Basis: III.2 ¶7 gives no explanation; 'Centaur' and 'monster' are named just before.
+- “her ultimate artificial recessure” `III.2 ¶9`
+  - Reading: The soul's farthest withdrawal into body and its temperament, from which she first turns back.
+  - Reading: A withdrawal brought about by art (an operation), from which the first motion begins.
+  - Basis: Reading 1: the preceding sentence contrasts souls changed by bodily temperament with souls assimilated to the Supreme virtue (III.2 ¶9). Reading 2: rests only on the word 'artificial', which the chunk does not explain.
+- “Stoop not down, for a precipice lies below in the earth” `III.2 ¶15`
+  - Reading: A warning not to grasp the infinite ground with discursive notions.
+  - Reading: A warning against descending toward the earthly or lower.
+  - Basis: Reading 1: III.2 ¶14 'But there thy intellectual notions check When in this path exploring' and III.2 ¶15 'it is nothing as respects the consciousness before it is conceived'. Reading 2: the literal image 'below in the earth'. The chunk does not gloss it.
+
+## Translations
+
+- `III.2 ¶2` “Deus, cum solus fuisset in principio, creavit unam substantiam; hanc primam materiam nominamus.” → God, when He alone was in the beginning, created one substance; this we name the first matter. *(ours)*
+- `III.2 ¶5` “Omnia in Dei manu alba sunt; is eas tingit ut vult” → all things in the hand of God are white, says the Magian, He colours them according to His pleasure *(book)*
+- `III.2 ¶6` “Acquiret canitiem viri senis, Albicabitque fere ut argentums, Summa dilignetia ignem rege Videsbisque sequenter materiam in vitro Albere omnino candore nivali Et tum confectum est elixir ad album” → he matter will become white like a hoary man, whose aged complexion resembles ice; it will also whiten more afterwards, like silver. Govern your fire with a great deal of care, and afterwards you shall see that in your vessel your matter will become white as snow. Then is your elixir perfect as to the white work. *(book)*
+- `III.2 ¶7` “Sumatur lais in capitulis notus” → Let the [lais] known in the chapters be taken (meaning of 'lais' not given; see ambiguities). *(ours)*
+- `III.2 ¶8` “Flos Salis Albi” → the Flower of White Salt *(book)*
+- `III.2 ¶10` “Nihil est in principio nisi Sapientia.” → Nothing is in the beginning but Wisdom, or Sapience. *(book)*
+- `III.2 ¶10` “Nihil quoad nos” → nothing or no entity as respects us *(book)*
+- `III.2 ¶10` “Tenebrae sunt ei sicut ipsa lux.” → Darkness is to Him as the light itself. (The book sets it beside the English 'the darkness and the light are all alike to Him'.) *(ours)*
+- `III.2 ¶11` “Si tu, Deus meus, illuminaveris me Lux fiunt tenebrae meae.” → If Thou, my God, enlighten me, my darkness becomes light. *(ours)*
+- `III.2 ¶13` “caligo divina” → divine darkness (mist) *(ours)*
+- `III.2 ¶13` “Tenebrae activae” → active darkness *(ours)*
+
+## Threads
+
+- `III.2 ¶3` 'The Initial Principle, however, which we have been discussing' points back to the preceding discussion of the Initial Principle.
+- `III.2 ¶3` Atwood declines to enter the Method of the Kabalistic philosophy ('space does not allow us to enter'); refers readers to Rosenroth and Franck.
+- `III.2 ¶5` 'Arnold, Lully, Artephius, and the rest cited in the Theory' points to an earlier section called 'the Theory' where these descriptions of whitening were cited.
+- `III.2 ¶7` 'the Matter already defined so often by the old Alchemists' points back to earlier definitions of the Matter.
+- `III.2 ¶7` 'The same Sendivogius' points back to an earlier mention of Sendivogius outside this chunk.

@@ -1,0 +1,284 @@
+# III.4_04
+
+*Atwood closes her account of prayer: prayer and self-sacrifice together, with the Human Will acting with its Final Cause, lead to union and rest in the Good. She then turns to the practical requisites of the work: a co-operating Subject or assistance, the Philosophic Vessel, apt ministers, furnaces and suitable places. For these she relies mainly on verse from Norton's Ordinal and Charnocke, and on Vaughan for the simplicity of the true furnace.*
+
+## Argument
+
+- Theurgic sacrifice ends in conjunction with the Demiurgic Intellect; prayer, joined to it through adoration, has a benefit equal to that alliance's good. `III.4 ¶25` — ATWOOD
+- The three terms of adoration reconcile life's warring elements and give three benefits: Life, passing between forms of perfection, bears an offspring sacrificed at each confine, like three Hesperian Apples of Gold. `III.4 ¶25` — ATWOOD
+- There inquiry rests and true love is found; sensible attractions are images that, without the idea's magnetic virtue, prove insufficient once possessed. `III.4 ¶26` — ATWOOD
+- Desire is most effectual addressed within the Living Temple from the Divine Light within, when the Spirit wakes in allied mind and dissolves life to love. `III.4 ¶27` — ATWOOD
+- The Psalmist prayed and received understanding and the Spirit of Wisdom. `III.4 ¶28` — QUOTED: the Psalmist
+- Prayer and self-sacrifice give each other perfect efficacy. Matter is said to extend to the Good and rest in Sufficience, freed of parturitions. `III.4 ¶28` — ATWOOD
+- No faculty may be left idle in the Preparation; the Spirit's parts unite in renascent harmony and evolve again. So the Human Will acts with its Final Cause. `III.4 ¶28` — ATWOOD
+- The student next needs suitable assistance: without a Subject reciprocating the design the work is abortive, like a statue without marble. `III.4 ¶29` — ATWOOD
+- Ascent to Unity is arduous, descent unsafe alone; the Spirit grows only through a medium and bond. Preacher: two are better than one. `III.4 ¶30, III.4 n27` — ATWOOD
+- Distrusting sophisticated accounts of the Philosophic Vessel ('nerves, veins, and alembics'), Atwood offers one hint from Norton. `III.4 ¶30` — ATWOOD
+- Norton: vessels differ in shape and material by operation; glass keeps spiritual matters in; the best accords with the vessel of nature; his Master's secret: the vas God gave is glass. `III.4 ¶31, III.4 n28` — QUOTED: Norton
+- The Spirit finally builds and vitrifies its own vessel; first instruments are freely chosen; few go beyond the Gross Work; the vessels, like Argo's planks, are oracular. `III.4 ¶32` — ATWOOD
+- Charnocke: nested vessels with a Third outside guiding heat; show the potter by similitude. `III.4 ¶33, III.4 n29` — QUOTED: Charnocke
+- Charnocke, badly served, did all manual labour himself; faithful servants are rare. `III.4 ¶34, III.4 ¶35, III.4 n30` — QUOTED: Charnocke
+- Norton's Second Concord: Gross Work ministers' qualities; eight or four, in shifts night and day except Sunday; no ribaldry; one sex; some recreation. Many old furnaces did nature wrong. `III.4 ¶36, III.4 ¶37, III.4 n31` — QUOTED: Norton
+- Vaughan: the true furnace is a shell held in one hand; one glass, or two; the work is light, women fitter; exciting the Fire is slight yet holds corruption and generation. `III.4 ¶38, III.4 n32` — QUOTED: Vaughan
+- Geber calls the furnace Athanor; others, following his example, describe it with misleading subtlety. `III.4 ¶38` — ATWOOD
+- Norton: art must concord with instrument; prove instruments first. `III.4 ¶39, III.4 n33` — QUOTED: Norton
+- Atwood reports Norton: indeterminate instruments serve until the Spirit proves the determinate fit. `III.4 ¶40` — ATWOOD
+- Norton's Fourth Concord: places dry, dark, bright or moist; wind always hurts; 'within locks nyne'; contrary places of the sphere give contrary effects, as the magnet shows. `III.4 ¶41, III.4 n34` — QUOTED: Norton
+
+## Method
+
+- **result** — “the end of Theurgic sacrifice is a conjunction with the Demiurgic Intellect” `III.4 ¶25` (ATWOOD)
+  - **Plain (stated):** The goal of the sacrificial work, and so of the prayer joined to it, is union with the Demiurgic Intellect. Prayer's benefit is as great as the good of that union.
+  - Basis: III.4 ¶25 states the end directly and draws the conclusion about prayer.
+  - Also: “the benefit of prayer, if we concur at all in opinion concerning these things, is of the same extent with the good which is conferred by such an alliance” `III.4 ¶25`
+- **stage** — “translated from one form of perfection to another, Life progresses bringing forth an offspring to be sacrificed on the alternating confines of each; as it were three Hesperian Apples of Gold” `III.4 ¶25` (ATWOOD)
+  - **Plain (interpreted):** There are three benefits, gained in three steps. At each passage of Life from one form of perfection to the next, an offspring is produced and offered up at the boundary. The 'Hesperian Apples of Gold' are these three offspring or benefits.
+  - Basis: III.4 ¶25: the three terms of adoration 'extend to man three supernal benefits', and the sentence goes on to the offspring 'as it were three Hesperian Apples of Gold'. Linking apples to benefits rests on that 'as it were'. The chunk does not say what the three forms of perfection are.
+  - Also: “not only conciliate the warring elements of life, but extend to man three supernal benefits” `III.4 ¶25`
+- **principle** — “the desire of images which lose ultimately the magnetic virtue imparted to them by the idea” `III.4 ¶26` (ATWOOD)
+  - **Plain (stated):** Sensible objects attract only through a power the idea lends them. Possessed without it, they disappoint. The true object of desire and inquiry is the end of adoration.
+  - Basis: III.4 ¶26: the virtue is 'imparted to them by the idea', and 'without it, when in the possession, they are found to be neither truly desirable, nor sufficient, nor good'. Contrasted with 'the true attraction of love'.
+  - Also: “there the rational inquiry rests as in its proper object” `III.4 ¶26`
+- **procedure** — “addressed within the Living Temple from the Divine Light within” `III.4 ¶27` (ATWOOD)
+  - **Plain (interpreted):** Effectual prayer, or desire, is directed inward, from a divine light within, rather than outward for worldly ends in public worship.
+  - Basis: III.4 ¶27 contrasts this with prayer 'for the common concerns of life' and 'public worship', and repeats 'within'. III.4 ¶28 cites being heard 'out of His holy temple'. The chunk does not say what the Living Temple is.
+  - Also: “He heard me out of His holy temple” `III.4 ¶28`
+- **sign** — “in the congress of allied mind, the Spirit wakes to consciousness” `III.4 ¶27` (ATWOOD)
+  - **Plain (interpreted):** When minds or faculties are joined in concord, the Spirit becomes conscious, and their harmony dissolves the whole life into love.
+  - Basis: III.4 ¶27, read with III.4 ¶26, where love is the true attraction found at the end of adoration. Who the allied minds are is open; see ambiguities.
+  - Also: “in their universal harmony conspiring, dissolves the total life to love” `III.4 ¶27`
+  - Also: “I prayed, and understanding was given to me; I called upon God, and the Spirit of Wisdom came to me.” `III.4 ¶28`
+- **operator** — “prayer and self-sacrifice conspiring, mutually corroborate and confer on each other a perfect efficacy in Divine works” `III.4 ¶28` (ATWOOD)
+  - **Plain (stated):** The operator must join prayer with self-sacrifice. Each strengthens the other, and together they make the work fully effective.
+  - Basis: III.4 ¶28 states it directly.
+- **principle** — “even Matter itself is said to be extended to the desirable, i.e., to the Good” `III.4 ¶28` (UNCLEAR)
+  - **Plain (stated):** Matter by nature desires the Good and takes in as much good as it can. When it is filled ('Sufficience'), it comes to rest, freed from its labour of bringing forth and from desire.
+  - Basis: III.4 ¶28 glosses 'the desirable' as 'the Good' and goes on: 'through this desire is filled as many goods as it is able to participate'. It is presented as a received view ('is said').
+  - Also: “when things have run up so far as to this Sufficience they become tranquil in it, and are liberated from the parturitions” `III.4 ¶28`
+- **procedure** — “Neither will it therefore be proper to omit any part of this concord, or deny any faculty of the mind its due exercise in the Preparation” `III.4 ¶28` (ATWOOD)
+  - **Plain (stated):** In the Preparation every faculty of the mind must be exercised, because the parts of the Spirit are united in the renewed harmony and then unfold again to complete their cycle.
+  - Basis: III.4 ¶28 gives the reason ('since').
+  - Also: “these diversified parts of the Spirit are in the renascent harmony made one; thence again to be evolved in catholic procession to complete the equilibriated circle of their Law” `III.4 ¶28`
+- **operator** — “the corroborative efficacy of the Human Will, acting in concert with its Final Cause to fulfill it” `III.4 ¶28` (ATWOOD)
+  - **Plain (stated):** The operator's will contributes actively to the work when it acts together with the end it is directed to. This chunk does not define 'Final Cause'.
+  - Basis: III.4 ¶28 sums up the discussion of prayer in these words.
+- **subject** — “without a Subject to work with and reciprocate the design it remains abortive, as a statue in the conception without the marble to give it utterance” `III.4 ¶29` (ATWOOD)
+  - **Plain (interpreted):** General knowledge of the theory comes first, but it is not enough. To begin operating, the student needs a Subject that works with him and responds to his design. Without it the work never takes form.
+  - Basis: III.4 ¶29 puts this under the difficulty 'to find suitable assistance in the undertaking'. III.4 ¶30 adds 'two are better than one'. Whether the Subject is a person or the material is open; see ambiguities.
+  - Also: “after he has obtained a general knowledge of the Hermetic ground, with a hopeful desire to commence operations” `III.4 ¶29`
+- **principle** — “neither is there any increase of the Spirit, as we have already shown, without a medium and a bond” `III.4 ¶30` (ATWOOD)
+  - **Plain (stated):** Spiritual growth needs an intermediary and a binding link. The work is hard and unsafe to undertake alone.
+  - Basis: III.4 ¶30 states it, together with the arduous ascent, the unsafe solitary descent and the Preacher's 'two are better than one'.
+  - Also: “The ascent to Unity is arduous, and the descent is not undertaken in safety alone” `III.4 ¶30`
+  - Also: “Behold, two are better than one, says the Preacher” `III.4 ¶30`
+- **subject** — “the Philosophic Vessel and its multiform distillatory apparatus, of nerves, veins, and alembics” `III.4 ¶30` (ATWOOD)
+  - **Plain (interpreted):** Writers describe the Philosophic Vessel's apparatus in a mix of bodily terms (nerves, veins) and laboratory terms (alembics). Atwood finds these accounts over-sophisticated and hard to trust.
+  - Basis: III.4 ¶30 lists 'nerves, veins, and alembics' together. The chunk does not say the vessel is the body; see ambiguities.
+- **procedure** — “As every Chapter hath divers intents, So hath it divers instruments” `III.4 ¶31` (QUOTED: Norton)
+  - **Plain (interpreted):** Each operation needs its own vessel, differing in material and shape: small for separation, broad for humectation, long for precipitation, and so on. Norton calls the matter obscure. This chunk does not decode the operations.
+  - Basis: III.4 ¶31 pairs each operation with a vessel shape. Atwood offers it as 'one hint' that saves explaining many more (III.4 ¶30).
+  - Also: “Which are full derke, To ordeyne instruments according to the weke.” `III.4 ¶31`
+  - Also: “As workers of division and separation Have small vessels for their operation” `III.4 ¶31`
+- **principle** — “The best fashion is ye maie be sure, She that concordeth with vessel of nature” `III.4 ¶31` (QUOTED: Norton)
+  - **Plain (interpreted):** The best vessel matches nature's own vessel and suits the quantity and circumstances of the matter. This chunk does not say what the 'vessel of nature' is.
+  - Basis: III.4 ¶31 goes on: 'figure that best concordeth with quantity, And with all circumstances,to matter best is she'.
+  - Also: “In concord that nothing may mishap” `III.4 ¶31`
+- **subject** — “Si Deus non dedisset nobis vas Nihil dedisset, and that is glasse” `III.4 ¶31` (QUOTED: Norton's 'good Master' (within Norton))
+  - **Plain (interpreted):** A secret from Norton's Master: the vessel is the essential gift of God, and it is glass, the material that keeps spiritual matters from escaping. Atwood's statement that the Spirit builds and vitrifies its own vessel (III.4 ¶32) matches this.
+  - Basis: III.4 ¶31 identifies the vas outright ('and that is glasse') and calls it 'a secreate disclosed'. Earlier lines give glass's purpose. The sense of the Latin rests on our translation. The link to III.4 ¶32 ('vitrifies') is our inference.
+  - Also: “But other vessels be made of glasse, That spiritual matters should not outpasse” `III.4 ¶31`
+- **agent** — “The Spirit finally constructs its own vessel and vitrifies it” `III.4 ¶32` (ATWOOD)
+  - **Plain (stated):** The final vessel is formed by the Spirit itself and made glass-like. Only the first instruments are left to the artist's convenience.
+  - Basis: III.4 ¶32 sets what the Spirit 'finally' does against the artist's free choice 'in the beginning'.
+  - Also: “the artist is at liberty to make choice according to convenience of his instruments in the beginning” `III.4 ¶32`
+- **stage** — “of the many that may be called together, at first, few, it will be understood, are chosen to proceed beyond the exigencies of the preliminary Gross Work” `III.4 ¶32` (ATWOOD)
+  - **Plain (interpreted):** The preliminary Gross Work comes first and uses many means. Only a few carry on past it, chosen as the Spirit proves them fit.
+  - Basis: III.4 ¶32 with III.4 ¶40: 'indeterminate instruments must be employed in the beginning, until the determinate shall declare themselves as by the Spirit they are proved fit'. Whether 'the many' are instruments or persons is open; see ambiguities.
+  - Also: “indeterminate instruments must be employed in the beginning, until the determinate shall declare themselves as by the Spirit they are proved fit” `III.4 ¶40`
+- **sign** — “Those philosophic vessels, like the planks of Argo, on occasion, are still oracular” `III.4 ¶32` (ATWOOD)
+  - **Plain (interpreted):** The fit vessels reveal themselves: they 'speak for themselves' and declare their fitness during the work. They are also said to come from the same ground.
+  - Basis: III.4 ¶32: 'will they not speak for themselves?'. III.4 ¶40: 'the determinate shall declare themselves'. The chunk does not explain what the 'self-same ground' is.
+  - Also: “being felled fro the self-same ground too, in the same classic grove, made vocal by Apollo” `III.4 ¶32`
+- **subject** — “One within another, it is a pretty feate, The Third without them to guide up the heate” `III.4 ¶33` (QUOTED: Charnocke)
+  - **Plain (interpreted):** The vessels are nested one inside another, with a third outside them to regulate the heat. They are plain and unlike ordinary ware. This chunk does not explain them further.
+  - Basis: III.4 ¶33 gives only the literal description.
+  - Also: “Yet they are plain without wrinkle or hem” `III.4 ¶33`
+- **operator** — “First then with the potter thou must begin, Which cannot make what he hath never seen” `III.4 ¶33` (QUOTED: Charnocke)
+  - **Plain (interpreted):** The operator must personally direct whoever makes the vessels and show by sign or likeness what is wanted, because the maker has never seen such a thing.
+  - Basis: III.4 ¶33: 'Stand by while he worketh' and 'shew him what to do by some sign or similitude'.
+  - Also: “shew him what to do by some sign or similitude” `III.4 ¶33`
+- **impediment** — “For servants doe not passé, how our worke to frame, But have more delighte to play and to game” `III.4 ¶35` (QUOTED: Charnocke)
+  - **Plain (stated):** Careless helpers obstruct the work. Charnocke had to take all the manual labour on himself.
+  - Basis: III.4 ¶34: 'difficulties he met with in the practice from indifferent assistance' and 'obliged to take the whole of the Manual labour upon himself'.
+- **operator** — “Noe Minister is apt to this intent But he is sober, wise, and diligent” `III.4 ¶37` (QUOTED: Norton)
+  - **Plain (stated):** Helpers in the Gross Work must be sober, wise, diligent, truthful, watchful, timorous, close of tongue, not vicious of body, clean-handed, careful in handling, obedient and not presumptuous. Charnocke likewise asks for a servant 'as thine own hearte'.
+  - Basis: III.4 ¶37 lists the qualifications. III.4 ¶36 says Norton enumerates them for 'the Gross Work'.
+  - Also: “A good servant, saith Solomon, let him be unto thee, As thine own hearte,in each degree” `III.4 ¶35`
+  - Also: “Not wreckless, but sober, wise and quiet” `III.4 ¶35`
+- **procedure** — “For of this Arte ye shall not have praye But it be ministered as well by night as daye” `III.4 ¶37` (QUOTED: Norton)
+  - **Plain (stated):** The work must be tended without stopping, night and day, from Evensong to Evensong, pausing only on Sunday. Helpers work in alternating shifts, half working while half rest: eight for a reasonable quantity, four for a little.
+  - Basis: III.4 ¶37 gives the numbers and the schedule explicitly.
+  - Also: “Then one half of them must werke Whilethe other half sleepeth or goeth to kerke” `III.4 ¶37`
+  - Also: “Continually, except the holi Sunday alone; From Evensong begin till Evensong be done.” `III.4 ¶37`
+- **impediment** — “while they worke they must needs eschew All ribaldry” `III.4 ¶37` (QUOTED: Norton)
+  - **Plain (stated):** Indecency among the helpers destroys part or all of the work. So they must be all men or all women and not occupied with one another, though they need wholesome recreation.
+  - Basis: III.4 ¶37: 'They shall destroy part of their weks or all; Therfore all the ministers must be men, Or els thei must all be women'.
+  - Also: “Therfore all the ministers must be men, Or els thei must all be women” `III.4 ¶37`
+- **subject** — “The true furnace has been described as a little simple shell; thou mayst easily carry it, says Vaughan, in one of thy Hands” `III.4 ¶38` (QUOTED: Vaughan)
+  - **Plain (interpreted):** The real furnace is small and simple, unlike the many elaborate furnaces of the old writers. The glass is one, though two may be used. Geber's name for it is Athanor.
+  - Basis: III.4 ¶38 states size and simplicity. The contrast with Norton's furnaces that 'did nature wrong' (III.4 ¶37) and with the 'misleading subtlety' of Geber's followers (III.4 ¶38) comes from juxtaposition.
+  - Also: “the glass is one, and no more; but philosophers have sued two, and so mayest thou” `III.4 ¶38`
+  - Also: “Geber calls this furnace Athanor” `III.4 ¶38`
+  - Also: “But many furnaces of them be noughte” `III.4 ¶37`
+- **operator** — “a lady may read the Arcadia, and at the same time attend this philosophy without disturbing her fancy” `III.4 ¶38` (QUOTED: Vaughan)
+  - **Plain (stated):** Tending the work is not laborious and does not occupy the mind. Women, being neater and more patient, are fitter for it than men.
+  - Basis: III.4 ¶38: 'it is no way troublesome' and 'women are fitter for it than men'. On how this squares with Norton's eight ministers, see ambiguities.
+  - Also: “I think women are fitter for it than men, for in such things they are more neat and patient” `III.4 ¶38`
+- **procedure** — “the excitation of the Fire is a very trivial, slight, almost a ridiculous thing; nevertheless, all the secrets of corruption and generation are therein contained” `III.4 ¶38` (QUOTED: Vaughan (Lumen de Lumine))
+  - **Plain (stated):** Kindling the Fire is outwardly a trifling act, yet it holds the whole secret of corruption and generation. This chunk does not say what the Fire or the act is.
+  - Basis: III.4 ¶38, quoted from Lumen de Lumine.
+- **principle** — “Noe man is sure to have his Intent Without full concord of arte with hys instrument” `III.4 ¶39` (QUOTED: Norton)
+  - **Plain (stated):** Success requires full agreement between the art and its instruments. One must know each furnace's power and working and test instruments beforehand, or the work falls to chance.
+  - Basis: III.4 ¶39 directly.
+  - Also: “But he which thereof dwelleth in ignorance, All his worke falleth upon chance” `III.4 ¶39`
+  - Also: “And prove them before hand, if ye be wise” `III.4 ¶39`
+- **procedure** — “Therefore for every worke in season Ye must ordaine places by reason” `III.4 ¶41` (QUOTED: Norton)
+  - **Plain (stated):** Each operation needs a suitable place: some dry and sealed from air, some dark, some very bright, some moist and cold. Astrologers count finding the right place a grace.
+  - Basis: III.4 ¶41 lists the conditions.
+  - Also: “Astrologers said it was a grace To finde a fitting wirking place” `III.4 ¶41`
+  - Also: “Found some places concordant, some places not” `III.4 ¶41`
+- **impediment** — “But in our workes in verie place, Wind will hurt in everie case” `III.4 ¶41` (QUOTED: Norton)
+  - **Plain (stated):** Wind or air harms every part of the work. This chunk does not explain what 'wind' stands for.
+  - Basis: III.4 ¶41.
+  - Also: “Close from aier and no waies windy” `III.4 ¶41`
+- **procedure** — “How it should be wrought within locks nyne” `III.4 ¶41` (QUOTED: Norton)
+  - **Plain (interpreted):** The philosophers say the work must be carried out sealed behind nine locks. This chunk does not explain the saying.
+  - Basis: III.4 ¶41 only reports it, among lines about places closed from air.
+- **principle** — “contrarie wonders be of one thinge, In contrarie countries wrought without leasing” `III.4 ¶41` (QUOTED: Norton)
+  - **Plain (stated):** The same thing produces opposite effects in different places, because of their position under the heavens, as the magnet shows. So the place of working affects the result.
+  - Basis: III.4 ¶41 gives the cause as 'only contrarye places of the spheare', with the magnet as evidence.
+  - Also: “In the Magnet’s stone openly doth appeare” `III.4 ¶41`
+
+## Terms
+
+- **Adoration** (also: adoration) — Connected with sacrifice and bound up with the advantages of prayer. Its 'three terms' contain all the Divine measures, reconcile the warring elements of life and give three supernal benefits. Its end is where rational inquiry rests and true love is found. (ATWOOD)
+  - “these three terms of adoration, in which, according to the authorities, all the Divine measures are contained” `III.4 ¶25`
+  - “And thus the end of all adoration is attained” `III.4 ¶26`
+- **Theurgic sacrifice** — Sacrifice whose end is conjunction with the Demiurgic Intellect. It is connected with adoration and prayer. (ATWOOD)
+  - “the end of Theurgic sacrifice is a conjunction with the Demiurgic Intellect” `III.4 ¶25`
+- **Demiurgic Intellect** — That with which Theurgic sacrifice seeks conjunction. Not further defined here. (ATWOOD)
+  - “a conjunction with the Demiurgic Intellect” `III.4 ¶25`
+- **Hesperian Apples of Gold** — An image for the three offspring or supernal benefits that Life brings forth and sacrifices at each passage from one form of perfection to another. (ATWOOD)
+  - “as it were three Hesperian Apples of Gold” `III.4 ¶25`
+- **Living Temple** — The inner place within which effectual desire is addressed from the Divine Light within. Not further defined here. (ATWOOD)
+  - “addressed within the Living Temple from the Divine Light within” `III.4 ¶27`
+- **Spirit** — Wakes to consciousness in the congress of allied mind. Its diversified parts are made one in the renascent harmony. It cannot increase without a medium and a bond. It finally constructs and vitrifies its own vessel and proves which instruments are fit. (ATWOOD)
+  - “the Spirit wakes to consciousness” `III.4 ¶27`
+  - “these diversified parts of the Spirit are in the renascent harmony made one” `III.4 ¶28`
+  - “The Spirit finally constructs its own vessel and vitrifies it” `III.4 ¶32`
+  - “as by the Spirit they are proved fit” `III.4 ¶40`
+- **the desirable** — That toward which even Matter extends. (UNCLEAR)
+  - = the Good: “extended to the desirable, i.e., to the Good” `III.4 ¶28`
+- **Sufficience** — The fullness that Matter and other things reach through desire of the Good. In it they become tranquil and are freed from parturitions and natural desire. (UNCLEAR)
+  - “when things have run up so far as to this Sufficience they become tranquil in it” `III.4 ¶28`
+- **Preparation** — The stage in which every faculty of the mind must be duly exercised and no part of the concord omitted. (ATWOOD)
+  - “deny any faculty of the mind its due exercise in the Preparation” `III.4 ¶28`
+- **Human Will** — Has a corroborative efficacy when it acts in concert with its Final Cause to fulfil it. (ATWOOD)
+  - “the corroborative efficacy of the Human Will, acting in concert with its Final Cause to fulfill it” `III.4 ¶28`
+- **Subject** — What the student must find in order to begin operations: something to work with that reciprocates the design. Without it the work stays abortive. It is discussed as 'suitable assistance'. (ATWOOD)
+  - “without a Subject to work with and reciprocate the design it remains abortive” `III.4 ¶29`
+- **medium and bond** — Required for any increase of the Spirit. (ATWOOD)
+  - “neither is there any increase of the Spirit, as we have already shown, without a medium and a bond” `III.4 ¶30`
+- **Philosophic Vessel** (also: philosophic vessels, vessel) — The vessel of the work. Writers describe its apparatus as 'of nerves, veins, and alembics'. It is best when it accords with the 'vessel of nature', is finally constructed and vitrified by the Spirit, and is called 'oracular'. (ATWOOD)
+  - “the Philosophic Vessel and its multiform distillatory apparatus, of nerves, veins, and alembics” `III.4 ¶30`
+  - “She that concordeth with vessel of nature” `III.4 ¶31`
+- **Glass** (also: glasse, glasses, glass) — The vessel material that keeps spiritual matters from escaping. Norton's Master names it as the vessel God gave. The better kind is 'morning stuffe' and the harder kind is 'Freton'. Vaughan says 'the glass is one'. (QUOTED: Norton)
+  - = vas (the vessel God gave): “Si Deus non dedisset nobis vas Nihil dedisset, and that is glasse” `III.4 ¶31`
+  - “But other vessels be made of glasse, That spiritual matters should not outpasse” `III.4 ¶31`
+  - “the glass is one, and no more” `III.4 ¶38`
+- **Dead clay** — Clay that has undergone great roasting. Mixed as powder with good raw clay, it withstands fire. (QUOTED: Norton)
+  - “Dead clay is called such a thing, As hath suffered great roasting” `III.4 ¶31`
+- **Freton** — The harder kind of glass, made from clippings of other glasses. (QUOTED: Norton)
+  - “The harder stuffe is called Freton, Of clipping of other glasses it come” `III.4 ¶31`
+- **Gross Work** — The preliminary stage. Few of the many called at first are chosen to proceed beyond it. Norton describes the ministers employed about it. (ATWOOD)
+  - “few, it will be understood, are chosen to proceed beyond the exigencies of the preliminary Gross Work” `III.4 ¶32`
+  - “the needful qualification and numbers of individuals employed about the Gross Work” `III.4 ¶36`
+- **Preparatory Practice** — A practice Atwood will discuss later, where the value of assistance will be clearer. Norton describes it. (ATWOOD)
+  - “when we come to speak of the Preparatory Practice which Norton, naively, and without much envy, describes” `III.4 ¶36`
+- **Concord** (also: concord, Concordaunce) — Agreement or fit between the art and its requisites. Norton numbers them: the Second Concord concerns apt ministers, the Fourth convenient places, and he also speaks of concord of art with instrument. Atwood herself uses 'concord' for the joining of prayer, self-sacrifice and the mind's faculties (III.4 ¶28). (QUOTED: Norton)
+  - “The Second Concord with this Arte is,” `III.4 ¶36`
+  - “Without full concord of arte with hys instrument” `III.4 ¶39`
+  - “The Fourth Concord is full notable Between this arte and places convenable” `III.4 ¶41`
+- **Ministers** (also: Minister, servants, servant) — The assistants who carry on the work, with listed moral and practical qualifications, numbers and conduct. (QUOTED: Norton)
+  - “When ye can finde apt Ministers” `III.4 ¶37`
+  - “Noe Minister is apt to this intent But he is sober, wise, and diligent” `III.4 ¶37`
+- **Furnace** (also: furnace, furnaces, Furnaces) — An instrument of the work. The old writers devised one for every part, many of them wrongly. The true one is a little simple shell carried in one hand. (ATWOOD)
+  - = Athanor: “Geber calls this furnace Athanor” `III.4 ¶38`
+  - “The true furnace has been described as a little simple shell” `III.4 ¶38`
+- **Fire** — Its 'excitation' is a trivial, almost ridiculous thing, yet it contains all the secrets of corruption and generation. Not otherwise explained here. (QUOTED: Vaughan (Lumen de Lumine))
+  - “the excitation of the Fire is a very trivial, slight, almost a ridiculous thing” `III.4 ¶38`
+- **indeterminate / determinate instruments** — Indeterminate instruments serve at the beginning. Determinate ones 'declare themselves' when the Spirit proves them fit. This is Atwood's account of what Norton shows. (ATWOOD)
+  - “indeterminate instruments must be employed in the beginning, until the determinate shall declare themselves as by the Spirit they are proved fit” `III.4 ¶40`
+
+## Sources cited
+
+- **the authorities** `III.4 ¶25` — Supports: the three terms of adoration contain all the Divine measures.
+- **the Psalmist** — “I called upon the Lord, exclaims the Psalmist, and He heard me out of His holy temple” `III.4 ¶28` — Supports: prayer from the inner temple is heard and brings understanding and the Spirit of Wisdom.
+- **the Preacher**, *Eccels. 4:8,9* — “Behold, two are better than one, says the Preacher” `III.4 ¶30, III.4 n27` — Supports: the work needs a companion, a medium and a bond. One alone labours endlessly.
+- **Norton**, *Norton’s Ordinal* — “Si Deus non dedisset nobis vas Nihil dedisset, and that is glasse” `III.4 ¶30, III.4 ¶31, III.4 ¶36, III.4 ¶37, III.4 ¶39, III.4 ¶40, III.4 ¶41, III.4 n28, III.4 n31, III.4 n33, III.4 n34` — Main authority on the practical requisites: vessels (chap. 6, p. 94), ministers (Second Concord), furnaces, instruments and places (Fourth Concord). Atwood calls his description of the Preparatory Practice naive and 'without much envy'.
+- **my good Master (Norton's)** — “Si Deus non dedisset nobis vas Nihil dedisset” `III.4 ¶31` — Cited within Norton's verse as disclosing the secret that the vessel is glass.
+- **Albertus Magnus**, *Boke De Mineralibus* — “And this sheweth best Albertus Magnus, In his Boke De Mineralibus” `III.4 ¶31` — Cited within Norton's verse as best showing the right figure of vessels.
+- **Charnocke**, *Charnocke’s Breviary of Philosophy* — “One within another, it is a pretty feate, The Third without them to guide up the heate” `III.4 ¶33, III.4 ¶34, III.4 ¶35, III.4 n29, III.4 n30` — Illustrates the nested vessels and the need to instruct the potter (chap. 1), and the trouble with indifferent assistants and the value of a faithful servant (chap. 3, 'Idem').
+- **Solomon** — “A good servant, saith Solomon, let him be unto thee, As thine own hearte,in each degree” `III.4 ¶35` — Cited within Charnocke's verse on the value of a faithful servant.
+- **Vaughan** — “thou mayst easily carry it, says Vaughan, in one of thy Hands” `III.4 ¶38, III.4 n32` — Supports: the true furnace is small and simple, the glass one, the work no trouble, and women fitter for it than men.
+- **Vaughan**, *Lumen de Lumine* — “the excitation of the Fire is a very trivial, slight, almost a ridiculous thing” `III.4 ¶38, III.4 n32` — Supports: exciting the Fire is slight, yet it contains all the secrets of corruption and generation.
+- **Vaughan**, *Coelum Terrae* `III.4 n32` — Reference only (p. 118).
+- **Sendivogius**, *New Light* `III.4 n32` — Reference only.
+- **Eirenaeus**, *Introitus Apertus* `III.4 n32` — Reference only (chap. 8 and 24).
+- **Geber** — “Geber calls this furnace Athanor” `III.4 ¶38` — Gives the name Athanor for the furnace. Atwood criticizes others who, following his example, described it 'with a misleading subtlety'.
+- **the Arcadia**, *Arcadia* — “a lady may read the Arcadia” `III.4 ¶38` — Within Vaughan: illustrates that the work does not occupy the attention.
+- **Argo / Apollo (classical allusion)** — “like the planks of Argo, on occasion, are still oracular” `III.4 ¶32` — Illustrates that the philosophic vessels 'speak for themselves'.
+- **Philosophers / Astrologers / Auctors (in Norton)** — “Philosophers said, by their engine, How it should be wrought within locks nyne” `III.4 ¶41` — Cited within Norton's verse on working 'within locks nyne' and on the importance of a fitting place.
+
+## Ambiguities
+
+- “in the congress of allied mind, the Spirit wakes to consciousness” `III.4 ¶27`
+  - Reading: The allied minds belong to several persons (operator and assistant or Subject) working together.
+  - Reading: The allied minds are the faculties of a single mind brought into concord.
+  - Basis: Reading 1: III.4 ¶29-30 at once require 'suitable assistance', 'a medium and a bond' and 'two are better than one'. Reading 2: III.4 ¶28 'deny any faculty of the mind its due exercise' and 'these diversified parts of the Spirit are in the renascent harmony made one'.
+- “without a Subject to work with and reciprocate the design” `III.4 ¶29`
+  - Reading: The Subject is a second person, an assistant or partner who co-operates with the operator.
+  - Reading: The Subject is the material or patient the work is done on, as marble is for the sculptor.
+  - Basis: Reading 1: III.4 ¶29 'to find suitable assistance', and 'reciprocate' implies a response. III.4 ¶30 'two are better than one ... mutually assist each other'. Reading 2: the statue and marble analogy in III.4 ¶29, followed by the discussion of vessels (III.4 ¶30-31).
+- “the Philosophic Vessel and its multiform distillatory apparatus, of nerves, veins, and alembics” `III.4 ¶30`
+  - Reading: The vessel is, at least in part, a living body, described in laboratory language.
+  - Reading: The bodily terms belong to the writers' 'sophistication', and the vessel is laboratory ware.
+  - Basis: Reading 1: the list joins bodily and laboratory terms as 'distillatory apparatus', and III.4 ¶32 says the Spirit constructs its own vessel. Reading 2: Atwood calls the literature 'sophistication', and Norton's literal account of glass, clay, lead and stone vessels (III.4 ¶31) and Charnocke's potter (III.4 ¶33) follow.
+- “of the many that may be called together, at first, few, it will be understood, are chosen to proceed beyond the exigencies of the preliminary Gross Work” `III.4 ¶32`
+  - Reading: 'The many' are the instruments or vessels used at first: many are tried and few kept.
+  - Reading: 'The many' are persons (assistants or participants): many gather at first and few go on.
+  - Basis: Reading 1: the sentence follows the artist's choice of 'instruments in the beginning', is followed by 'Those philosophic vessels ... are still oracular', and III.4 ¶40 speaks of indeterminate and determinate instruments. Reading 2: 'called together' and 'chosen' suggest people, and the surrounding paragraphs (III.4 ¶29-30, ¶34-37) deal with assistance and ministers.
+- “As for the work itself, it is no way troublesome” `III.4 ¶38`
+  - Reading: Norton's eight ministers working night and day belong to the Gross Work only, and Vaughan's ease applies to a later work.
+  - Reading: Atwood sets side by side authorities who disagree about the labour required.
+  - Basis: Reading 1: III.4 ¶36 places Norton's ministers 'about the Gross Work', and III.4 ¶32 says few proceed beyond the 'preliminary Gross Work'. Reading 2: III.4 ¶37 and ¶38 stand side by side with no explicit reconciliation.
+
+## Translations
+
+- `III.4 ¶31` “Which are full derke, To ordeyne instruments according to the weke.” → Which are very obscure: to ordain instruments according to the work. *(ours)*
+- `III.4 ¶31` “Of ashes, of ierne in this londe everi each one Be made, but elsewhere be of stone:” → In this land every one is made of ashes, of 'ierne' (word uncertain), but elsewhere they are of stone. *(ours)*
+- `III.4 ¶31` “Tincture with annealing of glasiers Will not perse him as they reherse.” → Glaziers' tincture applied by annealing will not penetrate it, as they relate. *(ours)*
+- `III.4 ¶31` “Si Deus non dedisset nobis vas Nihil dedisset” → If God had not given us the vessel, He would have given (us) nothing. *(ours)*
+- `III.4 ¶35` “For servants doe not passé, how our worke to frame,” → For servants do not care how our work is framed, *(ours)*
+- `III.4 ¶37` “Then one half of them must werke Whilethe other half sleepeth or goeth to kerke:” → Then half of them must work while the other half sleeps or goes to church. *(ours)*
+- `III.4 ¶37` “For of this Arte ye shall not have praye But it be ministered as well by night as daye;” → For you shall have no profit from this Art unless it is tended by night as well as by day. *(ours)*
+- `III.4 ¶41` “But contrarie wonders be of one thinge, In contrarie countries wrought without leasing;” → But opposite wonders come from one and the same thing when it is worked in opposite countries, without lie. *(ours)*
+
+## Threads
+
+- `III.4 ¶25` 'Such then being the advantages of prayer' and 'these three terms of adoration' point back to the preceding discussion of prayer and its three terms.
+- `III.4 ¶28` 'this much may suffice concerning the nature of prayer' closes the discussion of prayer from the preceding paragraphs.
+- `III.4 ¶30` 'as we have already shown' points to an earlier demonstration that there is no increase of the Spirit without a medium and a bond.
+- `III.4 ¶32` 'the preliminary Gross Work' is named as the first stage beyond which few proceed. Its content is not given here.
+- `III.4 ¶36` 'when we come to speak of the Preparatory Practice' is a forward reference to a later treatment, where the value of assistance will be clearer.
+- `III.4 ¶36` Norton's 'Second Concord' and, in III.4 ¶41, 'Fourth Concord' imply a First and a Third Concord that this chunk does not quote.

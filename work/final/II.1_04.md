@@ -1,0 +1,216 @@
+# II.1_04
+
+*Atwood argues from the self-evidence of intuition and Universals in reason to a higher, latent faculty, Wisdom or Intellect, that can be brought into contact with its source. She then cites Aristotle, Plato, the Pythagoreans and the Neoplatonists as witnesses to it, and turns to the Hebrew Kabalists' doctrine of fall and reunion, as a rational preface to the Hermetic tradition.*
+
+## Argument
+
+- No one denies the possibility of the Absolute ground, implied by highest reason and tradition; moderns honor the ancients in despair or admiration, unable to break 'the enchantment which isolates the reflective faculty'. `II.1 ¶33` — ATWOOD
+- Intuition is the evidence and end of every proof (time implies eternity, bound infinity, every number the unit); the intellectual Law is never questioned, while inferences from external facts constantly fail. `II.1 ¶33` — ATWOOD
+- Locke: intuitive faith is the highest certainty; Cousin used this to shake the sensual system of Locke and Condillac. `II.1 ¶34, II.1 n29` — QUOTED: Locke; Victor Cousin (endorsed)
+- Self-evident Universals, known without the senses, imply a higher evidence than sense and a latent superstantial nature, first in thought, which may be practically manifested at last in nature's circular progression. `II.1 ¶34` — ATWOOD
+- Aristotle likens Universals to colors needing the sun, and calls reason 'intellect in capacity', perfected only by a new awakening or divine recreation. `II.1 ¶34` — QUOTED: Aristotle (endorsed)
+- The Intellectual Law is an embryo image of Archetypal Wisdom, its occult essence. Moderns see the Law as a boundary of thought; ancients as the subject of nature's efficient force, proved in the conscience purified and returned into contact with its source. The true man is this Intellect. `II.1 ¶35` — ATWOOD
+- Aristotle: Wisdom is the highest science, from what is universal in oneself; small in bulk but surpassing in energy. By 'certain mystical exercises and preparations' the Understanding Medium contacts its Antecedent Cause, becoming a life in energy with a formerly occult discernment, inconceivable to the uninitiated. Intellect becomes one with the intelligible. `II.1 ¶37, II.1 n30, II.1 n31, II.1 n32` — QUOTED: Aristotle (endorsed)
+- Plato: self-knowledge is Wisdom; the soul entering itself and laying aside multitude beholds all things and Deity. Socrates and Diotima: Wisdom perfects the imperfect, calls forth latent Intellections, and ends inquiry. `II.1 ¶37, II.1 n33` — QUOTED: Plato; Socrates; Diotima (endorsed)
+- Archytas: Wisdom contemplates the whole and its Principles; who analyzes and recomposes all genera under one principle is wise, beholds Divinity, joins ends with beginnings, and knows God as principle, middle and end. `II.1 ¶37, II.1 n34` — QUOTED: Archytas (endorsed)
+- Wisdom is the whole of life returned into its principle in a sublime vision. Crito: Intellect is a God-given sight of God; mortals lack it through 'the essence of generation', not God. `II.1 ¶38, II.1 n35` — ATWOOD; QUOTED: Crito (endorsed)
+- Highest Intellect equals Wisdom, standing to the Intellectual Law as that Law to reasoning; its antecedent and end is God. Pythagoras, Iamblicus and the Neoplatonists affirm a latent Principle of Universal Science, knowable under specified conditions. `II.1 ¶39, II.1 n36, II.1 n37` — ATWOOD
+- The Egyptian 'Man should know himself' was meant 'experimentally and ontologically', though modern fancy takes such fables in a profane sense. `II.1 ¶39` — ATWOOD
+- Obstacles: the inwardly gifted rest in imaginary visions, reasoners turn to externals, the educated lack leisure. Universals serve only to ground possibility before the Hermetic mystery proper. `II.1 ¶39` — ATWOOD
+- Kabalists: absolute Idealism, the world an emanation of the superstantial Law of Light; the Zohar reveals the celestial prototype in humanity. `II.1 ¶40` — ATWOOD
+- Rabbis: creation falls from consciousness of its source for individual manifestation; a principle of reunion within will bring a higher restitution. They read scripture symbolically, set reason over authority, and found all on self-inquiry. `II.1 ¶41` — QUOTED: Hebrew Kabalists / Rabbis (endorsed)
+
+## Method
+
+- **subject** — “a Principle of Universal Science latent in human life, real and efficacious though cognizable only under certain conditions which they specify” `II.1 ¶39` (ATWOOD)
+  - **Plain (stated):** What the work seeks is a hidden faculty of universal knowledge that already exists, latent, within human life. It can be known only under specific conditions, which this chunk does not give.
+  - Also: “a superstantial nature of things implied which, though now latent and succeeding in order of time, is first in thought absolutely” `II.1 ¶34`
+  - Also: “calls forth the latent Intellections of the soul” `II.1 ¶37`
+- **agent** — “The term Intellect, as it is here taken in its highest sense, is synonymous with Wisdom” `II.1 ¶39` (ATWOOD)
+  - **Plain (stated):** In this chunk, 'Intellect' in its highest sense and 'Wisdom' name the same faculty. It is above both ordinary reasoning and the abstract Law of reason, and its antecedent and end is called God.
+  - Also: “And this was Wisdom, Intellect, Divination” `II.1 ¶35`
+  - Also: “Which essence, too, is Wisdom, and the faculty we are discussing” `II.1 ¶37`
+- **principle** — “that Archetypal Wisdom which the ancients celebrated as the occult essence of that Law” `II.1 ¶35` (ATWOOD)
+  - **Plain (stated):** The ordinary laws of reason, the self-evident principles everyone uses, are an 'embryo' image of a hidden Wisdom that is their real essence.
+  - Also: “an image, as it were, an embryo conception” `II.1 ¶35`
+- **principle** — “proclaims absolutely to be the catholic subject of the great efficient force of nature” `II.1 ¶35` (ATWOOD)
+  - **Plain (stated):** The ancients, unlike modern metaphysics, took the Law of reason as the universal subject of nature's main active force, not just a limit of thought.
+- **procedure** — “when this is purified and passed back into contacting experience with its source” `II.1 ¶35` (ATWOOD)
+  - **Plain (interpreted):** Two steps: the human conscience is first purified, then brought back into direct, experienced contact with its source.
+  - Basis: ¶35 gives the two-step sequence. ¶37 describes the same movement as the Understanding Medium passing 'into contact with its Antecedent Cause'. ¶38 calls it life 'returned into its principle'.
+  - Also: “being returned into its principle” `II.1 ¶38`
+- **procedure** — “by the help of certain mystical exercises and preparations, the human Understanding Medium is made to pass into contact with its Antecedent Cause” `II.1 ¶37` (QUOTED: Aristotle (as reported by Atwood, endorsed))
+  - **Plain (stated):** Specific practices and preparations bring the human understanding into contact with what causes it. This chunk does not say what the exercises are.
+- **result** — “it becomes to be a life in energy, and enjoys the most exalted and excellent faculty of discernment, which was before occult” `II.1 ¶37` (QUOTED: Aristotle (as reported by Atwood, endorsed))
+  - **Plain (stated):** After contact, the understanding becomes active, living energy and gains a power of discernment that was hidden before. Its knowledge is described as inexpressibly blessed.
+  - Also: “the knowledge of which is inexpressibly blessed” `II.1 ¶37`
+- **operator** — “not to be conceived of by such as are not duly initiated and capable of this deification” `II.1 ¶37` (QUOTED: Aristotle (as reported by Atwood, endorsed))
+  - **Plain (stated):** The operator must be properly initiated and capable of being 'deified'. Others cannot even conceive the result.
+  - Also: “Every science is difficult to treat of to the uninitiated mind” `II.1 ¶39`
+- **principle** — “it becomes intelligible by contact and intellection; and that Intellect is the same with the intelligible” `II.1 ¶37` (QUOTED: Aristotle (endorsed))
+  - **Plain (stated):** Knowing at this level happens by direct contact, in which the knowing intellect becomes identical with what it knows and receives the intelligible essence.
+  - Also: “the understanding recipient of the intelligible essence” `II.1 ¶37`
+- **procedure** — “the soul rightly entering into herself will behold all other things, and Deity itself” `II.1 ¶37` (QUOTED: Plato (endorsed); ATWOOD)
+  - **Plain (stated):** The way in is self-knowledge. When the soul turns inward rightly, it sees everything else and the divine. Atwood says the Egyptian 'know thyself' was meant as a practical, real procedure, not a moral saying.
+  - Also: “to know oneself is Wisdom and the highest virtue of the soul” `II.1 ¶37`
+  - Also: “this advice was meant experimentally and ontologically” `II.1 ¶39`
+  - Also: “inciting man to self-inquiry as the foundation and comprehending identity of every other” `II.1 ¶41`
+- **stage** — “laying aside multitude and the variety of all manifold powers which she contains, she ascends to the highest watchtower of beings” `II.1 ¶37` (QUOTED: Plato (endorsed))
+  - **Plain (stated):** The soul withdraws from the multiplicity of its own powers, converges on its own unity and the center of life, and so rises to the highest vantage point.
+  - Also: “as verging to her own union and to the center of all life” `II.1 ¶37`
+  - Also: “a beautiful place of survey, from which it will be possible to behold Divinity” `II.1 ¶37`
+- **result** — “Wisdom is defined to be that which gives perfection to things imperfect” `II.1 ¶37` (QUOTED: Socrates, Theaetus (endorsed))
+  - **Plain (stated):** Wisdom perfects what is imperfect. This chunk applies the phrase to the soul's latent intellections and does not relate it to any other subject.
+  - Also: “Wisdom is generative of truth and intellect” `II.1 ¶37`
+- **sign** — “that mind which is become wise needs not to investigate any further” `II.1 ¶37` (QUOTED: Diotima (endorsed, with Atwood's gloss))
+  - **Plain (stated):** A mark of attainment: inquiry ends, because the mind holds its true object (the 'true Intelligible') within itself.
+- **procedure** — “Whoever therefore is able to analyze all the genera which are contained under one and the same principle and again to compose and connumerate them, he appears to be wise” `II.1 ¶37` (QUOTED: Archytas (endorsed))
+  - **Plain (interpreted):** Wisdom shows itself in resolving all kinds of things into their single principle and putting them back together again: analysis, then recomposition.
+  - Basis: ¶37 (Archytas) presents analysis and recomposition under one principle as what marks the wise man and leads to the 'place of survey'. The chunk presents it as an intellectual capacity and does not apply it to any material operation.
+- **result** — “he will have conjoined ends with beginnings, and will know that God who is the principle, middle, and end of all things” `II.1 ¶37` (QUOTED: Archytas (endorsed))
+  - **Plain (stated):** The end of the course is a return to the origin, joining end with beginning, and knowledge of God as source, mean and goal of everything.
+  - Also: “in the circular progression of nature may be so practically manifested at last” `II.1 ¶34`
+- **stage** — “Wisdom implies the whole of life, being returned into its principle, and coming into the consciousness of a vision at once powerful and sublime” `II.1 ¶38` (ATWOOD)
+  - **Plain (stated):** Wisdom engages the whole of life, not thought alone. Life returns to its source and becomes conscious of a powerful vision.
+- **agent** — “gave him a sight called Intellect, which is capable of beholding God” `II.1 ¶38` (QUOTED: Crito (endorsed))
+  - **Plain (stated):** Intellect is an inner faculty of sight, given by God, through which God can be seen.
+  - Also: “as much excels all the other faculties as sight does the other corporeal senses” `II.1 ¶37`
+- **impediment** — “a kindred privation of Intellect; this however is not deprived by God but by the essence of generation” `II.1 ¶38` (QUOTED: Crito (endorsed))
+  - **Plain (stated):** In this life every mortal nature lacks Intellect; the cause is 'the essence of generation', not God. This chunk does not explain generation further.
+- **impediment** — “the enchantment which isolates the reflective faculty” `II.1 ¶33` (ATWOOD)
+  - **Plain (interpreted):** Ordinary reflective thinking is held apart, as if under a spell, from the Fontal Nature it seeks.
+  - Basis: ¶33: the enchantment 'disables it in the inquiry after that Fontal Nature'. ¶38: ordinary reason 'verges to sensibles and is dependent on them'.
+  - Also: “far above ordinary reason, since this verges to sensibles and is dependent on them” `II.1 ¶38`
+- **impediment** — “remain accordingly satisfied in the dreams and deluding visions of an included imagination” `II.1 ¶39` (ATWOOD)
+  - **Plain (stated):** One failure: people who have some real inner experience but ignore the rational ground mistake imaginary visions for it. The opposite failure is reasoners whose inquiry is drawn wholly to externals.
+  - Also: “in whom the spirit of inquiry is wholly drawn to externals” `II.1 ¶39`
+- **principle** — “intuition is the evidence and end of every rational proof” `II.1 ¶33` (ATWOOD)
+  - **Plain (stated):** All reasoning rests on, and ends in, direct intuition. This is Atwood's starting point for arguing that a higher, intuitive knowledge is possible.
+  - Also: “there is a higher evidence of truth than the senses afford” `II.1 ¶34`
+- **subject** — “he denominates human reason, intellect in capacity” `II.1 ¶34` (QUOTED: Aristotle (endorsed))
+  - **Plain (stated):** Ordinary human reason is intellect only in potential: it is subordinate to essential intellect and needs to be awakened.
+- **stage** — “it is from a new awakening, a divine recreation, as it were, that it conceives the full perfection of a life” `II.1 ¶34` (QUOTED: Aristotle (endorsed))
+  - **Plain (stated):** Reason reaches its perfection only through a new awakening, described as a kind of divine re-creation.
+- **agent** — “these require the splendor of the sun to discover their beauty, as do those the inspiring afflux of their frontal illumination” `II.1 ¶34` (QUOTED: Aristotle (endorsed))
+  - **Plain (stated):** The Universals in the mind need an inspiring inflow of illumination to show themselves, as colors need sunlight. Whether 'frontal' means coming from their source is unclear (see ambiguities).
+- **principle** — “the true man, according to Plato and Aristotelians, is this Intellect; for the essence of everything is the summit of its nature” `II.1 ¶35` (ATWOOD)
+  - **Plain (stated):** A man's real self is his highest faculty, Intellect, because a thing's essence is its highest part. Reason is therefore where man's divine source is likely to show itself.
+- **principle** — “the principle of reunion nevertheless abides in the generated life of individuals and will in process of time operate to a restitution and higher perfection” `II.1 ¶41` (QUOTED: Hebrew Kabalists / Rabbis (endorsed))
+  - **Plain (stated):** Created life falls from awareness of its source, yet carries within it a principle that will reunite it with that source in time, ending in a higher perfection than if there had been no fall.
+  - Also: “creation falls away always for the sake of individual manifestation, from the consciousness of its primal source” `II.1 ¶41`
+- **result** — “wherein reason becomes also into the substantive experience of her Law” `II.1 ¶39` (ATWOOD)
+  - **Plain (stated):** Under the right conditions, reason does not just think its Law abstractly. It experiences it as a real substance.
+
+## Terms
+
+- **Wisdom** — The highest faculty or science. It is the true being of Intellect, knows all things according to what is universal in oneself, is self-knowledge, perfects imperfect things, and deals with all things rather than one definite thing. (ATWOOD)
+  - = Intellect (highest sense): “The term Intellect, as it is here taken in its highest sense, is synonymous with Wisdom” `II.1 ¶39`
+  - = Intellect, Divination: “And this was Wisdom, Intellect, Divination” `II.1 ¶35`
+  - = the intelligible essence: “Which essence, too, is Wisdom, and the faculty we are discussing” `II.1 ¶37`
+  - = knowing oneself: “to know oneself is Wisdom and the highest virtue of the soul” `II.1 ¶37`
+  - = the science of truth which is in all beings: “Pythagoras himself defined Wisdom as the science of truth which is in all beings” `II.1 ¶39`
+  - “distinguishes Wisdom as the true being of that Intellect” `II.1 ¶37`
+  - “Wisdom is not conversant with a certain definite existing thing but simply with all things” `II.1 ¶37`
+- **Intellect** (also: intellect, True Intellect) — In ordinary use, the power by which we know and prove things demonstratively. In its highest sense, a sight capable of beholding God, identical with the intelligible it knows, and the true man. Mortals lack it through generation. (ATWOOD)
+  - = the true man: “the true man, according to Plato and Aristotelians, is this Intellect” `II.1 ¶35`
+  - = the intelligible: “that Intellect is the same with the intelligible” `II.1 ¶37`
+  - “gave him a sight called Intellect, which is capable of beholding God” `II.1 ¶38`
+  - “True Intellect, he says, is that which is essentially the most essential of that which is most essential” `II.1 ¶37`
+- **intellect in capacity** — Aristotle's name for human reason. It is subordinate to essential intellect and reaches its perfection only by a new awakening. (QUOTED: Aristotle)
+  - = human reason: “he denominates human reason, intellect in capacity” `II.1 ¶34`
+- **essential intellect** — The intellect to which human reason is subordinate. (QUOTED: Aristotle)
+  - “on account of its subordination to essential intellect” `II.1 ¶34`
+- **Intellectual Law** (also: the Law, Law) — The self-evident law of reason (intuition, Universals) that proves and orders ordinary inquiry. Moderns treat it as an abstract boundary of thought, the ancients as the subject of nature's efficient force. It stands to Intellect/Wisdom as the reasoning faculty stands to it. (ATWOOD)
+  - “that same Law which the former recognizes but as an abstract boundary of thought only, having its object in sensibles” `II.1 ¶35`
+  - “bears the same relation to our Intellectual Law as does this to the reasoning faculty” `II.1 ¶39`
+- **Archetypal Wisdom** — The hidden essence of the Intellectual Law, of which ordinary reason gives only an embryo image. (ATWOOD)
+  - = occult essence of the Intellectual Law: “that Archetypal Wisdom which the ancients celebrated as the occult essence of that Law” `II.1 ¶35`
+- **Universals** — General truths present in the mind independently of the senses. Their presence is offered as proof of a higher evidence and a latent superstantial nature. (ATWOOD)
+  - “this subsistence of Universals in the human mind deserves to be profoundly considered” `II.1 ¶34`
+  - “the independent evidence of Universals in the human intellect” `II.1 ¶39`
+- **intuition** (also: Intuitive faith) — Direct, self-evident knowing. It is the evidence and end of every rational proof, and the highest human certainty. (ATWOOD)
+  - “intuition is the evidence and end of every rational proof” `II.1 ¶33`
+  - “Intuitive faith is certain beyond all doubt, and needs no proof beyond itself” `II.1 ¶34`
+- **Absolute ground** — The ultimate foundation of knowledge. Philosophers dispute its conditions, but none deny that it is possible. (ATWOOD)
+  - “philosophers have disputed about the conditions and difficulty of the Absolute ground” `II.1 ¶33`
+- **Fontal Nature** — The source-nature that the reflective faculty necessarily craves but is disabled from reaching. (ATWOOD)
+  - “disables it in the inquiry after that Fontal Nature which, by a necessary criterion, it craves” `II.1 ¶33`
+- **superstantial** — Used of the latent 'nature of things' implied by intellectual necessity, first in thought though succeeding in time, and of the Kabalists' 'Law of Light'. This chunk does not define the word. (ATWOOD)
+  - “a superstantial nature of things implied which, though now latent and succeeding in order of time, is first in thought absolutely” `II.1 ¶34`
+  - “an emanation of the great superstantial Law of Light” `II.1 ¶40`
+- **Understanding Medium** — The human understanding, which by mystical exercises and preparations is made to pass into contact with its Antecedent Cause. (QUOTED: Aristotle (as reported by Atwood))
+  - “the human Understanding Medium is made to pass into contact with its Antecedent Cause” `II.1 ¶37`
+- **Antecedent Cause** — That with which the human Understanding Medium is made to pass into contact by mystical exercises and preparations. This chunk does not define it further. (QUOTED: Aristotle (as reported by Atwood))
+  - “the human Understanding Medium is made to pass into contact with its Antecedent Cause” `II.1 ¶37`
+- **incorporeal being** — Being without body, whose necessary existence Aristotle demonstrates. Glossed as 'essential' being. (ATWOOD)
+  - = essential being: “incorporeal (i.e., essential) being” `II.1 ¶37`
+- **deification** — The condition attained by contact of the understanding with its cause. Only the duly initiated are capable of it. (QUOTED: Aristotle (as reported by Atwood))
+  - “duly initiated and capable of this deification” `II.1 ¶37`
+- **the true Intelligible** (also: the intelligible, intelligible essence) — The proper object of intellectual inquiry, held within itself by the wise mind. The intellect receives it and becomes one with it. (ATWOOD)
+  - = the proper object of intellectual inquiry in itself: “(since it possesses the true Intelligible); that is to say, the proper object of intellectual inquiry in itself” `II.1 ¶37`
+- **Divine Exemplars** — The first and most beautiful objects that Wisdom deals with. They are undecaying and invariable, and other things are beautiful by participating in them. (QUOTED: Iamblicus (Atwood's gloss))
+  - = the first and most beautiful objects: “conversant with the first and most beautiful objects (i.e., the Divine Exemplars)” `II.1 ¶39`
+- **generation** — Its 'essence' is what deprives every mortal nature of Intellect in this life. This chunk does not define it further. (QUOTED: Crito)
+  - “this however is not deprived by God but by the essence of generation” `II.1 ¶38`
+- **Principle of Universal Science** — A real, efficacious principle latent in human life, cognizable only under specified conditions. (ATWOOD)
+  - “a Principle of Universal Science latent in human life, real and efficacious” `II.1 ¶39`
+- **Law of Light** — In the Kabalists' Idealism, the superstantial law from which the world emanates as an efflux of Mind. (QUOTED: Hebrew Kabalists)
+  - “the whole world was before their eyes as an efflux of Mind, an emanation of the great superstantial Law of Light” `II.1 ¶40`
+- **celestial prototype** — Something revealed 'in humanity' by the Zohar. This chunk gives no further explanation. (ATWOOD)
+  - “beams with the revelation of the celestial prototype in humanity” `II.1 ¶40`
+- **principle of reunion** — A principle abiding in the life of fallen individuals that will in time restore them to their source, in a higher perfection. (QUOTED: Hebrew Kabalists / Rabbis)
+  - “the principle of reunion nevertheless abides in the generated life of individuals” `II.1 ¶41`
+- **discursive faculty** — A faculty Atwood says is not used, any more than external facts, in the discovery of and assent to universal propositions. (ATWOOD)
+  - “there is no use of the discursive faculty or of external facts to witness” `II.1 ¶34`
+
+## Sources cited
+
+- **Locke**, *Essay* — “Intuitive faith is certain beyond all doubt, and needs no proof beyond itself” `II.1 ¶34` — Supports: intuition is the highest certainty. Locke's 'sensual system' is also criticized.
+- **Victor Cousin**, *Elements de Psycologie, etc., Paris 1836* `II.1 ¶34, II.1 n29` — Supports: he used the truth of intuitive certainty to shake the sensual system of Locke and Condillac.
+- **Condillac** `II.1 ¶34` — Criticized: his sensual system, along with Locke's.
+- **Aristotle**, *Metaphysics, book 1, cap. 2* `II.1 ¶37, II.1 n30` — Supports: Wisdom is the highest science, drawn from what is universal in oneself.
+- **Aristotle**, *Nichomachean Ethics (Ethics, Book 10, cap. 7)* `II.1 ¶37, II.1 n31` — Supports: Wisdom is the true being of Intellect, small in bulk but surpassing in energy.
+- **Aristotle**, *Metaphysics, Book 12, cap. 7* — “True Intellect, he says, is that which is essentially the most essential of that which is most essential” `II.1 ¶37, II.1 n32` — Supports: mystical exercises bring the understanding into contact with its cause; intellect is identical with the intelligible.
+- **Aristotle** `II.1 ¶34` — Illustrates: Universals compared to colors needing the sun; human reason called 'intellect in capacity'.
+- **Plato**, *First Alcibiades, page 90* — “to know oneself is Wisdom and the highest virtue of the soul” `II.1 ¶37, II.1 n33` — Supports: Wisdom is self-knowledge; the soul entering itself beholds Deity.
+- **Proclus**, *on the Theology of Plato, lib. 1, cap. 3* `II.1 n33, II.1 ¶39` — Reference only (with the First Alcibiades). Elsewhere named among the Neoplatonists who dilate on the same ground.
+- **Socrates**, *Republic; Theaetus* — “Wisdom is generative of truth and intellect” `II.1 ¶37` — Supports: Wisdom generates truth, perfects imperfect things and calls forth latent Intellections.
+- **Diotima**, *the Banquet* — “that mind which is become wise needs not to investigate any further” `II.1 ¶37` — Supports: the wise mind possesses its object within itself.
+- **Archytas (the Pythagorean)**, *Fragment given by Taylor in his Iamblichus’ Life of Pythagorus* — “he will have conjoined ends with beginnings” `II.1 ¶37, II.1 n34` — Supports: Wisdom contemplates the whole and discovers the Principles of Being, leading to a vision of Divinity.
+- **Crito**, *Idem, page 248* — “gave him a sight called Intellect, which is capable of beholding God” `II.1 ¶38, II.1 n35` — Supports: Intellect is a God-given sight; mortals lack it through generation.
+- **Pythagoras**, *Idem, chap. 29* — “the science of truth which is in all beings” `II.1 ¶39, II.1 n36` — Supports: a definition of Wisdom.
+- **Iamblicus**, *life of this Samian (Iamblichus’ Life of Pythagorus by Taylor, chap 2)* — “it is truly a science which is conversant with the first and most beautiful objects” `II.1 ¶39, II.1 n37` — Supports: Wisdom deals with undecaying first objects, by participation in which other things are beautiful.
+- **Taylor**, *Iamblichus’ Life of Pythagorus* `II.1 n34, II.1 n37` — Reference only: the edition used for the Pythagorean fragments.
+- **Porphyry** `II.1 ¶39` — Supports: named among the Neoplatonists who dilate on the same ground.
+- **Plotinus** `II.1 ¶39` — Supports: 'the graceful Plotinus', named among the Neoplatonists.
+- **Neoplatonists** `II.1 ¶39` — Supports: a latent Principle of Universal Science, cognizable under conditions.
+- **the Egyptians** — “that Man should know himself” `II.1 ¶39` — Supports: self-knowledge, meant 'experimentally and ontologically'.
+- **Hebrew Kabalists / Rabbis** `II.1 ¶40, II.1 ¶41` — Supports: absolute Idealism; creation's fall and reunion; reason over authority; self-inquiry.
+- **Liber Zohar**, *Liber Zohar* — “beams with the revelation of the celestial prototype in humanity” `II.1 ¶40` — Supports: reveals the celestial prototype in humanity and the covert fire in Holy Writ.
+- **Holy Writ / Pentateuch / Old Testament** `II.1 ¶40, II.1 ¶41` — Illustrates: read by the Kabalists as divine symbols.
+
+## Ambiguities
+
+- “the inspiring afflux of their frontal illumination” `II.1 ¶34`
+  - Reading: 'frontal' as printed: an illumination coming from in front of or upon the mind
+  - Reading: a misprint for 'fontal': illumination from their source
+  - Basis: ¶33 uses 'Fontal Nature' for the source reason craves, and the passage concerns Universals needing light from their source. The chunk has other evident typos ('won' for own, repeated phrases). The text as printed reads 'frontal'.
+- “being the self-evident antecedent and end of its inquiry, which, according to these philosophers, is God” `II.1 ¶39`
+  - Reading: 'which' refers to the antecedent and end, so the end of inquiry is God
+  - Reading: 'which' refers to Intellect/Wisdom itself, so Intellect in its highest sense is God
+  - Basis: ¶39 syntax allows either. ¶37 (Archytas) makes God the principle and end; ¶38 (Crito) makes Intellect the sight that beholds God, which favors the first reading.
+- “kindling into reminiscence the fire which burns covertly throughout Holy Writ” `II.1 ¶40`
+  - Reading: a figure for the hidden meaning or spirit of scripture that the Zohar brings to light
+  - Reading: a reference to a specific 'fire' related to the work
+  - Basis: ¶40 presents the Zohar as making the Pentateuch understood. ¶41 says the Kabalists interpret the Old Testament 'as divine symbols'. This chunk does not relate the fire to the work.
+- “in the circular progression of nature may be so practically manifested at last” `II.1 ¶34`
+  - Reading: the latent superstantial nature will become manifest at the end of nature's cycle generally
+  - Reading: it may be manifested practically in a person, as the return of end to beginning
+  - Basis: ¶34 says it is 'first in thought' but 'succeeding in order of time'. ¶37 (Archytas) has the wise man join 'ends with beginnings'; ¶41 has restitution 'in process of time'.
+
+## Threads
+
+- `II.1 ¶33` 'satisfaction is thus denied to modern inquiry' and 'seeing it thus doubly implied' point back to argument preceding this chunk; what was shown is not stated here.
+- `II.1 ¶39` The 'certain conditions which they specify' for knowing the Principle of Universal Science are not given here.
+- `II.1 ¶39` Forward: having derived a rational ground of possibility, Atwood will 'proceed with the tradition of the Hermetic mystery and more tangible effects'.
+- `II.1 ¶37` The 'certain mystical exercises and preparations' are named but not described.

@@ -1,0 +1,247 @@
+# II.2_01
+
+*Opens the chapter on the Mysteries: identifies the Hermetic Art with Greek Theurgy, rejects modern readings of the Mysteries as fraud or mere symbolism, insists the rites really procured Ontological Wisdom and purification of the soul, and argues that modern Mesmerism works in the same material as the ancients but without their principles, discipline or aim of purifying the Vital Spirit.*
+
+## Argument
+
+- Epigraph: the path to Deity is arduous; its first gates are bound with chains of brass; Egyptians disclosed the road by actions, and other ancient peoples knew it. `II.2 ¶1` — QUOTED: Oracle of Apollo, from Eusebius
+- The Greeks borrowed the Hermetic Art with their metaphysics from Egyptians and Persians, whose temples nearly every noted philosopher visited. `II.2 ¶2` — ATWOOD
+- The Hermetic Art or Art of Divine works was called Theurgy by the Greeks, practised at Eleusis. Inquirers dismissed the Mysteries as priestly pantomime; yet Church Fathers carried their language, disciplines and rites into Christian worship, and Clemens Alexandrinus called them "blessed". `II.2 ¶3` — ATWOOD
+- Modern interpreters rejected: Warburton (political fraud; greater mysteries meant to nullify the lesser), Sainte Croix (astronomical), Gebelin and La Pluche (agricultural), Antiquity Unveiled (religious melancholy); even Thomas Taylor (immaterial ceremonies representing abstract truths). None credit a discovery of the Wisdom professed. `II.2 ¶4` — ATWOOD
+- Antiquity holds philosophy, i.e. Ontological Wisdom, as the object of initiation and the rites as really efficacious to procure it. They were called Initia as the beginning of a life of reason and virtue, raising men from a brutal life and to hope of blessed immortality. `II.2 ¶4` — ATWOOD
+- Promised only to Greater Mysteries initiates: assimilation and final contact with the identity whence we first descend. Iamblicus: Theurgists reached the Wisdom of true Being by divinely potent arts and ineffable media, not contemplation or faith. Heraclitus called these medicines of imperfect souls; they healed bodies too. `II.2 ¶5` — QUOTED: Pythagoreans, Plato, Iamblicus, Heraclitus (endorsed)
+- Strabo: philosophy was the Eleusinian object. Servius: Bacchic rites purified souls. The Greeks held the rites secured the states' welfare and gave moral enlightenment and purification; without them existence was a living death. Tragedians (Euripides, Sophocles) made chief felicity consist in them. `II.2 ¶5` — QUOTED: Strabo, Servius, the Greeks, Euripides, Sophocles
+- Clemens: the Greater Mysteries unveiled nature; the Lord is hierophant, sealing the adept. The church hid its mysteries, especially the final apotheosis, using obscure terms only initiates grasp (Cyrillus). `II.2 ¶5` — QUOTED: Clemens Alexandrinus, St Cyrillus
+- A secret attached to Ethnic and Christian celebrations, distinct from ordinary worship, which never essentially changes the state of life. `II.2 ¶5` — ATWOOD
+- Writers on Animal Magnetism suggest their Trance reveals the temple mysteries, but none rose above therapy or studied the ancient rites; with that key they would see the ancients sought far superior results. `II.2 ¶6` — ATWOOD
+- Mesmerism relieves pain and cures, but lucidity, prevision and community of sense, will and thought led nowhere further; the science has retrograded. `II.2 ¶6, II.2 n10` — ATWOOD
+- Mesmerism's best effects are trifles beside the Sacred Art's Wisdom, Self-Knowledge and immortality. It has not investigated the subject-being causing its effects; sleepwalkers lack a guide and discrimination; the Universal Medium is taken in its natural state, without knowing how to improve, raise or lower it; tests only identify the same Imponderable. `II.2 ¶7` — ATWOOD
+- The ancients worked the same material with similar instruments, but on established principles. Theurgists condemned the natural Spirit as degraded, passed its first revelations in the Lesser Mysteries, dissolved the medium further, and separated the Vital Spirit from defilements and sense-impressions obscuring the divine eye, through which, purified, all truth is perceived. `II.2 ¶8` — ATWOOD
+- Surviving Neoplatonists (Plotinus, Proclus, Porphyry, Synesius, Iamblicus) show the Spirit's disease and clarification; by lustrations the soul is liberated into a divine condition. `II.2 ¶9` — ATWOOD
+
+## Method
+
+- **principle** — “Now the Egyptians, that is the Hermetic Art, or Art of Divine works, was by the Greeks called Theurgy” `II.2 ¶3` (ATWOOD)
+  - **Plain (stated):** The Hermetic Art (the Egyptian 'Art of Divine works') is the same thing the Greeks called Theurgy, practised in the Mysteries at Eleusis and other temples.
+  - Basis: II.2 ¶3 asserts the identity directly; ¶7 calls it the ancients' Sacred Art.
+  - Also: “if we connect it with the ancients’ Sacred Art” `II.2 ¶7`
+- **result** — “philosophy, that is to say, Ontological Wisdom, as the true object of initiation” `II.2 ¶4` (ATWOOD)
+  - **Plain (stated):** The goal of initiation was real knowledge of Being (Ontological Wisdom), not ceremony or allegory.
+  - Basis: II.2 ¶4 glosses philosophy as Ontological Wisdom; ¶5 Iamblicus: 'the Wisdom of true Being'; Strabo: philosophy the object of the Eleusinian rites.
+  - Also: “became cognizant partakers in the Wisdom of true Being” `II.2 ¶5`
+  - Also: “philosophy, according to Strabo, was the object of the Eleusian rites” `II.2 ¶5`
+- **principle** — “represents the rites themselves as really efficacious to procure it” `II.2 ¶4` (ATWOOD)
+  - **Plain (stated):** The rites actually produced the Wisdom; they were not representations of abstract truths (the view Atwood rejects in Taylor).
+  - Basis: II.2 ¶4 contrasts this with Taylor's 'immaterial ceremonies, representations at best of abstract philosophic truths'.
+- **procedure** — “by certain ineffable and sublime media that Theurgists became cognizant partakers in the Wisdom of true Being” `II.2 ¶5` (QUOTED: Iamblicus (endorsed))
+  - **Plain (stated):** Theurgists reached the Wisdom by effective operative means ('arts divinely potent'), not by contemplation, belief or symbolic representation. This chunk does not say what the media were.
+  - Basis: II.2 ¶5 states the contrast explicitly; the nature of the media is not given.
+  - Also: “it was by arts divinely potent, and not by theoretic contemplation only or by mere doctrinal faith or representations either of reality” `II.2 ¶5`
+- **agent** — “Heraclitus calls these medicines, as being the help and remedy of imperfect souls” `II.2 ¶5` (QUOTED: Heraclitus (endorsed))
+  - **Plain (stated):** The theurgic media are called 'medicines' because they heal imperfect souls; they could heal the body too.
+  - Basis: II.2 ¶5 gives the reason for the name and adds 'they possessed a power of healing the body likewise'.
+- **stage** — “Initia, for they were the beginning of a life of reason and virtue” `II.2 ¶4` (QUOTED: the Platonist, Psellus, Cicero (endorsed))
+  - **Plain (stated):** Initiation marks the start of a new rational and virtuous life, lifting one out of an irrational, brutal life and toward hope of immortality.
+  - Basis: II.2 ¶4 explains the name.
+- **result** — “an assimilation was induced, and final contact with the object of rational inquiry, which is that identity whence, as a principle, we make our first descent” `II.2 ¶5` (QUOTED: the Pythagoreans, Plato in Phaedo (endorsed))
+  - **Plain (stated):** The final result, granted only in the Greater Mysteries, is becoming like and touching the original source from which the soul first descended.
+  - Basis: II.2 ¶5 defines the object as 'that identity whence ... we make our first descent'; restriction to Greater Mysteries stated in same paragraph.
+  - Also: “to those who were initiated in the Greater Mysteries only” `II.2 ¶5`
+- **procedure** — “the sacred rites of Bacchus pertained to the purification of souls” `II.2 ¶5` (QUOTED: Servius (endorsed))
+  - **Plain (interpreted):** The rites worked by purifying the soul; one kind of purgation in Bacchic rites was an 'airing' of the soul. This chunk does not explain the airing.
+  - Basis: II.2 ¶5 Servius and the Latin (translation ours for the second phrase); ¶5 'moral enlightenment and purification of life'; ¶9 lustrations liberate the soul.
+  - Also: “Animae aere ventilatur, quod erat in sacris Liberi purgationis genus.” `II.2 ¶5`
+  - Also: “celebrating orgies in the mountains with holy purifications” `II.2 ¶5`
+- **result** — “nature and all things she contains were unveiled” `II.2 ¶5` (QUOTED: Clemens Alexandrinus)
+  - **Plain (stated):** In the Greater Mysteries instruction ended in a direct revelation of the whole of nature.
+  - Basis: II.2 ¶5: 'The doctrine of the Greater Mysteries ... related to the whole universe; here all instruction ended'.
+  - Also: “At the light of torches the veil that covers deity and heaven falls off.” `II.2 ¶5`
+- **agent** — “it is the Lord himself who is the hierophant; he sets his seal upon the adept whom he illuminates with his beams” `II.2 ¶5` (QUOTED: Clemens Alexandrinus)
+  - **Plain (interpreted):** The true initiator is the divine itself, which marks and illuminates the initiate.
+  - Basis: II.2 ¶5, Clemens' words; Atwood does not gloss them.
+- **principle** — “except in obscure terms, in such a manner, however, as that the faithful who are initiated may comprehend, and the rest be discouraged” `II.2 ¶5` (QUOTED: St Cyrillus)
+  - **Plain (stated):** The mysteries, especially the 'final apotheosis', were deliberately spoken of only in enigmas readable by initiates, to deter the uninitiated.
+  - Basis: II.2 ¶5 St Cyrillus, and 'the usage of the church as not to discover its mysteries to the profane'.
+  - Also: “For by these enigmas the Dagon is overthrown” `II.2 ¶5`
+- **result** — “There was undoubtedly a secret, hanging about these celebrations, both Ethnic and Christian” `II.2 ¶5` (ATWOOD)
+  - **Plain (interpreted):** The Mysteries held a secret that, unlike ordinary worship, essentially changed the initiate's state of life.
+  - Basis: II.2 ¶5: ordinary worship 'might indeed be perpetuated anywhere ... without essentially, changing the state of life', implying the Mysteries do change it.
+- **result** — “the Self-Knowledge and perfection of life and immortality promised” `II.2 ¶7` (ATWOOD)
+  - **Plain (stated):** The higher Mysteries promised Supreme Wisdom, Self-Knowledge, perfection of life and immortality.
+  - Basis: II.2 ¶7.
+  - Also: “the Supreme Wisdom they investigated” `II.2 ¶7`
+- **subject** — “suggest their Trance and its phenomena as a revelation of the temple mysteries” `II.2 ¶6` (ATWOOD)
+  - **Plain (interpreted):** Atwood treats the mesmeric trance as a possible 'key' to the temple mysteries, but only a starting point; the ancients pursued far higher results through Theurgic disciplines.
+  - Basis: II.2 ¶6 'with that key in hand' (referent not explicit: the Trance or inquiry into the ancient rites); ¶7 'if we connect it with the ancients’ Sacred Art'; ¶8 same material and instruments.
+  - Also: “with that key in hand” `II.2 ¶6`
+- **subject** — “although working in the same material and with similar instruments, on the same ground, yet their practice was different” `II.2 ¶8` (ATWOOD)
+  - **Plain (stated):** Mesmerists and the ancient Theurgists worked on the same material with similar means; the difference lay in principles and aim.
+  - Basis: II.2 ¶8, continuing the comparison with Mesmerism in ¶7.
+  - Also: “it was conducted upon established principles and with a truly philosophic as well as benevolent aim” `II.2 ¶8`
+- **subject** — “the subject-being, the cause of its own effects” `II.2 ¶7` (ATWOOD)
+  - **Plain (interpreted):** The effects of Mesmerism have a cause in a 'subject-being' that mesmerists have not investigated. This chunk does not further define it.
+  - Basis: II.2 ¶7 rhetorical question about Mesmerism's failure to investigate it.
+- **subject** — “the Universal Medium” `II.2 ¶7` (ATWOOD)
+  - **Plain (interpreted):** The medium that mesmerism uses is capable of improvement, of ascending or descending, and has a 'right determination'; mesmerists take it in its natural state. ¶8 speaks of the ancients dissolving 'the medium' further (referent: see ambiguities).
+  - Basis: II.2 ¶7 'having no knowledge of the capabilities or means of improvement, whither it is able to ascend or descend, or what is its right determination'; ¶8 'dissolve the medium more entirely'.
+  - Also: “identify the same Imponderable through all” `II.2 ¶7`
+- **impediment** — “Our sleepwalkers are little better than dreamers” `II.2 ¶7` (ATWOOD)
+  - **Plain (stated):** Entranced subjects left to themselves lack a guide, cannot develop their latent faculties, and cannot tell true revelations from false.
+  - Basis: II.2 ¶7 continues: 'without a guide, unable of themselves to educate their latent talents, or discriminate truth from falsehood in their revelations'.
+  - Also: “repeating the same mechanical operations, and witnessing similar effects continually over and over again” `II.2 ¶7`
+- **impediment** — “condemn the Spirit of the natural life as degraded and incapable of true intelligence” `II.2 ¶8` (QUOTED: Theurgists (endorsed))
+  - **Plain (stated):** The spirit in its ordinary natural state is unfit for true knowledge; its first-level revelations (cf. the mesmeric revelations criticized in ¶7) are not to be valued.
+  - Basis: II.2 ¶8: 'nor did they therefore value the revelations of its first included sphere'.
+- **stage** — “passing these, as it appears, in the Lesser Mysteries, to dissolve the medium more entirely” `II.2 ¶8` (ATWOOD)
+  - **Plain (interpreted):** The Lesser Mysteries apparently covered and went beyond the first sphere of natural-spirit revelations; the work then went on to a fuller dissolution of the medium.
+  - Basis: II.2 ¶8 ('as it appears' is Atwood's own hedge); ¶5 restricts the final promise to the Greater Mysteries.
+- **procedure** — “to segregate the Vital Spirit away from those defilements and imaginative impressures which, by the birth into sense, had become implanted there” `II.2 ¶8` (ATWOOD)
+  - **Plain (stated):** The core operation: separate the Vital Spirit from the impurities and imprinted images acquired through embodiment in the senses, which obscure intelligence.
+  - Basis: II.2 ¶8.
+- **result** — “that divine eye which, as Plato says, is better worth than 10,000 corporeal eyes” `II.2 ¶8` (ATWOOD)
+  - **Plain (stated):** An inner faculty of perception, once purified and strengthened by appropriate aids, sees the truth of all beings.
+  - Basis: II.2 ¶8: 'by looking through this alone, when it is purified and strengthened by appropriate aids, the truth pertaining to all beings is perceived'.
+- **impediment** — “in what the disease of the Spirit consists, and from what cause it falsifies and is dulled” `II.2 ¶9` (ATWOOD)
+  - **Plain (stated):** The Spirit is in a diseased state that makes it give false and dulled results; the Neoplatonists explain this in part.
+  - Basis: II.2 ¶9; this chunk does not itself describe the disease.
+- **result** — “how it becomes clarified and defecated, and restored to its innate simplicity” `II.2 ¶9` (ATWOOD)
+  - **Plain (stated):** The Spirit is cleared and purged of its dregs, returning to its original simple state; by the lustrations the soul is freed into a divine condition.
+  - Basis: II.2 ¶9.
+  - Also: “by the lustrations in the Mysteries, as they describe, the soul becomes liberated and passes into a divine condition of being” `II.2 ¶9`
+- **impediment** — “And the strong massy gates thro’ which we pass, In our first course, are bound with chains of brass;” `II.2 ¶1` (QUOTED: Oracle of Apollo, from Eusebius)
+  - **Plain (interpreted):** The first stage of the path is barred and hard to pass. This chunk does not explain the image.
+  - Basis: II.2 ¶1 epigraph only; the road was 'Disclosed by actions infinite', consistent with ¶5's emphasis on operative arts, but not explained.
+  - Also: “Disclosed by actions infinite this road.” `II.2 ¶1`
+
+## Terms
+
+- **Hermetic Art** — The Egyptian art of divine works, known to the Greeks as Theurgy and practised in the Mysteries. (ATWOOD)
+  - = Theurgy: “Now the Egyptians, that is the Hermetic Art, or Art of Divine works, was by the Greeks called Theurgy” `II.2 ¶3`
+  - = Art of Divine works: “the Hermetic Art, or Art of Divine works” `II.2 ¶3`
+  - “the Greeks were not ignorant of the Hermetic Art” `II.2 ¶2`
+- **Theurgy** (also: Theurgists, Theurgic, Theurgical) — Greek name for the Hermetic Art; the practice of the Mysteries by which Theurgists partook of the Wisdom of true Being through divinely potent arts. (ATWOOD)
+  - = Hermetic Art: “Now the Egyptians, that is the Hermetic Art, or Art of Divine works, was by the Greeks called Theurgy” `II.2 ¶3`
+  - “through their Theurgic disciplines” `II.2 ¶6`
+  - “The Neoplatonists wrote largely of the Theurgical art” `II.2 ¶9`
+- **Sacred Art** — The ancients' art practised in the Mysteries, compared with Mesmerism. (ATWOOD)
+  - “if we connect it with the ancients’ Sacred Art” `II.2 ¶7`
+- **Mysteries** (also: mysteries, temple mysteries, higher Mysteries) — The initiatory rites (Ethnic and Christian) whose object was Ontological Wisdom and which really procured it; they held a secret distinct from ordinary worship. (ATWOOD)
+  - “There was undoubtedly a secret, hanging about these celebrations, both Ethnic and Christian” `II.2 ¶5`
+- **Greater Mysteries** (also: greater mysteries) — The higher grade of initiation, to which alone assimilation and final contact with the first principle were promised; their doctrine related to the whole universe. (ATWOOD)
+  - “to those who were initiated in the Greater Mysteries only” `II.2 ¶5`
+  - “The doctrine of the Greater Mysteries, says Clemens Alexandrinus, related to the whole universe” `II.2 ¶5`
+- **Lesser Mysteries** (also: lesser) — The first grade, in which, it appears, the revelations of the natural spirit's first sphere were passed. (ATWOOD)
+  - “passing these, as it appears, in the Lesser Mysteries” `II.2 ¶8`
+- **Initia** — Name for the Mysteries, as the beginning of a life of reason and virtue. (QUOTED: the Platonist, Psellus, Cicero)
+  - “they were truly called Initia, for they were the beginning of a life of reason and virtue” `II.2 ¶4`
+- **Ontological Wisdom** — Philosophy in the true sense: the knowledge of Being that was the object of initiation. (ATWOOD)
+  - = philosophy: “philosophy, that is to say, Ontological Wisdom” `II.2 ¶4`
+  - “the Wisdom of true Being” `II.2 ¶5`
+- **medicines** — Heraclitus' name for the theurgic media, as remedies of imperfect souls; they also healed the body. (QUOTED: Heraclitus)
+  - “Heraclitus calls these medicines, as being the help and remedy of imperfect souls” `II.2 ¶5`
+- **purification** (also: purifications, purgationis) — Cleansing of the soul, the function of the Bacchic rites and a chief benefit of the Mysteries. (QUOTED: Servius)
+  - “the sacred rites of Bacchus pertained to the purification of souls” `II.2 ¶5`
+  - “moral enlightenment and purification of life” `II.2 ¶5`
+- **lustrations** — Purificatory rites of the Mysteries by which the soul is liberated into a divine condition. (ATWOOD)
+  - “by the lustrations in the Mysteries, as they describe, the soul becomes liberated and passes into a divine condition of being” `II.2 ¶9`
+- **hierophant** — In Clemens, the Lord himself, who seals and illuminates the adept; not otherwise defined here. (QUOTED: Clemens Alexandrinus)
+  - “it is the Lord himself who is the hierophant” `II.2 ¶5`
+- **adept** — The initiate whom the Lord illuminates and seals. (QUOTED: Clemens Alexandrinus)
+  - “he sets his seal upon the adept whom he illuminates with his beams” `II.2 ¶5`
+- **apotheosis** — The final stage of the church's mysteries, kept most secret; not further explained here. (ATWOOD)
+  - “especially those that relate to the final apotheosis” `II.2 ¶5`
+- **orgies** — The rites or celebrations of the Mysteries. (QUOTED: Clemens Alexandrinus)
+  - “These are the orgies of the Mysteries” `II.2 ¶5`
+- **Animal Magnetism** — The modern discovery producing Trance and healing effects; names for an unknown agency. (ATWOOD)
+  - = Mesmerism: “Animal Magnetism, or Mesmerism, or Vital Magnetism, or by whatever other term the unknown agency is better expressed” `II.2 ¶6`
+  - = Vital Magnetism: “Animal Magnetism, or Mesmerism, or Vital Magnetism” `II.2 ¶6`
+  - “the unknown agency” `II.2 ¶6`
+- **Trance** — The mesmeric state, suggested by some writers as revealing the temple mysteries; Atwood treats it as a key not yet carried beyond therapy. (ATWOOD)
+  - “suggest their Trance and its phenomena as a revelation of the temple mysteries” `II.2 ¶6`
+- **lucidity** — One of the ordinary mesmeric phenomena, with prevision and community of sense, will and thought. (ATWOOD)
+  - “The ordinary phenomena of lucidity, prevision, community of sense, will, and thought” `II.2 ¶6`
+- **Universal Medium** (also: medium) — The medium at work in mesmerism, which can be improved, ascend or descend, and has a right determination; mesmerists take it as it naturally presents; the ancients dissolved it further. (ATWOOD)
+  - “as respects the Universal Medium, they even, who believe in such a thing, take it as it presents itself naturally” `II.2 ¶7`
+  - “to dissolve the medium more entirely” `II.2 ¶8`
+- **Imponderable** — What mesmeric tests have identified as the same throughout; not further defined here. (ATWOOD)
+  - “prove nothing but to identify the same Imponderable through all” `II.2 ¶7`
+- **subject-being** — The cause of mesmerism's own effects, which mesmerism has not investigated. (ATWOOD)
+  - “the subject-being, the cause of its own effects” `II.2 ¶7`
+- **Spirit of the natural life** (also: Spirit) — The spirit in its natural state, degraded and incapable of true intelligence; diseased, falsifying and dulled until clarified. (ATWOOD)
+  - “condemn the Spirit of the natural life as degraded and incapable of true intelligence” `II.2 ¶8`
+  - “in what the disease of the Spirit consists” `II.2 ¶9`
+- **Vital Spirit** — The spirit to be separated from defilements and sense-impressions implanted by birth into sense. (ATWOOD)
+  - “to segregate the Vital Spirit away from those defilements and imaginative impressures” `II.2 ¶8`
+- **impressures** — Imaginative impressions implanted in the Vital Spirit by birth into sense, obscuring intelligence. (ATWOOD)
+  - “imaginative impressures which, by the birth into sense, had become implanted there” `II.2 ¶8`
+- **divine eye** — Inner faculty of perception which, purified and strengthened, perceives the truth of all beings. (ATWOOD)
+  - “that divine eye which, as Plato says, is better worth than 10,000 corporeal eyes” `II.2 ¶8`
+- **Self-Knowledge** — One of the goods promised to initiates of the higher Mysteries. (ATWOOD)
+  - “the Self-Knowledge and perfection of life and immortality promised” `II.2 ¶7`
+- **Ethnic** — Used in contrast to Christian ('both Ethnic and Christian'); not further defined here. (ATWOOD)
+  - “both Ethnic and Christian” `II.2 ¶5`
+
+## Sources cited
+
+- **Oracle of Apollo, from Eusebius** — “The Path by which to Deity we climb Is arduous, rough, ineffable, sublime;” `II.2 ¶1` — Epigraph: the path to Deity is hard and was disclosed by Egyptians and other ancient peoples.
+- **Alexandrians** `II.2 ¶3` — Their enthusiasm for the Mysteries cited as evidence of their high regard.
+- **Iamblichus / Iamblicus**, *Iamblicus on the Mysteries; Taylor, p. 109* — “by certain ineffable and sublime media that Theurgists became cognizant partakers in the Wisdom of true Being” `II.2 ¶3, II.2 ¶5, II.2 ¶9, II.2 n7` — Supports: the rites worked by divinely potent arts, not contemplation or representation; also listed among Neoplatonists who describe the Mysteries.
+- **St Augustine** `II.2 ¶3, II.2 ¶9` — Church Father who adopted the language and rites of the Mysteries; quotes many lost Neoplatonist books.
+- **Cyrillus / St Cyrillus** — “except in obscure terms, in such a manner, however, as that the faithful who are initiated may comprehend, and the rest be discouraged” `II.2 ¶3, II.2 ¶5, II.2 n9` — Church Father adopting the Mysteries' rites; supports that the church veiled its mysteries in enigmas.
+- **Synesius** `II.2 ¶3, II.2 ¶9` — Church Father adopting the Mysteries' rites; also among writers who describe the Mysteries.
+- **Clemens Alexandrinus** — “O mysteries truly sacred, O pure light!” `II.2 ¶3, II.2 ¶5, II.2 n9` — Supports: called the Mysteries 'blessed'; describes the Greater Mysteries as unveiling nature, the Lord as hierophant.
+- **Warburton**, *Divine Legation, vol. 1* `II.2 ¶4, II.2 n1, II.2 n8` — Criticized: saw the Mysteries as political fraud; his notions obsolete. Divine Legation also cited as reference in n8.
+- **Sainte Croix / St Croix**, *des Mysteres, 2 vols, 8 vo.* `II.2 ¶4, II.2 n2` — Criticized: thorough research but astronomical and superficial reading.
+- **Gebelin**, *Monde Primitif* `II.2 ¶4, II.2 n3` — Criticized: agricultural interpretation.
+- **La Pluche**, *des Cieux* `II.2 ¶4, II.2 n3` — Criticized: agricultural interpretation.
+- **the author of Antiquity Unveiled**, *L’Antiquitie devoilee par ses Usages, etc.* `II.2 ¶4, II.2 n4` — Criticized: saw the Mysteries as a depository of religious melancholy of the first men.
+- **Thomas Taylor**, *Dissertation on the Eleusinian and Bacchic Mysteries (footnote attached to his sentence)* `II.2 ¶4, II.2 n5, II.2 n7` — Qualified: examined philosophically but still treated the rites as immaterial ceremonies representing abstract truths. Taylor also named in n7 alongside 'Iamblicus on the Mysteries'.
+- **the Platonist** `II.2 ¶4` — Supports (previously cited): the Mysteries were called Initia.
+- **Psellus** `II.2 ¶4` — Supports (previously cited): the Mysteries were called Initia.
+- **Cicero**, *DeLegibus, lib. 2, cap. 14* `II.2 ¶4, II.2 n6` — Supports: Initia as beginning of a life of reason and virtue and hope of immortality.
+- **the Pythagoreans** `II.2 ¶5` — Supports: Greater Mysteries induce assimilation and final contact with the first principle.
+- **Plato**, *Phaedo* — “better worth than 10,000 corporeal eyes” `II.2 ¶5, II.2 ¶8` — Supports: assimilation through the Greater Mysteries; the divine eye.
+- **Heraclitus** `II.2 ¶5` — Supports: the theurgic media are medicines of imperfect souls.
+- **temples of Esculapius** `II.2 ¶5` — Illustrates: bodily healing extensively practised with minor physico-magical arts.
+- **Strabo** `II.2 ¶5` — Supports: philosophy was the object of the Eleusinian rites.
+- **Servius, commenting on Virgil** — “Libris patris sacra ad purgationem animarum pertinebant” `II.2 ¶5` — Supports: Bacchic rites served purification of souls.
+- **Euripides**, *Bacchis* — “I was blessed when I got a sight of the mysteries” `II.2 ¶5, II.2 n8` — Illustrates: the people placed chief felicity in the Mysteries; first quote spoken 'by Hercules', second from Bacchis.
+- **Sophocles** — “Life only is to be had there, all other places are full of misery and evil” `II.2 ¶5, II.2 n8` — Illustrates the same.
+- **Praetextus**, *Hist. Nov. lib. 4* `II.2 n8` — Reference only.
+- **Des Septchenes / De Septchenes**, *Religion of the Greeks, chap. 2* `II.2 n8, II.2 n9` — Reference only; source of extracts for Clemens and Cyrillus.
+- **writers on Animal Magnetism** `II.2 ¶6` — Qualified: rightly link Trance to temple mysteries but do not go beyond therapy.
+- **Zoist**, *Zoist* `II.2 n10` — Reference only, for mesmeric cures.
+- **De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet** `II.2 ¶6` — Praised as faithful pioneers of Mesmerism, since whom the science has retrograded.
+- **the Neoplatonists: Plotinus, Proclus, Porphyry, Synesius, Iamblicus** `II.2 ¶9` — Supports: their surviving writings show the nature of the Mysteries, the disease of the Spirit and its clarification.
+
+## Ambiguities
+
+- “Now the Egyptians, that is the Hermetic Art, or Art of Divine works, was by the Greeks called Theurgy” `II.2 ¶3`
+  - Reading: The Egyptians' art, i.e. the Hermetic Art, was called Theurgy by the Greeks (grammar defective).
+  - Reading: Read literally the sentence equates 'the Egyptians' with the Hermetic Art.
+  - Basis: Singular 'was' and the following 'practiced at Eleusis' fit the art, not the people; ¶2 says the Greeks borrowed the Art from the Egyptians.
+- “to dissolve the medium more entirely” `II.2 ¶8`
+  - Reading: 'the medium' is the Universal Medium of ¶7.
+  - Reading: 'the medium' is the Spirit of the natural life / Vital Spirit named in the same sentence.
+  - Basis: ¶7 discusses the Universal Medium's capacity for improvement; ¶8's sentence goes on to segregate the Vital Spirit, suggesting they may be one subject.
+- “identify the same Imponderable through all” `II.2 ¶7`
+  - Reading: The Imponderable is the Universal Medium named in the previous sentence.
+  - Reading: A distinct agent identified by experiments.
+  - Basis: Adjacent sentences in ¶7; no explicit identity asserted.
+- “by certain ineffable and sublime media” `II.2 ¶5`
+  - Reading: Operative means akin to the mesmeric agency, given ¶8 'working in the same material and with similar instruments'.
+  - Reading: Unspecified rites whose nature this chunk withholds.
+  - Basis: ¶5 gives no content; ¶6–¶8 link Mesmerism to the ancients' practice.
+
+## Translations
+
+- `II.2 ¶5` “Libris patris sacra ad purgationem animarum pertinebant” → the sacred rites of Bacchus pertained to the purification of souls *(book)*
+- `II.2 ¶5` “Animae aere ventilatur, quod erat in sacris Liberi purgationis genus.” → The soul is aired (ventilated) by air, which was a kind of purification in the rites of Liber. *(ours)*
+- `II.2 ¶4` “Initia” → the beginning of a life of reason and virtue *(book)*
+
+## Threads
+
+- `II.2 ¶2` "We have shown in our history that the Greeks were not ignorant of the Hermetic Art" — refers to Atwood's earlier historical account.
+- `II.2 ¶4` "the Platonist and Psellus, before cited to the point" — earlier citations on the Mysteries as Initia.
+- `II.2 ¶6` "Previous, however, to more fully entering" — a fuller treatment of the Mysteries is to follow.
+- `II.2 ¶9` "besides those before named" — Neoplatonist authors previously named.

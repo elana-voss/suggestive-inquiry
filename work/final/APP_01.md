@@ -1,0 +1,343 @@
+# APP_01
+
+*The Appendix opens Atwood's 'Table Talk and Memorabilia' (begun August 1860): numbered aphorisms restating alchemy as a repeated fermentation of the vital spirit in the body and blood, by which the third or lowest life is released and raised through the medial life, with glosses on Hermetic images, a doctrine of three Lives to be reversed, and warnings that will and intention must be pure and subject to God.*
+
+## Argument
+
+- The Egyptians' magic of self-will frees the third or lowest life, unknown in ordinary life or sleep-walkers' trance; present life reaches it through the clairvoyant life by self-fermentation. `APP ¶2` — ATWOOD
+- Life fermented by its similar enters trance; fermented again, the third life, moving with the creative Essence; mind then acts the Universal Vitalizing Power's will. `APP ¶3` — ATWOOD
+- Such power is righteous only under God's law; in self-will diabolical (Moses versus Egyptian enchantments). Egypt fell drawing on its own strength, though first drawing from the Divine Source (Asclepius). `APP ¶4, APP ¶5` — ATWOOD
+- Eastern jugglers concentrate the Universal Spirit, growth-principle, on a germ. `APP ¶4` — ATWOOD
+- Alchemy ferments, purifies, dissolves the human spirit, opening its germ into new life; the Stone is that life's focused efflux, Essence of Light, Idea of Gold. Working in the blood, it reverses circulation; consciousness, drawn centrally, knows its First Cause and so the cause of all. `APP ¶6` — ATWOOD
+- Hermeticists: artificial dissolution of life's bond, regeneration under a reversed law; mind becomes creative, immortalized. `APP ¶7` — QUOTED: the Hermeticists (endorsed)
+- Will, the only substance, moves from its center; its chaotic efflux must be taken up by an external mind. `APP ¶8` — ATWOOD
+- Life returned in faith to its beginning forms Eternity's circle. A law of Light through Love must govern the will-moved mind, else demoniacal. `APP ¶9` — ATWOOD
+- The freed spirit purifies the soul; the lumbar willing-power is sent back; tentatively, the macrocosmic spirit teaches the mind (cf. Vaughan). `APP ¶10, APP ¶11, APP ¶12` — ATWOOD
+- Mesmerizing forms a cross: the perpendicular (Divine) line withdraws from sense, the transverse restores. The life-fire can burn erect, magnetic. `APP ¶13, APP ¶14` — ATWOOD
+- The medial spirit sees the Upper Ether as azure sky; brain corresponds to spiritual head; limbs are the spirit's laboratory (St Paul's temple). `APP ¶15, APP ¶16` — ATWOOD
+- Hermetic disorder reflects repeated fermentations described out of order (Golden Treatise). `APP ¶17` — ATWOOD
+- Glosses: downward-born nature/Eve, a passive image uniting with the soul; sepulcher; Gold Alchemical as Paternal Light; 'orient animal'; purplish Golden Fleece of the adept; unstable quintessences. `APP ¶18, APP ¶19, APP ¶20, APP ¶21, APP ¶22, APP ¶23` — ATWOOD
+- Salt, Mercury, Sulphur are the blood's Attraction, Circulation, Repulsion; life drawn in, soul freed, body a husk; the Caput Mortuum preserves the body's principle. `APP ¶24, APP ¶25, APP ¶26` — ATWOOD
+- Boehme's Third Principle perceives the First in defiled mineral life, so will must be pure. Fermentation best images the Art; the individual draws the Universal (Basil Valentine; Norton). Physicalist readings twaddle; Oken praised. `APP ¶27, APP ¶28, APP ¶29, APP ¶30, APP ¶31` — ATWOOD
+- Three Lives: Terrestrial (sensuous, animal, head), Celestial (emotional, vegetable, solar plexus), Infernal (voluntary, mineral, lumbar); each is the essential substance of its Kingdom; man comprehends all. `APP ¶32, APP ¶33, APP ¶34, APP ¶35` — ATWOOD
+- The Work reverses them: the third life is raised through the medial, never aspiring to the head life (the Divine Will). All depends on intention, the hidden principium. `APP ¶35` — ATWOOD
+
+## Method
+
+- **subject** — “the release or setting free the third or lowest life” `APP ¶2` (ATWOOD)
+  - **Plain (stated):** The power at stake (abused in the magic of the self-will) consists in liberating the third or lowest of man's lives, which is not known in ordinary waking life nor in ordinary trance.
+  - Basis: APP ¶2 says this power is 'to be found in' that release and that we know nothing of it in present life or the common entranced life. See ambiguities on what 'third life' denotes.
+  - Also: “Man is fallen; he is in the third or lowest life” `APP ¶35`
+- **procedure** — “this present life may be led through the clairvoyant life into it (that is the wonderful part of it) by the fermentation of itself” `APP ¶2` (ATWOOD)
+  - **Plain (stated):** A staged fermentation of life by like life: ordinary life fermented by its similar enters common trance (the sleep-walkers' state); that life fermented again by its similar enters the third life. What 'its similar' is remains unspecified.
+  - Basis: APP ¶2 and APP ¶3 lay out the two successive fermentations directly.
+  - Also: “As this life being fermented by this life, its similar, leads into the common trance, or is entranced” `APP ¶3`
+  - Also: “that consequent life being fermented subsequently by its similar, leads into that third life which moves in and with the creative Essence” `APP ¶3`
+  - Also: “the common entranced life, i.e., the life of the sleep-walkers” `APP ¶2`
+- **result** — “the mind becomes in that case related to the Universal Vitalizing Power, and so can act Its will” `APP ¶3` (ATWOOD)
+  - **Plain (stated):** Reaching the third life puts the mind in relation with the universal life-power, so that it can act that power's will.
+  - Basis: APP ¶3.
+- **impediment** — “taken into the self-will and used accordingly it becomes diabolical” `APP ¶4` (ATWOOD)
+  - **Plain (stated):** The power gained is legitimate only if the will serves God's law; taken into self-will it becomes evil (Egyptian enchantment versus Moses' might). Drawing only on one's own strength led to Egypt's fall. Likewise the will-moved mind must be subservient to a law of Light moving through Love in the will, or it breaks and becomes demoniacal.
+  - Basis: APP ¶4, APP ¶5, APP ¶9.
+  - Also: “Power thus gained is only legitimate, just and righteous when the will subserves the commandment and law of God” `APP ¶4`
+  - Also: “Magicians, like the Egyptians of that day, drew only from their own strength” `APP ¶5`
+  - Also: “there is a law of Light, which must move through Love in the will, and so act on the will-moved mind” `APP ¶9`
+  - Also: “else it breaks and becomes demoniacal” `APP ¶9`
+- **agent** — “The Universal Spirit is in one form the Principle of all growth” `APP ¶4` (ATWOOD)
+  - **Plain (stated):** A universal spirit is, in one form, nature's growth-principle; collected and concentrated on a germ it completes at once growth that normally takes years (the Eastern jugglers' feat).
+  - Basis: APP ¶4 states it with the jugglers as illustration.
+  - Also: “their power of collecting a quantity of this, bringing it to bear on any germ at once” `APP ¶4`
+- **principle** — “Alchemy is an universal art of vital chemistry, which by fermenting the human spirit, purifies, and, finally dissolving it, opens the elementary germ into new life and consciousness” `APP ¶6` (ATWOOD)
+  - **Plain (stated):** Alchemy is a work on the living human spirit: fermented, thereby purified, and finally dissolved, it opens an elementary germ into new life and consciousness. Fermentation is the operative image throughout.
+  - Basis: Explicit definition in APP ¶6; restated in APP ¶25 and APP ¶27.
+  - Also: “Alchemy is a process of fermenting the vital Spirit in and by its own Light.” `APP ¶27`
+  - Also: “Alchemy is Divine Chemistry, and the transmutation of Life” `APP ¶25`
+  - Also: “The word fermentation conveys an idea of the perfecting principle and of the possibility of transmutation beyond any other word” `APP ¶27`
+- **result** — “the Philosopher’s Stone is the efflux of such a life, drawn to a focus and made manifest as a concrete Essence of Light” `APP ¶6` (ATWOOD)
+  - **Plain (stated):** The Stone is the outflow of the regenerated life, concentrated and made manifest as a concrete essence of light; that essence is the true Form or Idea of Gold.
+  - Basis: APP ¶6 states the identity.
+  - Also: “which Essence is the true Form or Idea of Gold” `APP ¶6`
+- **procedure** — “The process takes place in and through the human body in the blood” `APP ¶6` (ATWOOD)
+  - **Plain (stated):** The work happens in the blood: the relation of its principles changes and its circulatory order is reversed, so the sensible medium becomes hidden, the inner source of vitality awakens, and consciousness is drawn inward; the vital force's magnetic attraction is changed so life is drawn in instead of out.
+  - Basis: APP ¶6 and APP ¶24 state this directly.
+  - Also: “reversing the circulatory order, so that, the sensible medium becoming occult, the inner source of its vitality is awakened” `APP ¶6`
+  - Also: “life is attracted in, instead of out” `APP ¶24`
+- **result** — “comes to know and feel itself in its own true Source, which is the Universal Center and source of all things” `APP ¶6` (ATWOOD)
+  - **Plain (stated):** Consciousness drawn inward experiences itself in its origin; since each being holds its own cause and Existence is one, touching one's First Cause would mean knowing the cause of all.
+  - Basis: APP ¶6 gives both the result and the reasoning.
+  - Also: “every being has in himself the cause of his own existence” `APP ¶6`
+  - Also: “if, by these alleged means the consciousness can be brought into contact with its First Cause, he will, in knowing It know the cause of all” `APP ¶6`
+- **procedure** — “an artificial dissolution of the natural bond of life, resulting in a regeneration of the dissolved separated elements, under a reversed law” `APP ¶7` (QUOTED: the Hermeticists (endorsed))
+  - **Plain (stated):** The natural union of life's elements is deliberately loosened, and the separated elements are regenerated under a reversed order; the will then operates, drawing from its proper efficients, and mind becomes creative and immortalized. ¶7 does not name the bond; ¶10 and ¶25 describe spirit/soul freed from the body.
+  - Basis: APP ¶7, reported as Hermeticist teaching and adopted by Atwood; 'reversed law' matches the reversed circulation (APP ¶6) and the reversal of the lives (APP ¶35).
+  - Also: “the will holding and drawing from its proper efficients operates, and mind becomes creative and immortalized in it” `APP ¶7`
+- **agent** — “for Will has substance, nay, is the only substance; it is the Universal Loadstone of Existence” `APP ¶8` (ATWOOD)
+  - **Plain (stated):** In the higher states Will moves from its own center; in act it throws off an effervescent efflux of its substance, which is chaotic and must be taken up by an external mind; that mind, under the Will's law, becomes creative and immortalized.
+  - Basis: APP ¶8.
+  - Also: “The law of Will in these higher states of being is to have motion from its own center.” `APP ¶8`
+  - Also: “This effervescent efflux is in itself chaotic, and requires to be taken up by an external mind or intelligence” `APP ¶8`
+- **principle** — “when our life is returned in faith (for it is faith which reunites) to its beginning, it forms the circle and is in Eternity” `APP ¶9` (ATWOOD)
+  - **Plain (stated):** Life going on in a line is 'not immoral' (as printed; see ambiguities); returned by faith to its beginning it closes a circle and is in Eternity.
+  - Basis: APP ¶9; the return-to-origin image recurs in APP ¶6 (consciousness in its Source) and APP ¶27 ('this return of the reason to its First Cause').
+- **stage** — “the spirit becoming freed from the body, carries on the perfection and purification of her own vehicle --- the soul” `APP ¶10` (ATWOOD)
+  - **Plain (stated):** Once freed from the body, the spirit itself carries on perfecting and purifying the soul, its vehicle; the body is left as a husk.
+  - Basis: APP ¶10, APP ¶25.
+  - Also: “the soul freed from the chains of corporeity, and the body is left as a mere husk” `APP ¶25`
+- **stage** — “the vital or willing-power, is seated in the lumbar region and is sent back” `APP ¶11` (ATWOOD)
+  - **Plain (interpreted):** At one stage the will-power, seated in the lumbar region, is turned back. This chunk does not explain 'sent back'.
+  - Basis: APP ¶33 places the Infernal life, 'the voluntary agent', in the lumbar region; APP ¶35 says the aim is to reverse the lives' action, so 'sent back' plausibly names that reversal. See ambiguities.
+- **stage** — “the mind comes into relation with the macrocosmic spirit, and discerns it, and is taught by it” `APP ¶12` (ATWOOD)
+  - **Plain (stated):** At a certain time the mind comes into relation with the macrocosmic spirit, discerns it and is taught by it (offered tentatively: 'I think').
+  - Basis: APP ¶12.
+- **procedure** — “In mesmerizing and de-mesmerizing we form a +.” `APP ¶13` (ATWOOD)
+  - **Plain (stated):** Mesmeric action traces a cross: the vertical (Divine) line withdraws the subject from sense, the transverse (contrary) line restores sense.
+  - Basis: APP ¶13.
+  - Also: “The perpendicular line is the Divine line in all things; the transverse line is the contrary” `APP ¶13`
+  - Also: “the perpendicular line should withdraw you from sense while the transverse restore you to it” `APP ¶13`
+- **sign** — “The fire of life in us is capable of burning erect, it becomes a magnet!” `APP ¶14` (ATWOOD)
+  - **Plain (interpreted):** The life-fire can align with the vertical, Divine line and become magnetic; if that line outweighed the transverse, one would leave sense and be conscious in a celestial, transcendental relation.
+  - Basis: 'Erect' read with APP ¶13 (perpendicular = Divine, withdraws from sense) and the following sentence of APP ¶14.
+  - Also: “If, in us, the Divine line were stronger than the transverse one, we would no longer be in sense.” `APP ¶14`
+- **sign** — “the Upper Ether, where the Ideas are, appears to the exalted spirit, i.,e., the spirit in the medial life, as its azure sky” `APP ¶15` (ATWOOD)
+  - **Plain (stated):** To the spirit raised into the medial life, the realm of the Ideas appears as a blue sky, as the ordinary sky does to us.
+  - Basis: APP ¶15.
+- **subject** — “they are a laboratory that is of and for the spirit to work in” `APP ¶16` (ATWOOD)
+  - **Plain (stated):** The body's limbs and members are the spirit's workplace for evolving and perfecting the Divine within.
+  - Basis: APP ¶16, with St Paul's 'temple of the Holy Ghost'.
+  - Also: “The limbs in the microcosm play a most important part in this mystery” `APP ¶16`
+- **procedure** — “He fermentative process has to be gone over and over again” `APP ¶17` (ATWOOD)
+  - **Plain (stated):** The fermentation is repeated many times; Hermetic texts describe phenomena from different repetitions, which makes their order look confused.
+  - Basis: APP ¶17.
+  - Also: “as the Artist begins, ends, and repeats the mysterious experiment” `APP ¶17`
+- **principle** — “The macrocosmic image of the microcosm is the downward-born nature of which Hermes speaks very finely in the Poemander. It is the Eve which Adam brought forth” `APP ¶18` (ATWOOD)
+  - **Plain (stated):** The downward-born nature is the Eve which Adam brought forth, an image thrown forth in which he beheld his own soul, the Absolute Idea of the Beautiful; lacking consubstantiality it is macrocosmic, passive and ephemeral, but its beauty attracts the soul and, united to it, brings the ideal forth as actual offspring. This chunk does not say how it bears on practice.
+  - Basis: APP ¶18 gives the identities and reasons.
+  - Also: “the reason why it is macrocosmic, passive and ephemeral is its want of consubstantiality” `APP ¶18`
+- **subject** — “The Hermetic sepulcher is the vehicle of the dead Divine Life within us” `APP ¶19` (ATWOOD)
+  - **Plain (stated):** The 'sepulcher' is what carries the dead Divine Life within us, and is at the same time that vehicle's own death (sepulcher and corpse the same).
+  - Basis: APP ¶19.
+  - Also: “idem est sepulchrum ac cadaver” `APP ¶19`
+- **result** — “The Gold Alchemical is the first conceived Paternal Light” `APP ¶20` (ATWOOD)
+  - **Plain (stated):** Alchemical gold is the first-conceived Paternal Light, the metaphysical seed of mineral gold (the gold Aeneas was told by the Sybil to find and gather).
+  - Basis: APP ¶20.
+  - Also: “it is the seed metaphysical of mineral gold” `APP ¶20`
+- **agent** — “The ‘orient animal’ means the animal (that is, the opposite) will which is clothed in Light” `APP ¶21` (ATWOOD)
+  - **Plain (stated):** The 'orient animal' is the opposite (animal) will clothed in Light: the third, rising in opposition to the first.
+  - Basis: APP ¶21. What 'third' and 'first' denote is unclear (see ambiguities).
+- **sign** — “The Golden Fleece is the outward appearance presented by the light of Life diffused over the body of the seeker in the third life; it is of a purplish luster.” `APP ¶22` (ATWOOD)
+  - **Plain (stated):** The 'Golden Fleece' is a purplish glow of life-light over the seeker's body in the third life; at that point the seeker is the adept.
+  - Basis: APP ¶22, APP ¶23.
+  - Also: “The seeker, however, in this point of relation, is the adept, the discoverer, the finder.” `APP ¶23`
+- **stage** — “the quintessences successively form themselves, having each of them a spherical capacity and wholeness, but these world forms are unstable” `APP ¶23` (ATWOOD)
+  - **Plain (stated):** In the lower development, successive spherical, self-contained forms arise but dissolve and die because they lack the Light Essential.
+  - Basis: APP ¶23.
+  - Also: “uninformed with the Light Essential, resolve and die” `APP ¶23`
+- **principle** — “There are three principles in this force, Attraction, Circulation, Repulsion --- the Alchemical Salt, Mercury, Sulphur.” `APP ¶24` (ATWOOD)
+  - **Plain (stated):** Salt, Mercury and Sulphur are, in order, the blood's vital force as Attraction, Circulation and Repulsion; what the work changes is the magnetic attraction and the medial spirit.
+  - Basis: APP ¶24 equates them in order.
+  - Also: “What is really changed is the magnetic attraction; the medial spirit is changed” `APP ¶24`
+- **result** — “that which is the medium between soul and body is changed, and the soul freed from the chains of corporeity” `APP ¶25` (ATWOOD)
+  - **Plain (stated):** The intermediary between soul and body is transformed, so the soul is freed and the body becomes a mere covering, put on like a coat.
+  - Basis: APP ¶25.
+  - Also: “These people put on their bodies as mere coats.” `APP ¶25`
+- **stage** — “The principle of body is preserved in what they call the ashes or Caput Mortuum” `APP ¶26` (ATWOOD)
+  - **Plain (stated):** A single bodily principle survives in the 'ashes' or Caput Mortuum, and the whole life is restored from it; Khunrath calls it 'our pigmy' and 'diadem of the body'.
+  - Basis: APP ¶26.
+  - Also: “that one principle being saved the whole life is restored from it” `APP ¶26`
+- **principle** — “the Third Principle, i.e., the sidereal and elementary birth, to use Boehme’s language, is the medium of perceiving the First, which is hidden in its mineral life” `APP ¶27` (ATWOOD)
+  - **Plain (stated):** The lowest principle is the means by which the First is perceived, the First lying hidden in that lowest (mineral) life.
+  - Basis: APP ¶27.
+- **operator** — “it is therefore necessary, before going into it consciously, that the will and purpose be perfectly pure and simple” `APP ¶27` (ATWOOD)
+  - **Plain (stated):** Because the mineral life entered is full of defilement and temptation, the operator's will and purpose must be wholly pure before consciously entering it; the motive is set apart from the whole life as a pure Light akin to what it seeks.
+  - Basis: APP ¶27.
+  - Also: “the motive is segregated from the whole life as a pure Light allied to that which it seeks” `APP ¶27`
+- **agent** — “In the Art the individual draws the Universal.” `APP ¶29` (ATWOOD)
+  - **Plain (stated):** The Vital Spirit is both universal and individual; in the work the individual draws on the universal, and so man is brought into relationship with God.
+  - Basis: APP ¶28, APP ¶29.
+  - Also: “It is through this Art that man is brought into relationship with God” `APP ¶29`
+- **procedure** — “The aim in the Work is to reverse the whole action of these lives in their natural order.” `APP ¶35` (ATWOOD)
+  - **Plain (stated):** Of the three lives (Terrestrial/head, Celestial/epigastric and solar plexus, Infernal/lumbar), fallen man is in the lowest; the Work raises it and has it born through the medial or celestial life until it becomes receptive of the Divine. He must not aspire to the highest (head) life, which would mean taking the Divine Will.
+  - Basis: APP ¶32-35.
+  - Also: “this third life has to be raised up and born through the medial or celestial life, and becomes receptive of the Divine” `APP ¶35`
+  - Also: “Man must not dare to aspire to that highest life which is over this birth and which is typified by the terrestrial or head life” `APP ¶35`
+- **operator** — “all depends on the willing and the intention” `APP ¶35` (ATWOOD)
+  - **Plain (stated):** Success depends on will and intention; the difficulty is to find the principium, which is the intention.
+  - Basis: APP ¶35, with the Latin maxims on end and beginning.
+  - Also: “The difficulty is to find this principium, the intention” `APP ¶35`
+- **subject** — “the rational ferment, the pure aurific seed of Light, is hidden in this life of ours” `APP ¶35` (ATWOOD)
+  - **Plain (stated):** The ferment that starts the work, a gold-making seed of light, is concealed within ordinary human life; this is given as the reason the principium is hard to find.
+  - Basis: APP ¶35 ('The difficulty is to find this principium, the intention; for the rational ferment...').
+
+## Terms
+
+- **third life** (also: third or lowest life) — The lowest of man's lives, in which fallen man is; its release is what the magic of the self-will exploits; reached from present life through the clairvoyant life by repeated fermentation; it 'moves in and with the creative Essence'; to be raised through the medial life; the seeker in it shows the Golden Fleece. By the ordering of ¶32-35 it corresponds to the Infernal (lumbar, voluntary) life, but the text does not state the identity. (ATWOOD)
+  - “that third life which moves in and with the creative Essence” `APP ¶3`
+  - “Man is fallen; he is in the third or lowest life” `APP ¶35`
+- **self-will** — Will acting for itself rather than under God's law; its magic is the Egyptians' enchantment; power taken into it becomes diabolical. (ATWOOD)
+  - “The magic of the self-will is that which the Egyptians practiced in the days of Moses” `APP ¶2`
+  - “taken into the self-will and used accordingly it becomes diabolical” `APP ¶4`
+- **clairvoyant life** — The intermediate state through which present life is led into the third life. (ATWOOD)
+  - “this present life may be led through the clairvoyant life into it” `APP ¶2`
+- **common trance** (also: common entranced life, entranced) — The sleep-walkers' entranced life, produced by fermenting present life by its similar; the third life is not known in it. (ATWOOD)
+  - = life of the sleep-walkers: “the common entranced life, i.e., the life of the sleep-walkers” `APP ¶2`
+  - “leads into the common trance, or is entranced” `APP ¶3`
+- **fermentation** (also: fermented, fermenting, fermentative process) — The core operation: a life fermented by its similar passes into a further state; repeated over and over; the word best conveys perfecting, transmutation, fixation and immortality. (ATWOOD)
+  - “The word fermentation conveys an idea of the perfecting principle and of the possibility of transmutation beyond any other word” `APP ¶27`
+  - “it is the best image of the Divine Art which earthly processes give” `APP ¶27`
+- **creative Essence** — That in and with which the third life moves. (ATWOOD)
+  - “that third life which moves in and with the creative Essence” `APP ¶3`
+- **Universal Vitalizing Power** — The power to which the mind becomes related on entering the third life, so that it can act Its will. (ATWOOD)
+  - “related to the Universal Vitalizing Power, and so can act Its will” `APP ¶3`
+- **Universal Spirit** — In one form the Principle of all growth; can be collected and brought to bear on a germ. (ATWOOD)
+  - = Principle of all growth: “The Universal Spirit is in one form the Principle of all growth” `APP ¶4`
+- **Alchemy** — A universal art of vital chemistry that ferments, purifies and dissolves the human spirit into new life; the transmutation of Life; the fermenting of the vital Spirit in and by its own Light; brings man into relationship with God. (ATWOOD)
+  - = Divine Chemistry: “Alchemy is Divine Chemistry, and the transmutation of Life” `APP ¶25`
+  - = Holy Alchemy: “hence it is called by the Adepts Holy Alchemy” `APP ¶29`
+  - “Alchemy is an universal art of vital chemistry” `APP ¶6`
+  - “Alchemy is a process of fermenting the vital Spirit in and by its own Light.” `APP ¶27`
+- **Philosopher’s Stone** — The efflux of the regenerated life, drawn to a focus and made manifest as a concrete Essence of Light. (ATWOOD)
+  - = concrete Essence of Light: “the Philosopher’s Stone is the efflux of such a life, drawn to a focus and made manifest as a concrete Essence of Light” `APP ¶6`
+- **Essence of Light** — What the Stone is made manifest as; it is the true Form or Idea of Gold. (ATWOOD)
+  - = true Form or Idea of Gold: “which Essence is the true Form or Idea of Gold” `APP ¶6`
+- **Universal Center** — The true Source of consciousness and of all things, which consciousness drawn centrally comes to know. (ATWOOD)
+  - = its own true Source: “its own true Source, which is the Universal Center and source of all things” `APP ¶6`
+- **First Cause** — The cause of a being's existence, which each has in himself; knowing it is knowing the cause of all, since Existence is one. (ATWOOD)
+  - “the consciousness can be brought into contact with its First Cause” `APP ¶6`
+- **Will** (also: Will-being) — In higher states moves from its own center; in act effervesces its own substance; the only substance; its efflux is chaotic and must be taken up by an external mind. (ATWOOD)
+  - = Universal Loadstone of Existence: “it is the Universal Loadstone of Existence” `APP ¶8`
+  - “for Will has substance, nay, is the only substance” `APP ¶8`
+- **willing-power** — The vital power, at a certain time seated in the lumbar region and sent back. (ATWOOD)
+  - = vital power: “the power, the vital or willing-power” `APP ¶11`
+- **law of Light** — A law that must move through Love in the will and act on the will-moved mind, which must be subservient to it or become demoniacal. (ATWOOD)
+  - “there is a law of Light, which must move through Love in the will” `APP ¶9`
+- **perpendicular line** — The Divine line in all things; in mesmerizing it withdraws from sense; were it stronger in us than the transverse, we would no longer be in sense. (ATWOOD)
+  - = Divine line: “The perpendicular line is the Divine line in all things” `APP ¶13`
+- **transverse line** — The contrary of the Divine line; restores to sense; united with the perpendicular it forms a cross. (ATWOOD)
+  - “the transverse line is the contrary; the two united form a cross +” `APP ¶13`
+- **Upper Ether** — Where the Ideas are; appears to the spirit in the medial life as its azure sky. (ATWOOD)
+  - “the Upper Ether, where the Ideas are” `APP ¶15`
+- **medial life** — The middle life, through which the third life is raised and born; the exalted spirit is the spirit in it; the medial spirit is what is changed when life is attracted inward. (ATWOOD)
+  - = Celestial life: “born through the medial or celestial life” `APP ¶35`
+  - = exalted spirit (the spirit in this life): “the exalted spirit, i.,e., the spirit in the medial life” `APP ¶15`
+  - “the medial spirit is changed; life is attracted in, instead of out” `APP ¶24`
+- **correspondence** — Swedenborgian term for the relation between the brain (to outward life) and the spiritual head (to the spirit). (ATWOOD)
+  - “There is, as the Swedenborgians would say, a correspondence between them.” `APP ¶15`
+- **microcosm** — Man, who comprehends and represents the whole and each of the three Lives; its limbs are a laboratory for the spirit. (ATWOOD)
+  - “man, being a microcosm, comprehends and represents the whole and each” `APP ¶35`
+- **macrocosmic image of the microcosm** — An image thrown forth, macrocosmic, passive and ephemeral for want of consubstantiality; its perfect beauty attracts the soul and, united to it, brings the ideal forth as actual offspring. (ATWOOD)
+  - = downward-born nature: “The macrocosmic image of the microcosm is the downward-born nature” `APP ¶18`
+  - = Eve: “It is the Eve which Adam brought forth” `APP ¶18`
+- **Hermetic sepulcher** — The vehicle of the dead Divine Life within us, and at the same time the death of itself. (ATWOOD)
+  - “The Hermetic sepulcher is the vehicle of the dead Divine Life within us” `APP ¶19`
+- **Gold Alchemical** — The first conceived Paternal Light; the metaphysical seed of mineral gold. (ATWOOD)
+  - = first conceived Paternal Light: “The Gold Alchemical is the first conceived Paternal Light” `APP ¶20`
+  - = seed metaphysical of mineral gold: “it is the seed metaphysical of mineral gold” `APP ¶20`
+- **orient animal** — The animal (that is, opposite) will clothed in Light; the third which rises in opposition to the first. (ATWOOD)
+  - “The ‘orient animal’ means the animal (that is, the opposite) will which is clothed in Light” `APP ¶21`
+  - “the third which rises in opposition to the first” `APP ¶21`
+- **Golden Fleece** — The outward appearance, of a purplish luster, of the light of Life diffused over the seeker's body in the third life. (ATWOOD)
+  - “The Golden Fleece is the outward appearance presented by the light of Life diffused over the body of the seeker in the third life” `APP ¶22`
+- **adept** (also: Adepts) — The seeker at the point of relation where the Golden Fleece appears: the discoverer, the finder. (ATWOOD)
+  - = the seeker: “The seeker, however, in this point of relation, is the adept, the discoverer, the finder.” `APP ¶23`
+- **quintessences** — Spherical 'world forms' that successively form in the lower development of the Hermetic life but, lacking the Light Essential, resolve and die. (ATWOOD)
+  - “these world forms are unstable and, uninformed with the Light Essential, resolve and die” `APP ¶23`
+- **Light Essential** — That which the quintessences lack, so that they die; not further defined here. (ATWOOD)
+  - “uninformed with the Light Essential, resolve and die” `APP ¶23`
+- **Salt, Mercury, Sulphur** — The three principles of the vital force in the blood. (ATWOOD)
+  - = Attraction, Circulation, Repulsion: “Attraction, Circulation, Repulsion --- the Alchemical Salt, Mercury, Sulphur” `APP ¶24`
+- **Caput Mortuum** — Where the principle of body is preserved; from that one principle the whole life is restored. (ATWOOD)
+  - = ashes: “what they call the ashes or Caput Mortuum” `APP ¶26`
+  - = our pigmy / diadem of the body (Khunrath): “Khunrath call it ‘our pigmy’, also the ‘diadem of the body’” `APP ¶26`
+  - = Duanach (Khunrath; tentative): “I think he refers to it under the term Duanach” `APP ¶26`
+- **Third Principle** — In Boehme's language the sidereal and elementary birth; the medium of perceiving the First, which is hidden in its mineral life; that life is full of defilement and temptation. (ATWOOD)
+  - = sidereal and elementary birth: “the Third Principle, i.e., the sidereal and elementary birth, to use Boehme’s language” `APP ¶27`
+  - “is the medium of perceiving the First, which is hidden in its mineral life” `APP ¶27`
+- **Vital Spirit** (also: vital Spirit) — What Alchemy ferments in and by its own Light; present in the Universal as well as the individual. (ATWOOD)
+  - “The Vital Spirit is in the Universal as well as in the individual.” `APP ¶28`
+- **Terrestrial life** (also: Terrestrial, terrestrial or head life) — The sensuous life; represents the Animal Kingdom; dominates the head in man; typifies the highest life man must not aspire to. (ATWOOD)
+  - “The Terrestrial is the sensuous and represents the Animal Kingdom. In man it is dominating the head.” `APP ¶32`
+- **Celestial life** (also: Celestial, celestial life) — The emotional, receptive, instinctive life; represents the Vegetable Kingdom; resides in the epigastric region, its workshop the solar plexus; identified with the medial life, through which the third life must be born. (ATWOOD)
+  - “The Celestial is the emotional, receptive, instinctive life, and represents the Vegetable Kingdom.” `APP ¶32`
+- **Infernal life** (also: Infernal) — The voluntary agent in life; represents the Mineral Kingdom; resides in man in the lumbar region. (ATWOOD)
+  - “The Infernal is the voluntary agent in life, and represents the Mineral Kingdom.” `APP ¶33`
+- **Archaeus** — Paracelsus' term, set in apposition to the solar plexus, the workshop of the Celestial life. (ATWOOD)
+  - = solar plexus: “the solar plexus, the Archaeus of Paracelsus, is its workshop” `APP ¶32`
+- **principium** — The beginning/principle of the work, identified with the intention; hard to find because the rational ferment is hidden in our life. (ATWOOD)
+  - = the intention: “The difficulty is to find this principium, the intention” `APP ¶35`
+- **rational ferment** — Hidden in our ordinary life; given as the reason the principium is hard to find. (ATWOOD)
+  - = pure aurific seed of Light: “the rational ferment, the pure aurific seed of Light, is hidden in this life of ours” `APP ¶35`
+- **Artist** — The practitioner who begins, ends and repeats the experiment. (ATWOOD)
+  - “as the Artist begins, ends, and repeats the mysterious experiment” `APP ¶17`
+
+## Sources cited
+
+- **Moses** — “might in word and deed” `APP ¶2, APP ¶4` — Contrasts: Moses' legitimate power under God's law versus the Egyptians' enchantments.
+- **the Egyptians** — “enchantments” `APP ¶2, APP ¶4, APP ¶5` — Is criticized: example of the magic of the self-will; their magicians drew only on their own strength, and so Egypt fell.
+- **Asclepius**, *the Dialogue, so called, the 2 nd Book of Hermes, ch. 9* `APP ¶5` — Supports: the magicians originally drew power from the Divine Source before falling into debasement and idolatry.
+- **the Hermeticists** `APP ¶7` — Supports (endorsed): the Mystery is discovered by artificial dissolution of the natural bond of life and regeneration under a reversed law.
+- **Vaughan**, *Writings on the Chymical Wedding, p. 4* `APP ¶12` — Reference (cf.) for the mind being taught by the macrocosmic spirit.
+- **the Swedenborgians** — “correspondence” `APP ¶15` — Illustrates: correspondence between brain and spiritual head.
+- **St Paul** `APP ¶16` — Supports: the body regarded as a temple of the Holy Ghost; its members a laboratory for the spirit.
+- **the Golden Treatise**, *the Golden Treatise* `APP ¶17` — Illustrates: its author seems to intermix steps because he describes different repetitions of the fermentative process.
+- **Hermes**, *the Poemander* `APP ¶18` — Supports: Hermes speaks 'very finely' of the downward-born nature, identified with the macrocosmic image of the microcosm.
+- **Aeneas; the Sybil** `APP ¶20` — Illustrates: the Gold Alchemical as the gold Aeneas was told by the Sybil to find and gather.
+- **Khunrath** — “‘our pigmy’, also the ‘diadem of the body’” `APP ¶26` — Supports: names for the preserved principle of body (Caput Mortuum); Atwood thinks he also refers to it as Duanach.
+- **Boehme** — “the sidereal and elementary birth” `APP ¶27` — Terminology: the Third Principle as medium of perceiving the First.
+- **Basil Valentine**, *Keys* `APP ¶29` — Supports: best illustration of the Art as a fermentative process.
+- **the Adepts** — “Holy Alchemy” `APP ¶29, APP ¶30` — Supports: they call the Art Holy Alchemy; reducing their ontological ground to physical science is 'twaddle'.
+- **Norton** — “It s most profound philosophy, this subtle science of Holy Alchemy” `APP ¶29` — Supports: the name Holy Alchemy.
+- **Lorenz Oken**, *I, London, Ray Society, 1847* `APP ¶31` — Praised: deals with nature 'in that higher way' and best evolves Causal Truth into the outward forms of life.
+- **Paracelsus** — “the Archaeus of Paracelsus” `APP ¶32` — Terminology: the Archaeus set in apposition to the solar plexus, workshop of the Celestial life.
+- **one (unnamed, 'says one')** — “That which in the hands of fools is nothing in that of a philosopher becomes to be all in all” `APP ¶35` — Supports: all depends on the willing and the intention.
+
+## Ambiguities
+
+- “the release or setting free the third or lowest life” `APP ¶2`
+  - Reading: The 'third life' is the lowest, fallen life man is already in, which is released and raised (¶35).
+  - Reading: The 'third life' is the goal-state reached by two fermentations, moving with the creative Essence (¶3).
+  - Basis: Reading 1: APP ¶2 and APP ¶35 'third or lowest life'; APP ¶35 'this third life has to be raised up'. Reading 2: APP ¶3 'leads into that third life which moves in and with the creative Essence'; APP ¶22 the seeker 'in the third life'. They may be the same life before and after release.
+- “As this life being fermented by this life, its similar, leads into the common trance” `APP ¶3`
+  - Reading: 'Its similar' is another life of the same kind acting on the subject (as in mesmerizing).
+  - Reading: 'Its similar' is the same life acting on itself.
+  - Basis: Reading 1: APP ¶13 'In mesmerizing and de-mesmerizing we form a +'; the sleep-walkers' trance APP ¶2. Reading 2: APP ¶2 'by the fermentation of itself'; APP ¶27 'fermenting the vital Spirit in and by its own Light'.
+- “mind becomes creative and immortalized in it” `APP ¶7`
+  - Reading: Becoming creative is the intended result of the work.
+  - Reading: Becoming Creative is forbidden, as it means taking the Divine Will; ¶7-8 may describe the law of Will in higher states rather than man's goal.
+  - Basis: Reading 1: APP ¶7 and APP ¶8 ('becomes creative and immortalized'). Reading 2: APP ¶35 'if he were there he would become Creative --- he would be taking to himself the Divine Will'.
+- “As long as we in our life go on in a line we are not immoral” `APP ¶9`
+  - Reading: As printed: linear life is not immoral, merely ordinary.
+  - Reading: A misprint for 'immortal', contrasting with the circle that 'is in Eternity'.
+  - Basis: Reading 1: the text as given. Reading 2: the contrast with 'it forms the circle and is in Eternity' in APP ¶9.
+- “is seated in the lumbar region and is sent back” `APP ¶11`
+  - Reading: The willing-power is turned back (upward), as part of reversing the lives' action.
+  - Reading: The willing-power is returned to its source or beginning.
+  - Basis: Reading 1: APP ¶33 (voluntary Infernal life in the lumbar region), APP ¶35 (reverse their action). Reading 2: APP ¶9 (life returned to its beginning). APP ¶11 itself does not explain.
+- “the third which rises in opposition to the first” `APP ¶21`
+  - Reading: Third and first are Boehme's Third and First Principles.
+  - Reading: Third is the third (lowest) life, opposed to the first/highest.
+  - Basis: Reading 1: APP ¶27 the Third Principle as medium of perceiving the First. Reading 2: APP ¶2, APP ¶35 'third or lowest life'.
+- “In man it resides in the epigastric region and the heat” `APP ¶32`
+  - Reading: As printed: 'heat' (bodily heat).
+  - Reading: A misprint for 'heart', parallel to the other bodily seats.
+  - Basis: Reading 1: the text as given. Reading 2: the parallel seats (head, lumbar region) in APP ¶32 and APP ¶33.
+- “that highest life which is over this birth and which is typified by the terrestrial or head life” `APP ¶35`
+  - Reading: The Terrestrial/head life typifies the highest life in the order of the lives.
+  - Reading: Tension with ¶32, where the Terrestrial is 'the sensuous' life; the head life may stand for the highest only by type.
+  - Basis: APP ¶32 calls the Terrestrial sensuous and of the head; APP ¶35 has the head life typify the highest life man must not aspire to, and speaks of reversing the natural order of the lives.
+
+## Translations
+
+- `APP ¶19` “idem est sepulchrum ac cadaver” → the sepulcher and the corpse are the same *(ours)*
+- `APP ¶26` “Caput Mortuum” → dead head *(ours)*
+- `APP ¶35` “ex fine cujusvis intentionis resultat principium ejus” → from the end of any intention results its beginning (principle) *(ours)*
+- `APP ¶35` “finis ab origine pendet” → the end depends on the beginning *(ours)*
+
+## Threads
+
+- `APP ¶1` Heading: 'Table Talk and Memorabilia of Mary Anne Atwood (Begun August 1860)'; numbered items (1)-(27) appear in this chunk.
+- `APP ¶5` Points to Asclepius, 'the Dialogue, so called, the 2 nd Book of Hermes, ch. 9', on the magicians' falling off into debasement and idolatry.
+- `APP ¶12` cf. Vaughan's Writings on the Chymical Wedding, p. 4.
+- `APP ¶17` Points to the Golden Treatise as an example of steps intermixed across repetitions of the process.
+- `APP ¶18` Points to Hermes' Poemander on the downward-born nature.
+- `APP ¶29` Points to Basil Valentine's Keys as the best illustration of the Art as a fermentative process.

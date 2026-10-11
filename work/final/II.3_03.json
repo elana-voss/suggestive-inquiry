@@ -1,0 +1,1270 @@
+{
+  "chunk": "II.3_03",
+  "gist": "Finishes the Christian philosophers' mountain allegory (wind, earthquake, fire, calm, tincture), then reads it with the Greek Mysteries: initiation is a willed philosophic death, the soul dissolving its own bond to the body (the 'happy gate of blackness'). This passes through terror into light and regeneration without destroying the body, and leads by analysis down to a hidden fiery root of life.",
+  "notes": [
+    {
+      "point": "Mountain allegory concluded: a vehement wind shatters the rock; beasts appear but must not be feared; earthquake; fire consumes earthly rubbish, uncovering the still-unseen treasure; near daybreak calm, day-star, and an exalted tincture able to turn the world to gold.",
+      "refs": [
+        "II.3 ¶33"
+      ],
+      "voice": "QUOTED: these famous Christian philosophers"
+    },
+    {
+      "point": "Fire obliterates strains from generation that hide the immortal principle; the inquisitive light enters as ferment, kindles with its proper pole, converts the medium into its own life.",
+      "refs": [
+        "II.3 n40"
+      ],
+      "voice": "UNCLEAR"
+    },
+    {
+      "point": "Promises of gold drew futile searches; holders of the knowledge give it only to lovers of truth. The Greeks, fearing the vulgar, kept silent on or poetized these Tartarean realms.",
+      "refs": [
+        "II.3 ¶34"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Milton: hellish riches outdo human monuments; Atwood: these vanish before celestial light.",
+      "refs": [
+        "II.3 ¶35",
+        "II.3 ¶36"
+      ],
+      "voice": "QUOTED: Milton; ATWOOD extends"
+    },
+    {
+      "point": "Delusive visions during the conscious transference are obstacles, not disproof of divine science.",
+      "refs": [
+        "II.3 ¶36"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Skipping Platonic Hades lore: the Hierophant passed the Mustai to Tartarus. The soul is in Hades while her hypostasis is dark, i.e. while she regards her image objectively, before experimental knowledge. The Lesser Mysteries ended at the Stygian lake, 'a dream of death'.",
+      "refs": [
+        "II.3 ¶36"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Death and initiation into the Grand Mysteries agitate the mind alike: wandering and darkness, horror, then divine light, sacred visions, freedom among the Blessed.",
+      "refs": [
+        "II.3 ¶37"
+      ],
+      "voice": "QUOTED: Stoboeus / Dr Warburton"
+    },
+    {
+      "point": "Dread accompanies relinquishing the natal bond; Solomon's fear of God is the soul's awe as it perceives itself in the Identic Source. The son of Dirach: Wisdom first torments, then shows her Secret.",
+      "refs": [
+        "II.3 ¶37"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Adept: a noble body suffers with vinegar, ends in exaltation; 'happy gate of Blackness' is the whole secret; by Dissolution comes the reward.",
+      "refs": [
+        "II.3 ¶37"
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "point": "Philosophers study to be dead (Plato, Plotinus). Porphyry: twofold death; the soul, having bound herself to the body, can free herself.",
+      "refs": [
+        "II.3 ¶37"
+      ],
+      "voice": "QUOTED: Plato, Plotinus, Porphyry"
+    },
+    {
+      "point": "Gloss: knowing how, the soul dissolves her conceptive vehicle and returns consciously under another law; this is 'precious death', 'gate of blackness', 'head of Hermes’ crow'. The fixed sensual compact is dissolved and renovated; corruption signals Art; regeneration into her Causal Source, without destroying the body.",
+      "refs": [
+        "II.3 ¶37"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Oracles: the fiery mind in piety preserves the body (Atwood: fortifying it with immortal elixir); seek the soul's way of return.",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 ¶38",
+        "II.3 ¶39",
+        "II.3 ¶40"
+      ],
+      "voice": "QUOTED: the Oracle; ATWOOD glosses"
+    },
+    {
+      "point": "Like unbuilding an edifice to its foundation, the Hermetic process analyzes natural life down to the hidden alkaline original of life in a threefold essence.",
+      "refs": [
+        "II.3 ¶41"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Adept: past the Aquaster, in the Fire World, one sees Prester and Sun (outer and inner fire), fire descending to a body and reascending, the Fire Spirit's root. The Salt of Saturn: Demogorgon, mineral soul, Anaxagoras's central earth, whose Being is Tartarus.",
+      "refs": [
+        "II.3 ¶41"
+      ],
+      "voice": "QUOTED: the adept (extent unclear)"
+    },
+    {
+      "point": "Oracle: stoop not to the precipice; seven-step ladder; the soul clasps God.",
+      "refs": [
+        "II.3 ¶42"
+      ],
+      "voice": "QUOTED: Oracula Chaldaica"
+    },
+    {
+      "point": "Porphyry: the purified soul joins its generator; knowledge of true Being needs this conversion. Euripides: blessed the initiate.",
+      "refs": [
+        "II.3 ¶43",
+        "II.3 ¶44"
+      ],
+      "voice": "QUOTED: Porphyry; Euripides"
+    },
+    {
+      "point": "Apuleius: unlawful to tell, yet he approached death, trod Proserpine's threshold, returned through the Elements, saw the Sun at midnight.",
+      "refs": [
+        "II.3 ¶45"
+      ],
+      "voice": "QUOTED: the Epidaurian (Apuleius)"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "stage",
+      "veiled": "a most vehement and very great wind that will shale the whole mountain and shatter the rock to pieces",
+      "ref": "II.3 ¶33",
+      "plain": "The first event after reaching the hidden subject (the 'mountain') is a violent breaking-up of what was solid. This chunk does not decode the wind itself.",
+      "status": "interpreted",
+      "basis": "¶33 calls it 'the first miracle' after the mountain is found and sets it first in an ordered series (wind, earthquake, fire, calm); ¶41 describes the process as decomposing an edifice stone by stone.",
+      "voice": "QUOTED: these famous Christian philosophers",
+      "also": [
+        {
+          "text": "After this wind will come an earthquake which will overthrow those things which the wind had left.",
+          "ref": "II.3 ¶33"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "You will be encountered by lions, dragons, and other terrible wild beasts; but fear not nay of these things",
+      "ref": "II.3 ¶33",
+      "plain": "Terrifying appearances arise during the passage. They are to be faced without fear or turning back. The chunk does not name the beasts individually.",
+      "status": "interpreted",
+      "basis": "¶36 calls 'delusive visions and errors' during the transference obstacles; ¶37 says the transition 'is described as wearing a fearful aspect' and the verge of initiation is 'all horror'.",
+      "voice": "QUOTED: these famous Christian philosophers",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Be resolute, and take heed that you return not, for your guide who brought you thither will not suffer any evil to befall you.",
+      "ref": "II.3 ¶33",
+      "plain": "The operator must keep steady resolve and not retreat or 'fall off' during the upheavals, trusting the guide.",
+      "status": "interpreted",
+      "basis": "¶33 directly (resolution, not returning, 'Be sure you fall not of').",
+      "voice": "QUOTED: these famous Christian philosophers",
+      "also": [
+        {
+          "text": "Be sure you fall not of.",
+          "ref": "II.3 ¶33"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "there shall follow a fire that will consume the earthly rubbish, and discover the treasure: but as yet you cannot see it",
+      "ref": "II.3 ¶33",
+      "plain": "A fire burns away what has accrued to the soul from generation and hides its immortal principle. This exposes the treasure, but it is not yet perceptible.",
+      "status": "interpreted",
+      "basis": "n40 is attached to this sentence: 'Through fire the divine oracles more plainly teach, that those strains are all finally obliterated that accede to the soul from generation and which conceal the immortal principle in unconscious oblivion'.",
+      "voice": "QUOTED: these famous Christian philosophers; gloss in n40",
+      "also": [
+        {
+          "text": "those strains are all finally obliterated that accede to the soul from generation and which conceal the immortal principle in unconscious oblivion for the sake of vivifying the mortal sense",
+          "ref": "II.3 n40"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the inquisitive light once entering as a ferment combats meeting its proper pole, and conjointly kindling with it, absorbs, transmutes, and occultates the surrounding medium into its own abyssal life",
+      "ref": "II.3 n40",
+      "plain": "An entering light acts like a ferment. It finds its matching counterpart ('pole'), ignites together with it, and converts the surrounding medium into its own life.",
+      "status": "interpreted",
+      "basis": "n40 wording; it explains the fire stage of ¶33.",
+      "voice": "UNCLEAR",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "a certain exalted tincture with which the world, if it served God and were worthy of such gifts, might be tinged and turned into most pure gold",
+      "ref": "II.3 ¶33",
+      "plain": "The chief outcome is a tincture able to transmute. This chunk does not explain it beyond the gold image.",
+      "status": "interpreted",
+      "basis": "¶33; Atwood in ¶34 treats the promise of gold as what drew mistaken public interest.",
+      "voice": "QUOTED: these famous Christian philosophers",
+      "also": [
+        {
+          "text": "there shall be a great calm, and you shall see the day-star arise, and the darkness will disappear",
+          "ref": "II.3 ¶33"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "For they who have this knowledge know where and how likewise to bestow it, discerning betwixt the lovers of mammon and of truth.",
+      "ref": "II.3 ¶34",
+      "plain": "The knowledge is passed only to those seeking truth, not wealth. Seekers of gold failed.",
+      "status": "stated",
+      "basis": "¶34 directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "those delusive visions and errors which occur during the conscious transference to a more excellent condition of being",
+      "ref": "II.3 ¶36",
+      "plain": "False visions and errors arise during the work. They are obstacles opposed to the science, not evidence against it.",
+      "status": "stated",
+      "basis": "¶36: 'not as derogatory or casting a doubt at all upon the ultimate truths of divine science, but as obstacles rather contrary to it'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the soul is said to be in Hades all the while that her hypostasis continues in darkness",
+      "ref": "II.3 ¶36",
+      "plain": "'Being in Hades' means the soul still regards her own image objectively, before attaining the experimental knowledge.",
+      "status": "stated",
+      "basis": "¶36: 'that is, we would say, whilst she regards her image objectively, before attaining to the experimental knowledge'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "And here the Lesser Mysteries ended; the soul as it were, on the borders of the Stygian lake in view of Tartarus",
+      "ref": "II.3 ¶36",
+      "plain": "The first (Lesser) stage of initiation ends at a threshold like death, with the next initiation in view.",
+      "status": "interpreted",
+      "basis": "¶36; ¶37 calls what follows 'this next initiation' and compares it to death; Euripides' 'a dream of death' ¶36.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "The mind is affected and agitated in death, just as it is in initiation into the Grand Mysteries.",
+      "ref": "II.3 ¶37",
+      "plain": "Entering the Grand Mysteries is experienced as dying. First come confusion and wandering in darkness, then terror at the verge, then sudden light, sacred knowledge and freedom.",
+      "status": "stated",
+      "basis": "¶37 Stoboeus passage gives the sequence explicitly.",
+      "voice": "QUOTED: Stoboeus / Dr Warburton",
+      "also": [
+        {
+          "text": "the first stage is nothing but errors and uncertainties; laborings, wandering, and darkness.",
+          "ref": "II.3 ¶37"
+        },
+        {
+          "text": "But this scene once over, a miraculous and divine light displays itself",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "dread fills the sould about to relinquish her natal bond in life",
+      "ref": "II.3 ¶37",
+      "plain": "Dread accompanies the transition, as the soul is about to relinquish her natal bond. Atwood reads 'fear of God' as the awe of the soul as it begins to perceive itself in its source.",
+      "status": "interpreted",
+      "basis": "¶37: 'all, during the transition, is described as wearing a fearful aspect'; the fear of God as 'the spiritual regard in the mysteries, already involuted, and drawing towards its end, with awe, begins to perceive itself in that Identic Source'. The text does not call the dread a sign.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "at first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her disciplines, until she may trust his soul",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "there is in Alchemy a certain noble body, which is moved from one Lord to another; in the beginning of which there is suffering with vinegar; but, in the end, joy with exaltation",
+      "ref": "II.3 ¶37",
+      "plain": "The worked body suffers first and is exalted at the end. The chunk does not explain 'Lords' or 'vinegar'.",
+      "status": "interpreted",
+      "basis": "¶37, set by Atwood ('So, likewise') as parallel to Wisdom's initial torment and later comfort.",
+      "voice": "QUOTED: the adept",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "O happy gate of Blackness!",
+      "ref": "II.3 ¶37",
+      "plain": "The blackness at the start of the work is the soul's voluntary 'death': she dissolves her own bond to the body and returns consciously under another law. It is the same as the 'precious death' and the 'head of Hermes’ crow', and it is the key secret.",
+      "status": "stated",
+      "basis": "¶37: 'That was the way to \"precious death\"…, this the \"happy gate of blackness\" celebrates by the old adepts, the \"head of Hermes’ crow\", which is in the beginning of the work'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the \"head of Hermes’ crow\", which is in the beginning of the work",
+          "ref": "II.3 ¶37"
+        },
+        {
+          "text": "for to know this, indeed, is to know all, but to be ignorant of this, is to be ignorant of all",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "Take away, therefore, the vapor from the water, and the blackness from the oily tincture, and death from the faeces; and by Dissolution thou shalt possess a triumphant reward",
+      "ref": "II.3 ¶37",
+      "plain": "Dissolution is the operative act. Atwood's gloss makes it the soul dissolving her conceptive vehicle; the separate removals (vapor, blackness, death) are not explained individually.",
+      "status": "interpreted",
+      "basis": "Atwood's following gloss in ¶37 ('she may dissolve her own conceptive vehicle'; 'that which was fixed … is dissolved').",
+      "voice": "QUOTED: the adept",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the other peculiar to philosophers, in which the soul is liberated from the body",
+      "ref": "II.3 ¶37",
+      "plain": "There is a second, voluntary death, distinct from bodily death: the soul freeing herself from the body. It is possible because the soul herself made the bond.",
+      "status": "stated",
+      "basis": "¶37 Porphyry: 'nature, indeed, binds the body to the soul, but the sol binds herself to the body'.",
+      "voice": "QUOTED: Porphyry; endorsed by ATWOOD",
+      "also": [
+        {
+          "text": "it is the business of philosophers to study how to be dead",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "she may dissolve her own conceptive vehicle, even the parental bond, and return consciously (the elementary principles remaining, nor yet suffered to depart) under the dominion of another law to life",
+      "ref": "II.3 ¶37",
+      "plain": "The soul loosens her inherited bond to the body and comes back to life consciously under a new law, while the bodily elements stay in place.",
+      "status": "stated",
+      "basis": "¶37, Atwood's 'That is to say' gloss on Porphyry.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "if she know how, and have the right disposition awarded",
+      "ref": "II.3 ¶37",
+      "plain": "Two conditions apply: knowing how, and having the right disposition.",
+      "status": "stated",
+      "basis": "¶37.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "If thou extend the fiery mind to the work of piety,",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "that which was fixed, viz., the sensual compact, is dissolved, and that which is dissolved is renovated",
+      "ref": "II.3 ¶37",
+      "plain": "'The fixed' means the soul's sensual compact with the body. It is dissolved and then renewed. The appearance of corruption during this circulation is a sign that the Art is working.",
+      "status": "stated",
+      "basis": "¶37: 'the corruption and evil of mortality is made manifest in the ultimate circulation of the matter to be renewed, and on either side it is a signal of Art'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the corruption and evil of mortality is made manifest in the ultimate circulation of the matter to be renewed, and on either side it is a signal of Art",
+          "ref": "II.3 ¶37"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "the willing life was made to pass out of its present oblivious fall, through regeneration, into the reminiscent consciousness of her Causal Source",
+      "ref": "II.3 ¶37",
+      "plain": "The outcome is regeneration: a conscious remembrance of one's source. It comes without destroying the body, which is re-entered and strengthened.",
+      "status": "stated",
+      "basis": "¶37 'And all without destruction to the mortal body'; ¶39 'Even through death, re-entering into and fortifying it with the elixir of an immortal life'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Thou shalt preserve the flexible body likewise.",
+          "ref": "II.3 ¶38"
+        },
+        {
+          "text": "Even through death, re-entering into and fortifying it with the elixir of an immortal life.",
+          "ref": "II.3 ¶39"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "should undertake to decompose it stone by stone, setting all aside, with the dirt and rubbish, as he proceeds, he would at last come to the earth which is at the foundation, and have space to build up anew",
+      "ref": "II.3 ¶41",
+      "plain": "The Hermetic process takes natural life apart layer by layer, separating its parts and discarding the rubbish, until it reaches the foundation from which rebuilding can begin.",
+      "status": "stated",
+      "basis": "¶41: 'and thus it would appear to be in the Hermetic process. If any one should take the natural life as it presents itself, opening and analyzing the parts thereof'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "If any one should take the natural life as it presents itself, opening and analyzing the parts thereof, spiritually and wisely, one from another, graciously",
+          "ref": "II.3 ¶41"
+        },
+        {
+          "text": "Terra ab igni, subtile a spisso, suaviter cum multo ingenio",
+          "ref": "II.3 ¶41"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the true alkaline original of life in this threefold essence separately contained",
+      "ref": "II.3 ¶41",
+      "plain": "At the bottom of the analysis lies the hidden original of life, in three essences. The chunk does not name them.",
+      "status": "interpreted",
+      "basis": "¶41 'the basement, wherein is hidden'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "he that has once passed the Aquaster, and entered the Fire World, sees what is both invisible and incredible to common men",
+      "ref": "II.3 ¶41",
+      "plain": "There is a threshold (the Aquaster) and a further region (the Fire World) where hidden things become visible. The chunk does not define Aquaster.",
+      "status": "interpreted",
+      "basis": "¶41.",
+      "voice": "QUOTED: the adept",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the miraculous conspiracy that is between the Prester and the Sun, the external and internal fire of life, the thing desiring and the thing desired",
+      "ref": "II.3 ¶41",
+      "plain": "An outer and an inner fire of life are drawn to each other as desirer and desired. Fire descends from above, unites with a body, and rises again with it in continual exchange.",
+      "status": "stated",
+      "basis": "¶41 apposition; and 'why all influx of fire descends against the nature of fire, and comes from above downwards, until having found a body, it reascends therewith in perpetual interchange'.",
+      "voice": "QUOTED: the adept",
+      "also": [
+        {
+          "text": "why all influx of fire descends against the nature of fire, and comes from above downwards, until having found a body, it reascends therewith in perpetual interchange",
+          "ref": "II.3 ¶41"
+        },
+        {
+          "text": "how the Fire Spirit has its root in the spiritual fire earth",
+          "ref": "II.3 ¶41"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "The Salt of Saturn, that most abstruse principle of the Stone",
+      "ref": "II.3 ¶41",
+      "plain": "The deepest principle of the Stone is a dark, light-deprived ground. The text names it Demogorgon and the mineral soul, says its motion gives rise to the first material universe, and identifies it with Anaxagoras's central earth, whose Being is Tartarus.",
+      "status": "stated",
+      "basis": "¶41 appositions: 'the most ancient Demogorgon --- aethero dempto --- deprived of light, whose perpetual motion emanates the first material universe, and is the mineral soul, This is the earth'.",
+      "voice": "UNCLEAR",
+      "also": [
+        {
+          "text": "A body immarcessible, than which ther is nothing more ancient, vigorous, and young.",
+          "ref": "II.3 ¶41"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "Stoop not down, for a precipice lies below in the earth;",
+      "ref": "II.3 ¶42",
+      "plain": "A warning against descending or inclining downward toward the 'light hating world'. The chunk does not explain it further.",
+      "status": "interpreted",
+      "basis": "¶42 context ('the light hating world', 'Enlarge not thou thy destiny').",
+      "voice": "QUOTED: Oracula Chaldaica",
+      "also": [
+        {
+          "text": "Drawing thro’ the ladder which hath seven steps, Beneath which is the throne of Necessity.",
+          "ref": "II.3 ¶42"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "it is necessary that the soul when purified should associate with its generator",
+      "ref": "II.3 ¶43",
+      "plain": "The purified soul turns back to and joins its source. Knowledge of true Being comes only through this conversion.",
+      "status": "stated",
+      "basis": "¶43: 'the virtue of its after this conversion is said to consist in a scientific knowledge of true Being, which cannot be obtained either otherwise or without such a conversion'.",
+      "voice": "QUOTED: Porphyry; endorsed by ATWOOD",
+      "also": [
+        {
+          "text": "The soul will, after a manner, clasp God to herself",
+          "ref": "II.3 ¶42"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "I approached the confines of death, and, having trod the threshold of Proserpine, I returned from it, being carried through all the Elements. At midnight I saw the Sun shining with a splendid light",
+      "ref": "II.3 ¶45",
+      "plain": "The initiate's account: approaching death, crossing its threshold and returning, passing through all the Elements, and seeing light in the midst of darkness. Atwood offers it as the answer to 'what was said and done'.",
+      "status": "interpreted",
+      "basis": "¶45 framing ('what was said and done?'); it parallels ¶37 (darkness, then divine light) and ¶33 (day-star after night).",
+      "voice": "QUOTED: the Epidaurian",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "Tincture",
+      "variants": [
+        "tincture"
+      ],
+      "meaning": "The chief treasure of the work: an exalted tincture able to tinge and turn things into pure gold.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a certain exalted tincture with which the world, if it served God and were worthy of such gifts, might be tinged and turned into most pure gold",
+          "ref": "II.3 ¶33"
+        }
+      ],
+      "voice": "QUOTED: these famous Christian philosophers"
+    },
+    {
+      "term": "Generation",
+      "variants": [],
+      "meaning": "The realm or process of birth into mortal life, from which strains reach the soul and hide her immortal principle; the 'oblivious realms' the soul is redeemed from.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "those strains are all finally obliterated that accede to the soul from generation",
+          "ref": "II.3 n40"
+        },
+        {
+          "text": "from the oblivious realms of generation",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Ferment",
+      "variants": [],
+      "meaning": "The mode by which the inquisitive light acts: it enters, meets its proper pole and converts the medium into itself.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the inquisitive light once entering as a ferment",
+          "ref": "II.3 n40"
+        }
+      ],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "Hades",
+      "variants": [],
+      "meaning": "The state of the soul while her hypostasis remains in darkness, i.e. while she regards her image objectively before experimental knowledge.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the soul is said to be in Hades all the while that her hypostasis continues in darkness",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Tartarus",
+      "variants": [
+        "Tartarean"
+      ],
+      "meaning": "The region beyond Hades, called the immortal abode to which the Hierophant passed initiates. In ¶41 it is the Being of the central earth.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "to its immortal abode: for such was Tartarus, the next beyond Hades",
+          "ref": "II.3 ¶36"
+        },
+        {
+          "text": "but its Being is Tartarus",
+          "ref": "II.3 ¶41"
+        },
+        {
+          "text": "the physical revealments of these Tartarean realms",
+          "ref": "II.3 ¶34"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hypostasis",
+      "variants": [],
+      "meaning": "Of the soul: while her hypostasis continues in darkness she is in Hades; the 'alone eternal hypostasis' is to be redeemed from the oblivious realms of generation. Not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "her hypostasis continues in darkness",
+          "ref": "II.3 ¶36"
+        },
+        {
+          "text": "the alone eternal hypostasis to be redeemed from thence",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Experimental knowledge",
+      "variants": [],
+      "meaning": "What the soul has not yet attained while she regards her image objectively and is 'in Hades'. Not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "before attaining to the experimental knowledge",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Lesser Mysteries",
+      "variants": [],
+      "meaning": "The first initiation, ending with the soul on the borders of the Stygian lake in view of Tartarus.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "And here the Lesser Mysteries ended",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Grand Mysteries",
+      "variants": [],
+      "meaning": "The next initiation, which affects the mind as death does.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "initiation into the Grand Mysteries",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "QUOTED: Stoboeus / Dr Warburton"
+    },
+    {
+      "term": "Mustai",
+      "variants": [],
+      "meaning": "The aspirants, so called by the Greeks, whom the Hierophant passed on to the immortal abode.",
+      "equivalences": [
+        {
+          "with": "aspirants",
+          "quote": "the aspirants, by the Greeks called Mustai",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "quotes": [],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hierophant",
+      "variants": [],
+      "meaning": "The officiant of the inner temple who passed the aspirants on.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the Hierophant of the inner temple",
+          "ref": "II.3 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Natal bond",
+      "variants": [],
+      "meaning": "The soul's bond in life, which she is about to relinquish with dread during the transition.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "relinquish her natal bond in life",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Identic Source",
+      "variants": [
+        "Causal Source"
+      ],
+      "meaning": "The source in which the soul, in awe, begins to perceive herself, and into whose consciousness she passes through regeneration.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "begins to perceive itself in that Identic Source",
+          "ref": "II.3 ¶37"
+        },
+        {
+          "text": "the reminiscent consciousness of her Causal Source",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Gate of Blackness",
+      "variants": [
+        "happy gate of Blackness",
+        "happy gate of blackness"
+      ],
+      "meaning": "The passage at the beginning of the work through which the great change happens: the soul's willed dissolution of her bond to the body.",
+      "equivalences": [
+        {
+          "with": "precious death",
+          "quote": "That was the way to \"precious death\", spoken of by the Hebrews and Academics, this the \"happy gate of blackness\" celebrates by the old adepts",
+          "ref": "II.3 ¶37"
+        },
+        {
+          "with": "head of Hermes’ crow",
+          "quote": "the \"happy gate of blackness\" celebrates by the old adepts, the \"head of Hermes’ crow\", which is in the beginning of the work",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "O happy gate of Blackness! Cries the adept, which art the passage to so glorious a change!",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Dissolution",
+      "variants": [
+        "dissolve",
+        "dissolved"
+      ],
+      "meaning": "The operation that brings the reward. Atwood describes it as dissolving what was fixed (the sensual compact) so that it can be renovated.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by Dissolution thou shalt possess a triumphant reward",
+          "ref": "II.3 ¶37"
+        },
+        {
+          "text": "that which was fixed, viz., the sensual compact, is dissolved, and that which is dissolved is renovated",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Conceptive vehicle",
+      "variants": [],
+      "meaning": "The soul's vehicle from conception, which she may dissolve.",
+      "equivalences": [
+        {
+          "with": "parental bond",
+          "quote": "she may dissolve her own conceptive vehicle, even the parental bond",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "quotes": [],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Sensual compact",
+      "variants": [],
+      "meaning": "What is 'fixed' and must be dissolved in the work.",
+      "equivalences": [
+        {
+          "with": "that which was fixed",
+          "quote": "that which was fixed, viz., the sensual compact, is dissolved",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "quotes": [],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Twofold death",
+      "variants": [],
+      "meaning": "Common death, in which the body is freed from the soul, and philosophic death, in which the soul is freed from the body.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "there is, says he, a twofold death",
+          "ref": "II.3 ¶37"
+        }
+      ],
+      "voice": "QUOTED: Porphyry"
+    },
+    {
+      "term": "Elixir",
+      "variants": [],
+      "meaning": "What the soul fortifies the body with on re-entering it through death.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "fortifying it with the elixir of an immortal life",
+          "ref": "II.3 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Aquaster",
+      "variants": [],
+      "meaning": "Something one must 'pass' before entering the Fire World; not defined in this chunk.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "he that has once passed the Aquaster, and entered the Fire World",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Fire World",
+      "variants": [],
+      "meaning": "The region entered after the Aquaster, where invisible things are seen.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "entered the Fire World, sees what is both invisible and incredible to common men",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Prester",
+      "variants": [],
+      "meaning": "Paired with the Sun in a 'conspiracy'. The pair is glossed as the external and internal fire of life, and as desiring and desired.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the miraculous conspiracy that is between the Prester and the Sun, the external and internal fire of life, the thing desiring and the thing desired",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Fire Spirit",
+      "variants": [],
+      "meaning": "Rooted in the spiritual fire earth, from which it receives a secret influx that feeds it.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "receives from it a secret influx upon which it feeds",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "voice": "QUOTED: the adept"
+    },
+    {
+      "term": "Salt of Saturn",
+      "variants": [],
+      "meaning": "The most abstruse principle of the Stone. It is deprived of light, its perpetual motion gives rise to the first material universe, and it is the central earth whose Being is Tartarus.",
+      "equivalences": [
+        {
+          "with": "Demogorgon",
+          "quote": "The Salt of Saturn, that most abstruse principle of the Stone --- the most ancient Demogorgon",
+          "ref": "II.3 ¶41"
+        },
+        {
+          "with": "mineral soul",
+          "quote": "whose perpetual motion emanates the first material universe, and is the mineral soul",
+          "ref": "II.3 ¶41"
+        },
+        {
+          "with": "the earth, distinguished by Anaxagoras",
+          "quote": "This is the earth, distinguished by Anaxagoras, which abiding durably in the center",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "quotes": [],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "Stone",
+      "variants": [],
+      "meaning": "The object of the work, whose most abstruse principle is the Salt of Saturn.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "that most abstruse principle of the Stone",
+          "ref": "II.3 ¶41"
+        }
+      ],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "Conversion",
+      "variants": [],
+      "meaning": "The purified soul's turning to associate with its generator; the only way to scientific knowledge of true Being.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "which cannot be obtained either otherwise or without such a conversion",
+          "ref": "II.3 ¶43"
+        }
+      ],
+      "voice": "QUOTED: Porphyry"
+    }
+  ],
+  "sources": [
+    {
+      "name": "these famous Christian philosophers",
+      "work": null,
+      "quote": "When you have discovered the mountain, the first miracle that will appear is this",
+      "use": "Illustrates: supplies the mountain allegory (wind, earthquake, fire, calm, tincture). Atwood qualifies it, saying their promises of gold drew futile public searches.",
+      "refs": [
+        "II.3 ¶33",
+        "II.3 ¶34"
+      ]
+    },
+    {
+      "name": "Aeneid",
+      "work": "Aeneid 6:285",
+      "quote": null,
+      "use": "Reference only (attached to the wild beasts).",
+      "refs": [
+        "II.3 n39"
+      ]
+    },
+    {
+      "name": "divine oracles",
+      "work": null,
+      "quote": null,
+      "use": "Supports: they teach that fire obliterates the strains from generation.",
+      "refs": [
+        "II.3 n40"
+      ]
+    },
+    {
+      "name": "Tract. Aureus",
+      "work": "Tract. Aureus, cap. 4",
+      "quote": null,
+      "use": "Reference only.",
+      "refs": [
+        "II.3 n40"
+      ]
+    },
+    {
+      "name": "Eccles.",
+      "work": "Eccles. 4:28",
+      "quote": null,
+      "use": "Reference only.",
+      "refs": [
+        "II.3 n40"
+      ]
+    },
+    {
+      "name": "1 Kings",
+      "work": "1 Kings 19:11-12",
+      "quote": null,
+      "use": "Reference only.",
+      "refs": [
+        "II.3 n40"
+      ]
+    },
+    {
+      "name": "the Greeks",
+      "work": null,
+      "quote": null,
+      "use": "Contrast: they kept silent about, or poetized, the physical revealments of the Tartarean realms out of fear of vulgar curiosity.",
+      "refs": [
+        "II.3 ¶34"
+      ]
+    },
+    {
+      "name": "Arabian Nights",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: the 'entertaining' style of the Christian philosophers' promises.",
+      "refs": [
+        "II.3 ¶34"
+      ]
+    },
+    {
+      "name": "Milton",
+      "work": "paradise Lost, 1:676",
+      "quote": "That riches grow in hell",
+      "use": "Illustrates: human works are outdone by spirits reprobate.",
+      "refs": [
+        "II.3 ¶35",
+        "II.3 n41"
+      ]
+    },
+    {
+      "name": "Aladdin",
+      "work": null,
+      "quote": "Aladdin’s rapid castle",
+      "use": "Illustrates how such works vanish before celestial light.",
+      "refs": [
+        "II.3 ¶36"
+      ]
+    },
+    {
+      "name": "Platonic discourses",
+      "work": null,
+      "quote": null,
+      "use": "Reference: they describe souls' allotments in Hades and the expiatory rites. Atwood declines to linger on them.",
+      "refs": [
+        "II.3 ¶36"
+      ]
+    },
+    {
+      "name": "the Ethics",
+      "work": null,
+      "quote": null,
+      "use": "Cited for Tartarus as the next region beyond Hades.",
+      "refs": [
+        "II.3 ¶36"
+      ]
+    },
+    {
+      "name": "Euripides",
+      "work": "in Bacchis",
+      "quote": "a dream of death",
+      "use": "Supports: names the threshold where the Lesser Mysteries end. The Bacchae verse (¶43-44) supports purification and initiation.",
+      "refs": [
+        "II.3 ¶36",
+        "II.3 ¶43",
+        "II.3 ¶44",
+        "II.3 n48"
+      ]
+    },
+    {
+      "name": "Stoboeus",
+      "work": "an ancient record (preserved by Stoboeus)",
+      "quote": "The mind is affected and agitated in death, just as it is in initiation into the Grand Mysteries.",
+      "use": "Supports: the conformity of death and the next initiation, and its stages.",
+      "refs": [
+        "II.3 ¶37"
+      ]
+    },
+    {
+      "name": "Dr Warburton",
+      "work": "Divine Legation 1:342",
+      "quote": null,
+      "use": "Translator of the Stoboeus passage ('well rendered').",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 n42"
+      ]
+    },
+    {
+      "name": "Solomon",
+      "work": null,
+      "quote": "the fear of God is the beginning of Wisdom",
+      "use": "Supports: Atwood reads it as the awe of the soul perceiving itself in its source.",
+      "refs": [
+        "II.3 ¶37"
+      ]
+    },
+    {
+      "name": "the son of Dirach",
+      "work": "Eccles. 1:20; 4:17, 18, 28",
+      "quote": "at first she will walk with him by crooked ways, and bring fear and dread upon him",
+      "use": "Supports: Wisdom first tries with fear, then reveals her Secret. Atwood attributes this to the same intimate experience.",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 n43"
+      ]
+    },
+    {
+      "name": "the adept",
+      "work": "Hermes, Tract. Aur., cap. 2; Ripley Revived, 5th Gate",
+      "quote": "O happy gate of Blackness!",
+      "use": "Supports: the noble body that suffers first and is exalted later; the gate of blackness; Dissolution.",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 n44"
+      ]
+    },
+    {
+      "name": "Plato",
+      "work": "Phaedo",
+      "quote": "it is the business of philosophers to study how to be dead",
+      "use": "Supports: philosophic death.",
+      "refs": [
+        "II.3 ¶37"
+      ]
+    },
+    {
+      "name": "Plotinus",
+      "work": null,
+      "quote": null,
+      "use": "Supports: the same doctrine, while condemning suicide.",
+      "refs": [
+        "II.3 ¶37"
+      ]
+    },
+    {
+      "name": "Porphyry",
+      "work": "Auxiliaries to the Perception of Intelligible Natures (Aux. to Intell., sect. 1, 8, 9)",
+      "quote": "the other peculiar to philosophers, in which the soul is liberated from the body",
+      "use": "Supports and explains: the twofold death, which Atwood glosses. In ¶43 (the chapter motto) the purified soul's conversion to its generator.",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 n45",
+        "II.3 ¶43"
+      ]
+    },
+    {
+      "name": "the Hebrews and Academics",
+      "work": null,
+      "quote": "precious death",
+      "use": "Supports: Atwood equates their 'precious death' with the gate of blackness.",
+      "refs": [
+        "II.3 ¶37"
+      ]
+    },
+    {
+      "name": "the truth-telling Oracle",
+      "work": "Oracula Chaldaica",
+      "quote": "If thou extend the fiery mind to the work of piety,",
+      "use": "Supports: piety and the fiery mind preserve the body; the soul's way of return; the warning against stooping down; the soul clasping God.",
+      "refs": [
+        "II.3 ¶37",
+        "II.3 ¶38",
+        "II.3 ¶40",
+        "II.3 ¶42",
+        "II.3 n46",
+        "II.3 n47"
+      ]
+    },
+    {
+      "name": "the adept",
+      "work": null,
+      "quote": "he that has once passed the Aquaster, and entered the Fire World",
+      "use": "Supports: what is seen in the Fire World (Prester and Sun, fire's descent and reascent, the Fire Spirit's root). The extent of the quotation is unclear.",
+      "refs": [
+        "II.3 ¶41"
+      ]
+    },
+    {
+      "name": "Anaxagoras",
+      "work": null,
+      "quote": "hands loftily",
+      "use": "Supports: identifies the central earth with the Salt of Saturn.",
+      "refs": [
+        "II.3 ¶41"
+      ]
+    },
+    {
+      "name": "the Epidaurian",
+      "work": "Apuleius Metam., Book 11",
+      "quote": "I approached the confines of death, and, having trod the threshold of Proserpine, I returned from it",
+      "use": "Illustrates: an initiate's account of what was done in the Mysteries.",
+      "refs": [
+        "II.3 ¶45",
+        "II.3 n49"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "the miraculous conspiracy that is between the Prester and the Sun, the external and internal fire of life, the thing desiring and the thing desired",
+      "ref": "II.3 ¶41",
+      "readings": [
+        "Respective pairing: Prester = external fire = thing desiring; Sun = internal fire = thing desired.",
+        "Collective gloss only: the pair as a whole is outer and inner fire and desirer and desired, with no item-by-item mapping."
+      ],
+      "basis": "The text gives only apposition in parallel order and states no mapping."
+    },
+    {
+      "quote": "This is the earth, distinguished by Anaxagoras, which abiding durably in the center, \"hands loftily\", but its Being is Tartarus;",
+      "ref": "II.3 ¶41",
+      "readings": [
+        "Still the adept's speech (continued from 'continues the adept').",
+        "Atwood's own identification of the Salt of Saturn with Anaxagoras's earth and Tartarus."
+      ],
+      "basis": "No closing quotation mark or attribution marks where the adept's words end in ¶41."
+    },
+    {
+      "quote": "for such was Tartarus, the next beyond Hades, according to the Ethics, the alone eternal hypostasis to be redeemed from thence",
+      "ref": "II.3 ¶36",
+      "readings": [
+        "Tartarus is itself the immortal abode, where the eternal hypostasis is.",
+        "The eternal hypostasis is what is redeemed from Tartarus/Hades into the Elysian recollection of Wisdom."
+      ],
+      "basis": "The sentence is syntactically garbled. It calls Tartarus the 'immortal abode', yet 'redeemed from thence' and 'from the oblivious realms of generation' suggest a place left behind; ¶41 also says the central earth's 'Being is Tartarus'."
+    },
+    {
+      "quote": "and on either side it is a signal of Art",
+      "ref": "II.3 ¶37",
+      "readings": [
+        "Both the dissolving and the renovating are signs of the Art.",
+        "Both the 'precious death' of the Hebrews/Academics and the adepts' 'gate of blackness' signal it."
+      ],
+      "basis": "The preceding sentence pairs 'that which was fixed … is dissolved' with 'that which is dissolved is renovated', and also pairs the philosophic and alchemical names."
+    },
+    {
+      "quote": "the physical revealments of these Tartarean realms",
+      "ref": "II.3 ¶34",
+      "readings": [
+        "The underground region of the mountain allegory (wind, earthquake, fire) is equated with Tartarus.",
+        "A general reference to the infernal regions treated in the Mysteries."
+      ],
+      "basis": "¶34 follows the mountain passage directly; ¶36 speaks of Hades and Tartarus in the Mysteries."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "II.3 ¶39",
+      "original": "Orandum est ut sit mens sana in corpore sano.",
+      "translation": "One must pray that there be a sound mind in a sound body.",
+      "by": "ours"
+    },
+    {
+      "ref": "II.3 ¶41",
+      "original": "Terra ab igni, subtile a spisso, suaviter cum multo ingenio",
+      "translation": "The earth from the fire, the subtle from the dense, gently, with much skill.",
+      "by": "ours"
+    },
+    {
+      "ref": "II.3 ¶41",
+      "original": "aethero dempto",
+      "translation": "the ether having been removed",
+      "by": "ours"
+    },
+    {
+      "ref": "II.3 ¶43",
+      "original": "O beatam quisque felix gnarus Dei",
+      "translation": "O blessed, whoever, happy, knowing of God",
+      "by": "ours"
+    },
+    {
+      "ref": "II.3 ¶44",
+      "original": "Sacroorum, vitam piat; Ac animam initiat Orgyris Bacchans in montibus, Sacris purus lustrationibus",
+      "translation": "[the sacred rites,] purifies his life, and initiates his soul in the orgies, reveling as a Bacchant on the mountains, pure through sacred lustrations.",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "II.3 ¶34",
+      "note": "'thus much of the concordance of these famous Christian philosophers' closes the mountain allegory begun in the preceding chunk (guide, mountain, night)."
+    },
+    {
+      "ref": "II.3 ¶36",
+      "note": "'And here the Lesser Mysteries ended' marks a transition; ¶37 calls what follows 'this next initiation' (the Grand Mysteries)."
+    },
+    {
+      "ref": "II.3 ¶37",
+      "note": "'As the truth-telling Oracle again declares' implies the Oracle was cited earlier."
+    },
+    {
+      "ref": "II.3 ¶37",
+      "note": "'the spiritual regard in the mysteries, already involuted' refers to an involution described earlier, not in this chunk."
+    },
+    {
+      "ref": "II.3 ¶43",
+      "note": "'As Porphyry, in our motto head, declares' points to the chapter's motto, outside this chunk."
+    },
+    {
+      "ref": "II.3 ¶37",
+      "note": "The Greek words in the death/initiation comparison are omitted in this text ('*****')."
+    }
+  ]
+}

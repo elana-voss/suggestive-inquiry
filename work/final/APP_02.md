@@ -1,0 +1,343 @@
+# APP_02
+
+*A run of numbered aphoristic notes (28-62) restating the doctrine: the Art perfects the lowest, mineral life in man by fermenting the vital spirit through another life, purifying, dissolving and regenerating it; it glosses images (Walls of Troy, serpent, body of brass, Saturn, Augean Stable) and names the impediments (self-will, evestrum, impure receiving medium).*
+
+## Argument
+
+- Will alone creates an image; turned to desire for it, will unites with it into a being. `APP ¶36` — ATWOOD
+- Heart-emotions qualitate the Adepts' powers; essence takes form from Ideas. Forming the humanly producible First Mater from one's own mind for particular ends is true idolatry and talismanic Magic. `APP ¶37` — ATWOOD
+- Main principle: natural life-fire fermenting the same life in another frees celestial Life and Light. The third principle develops likewise; the fourth is a retrogression. `APP ¶38, APP ¶39` — ATWOOD
+- The spirit teaches its art to the obedient. The imparter of spirit is moved externally, like wind; the receiver of the Afflatus gains universal consciousness. A fermented life passed to another equally fermented makes the patient exceed the agent. `APP ¶40, APP ¶41, APP ¶42` — ATWOOD
+- Nature lacks a true conceptive vehicle, so its pure matter is not on earth (Lully); truth needs a pure receiving power, as a true mirror gives true reflection. Plotinus shows how pure matter is generated. `APP ¶43` — ATWOOD
+- The Art perfects man's third, mineral life, typifying the Divine (Khunrath). We live only the head life; we should be efficient in the medial life, faith; our state is inversion. The Stone (perfected lowest life) answers to Christ (highest). `APP ¶44, APP ¶45, APP ¶46` — ATWOOD
+- Hermetism is Light's magnetism by its law, the Wisdom. Nature taken into a will is the Fall. The Art interrogates the Sphinx in man's rational spirit. Linear life must return to a circle (tail-biting serpent). `APP ¶47, APP ¶48` — ATWOOD
+- Troy's walls, built by Apollo's music, figure the insphering of lower life; freeing its center evolves Behmen's Mercurius. Throwing them down is the solution, with noise and fear (Haly, uprooted mineral Tree). The nature then born acts as 'He' through us. `APP ¶49, APP ¶50, APP ¶51` — ATWOOD
+- Glosses: body of brass, Hermetic Philosophy (Vaughan), Vegetable spirit. Regeneration evolves the macrocosm's image before the mental eye (Flamel). `APP ¶52, APP ¶53, APP ¶54, APP ¶55` — ATWOOD
+- Power brings conflict; self-will seeks the mystery for itself. The soul's destiny-dream (evestrum) moves the will; grace, the Divine evestrum, lifts us above it. The mystery exceeds ordinary language. `APP ¶56, APP ¶57, APP ¶58` — ATWOOD
+- Mineral life contacts macrocosmic mineral life. The regenerated renounce the head life by sacrifice in faith (Job). Alchemical symbols are more literally true than thought. `APP ¶59, APP ¶60, APP ¶61` — ATWOOD
+- Behmen, deepest ontologist, expresses experienced spiritual qualities; the Universal must develop in you. Entering the Signature reveals things in their roots. Mind's speech into pure Ether specificates; mundane Ether holds false forms. Will is the true body, the Salt. `APP ¶62, APP ¶63, APP ¶64, APP ¶65` — ATWOOD
+- Ontology is emanation from superstantial Light; flat becomes cubic. In Wisdom's Spirit one sees all things' virtues (Solomon, Sendivogius). `APP ¶66, APP ¶67` — ATWOOD
+- Alchemy ferments, purifies and dissolves the vital spirit for regeneration. Seven is rest from ferment. Alchemical elements are those of the Universal Ether, their Quintessence. `APP ¶68, APP ¶69` — ATWOOD
+- The self-begotten life appropriates the hidden Divine Light. The mineral soul first appears as dark vapour, an Augean Stable. Saturn, self-will, is satiated with Rational Light until, like a bursting seed, transmuted. Woman was man's Quintessence. `APP ¶70, APP ¶71, APP ¶72` — ATWOOD
+
+## Method
+
+- **subject** — “The Hermetic Art is a perfectioning of the third or lowest or the mineral life in man” `APP ¶44` (ATWOOD)
+  - **Plain (stated):** The material of the work is the lowest of man's lives (called third, lowest or mineral); the Art brings it to perfection, and the perfected result is the Stone.
+  - Basis: APP ¶44 states it; APP ¶46 identifies the Stone with this life perfected; APP ¶59 restates it.
+  - Also: “the Stone of the Wise is the perfected lowest life, its true consummation, which is mineral in its origin” `APP ¶46`
+  - Also: “The third life, the mineral or lowest life in man, brings you into contact with the Macrocosmic mineral life” `APP ¶59`
+- **principle** — “wheresoever we stand ourselves, there is the relation of the outward life to us itself formed” `APP ¶59` (ATWOOD)
+  - **Plain (stated):** Each level of life in man is related to the corresponding level outside; so working in man's mineral life puts one in contact with the mineral life of the macrocosm.
+  - Basis: APP ¶59 gives this as the reason ('for') the mineral life contacts the Macrocosmic mineral life.
+- **procedure** — “Alchemy is the art of fermenting the human vital spirit in order to purify it and finally to dissolve it, so that the principle be reconstructed through a regeneration.” `APP ¶68` (ATWOOD)
+  - **Plain (stated):** The whole work in sequence: the human vital spirit is fermented, thereby purified, finally dissolved, and its principle rebuilt in a regeneration.
+  - Basis: Direct definition in APP ¶68.
+- **subject** — “The body of brass is the impure natural-born vital spirit.” `APP ¶52` (ATWOOD)
+  - **Plain (stated):** 'Body of brass' names the vital spirit as it is by natural birth, still impure.
+  - Basis: Direct gloss in APP ¶52.
+- **agent** — “The fire of the natural life entering into and fermenting the natural fire --- the same life in another --- opens the last, and develops and excites and sets free the celestial Life and Light” `APP ¶38` (ATWOOD)
+  - **Plain (stated):** The natural vital fire of one, entering and fermenting the same vital fire in another, opens that other and releases in it the celestial Life and Light. Atwood calls this 'one main principle'.
+  - Basis: APP ¶38 states it directly; whether 'another' means another person is left open (see ambiguities).
+- **principle** — “When one life being fermented throws its life to another equally fermented, a greater perfection is produced in the patient than was before in the agent who imparts it.” `APP ¶42` (ATWOOD)
+  - **Plain (stated):** When life passes from one fermented subject to another equally fermented, the receiver ends more perfected than the giver was; this is how the vital force progresses.
+  - Basis: APP ¶42: 'That is the law of progression of the Vital force'.
+- **operator** — “He who imparts the spirit to another is as the wind that blows, moved by an influence external to itself.” `APP ¶41` (ATWOOD)
+  - **Plain (stated):** The one who transmits the spirit is not its source but is moved by an outside influence.
+  - Basis: APP ¶41 explains the saying 'Ut ventus qui flat, est ille qui dat' this way.
+- **result** — “Qui capit, ille sapit” `APP ¶41` (ATWOOD)
+  - **Plain (stated):** The one who receives the Afflatus (the imparted spirit) gains wisdom, because it awakens in him a consciousness related to the universal.
+  - Basis: APP ¶41: it 'refers to the wisdom imparted by the reception of the Afflatus, since it awakens in him a consciousness related to the universal'.
+- **agent** — “The spirit teaches its own art, and according as it is obeyed the artist goes on developing the way for him to advance itself to perfection.” `APP ¶40` (ATWOOD)
+  - **Plain (stated):** The spirit itself guides the work; the practitioner's progress depends on obeying it.
+  - Basis: Direct statement in APP ¶40.
+- **operator** — “The powers developed, of which the Adepts speak, are produced from emotional sources in the heart, which emotional influences qualitate those powers” `APP ¶37` (ATWOOD)
+  - **Plain (stated):** The Adepts' powers are shaped by heart-emotions such as contrition, purity, mercy and humility; emotion produces essence, which takes its form from the universal Ideas of Nature.
+  - Basis: APP ¶37: 'Emotion beings forth essence, and essence is qualitated, i.e., specificated, and receives form from Ideas or the universal forms of Nature'.
+- **impediment** — “it is a taking the First Mater which is humanly producible, and forming it finitely and for any particular object or individual end” `APP ¶37` (ATWOOD)
+  - **Plain (stated):** Misuse of the work: giving the humanly producible First Mater a form from one's own mind, for a particular private end, instead of from the universal forms; Atwood calls this true idolatry and the origin of talismanic Magic.
+  - Basis: APP ¶37: 'in this consists the true idolatry against which the Bible so strongly protests, and that Magic which originated Talismans, Palladia, etc.'
+  - Also: “in lower degree and unlawfully, man may specificate and qualitate from his own mind” `APP ¶37`
+- **principle** — “The will passing into desire for the image creates it by union with itself into a being” `APP ¶36` (ATWOOD)
+  - **Plain (stated):** Will alone yields only an image; when will turns into desire for that image and unites with it, a real being results.
+  - Basis: APP ¶36.
+  - Also: “Will creates an image, not a being.” `APP ¶36`
+- **principle** — “There is no true body but Will; it is the principle of the body --- the Salt.” `APP ¶65` (ATWOOD)
+  - **Plain (stated):** Will is the true principle of body, and this is what 'Salt' names.
+  - Basis: Direct identification in APP ¶65.
+- **principle** — “everything depends on the purity of the receiving power” `APP ¶43` (ATWOOD)
+  - **Plain (stated):** Truth is received only through a pure, simple medium of conception that admits nothing foreign, as a true mirror gives a true reflection; ordinary nature has no such medium.
+  - Basis: APP ¶43: 'you must have a pure conceptive medium; that is true which is conceived simple, without any heterogeneous element'.
+  - Also: “Give a perfectly true mirror, the reflection of objects would be true.” `APP ¶43`
+- **operator** — “We have no right to be efficient in the present head life; our business is to be efficient in the medial life --- in faith” `APP ¶45` (ATWOOD)
+  - **Plain (stated):** Man ordinarily lives only in the head life; he should act not from it but from the medial life, which is faith, and thereby become effective toward the divine life above. Our present state is inverted.
+  - Basis: APP ¶45.
+  - Also: “Our present state is one of inversion.” `APP ¶45`
+- **operator** — “Those who are Hermetically regenerated in this world have given up the Head life or the animal, the rational life” `APP ¶60` (ATWOOD)
+  - **Plain (stated):** The regenerated renounce the animal, rational head life (but not 'the Divine inseeing of the Celestial life') and enter our Lord's life by a sacrifice in faith that they will be restored by Him.
+  - Basis: APP ¶60; Job's story is called 'a type of that'.
+- **procedure** — “The Art is a question put to Nature respecting the first cause” `APP ¶48` (ATWOOD)
+  - **Plain (stated):** The work is an inquiry into the first cause, addressed not to outward nature but to the spirit in man, which can answer when questioned rationally.
+  - Basis: APP ¶48: 'To the stronghold of the Sphinx herself in the spirit in man. This spirit being reason-gifted can answer if rationally interrogated.'
+  - Also: “it is an extortion from Protean and Sphynx-like forms of the true answer” `APP ¶48`
+- **result** — “the serpent with his tail in his mouth is the chosen illustration of this reduction of the linear into the circular life” `APP ¶48` (ATWOOD)
+  - **Plain (stated):** The tail-biting serpent stands for taking life, which now runs outward in a line, back into its first source as a circle.
+  - Basis: APP ¶48: 'in other words life has to be taken back into its forst source'.
+- **stage** — “The Walls of Troy are a figure (and were meant by the poets and traditionalists to be so) of the insphering of the lower life” `APP ¶49` (ATWOOD)
+  - **Plain (stated):** The walls of Troy stand for the enclosing of the lower life within a sphere, done 'in a great resonance'; Apollo, whose music built them, is that life.
+  - Basis: APP ¶49: 'Apollo is that life, and it is coruscant'.
+  - Also: “Those walls were said to be built by the music of Apollo.” `APP ¶49`
+- **sign** — “in the setting free of that center, of that coruscation, there is a harmony; what Behmen calls the Mercurius, or spirit of the Sound, is evolved” `APP ¶49` (ATWOOD)
+  - **Plain (interpreted):** Releasing the flashing center of that life produces a harmony, in which Behmen's Mercurius ('spirit of the Sound') is evolved. The following clause, 'the ether round the sun is compacted and solidified', is not explained here.
+  - Basis: APP ¶49 states the identification with Behmen's Mercurius; treating it as a sign of the work rests on its place between the insphering (APP ¶49) and the solution (APP ¶50).
+- **stage** — “The throwing down of the Walls of this is harmony-ensphered life is the Alchemical solution” `APP ¶50` (ATWOOD)
+  - **Plain (stated):** The alchemical 'solution' (dissolution) is the breaking open of that ensphered lower life.
+  - Basis: Direct identification in APP ¶50.
+- **sign** — “this also is accompanied with noise, as Haly says” `APP ¶50` (ATWOOD)
+  - **Plain (stated):** The solution is accompanied by noise; in 'another figure', the mineral Tree (roots in the air, summit in the earth) is torn up with a terrible sound and great fear.
+  - Basis: APP ¶50 states the noise and introduces the Tree as 'another figure' of the same.
+  - Also: “when they are torn from their places a terrible sound is heard and a great fear is felt” `APP ¶50`
+- **result** — “when this nature is born in us it asserts itself (or rather, I should say, He asserts Himself, for it is more that It) through us” `APP ¶51` (ATWOOD)
+  - **Plain (interpreted):** The nature born in the practitioner acts through him as a personal agent ('He') rather than an impersonal force; this chunk does not say who 'He' is.
+  - Basis: APP ¶51 alone; 'this nature' is read as what follows the solution of APP ¶50.
+- **principle** — “The Hermetic Philosophy is a process of experimentation into the Universal Spirit through man” `APP ¶53` (ATWOOD)
+  - **Plain (stated):** The work is an experiment carried out in and through man, by which a particular spirit is joined to the universal spirit.
+  - Basis: APP ¶53: 'the art by which a particular spirit (to use Vaughan’s words) is allied to the universal'.
+  - Also: “Hermetism is the magnetism of Light according to its own law” `APP ¶47`
+- **sign** — “is evolved before the mental eye in the recreative process of the regeneration” `APP ¶55` (ATWOOD)
+  - **Plain (stated):** During regeneration the whole image of the macrocosm, typified in man the microcosm, unfolds before inner sight.
+  - Basis: APP ¶55.
+- **impediment** — “In the work, wherever there is power there is a conflict: the multitudinous enemies try to rush in” `APP ¶56` (ATWOOD)
+  - **Plain (stated):** Wherever power develops in the work, opposing forces press in, and the self-willed spirit tries to seize the mystery for itself with lures; the enemies are not otherwise identified.
+  - Basis: APP ¶56.
+  - Also: “the self-willed spirit endeavors to gain the mystery and offers all its lures in order to get the end for itself” `APP ¶56`
+- **impediment** — “we may rise above this evestrum, as Paracelsus calls it” `APP ¶57` (ATWOOD)
+  - **Plain (stated):** The 'evestrum' is the dream of its whole afterlife, its destiny, with which the soul enters the body; it supplies motives to a will that does not see beyond it, and is seldom passed except by God's grace, called the Divine evestrum.
+  - Basis: APP ¶57: 'unless moved by God’s grace (the Divine evestrum, relatively to man), and so are enabled to overcome it'.
+- **operator** — “you must have the Universal developed in you before you can understand the Universal” `APP ¶65` (ATWOOD)
+  - **Plain (stated):** Understanding of the universal comes only from having it developed within oneself; Behmen's terms (hardness, enclosing, coldness, attraction, compunction) record such inner experience of spiritual qualities.
+  - Basis: APP ¶65: such words are 'expressive, as far as such an instrument can be, of internal knowledge and consciousness'.
+- **agent** — “The speech of Mind uttered into the pure Ether qualitates and specificates.” `APP ¶64` (ATWOOD)
+  - **Plain (stated):** Mind gives specific form by 'speaking' into the pure Ether, which is connected with the supersensual life, not into the mundane Ether, which is full of false forms.
+  - Basis: APP ¶64 states the act and the two-fold Ether.
+- **result** — “When an entrance is effected into the Signature, then there is a clearing of the understanding” `APP ¶63` (ATWOOD)
+  - **Plain (interpreted):** Entering 'the Signature' (not defined here) clears the understanding to see the life in the Divine Wisdom and to know things in their roots; likewise one who finds the Wisdom and looks out in its Spirit sees the nature and virtues of all things.
+  - Basis: APP ¶63 states the result of entering the Signature without defining it; linking it with APP ¶67 (finding the Wisdom) is an inference from the parallel outcome.
+  - Also: “If you find the Wisdom, and coming out in the Spirit of Wisdom, look into the world, then you may see as Solomon did the nature and virtues of all things.” `APP ¶67`
+- **principle** — “The Alchemical symbols, phrases, metaphors, which so disguise the art are more than what they seem; they point out a reality” `APP ¶61` (ATWOOD)
+  - **Plain (stated):** The disguising symbols refer to something real and would prove more literally true than supposed to one in their spirit.
+  - Basis: APP ¶61.
+- **stage** — “The great principle of the number seven is a Rest from the ferment or action of the Vitalizing or Divine principles.” `APP ¶69` (ATWOOD)
+  - **Plain (stated):** Seven signifies rest after the fermenting action of the vitalizing or Divine principles.
+  - Basis: Direct statement in APP ¶69.
+- **subject** — “When speaking of the four elements, Alchemists refer to the four elements of the Universal Ether.” `APP ¶69` (ATWOOD)
+  - **Plain (stated):** The alchemists' 'four elements' are four principles of the Universal Ether, which is their quintessence and 'the Quintessence of both worlds'.
+  - Basis: APP ¶69.
+- **subject** — “The Divine Light, the Essence of Gold, is hidden in the self-begotten life.” `APP ¶70` (ATWOOD)
+  - **Plain (stated):** The 'gold' sought is the Divine Light, concealed within man's own self-begotten life.
+  - Basis: Direct identification in APP ¶70.
+- **impediment** — “This life of ours, instead of administering to the Divine Life, appropriates it.” `APP ¶70` (ATWOOD)
+  - **Plain (stated):** Our self-begotten life takes the Divine Life for itself instead of serving it.
+  - Basis: APP ¶70.
+- **sign** — “when first seen by introspection, is as a dark vapour, monstrum, horrendum, informe, ingens, cui lumen ademptum” `APP ¶71` (ATWOOD)
+  - **Plain (stated):** On first inward view the mineral soul (lowest life) appears as a dark, shapeless, monstrous vapour; its cleansing is a Herculean labour, the Augean Stable.
+  - Basis: APP ¶71 identifies the mineral soul seen by introspection with this vapour and with the Augean Stable.
+  - Also: “it is the Augean Stable the cleansing of which involved Hercules in so much labour” `APP ¶71`
+- **impediment** — “Saturn or the self-willed life” `APP ¶72` (ATWOOD)
+  - **Plain (stated):** 'Saturn' names the self-willed life in man, which first traps the Light and then craves more to feed what it has trapped.
+  - Basis: APP ¶72: 'He first of all entraps the Light, and then he longs for more to feed that center which he has entrapped'.
+- **procedure** — “he must be given from without plenty "of the honey of the bees", the aurific seed, the Rational Light” `APP ¶72` (ATWOOD)
+  - **Plain (stated):** The self-willed life is overcome not by force but by satiation: it is fed abundantly, from outside, with the Rational Light (also called 'honey of the bees' and 'aurific seed').
+  - Basis: APP ¶72: 'can only be overcome in the process by satiation'.
+  - Also: “Saturn or the self-willed life can only be overcome in the process by satiation” `APP ¶72`
+- **result** — “the selfish Saturnine life in man when once it has passed into its new life, or rather admitted it, assimilates that life into itself and becomes itself transmuted” `APP ¶72` (ATWOOD)
+  - **Plain (stated):** Fed with Light, the selfish life grows past itself, as a seed bursts its husk into flower and grows for another generation, and is transmuted.
+  - Basis: APP ¶72 gives the seed comparison explicitly.
+
+## Terms
+
+- **mineral life** — The third or lowest life in man, mineral in origin; the subject the Hermetic Art perfects; brings one into contact with the Macrocosmic mineral life; lower than the Vegetable and Animal lives in us; first seen by introspection as a dark vapour. (ATWOOD)
+  - = third life; lowest life in man: “The third life, the mineral or lowest life in man” `APP ¶59`
+  - = mineral soul; lowest form of life in us: “The mineral soul or the lowest form of life in us” `APP ¶71`
+  - “The Vegetable and Animal lives are higher than the mineral life in us.” `APP ¶59`
+  - “a perfectioning of the third or lowest or the mineral life in man” `APP ¶44`
+- **head life** (also: Head life) — The one life we presently live; we have no right to be efficient in it; the Hermetically regenerated give it up. (ATWOOD)
+  - = animal, rational life: “the Head life or the animal, the rational life” `APP ¶60`
+  - “We live in but one life, the head life, but there are three possible lives” `APP ¶45`
+- **medial life** — The life in which we ought to be efficient; through it we are efficient for the divine life immediately over us. (ATWOOD)
+  - = faith: “efficient in the medial life --- in faith” `APP ¶45`
+- **power life** — One of three modes of consciousness (with the sensible and the perceptive); conjoined to the other two it makes them efficient. (ATWOOD)
+  - “either in the sensible, the perceptive, or the power life; this last conjoined to the other two makes them efficient” `APP ¶45`
+- **inversion** — Our present state. (ATWOOD)
+  - “Our present state is one of inversion.” `APP ¶45`
+- **Stone of the Wise** (also: Philosopher’s Stone) — The perfected lowest life, its true consummation, mineral in origin; analogous to Christ the Head Corner Stone. (ATWOOD)
+  - = perfected lowest life: “the Stone of the Wise is the perfected lowest life, its true consummation” `APP ¶46`
+- **Hermetic Art** (also: the Art) — The perfecting of the mineral life in man, typifying the celestial and Divine; a question put to Nature respecting the first cause. (ATWOOD)
+  - “The Art is a question put to Nature respecting the first cause” `APP ¶48`
+- **Hermetic Philosophy** — Experimentation into the Universal Spirit through man; the art by which a particular spirit is allied to the universal. (ATWOOD)
+  - “a development of the art by which a particular spirit (to use Vaughan’s words) is allied to the universal” `APP ¶53`
+- **Hermetism** — The magnetism of Light according to its own law; that Law is its emanating spirit, called wisdom. (ATWOOD)
+  - = magnetism of Light: “Hermetism is the magnetism of Light according to its own law” `APP ¶47`
+- **Wisdom** (also: wisdom) — The Law of Light, its emanating spirit; in its Spirit one may see the nature and virtues of all things. (ATWOOD)
+  - = Law of Light; its emanating spirit: “which Law is its emanating spirit called wisdom, for it is the Wisdom” `APP ¶47`
+  - “If you find the Wisdom, and coming out in the Spirit of Wisdom, look into the world” `APP ¶67`
+- **Alchemy** — The art of fermenting the human vital spirit to purify it and finally dissolve it, so that the principle is reconstructed through a regeneration. (ATWOOD)
+  - “Alchemy is the art of fermenting the human vital spirit” `APP ¶68`
+- **Alchemical solution** — The throwing down of the walls of the harmony-ensphered life; accompanied with noise. (ATWOOD)
+  - = throwing down of the Walls: “The throwing down of the Walls of this is harmony-ensphered life is the Alchemical solution” `APP ¶50`
+- **insphering** (also: harmony-ensphered) — The enclosing of the lower life, figured by the Walls of Troy, done in a great resonance. (ATWOOD)
+  - “of the insphering of the lower life; it is done in a great resonance” `APP ¶49`
+- **coruscation** (also: coruscant) — The flashing center of the lower life (Apollo); its setting free produces harmony. (ATWOOD)
+  - “Apollo is that life, and it is coruscant” `APP ¶49`
+- **Mercurius** — Behmen's term for what is evolved in the harmony when the coruscant center of the lower life is set free. (ATWOOD)
+  - = spirit of the Sound: “what Behmen calls the Mercurius, or spirit of the Sound, is evolved” `APP ¶49`
+- **body of brass** — The impure natural-born vital spirit. (ATWOOD)
+  - = impure natural-born vital spirit: “The body of brass is the impure natural-born vital spirit.” `APP ¶52`
+- **vital spirit** — Man's life-spirit; impure as naturally born; what Alchemy ferments, purifies and dissolves. (ATWOOD)
+  - “the human vital spirit” `APP ¶68`
+- **Vital force** — The life passed between fermented lives; it progresses by transmission from agent to patient. (ATWOOD)
+  - “That is the law of progression of the Vital force” `APP ¶42`
+- **Vegetable spirit** — The growth-causing spirit, predominant in the vegetable kingdom. (ATWOOD)
+  - = growth-causing spirit: “The Vegetable spirit is the growth-causing spirit” `APP ¶54`
+- **natural fire** (also: fire of the natural life) — The vital fire of the natural life; fermented by the same life from another, it is opened and frees the celestial Life and Light. (ATWOOD)
+  - “sets free the celestial Life and Light” `APP ¶38`
+- **ferment** (also: fermenting, fermented) — The action of one life on another (or on the vital spirit) that opens it and frees a higher life; also the action of the Vitalizing or Divine principles, from which seven is a rest. (ATWOOD)
+  - “When one life being fermented throws its life to another equally fermented” `APP ¶42`
+  - “a Rest from the ferment or action of the Vitalizing or Divine principles” `APP ¶69`
+- **Afflatus** — The imparted spirit whose reception gives wisdom by awakening a consciousness related to the universal. (ATWOOD)
+  - “the wisdom imparted by the reception of the Afflatus” `APP ¶41`
+- **qualitate** (also: qualitated, qualitative, qualitates) — To give specific quality and form; essence is qualitated by Ideas, and the speech of Mind qualitates in the pure Ether. (ATWOOD)
+  - = specificate: “essence is qualitated, i.e., specificated, and receives form from Ideas” `APP ¶37`
+  - “The speech of Mind uttered into the pure Ether qualitates and specificates.” `APP ¶64`
+- **Ideas** — That from which essence receives form. (ATWOOD)
+  - = universal forms of Nature: “Ideas or the universal forms of Nature” `APP ¶37`
+- **First Mater** — Something humanly producible, which may be unlawfully formed finitely for a particular end. (ATWOOD)
+  - “it is a taking the First Mater which is humanly producible” `APP ¶37`
+- **idolatry** — In a special sense: man specificating and qualitating from his own mind, forming the First Mater for a particular end. (ATWOOD)
+  - “in this consists the true idolatry against which the Bible so strongly protests” `APP ¶37`
+- **conceptive medium** (also: conceptive vehicle) — The receiving medium through which universal principles are conceived; nature lacks a true one; it must be pure and simple for truth. (ATWOOD)
+  - “There is no such thing as truth absolute in nature, because she has no true conceptive vehicle” `APP ¶43`
+  - “Thus everything depends on the purity of the receiving power.” `APP ¶43`
+- **pure matter** — Not to be found on earth (Lully); Plotinus shows how it is generated. (ATWOOD)
+  - “You may find out in Plotinus how that pure matter is generated.” `APP ¶43`
+- **Ether** (also: ether, Universal Ether) — Two-fold: the mundane, full of false forms, and the pure, not of this world, connected with the supersensual life. The Universal Ether is the quintessence of the four elements and the Quintessence of both worlds. (ATWOOD)
+  - = quintessence of the four principles called elements: “This Ether is a quintessence of those very four principles, which they call elements.” `APP ¶69`
+  - = Quintessence of both worlds: “It is the Quintessence of both worlds.” `APP ¶69`
+  - “The Ether is two-fold: the mundane, which is full of the false forms; the pure, which is not of this world” `APP ¶64`
+- **four elements** (also: elements) — In alchemical usage, the four elements (principles) of the Universal Ether. (ATWOOD)
+  - = four elements of the Universal Ether: “Alchemists refer to the four elements of the Universal Ether” `APP ¶69`
+- **Quintessence** (also: quintessence) — The essence of a whole: the Ether of the four elements and of both worlds; man of the whole creation; woman of man. (ATWOOD)
+  - “As man was the Quintessence of the whole creation, so woman was the Quintessence of man --- the love-spirit was in her.” `APP ¶72`
+- **Salt** — The principle of the body, which is Will. (ATWOOD)
+  - = Will: “There is no true body but Will; it is the principle of the body --- the Salt.” `APP ¶65`
+- **Will** (also: will) — Creates an image, not a being; passing into desire for the image it unites with it into a being. The only true body. (ATWOOD)
+  - “Will creates an image, not a being.” `APP ¶36`
+- **evestrum** — Paracelsus's term, applied to the dream of its whole afterlife with which the soul enters the body, its destiny, which moves a will that does not see beyond it. God's grace is called 'the Divine evestrum, relatively to man', by which we overcome it. (ATWOOD)
+  - “the soul comes into this body with the dream of its whole afterlife presented to it” `APP ¶57`
+  - “God’s grace (the Divine evestrum, relatively to man)” `APP ¶57`
+- **Saturn** (also: Saturnine) — The self-willed life; entraps the Light and craves more; overcome by satiation and then transmuted. (ATWOOD)
+  - = self-willed life: “Saturn or the self-willed life” `APP ¶72`
+  - “the selfish Saturnine life in man” `APP ¶72`
+- **Rational Light** — What must be given from without, in plenty, to satiate Saturn. (ATWOOD)
+  - = honey of the bees; aurific seed: “plenty "of the honey of the bees", the aurific seed, the Rational Light” `APP ¶72`
+- **Divine Light** — Hidden in the self-begotten life, which appropriates the Divine Life instead of serving it. (ATWOOD)
+  - = Essence of Gold: “The Divine Light, the Essence of Gold” `APP ¶70`
+- **self-begotten life** — 'This life of ours', in which the Divine Light is hidden and which appropriates it. (ATWOOD)
+  - “This life of ours, instead of administering to the Divine Life, appropriates it.” `APP ¶70`
+- **Microcosm** — That in which the whole image of the macrocosm is formed and typically represented. (ATWOOD)
+  - “The whole image of the macrocosm is formed, and has consequently its typical representation, in the Microcosm” `APP ¶55`
+- **regeneration** (also: regenerated) — The recreative process in which the principle of the vital spirit is reconstructed and the macrocosm's image is evolved before the mental eye; the Hermetically regenerated give up the head life. (ATWOOD)
+  - “so that the principle be reconstructed through a regeneration” `APP ¶68`
+  - “the recreative process of the regeneration” `APP ¶55`
+- **Signature** — That into which an entrance clears the understanding to know things in their roots; not further defined here. (ATWOOD)
+  - “the knowledge of things in their roots” `APP ¶63`
+- **emanation** — The whole doctrine of ontological infolding: emanation from the superstantial Light or will; the darkness is the emanation; the qualitated and flat becomes cubic by multiplication into itself. (ATWOOD)
+  - = darkness: “The darkness is the emanation” `APP ¶66`
+  - “emanation from the superstantial Light or will” `APP ¶66`
+- **Mathesis** — Used for the emanation's passage from flat to cubic: 'Mathesis becoming geometric'. (ATWOOD)
+  - “It is Mathesis becoming geometric.” `APP ¶66`
+- **Universal Spirit** (also: the Universal) — That into which the Hermetic Philosophy experiments through man; the Universal must be developed in one to be understood. (ATWOOD)
+  - “you must have the Universal developed in you before you can understand the Universal” `APP ¶65`
+- **Fall** — Nature's being taken from the primal source into a will (sentence garbled as printed). (ATWOOD)
+  - “Nature has taken from the primal source into a will is the history of the Fall.” `APP ¶48`
+- **linear life** — Our life now goes forth into a line; it must be taken up into a circle (the circular life), back into its first source. (ATWOOD)
+  - “Our life goes forth into a line at present, it has to be taken up into a circle” `APP ¶48`
+- **seven** — Its great principle is a Rest from the ferment of the Vitalizing or Divine principles. (ATWOOD)
+  - “The great principle of the number seven is a Rest” `APP ¶69`
+
+## Sources cited
+
+- **Behmen**, *Three-fold Life* `APP ¶36` — Compared (chap. 10, 12) for will begetting a being out of its own image.
+- **Behmen** `APP ¶49, APP ¶62, APP ¶65` — His Mercurius, or spirit of the Sound, cited for the harmony freed from the lower life; called the deepest writer on ontological subjects, less scientific than the Platonists but more descriptive, awakening, suggestive; his three primary forms and doctrine of the Absolute Will read as expressions of conscious experience of the creative mystery. Endorsed.
+- **Behmen**, *Signatura Rerum* — “through the principle in the sound with the voice” `APP ¶63, APP ¶65` — Supports (chap. I, 1) knowledge of things in their roots, 'out of their essence', on entering the Signature; his words hardness, enclosing, coldness, attraction, compunction (Ch. II, 12) read as expressing spiritual emotions known inwardly.
+- **the Bible** `APP ¶37` — Its protest against idolatry applied to unlawful specificating from one's own mind.
+- **old Alchemical sayings** — “Ut ventus qui flat, est ille qui dat” `APP ¶41` — Support the transmission of spirit (imparter as wind) and, with 'Qui capit, ille sapit', the wisdom of the receiver.
+- **our Lord** — “The wind bloweth where it listeth” `APP ¶41, APP ¶46, APP ¶60` — His words called analogous to the wind saying; Christ the Head Corner Stone is the analogue of the Stone; the regenerated enter his life.
+- **Raymond Lully** — “The pure matter of the philosophers is not to be found on earth” `APP ¶43` — Supports the claim that nature has no pure conceptive vehicle.
+- **Plotinus** `APP ¶43` — Referred to for how pure matter is generated.
+- **Khunrath** `APP ¶44, APP ¶46` — Teaches essentially that the Art perfects the mineral life and typifies the Divine; with Grsaeus insists on the Stone/Christ analogy, which Atwood defends as 'more than pardonable'.
+- **Grsaeus**, *Aquarium* `APP ¶46` — Stone/Christ the Head Corner Stone analogy, endorsed as a 'versimilitude'.
+- **the poets and traditionalists** `APP ¶49` — Meant the Walls of Troy, said to be built by Apollo's music, as a figure of the insphering of the lower life.
+- **Haly** `APP ¶50` — Says the Alchemical solution is accompanied with noise.
+- **Chaldaic Oracles** `APP ¶50` — Compared for the solution ('Article Hecate, etc.'); reference only.
+- **Hermes**, *Golden Treatise* `APP ¶51` — Compared (cap. 4) for the nature born in us asserting itself through us.
+- **Vaughan** — “a particular spirit” `APP ¶53` — His words used for the art by which a particular spirit is allied to the universal.
+- **Nic. Flamel** `APP ¶55` — Compared for the macrocosm's image evolved before the mental eye in regeneration.
+- **Paracelsus**, *Phil. Ad Athen, B. 2* — “evestrum” `APP ¶57` — Source of the term evestrum for the soul's destiny-dream.
+- **Job** `APP ¶60` — His story 'all a type' of the Hermetically regenerated's sacrifice in faith.
+- **the Platonists** `APP ¶62` — Contrasted with Behmen: more scientific, less descriptive.
+- **Solomon** `APP ¶67` — Illustrates seeing the nature and virtues of all things in the Spirit of Wisdom.
+- **Sendivogius** — “looks not out on nature with the eyes of common men” `APP ¶67` — Supports the Philosopher's different sight of nature ('a very eloquent passage').
+- **Hercules** `APP ¶71` — His labour of cleansing the Augean Stable figures the cleansing of the mineral soul.
+
+## Ambiguities
+
+- “contrition, live, purity, mercy, humility” `APP ¶37`
+  - Reading: 'live' is a misprint for 'love'
+  - Reading: 'live' as printed
+  - Basis: It stands in a list of heart-emotions; the text gives no other sense for 'live' there.
+- “the same life in another” `APP ¶38`
+  - Reading: another person: vital fire passed between two people
+  - Reading: another seat or vessel of the same life, not specified as a person
+  - Basis: Person: APP ¶41 'He who imparts the spirit to another' and APP ¶42 'patient' and 'agent'. APP ¶38 itself does not say a person is meant.
+- “The fourth contrariwise; it is a procreation of the third through the second --- a retrogression.” `APP ¶39`
+  - Reading: a separate numbered series of principles, of which APP ¶38 gives 'one main principle', with the first and second not given here
+  - Reading: the numbered lives of APP ¶44-45/¶59 (third = mineral life, second possibly the medial life)
+  - Basis: APP ¶39 opens 'The third principle is developed in like manner' after APP ¶38's unnumbered 'one main principle'; APP ¶44 and ¶59 use 'third' for the mineral life, and APP ¶45 names a 'medial' life. No identification is stated.
+- “either in the sensible, the perceptive, or the power life” `APP ¶45`
+  - Reading: corresponds to the mineral/vegetable/animal lives of APP ¶59
+  - Reading: corresponds to the head, medial and divine lives named later in APP ¶45
+  - Reading: a separate triad not mapped onto either
+  - Basis: APP ¶45 lists both triads in one paragraph without equating them; APP ¶59-60 call the head life animal/rational and rank vegetable and animal above mineral.
+- “Nature has taken from the primal source into a will is the history of the Fall.” `APP ¶48`
+  - Reading: '[That] Nature has [been] taken from the primal source into a will' is the Fall
+  - Reading: Nature has taken [something] from the primal source into a will of its own, and this is the Fall
+  - Basis: The sentence is grammatically incomplete as printed; APP ¶70 and ¶72 speak of the self-begotten, self-willed life appropriating the Divine, consistent with either.
+- “the ether round the sun is compacted and solidified” `APP ¶49`
+  - Reading: an outward cosmic effect of the inner harmony
+  - Reading: a figure for the inner 'sun' (Apollo, 'that life') being given a body
+  - Basis: APP ¶49 identifies Apollo with 'that life' and places this clause after the freeing of its center; no further explanation is given.
+- “He asserts Himself, for it is more that It” `APP ¶51`
+  - Reading: 'He' is a divine person
+  - Reading: 'He' personifies the nature born in us, without further identification
+  - Basis: APP ¶51 corrects 'it' to 'He' without naming the referent; APP ¶46 and ¶60 associate the work with 'our Lord'.
+- “they renounce a word, their life is sealed in another Covenant” `APP ¶60`
+  - Reading: 'word' is a misprint for 'world'
+  - Reading: 'a word' as printed (some utterance or vow)
+  - Basis: The same paragraph speaks of those 'in this world' cutting themselves off from the head life; the text gives no clarification.
+
+## Translations
+
+- `APP ¶41` “Ut ventus qui flat, est ille qui dat” → As the wind that blows, so is he who gives. *(ours)*
+- `APP ¶41` “Qui capit, ille sapit” → He who receives, he is wise. *(ours)*
+- `APP ¶42` “sic itur ad astra!” → Thus one goes to the stars! *(ours)*
+- `APP ¶71` “monstrum, horrendum, informe, ingens, cui lumen ademptum” → a monster, dreadful, shapeless, huge, deprived of light *(ours)*
+
+## Threads
+
+- `APP ¶36` The notes are numbered (28) to (62), continuing a numbered series begun before this chunk.
+- `APP ¶39` 'The third principle is developed in like manner' and 'The fourth contrariwise' presuppose an enumeration of principles (first, second) not given here.
+- `APP ¶43` 'You may find out in Plotinus how that pure matter is generated' points to Plotinus.
+- `APP ¶50` 'Compare also the Chaldaic Oracles (Article Hecate, etc.)' points to a reference on Hecate.
+- `APP ¶51` Points to Hermes' Golden Treatise, cap. 4.
+- `APP ¶72` 'of the honey of the bees' is set in quotation marks without attribution, pointing to an unnamed source.

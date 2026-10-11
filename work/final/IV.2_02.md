@@ -1,0 +1,313 @@
+# IV.2_02
+
+*Atwood presents the ancient Mysteries as fulfilled and made brighter in Christ and Christian regeneration. She then sets out the work as reducing nature to Monadic simplicity: the Binary is rejected and life is carried in an ascending and descending circulation through a Third principle. Water and Spirit do the work while the artist only keeps the heat, and the Stone is completed in three circulations. Knowledge of the First Cause is received in silence and the stilling of mental energy.*
+
+## Argument
+
+- He whom Patriarchs and prophets awaited and Ethnic philosophers adored was made manifest in Jesus Christ, the Word of Life. `IV.2 ¶15, IV.2 n10` — ATWOOD
+- Scripture: baptism with Water gives way to baptism 'with the Holy Ghost and with Fire'; the chaff is burned. `IV.2 ¶15, IV.2 n11` — QUOTED: St Matthew
+- The Bishop of Alexandria: at the Light of Torches God's veil falls; the Lord is Hierophanta, sealing and illuminating the Adepts. `IV.2 ¶16, IV.2 n12` — QUOTED: the Bishop of Alexandria
+- The Mysteries of Antiquity only changed form, growing brighter under Christianity: baptismal regeneration was effectual, the Eucharist a true consummation, and Faith under the cross brought Christ forth in each regenerate life (Hebrews). `IV.2 ¶17, IV.2 n13` — ATWOOD
+- The Theosophist: reduce the Ternary by the Quaternary, rejecting the Binary, to the Monad, so body, soul and spirit rest in Jesus. Water and the Spirit, in all things, regenerate the Principles of our Chaos (Trismegistus). `IV.2 ¶18, IV.2 n14, IV.2 n15` — QUOTED: the Theosophist
+- The Adept: proceed patiently, not manually. An invisible Artist, the Spirit of God incubating nature, works; the operator only keeps the outward heat. The Spirit washes its body with water to immortality. In the incarnation four elements joined Unity and Ternarius: seven, the Sabaoth. Salvation is Transmutation. `IV.2 ¶18, IV.2 n16` — QUOTED: the Adept
+- Atwood completes it: of life's principles in the circulation. This is the true metempsychosis: the human Identity passing out of animal existence to Reason re-entering its First Cause, emanating a Fourth Form after a threefold growth of Light. `IV.2 ¶18` — ATWOOD
+- One ray of the True Light, perfected in the Saviour, can cleanse our leprous life. `IV.2 ¶19, IV.2 n17` — ATWOOD
+- Seeking any end but the First Cause bears only the fruit of the Fall. Intermediates serve generation but are rejected in accomplishment. As self-identification needs self-ablation, Nature reaches the Monad only by rejecting her Binary, since the Duad breeding directly yields discordant offspring. Carried upward through a Third principle, the circulation is rectified, dies, rises by reversion, and reveals the Flower of Intellect (Hermetic Riddle). `IV.2 ¶20` — ATWOOD
+- This seems the Catholic Art of Reason, which the Chaldaic oracle also pursues: Monad, Duad, ruling Triad, and from the Matrix a Prester, the Flower of glowing Fire. `IV.2 ¶21, IV.2 ¶22, IV.2 ¶23, IV.2 ¶24, IV.2 ¶25, IV.2 ¶26, IV.2 ¶27, IV.2 ¶28, IV.2 ¶29, IV.2 n18` — ATWOOD
+- The mind's ascending and descending has an exact machinery, simple but hard for common sense: Mercury, Sulphur, immortal Salt. Freed Will and Understanding attract like steel and loadstone. `IV.2 ¶30` — ATWOOD
+- Our loadstone's center holds the Salt, Eirenaeus's gold-calcining menstruum, and turns to the Pole, the heart of the mercury, a true Fire. The work is like creation (Genesis); philosophical Heaven and Earth, agent and patient, must unite in love. `IV.2 ¶30, IV.2 n19` — QUOTED: the Adept
+- Latin verses on fixing the fugitive and binding in three hours. `IV.2 ¶31, IV.2 n20` — QUOTED: Maria
+- Rotary circulation exalts the Spirit from voluntary indigence until its light is seen. The First refuses it, the Second disregards it, the Fourth as artist applies it; the rejected Stone becomes Head Stone of the Corner. `IV.2 ¶32` — ATWOOD
+- The Stone is completed in three circulations, like Solomon's Temple. From Ulysses bidding silence, Atwood concludes quietude and cessation of mental energy are necessary to know the First Cause (Trismegistus: Divine Silence). Schelling: we wake from Intellectual Intuition as from death, keeping only the vision. `IV.2 ¶33, IV.2 n21, IV.2 n22` — ATWOOD
+
+## Method
+
+- **agent** — “It is the Lord himself who is the Hierophanta. He sets his seal upon the Adepts, whom he illuminates with his beams” `IV.2 ¶16` (QUOTED: the Bishop of Alexandria)
+  - **Plain (interpreted):** In the Christian form of the Mysteries the initiator is the Lord himself, and initiation is being illuminated by him.
+  - Basis: IV.2 ¶16, read with Atwood's comment in IV.2 ¶17 that the Mysteries 'changed their form only to appear more resplendent when Christianity came to be the prevailing religion'.
+  - Also: “at the Light of Torches, the veil that covers God and Heaven falls off” `IV.2 ¶16`
+- **principle** — “when Faith, by humiliation under the exemplar cross of Christ, brought Him forth anew in each regenerate life” `IV.2 ¶17` (ATWOOD)
+  - **Plain (stated):** Christian regeneration continues the ancient Mysteries: its rites worked, and through humility and faith Christ is brought forth again within each regenerate person.
+  - Basis: IV.2 ¶17.
+  - Also: “when baptismal regeneration was an effectual rite, and the Eucharist a true consummation” `IV.2 ¶17`
+- **procedure** — “reduce the Ternary by the Quaternary, through the rejection of the Binary, to the simplicity of the Monad” `IV.2 ¶18` (QUOTED: the Theosophist)
+  - **Plain (interpreted):** Bring a threefold back to simple unity, by means of a fourfold, rejecting the twofold. The purpose clause suggests the threefold is body, soul and spirit; the role of the Quaternary is not explained here.
+  - Basis: IV.2 ¶18: 'that thy body, soul, and spirit be gathered to rest in the name of Jesus'. Later in ¶18 the Quaternarius is 'four elements'. IV.2 ¶20 explains why the Binary is rejected. See ambiguities.
+  - Also: “that thy body, soul, and spirit be gathered to rest in the name of Jesus” `IV.2 ¶18`
+- **agent** — “The work is performed by an invisible Artist; for there is a secret incubation of the Spirit of God upon nature” `IV.2 ¶18` (QUOTED: the Adept)
+  - **Plain (stated):** The real worker is the Spirit of God brooding within nature, not the human operator.
+  - Basis: IV.2 ¶18: the clause after 'invisible Artist' glosses it.
+- **operator** — “you must only see that the outward heat fails not, but with the subject itself you have no more to do than the mother with child that is in her womb” `IV.2 ¶18` (QUOTED: the Adept)
+  - **Plain (stated):** The operator's only task is to keep the outward heat constant; the subject develops by itself and is not handled.
+  - Basis: IV.2 ¶18.
+  - Also: “Proceed then patiently but not manually.” `IV.2 ¶18`
+- **agent** — “The two former principles perform all.” `IV.2 ¶18` (QUOTED: the Adept)
+  - **Plain (stated):** Water and Spirit do the whole work: the Spirit uses the water to purify its body and bring it to an immortal state. Both are present in everything, so each thing already holds the seed of its own regeneration.
+  - Basis: IV.2 ¶18: 'regenerated by Water and the Spirit. These two are in all things'; the next sentence has the Spirit using the water to purge its body.
+  - Also: “The Spirit makes use of the water to purge and wash his body, and he will bring it at last to a celestial immortal constitution.” `IV.2 ¶18`
+  - Also: “Learn to unite the Principles of our Chaos to a new Life, and they will be regenerated by Water and the Spirit.” `IV.2 ¶18`
+  - Also: “These two are in all things, and each has in himself, as Trismegistus says, the seed of his own regeneration” `IV.2 ¶18`
+- **result** — “Three and Four make seven. This Sepentary is the true Sabaoth, the rest of God, into which the creature shall enter.” `IV.2 ¶18` (QUOTED: the Adept)
+  - **Plain (stated):** Uniting the four elements with Unity and the Ternary gives seven, God's rest, which the creature is to enter. The incarnation is offered as the model proving this possible, and called the plainest guidance the Adept can give.
+  - Basis: IV.2 ¶18.
+  - Also: “the Quaternarius, or four elements, as some call them, were united to their eternal Unity and Ternarius” `IV.2 ¶18`
+  - Also: “This is the best and plainest manuduction that I can give you” `IV.2 ¶18`
+- **principle** — “Salvation is nothing else but a Transmutation” `IV.2 ¶18` (QUOTED: the Adept)
+  - **Plain (stated):** Salvation and transmutation are the same. Atwood specifies: a transmutation of the component principles of life, carried out in the circulation.
+  - Basis: IV.2 ¶18: the Adept states the identity; Atwood completes the sentence with '--- of the component principles of life in the circulation'.
+  - Also: “of the component principles of life in the circulation” `IV.2 ¶18`
+- **result** — “And this is the true metempsychosis” `IV.2 ¶18` (ATWOOD)
+  - **Plain (stated):** In the Ancient Schools of Divinity, metempsychosis (a source of many errors in the common acceptance) meant the human self passing out of animal earthly life, through its ethereal elements, to the Reason that re-enters its First Cause.
+  - Basis: IV.2 ¶18 defines it ('signified neither more nor less than...') against 'many errors in the common acceptancy'; the chunk does not say what those errors are.
+  - Also: “a transmigrating of the human Identity out of this animal terrene existence through the ethereal elements of its original fundamentals of nature” `IV.2 ¶18`
+  - Also: “attain to that supremacy of Reason which re-enters to its First Cause” `IV.2 ¶18`
+- **stage** — “by a Triplicate growth of Light in the Understanding, becoming consciously allied, It emanates a Fourth Form, truthful, godlike, being the express image of its motive magically portrayed” `IV.2 ¶18` (ATWOOD)
+  - **Plain (interpreted):** Light grows in the understanding in three steps; once consciously united, a fourth, godlike form emerges as the image of what moved it.
+  - Basis: IV.2 ¶18 gives the sequence. Its match with the three circulations (IV.2 ¶33) and 'the Fourth, as the artist' (IV.2 ¶32) is an inference; see ambiguities.
+- **agent** — “one ray of which, intrinsically permeating, is able to cleanse this leprous life of ours, and convert it to the virtue and perfect potency of its Whole” `IV.2 ¶19` (ATWOOD)
+  - **Plain (interpreted):** A single ray of the True Light, perfected in the Saviour, working from within, purifies our corrupted life and restores its full power.
+  - Basis: IV.2 ¶19. 'Leprous' read as corrupt/impure because the ray 'cleanse[s]' it.
+- **impediment** — “nothing else is worth seeking, or can terminate in good, but will be the fruit of the Fall only” `IV.2 ¶20` (ATWOOD)
+  - **Plain (stated):** Seeking the First Cause in any other Light, or aiming at any other end, goes against reason and only adds to the effects of the Fall.
+  - Basis: IV.2 ¶20.
+  - Also: “whosoever in any other Light or Form of Light should look for the First Cause, or for any other Final Cause in this, except the First, would seek contrary to reason” `IV.2 ¶20`
+  - Also: “The rule of Wisdom, in the verification of her Light, is absolute” `IV.2 ¶20`
+- **principle** — “though intermediates apply themselves naturally for the generation, they are rejected in the accomplishment” `IV.2 ¶20` (ATWOOD)
+  - **Plain (stated):** Intermediate stages or agents are needed to produce the result but are discarded when the work is completed.
+  - Basis: IV.2 ¶20 says it directly; the Latin maxim that follows ties completion to prior rejection.
+- **operator** — “as the absolute Identification in theory is not conceived but by self-ablation and avoidance” `IV.2 ¶20` (ATWOOD)
+  - **Plain (stated):** The seeker must remove and deny the self. This self-denial in theory corresponds, in practice, to Nature rejecting her Binary.
+  - Basis: IV.2 ¶20 gives this as the explanation of the Latin maxim and draws the theory/practice parallel.
+  - Also: “Non fit ad monadis simplicitatem reductio, nisi rejiciatur prius a teipso devitatio et tui abnegatio.” `IV.2 ¶20`
+- **impediment** — “if in the Duad the divine Idea were suffered immediately to bring forth, an imperfect offspring would result, and discordant by predominance of either generating extreme” `IV.2 ¶20` (ATWOOD)
+  - **Plain (stated):** The Binary must be rejected because two principles generating directly give an imperfect, unbalanced result with one side dominating, as ordinary life shows.
+  - Basis: IV.2 ¶20 gives this as the reason, adding 'as in this life is manifest'.
+  - Also: “neither is Nature reduced to the Monadic simplicity of her Element but by rejection of her Binary conception” `IV.2 ¶20`
+- **stage** — “by carrying the circulation upward through a Third principle for reprobation, it is rectified, overcome in its proper volition, and dying (if the divine rule be thenceforth followed), is raised again by reversion” `IV.2 ¶20` (ATWOOD)
+  - **Plain (interpreted):** Instead of letting the pair generate directly, the circulation is led upward through a third principle that rejects or corrects it; it is set right, its own will is overcome, it dies, and it is raised again by turning back.
+  - Basis: The sequence is stated in IV.2 ¶20. 'Reprobation' is read as rejection/correction from 'rejection of her Binary conception' and 'rectified' in the same paragraph. The Third principle is not identified; see ambiguities.
+- **procedure** — “through a diligent analysis passing, as it were, from heaven to earth and from earth to heaven, it receives the strength of superiors and of inferiors” `IV.2 ¶20` (ATWOOD)
+  - **Plain (interpreted):** The work is a repeated ascent and descent between higher and lower that gathers strength from both; Atwood elsewhere calls it the mind's progress ascending and descending.
+  - Basis: IV.2 ¶20 with IV.2 ¶30 ('recreant progress of mind, ascending and descending'); IV.2 ¶32 names a 'rotary circulation'.
+  - Also: “Such is the recreant progress of mind, ascending and descending throughout life, for the investigation of its manifold resources and powers” `IV.2 ¶30`
+- **result** — “to make manifest the Flower of Intellect retrospectively to its Archetypal Source” `IV.2 ¶20` (ATWOOD)
+  - **Plain (interpreted):** The goal is the flowering of intellect turned back to its original source; Atwood names the whole process reason investigating her First Source.
+  - Basis: IV.2 ¶20 with IV.2 ¶21. 'Flower of Intellect' is not further explained.
+  - Also: “the Catholic Art of Reason investigating her First Source” `IV.2 ¶21`
+- **principle** — “wheel within wheel revolving vitally, Mercury, Sulphur, and an immortal Salt” `IV.2 ¶30` (ATWOOD)
+  - **Plain (interpreted):** Mercury, Sulphur and Salt are the parts of the 'exact machinery' of the mind's ascending and descending; the method is simple but hard for common sense to grasp. The chunk does not map each to a faculty.
+  - Basis: IV.2 ¶30: the three stand in apposition to 'an exact machinery' within 'the recreant progress of mind'.
+  - Also: “a method which, though simple, is difficult for common sense to conceive aright” `IV.2 ¶30`
+  - Also: “a mainspring exquisitely tempered, an enduring pivot” `IV.2 ¶30`
+- **procedure** — “as steel draws the loadstone and the loadstone in like manner turns toward steel, so is it with the separated principles of Will and Understanding in their freed state” `IV.2 ¶30` (UNCLEAR)
+  - **Plain (stated):** Once Will and Understanding have been separated and freed, they attract each other as steel and magnet do.
+  - Basis: IV.2 ¶30 makes the comparison explicitly.
+- **agent** — “our loadstone contains in its inmost center an abundance of that marvelous Salt, which is that menstruum in the sphere of Saturn mentioned by Eirenaeus, which can calcine gold” `IV.2 ¶30` (QUOTED: the Adept)
+  - **Plain (stated):** The Salt at the center of 'our loadstone' is the menstruum strong enough to calcine gold. That the loadstone stands for the freed Will/Understanding is suggested by the simile just before but not stated.
+  - Basis: IV.2 ¶30 asserts the identity ('which is').
+- **sign** — “In this Pole is the heart of the mercury, which is a true Fire, in which its Lord rests” `IV.2 ¶30` (QUOTED: the Adept)
+  - **Plain (stated):** The center turns toward a Pole, where the steel's virtue grows; the Pole holds the heart of the mercury, which is a true Fire. Guided by the light its own magnet shows, it reaches its origin. Pole and Polar Star are not decoded further.
+  - Basis: IV.2 ¶30 asserts 'heart of the mercury, which is a true Fire'; the rest of the image is unexplained.
+  - Also: “This center turns naturally towards the Pole where the virtue of the steel is gradually strengthened.” `IV.2 ¶30`
+  - Also: “guided by the Light of that Polar Star which our Magnet exhibits, it arrives at its original destination” `IV.2 ¶30`
+- **sign** — “though they should see the Central Pole extravasated and bearing the notable Sign of Omnipotence” `IV.2 ¶30` (QUOTED: the Adept)
+  - **Plain (interpreted):** A visible sign: the central pole comes forth bearing a mark of omnipotence, which fools disregard. This chunk does not explain it.
+  - Basis: IV.2 ¶30; the Sign is unexplained.
+- **principle** — “their work may be likened to the creation of the world” `IV.2 ¶30` (QUOTED: the Adept)
+  - **Plain (stated):** The Wise model the work on Genesis 1: formless earth and dark deep, the Spirit moving on the waters, then light.
+  - Basis: IV.2 ¶30 quotes Genesis 1 and adds 'these words may suffice'.
+- **result** — “the Heaven and Earth philosophical, even as agent and patient, must be united upon the throne of friendship and love” `IV.2 ¶30` (QUOTED: the Adept)
+  - **Plain (stated):** Philosophical 'Heaven' and 'Earth' are the active and passive principles; they must be lastingly united in harmony.
+  - Basis: IV.2 ¶30: 'even as agent and patient' glosses Heaven and Earth.
+- **stage** — “Gummis cum binis fugitivum figit in imis,” `IV.2 ¶31` (QUOTED: Maria)
+  - **Plain (interpreted):** Roughly (our translation): with two gums the fugitive is fixed below, and the bond is made in three hours. The chunk does not explain the verse.
+  - Basis: Rests only on our translation of IV.2 ¶31. Any link of 'three hours' to the three circulations of IV.2 ¶33 is conjecture.
+  - Also: “Horis in trinis vinclat fortia finis.” `IV.2 ¶31`
+  - Also: “Maria lux roris ligam ligat in tribus horis,” `IV.2 ¶31`
+- **stage** — “the Spirit goes on to increase and multiply its hidden light outwardly, until its substance, being replenished, it is brought forth to sight” `IV.2 ¶32` (ATWOOD)
+  - **Plain (stated):** Raised by rotary circulation from a beginning in voluntary poverty through successive spheres, the Spirit's hidden light grows outward until it becomes visible.
+  - Basis: IV.2 ¶32.
+  - Also: “Thus exalted by a rotary circulation, as it were, from the lowest to the most perfect form of vitality” `IV.2 ¶32`
+  - Also: “from its beginning in voluntary indigence, through each succeeding sphere of resolute conception” `IV.2 ¶32`
+- **operator** — “And the Fourth, as the artist, applies it to the work in the furtherance, thus proving himself from first to last to be essential, and the greatest Handicraft of all” `IV.2 ¶32` (ATWOOD)
+  - **Plain (interpreted):** The First and Second have 'it' but refuse or disregard it; the Fourth, as artist, applies it and is essential throughout. Who these are is not stated, and no Third is named here.
+  - Basis: IV.2 ¶32. See ambiguities.
+  - Also: “The First has it and refuses it; the Second fives it and regards it not” `IV.2 ¶32`
+- **result** — “the Stone, so singularly raised up by the builders each in turn rejecting each it, becomes the Head Stone of the Corner” `IV.2 ¶32` (ATWOOD)
+  - **Plain (interpreted):** The Stone is what each successive stage passes on and rejects; it ends as the crowning piece of the work.
+  - Basis: IV.2 ¶32 joins it to the First/Second/Fourth sequence; IV.2 ¶20 has intermediates 'rejected in the accomplishment'.
+- **stage** — “as the Stone of the Wise is completed in three successive circulations” `IV.2 ¶33` (ATWOOD)
+  - **Plain (stated):** The Stone takes three successive circulations, compared to Solomon's Temple built with Hiram and Queen Sheba.
+  - Basis: IV.2 ¶33.
+  - Also: “the Temple of mighty Solomon built up by the joint assistance of Hiram and Queen Sheba” `IV.2 ¶33`
+- **operator** — “for the proper reception of divinity, quietude and a cessation of mental energy are becoming and necessary to the consummating knowledge of the First Cause” `IV.2 ¶33` (ATWOOD)
+  - **Plain (stated):** To receive the final knowledge of the First Cause the seeker must be still: active thinking stops and the senses rest.
+  - Basis: IV.2 ¶33: Atwood's reading of Ulysses' command, backed by Trismegistus.
+  - Also: “Be silent, repress your intellect, and do not speak. For this is the custom of the gods in Olympus” `IV.2 ¶33`
+  - Also: “the knowledge of it, says Trismegistus, is a most Divine Silence, and a rest of all the senses” `IV.2 ¶33`
+- **result** — “loosing it from the bodily senses and motions, it draweth it from the body, and changeth it wholly into the Essence of God” `IV.2 ¶33` (QUOTED: Trismegistus)
+  - **Plain (stated):** That knowledge lights the whole soul, frees it from senses and body, and changes it into God's Essence.
+  - Basis: IV.2 ¶33.
+- **result** — “We awaken from the Intellectual Intuition, says Schelling, as from a state of death” `IV.2 ¶33` (QUOTED: Schelling)
+  - **Plain (stated):** The highest intuition does not last: on returning to reflective personality God can no longer be known, and only the remembered vision remains, because reason is limited.
+  - Basis: IV.2 ¶33.
+  - Also: “we awaken, by reflection, into that created personality wherein it is impossible any longer to know Him” `IV.2 ¶33`
+  - Also: “The vision graven in hallowed memory is all that remains to us” `IV.2 ¶33`
+  - Also: “the object of human reason is the limit of its power, and the pure zero of all relative conception waits before the throne of God” `IV.2 ¶33`
+
+## Terms
+
+- **Mysteries** (also: mysteries) — The Mysteries of Antiquity, which changed form and grew more resplendent under Christianity, as effectual baptismal regeneration and the Eucharist. (ATWOOD)
+  - “Thus the Mysteries of Antiquity changed their form only to appear more resplendent when Christianity came to be the prevailing religion” `IV.2 ¶17`
+- **Hierophanta** — The role the Lord himself fills in the true mysteries: he seals the Adepts and illuminates them. (QUOTED: the Bishop of Alexandria)
+  - “It is the Lord himself who is the Hierophanta.” `IV.2 ¶16`
+- **Adepts** (also: Adept) — The initiated, whom the Lord seals and illuminates. 'The Adept' also names a cited speaker in this chunk. (QUOTED: the Bishop of Alexandria)
+  - “He sets his seal upon the Adepts” `IV.2 ¶16`
+- **regeneration** (also: regenerated, regenerate) — Renewal by Water and the Spirit; baptismal regeneration is named an effectual rite, and Christ is brought forth anew in each regenerate life. (ATWOOD)
+  - “baptismal regeneration was an effectual rite” `IV.2 ¶17`
+  - “the seed of his own regeneration” `IV.2 ¶18`
+- **Monad** (also: Monadic, monadis) — The simple unity to which the Ternary is reduced and Nature brought back by rejecting the Binary. In the Chaldaic oracle the (Paternal) Monad generates Two and rules the Triad. (ATWOOD)
+  - “to the simplicity of the Monad” `IV.2 ¶18`
+  - “the Monadic simplicity of her Element” `IV.2 ¶20`
+  - “The Monad is enlarged which generates Two,” `IV.2 ¶22`
+- **Binary** — Twofold conception, which must be rejected for Nature to reach Monadic simplicity. (ATWOOD)
+  - “through the rejection of the Binary” `IV.2 ¶18`
+  - “by rejection of her Binary conception” `IV.2 ¶20`
+- **Duad** — The generating pair. If the divine Idea brings forth directly in it, the offspring is imperfect and discordant through predominance of either extreme. In the oracle it sits beside the Monad. (ATWOOD)
+  - “For if in the Duad the divine Idea were suffered immediately to bring forth, an imperfect offspring would result” `IV.2 ¶20`
+  - “For the Duad sits beside him and glitters with intellectual sections,” `IV.2 ¶22`
+- **Ternary** (also: Ternarius) — A threefold reduced, by the Quaternary and rejection of the Binary, to the Monad. In the incarnation the four elements were united to the eternal Unity and Ternarius. (QUOTED: the Theosophist)
+  - “reduce the Ternary by the Quaternary” `IV.2 ¶18`
+  - “were united to their eternal Unity and Ternarius” `IV.2 ¶18`
+- **Quaternary** (also: Quaternarius) — The fourfold, through which the Ternary is reduced; identified with the four elements. (QUOTED: the Adept)
+  - = four elements: “the Quaternarius, or four elements, as some call them” `IV.2 ¶18`
+  - “reduce the Ternary by the Quaternary” `IV.2 ¶18`
+- **Sepentary** — The seven made when Three and Four unite (the four elements with Unity and Ternarius); the rest of God that the creature shall enter. (QUOTED: the Adept)
+  - = Sabaoth, the rest of God: “This Sepentary is the true Sabaoth, the rest of God” `IV.2 ¶18`
+  - “Three and Four make seven.” `IV.2 ¶18`
+- **Chaos** — Holds the Principles that are to be united to a new Life and regenerated by Water and the Spirit. (UNCLEAR)
+  - “Learn to unite the Principles of our Chaos to a new Life” `IV.2 ¶18`
+- **Water and the Spirit** — The two principles, present in all things, that regenerate and perform the whole work; the Spirit uses the water to purge and wash its body. (QUOTED: the Adept)
+  - “These two are in all things” `IV.2 ¶18`
+  - “The two former principles perform all.” `IV.2 ¶18`
+- **invisible Artist** — The true worker of the work, glossed as the secret incubation of the Spirit of God upon nature. (QUOTED: the Adept)
+  - = secret incubation of the Spirit of God upon nature: “The work is performed by an invisible Artist; for there is a secret incubation of the Spirit of God upon nature” `IV.2 ¶18`
+- **Transmutation** — What salvation is. Atwood completes the Adept's statement: a transmutation of the component principles of life in the circulation. (QUOTED: the Adept)
+  - = Salvation: “Salvation is nothing else but a Transmutation” `IV.2 ¶18`
+  - “of the component principles of life in the circulation” `IV.2 ¶18`
+- **metempsychosis** — In the Ancient Schools of Divinity (as opposed to the common acceptance, which has bred many errors), the human Identity passing out of animal terrene existence through ethereal elements toward the Reason that re-enters its First Cause. (ATWOOD)
+  - “a transmigrating of the human Identity out of this animal terrene existence through the ethereal elements of its original fundamentals of nature” `IV.2 ¶18`
+- **Fourth Form** (also: the Fourth) — What the Identity emanates after a threefold growth of Light in the Understanding: truthful, godlike, the express image of its motive. In ¶32 'the Fourth', as artist, applies 'it' to the work. The text does not assert that the two are the same. (ATWOOD)
+  - “It emanates a Fourth Form, truthful, godlike” `IV.2 ¶18`
+  - “And the Fourth, as the artist, applies it to the work in the furtherance” `IV.2 ¶32`
+- **True Light** — The Light perfected in the Saviour; one ray of it cleanses our life. (ATWOOD)
+  - “The True Light, which lighteth every man that cometh into the world” `IV.2 ¶19`
+- **First Cause** — The only proper object of seeking. Reason re-enters it, and its consummating knowledge comes in quietude and cessation of mental energy. (ATWOOD)
+  - “attain to that supremacy of Reason which re-enters to its First Cause” `IV.2 ¶18`
+  - “the consummating knowledge of the First Cause” `IV.2 ¶33`
+- **circulation** (also: rotary circulation, circulations) — The upward and downward movement of the life-principles between heaven and earth, by which they are rectified and exalted; the Stone is completed in three of them. (ATWOOD)
+  - “by carrying the circulation upward through a Third principle for reprobation” `IV.2 ¶20`
+  - “Thus exalted by a rotary circulation” `IV.2 ¶32`
+  - “completed in three successive circulations” `IV.2 ¶33`
+- **Third principle** — That through which the circulation is carried upward 'for reprobation', instead of letting the Duad generate directly. Not identified further here. (ATWOOD)
+  - “through a Third principle for reprobation” `IV.2 ¶20`
+- **Flower of Intellect** — What the rectified circulation makes manifest, turned back toward its Archetypal Source. (ATWOOD)
+  - “to make manifest the Flower of Intellect retrospectively to its Archetypal Source” `IV.2 ¶20`
+- **Catholic Art of Reason** — Atwood's name, hedged with 'it would seem', for the process just described: Reason investigating her First Source. (ATWOOD)
+  - “the Catholic Art of Reason investigating her First Source” `IV.2 ¶21`
+- **Triad** (also: triad) — In the Chaldaic oracle, the threefold that shines throughout the world under the Monad's rule; Virtue, Wisdom and Verity appear in it, and all things serve its three Principles. (QUOTED: Chaldaic oracle)
+  - “For in the whole world shineth the Triad over which the Monad rules.” `IV.2 ¶22`
+  - “And there appeared in it (the triad) Virtue, Wisdom, and multscient Verity;” `IV.2 ¶24`
+- **Prester** — In the oracle, the 'Flower of glowing Fire' extracted from the matter springing from the Matrix, flashing into the cavities of the world. Not otherwise explained. (QUOTED: Chaldaic oracle)
+  - = Flower of glowing Fire: “Whence is extracted a Prester the Flower of glowing Fire,” `IV.2 ¶28`
+  - “The Matrix containing all things” `IV.2 ¶28`
+- **Mercury, Sulphur, and Salt** — Named as working parts of the exact machinery of the mind's ascending and descending progress. (ATWOOD)
+  - “wheel within wheel revolving vitally, Mercury, Sulphur, and an immortal Salt” `IV.2 ¶30`
+- **Will and Understanding** — Separated principles which, once freed, attract each other like steel and loadstone. (UNCLEAR)
+  - “the separated principles of Will and Understanding in their freed state” `IV.2 ¶30`
+- **Salt** — An immortal Salt in the mind's machinery; abundant in the center of 'our loadstone' and identified with Eirenaeus's gold-calcining menstruum in the sphere of Saturn. (QUOTED: the Adept)
+  - = menstruum in the sphere of Saturn: “that marvelous Salt, which is that menstruum in the sphere of Saturn mentioned by Eirenaeus, which can calcine gold” `IV.2 ¶30`
+- **loadstone** (also: Magnet) — Steel and loadstone attracting each other is compared to freed Will and Understanding. 'Our loadstone' has Salt at its center, which turns toward the Pole; 'our Magnet' shows the Polar Star. (UNCLEAR)
+  - “And as steel draws the loadstone and the loadstone in like manner turns toward steel” `IV.2 ¶30`
+  - “that Polar Star which our Magnet exhibits” `IV.2 ¶30`
+- **Pole** (also: Central Pole) — Where the loadstone's center turns and the steel's virtue grows stronger; in it is the heart of the mercury, which is a true Fire, in which its Lord rests. (QUOTED: the Adept)
+  - “This center turns naturally towards the Pole where the virtue of the steel is gradually strengthened.” `IV.2 ¶30`
+  - “In this Pole is the heart of the mercury, which is a true Fire” `IV.2 ¶30`
+- **Heaven and Earth philosophical** — Treated as agent and patient, which must be united in friendship and love. (QUOTED: the Adept)
+  - = agent and patient: “the Heaven and Earth philosophical, even as agent and patient” `IV.2 ¶30`
+- **Stone of the Wise** (also: Stone, Head Stone of the Corner) — The product of the work: raised up by the builders while each in turn rejects it, it becomes the Head Stone of the Corner, and it is completed in three circulations. (ATWOOD)
+  - “as the Stone of the Wise is completed in three successive circulations” `IV.2 ¶33`
+- **Intellectual Intuition** — A state from which one awakens 'as from a state of death' into created personality, where He can no longer be known. (QUOTED: Schelling)
+  - “We awaken from the Intellectual Intuition, says Schelling, as from a state of death” `IV.2 ¶33`
+- **Divine Silence** — The knowledge of the First Cause: a rest of all the senses in which the soul is drawn from the body and changed into the Essence of God. (QUOTED: Trismegistus)
+  - “the knowledge of it, says Trismegistus, is a most Divine Silence, and a rest of all the senses” `IV.2 ¶33`
+
+## Sources cited
+
+- **St. John**, *First Epistle Gen.* — “That which was from the Beginning, which they had heard, and seen with their eyes” `IV.2 ¶15, IV.2 n10` — Supports: Christ as the Word of Life made manifest, the one awaited by prophets and philosophers.
+- **St Matthew** — “He shall baptize you with the Holy Ghost and with Fire” `IV.2 ¶15, IV.2 n11` — Illustrates: baptism by Water versus by the Holy Ghost and Fire; purging the floor and burning the chaff.
+- **the Bishop of Alexandria (footnote: Clemens Alexandrinus)** — “It is the Lord himself who is the Hierophanta.” `IV.2 ¶16, IV.2 n12` — Supports: the Mysteries continued in Christianity, with the Lord as Hierophanta illuminating the Adepts. Footnote link depends on reading marker (2) as n12.
+- **De Septchenes**, *Relig. of the Greeks* `IV.2 n12` — Reference only (given with Clemens Alexandrinus).
+- **St Paul**, *to the Hebrews* — “God, who at sundry times and in divers manners spake in times past unto the Fathers by the prophets” `IV.2 ¶17, IV.2 n10, IV.2 n13` — Supports: revelation in the Son surpasses every earlier revelation of the Light.
+- **the Theosophist (footnote: Khunrath)**, *Amp. Sap. Etern.* — “reduce the Ternary by the Quaternary, through the rejection of the Binary, to the simplicity of the Monad” `IV.2 ¶18, IV.2 n14` — Supports: states the formula of reduction to the Monad, which Atwood then expounds.
+- **Trismegistus**, *the Divine Poemander, Sermon on the Mont of Regeneration* — “the seed of his own regeneration” `IV.2 ¶18, IV.2 n15` — Supports: each of the two principles carries the seed of its own regeneration.
+- **the Adept (footnote: Lumen de Lumine)**, *Lumen de Lumine, p. 92* — “Salvation is nothing else but a Transmutation” `IV.2 ¶18, IV.2 n16` — Supports: invisible Artist, operator only keeps the heat, Water and Spirit perform all, Three and Four make seven, salvation is transmutation. Atwood completes and extends the statement.
+- **Ancient Schools of Divinity** `IV.2 ¶18` — Their meaning of metempsychosis is set against the common, erroneous one.
+- **St John's Gospel** — “The True Light, which lighteth every man that cometh into the world” `IV.2 ¶19, IV.2 n17` — Supports: the True Light perfected in the Saviour, whose ray cleanses life.
+- **Hermetic Riddle** — “The First all things in all gave the First Second all things in all, from the all in the First Second to the Third all” `IV.2 ¶20` — Illustrates the circulation that manifests the Flower of Intellect back to its Archetypal Source.
+- **Chaldaic oracle**, *Chaldaic Oracles, 1* — “For the mind of the Father said that all things be cut into Three” `IV.2 ¶21, IV.2 ¶22, IV.2 ¶23, IV.2 ¶29, IV.2 n18` — Supports: pursues the same Art of Reason (Monad, Duad, Triad, the Matrix and the Prester of Fire).
+- **Eirenaeus** `IV.2 ¶30` — Cited (within the Adept's words) for the menstruum in the sphere of Saturn that can calcine gold, identified with the Salt.
+- **the Adept / the philosopher (footnote: Introitus Apertus)**, *Introitus Apertus, chap. 4* — “The Wise will rejoice, adds the Adept” `IV.2 ¶30, IV.2 n19` — Supports: the loadstone, Salt, Pole and Fire imagery, the Genesis analogy, and the union of agent and patient. Footnote link depends on reading marker (10) as n19.
+- **the Wise** — “their work may be likened to the creation of the world” `IV.2 ¶30` — Supports: the work likened to creation, reported as their unanimous view.
+- **Genesis**, *chap. 1* — “And the Spirit of God moved upon the Face of the Waters.” `IV.2 ¶30, IV.2 n19` — Illustrates: the work likened to the creation of the world.
+- **Maria**, *Maria Practica; Ars Aurifera, vol. 2, p. 208* — “Gummis cum binis fugitivum figit in imis,” `IV.2 ¶31, IV.2 n20` — Illustrates: Latin verse on fixing the fugitive and binding in three hours; given without comment.
+- **book of Jezirah**, *Chap. 1* — “with the Fiery Letters of the Law, He engraved the empty, and the void, and the obscure mind” `IV.2 ¶33, IV.2 n21` — Illustrates: compared with the building of Solomon's Temple and the threefold completion of the Stone.
+- **Homer**, *Odyssey, book 19* — “Be silent, repress your intellect, and do not speak.” `IV.2 ¶33, IV.2 n22` — Supports: quietude and cessation of mental energy are needed to receive divinity.
+- **Trismegistus** — “the knowledge of it, says Trismegistus, is a most Divine Silence, and a rest of all the senses” `IV.2 ¶33` — Supports: knowledge of the First Cause as silence that draws the soul from the body into God's Essence.
+- **Schelling** — “We awaken from the Intellectual Intuition, says Schelling, as from a state of death” `IV.2 ¶33` — Supports: after the intuition only the remembered vision remains, because human reason is limited.
+
+## Ambiguities
+
+- “reduce the Ternary by the Quaternary” `IV.2 ¶18`
+  - Reading: Ternary = body, soul and spirit, per the purpose clause.
+  - Reading: Ternary = the divine Ternarius and Quaternary = the four elements, per the incarnation passage later in ¶18.
+  - Basis: IV.2 ¶18 'that thy body, soul, and spirit be gathered to rest'; IV.2 ¶18 'the Quaternarius, or four elements ... were united to their eternal Unity and Ternarius'.
+- “Learn to unite the Principles of our Chaos to a new Life” `IV.2 ¶18`
+  - Reading: Continuation of the Theosophist's speech (n14).
+  - Reading: Start of the Adept's speech (n16), which runs on with 'Further inquires the Adept'.
+  - Basis: Markers (14), (15), (16) fall between sentences with no quotation marks, so speaker boundaries are unmarked.
+- “through a Third principle for reprobation” `IV.2 ¶20`
+  - Reading: The Third principle judges or rejects the generating pair, preventing its direct, imperfect offspring.
+  - Reading: The Third is the third stage of the triple circulation (IV.2 ¶33) through which the life is raised.
+  - Basis: IV.2 ¶20 sets it against the Duad bringing forth immediately and says the result is 'rectified, overcome in its proper volition'; IV.2 ¶33 'three successive circulations'.
+- “And as steel draws the loadstone and the loadstone in like manner turns toward steel, so is it with the separated principles of Will and Understanding in their freed state” `IV.2 ¶30`
+  - Reading: Atwood's own gloss, decoding steel and loadstone as Will and Understanding; the Adept's words begin at 'It is true, moreover, that our loadstone'.
+  - Reading: Already part of the Adept's quoted text (Introitus Apertus).
+  - Basis: No quotation marks; 'adds the Adept' and 'continues the philosopher' appear only later in IV.2 ¶30, so where the quotation starts is unmarked.
+- “The First has it and refuses it; the Second fives it and regards it not” `IV.2 ¶32`
+  - Reading: 'fives' is a misprint (e.g. for 'gives'), so the Second passes 'it' on without heeding it.
+  - Reading: First, Second and Fourth are successive principles or stages of the circulation (cf. the Triplicate growth and 'Fourth Form', IV.2 ¶18).
+  - Reading: They are the 'builders' who each reject the Stone in turn; or they echo 'The First', 'the First Second' and 'the Third all' of the Hermetic Riddle (IV.2 ¶20).
+  - Basis: The text reads 'fives'; no Third is named. IV.2 ¶18 'emanates a Fourth Form'; IV.2 ¶32 'builders each in turn rejecting each it'; IV.2 ¶20 Riddle. None is stated.
+- “And the Fourth, as the artist, applies it to the work in the furtherance” `IV.2 ¶32`
+  - Reading: The Fourth is the 'Fourth Form' the Identity emanates after a threefold growth of Light (IV.2 ¶18).
+  - Reading: The Fourth is the human operator, 'the greatest Handicraft of all'.
+  - Basis: IV.2 ¶18 'It emanates a Fourth Form'; IV.2 ¶32 'as the artist' and 'proving himself from first to last to be essential'.
+- “come ye and be received (2)” `IV.2 ¶16`
+  - Reading: The marker should be (12), pointing to n12 (Clemens Alexandrinus).
+  - Reading: It refers to some other note 2.
+  - Basis: The chunk's footnotes run n10 to n22; ¶15 ends with (11), ¶17 with (13), and only n12 is otherwise unused.
+- “reign together in everlasting honour (10)” `IV.2 ¶30`
+  - Reading: The marker should be (19), pointing to n19 (Introitus Apertus; Genesis).
+  - Reading: It repeats n10.
+  - Basis: ¶29 ends with (18), ¶31 with (20); n19 cites Genesis chap. 1, matching the Genesis quotation in ¶30.
+
+## Translations
+
+- `IV.2 ¶20` “Non fit ad monadis simplicitatem reductio, nisi rejiciatur prius a teipso devitatio et tui abnegatio.” → There is no reduction to the simplicity of the monad unless a shunning and denial of thyself is first cast away from thyself. (Grammar uncertain; the book's next sentence applies it as 'self-ablation and avoidance'.) *(ours)*
+- `IV.2 ¶31` “Maria sonat breviter quod tralia tonat, Gummis cum binis fugitivum figit in imis, Horis in trinis vinclat fortia finis. Maria lux roris ligam ligat in tribus horis, Filia Plutonis consortia jungit amoris Gaudet in assata per Tria sociata” → Maria briefly sounds what [tralia: unclear word] thunders; with two gums she fixes the fugitive in the depths; in three hours she binds the strong things of the end. Maria, light of dew, binds the bond in three hours; the daughter of Pluto joins the fellowships of love; she rejoices in the roasted [thing], joined through the Three. *(ours)*
+
+## Threads
+
+- `IV.2 ¶18` 'Further inquires the Adept' shows the Lumen de Lumine speaker continuing a quotation begun earlier in the paragraph.
+- `IV.2 ¶33` 'But to our work.' signals a return from this digression on silence and the First Cause to the work itself.

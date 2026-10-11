@@ -1,0 +1,329 @@
+# I.3_01
+
+*Opens Chapter III, which gives the text of 'The Golden Treatise of Hermes Trismegistus' (Section First), with Atwood's footnotes glossing nearly every veiled expression, largely via 'the Scholiast': the philosophic water and its weights, decoction and tincture, the vulture and crow, the Argent vive, the moist fire, the many names of the Stone, and the requirements of secrecy, piety and fellowship.*
+
+## Argument
+
+- Chapter III gives 'The Golden Treatise of Hermes Trismegistus' in seven sections; this chunk is Section First. `I.3 ¶1, I.3 ¶2` — ATWOOD
+- Hermes gained the science by long labour but by God's inspiration alone, and discloses it from fear of judgment, as a debt to the faithful. `I.3 ¶3, I.3 ¶4` — QUOTED: Hermes
+- Three interdependent requisites: study (theory), experience, divine benediction; the 'central experience' in the Universal Spirit is not found without God. Without theory and a right principle experiment fails (Geber concurs). `I.3 n1, I.3 n2` — ATWOOD
+- Hermes wrote only for the studious, the 'predestined sons of wisdom' already initiated. `I.3 n3` — ATWOOD
+- The elements are sought not corporally but through their causes and occult operation; nothing is done unless compounded, nor perfected until the colours are passed. Gloss: elements are spiritual, the Universal Spirit's hidden properties, known by 'introverted light'; the matter must be decompounded, its adhering 'heterogeneous images and superfluities' discharged, which needs the adepts' theory of freeing the radical element. `I.3 ¶5, I.3 n4` — QUOTED: Hermes; glossed by ATWOOD
+- The Water divides into four: one third colour (coagulating moisture), two thirds the Weights of the Wise; a recipe follows. Gloss: one yields two (agent, patient), whose conjunction yields three (body, soul, spirit); colours are three red and three white spirits from one water; this mercury holds its own sulfur; the operator adds his weights to nature's. Scholiast: the recipe means sevenfold distillation, the eighth leaving a fire-resisting ash. `I.3 ¶6, I.3 n5, I.3 n6` — QUOTED: Hermes; glossed by ATWOOD and QUOTED: the Scholiast
+- Decoction lessens, tincture augments, as Luna wanes and waxes. Gloss: Luna is the ethereal 'passive luminary'; decoction dissolves and purges the matter until, nearly annihilated and freed of outward form, it revives by inbred force (Democritus' Proteus); the Second Work perfects the 'newly informed embryo' and multiplies its light. Hermes thus comprehends 'the whole of the artificial process of working the Spirit'. `I.3 ¶7, I.3 n7` — QUOTED: Hermes; glossed by ATWOOD
+- The work is 'with you and about you'. Atwood: seek within oneself the Universal Nature all unconsciously live in; man's 'catholic germ' is not quickened unless it die; the inner causal light must be drawn forth and fixed, the outer sensual spirit made flexible and occultated, before reason enters that Identity. Comment deferred. `I.3 ¶8, I.3 n8` — QUOTED: Hermes; glossed by ATWOOD
+- Keep the Argent vive coagulated in the innermost chamber. Scholiast: this fiery, running Mercury, residuum of the philosophic earth after separation, burnt to ashes by its own fire, generates the Stone and is born of it. `I.3 ¶9, I.3 n9` — QUOTED: Hermes; QUOTED: the Scholiast
+- Hermes claims full disclosure; Atwood: holy things are not for 'dogs'; the Mystery is left to unfold through study and faithful experiment, preparing the mind. `I.3 ¶9, I.3 n10` — QUOTED: Hermes; ATWOOD
+- The vulture on the mountain cries its colours. Scholiast: vulture = new-born quintessential spirit or Proteus; mountain = vessel in a furnace walled with fire. `I.3 ¶9, I.3 n11` — QUOTED: Hermes; QUOTED: the Scholiast
+- The Crow, chief principle, flies wingless by night and day; tincture, red and water come from it. Gloss: crow and vulture are one Spirit of life, passive vs active; night = putrefaction, day = resurrection; wingless = borne by the fixed spirit; throat's bitterness = death of first life, educing the soul (red tincture); the water dissolves metals into their 'first ens'. `I.3 ¶10, I.3 n12` — QUOTED: Hermes; glossed by ATWOOD
+- The Stone lies in the caverns of the metals, 'a mind sublime, and an open sea'. Atwood: this identifies the philosophic matter; caverns = central motion of mineral life where spirit first coagulates. `I.3 ¶10, I.3 n13` — QUOTED: Hermes; glossed by ATWOOD
+- Boil the matter in a moist fire until the radix appears. Atwood: all named operations are one Hermetic sublimation, repeated, improving the matter each time; the fire is deferred. `I.3 ¶10, I.3 n14` — QUOTED: Hermes; glossed by ATWOOD
+- Philosophers are 'envious' only toward the vicious, lest they gain power for evil; Lully and Norton enjoin secrecy. `I.3 ¶11, I.3 n15` — QUOTED: Hermes; ATWOOD
+- The matter is the Stone, hidden under cover names; conserve fire and heavenly Flyer in this sea. Atwood: fluid, it is the 'sea of the wise'. Scholiast: fire and bird are the external and internal agents. `I.3 ¶11, I.3 n16` — QUOTED: Hermes; glossed by ATWOOD and QUOTED: the Scholiast
+- Hermes returned what he received. Adepts: friendship and reciprocity are the chief art; none operates alone. `I.3 ¶12, I.3 n17` — QUOTED: Hermes; QUOTED: the adepts
+- The many-coloured Stone, born in one colour, cures and leads into light. Atwood: it is the purified spirit's union 'with its course', the self-renewing 'elixir of Light'. `I.3 ¶13, I.3 n18` — QUOTED: Hermes; glossed by ATWOOD
+
+## Method
+
+- **operator** — “study, experience, and the divine benediction” `I.3 n1` (ATWOOD)
+  - **Plain (stated):** Three requisites, interdependent: study yields theory; theory admits one to the 'central experience'; that experience in the Universal Spirit cannot be had without God.
+  - Basis: I.3 n1 states this directly; Hermes in I.3 ¶3 claims both labour and divine inspiration.
+  - Also: “this science and art I have obtained by the inspiration of the living God alone” `I.3 ¶3`
+- **impediment** — “Without theoretic knowledge and a right principle to begin with, many have wearied themselves in experimenting” `I.3 n2` (ATWOOD)
+  - **Plain (stated):** Experimenting without correct theory and starting principle fails; knowing the principles and 'way of generation' according to nature brings one close to completion.
+  - Basis: I.3 n2, supported by the Geber quotation there.
+  - Also: “he who knows the principles and the way of generation, which consists according to the intention of nature, is but a very short way from the completement” `I.3 n2`
+- **principle** — “the knowledge of the four elements of the ancient philosophers was not corporally or imprudently sought after” `I.3 ¶5` (QUOTED: Hermes; glossed by ATWOOD (citing the Scholiast))
+  - **Plain (stated):** The 'elements' are not physical bodies; they are to be understood spiritually, as properties of the Universal Spirit hidden in all existence, knowable only by its own inner analysis and 'introverted light'.
+  - Basis: I.3 n4 glosses it: 'not corporally but spiritually and wisely', and explains the properties of the Universal Spirit.
+  - Also: “to be understood only by its own intimate analysis and introverted light” `I.3 n4`
+- **procedure** — “nothing is done except that the matter be decompounded” `I.3 n4` (ATWOOD)
+  - **Plain (stated):** First the subject must be broken down: the foreign 'images and superfluities' that cling to it in its natural state must be fully discharged, which requires the adepts' theory showing how the 'radical element' is found and set free.
+  - Basis: I.3 n4 gives the reason and the requirement explicitly. Note Hermes' text in I.3 ¶5 reads 'compounded' (see ambiguities).
+  - Also: “there are many heterogeneous images and superfluities adhering to this subject in its natural state, which render it unfit for progress” `I.3 n4`
+  - Also: “the medium by which the radical element is discovered and set free to the accomplishment of its inclusive law” `I.3 n4`
+- **sign** — “it is not perfected unless the colours be thoroughly passed and accomplished” `I.3 ¶5` (QUOTED: Hermes)
+  - **Plain (interpreted):** The work must pass completely through a succession of colours before it is perfected; the chunk names black, white, red and citrine, and speaks of three red and three white 'spirits'.
+  - Basis: I.3 ¶9 (vulture's cry naming the colour sequence); I.3 n5 (colours divided into three red spirits and three white from one water); I.3 n11 (light manifest 'in every variety of its coloring'). The chunk does not define the colours further.
+  - Also: “I am the White of the Black, and the Red of the White, and the Citrine of the Red” `I.3 ¶9`
+- **subject** — “the division that was made upon the Water, by the ancient philosophers, separates it into four substances” `I.3 ¶6` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The 'Water' is the philosophic water (also called mercury); its four parts are 'hypostatic relations', called elements: one divides into two (agent and patient), whose union produces three (body, soul, spirit), which together beget all things.
+  - Basis: I.3 n5 explains the division explicitly.
+  - Also: “The philosophic water then, being divided into four parts or hypostatic relations, they are called elements” `I.3 n5`
+  - Also: “three are said to be made manifest as body, soul, and spirit” `I.3 n5`
+- **subject** — “the one third part of which is colour, that is to say --- a coagulating moisture” `I.3 ¶6` (QUOTED: Hermes)
+  - **Plain (stated):** Hermes himself glosses 'colour' here as a coagulating moisture: one of the three parts of the divided water.
+  - Basis: The gloss ('that is to say') is in I.3 ¶6 itself. Not further explained in the chunk.
+- **principle** — “the two third waters are the Weights of the Wise” `I.3 ¶6` (QUOTED: Hermes; glossed by ATWOOD and QUOTED: the Scholiast)
+  - **Plain (stated):** The 'Weights of the Wise' are the true philosophic proportions. Separately, n5 tells the operator to add his weights to 'the weights of nature': doubling the mercury, tripling the sulfur; the chunk does not say whether these are the same weights.
+  - Basis: I.3 n6 ('the true philosophic proportions called also by Hermes the Weights of the Wise'); I.3 n5 (adding one's weights to the weights of nature).
+  - Also: “the true philosophic proportions called also by Hermes the Weights of the Wise” `I.3 n6`
+  - Also: “to add thy weights to the weights of nature, to double mercury and triple sulfur” `I.3 n5`
+- **principle** — “this water or mercury of the adepts has, within itself, its own good sulfur, or vital flame, thou mayest perfect all things out of mercury” `I.3 n5` (ATWOOD (following the Scholiast))
+  - **Plain (stated):** The subject contains its own active principle ('sulfur', 'vital flame'); nothing need be added from outside, so the whole work proceeds from this one 'mercury'.
+  - Basis: I.3 n5 states it directly.
+- **procedure** — “Take of the humidity an ounce and a half, and of the Meridian Redness, that is the soul of gold, a fourth part” `I.3 ¶6` (QUOTED: Hermes; glossed by QUOTED: the Scholiast (reported by ATWOOD))
+  - **Plain (stated):** The recipe's ingredients and quantities are not literal; they mean that the spirit is distilled seven times, and at the eighth distillation the fire turns it into an ash or extremely fine powder that, being pure, resists fire.
+  - Basis: I.3 n6: these distinctions 'have no other signification, says the Scholiast, but that the spirit should be seven times distilled'.
+  - Also: “the vine of the wise is drawn forth in three, and the wine thereof is perfected in thirty” `I.3 ¶6`
+  - Also: “after the eighth distillation is converted by force of the fire into ashes, or a most subtle poser which, by reason of its purity and perfection, resists the fire” `I.3 n6`
+- **stage** — “Decoction lessens the matter, but the tincture augments it” `I.3 ¶7` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The work has two parts. First, decoction dissolves the matter and removes its impurities until, nearly annihilated and stripped of every outward form, it revives by its own inborn force. Second, a continuation perfects this newly formed 'embryo' and multiplies its light. Atwood says Hermes comprehends in these few words 'the whole of the artificial process of working the Spirit'.
+  - Basis: I.3 n7 explains decoction and the Second Work explicitly.
+  - Also: “being at length on the verge of annihilation; i.e., freed from every exteriorly attracting form” `I.3 n7`
+  - Also: “the Second Work, which is only, in continuation of the First, to perfect the newly informed embryo and multiply its vivific light” `I.3 n7`
+  - Also: “This is the beginning and the end” `I.3 ¶7`
+  - Also: “In such few words, Hermes professes to comprehend the whole of the artificial process of working the Spirit” `I.3 n7`
+- **sign** — “Luna after fifteen days is diminished; and in the third, she is augmented” `I.3 ¶7` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** 'Luna' is not the moon but an ethereal light, the passive luminary of the 'Philosophic Heaven', which wanes and waxes in the work in a way parallel to the moon's phases.
+  - Basis: I.3 n7: 'Understand here the diminution and increase of that ethereal light...'. The numbers (fifteen, third) are not explained.
+  - Also: “Understand here the diminution and increase of that ethereal light, which is the passive luminary in the Philosophic Heaven” `I.3 n7`
+- **subject** — “the work is both with you and about you” `I.3 ¶8` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The subject of the work is within the enquirer: the Universal Nature in which all beings unconsciously live, hidden in ordinary generation. It is to be sought inwardly rather than by ordinary experiment.
+  - Basis: I.3 n8 explains the phrase explicitly.
+  - Also: “forsake the beaten road of experiment, and seek to know intrinsical within themselves the substance of that Universal Nature” `I.3 n8`
+- **procedure** — “taking what is within and fixed, thou canst have it either in earth or sea” `I.3 ¶8` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** Two operations on the person: the inner 'causal light' is drawn out by art and fixed; the outer 'sensual spirit of life' is made flexible and hidden, so that reason can enter the 'Identity' in which nature's powers are understood from within.
+  - Basis: I.3 n8 explains 'within' and 'without' with 'viz.'. 'Earth or sea' is not explained.
+  - Also: “That which is within, viz., the causal light, must be drawn forth by art and fixed” `I.3 n8`
+  - Also: “that which is without, viz., the sensual spirit of life must be made flexible and occultated” `I.3 n8`
+- **principle** — “is not quickened except it die” `I.3 n8` (ATWOOD)
+  - **Plain (stated):** A body shows its true original only when reduced back into it. Likewise in man, the 'catholic germ' of his existence must undergo a death before it comes alive.
+  - Basis: I.3 n8 draws the parallel explicitly, glossing 'that which is sown' as 'the catholic germ of his existence'.
+  - Also: “the true original cannot be made manifest except they be reduced into it” `I.3 n8`
+- **subject** — “Keep, therefore, thy Argent vive, which is prepared in the innermost chamber in which it is coagulated” `I.3 ¶9` (QUOTED: Hermes; QUOTED: the Scholiast (endorsed by ATWOOD as 'wise'))
+  - **Plain (stated):** The Argent vive (the philosophic Mercury) is a fiery, vital, mobile spirit. It is prepared and coagulated in the 'innermost chamber of life', at the deepest centre of every created life, and it is what remains of the philosophic earth after separation. It must be carefully kept.
+  - Basis: I.3 ¶9 identifies Argent vive with Mercury; I.3 n9 (the Scholiast) gives the rest.
+  - Also: “for that is Mercury which is spoken of concerning the residual earth” `I.3 ¶9`
+  - Also: “this argent vive, then, which is the residuum of the philosophic earth after the separation” `I.3 n9`
+  - Also: “even in the ultimate axle of each created life” `I.3 n9`
+- **result** — “If you have brought your mercurial spirit to ashes or burnt it by its own fire” `I.3 n9` (QUOTED: the Scholiast)
+  - **Plain (stated):** Once the mercurial spirit has been reduced to ash by its own fire, it is the thing that generates the Stone and is born from it, and it transmutes other metals.
+  - Basis: I.3 n9 states it directly.
+  - Also: “for this is that which generates the Stone, and is born of it” `I.3 n9`
+- **agent** — “the vulture standing upon the mountain crieth out with a loud voice” `I.3 ¶9` (QUOTED: Hermes; glossed by QUOTED: the Scholiast)
+  - **Plain (stated):** The vulture is the newly born quintessential spirit (also called Proteus). It holds all of nature's virtues in potential and, revolving, shows the light in all its colours.
+  - Basis: I.3 n11 (the Scholiast).
+  - Also: “The vulture, according to our Scholiast, is the new born quintessential spirit or Proteus” `I.3 n11`
+- **procedure** — “the mountain upon which the vulture stands” `I.3 n11` (QUOTED: the Scholiast)
+  - **Plain (stated):** The 'mountain' is the vessel: a suitable vessel set in a well-built philosophic furnace and surrounded by a wall of fire.
+  - Basis: I.3 n11 (the Scholiast).
+  - Also: “a fit vessel placed in a well-built philosophic furnace encompassed with a wall of fire” `I.3 n11`
+- **agent** — “the chief principle of the art is the Crow” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** Crow and vulture are one thing, the Spirit of life, in different states. Active and devouring, it is the vulture: the first sublimed quintessence, not yet perfected. Darkened and passive, it is the crow, at the early stage where the revived spirit is joined to its 'solar ferment'.
+  - Basis: I.3 n12 states the identity and the distinction.
+  - Also: “Whilst the Spirit of life appears active and devouring in the process, it has been called the vulture, and when it lies in a more obscured and passive condition, the crow” `I.3 n12`
+  - Also: “the crow is also in the infancy of that work wherein the revivified spirit is united with its solar ferment” `I.3 n12`
+- **stage** — “in the blackness of the night and clearness of the day, flies without wings” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** Night is the putrefaction of the spirit; day is its resurrection to relative purity. It 'flies without wings' because the fixed spirit carries it.
+  - Basis: I.3 n12.
+  - Also: “The blackness of the night is the putrefaction of the same, and the clearness of the day signifies its resurrection to a state of comparative purity” `I.3 n12`
+  - Also: “IT flies without wings, being borne and carried by the fixed spirit” `I.3 n12`
+- **stage** — “From the bitterness existing in the throat, the tincture is taken; the red goes forth from his body” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The 'bitterness' is the death of the first life, from which the soul is drawn out. That soul is the red, living tincture taken from the body.
+  - Basis: I.3 n12.
+  - Also: “the bitterness existing in the throat occultly indicates the death of the first life, whence the soul is ediced” `I.3 n12`
+  - Also: “which is also the red and living tincture taken from the body” `I.3 n12`
+- **agent** — “from his back is taken a pure water” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The water is a viscous moisture produced by the dissolution. It dissolves all metals at the root and reduces them to their 'first ens', which is water.
+  - Basis: I.3 n12.
+  - Also: “the thin water is the viscous humidity made by the dissolution which radically dissolves all metals, and reduces them into their first ens, or water” `I.3 n12`
+- **subject** — “In the caverns of the metals there is hidden the stone that is venerable, splendid in colour, a mind sublime, and an open sea” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** This names the philosophic matter. The 'caverns of the metals' are the central motion of mineral life, where spirit first coagulates and takes concrete form. The matter is called a stone, yet it is also spirit, soul and body.
+  - Basis: I.3 n13: Hermes 'identifies the philosophic matter'; caverns glossed with 'that is to say'.
+  - Also: “in the central motion of the mineral life, where the spirit is first coagulated and conceives itself into a concrete form” `I.3 n13`
+  - Also: “Ii is a stone and no stone, spirit, soul, and body” `I.3 n13`
+- **procedure** — “Put the matter into a moist fire, therefore, and cause it to boil in order that its heat may be augmented” `I.3 ¶10` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (interpreted):** The footnote to this passage treats all the adepts' named operations (calcination, inceration, fixation and so on) as one Hermetic sublimation, repeated again and again. Unlike chemical sublimation, it transforms and improves the matter each time, pressing its life to the utmost to escape death. This chunk does not explain the 'moist fire' itself; the philosophic fire is deferred.
+  - Basis: I.3 n14 is attached to this sentence and discusses 'ways ... of acting with their matter'; the link between 'moist fire' and sublimation is not stated explicitly.
+  - Also: “the Hermetic sublimation is said to change the matte, qualifying and meliorating each time that it succeeds” `I.3 n14`
+  - Also: “urging on life, as it were, to the utmost exercise of vivacity, to save itself from death and a total disseveration” `I.3 n14`
+  - Also: “then extract the redness and the light part, till the third part remains” `I.3 ¶10`
+- **subject** — “it is also named the feminine of magnesia, or the hen, or the white spittle, or the volatile milk, the incombustible ash” `I.3 ¶11` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** These are cover names for the single matter, used to hide it from the unworthy. In concrete form it is properly called the Stone; in its fluid, moist state it is the 'sea of the wise', receptive to the light.
+  - Basis: I.3 ¶11 states the purpose of the names; I.3 n16 adds the concrete and fluid designations.
+  - Also: “In its flowing, humid state it is called the sea of the wise, passive to all impression and influences of the light” `I.3 n16`
+- **agent** — “Include, therefore, and conserve in this sea, the fire, and the heavenly Flyer, to the latest moment of his exit” `I.3 ¶11` (QUOTED: Hermes; glossed by QUOTED: the scholiast)
+  - **Plain (stated):** The fire and the heavenly bird stand for the external and internal agents of the work. Both must be kept in the matter until the end, since either one preserves and feeds it.
+  - Basis: I.3 n16 (citing the scholiast). Which agent is external and which internal is not said explicitly (see ambiguities).
+  - Also: “By the fire and heavenly bird are dignified, says the scholiast, the external and internal agents in the Hermetic work, by either of which it is conserved and nourished to the end” `I.3 n16`
+- **operator** — “Evil men are unworthy of this wisdom” `I.3 ¶11` (QUOTED: Hermes; endorsed by ATWOOD)
+  - **Plain (stated):** The operator must be moral and self-controlled. Secrecy keeps the art from the ignorant and vicious, who would use nature's power selfishly and for evil; the teacher is accountable for what he discloses.
+  - Basis: I.3 ¶11; I.3 n10; I.3 n15.
+  - Also: “these are unfit to be admitted to the Causal Knowledge” `I.3 n10`
+  - Also: “not that they grudged the truth to religious or just men, or to the wise; but to the ignorant and vicious” `I.3 ¶11`
+- **operator** — “no man, for reasons hereafter explicable, can operate the Hermetic artifice alone” `I.3 n17` (ATWOOD (reporting the adepts, endorsed))
+  - **Plain (stated):** No one can operate the work alone. Friendship, gratitude and mutual benefit are called the chief art of working the matter, and Mercury cannot be 'mortified' except with 'his brother's knowledging'. The reasons are deferred; this chunk does not say who or what the 'brother' is.
+  - Basis: I.3 n17 states the requirement; its reasons are deferred.
+  - Also: “In friendship, gratitude, and reciprocity of benefaction, say the adepts, consists the chief art of operating with their matter” `I.3 n17`
+  - Also: “There may noe man Mercury mortify, But it be with his brother’s knowledging.” `I.3 n17`
+- **result** — “This, O son, is the concealed Stone of many colours; which is born in one colour” `I.3 ¶13` (QUOTED: Hermes; glossed by ATWOOD)
+  - **Plain (stated):** The final result is the complete union of the purified spirit 'with its course': a tincture that renews itself through dissolution and death, the 'elixir of Light' drawn from the central essence. It is said to lengthen life and to cure disease, moral excess and bodily defects.
+  - Basis: I.3 n18 explains it directly.
+  - Also: “The consummate union of the purified spirit with its course is thus covertly indicated by Hermes as the true cornerstone of his philosophy” `I.3 n18`
+  - Also: “This is the elixir of Light from the central essence” `I.3 n18`
+  - Also: “It leads from darkness into light” `I.3 ¶13`
+
+## Terms
+
+- **Universal Spirit** — Its properties are hidden in all existence, understood only by its own inner analysis and 'introverted light'. The 'central experience' within it cannot be found without God. (ATWOOD)
+  - “the properties of the Universal Spirit are abstrusely included in all existence” `I.3 n4`
+- **elements** (also: four elements) — To be understood spiritually rather than bodily: the four parts or 'hypostatic relations' of the philosophic water. (QUOTED: Hermes; glossed by ATWOOD)
+  - = four parts or hypostatic relations of the philosophic water: “The philosophic water then, being divided into four parts or hypostatic relations, they are called elements” `I.3 n5`
+  - “not corporally but spiritually and wisely” `I.3 n4`
+- **philosophic water** (also: the Water, same identical water) — The one water from which everything grows and into which it dissolves again. It is divided into four relations and contains its own sulfur. (ATWOOD)
+  - = mercury of the adepts: “this water or mercury of the adepts has, within itself, its own good sulfur” `I.3 n5`
+  - “which have their growth all from the same identical water, and are resolved into the same again” `I.3 n5`
+- **sulfur** — The active principle inside the philosophic water. Tripling it is part of the operator's 'weights'. (ATWOOD)
+  - = vital flame: “its own good sulfur, or vital flame” `I.3 n5`
+  - “to double mercury and triple sulfur” `I.3 n5`
+- **Weights of the Wise** — The true philosophic proportions of the work. Hermes says they are the two-thirds part of the divided Water. (QUOTED: Hermes; QUOTED: the Scholiast)
+  - = true philosophic proportions: “the true philosophic proportions called also by Hermes the Weights of the Wise” `I.3 n6`
+  - “the two third waters are the Weights of the Wise” `I.3 ¶6`
+- **colour** (also: colours, colors, coloring) — The stages of colour the work must pass through. In Hermes' division of the Water, 'colour' is one third part, a coagulating moisture. The Scholiast says Hermes divides the colours into three red spirits and three white. (QUOTED: Hermes; QUOTED: the Scholiast)
+  - = a coagulating moisture: “the one third part of which is colour, that is to say --- a coagulating moisture” `I.3 ¶6`
+  - “into three red spirits and three white, which have their growth all from the same identical water” `I.3 n5`
+- **soul of gold** — One ingredient of Hermes' recipe. The Scholiast reads the whole recipe as a matter of distillation. (QUOTED: Hermes)
+  - = Meridian Redness: “the Meridian Redness, that is the soul of gold” `I.3 ¶6`
+- **decoction** — The first part of the work: it dissolves the matter and discharges its impurities until the matter is close to annihilation and freed from every outward form, and so it reduces the matter. (ATWOOD)
+  - “the former Hermes calls decoction, which dissolving the matter discharges also its impurities by a proper rule” `I.3 n7`
+- **tincture** — It increases the matter. It is taken from the crow's throat and is the red, living tincture, the soul drawn from the body. In the end it is a self-renewing 'tincture of many dyes'. (QUOTED: Hermes; glossed by ATWOOD)
+  - = the soul educed by the death of the first life: “whence the soul is ediced; which is also the red and living tincture taken from the body” `I.3 n12`
+  - “that tincture of many dyes which, being dissolved renews itself, and dying survives itself” `I.3 n18`
+- **Second Work** — The continuation of the First Work (decoction). It perfects the newly formed embryo and multiplies its vivific light. (ATWOOD)
+  - “the Second Work, which is only, in continuation of the First, to perfect the newly informed embryo and multiply its vivific light” `I.3 n7`
+- **Luna** — The ethereal light that is the passive luminary of the Philosophic Heaven. Its waning and waxing parallel the moon's, and the philosopher names it after the moon by analogy. (QUOTED: Hermes; glossed by ATWOOD)
+  - = ethereal light / passive luminary in the Philosophic Heaven: “that ethereal light, which is the passive luminary in the Philosophic Heaven” `I.3 n7`
+  - “Luna after fifteen days is diminished; and in the third, she is augmented” `I.3 ¶7`
+- **Universal Nature** — The substance in which all beings unconsciously live. It is hidden in natural generation and is to be known from within. (ATWOOD)
+  - “seek to know intrinsical within themselves the substance of that Universal Nature in which they, with all beings in common, as it were, unconsciously live” `I.3 n8`
+- **causal light** — What is 'within' a person. Art must draw it out and fix it. (ATWOOD)
+  - = that which is within: “That which is within, viz., the causal light, must be drawn forth by art and fixed” `I.3 n8`
+- **sensual spirit of life** — What is 'without' a person. It must be made flexible and occultated (hidden). (ATWOOD)
+  - = that which is without: “that which is without, viz., the sensual spirit of life must be made flexible and occultated” `I.3 n8`
+- **catholic germ** — 'That which is sown' in man. It contains all things and must die before it is quickened. (ATWOOD)
+  - = that which is sown: “that which is sown (viz., the catholic germ of his existence” `I.3 n8`
+- **Identity** — The state that reason enters once the inner light is fixed and the outer spirit made pliant. In it the powers of Universal Nature are made manifest and understood from within. (ATWOOD)
+  - “before reason can become into that Identity by which the powers of the Universal Nature are made manifest and intrinsically understood” `I.3 n8`
+- **Argent vive** (also: argent vive) — The philosophic Mercury. It is prepared and coagulated in the innermost chamber, and it is what remains of the philosophic earth after separation. (QUOTED: Hermes; QUOTED: the Scholiast)
+  - = Mercury: “for that is Mercury which is spoken of concerning the residual earth” `I.3 ¶9`
+  - = residuum of the philosophic earth: “this argent vive, then, which is the residuum of the philosophic earth after the separation” `I.3 n9`
+- **Mercury** (also: mercury, mercurial spirit) — Philosophic, fiery, vital and running. It mixes with metals and can be separated from them again. Burnt to ash by its own fire, it generates the Stone and is born of it. (QUOTED: the Scholiast)
+  - = philosophic water: “this water or mercury of the adepts” `I.3 n5`
+  - “Our Mercury, says the wise Scholiast, is philosophic, fiery, vital, running” `I.3 n9`
+- **innermost chamber** (also: innermost chamber of life) — Where the Argent vive is prepared and coagulated: the 'ultimate axle of each created life'. (QUOTED: Hermes; QUOTED: the Scholiast)
+  - “It is prepared in the innermost chamber of life, and there it is coagulated” `I.3 n9`
+- **vulture** — The newly born quintessential spirit. It is the Spirit of life in its active, devouring state, the first sublimed quintessence not yet perfected by art. (QUOTED: the Scholiast; ATWOOD)
+  - = quintessential spirit or Proteus: “The vulture, according to our Scholiast, is the new born quintessential spirit or Proteus” `I.3 n11`
+  - = crow: “The vulture and the crow are interpreted to be one and the same thing, only differing somewhat in estate” `I.3 n12`
+  - “The vulture is the first sublimed quintessence not yet perfected by art” `I.3 n12`
+- **Crow** (also: crow) — The chief principle of the art. It is the Spirit of life in an obscured, passive state, early in the work where the revived spirit is united with its solar ferment. (QUOTED: Hermes; glossed by ATWOOD)
+  - = vulture: “The vulture and the crow are interpreted to be one and the same thing, only differing somewhat in estate” `I.3 n12`
+  - “the crow is also in the infancy of that work wherein the revivified spirit is united with its solar ferment” `I.3 n12`
+- **putrefaction** — Meant by 'the blackness of the night' in the crow image. Its counterpart, 'clearness of the day', is resurrection to relative purity. (ATWOOD)
+  - = blackness of the night: “The blackness of the night is the putrefaction of the same” `I.3 n12`
+- **first ens** — What the dissolving water reduces all metals into, glossed as water. (ATWOOD)
+  - = water: “reduces them into their first ens, or water” `I.3 n12`
+- **philosophic matter** (also: philosophic mater, philosophic matte, the matter) — The subject of the work. It is hidden in the 'caverns of the metals', the central motion of mineral life. It has many names, and in concrete form it is properly the Stone. (ATWOOD)
+  - = mens sublimes et mare patens (a mind sublime, and an open sea): “eloquently identifies the philosophic matter, calling it mens sublimes et mare patens” `I.3 n13`
+  - = the Stone: “but in the concrete form, and for reasons before given in part, it has been properly called the Stone” `I.3 n16`
+  - “in the central motion of the mineral life, where the spirit is first coagulated and conceives itself into a concrete form” `I.3 n13`
+- **Stone** (also: stone, Philosopher's Stone, philosopher’s stone) — The matter in concrete form, 'a true mineral petrification', yet 'a stone and no stone': spirit, soul and body. It is born in one colour and has many colours. It has many cover names but only one true epithet for the wise. (QUOTED: Hermes; ATWOOD)
+  - = feminine of magnesia, hen, white spittle, volatile milk, incombustible ash: “it is also named the feminine of magnesia, or the hen, or the white spittle, or the volatile milk, the incombustible ash” `I.3 ¶11`
+  - = Philosopher's Stone: “signified to the wise by one only epithet, viz., the Philosopher's Stone” `I.3 ¶11`
+  - “It is called a stone, say the adepts, and it a true mineral petrification” `I.3 n13`
+  - “This, O son, is the concealed Stone of many colours; which is born in one colour” `I.3 ¶13`
+- **sea of the wise** (also: this sea) — The matter in its flowing, moist state, passive to every impression and influence of the light. (ATWOOD)
+  - “In its flowing, humid state it is called the sea of the wise, passive to all impression and influences of the light” `I.3 n16`
+- **heavenly Flyer** (also: heavenly bird) — Paired with 'the fire' as one of the external and internal agents of the work. (QUOTED: the scholiast)
+  - “By the fire and heavenly bird are dignified, says the scholiast, the external and internal agents in the Hermetic work” `I.3 n16`
+- **Hermetic sublimation** (also: sublimation) — The one operation that covers all the named ones (calcination, inceration, fixation and so on). It is repeated many times and changes and improves the matter each time. It is not the ordinary chemical raising of a substance to the top of the vessel. (ATWOOD)
+  - “This sublimation is not, therefore, exactly to be conceived by analogy with the ordinary chemical process, which is a mere elevation of the subject to the top of the vessel” `I.3 n14`
+- **moist fire** — The fire the matter is boiled in. This chunk does not explain it: the nature, origin and 'artificial excitation' of the philosophic fire are deferred. (QUOTED: Hermes; ATWOOD)
+  - “Put the matter into a moist fire” `I.3 ¶10`
+- **radical element** — Something to be found and set free through the adepts' theory once the superfluities are discharged (n4). The 'radix' is to appear under the moist fire (¶10). The chunk does not explicitly link the two. (ATWOOD)
+  - “the medium by which the radical element is discovered and set free to the accomplishment of its inclusive law” `I.3 n4`
+- **Causal Knowledge** — The knowledge from which the unworthy must be kept, lest they handle 'the powerful machine of nature' for selfish ends. (ATWOOD)
+  - “these are unfit to be admitted to the Causal Knowledge” `I.3 n10`
+- **elixir of Light** — The result: light from the central essence, set free. It is said to prolong life and to cure disease and moral and physical defects. (ATWOOD)
+  - = tincture of many dyes / union of the purified spirit with its course: “This is the elixir of Light from the central essence” `I.3 n18`
+- **envious** — Used in a special sense of philosophers: they withhold the truth only from the ignorant and vicious, not from the just or the wise. (QUOTED: Hermes)
+  - “For this reason are philosophers said to be envious” `I.3 ¶11`
+
+## Sources cited
+
+- **Hermes Trismegistus**, *The Golden Treatise of Hermes Trismegistus, Concerning the Physical Secret of the Philosopher's Stone* — “the work is both with you and about you” `I.3 ¶1, I.3 ¶3, I.3 ¶8, I.3 n17` — The primary text of the chapter, given in full and glossed in Atwood's footnotes. Also named as the first to declare that Mercury cannot be mortified alone ('Hermes the King').
+- **the Scholiast**, *The Scholium* — “not corporally but spiritually and wisely” `I.3 n4, I.3 n5, I.3 n6, I.3 n9, I.3 n11, I.3 n12, I.3 n16` — The main glossator, cited throughout with approval ('our Scholiast', 'the wise Scholiast'). Interprets the elements, colours, recipe, Mercury, vulture, mountain, and fire and bird.
+- **Geber**, *Sum. Of {erf., book 1* — “he who knows the principles and the way of generation, which consists according to the intention of nature, is but a very short way from the completement” `I.3 n2` — Supports the need for theory and a 'true root' before experimenting.
+- **Norton**, *Ordinal (Proheme; chapters 1, 4, 5)* — “If one evil man had hereof his will, All Christian peace he might easily spill;” `I.3 n2, I.3 n4, I.3 n6, I.3 n15` — Supports the duty of secrecy, since evil men could misuse the art (n15). Elsewhere a reference only.
+- **Introitus Apertus ad Occlusum Regis Palationem / Palatio / Introit. Apert.**, *Introitus Apertus ad Occlusum Regis Palationem* `I.3 n2, I.3 n4, I.3 n6, I.3 n9, I.3 n14` — Reference only (cap. 8, 4 and 5, 3).
+- **Paracelsus**, *1 st book to the Athenians* `I.3 n4` — Reference only.
+- **R. Lulli**, *Heoria at Practica, cap. 3* `I.3 n4` — Reference only.
+- **Ripley**, *Third Gate, cap. 3; Epistle* `I.3 n4, I.3 n6` — Reference only.
+- **Sendivogius**, *New Light of Alchemy, p. 117* `I.3 n5` — Reference only, on the division of the water and the weights.
+- **Arnold / Arnoldi**, *Speculum (Disp. 8); Rosarium* — “Ii is a stone and no stone, spirit, soul, and body” `I.3 n5, I.3 n13, I.3 n17` — Supports the view that the matter is a stone and no stone: spirit, soul and body, which follows whatever is done to it (dissolved, coagulated, made to fly).
+- **Democritus**, *fable of Proteus* `I.3 n7` — Illustrates the matter, near annihilation, restoring itself by an inbred force.
+- **Maria**, *Practica, circa finem* `I.3 n9` — Reference only.
+- **Khunrath**, *Amph. Isag. in fig.* `I.3 n9, I.3 n13` — Reference only.
+- **the Divine Teacher**, *the Scriptures* — “Give not that which is holy unto the dogs, neither cast ye your pearls before swine” `I.3 n10` — Supports withholding the Causal Knowledge from the unworthy.
+- **Atalanta Fugiens**, *Emblema, xliii* — “Montis in excelso consistit vertice vultur,” `I.3 n12` — A Latin verse cited to illustrate that the vulture and the crow are one.
+- **Alphidus** — “Si lapis proprium nomen haberet lapis esset nomen ejus” `I.3 n13` — Supports calling the matter a stone.
+- **Ripley Revived**, *Ripley Revived* `I.3 n14` — Reference only, on sublimation.
+- **Lumen de Lumine**, *Lumen de Lumine* `I.3 n14` — Reference only, on sublimation.
+- **Raymond Lully**, *Thesaurus; Testam.* — “Juro tibi supra animaam meam quod si ea reveles, damnatus es” `I.3 n15` — Illustrates the strict charges to secrecy.
+- **Aquinas**, *Thasau. Alchim.* `I.3 n15` — Reference only, on secrecy.
+- **R. Bacon**, *Speculum* `I.3 n15` — Reference only, on secrecy.
+- **Arnolde of the New Towne**, *Rosary* — “There may noe man Mercury mortify, But it be with his brother’s knowledging.” `I.3 n17` — Reported in verse (versifier not named in the text) as support for the claim that no one can operate alone.
+- **Chaucer**, *Tale of the Chanon’s Yeoman* `I.3 n17` — Reference for the verse in n17.
+- **Theat. Chem. Brit.**, *Theat. Chem. Brit., p. 254* `I.3 n17` — Reference for the verse in n17.
+
+## Ambiguities
+
+- “nothing is done except it be compounded” `I.3 ¶5`
+  - Reading: As printed: the work requires composition (compounding) of the parts.
+  - Reading: As glossed in n4: the matter must be 'decompounded', meaning broken down and freed of superfluities.
+  - Basis: I.3 ¶5 reads 'compounded'; the footnote on this passage (I.3 n4) reads 'nothing is done except that the matter be decompounded'. Either a variant or a misprint; the chunk does not say which.
+- “one to two, and three to one” `I.3 ¶6`
+  - Reading: One divides into two (agent and patient), and from their conjunction three (body, soul, spirit) appear.
+  - Reading: One part divides into two, and three parts are added to each, which gives the philosophic proportions.
+  - Basis: I.3 n5 gives the first reading; I.3 n6 ('by the former section the one part is divided into two, to each of which there are added three parts') gives the second. The footnotes do not reconcile them.
+- “Luna after fifteen days is diminished; and in the third, she is augmented” `I.3 ¶7`
+  - Reading: Numbers mark the duration of the waning and waxing phases.
+  - Reading: Numbers are part of the 'variously perplexed forms and measures' and are not literal.
+  - Basis: I.3 n7 explains Luna but not the numbers; I.3 n6 says adepts give proportions under 'variously perplexed forms and measures'.
+- “the fire, and the heavenly Flyer” `I.3 ¶11`
+  - Reading: Fire = external agent, heavenly bird = internal agent (following the order of the words).
+  - Reading: The pairing is not assigned one-to-one; both together are the external and internal agents.
+  - Basis: I.3 n16: 'By the fire and heavenly bird are dignified ... the external and internal agents ... by either of which it is conserved'. No explicit mapping is given.
+- “until the radix shall appear” `I.3 ¶10`
+  - Reading: The 'radical element' of n4, discovered and set free once the matter is decompounded.
+  - Reading: Unexplained in this chunk.
+  - Basis: I.3 n4 speaks of 'the radical element' being 'discovered and set free'; the footnote attached to ¶10 (n14) does not mention the radix.
+- “The consummate union of the purified spirit with its course” `I.3 n18`
+  - Reading: The union of the spirit with its process or path ('course').
+  - Reading: The union of the spirit with its body or matter, consistent with the chunk's union of spirit with 'solar ferment' and the matter as 'spirit, soul, and body'.
+  - Basis: I.3 n18 gives 'course' only; I.3 n12 ('the revivified spirit is united with its solar ferment') and I.3 n13 ('spirit, soul, and body') support the second reading only indirectly.
+- “taking what is within and fixed, thou canst have it either in earth or sea” `I.3 ¶8`
+  - Reading: 'Earth or sea' refers to the matter in fixed (earth) or fluid (sea) state.
+  - Reading: Unexplained in this chunk.
+  - Basis: I.3 n8 glosses 'within' and 'without' but not 'earth or sea'; I.3 n16 calls the fluid state 'the sea of the wise' and I.3 n9 speaks of 'the philosophic earth', which gives indirect support to the first reading.
+
+## Translations
+
+- `I.3 n4` “non corporaliter, as the Scholiast explains, sed spiritualiter et sapienter” → not corporally but spiritually and wisely *(book)*
+- `I.3 n13` “mens sublimes et mare patens” → a mind sublime, and an open sea *(book)*
+- `I.3 n13` “Si lapis proprium nomen haberet lapis esset nomen ejus” → If the stone had a proper name, 'stone' would be its name. *(ours)*
+- `I.3 n15` “Juro tibi supra animaam meam quod si ea reveles, damnatus es: nam a Deo on=mne procedit bonum et ei soli debetur. Quare servabis et secretum tenebis illud quod ei debetur revelandum, etc.” → I swear to you upon my soul that if you reveal these things, you are damned: for all good proceeds from God and is owed to Him alone. Therefore you shall preserve and keep secret that which is His to reveal, etc. *(ours)*
+- `I.3 n12` “Montis in excelso consistit vertice vultur, Assidue clamans, Albus ego atque niger, Citrinus, rubeusque feror nil mentior: idem est Corvus, qui pennies absque volare solet Nocte tenebrosa emediaque in luce diei Namque ortis caput est ille vel iste tuae” → On the lofty summit of the mountain stands the vulture, crying ceaselessly: 'I am called white and black, citrine and red; I do not lie.' The same is the crow, which is wont to fly without feathers in the dark night and in the middle of the light of day; for this one or that is the head of your [art]. ('ortis' rendered as if 'artis'; the line is uncertain as printed.) *(ours)*
+- `I.3 n15` “So this science must ever secret be, The cause whereof is this, as ye may see: If one evil man had hereof his will, All Christian peace he might easily spill; And with his pride he might pul down Rightful Kings and Princes of renown. Wherefore the sentence of peril and jeopardy Upon the teacher reseth dreadfully.” → So this science must always be kept secret, for this reason: if one evil man had his way with it, he could easily destroy all Christian peace, and in his pride pull down rightful kings and famous princes. Therefore the judgment of peril and danger rests dreadfully on the teacher. *(ours)*
+- `I.3 n17` “So saith Arnolde of the New Towne, As his Rosary maketh mencione; He sayeth right thus withouten any lye There may noe man Mercury mortify, But it be with his brother’s knowledging. Lo, now he which first declared this thing Of philosophers’ father was, Hermes the King.” → So says Arnold of the New Town, as his Rosary mentions; he says exactly this, without any lie: no man may mortify Mercury except with his brother's knowledge. Note that the one who first declared this was the father of philosophers, Hermes the King. *(ours)*
+
+## Threads
+
+- `I.3 ¶1` The Golden Treatise is 'In Seven Sections'; this chunk is Section First, and the remaining sections follow.
+- `I.3 n8` 'as was explained in the theory concerning other gross elementary bodies': refers back to an earlier explanation that bodies show their true original only when reduced into it. Atwood also defers fuller comment: 'intending to enlarge inquiry on this head, we defer our comments.'
+- `I.3 n10` Atwood intends 'to explore the Intellectual Ground more fully hereafter'.
+- `I.3 n14` The nature, origin and 'artificial excitation of the philosophic fire' are to be inquired into 'hereafter'.
+- `I.3 n16` The matter is properly called the Stone 'for reasons before given in part', which points to an earlier discussion.
+- `I.3 n17` Why no one can operate the Hermetic artifice alone is 'for reasons hereafter explicable'.
+- `I.3 n6` 'by the former section the one part is divided into two': refers to the division of the Water in I.3 ¶6 / n5.

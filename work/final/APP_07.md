@@ -1,0 +1,313 @@
+# APP_07
+
+*The closing numbered sayings (164-181) and unnumbered notes of the Appendix: the will must return life to its source and press on through ascending spheres; the reason's light dissolves the image-filled chaos of the Vital Spirit to reach the Paternal Life (read through Aeneas, the Golden Bough and Proteus); and a final run of definitions: One Thing, Solution, Matter, Ether, Metals, Stone, Salt, Sulphur, threefold life.*
+
+## Argument
+
+- Midas: a will not returning life's 'aurific substance' to its source starves possessing it as selfhood. `APP ¶159` — ATWOOD
+- Life passes through spheres, each to be pursued to the Divine manifestation; every stoppage is punished. The will goes up or down. `APP ¶160` — ATWOOD
+- Nature is God's voice (Wilberforce, granted), but fallen Nature distorts it; Revelation draws man and Nature back. Bible-science conflicts unaffected. `APP ¶161` — ATWOOD
+- The Matter is seen with the inner eye; agent and patient alternate (Synesius' two pairs of eyes). `APP ¶162, APP ¶163` — ATWOOD
+- The Matter flows from the new-born consciousness through the fingers, ferments another life, which then raises its raiser. `APP ¶164` — ATWOOD
+- Reason's light shapes the Vital Spirit's chaos into images, then dissolves them (Aeneid VI cited); it finds the Paternal Life through maternal instinct (doves of Venus) and is conjoined. `APP ¶165, APP ¶166, APP ¶167` — ATWOOD
+- The Golden Bough carries Aeneas past Tartarus, 'the death of this life', to his Father. Realized Rational Light centres all life: re-integration. `APP ¶168` — ATWOOD
+- The Ideal is a real objective attraction. `APP ¶169` — ATWOOD
+- One finds according to the faculty one seeks with. Spheres: first Ether Natural (passions), pure Ether (moral nature), Divine Light (Reason informed by Love, purified by humiliation). `APP ¶170` — ATWOOD
+- Proteus' last shape seems the Golden Bough's tree. The seeking light makes Chimaeras (Vaughan), all to be destroyed to reach the Hypostasis. True Science is knower-known identity. `APP ¶171` — ATWOOD
+- Proclus: Time is participation of the Paradigm by the image. `APP ¶172` — ATWOOD
+- Perpendicular Magnetism dissolves the sensuous vehicle, freeing the soul; Horizontal fixes. Aristaeus figures advanced Vital transmutation. `APP ¶173` — ATWOOD
+- As Divine Life is elicited, the world's sins press on him. `APP ¶174` — ATWOOD
+- Contact with universal power initiates regenerate life. Aside: Wuthering Heights is Saturnine, lacking Jupiter. `APP ¶175` — ATWOOD
+- The One Thing is our nervous system. Solution separates the sensuous medium, then the intuitional. `APP ¶176` — ATWOOD
+- The outward hand images the invisible hand; the Ether's hands are its transverse poles, in man a natural fire. `APP ¶177` — ATWOOD
+- Philosophical matter is entelechy of body bearing spirit; soul a mesothesis. Ether is universal Matter; Metals its stages. `APP ¶178, APP ¶179, APP ¶180` — ATWOOD
+- The perfected soul is the philosopher's stone; only practitioners understand alchemy. `APP ¶181` — ATWOOD
+- The hidden sulphur must be freed to perfect passive matter. Salt, the will, opens the threefold life; dissolving sensuous then medial life reaches the divine. `APP ¶182` — ATWOOD
+- Alchemy seeks Sophia in the mind; sulphur must return on its matrix; active, passive, resultant principles evolve separately. `APP ¶183` — ATWOOD
+
+## Method
+
+- **impediment** — “for want of returning the aurific substance of life into its source and living there, becomes fossilized and starved in the mere possession of that life” `APP ¶159` (ATWOOD)
+  - **Plain (stated):** Midas's fate: the will keeps the gold-making life-substance as its own possession instead of returning it to its source and living there, and so hardens and starves.
+  - Basis: APP ¶159 explicitly reads the Midas fable this way.
+  - Also: “the fable of Midas turning everything into gold and thereby starving himself” `APP ¶159`
+  - Also: “holding it as he did the selfhood” `APP ¶159`
+- **principle** — “The process is a passage of life through various spheres of being, in any of which the will may rest” `APP ¶160` (ATWOOD)
+  - **Plain (stated):** The work carries life up through successive spheres. The will must follow each sphere's law of progress to the end (the Divine manifestation); halting short of it is punished, and there is no standing still.
+  - Basis: APP ¶160.
+  - Also: “every stoppage of the will short of this is in its way punished” `APP ¶160`
+  - Also: “Upwards or downwards the will must go.” `APP ¶160`
+- **sign** — “The Matter is seen with the inner eye, either of the agent in the patient, or the patient in the agent, for in the working of the Material they alternate.” `APP ¶162` (ATWOOD)
+  - **Plain (interpreted):** The Matter is perceived by inner sight, not the bodily senses; agent and patient alternate in this seeing, one seeing in the other. Who agent and patient are is not said here (see ambiguities).
+  - Basis: APP ¶162 states inner eye and alternation; APP ¶163 (Synesius: lower eyes closed when upper opened, 'and vice versa') supports reading it as outer sight closing as inner opens.
+  - Also: “there are two pairs of eyes; those which are beneath are closed, when those which are above are opened” `APP ¶163`
+- **procedure** — “when the Matter flows forth exteriorly from the new-born consciousness, it passes out into the hand and flows through the fingers, and is able to ferment another life and bring it into the same consciousness” `APP ¶164` (ATWOOD)
+  - **Plain (interpreted):** 'The handling of the Matter': from the newly awakened consciousness the Matter passes out through hand and fingers into another life, fermenting it into the same consciousness; that life then rises and raises the first in return. Reading 'another life' as another person is an inference.
+  - Basis: APP ¶164 literally; the reciprocal raising ('raising again that other which raised it') and the agent/patient alternation of APP ¶162 support two persons. APP ¶177 ('Help Manual') develops the hand.
+  - Also: “this in its turn rises higher, and is able to react, raising again that other which raised it” `APP ¶164`
+- **subject** — “the chaos of te Vital Spirit (which always is in chaos, i.e., always coming to be, never is, and whilst in this life wants the rebirth)” `APP ¶165` (ATWOOD)
+  - **Plain (stated):** The Vital Spirit is the field worked on: perpetual becoming, never fixed being, and needing rebirth while in this life.
+  - Basis: Parenthetical gloss in APP ¶165.
+- **stage** — “constriucts the chaos at first into vivid images, but persisting in its direct look or intellectual perscrutination of the life, dissolves and disperses the images of which the chaos is full” `APP ¶165` (ATWOOD)
+  - **Plain (stated):** When the light of reason enters the Vital Spirit it first produces vivid images; sustained, direct intellectual scrutiny then dissolves them.
+  - Basis: APP ¶165; the Aeneid lines (APP ¶165-166) are cited as illustration, untranslated by the text (our rendering: Aeneas presenting his blade to the oncoming).
+  - Also: “the light that it seeks by compresses the ether and drives it about and causes it to take all sorts of fantastic forms” `APP ¶171`
+- **stage** — “Then thelight goes on seeking the Paternal Life, the fundamental life; and finding it through the maternal instinct (the doves of Venus) is conjoined” `APP ¶167` (ATWOOD)
+  - **Plain (stated):** After the images are dispersed, the light seeks the fundamental life; it finds it by maternal instinct (what the doves of Venus mean), unites with it, and each degree of union strengthens it for further struggle.
+  - Basis: APP ¶167 glosses Paternal Life as 'the fundamental life' and the doves of Venus as 'the maternal instinct'.
+  - Also: “so far as it is conjoined is strengthened for further warfare” `APP ¶167`
+  - Also: “the Elysian regions, where the Paternal ens resides in liberty” `APP ¶168`
+- **procedure** — “Without the Golden Bough Aeneas could not proceed over or pass by Tartarus to see his Father.” `APP ¶168` (ATWOOD)
+  - **Plain (interpreted):** A propitiatory offering or talisman is required to pass safely through 'the death of this life' to the region of the Paternal life. The chunk does not say what the Golden Bough is, beyond identifying its tree with Proteus' last transformation.
+  - Basis: APP ¶168: 'By propitiation, through the offering of the Golden Bough'; APP ¶171 calls it a 'talisman' and links its tree to Proteus' final shape.
+  - Also: “This tree appears to be identical with that bearing the Golden Bough which Aeneas was ordered to find and take as his talisman” `APP ¶171`
+- **stage** — “Tartarus is the death of this life.” `APP ¶168` (ATWOOD)
+  - **Plain (stated):** The underworld passage stands for a death of this (ordinary) life, which must be passed through to reach the Paternal ens.
+  - Basis: APP ¶168.
+- **result** — “All life moves orderly round the focus of that Alight when that Light is found or realized. This constitutes the re- integration of being” `APP ¶168` (ATWOOD)
+  - **Plain (stated):** When the Rational Light, strongest of all lights, is realized, all life orders itself around it as centre; this is the reintegration of being.
+  - Basis: APP ¶168.
+  - Also: “The Rational Light is the strongest of all lights, and overcomes every other.” `APP ¶168`
+- **operator** — “the ontological quality of the faculty you seek with determines what you find” `APP ¶170` (ATWOOD)
+  - **Plain (stated):** The seeker's inner quality decides the level reached: selfish, covetous desire reaches only the lower spiritual atmosphere; the Divine Light region requires Reason informed by Love and purified through humiliation. The Ideal draws the seeker as a real attraction.
+  - Basis: APP ¶170; APP ¶169.
+  - Also: “What you find all depends on what you look with” `APP ¶170`
+  - Also: “if you seek with a selfish, covetous, desiring spirit you find its object in the lower spiritual atmosphere, the first emanation from this life” `APP ¶170`
+  - Also: “the proper habituation of the high Reason when informed by the Love, and after it has been purified by passing through the humiliation” `APP ¶170`
+  - Also: “We are all of us drawn to our Ideal as to a star” `APP ¶169`
+- **principle** — “all rise up through this first Ether Natural and abide on a sphere of their own above it” `APP ¶170` (ATWOOD)
+  - **Plain (stated):** Three ascending spheres: the first Ether Natural, through which thoughts, images, passions and desires rise to a sphere of their own; the pure Ether, to which the moral faculties relate; and the Divine Light region above.
+  - Basis: APP ¶170 lays out the spheres in order.
+  - Also: “The higher faculties, the moral nature, with their results, are related to the pure Ether, which overlies the passion sphere.” `APP ¶170`
+- **subject** — “The Protean life is very difficult of discovery” `APP ¶171` (ATWOOD)
+  - **Plain (stated):** The life sought keeps changing shape; its last form, Proteus' tree, appears to be the tree of the Golden Bough.
+  - Basis: APP ¶171.
+  - Also: “Prior to the ultimate transformation, however, it takes various other shapes.” `APP ¶171`
+- **impediment** — “These Chimaeras have all to be destroyed in order to reach the simple Hypostasis or radix of the reason that seeks” `APP ¶171` (ATWOOD)
+  - **Plain (stated):** As the seeking spirit enters the ether life, its light drives the ether into fantastic forms made by the imaginative spirit; every seeker passes through this phase, and all such forms must be destroyed to reach the root of the seeking reason.
+  - Basis: APP ¶171: 'the imaginative spirit is the maker of these images'; Vaughan cited.
+  - Also: “the imaginative spirit is the maker of these images” `APP ¶171`
+  - Also: “"No one", says Vaughan, "enters into the Magian School but he wanders awhile in the region of Chimaeras".” `APP ¶171`
+- **result** — “the simple Hypostasis or radix of the reason that seeks; the aurai simplicis ignem” `APP ¶171` (ATWOOD)
+  - **Plain (interpreted):** The goal behind the images: the simple underlying root of the seeking reason itself, which the text sets in apposition with a Latin phrase (rendered by us 'fire of simple air').
+  - Basis: APP ¶171 sets the phrases in apposition; the Latin is not glossed by the text and the rendering is ours.
+- **principle** — “True Science is the contact identical of the thing knowing with the thing known, subject with object.” `APP ¶171` (ATWOOD)
+  - **Plain (stated):** Real knowledge is ontological identity of knower and known, not representation; Truth is Light in its own ether.
+  - Basis: APP ¶171: 'Of course, I mean ontologically'.
+  - Also: “Truth is, as it were, Light in its own ether, the Divine Wisdom self-conspicuous” `APP ¶171`
+- **procedure** — “The solution of the sensuous spirit or vehicle is effected by the Perpendicular Magnetism, the fixation by the Horizontal; altitude and latitude.” `APP ¶173` (ATWOOD)
+  - **Plain (stated):** Two directions of magnetic action: the vertical dissolves the sensuous vehicle, freeing the soul and moving consciousness into another medium and world of experience; the horizontal fixes. What these magnetisms are in practice, and what fixation achieves, is not explained here.
+  - Basis: APP ¶173.
+  - Also: “By the former the soul is set free --- it translates the consciousness into another medium.” `APP ¶173`
+- **stage** — “the myth of Aristaeus, a myth which bears altogether on the Vital transmutation in an advanced stage” `APP ¶173` (ATWOOD)
+  - **Plain (stated):** The Aristaeus myth is said to image an advanced stage of the vital transmutation; the chunk does not unfold it.
+  - Basis: APP ¶173.
+- **sign** — “when the Divine Life is being elicited in a man, the sins of this world press heavily upon him, through his sympathy with it, and his perception of the evil” `APP ¶174` (ATWOOD)
+  - **Plain (stated):** As the Divine Life is drawn out, the person feels the world's evil heavily, as though personally responsible for all of it.
+  - Basis: APP ¶174.
+- **stage** — “for that experience is the initial of the regenerate life; that which ferments the sensorium of this life, and lives upon its decrease ultimately” `APP ¶175` (ATWOOD)
+  - **Plain (stated):** The first experience of regeneration is the individual mind's contact with universal power (the Efficient Power not ordinarily experienced); only then are the words 'the fear of the Lord is the beginning of Wisdom' understood. It ferments the sensory life and lives on its decease, which 'comes up again ultimately'.
+  - Basis: APP ¶175.
+- **subject** — “The One Thing; it is our psychical essence; our nervous system.” `APP ¶176` (ATWOOD)
+  - **Plain (stated):** The One Thing is the human psychical essence, identified with the nervous system.
+  - Basis: APP ¶176.
+- **procedure** — “Solution refers to the separation of the sensuous medium itself.” `APP ¶176` (ATWOOD)
+  - **Plain (stated):** 'Solution' means separating off the sensuous medium: cutting off the sensuous life opens the intuitional; dissolving that opens a further, divine level, which rectifies the whole individual.
+  - Basis: APP ¶176; APP ¶182 repeats the scheme sensuous, medial, divine.
+  - Also: “You cut off the sensuous life and get into the intuitional” `APP ¶176`
+  - Also: “Dissolve the sensuous medium and you have the second or medial life. Dissolve the medial and you reach to the divine, which rectified the whole individual.” `APP ¶182`
+- **agent** — “The hands of the Ether are its transverse poles, which are formed by the divine differentiation everywhere, and are in man a natural fire” `APP ¶177` (ATWOOD)
+  - **Plain (stated):** Under 'Help Manual': the bodily hand is the outward clothing of an invisible hand, which works effects according to its attainment of its own perfection. The Ether's 'hands' are its transverse poles, present in man as the fire of the Ether in the life organism.
+  - Basis: APP ¶177: 'in man a natural fire ---i.e., the fire of the Ether in us, or of our life organism'.
+  - Also: “The hand outward is an image of the invisible hand, its clothing” `APP ¶177`
+- **subject** — “The Philosophical matter is the entelechy of body bearing the spirit, the antecedent cause, right up through.” `APP ¶178` (ATWOOD)
+  - **Plain (stated):** The matter of the work is 'the entelechy of body bearing the spirit' (entelechy not glossed here); the soul is the body's ultimate perfection, a mesothesis between two spheres. The Ether is the universal extended Matter, life.
+  - Basis: APP ¶178; APP ¶179.
+  - Also: “The Ether is the universal extended Matter; the Divine posit everywhere; life.” `APP ¶179`
+- **stage** — “The Metals of the philosophers are the ethereal metals; the Ether’s progressive stages; its processes” `APP ¶180` (ATWOOD)
+  - **Plain (stated):** The 'metals' are not mineral metals but the successive stages of the Ether rising from lower to higher forms and qualities.
+  - Basis: APP ¶180.
+- **result** — “The soul in its metalline perfection is the philosopher’s stone.” `APP ¶181` (ATWOOD)
+  - **Plain (stated):** The philosopher's stone is the soul brought to its perfection.
+  - Basis: APP ¶181.
+  - Also: “The soul in its perfection is the Christian philosopher’s stone.” `APP ¶181`
+- **operator** — “Alchemy can be fully understood only by those who have entered on and are working the philosophic process” `APP ¶181` (ATWOOD)
+  - **Plain (stated):** Understanding requires actual practice: being conversant with the soul in her philosophy, the recreative or rather separative process. The adept perceives nature inwardly and whole, feeling all in himself.
+  - Basis: APP ¶181; APP ¶180.
+  - Also: “The adept regards nature inwardly and as a whole; he feels all in himself.” `APP ¶180`
+- **agent** — “you must set free the masculine ferment, the sulphur or divine ferment (which is doubly hidden and beyond in this life of ours) to effect the perfection of the matter” `APP ¶182` (ATWOOD)
+  - **Plain (stated):** The first product is a passive, attractive pure matter that cannot perfect itself; to perfect it, a doubly hidden active (masculine, divine) ferment called sulphur must be released.
+  - Basis: APP ¶182.
+  - Also: “All you get first of all is a pure matter which is passive, having no power of perfecting itself; it is the attractive power.” `APP ¶182`
+- **agent** — “The Salt, the will, opens it secondfold.” `APP ¶182` (ATWOOD)
+  - **Plain (stated):** Salt is identified with the will, which opens the threefold life; the exact sense of 'secondfold' is unclear (see ambiguities). Each of the three lives has its own key and representative, the first being in sense.
+  - Basis: APP ¶182: identity Salt = will stated; 'secondfold' unexplained.
+  - Also: “Each life must have its key and representative; the first has its status and being in sense.” `APP ¶182`
+- **procedure** — “there must be a return of the sulphur (this third, this obscure, this radical life) on its matrix” `APP ¶183` (ATWOOD)
+  - **Plain (stated):** To produce effect, the sulphur (the third, hidden, root life) must turn back upon its matrix; and each principle (active, passive, resultant) must be evolved separately.
+  - Basis: APP ¶183.
+  - Also: “Each principle of the life --- active, passive, and resultant --- must be produced or evolved separately” `APP ¶183`
+- **principle** — “Alchemy is philosophy; it is the philosophy, the seeking of The Sophia in the mind.” `APP ¶183` (ATWOOD)
+  - **Plain (stated):** Alchemy is identified with philosophy: the seeking of 'The Sophia' within the mind (Sophia not glossed here).
+  - Basis: APP ¶183.
+
+## Terms
+
+- **Aurific substance of life** — The gold-making substance of life, which the will should return to its source and live there, rather than possess. (ATWOOD)
+  - “for want of returning the aurific substance of life into its source and living there” `APP ¶159`
+- **Selfhood** — The mode in which the Midas-will holds the life it possesses. (ATWOOD)
+  - “holding it as he did the selfhood” `APP ¶159`
+- **Matter** (also: Material) — What is worked on; seen with the inner eye, agent and patient alternating; flows from the new-born consciousness through the hands to ferment another life. (ATWOOD)
+  - “The Matter is seen with the inner eye” `APP ¶162`
+  - “The handling of the Matter is this” `APP ¶164`
+- **Vital Spirit** — Always in chaos, always coming to be, never is; needs rebirth in this life; entered by the light of reason. (ATWOOD)
+  - “which always is in chaos, i.e., always coming to be, never is, and whilst in this life wants the rebirth” `APP ¶165`
+- **Paternal Life** — The fundamental life sought by the light. Related expressions 'Paternal ens' and 'Paternal Spirit' name what resides in liberty in Elysium (identity not asserted in so many words). (ATWOOD)
+  - = the fundamental life: “seeking the Paternal Life, the fundamental life” `APP ¶167`
+  - “where the Paternal ens resides in liberty” `APP ¶168`
+  - “to Elysium, where the Paternal Spirit lives” `APP ¶171`
+- **doves of Venus** — The maternal instinct, through which the light finds the Paternal Life. (ATWOOD)
+  - = maternal instinct: “through the maternal instinct (the doves of Venus)” `APP ¶167`
+- **Tartarus** — The death of this life, passed through by propitiation with the Golden Bough. (ATWOOD)
+  - = the death of this life: “Tartarus is the death of this life.” `APP ¶168`
+- **Golden Bough** — Offering and talisman by which Aeneas passes Tartarus to Elysium; its tree appears identical with Proteus' last transformation. (ATWOOD)
+  - “By propitiation, through the offering of the Golden Bough” `APP ¶168`
+  - “take as his talisman to pass through the Infernal Regions to Elysium” `APP ¶171`
+- **Rational Light** (also: Light) — Strongest of all lights; once found or realized, all life orders itself round it, constituting re-integration of being. (ATWOOD)
+  - “The Rational Light is the strongest of all lights, and overcomes every other.” `APP ¶168`
+- **Re-integration of being** — The state in which all life moves orderly round the focus of the realized Rational Light; 'the manifestation of the **** in man'. (ATWOOD)
+  - “This constitutes the re- integration of being” `APP ¶168`
+- **Ether** (also: ether) — The universal extended Matter, the Divine posit everywhere, life. Its progressive stages are the philosophers' Metals; its 'hands' are its transverse poles; it is stratified into the first Ether Natural and the pure Ether (moral nature). (ATWOOD)
+  - = universal extended Matter; life: “The Ether is the universal extended Matter; the Divine posit everywhere; life.” `APP ¶179`
+  - “The higher faculties, the moral nature, with their results, are related to the pure Ether” `APP ¶170`
+- **Ether Natural** — The first Ether arising from nature, through which thoughts, images, passions and desires rise to a sphere of their own above it; overlaid by the pure Ether, then the Divine Light region. (ATWOOD)
+  - “all rise up through this first Ether Natural and abide on a sphere of their own above it” `APP ¶170`
+- **Divine Light region** — The highest sphere, above the pure Ether; habitation of high Reason informed by Love and purified by humiliation. (ATWOOD)
+  - “Above that is the Divine Light region” `APP ¶170`
+- **Protean life** — The shape-shifting life sought in the work, very hard to discover; its last shape is a tree. (ATWOOD)
+  - “The Protean life is very difficult of discovery” `APP ¶171`
+- **Chimaeras** — Fantastic forms the imaginative spirit makes in the ether when the seeking light enters it; all must be destroyed. (ATWOOD)
+  - “These Chimaeras have all to be destroyed” `APP ¶171`
+- **Hypostasis** — The simple root (radix) of the reason that seeks, reached once the Chimaeras are destroyed. (ATWOOD)
+  - = radix of the reason that seeks: “the simple Hypostasis or radix of the reason that seeks” `APP ¶171`
+- **True Science** — Ontological identity of knower and known. (ATWOOD)
+  - “True Science is the contact identical of the thing knowing with the thing known, subject with object.” `APP ¶171`
+- **Truth** — Light in its own ether; the Divine Wisdom self-conspicuous. (ATWOOD)
+  - = Divine Wisdom self-conspicuous: “Truth is, as it were, Light in its own ether, the Divine Wisdom self-conspicuous” `APP ¶171`
+- **Perpendicular Magnetism** — Effects solution of the sensuous vehicle, freeing the soul and translating consciousness into another medium; 'altitude'. (ATWOOD)
+  - “By the former the soul is set free” `APP ¶173`
+- **Horizontal Magnetism** — Effects fixation; 'latitude'. (ATWOOD)
+  - “the fixation by the Horizontal; altitude and latitude” `APP ¶173`
+- **Vital transmutation** — The transmutation of life, whose advanced stage the Aristaeus myth bears on. (ATWOOD)
+  - “bears altogether on the Vital transmutation in an advanced stage” `APP ¶173`
+- **Efficient Power** — Causality, of which we ordinarily have no experience; the individual mind's contact with power universal initiates regenerate life. (ATWOOD)
+  - = Causality: “We know noting of Causality --- i.e., we have no experience of the Efficient Power.” `APP ¶175`
+- **Regenerate life** — Begins with contact of the individual mind with power universal; ferments the sensorium of this life and lives upon its decease. (ATWOOD)
+  - “that experience is the initial of the regenerate life” `APP ¶175`
+- **Saturn / Jupiter / Venus / Lune** (also: Saturnine) — Used as qualities of character and work: Saturnine = dark power in mere potentiality, chaos before Light; the Jupiter element clears it. (ATWOOD)
+  - “It is a Saturnine mass of power in mere potentiality; a dark cloud; chaos before Light strikes through it.” `APP ¶175`
+  - “It wants the Jupiter element to clear it.” `APP ¶175`
+- **One Thing** — Our psychical essence; our nervous system. (ATWOOD)
+  - = psychical essence; nervous system: “The One Thing; it is our psychical essence; our nervous system.” `APP ¶176`
+- **Solution** (also: dissolve) — Separation of the sensuous medium; repeated on the intuitional/medial life to reach the divine. (ATWOOD)
+  - = separation of the sensuous medium: “Solution refers to the separation of the sensuous medium itself.” `APP ¶176`
+- **Intuitional life** (also: intuitional) — The level reached by cutting off the sensuous life; dissolving it reaches 'the intuitional (divine)'. Its identity with the 'medial life' of APP ¶182 is inferred from the parallel, not stated. (ATWOOD)
+  - “You cut off the sensuous life and get into the intuitional” `APP ¶176`
+- **Medial life** — The second life, reached by dissolving the sensuous medium; dissolving it reaches the divine. (ATWOOD)
+  - “Dissolve the sensuous medium and you have the second or medial life.” `APP ¶182`
+- **Invisible hand** — That of which the outward hand is image and clothing; works effects according to its attainment. (ATWOOD)
+  - “The hand outward is an image of the invisible hand, its clothing” `APP ¶177`
+- **Hands of the Ether** — Its transverse poles, formed by the divine differentiation everywhere; in man a natural fire, the fire of the Ether in our life organism. (ATWOOD)
+  - = transverse poles: “The hands of the Ether are its transverse poles” `APP ¶177`
+  - “in man a natural fire ---i.e., the fire of the Ether in us, or of our life organism” `APP ¶177`
+- **Philosophical matter** — The entelechy of body bearing the spirit, the antecedent cause, right up through. (ATWOOD)
+  - = entelechy of body bearing the spirit: “The Philosophical matter is the entelechy of body bearing the spirit” `APP ¶178`
+- **Soul** — More than a resultant of body: its ultimate perfection, a mesothesis between two spheres; its angelic essence a metallic humidity; in perfection the philosopher's stone. (ATWOOD)
+  - = philosopher's stone: “The soul in its metalline perfection is the philosopher’s stone.” `APP ¶181`
+  - “The human soul is more than a mere resultant of body; it is its ultimate perfection, for it is a mesothesis between two spheres.” `APP ¶178`
+- **mesothesis** — What the soul is, between two spheres; the term is not glossed here. (ATWOOD)
+  - “it is its ultimate perfection, for it is a mesothesis between two spheres” `APP ¶178`
+- **Metals of the philosophers** — Ethereal metals: the Ether's progressive stages and processes from lower to higher forms. (ATWOOD)
+  - = ethereal metals; the Ether’s progressive stages: “The Metals of the philosophers are the ethereal metals; the Ether’s progressive stages” `APP ¶180`
+- **metallic humidity** — What the soul's angelic essence is said to be. (ATWOOD)
+  - = the soul's angelic essence: “The soul’s angelic essence is a metallic humidity.” `APP ¶181`
+- **philosopher’s stone** — The soul in its (metalline) perfection; also called the Christian philosopher's stone. (ATWOOD)
+  - = the soul in its perfection: “The soul in its perfection is the Christian philosopher’s stone.” `APP ¶181`
+- **Philosophic process** — Conversance with the soul in her philosophy; the recreative, or rather separative, process. (ATWOOD)
+  - = recreative, or rather separative, process: “conversant with the soul in her philosophy --- i.e., the recreative, or rather separative, process” `APP ¶181`
+- **Pure matter** — First product of the work: passive, unable to perfect itself; the attractive power. (ATWOOD)
+  - = the attractive power: “a pure matter which is passive, having no power of perfecting itself; it is the attractive power” `APP ¶182`
+- **Sulphur** — Doubly hidden active ferment that must be set free to perfect the passive matter; the third, obscure, radical life, which must return on its matrix. (ATWOOD)
+  - = masculine ferment; divine ferment: “the masculine ferment, the sulphur or divine ferment” `APP ¶182`
+  - = this third, this obscure, this radical life: “the sulphur (this third, this obscure, this radical life)” `APP ¶183`
+- **Salt** — The will, which opens the threefold life ('secondfold', sense unclear). (ATWOOD)
+  - = the will: “The Salt, the will, opens it secondfold.” `APP ¶182`
+- **Threefold life** — Our life: sensuous, medial and divine lives, each with its key and representative; active, passive and resultant principles to be evolved separately. (ATWOOD)
+  - “Our life is threefold.” `APP ¶182`
+  - “Each principle of the life --- active, passive, and resultant --- must be produced or evolved separately” `APP ¶183`
+- **Matrix** — That on which the sulphur must return for production of effect. (ATWOOD)
+  - “a return of the sulphur (this third, this obscure, this radical life) on its matrix” `APP ¶183`
+- **Alchemy** — Philosophy: the seeking of The Sophia in the mind; fully understood only by those working the philosophic process. (ATWOOD)
+  - = philosophy: “Alchemy is philosophy; it is the philosophy, the seeking of The Sophia in the mind.” `APP ¶183`
+- **Sophia** — That which alchemy seeks in the mind. (ATWOOD)
+  - “the seeking of The Sophia in the mind” `APP ¶183`
+
+## Sources cited
+
+- **Grecian fables (Midas)** `APP ¶159` — Illustrates: Midas as the will starved in possession of the aurific life.
+- **Bishop of Oxford (Wilberforce)** — “Nature, as the Bishop of Oxford (Wilberforce) says, is as much the voice of God as Revelation is” `APP ¶161` — Agreed with, then qualified: since the fall Nature distorts that voice.
+- **the Bible / Revelation** `APP ¶161` — Revelation rectifies man and Nature; the science-versus-Bible question is left on its own ground.
+- **Synesius**, *Isis and Osiris* — “there are two pairs of eyes; those which are beneath are closed, when those which are above are opened” `APP ¶163` — Supports the alternating inner sight of the Matter.
+- **Aeneid (author not named here)**, *Aeneid VI, 291, etc.* — “Strictamqu Aeneas aciem venientibus offert” `APP ¶165, APP ¶166, APP ¶168, APP ¶171` — Illustrates the reason's light confronting and dispersing the images in the vital chaos; Aeneas, the Golden Bough, Tartarus and Elysium read as stages of the work.
+- **Homer**, *the Odyssey* `APP ¶171` — Proteus' last subterfuge, transformation into a tree, identified with the Golden Bough's tree; illustrates the elusive Protean life.
+- **Vaughan** — “enters into the Magian School but he wanders awhile in the region of Chimaeras” `APP ¶171` — Supports: every seeker passes through a phase of illusory images that must be destroyed.
+- **Proclus**, *Commentary on the Timaeus* `APP ¶172` — Praised: Time as a participation of the Paradigm by the image, against the addressee's relational view and modern metaphysicians.
+- **modern metaphysicians** `APP ¶172` — Contrasted: they make Time a condition of thought.
+- **Virgil**, *Georgics IV, 315, etc.* — “Quis deus hac musae quis nobis extudet artem?” `APP ¶173` — The Aristaeus myth is said to bear altogether on the Vital transmutation in an advanced stage.
+- **unattributed words: 'the fear of the Lord is the beginning of Wisdom'** — “the fear of the Lord is the beginning of Wisdom” `APP ¶175` — Their meaning becomes clear on contact with universal power, the initial of regenerate life.
+- **Emily Bronte**, *Wuthering Heights* `APP ¶175` — Criticized: a Saturnine mass of power in potentiality wanting the clearing Jupiter element; Emily called Saturn.
+- **Charlotte Bronte** `APP ¶175` — Said to be Jupiter and Lune; ought to have reworked her sister's book.
+- **Anne Bronte** `APP ¶175` — Said to be Venus and Lune.
+- **Plato** — “conversant with the soul in her philosophy” `APP ¶181` — Supports: alchemy understood only by those working the philosophic (separative) process.
+- **unattributed Latin tag** — “Visitabis interiore terrae, etc.” `APP ¶182` — Reference only; appended to the account of successive dissolutions.
+
+## Ambiguities
+
+- “either of the agent in the patient, or the patient in the agent” `APP ¶162`
+  - Reading: Agent and patient are two persons (operator and subject) who alternate roles.
+  - Reading: Agent and patient are active and passive aspects within one person's consciousness.
+  - Basis: Reading 1: APP ¶164 has the Matter passing through the hand to ferment 'another life' that raises the first in return. Reading 2: APP ¶163 frames it as two pairs of eyes, and APP ¶183 speaks of active and passive principles of 'the life'. APP ¶162 itself does not decide.
+- “the manifestation of the **** in man” `APP ¶168`
+  - Reading: A word deliberately suppressed or illegible in the source; content unknown.
+  - Basis: The text prints asterisks in place of a word; nothing in the chunk supplies it.
+- “the light that it seeks by compresses the ether” `APP ¶171`
+  - Reading: The light by which the spirit seeks compresses the ether.
+  - Reading: The light that the spirit seeks compresses the ether.
+  - Basis: Grammar of 'seeks by compresses' is defective; APP ¶165 has the light of reason entering and constructing images, supporting reading 1.
+- “and when again you dissolve the intuitional, you get into the intuitional (divine)” `APP ¶176`
+  - Reading: A higher, divine intuitional level distinct from the first intuitional level.
+  - Reading: A slip for 'the divine'; the parallel in APP ¶182 reads 'Dissolve the medial and you reach to the divine'.
+  - Basis: APP ¶176 repeats 'intuitional' with '(divine)' added; APP ¶182 gives sensuous, medial, divine.
+- “The Salt, the will, opens it secondfold.” `APP ¶182`
+  - Reading: The will opens the threefold life to its second (medial) level.
+  - Reading: The will opens it twice, i.e. performs both dissolutions.
+  - Reading: The will doubles or unfolds the life in a second manner.
+  - Basis: The following sentences describe 'the second or medial life' and two successive dissolutions without naming the will again; 'secondfold' is otherwise unexplained.
+- “and represented personally produces a universal work” `APP ¶183`
+  - Reading: Each principle, embodied in a distinct person, together produces a universal work.
+  - Reading: Each principle, realized in the individual's own person, produces a universal effect.
+  - Basis: APP ¶182 'Each life must have its key and representative'; APP ¶164 involves another life; the grammar of APP ¶183 is elliptical.
+
+## Translations
+
+- `APP ¶165` “Strictamqu Aeneas aciem venientibus offert” → And Aeneas presents the drawn edge [of his sword] to those coming on. *(ours)*
+- `APP ¶166` “Et ni docta comes:” → And had not his learned companion... *(ours)*
+- `APP ¶171` “aurai simplicis ignem” → the fire of simple air (breath). *(ours)*
+- `APP ¶173` “Quis deus hac musae quis nobis extudet artem? Unde nova ingressus hominum eperientia caepit?” → What god, O Muses, hammered out this art for us? Whence did men's new experience take its beginning? *(ours)*
+- `APP ¶182` “Visitabis interiore terrae, etc.” → You will visit the interior [parts] of the earth, etc. *(ours)*
+
+## Threads
+
+- `APP ¶172` 'not a mere relation as you make it': addresses someone whose view of Time is not given in this chunk.
+- `APP ¶177` 'Help Manual:' heading introduces the unnumbered closing notes; the hand doctrine connects to the handling of the Matter at APP ¶164.
+- `APP ¶184` 'Finis.' marks the end of the Appendix.

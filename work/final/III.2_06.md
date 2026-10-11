@@ -1,0 +1,302 @@
+# III.2_06
+
+*Atwood describes the true Matter as a pure, passive, imageless 'ethereal glass', felt but not conceivable, absent from defiled external nature, and discovered only by Life and the Fire of Intellect through a dissolution of the Vital Spirit. She sums the work as solution, sublimation and fixation, makes the ass the emblem of the self-emptied subject it requires, and ends with the Plotinian union in which the mind, leaving all images, reaches the First Matter and itself.*
+
+## Argument
+
+- Contraries consubsist in the Divine Original. The 'ethereal glass' is passive to intellect as a mirror to images. Imagining it as a thing or as nothing is false, for it is both; it is felt, not known, as consciousness escaping into its source. `III.2 ¶60` — ATWOOD
+- Formless and infinite, nothing in Idea yet in Being all things, it is the source of life; Ideas pass through it like shadows in water. `III.2 ¶60` — ATWOOD
+- The Passive Nature must be pure to reflect the Divine Light unmixed. It is the Alchemists' Matter, Plato's Quintessence, Thales' Water, Parmenides' Non-Being, the Kabalists' Abyss, until, returning by its Rational Boundary in the Freed Will to consciousness, it manifests the Supreme Cause. `III.2 ¶60` — ATWOOD
+- Adepts of many faiths agree; searching Nature experimentally, they found and used it. `III.2 ¶60` — ATWOOD
+- Nature holds no such Matter: the purest is defiled by external Forms. Bound magically, lacking hands, intellect and free will, she cannot loosen the bond of coagulation on her Inner Light, and circulates into herself. `III.2 ¶61, III.2 n45` — ATWOOD
+- Phenomena are mixture, unlike their Archetypes. Without magical solution and human aid the Spirit cannot leave its forms; Nature rebukes Madathan for seeking the Stone without dissolution. `III.2 ¶61` — ATWOOD
+- Casual seekers, trusting an alert mind or a sleepwalker, are warned: only Life and the Fire of Intellect find the True matter, by dissolving the Vital Spirit. Sin's strength is in the Law of dual generation. `III.2 ¶62` — ATWOOD
+- Latin verse: dissolve the Stone as the wise do, with no corrosive (our translation). `III.2 ¶63, III.2 n46` — QUOTED: Lucerna Salis Phil.
+- The art is solution, sublimation and fixation, reiterated with long labours of body and mind. The spirit begins heavy, fantastic and rebellious. `III.2 ¶64` — ATWOOD
+- The Sphinx carried on an ass signifies reduction to simple Being without passion, will, imagination or thought; the ass also figures patient suffering until Wisdom appears under the cross of dissolution. `III.2 ¶64` — ATWOOD
+- Agrippa praises the ass as patient, simple, clean-hearted and willing, dependent on Hochma; only one turned into an ass can carry the divine mysteries. `III.2 ¶64, III.2 n47` — QUOTED: Agrippa (endorsed by Atwood)
+- These qualities are necessary in the Philosophic Subject. Honoured asses follow, and Apuleius, turned ass before Isis's mysteries. Nothing mixed, selfish or impure attracts Divinity. `III.2 ¶64, III.2 ¶65, III.2 n47, III.2 n48` — ATWOOD
+- As the Aspirant leaves the statues for the Adytum, the mind must leave all images to receive the Unity of Light; afterwards its contents recur exalted. What remains beyond all things is the First Matter. `III.2 ¶66` — ATWOOD
+- The soul, running back from non-being, arrives at itself. In union subject and object are one, and a remnant stays. `III.2 ¶66` — ATWOOD
+- Plotinus treats union as a true experimental ingress: become established in Intellect and separate from the body. `III.2 ¶66` — QUOTED: Plotinus (endorsed by Atwood)
+- The ebbing life's primary motion reunites the alienated Generative Virtue to mind. `III.2 ¶66` — UNCLEAR
+- Logic bounded about reason's inversion and experiment effecting it reach the same Truth. The ancients' contradictions come from subtlety blurred by common speech. `III.2 ¶67` — ATWOOD
+
+## Method
+
+- **subject** — “so is this ethereal glass to intellect” `III.2 ¶60` (ATWOOD)
+  - **Plain (interpreted):** The subject is wholly passive to intellect, as a mirror is to images: it neither holds them back nor passes away of itself. Ideas pass through it without dividing it.
+  - Basis: III.2 ¶60 gives the mirror comparison explicitly; that the 'ethereal glass' is the subject (Passive Nature / Matter) is inferred from 'the Passive Nature ought indeed to be a thing of this kind' and 'Such was the Matter' later in ¶60 (see ambiguities).
+  - Also: “imaginations sent into a percussive mirror or reflective vacuum on the understanding” `III.2 ¶60`
+  - Also: “pervade without dividing, like shadows in water, or more exactly as in a dream” `III.2 ¶60`
+- **sign** — “may be felt indeed, not known --- but as an escape of consciousness into its primal source without ideal limitation” `III.2 ¶60` (ATWOOD)
+  - **Plain (stated):** The subject cannot be pictured, whether as a particular thing or as nothing, since it is both. Its reality is met only as felt experience: consciousness passing back into its source with no limiting idea.
+  - Basis: III.2 ¶60.
+  - Also: “every imagination concerning it will be false” `III.2 ¶60`
+- **subject** — “a weak superstantial prolific nature, as it were nothing in the Idea yet in Being all things” `III.2 ¶60` (ATWOOD)
+  - **Plain (interpreted):** The subject is not a definite power or act but a fertile, weak nature: empty to thought, yet in being the source from which all life, increase and materiality derive.
+  - Basis: III.2 ¶60 continues 'whence every form of life, increase, and materiality also are derived'. The referent 'it' is identified with the subject only by inference from 'the Passive Nature ought indeed to be a thing of this kind' and 'Such was the Matter' (see ambiguities).
+  - Also: “formless, variable, incorporeal, infinite” `III.2 ¶60`
+- **principle** — “the Passive Nature ought indeed to be a thing of this kind, pure and indeterminate” `III.2 ¶60` (ATWOOD)
+  - **Plain (stated):** The receiving nature must be free of every image and mixture so that it reflects the Divine Light without distortion and only the Truth appears in life.
+  - Basis: III.2 ¶60 states the purpose: 'that it may reflect, without self-hindrance or refraction, the Divine Light throughout'.
+  - Also: “that there may be no falsehood or commixture of images, but the Truth only” `III.2 ¶60`
+- **subject** — “Such was the Matter so often celebrated by the Alchemists, the Quintessence of Plato, the Water of Thales, the Non-Being of Parmenides, and that Abyss of the Kabalists” `III.2 ¶60` (ATWOOD)
+  - **Plain (stated):** The pure Passive Nature is the alchemists' Matter, and the text identifies it with Plato's Quintessence, Thales' Water, Parmenides' Non-Being and the Kabalists' Abyss.
+  - Basis: III.2 ¶60 asserts the identities in one sentence.
+  - Also: “styled also by them Unknown, Void, Nothing, Infinite” `III.2 ¶60`
+- **result** — “until returning by its Rational Boundary in the Freed Will to consciousness, t makes manifest the Life, Wisdom, Plenitude, and Supreme Cause of all” `III.2 ¶60` (ATWOOD)
+  - **Plain (interpreted):** The Matter remains 'Nothing' until it returns into consciousness through a freed will; then it reveals Life, Wisdom, Plenitude and the Supreme Cause. This chunk does not explain 'Rational Boundary'.
+  - Basis: III.2 ¶60 for the sequence; III.2 ¶61 supports the role of free will, since Nature fails for lack of 'a free will to vindicate her final purpose in life'.
+- **procedure** — “having searched into Nature by their proper Reason experimentally, found Her’s; and used it” `III.2 ¶60` (ATWOOD)
+  - **Plain (stated):** The adepts found the Matter by searching Nature experimentally with their own reason, and then used it.
+  - Basis: III.2 ¶60. What 'Her’s' refers to is uncertain (see ambiguities).
+- **impediment** — “the purest is defiled with the imagination of Forms externally introduced” `III.2 ¶61` (ATWOOD)
+  - **Plain (stated):** The pure Matter is never found in the natural world: even the purest natural thing is mixed with forms brought in from outside.
+  - Basis: III.2 ¶61: 'in the natural world there is no such Matter to be found'.
+  - Also: “all is mixture and an adulterous manifestation” `III.2 ¶61`
+- **impediment** — “Nature is bound magically, nor is she able of herself to loosen the bond of coagulation” `III.2 ¶61` (ATWOOD)
+  - **Plain (stated):** Nature cannot release her own Inner Light, which the bond of coagulation shuts up, because she lacks hands, intellect and free will. Left to herself she only repeats her cycle.
+  - Basis: III.2 ¶61 gives the reasons (no hands, intellect or free will, citing 'the adept', n45) and the consequence.
+  - Also: “she has no hands (45), nor intellect sufficient, nor a free will” `III.2 ¶61`
+  - Also: “generate in monotonous retrogression, always circulating into herself” `III.2 ¶61`
+- **operator** — “Without the magical solution and human aid to fortify, the Spirit is not able to forsake her extraneous forms” `III.2 ¶61` (ATWOOD)
+  - **Plain (stated):** A human operator must dissolve and strengthen the Spirit; otherwise it cannot shed its outer forms, still less know itself anew in the Universal.
+  - Basis: III.2 ¶61.
+  - Also: “much less can she conceive herself singly in the Universal anew” `III.2 ¶61`
+- **procedure** — “Ought they not first to be opened and prepared by the most ancient cook of the planets?” `III.2 ¶61` (QUOTED: Nature (to Madathan), endorsed by Atwood)
+  - **Plain (interpreted):** The subject must first be opened (dissolved) before the Stone can be made. This chunk does not say who or what 'the most ancient cook of the planets' is.
+  - Basis: III.2 ¶61: the rebuke answers Madathan 'thinking, in his ignorance, to make the Philosopher’s Stone without dissolution'.
+- **operator** — “without risking anything, or devoting his life, as philosophers did formerly, to the pursuit” `III.2 ¶62` (ATWOOD)
+  - **Plain (stated):** The operator must commit his whole life. A casual attempt, an alert mind alone, or the revelations of an entranced sleepwalker will not find the Matter.
+  - Basis: III.2 ¶62.
+  - Also: “some entranced sleepwalker will reveal the truth to him” `III.2 ¶62`
+- **agent** — “no other Fire but that of Intellect, sublimed and fortified in its efficient source” `III.2 ¶62` (ATWOOD)
+  - **Plain (stated):** The 'Fire' that finds the true Matter is Intellect, together with Life, purified and strengthened at its own source.
+  - Basis: III.2 ¶62 names the Fire as that of Intellect.
+  - Also: “Life and nothing but Life” `III.2 ¶62`
+- **procedure** — “a dissolution of the Vital Spirit and alienation of its natural bind” `III.2 ¶62` (ATWOOD)
+  - **Plain (stated):** The True matter is found by dissolving the life-spirit and freeing it from the tie that naturally binds it.
+  - Basis: III.2 ¶62.
+  - Also: “Flesh and blood cannot enter into the kingdom of heaven, neither doth corruption inherit corruption” `III.2 ¶62`
+- **procedure** — “Nullo corrosivo adhibito” `III.2 ¶63` (QUOTED: Lucerna Salis Phil.)
+  - **Plain (interpreted):** The Stone is to be dissolved in the due manner, as the wise mean it, not sophistically and with no corrosive.
+  - Basis: III.2 ¶63 (n46). The book gives no translation; this rests on our own rendering, and fits the stress on dissolution in III.2 ¶61–62.
+  - Also: “Et nequaguam sophistico” `III.2 ¶63`
+- **stage** — “solution, sublimation, and fixation” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** The whole work has three operations. Solution dissolves and liquefies the enclosed Spirit; sublimation volatilizes and washes it; after calcinations it is reunited in a more permanent form.
+  - Basis: III.2 ¶64 defines each term.
+  - Also: “after calcinations there is a reunion into a more permanent form of Being” `III.2 ¶64`
+- **procedure** — “these processes are reiterated many times, and many labours of body and mind have to be undergone” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** The three operations are repeated many times, at long cost of physical and mental effort.
+  - Basis: III.2 ¶64; Hermes is cited as having suffered and toiled for 'the blessed Lunary of Diana'.
+  - Also: “to obtain the blessed Lunary of Diana, he had suffered much, and toiled incessantly” `III.2 ¶64`
+- **impediment** — “terrestrial, heavy, fantastic, and proves rebellious everywhere at its Source” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** At first the spirit is earthy, heavy and full of fancies, and resists at its source.
+  - Basis: III.2 ¶64 describes the spirit 'in the beginning'.
+- **stage** — “carried within the temple upon the back of an ass” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** The subdued nature must be reduced to a simple state of being by giving up all passion, will, imagination, purpose and reflective thought.
+  - Basis: III.2 ¶64: 'this is to signify the simple estate of Being to which such a nature is to be reduced by deprivation of all passion, will, imagination, purpose, or reflective thought'.
+- **stage** — “the conquered elements return under the humiliating cross of dissolution” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** A period of patient suffering follows, bearing the divine mystery; Wisdom is made manifest only once the subdued elements go back through dissolution.
+  - Basis: III.2 ¶64: the ass also represents 'the patient suffering that has afterwards to be endured'; Wisdom is manifest only after this return.
+  - Also: “bearing and bringing forth the burden of the divine mystery” `III.2 ¶64`
+- **subject** — “this asinine condition” `III.2 ¶64` (QUOTED: Agrippa, endorsed and applied by Atwood)
+  - **Plain (stated):** The ass's virtues (patience, contentment with little, simple understanding, a clean heart without anger, willing labour) must be found in the Philosophic Subject, or it cannot carry out the work.
+  - Basis: III.2 ¶64: 'All which qualifications are, in their similitude, very applicable and necessary to be found in the Philosophic Subject'.
+  - Also: “There is no creature, concludes the panegyrist, that is so able to receive divinity as an ass” `III.2 ¶64`
+  - Also: “if he had not first of an inquisitive philosopher been turned into an ass” `III.2 ¶64`
+- **impediment** — “nothing that is defiled by information, or inconstant, or impassive, or selfish, or impure can attract Divinity” `III.2 ¶64` (ATWOOD)
+  - **Plain (stated):** A subject that is defiled, unstable, unreceptive, selfish or impure cannot draw down the Divine; any mixture is rejected.
+  - Basis: III.2 ¶64–65 (Callimachus, n48).
+  - Also: “All mixed unguents are hateful to Minerva.” `III.2 ¶64`
+  - Also: “All mixture of her pure and simple oil” `III.2 ¶65`
+- **procedure** — “leaves behind him all the statues in the temple” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** The mind must give up every image and thought, self-made or impressed from outside, before it can hold the simple Unity of Light within.
+  - Basis: III.2 ¶66: 'so must the mind be prepared to depart from all images and intellections, whether self-originating or impressed'.
+  - Also: “the order in which Divinity is perceived” `III.2 ¶66`
+- **result** — “there recurs That also which was in the mind prior to the union, exalted and multiplied” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** After the union, images and earlier mental content come back as secondary things, now raised and increased.
+  - Basis: III.2 ¶66: the statues reappear on return.
+  - Also: “the statues again present themselves as secondary objects to view” `III.2 ¶66`
+- **subject** — “that which thus remains to him who passes beyond all things, is That which is prior to all things, and the First Matter” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** The First Matter is what remains to someone who has passed beyond all images and things: what comes before all things.
+  - Basis: III.2 ¶66 gives the identification directly.
+- **principle** — “it arrives not at another thing but at itself” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** The soul does not settle in sheer non-being; turning back from it, the soul finds itself.
+  - Basis: III.2 ¶66.
+- **sign** — “there are not two things as of subject and object in the consciousness, but the life understanding and the light understood are one” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** While the union lasts there is no split between knower and known.
+  - Basis: III.2 ¶66.
+  - Also: “at one and the same time illuminates and is illuminated” `III.2 ¶66`
+- **result** — “whoever thus becomes One by mingling with the Efficient, will have a remnant of it with himself” `III.2 ¶66` (ATWOOD)
+  - **Plain (stated):** Whoever becomes one with the Efficient keeps something of it afterwards.
+  - Basis: III.2 ¶66.
+- **principle** — “a true experimental ingress of the understanding essence to its source” `III.2 ¶66` (QUOTED: Plotinus (endorsed by Atwood))
+  - **Plain (stated):** The union is a real experience of the understanding entering its source, not a vision or a theory.
+  - Basis: III.2 ¶66: Plotinus 'treats it as no mere spectacle or theoretical figment'.
+- **procedure** — “separate body from the man and its defilements” `III.2 ¶66` (QUOTED: Plotinus (endorsed by Atwood))
+  - **Plain (stated):** To know the First Light, first become established in Intellect and separate yourself from the body and its impurities. What intelligence then generates, once everything foreign is removed, is 'the original of all'.
+  - Basis: III.2 ¶66, given as what 'the philosopher' (Plotinus) continues to say.
+  - Also: “should first become established in Intellect, when he will e able through it, as an image, to behold the Archetype” `III.2 ¶66`
+- **result** — “the Generative Virtue, which was alienated, becomes re- united to mind” `III.2 ¶66` (UNCLEAR)
+  - **Plain (stated):** The first movement of the withdrawn ('ebbing') life back from its farthest retreat brings the estranged generative power back into union with mind. This chunk does not define 'Generative Virtue'.
+  - Basis: III.2 ¶66, final sentence. Whether this is Atwood or Plotinus is unclear (see ambiguities).
+  - Also: “this primary motion of the ebbing life from its ultimate recessure recreates” `III.2 ¶66`
+- **principle** — “experimentally proving, it effects that inversion” `III.2 ¶67` (ATWOOD)
+  - **Plain (stated):** Logic only circles around reason turning back on itself; the experiment actually performs that turning. Both reach the same Truth: logic in light, by inference; the experiment in life, as Absolute Identity.
+  - Basis: III.2 ¶67.
+  - Also: “the one in light, the other in life, the one by inference, the other in Absolute Identity” `III.2 ¶67`
+
+## Terms
+
+- **Divine Original** — That in which contraries (small and great, deficient and exceeding) always consubsist. (ATWOOD)
+  - “contraries are always consubsistent in the Divine Original” `III.2 ¶60`
+- **ethereal glass** — Something passive to intellect as a mirror is to images, subsisting without any imagination; felt, not known. The Passive Nature is said to be 'a thing of this kind'. (ATWOOD)
+  - “so is this ethereal glass to intellect, subsisting according to processure and in defect of all imagination” `III.2 ¶60`
+- **Passive Nature** — The pure, indeterminate receptive nature that should reflect the Divine Light without refraction or mixed images; identified as the Alchemists' Matter. (ATWOOD)
+  - = the Matter so often celebrated by the Alchemists: “Such was the Matter so often celebrated by the Alchemists” `III.2 ¶60`
+  - “And the Passive Nature ought indeed to be a thing of this kind, pure and indeterminate” `III.2 ¶60`
+- **Matter** (also: True matter) — The pure passive subject celebrated by the Alchemists. Not found in the natural world; discovered only by Life and the Fire of Intellect. (ATWOOD)
+  - = Quintessence of Plato: “the Matter so often celebrated by the Alchemists, the Quintessence of Plato” `III.2 ¶60`
+  - = Water of Thales: “the Water of Thales” `III.2 ¶60`
+  - = Non-Being of Parmenides: “the Non-Being of Parmenides” `III.2 ¶60`
+  - = Abyss of the Kabalists: “that Abyss of the Kabalists, styled also by them Unknown, Void, Nothing, Infinite” `III.2 ¶60`
+  - “For in the natural world there is no such Matter to be found” `III.2 ¶61`
+  - “discovers the True matter of the adepts” `III.2 ¶62`
+- **Abyss** — The Kabalists' name for the Matter, which they also call Unknown, Void, Nothing and Infinite. (ATWOOD)
+  - = Unknown, Void, Nothing, Infinite: “that Abyss of the Kabalists, styled also by them Unknown, Void, Nothing, Infinite” `III.2 ¶60`
+- **First Matter** — What remains to one who passes beyond all things: what is prior to all things. (ATWOOD)
+  - = That which is prior to all things: “is That which is prior to all things, and the First Matter” `III.2 ¶66`
+- **Rational Boundary** — That by which the Matter returns 'in the Freed Will' to consciousness and manifests the Supreme Cause. Not further explained in this chunk. (ATWOOD)
+  - “returning by its Rational Boundary in the Freed Will to consciousness” `III.2 ¶60`
+- **Formal Agent** — That which true generation would simply represent. Nothing in nature is generated so as to represent it alone. (ATWOOD)
+  - “simply so as to represent the Formal Agent alone” `III.2 ¶61`
+- **Archetypes** (also: Archetype) — The originals from which things beheld in nature are derived; natural phenomena do not truly resemble them. In III.2 ¶66, what one established in Intellect beholds through it 'as an image'. (ATWOOD)
+  - “If indeed things beheld in nature were such as the Archetypes, whence they are derived” `III.2 ¶61`
+  - “able through it, as an image, to behold the Archetype” `III.2 ¶66`
+- **bond of coagulation** — The magical bond that shuts up Nature's Inner Light and principle of perfection. Nature cannot loosen it herself. (ATWOOD)
+  - “the bond of coagulation by which her Inner Light and principle of perfection is everywhere shut up” `III.2 ¶61`
+- **Inner Light** — Nature's principle of perfection, shut up by the bond of coagulation. (ATWOOD)
+  - = principle of perfection: “her Inner Light and principle of perfection” `III.2 ¶61`
+- **magical solution** — The dissolution which, with human aid, enables the Spirit to leave its extraneous forms. (ATWOOD)
+  - “Without the magical solution and human aid to fortify” `III.2 ¶61`
+- **Fire** — The agent that discovers the True matter: the Fire of Intellect, sublimed and fortified in its efficient source. (ATWOOD)
+  - = Intellect: “no other Fire but that of Intellect” `III.2 ¶62`
+- **Vital Spirit** — The life-spirit whose dissolution, and the alienation of its natural bind, discovers the True matter. (ATWOOD)
+  - “a dissolution of the Vital Spirit and alienation of its natural bind” `III.2 ¶62`
+- **Law of dual generation** — Where 'the strength of sin' lies. Not explained further in this chunk. (ATWOOD)
+  - “the strength of sin is in the Law of dual generation” `III.2 ¶62`
+- **Proto-chemic artifice** — The art whose whole performance is comprehended in solution, sublimation and fixation. (ATWOOD)
+  - “All that is performed in the Proto-chemic artifice may be comprehended in three terms” `III.2 ¶64`
+- **solution** — The operation that dissolves and liquefies the included Spirit. (ATWOOD)
+  - “Solution dissolves and liquifies the included Spirit” `III.2 ¶64`
+- **sublimation** — The operation that volatilizes and washes the Spirit. (ATWOOD)
+  - “sublimation volatilizes and washes it” `III.2 ¶64`
+- **fixation** — The third operation: after calcinations, a reunion into a more permanent form of Being. (ATWOOD)
+  - “after calcinations there is a reunion into a more permanent form of Being” `III.2 ¶64`
+- **calcinations** — A step preceding the reunion into permanent form. Not defined further in this chunk. (ATWOOD)
+  - “after calcinations there is a reunion” `III.2 ¶64`
+- **Lunary of Diana** — What Hermes suffered and toiled to obtain. Not otherwise explained. (ATWOOD)
+  - “to obtain the blessed Lunary of Diana, he had suffered much, and toiled incessantly” `III.2 ¶64`
+- **Philosophic Subject** — The subject of the work, in which the ass's qualities must be found if it is to carry out the Divine behests. (ATWOOD)
+  - “very applicable and necessary to be found in the Philosophic Subject” `III.2 ¶64`
+- **Sephiroth** — That on which the ass's influence occultly depends, glossed as Hochma. (QUOTED: Agrippa)
+  - = Hochma: “Sephiroth, i.e., Hochma” `III.2 ¶64`
+- **Adytum** — The interior of the temple, which the Aspirant enters after leaving all the statues behind; an image of the mind entertaining the simple Unity of Light within. (ATWOOD)
+  - “the Aspirant entering into the interior to behold the Adytum, leaves behind him all the statues in the temple” `III.2 ¶66`
+- **Divine Union** — Association not with an image but with the reality images represent; afterwards the mind's prior content recurs exalted and multiplied. (ATWOOD)
+  - “subsequent to the Divine Union, there recurs That also which was in the mind prior to the union, exalted and multiplied” `III.2 ¶66`
+- **Divine conjunction** — A state in which, while it lasts, subject and object are not two in consciousness; the life understanding and the light understood are one. (ATWOOD)
+  - “as in the Divine conjunction, whilst it lasts, there are not two things as of subject and object in the consciousness” `III.2 ¶66`
+- **Efficient** — That with which one becomes One by mingling, keeping a remnant of it. (ATWOOD)
+  - “whoever thus becomes One by mingling with the Efficient, will have a remnant of it with himself” `III.2 ¶66`
+- **First Light** — Light shining primarily in itself, illuminating and illuminated at once; the foundation of every intellect, which primarily knows itself. (QUOTED: Plotinus)
+  - = the foundation of every intellect: “this First Light, which is the foundation of every intellect and primarily knows itself” `III.2 ¶66`
+  - “at one and the same time illuminates and is illuminated” `III.2 ¶66`
+- **Generative Virtue** — A power that was alienated and is reunited to mind by the primary motion of the ebbing life. (UNCLEAR)
+  - “the Generative Virtue, which was alienated, becomes re- united to mind” `III.2 ¶66`
+- **inversion** — Reason turning back on itself: logic is bounded about it, the experiment effects it; strictly followed, both reach the First Source. (ATWOOD)
+  - “reason becomes bounded about its own inversion” `III.2 ¶67`
+
+## Sources cited
+
+- **Alchemists** — “the Matter so often celebrated by the Alchemists” `III.2 ¶60` — Supports: their celebrated Matter is the Passive Nature.
+- **Plato** — “the Quintessence of Plato” `III.2 ¶60` — Supports: his Quintessence is identified with the Matter.
+- **Thales** — “the Water of Thales” `III.2 ¶60` — Supports: his Water is identified with the Matter.
+- **Parmenides** — “the Non-Being of Parmenides” `III.2 ¶60` — Supports: his Non-Being is identified with the Matter.
+- **Kabalists** — “styled also by them Unknown, Void, Nothing, Infinite” `III.2 ¶60` — Supports: their Abyss is identified with the Matter.
+- **Pierce the Black Monk** `III.2 ¶60` — Supports: one of the 'ecclesiastics of different orders' agreed concerning the Matter.
+- **the Benedict Valentine** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **Friar Bacon** `III.2 ¶60` — Supports: 'the experimentalist', agreed concerning the Matter.
+- **the Greek Divine** `III.2 ¶60` — Supports: agreed concerning the Matter. Not otherwise identified.
+- **Synesius** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **the Canon Ripley** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **Morien** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **Lully** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **Albertus Magnus** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **Calid** `III.2 ¶60` — Supports: one of 'the Mahomedan princes' agreed concerning the Matter.
+- **Geber** `III.2 ¶60` — Supports: one of 'the Mahomedan princes' agreed concerning the Matter.
+- **Avicenna** `III.2 ¶60` — Supports: one of 'the Mahomedan princes' agreed concerning the Matter.
+- **Paracelsus** `III.2 ¶60` — Supports: agreed concerning the Matter.
+- **the Christian brotherhood of the Rosy Cross** `III.2 ¶60` — Supports: agreed concerning the Matter; searched Nature experimentally, found and used it.
+- **the adept**, *Filium Ariadne, p. 61* — “she has no hands” `III.2 ¶61, III.2 n45` — Supports: Nature cannot enter the True Light by herself.
+- **Madathan** — “Dost thou think, says she, to eat the oysters, crabs, shells and all?” `III.2 ¶61` — Illustrates: Nature rebukes him for trying to make the Stone without dissolution.
+- **unattributed ('as we are abundantly instructed')** — “Flesh and blood cannot enter into the kingdom of heaven, neither doth corruption inherit corruption” `III.2 ¶62` — Supports the dissolution of the Vital Spirit's natural bind. The text gives no attribution.
+- **Lucerna Salis Phil.**, *Lucerna Salis Phil., p. 36, cap. 3* — “Nullo corrosivo adhibito” `III.2 ¶63, III.2 n46` — Supports: the Stone is to be dissolved after the mind of the wise, without corrosive.
+- **Hermes** `III.2 ¶64` — Supports the long labours: he suffered and toiled to obtain 'the blessed Lunary of Diana'.
+- **the Sphinx’s fables** — “carried within the temple upon the back of an ass” `III.2 ¶64` — Illustrates the reduction to a simple estate of Being.
+- **Agrippa**, *Vanity of the Sciences* — “There is no creature, concludes the panegyrist, that is so able to receive divinity as an ass” `III.2 ¶64, III.2 n47` — Supports: praise of the 'asinine condition' needed by a disciple of Wisdom, which Atwood applies to the Philosophic Subject.
+- **the Saviour** `III.2 ¶64` — Illustrates the honour of the ass, chosen 'on the occasion of his greatest earthly triumph'.
+- **Abraham** `III.2 ¶64` — Illustrates: 'constantly traveled with his asses'.
+- **Balaam** `III.2 ¶64` — Illustrates: his ass was clear-sighted and spoke.
+- **Ammonius** `III.2 ¶64` — Illustrates: he admitted an ass daily to his lectures, alongside Origen and Porphyry.
+- **Origen** `III.2 ¶64` — Mentioned in the Ammonius story.
+- **Porphyry** `III.2 ¶64` — 'the Greek Porphyry', mentioned in the Ammonius story.
+- **Apuleius of Megara**, *Metapmorphoses, or Golden Ass* `III.2 ¶64, III.2 n47` — Illustrates: he was turned into an ass before admission to the mysteries of Isis.
+- **Callimachus**, *Hymn to Minerva* — “All mixture of her pure and simple oil” `III.2 ¶64, III.2 ¶65, III.2 n48` — Supports: Divinity rejects anything mixed.
+- **the mysteries / the wise hierophants** — “the order in which Divinity is perceived” `III.2 ¶66` — Illustrates: the Aspirant leaving the statues to behold the Adytum shows the mind leaving all images.
+- **Plotinus** — “separate body from the man and its defilements” `III.2 ¶66` — Supports: union as a true experimental ingress to the source, and how to approach it (establish oneself in Intellect, separate from the body).
+
+## Ambiguities
+
+- “so is this ethereal glass to intellect” `III.2 ¶60`
+  - Reading: The 'ethereal glass' is the Passive Nature or Matter named later in the paragraph.
+  - Reading: It is the Divine Original of the preceding sentence, or something carried over from the previous chunk.
+  - Basis: III.2 ¶60 opens with 'Add to this' and uses 'it' without naming a referent until 'the Passive Nature ought indeed to be a thing of this kind' and 'Such was the Matter'; the passive mirror description fits the Passive Nature.
+- “found Her’s; and used it” `III.2 ¶60`
+  - Reading: Nature's own Reason, set against 'their proper Reason'.
+  - Reading: Nature's Matter, the subject of the sentence.
+  - Basis: III.2 ¶60: 'having searched into Nature by their proper Reason experimentally, found Her’s'. 'Her’s' parallels 'their proper Reason', but the sentence concerns 'this matter'.
+- “the most ancient cook of the planets” `III.2 ¶61`
+  - Reading: The agent of the dissolution Madathan neglected, possibly the Fire of Intellect named in III.2 ¶62.
+  - Reading: Some other agent the chunk does not identify.
+  - Basis: III.2 ¶61 ties it to the need for dissolution; III.2 ¶62 names the Fire of Intellect as what discovers the Matter, but the text never makes the identification.
+- “the strength of sin is in the Law of dual generation” `III.2 ¶62`
+  - Reading: Ordinary natural generation, which mixes forms, as against true generation from the Formal Agent alone; the dissolution must overcome it.
+  - Reading: A duality such as subject and object, overcome in the union.
+  - Basis: Reading 1: III.2 ¶61 'Nothing therefore is generated truly' and III.2 ¶62 'natural bind'. Reading 2: III.2 ¶66 'there are not two things as of subject and object'. The chunk defines neither.
+- “even in the seat disposed subjects” `III.2 ¶64`
+  - Reading: Even in the best- or well-disposed subjects.
+  - Reading: The text is corrupt here and the meaning uncertain.
+  - Basis: III.2 ¶64: the phrase does not parse as printed.
+- “defiled by information” `III.2 ¶64`
+  - Reading: Defiled by forms impressed from outside ('in-formation'), as in 'Forms externally introduced'.
+  - Reading: Defiled by acquired knowledge or learning, against the ass's 'simple, indifferent understanding'.
+  - Basis: Reading 1: III.2 ¶61. Reading 2: III.2 ¶64.
+- “For this primary motion of the ebbing life from its ultimate recessure recreates” `III.2 ¶66`
+  - Reading: Atwood's own gloss after reporting Plotinus.
+  - Reading: Part of what 'the philosopher' continues to say.
+  - Basis: III.2 ¶66: it follows 'continues the philosopher' with no clear break.
+
+## Translations
+
+- `III.2 ¶61` “An tu nunc cochleas vel cancros cum testis devorare niteris? An non prius a vetustissimo planetarum coquo maturari et preparari illos oportet?” → Dost thou think, says she, to eat the oysters, crabs, shells and all? Ought they not first to be opened and prepared by the most ancient cook of the planets? *(book)*
+- `III.2 ¶63` “Debit modo ergo Lapidem solvas, Et nequaguam sophistico, Sed potius secundum mentem sapientum, Nullo corrosivo adhibito...” → Therefore dissolve the Stone in the due manner, and by no means sophistically, but rather according to the mind of the wise, with no corrosive applied... *(ours)*
+
+## Threads
+
+- `III.2 ¶60` 'Add to this' continues the argument of the preceding chunk; the referent of 'it' / 'this ethereal glass' may lie there.
+- `III.2 ¶62` 'as we are abundantly instructed': the dissolution of the Vital Spirit is said to be taught elsewhere; no source given.
+- `III.2 ¶64` 'as in the Practice will be demonstrated': the repeated solution, sublimation and fixation and their labours are to be shown later, in the Practice.
+- `III.2 n47` Agrippa's praise of the ass is cited from Vanity of the Sciences, 'chapter next in conlusion'.

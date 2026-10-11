@@ -1,0 +1,247 @@
+# II.2_02
+
+*Drawing on Synesius, Iamblicus, Olympiodorus and Proclus, Atwood argues that the phantastic (imaginative, etherial) Spirit is the thing worked on: in its natural state it clouds reason, and it must be purified, by desire, will, discipline and trial, before self-contemplation can reach truth. She then links this purification to the alchemists' cleansing and solution of their defiled 'vulgar Matter' into the Mercury of the Philosophers.*
+
+## Argument
+
+- The Etherial Spirit lies between rational and brutal life, corporeal and incorporeal, joining divine and lowest natures. In animals it is their reason. Humans think through imagination unless suddenly brought into contact with intelligible essence. `II.2 ¶10` — QUOTED: Synesius
+- Reason, weakened by dependence on sense, cannot reach true being. Even in trance a false imagination remains, which must be destroyed and outside influxions banished before the understanding spirit can 'superinduce Divinity'. `II.2 ¶10` — ATWOOD
+- Pythagoras purified disciples through long ordeals. The uninitiated are surrounded by briar thickets. Souls are cleansed for years before doctrine is fixed, as dyers purify cloth before dyeing. `II.2 ¶11, II.2 n12` — QUOTED: his biographer; Iamblicus
+- Phantasy impedes intellect and stops divine enthusiasm. Perceiving Universals proves the soul can act without it. `II.2 ¶12` — QUOTED: Olympiodorus
+- Universals point to the Idea of Wisdom, where passive reason receives 'her Whole'. That truth is the same in all, and Theurgic rites toward it follow immutable canons (Iamblicus). Plato's 'old age' means intuitive Intellect without imaginative error, reached gradually by Art, through love of truth and faith. `II.2 ¶13` — ATWOOD
+- The worst evil is not to perceive one's evil: two-fold ignorance, like a hardened, diseased body that no longer seeks a cure. `II.2 ¶13` — QUOTED: the ancients; Plato
+- Whoever is conscious of something better will seek improvement: desire is the first requisite, and without it art labours in vain, since Will is the greatest part of purgation. `II.2 ¶13` — ATWOOD
+- Through will, deeds and discourses assist our assent; without assent, the pledge of reconciliation, the soul has no purifying machine. The phantastic Spirit is purifiable even in brutes, so the rational soul is base if she leaves on earth what belongs on high. A few obtain restoration by divine gift and initiation. Breaking the compact with sense rouses fate's inflictors, which the Hercules labours figure, until the Understanding Spirit is beyond nature. `II.2 ¶13, II.2 n14` — QUOTED: Synesius (endorsed ¶14)
+- Modern art knows little of the Spirit's life or of its necessary trials. We live phantastically, mistaking idols for the good and disagreeing for lack of a standard. `II.2 ¶14` — ATWOOD
+- Self-contemplation with an unpurified Spirit yields shadowy impressures, not true hypostasis, like dreams or gas, and this threatens rationality. The Spirit can reach the highest intelligence or the worst degradation (Hades). The mind must lead it or be absorbed by it. `II.2 ¶14` — ATWOOD
+- The unpurified Spirit is the Sphinx. Whoever enters her must quickly 'solve, that is comprehend' her, or she takes over the mind. Iamblicus and Proclus describe her as shaping and enfolding the soul's powers. `II.2 ¶15` — ATWOOD
+- Even the best constituted minds could not inspect themselves on first entering life. The Spirit mirrors the mind: purified it is clear-seeing, sensual it is terrene. It needs 'alternation and solution' for discerning good and evil. `II.2 ¶15` — ATWOOD
+- Hence the alchemists' defiled vulgar Matter, prepared by solutions and calcinations into the pure Mercury of the Philosophers. Albertus says to wash 'our brass'; the first rule is perfect solution. `II.2 ¶16, II.2 n15` — ATWOOD
+
+## Method
+
+- **subject** — “the phantastical condition also of the natural understanding essence, before it is purified by art and exalted” `II.2 ¶10` (ATWOOD)
+  - **Plain (interpreted):** The thing the art works on is the imaginative, etherial spirit of the mind in its natural, unpurified state.
+  - Basis: ¶10 says this essence is 'purified by art'. ¶14 says Synesius describes 'the life that is operated upon' and 'the artifice'. ¶15 calls this nature the Phantastic Spirit 'before it is mundified'. ¶16 introduces the alchemists' Matter with 'It is therefore'.
+  - Also: “Synesius describes not only the life that is operated upon and, in graceful terms, the artifice” `II.2 ¶14`
+- **principle** — “situated on the confines of the rational and brutal life, and is of a corporeal and incorporeal degree; and it is the medium which conjoins divine natures with the lowest of all” `II.2 ¶10` (QUOTED: Synesius)
+  - **Plain (stated):** The Etherial Spirit is an intermediate nature. It is neither purely bodily nor purely mental, and it links the divine with the lowest things.
+  - Basis: Stated directly in the Synesius extract, ¶10.
+- **impediment** — “we are not accustomed to cogitate without imagination” `II.2 ¶10` (QUOTED: Synesius)
+  - **Plain (stated):** Ordinary thinking always works through imagination, which blocks direct contact with intelligible being.
+  - Basis: ¶10. Atwood adds that reason is 'debilitated' by its 'habitual dependence on sense'.
+  - Also: “reason is always more or less debilitated in its energies by the habitual dependence on sense for data and objective proof” `II.2 ¶10`
+- **procedure** — “a false imagination, which it is requisite to destroy, as well as to banish all influxions from without, before the understanding spirit can superinduce Divinity” `II.2 ¶10` (ATWOOD)
+  - **Plain (stated):** Quieting the senses, as in trance, is not enough. The sense impressions left behind and the false imagination must be eliminated, and all outside influences shut out, before the higher spirit can receive the divine.
+  - Basis: ¶10: 'when in a state of trance they are quiescent, their impressure yet remains'.
+- **procedure** — “as dyers previously purify garments, and then fix in the colors with which they wish them to be imbued in order that the dye may not be evanescent” `II.2 ¶11` (QUOTED: Iamblicus)
+  - **Plain (stated):** Two steps in order: first cleanse the soul over a long preparation, then fix the teaching in it so that it lasts.
+  - Basis: ¶11 applies the analogy directly: 'after the same manner also that divine man prepared the souls'. It follows 'wiping away the stains' over 'some years'.
+  - Also: “wiping away the stains which had insinuated themselves into our breasts” `II.2 ¶11`
+- **impediment** — “dense thickets, which are full of briars” `II.2 ¶11` (QUOTED: Iamblicus)
+  - **Plain (stated):** The uninitiated mind is overgrown with obstructions that obscure calm reasoning and keep the intellect from rising.
+  - Basis: ¶11: these thickets 'surround the intellect and heart of those who have not been purely initiated' and 'impede the intellective part'.
+- **impediment** — “enthusiasm and the phantasy are contrary to each other” `II.2 ¶12` (QUOTED: Olympiodorus)
+  - **Plain (stated):** Imagination and divine inspiration exclude each other. When imagination intervenes, the inspired state stops.
+  - Basis: ¶12: 'when the phantasy intervenes, the enthusiastic energy ceases'.
+  - Also: “The phantasy, says he, is an impediment to our intellectual conception” `II.2 ¶12`
+- **sign** — “the perception of Universals proves that it is able” `II.2 ¶12` (QUOTED: Olympiodorus)
+  - **Plain (stated):** Our ability to grasp universal concepts shows that the soul can work without imagination. Atwood makes this a pledge of higher reality and a help toward the Idea of Wisdom.
+  - Basis: ¶12 (Olympiodorus) and ¶13 (Atwood): Universals 'reveal in us a necessity of Being beyond present experience'.
+  - Also: “As a rational promise to this life of a higher reality, the subsistence of these Universals cannot be too often or too distinctly brought to mind” `II.2 ¶13`
+- **result** — “wherein this reason, becoming passive, receives the substance of her Whole” `II.2 ¶13` (ATWOOD)
+  - **Plain (interpreted):** The end state: reason stops acting on its own, becomes receptive, and is filled with the totality it belongs to, in direct contact with it.
+  - Basis: ¶13. Later in the same paragraph Wisdom is 'carried up ... into vivid contact with its Whole'. The ancients call this truth 'one and the same in all'. What 'Whole' denotes is not defined in this chunk.
+  - Also: “it is carried up through the love of truth by faith into vivid contact with its Whole” `II.2 ¶13`
+- **result** — “one and the same in all, where difference is merged in objective union” `II.2 ¶13` (QUOTED: the ancients)
+  - **Plain (stated):** The truth reached is the same experience for everyone who reaches it. Individual differences disappear in it.
+  - Basis: ¶13: the ancients describe it 'as an unquestionable experience'.
+- **principle** — “Theurgic rites conspiring to this end were scientifically disposed and early defined by intellectual canons” `II.2 ¶13` (QUOTED: Iamblicus)
+  - **Plain (stated):** The rites aimed at this end follow fixed, rational rules that cannot be changed.
+  - Basis: ¶13: the canons are not 'mutable, since they are the natural faith of life'.
+- **stage** — “Plato appropriates the possession of Wisdom to old age” `II.2 ¶13` (ATWOOD)
+  - **Plain (stated):** 'Old age' does not mean literal age. It means intellect that sees intuitively, free of the errors of imagination, reached late and gradually.
+  - Basis: ¶13: 'signifying by this Intellect diving intuitively without imaginative error'.
+- **procedure** — “by a transition gradually effected by Art away from the profound strains of a baser affection” `II.2 ¶13` (ATWOOD)
+  - **Plain (stated):** The ascent is gradual and deliberate. It moves away from lower desires and is driven by love of truth and by faith.
+  - Basis: ¶13, same sentence: 'through the love of truth by faith'.
+- **impediment** — “which being ignorant that it is ignorant has no desire to emerge” `II.2 ¶13` (QUOTED: Plato)
+  - **Plain (stated):** Not knowing that you need improvement is the worst obstacle, because it removes the wish to change.
+  - Basis: ¶13: Plato's 'two-fold ignorance', compared to 'a body all over indurated by diseases' that is not 'anxious to be cured'.
+- **operator** — “desire is the first requisite; indeed, without desire on our part, art will labor for us in vain, since Will is the greatest part of purgation” `II.2 ¶13` (ATWOOD)
+  - **Plain (stated):** The person undertaking the work must want it and consent to it. Will does most of the purifying, and outside technique fails without it.
+  - Basis: ¶13: Atwood's own sentence, before 'says Synesius'; Synesius adds 'assent, which is the greatest pledge of reconciliation' and 'disciplines willingly endured'. In ¶14 Atwood calls these 'the conditions of desire and will, so indispensable for advancement'.
+  - Also: “assent, which is the greatest pledge of reconciliation” `II.2 ¶13`
+  - Also: “disciplines willingly endured become of far greater utility” `II.2 ¶13`
+- **principle** — “the phantastic Spirit may be purified, even in brutes” `II.2 ¶13` (QUOTED: Synesius)
+  - **Plain (stated):** The imaginative spirit can be purified in principle, so the rational soul is at fault if she does not restore it to its proper higher place.
+  - Basis: ¶13: 'leaves lingering upon earth that which rightly belongs on high'.
+  - Also: “it is possible, by labor and a transition into other lives, for the imaginative soul to be purified and to emerge from this dark abode” `II.2 ¶13`
+- **agent** — “this restoration indeed one or two may obtain as a gift of divinity and initiation” `II.2 ¶13` (QUOTED: Synesius)
+  - **Plain (stated):** A few people reach the restoration through divine gift and initiation. Even then the soul's strength comes 'with divine assistance'.
+  - Basis: ¶13: 'the soul acquires fortitude with divine assistance'.
+- **impediment** — “it is no trifling contest to abrogate the confession and compact which she has made with sense” `II.2 ¶13` (QUOTED: Synesius)
+  - **Plain (stated):** The main struggle is breaking the soul's habitual agreement with, and dependence on, the senses.
+  - Basis: ¶13.
+- **sign** — “the labors of Hercules, and the dangers which he was required to endure” `II.2 ¶13` (QUOTED: Synesius)
+  - **Plain (stated):** Hercules' labours stand for the forceful opposition, from 'material inflictors' roused 'by the decrees of fate', that everyone striving for this liberation must meet.
+  - Basis: ¶13: 'this is what the Sacred Discourse testifies by the labors of Hercules ... which every one must experience who bravely contends for liberty'.
+  - Also: “the material inflictors will then be roused to vengeance, by the decrees of fate, against the rebels of her laws” `II.2 ¶13`
+- **result** — “till the Understanding Spirit rises superior to the dominion of nature and is palced beyond the reach of her hands” `II.2 ¶13` (QUOTED: Synesius)
+  - **Plain (stated):** The trials end when the higher spirit is free of nature's and fate's control.
+  - Basis: ¶13.
+- **stage** — “those temptations and trials which the consciousness must necessarily pass through, all the while regressive, before it reaches into the central illumination of truth” `II.2 ¶14` (ATWOOD)
+  - **Plain (stated):** Before reaching central illumination, consciousness necessarily passes through a series of trials. Modern art has not yet experienced them.
+  - Basis: ¶14. See ambiguities for 'regressive'.
+- **impediment** — “If, therefore, with this same misunderstanding and infected Spirit, we enter in for the discovery and contemplation of ourselves, it will be useless” `II.2 ¶14` (ATWOOD)
+  - **Plain (stated):** Introspection with an unpurified spirit fails. It shows only distorted impressions from ordinary life, not one's real substance.
+  - Basis: ¶14: 'we shall not there discern the true hypostasis, but err amongst the turbulent and shadowy impressures'.
+- **impediment** — “our vehicle disports herself oftentimes in many mingling forms; as it is with those who dream or make to themselves a fool’s paradise with the druggist’s gas” `II.2 ¶14` (ATWOOD)
+  - **Plain (stated):** Without purification, the spirit loosed into the universal soul produces dream-like or drug-like fantasies. If they persist, they would destroy its rationality.
+  - Basis: ¶14: 'without purification or any distinction of its light' ... 'would, if allowed to persist, consume its rationality'.
+- **impediment** — “the Spirit grows heavy and sinks into profound Hades” `II.2 ¶14` (QUOTED: the Sacred Discourse)
+  - **Plain (stated):** If the will turns downward or evil agencies intervene, the spirit is degraded. The Spirit can rise to the highest intelligence and can also fall into the worst degradation.
+  - Basis: ¶14: 'if the will incline downwards, persisting to grovel, or evil agencies intervene'. It 'may suffer also the most fearful degradation'.
+  - Also: “and capable of so much higher, even as they say of the highest intelligence, yet in proportion may suffer also the most fearful degradation” `II.2 ¶14`
+- **principle** — “It is necessary that the mind, once seated in this Spirit, should either follow or draw or be drawn by it” `II.2 ¶14` (ATWOOD)
+  - **Plain (stated):** Once the mind enters this spirit it either leads it or is led by it. If the mind stops aspiring, the whole person is absorbed into the spirit's lower life.
+  - Basis: ¶14: 'the whole identity, being submerged together, would be converted to her life'.
+- **impediment** — “that very Sphinx of the Labyrinth, the devourer of strangers and all who have not the wit to unriddle her and know themselves” `II.2 ¶15` (ATWOOD)
+  - **Plain (interpreted):** The Sphinx is the unpurified Phantastic Spirit. It overwhelms anyone who enters it without understanding it and knowing himself.
+  - Basis: ¶15: the Sphinx is 'she'; the antecedent in ¶14 could be the mind or the Spirit ('converted to her life'), but the next sentence describes the same nature as 'the Phantastic Spirit before it is mundified'.
+- **procedure** — “solve, that is comprehend, it on its own ground” `II.2 ¶15` (ATWOOD)
+  - **Plain (stated):** To 'solve' the spirit means to understand it actively from within. The person must quickly exert intellect while deeply conscious in it, not stay passive.
+  - Basis: ¶15 glosses 'solve' as 'comprehend'. Also: 'if reason remains passive, this nature at length prevailing, will ravage and devastate and take possession of the whole mind'.
+  - Also: “if he assume not quickly his intellectual energies” `II.2 ¶15`
+- **principle** — “it grows upon and fashions all the powers the soul, exciting in opinion the illuminations from the senses, and fixes in that life the impressions which descend from intellect” `II.2 ¶15` (QUOTED: Iamblicus)
+  - **Plain (stated):** This mundane spirit mediates in both directions. It carries sense impressions up into opinion and fixes intellect's impressions down into life. It surrounds the core intellect and takes on every form of discursive reason.
+  - Basis: ¶15: Iamblicus. Proclus adds that it 'folds itself about the indivisibility of true intellect (which is in its center)'.
+  - Also: “it folds itself about the indivisibility of true intellect (which is in its center), conforms itself to all formless species” `II.2 ¶15`
+- **sign** — “the Spirit understand the affections of the mind, and reflects its image as it is, whether good or evil” `II.2 ¶15` (ATWOOD)
+  - **Plain (stated):** The spirit mirrors the mind's actual state. A purified mind has a clear-seeing vehicle, and a sensual mind has a dull, earthy one.
+  - Basis: ¶15: the vehicle 'when it is in a wise and purified condition, is attenuated and clear seeing; when however the mind is sensually affected, then this vehicle is dulled and becomes terrene'.
+  - Also: “the primary and proper vehicle of the mind, when it is in a wise and purified condition, is attenuated and clear seeing” `II.2 ¶15`
+- **procedure** — “it needs alternation and solution, as the oracles teach” `II.2 ¶15` (QUOTED: the oracles)
+  - **Plain (interpreted):** The impure perceptive medium has to be changed and dissolved (or comprehended) so that good and evil can be discerned and life rightly chosen.
+  - Basis: ¶15: the instincts are imperfect 'in proportion as the perceptive medium is impure'. Compare 'solve, that is comprehend' in the same paragraph. See ambiguities.
+- **subject** — “the vulgar Matter as it is at first made known, full of heterogeneous qualities and notions, as a subject fallen from its sphere and defiled” `II.2 ¶16` (ATWOOD)
+  - **Plain (interpreted):** The alchemists' raw Matter corresponds to the unpurified spirit or vehicle just described: mixed, fallen, defiled.
+  - Basis: ¶16 begins 'It is therefore that the Alchemists...', drawing on ¶15's impure vehicle needing 'solution'. The Matter has 'notions' (a mental term) and is 'fallen from its sphere', echoing ¶13 'that which rightly belongs on high'.
+- **result** — “the Mercury of the Philosophers --- pure, agile, intelligent, living --- as they say, in her own sphere, as a queen upon her throne” `II.2 ¶16` (QUOTED: the Alchemists)
+  - **Plain (interpreted):** The purified Matter: pure, mobile, intelligent and living, restored to its proper place. This reads as the purified, clear-seeing vehicle of ¶15.
+  - Basis: ¶16 sets it against the defiled Matter, reached by 'preparations, solutions, calcinations'. 'In her own sphere' parallels 'fallen from its sphere' and ¶13's restoring 'that which rightly belongs on high'. ¶15 calls the purified vehicle 'attenuated and clear seeing'.
+- **procedure** — “Take, says Albertus Mangus, the occult Arcanum, which is our brass, and wash it that it may be pure and clean” `II.2 ¶16` (QUOTED: Albertus Mangus)
+  - **Plain (interpreted):** Washing the subject is cleansing it, and the first rule is complete solution. In context this is the purification of the spirit.
+  - Basis: ¶16 states that Arcanum = 'our brass' and that washing makes it 'pure and clean'. The link to spiritual purification rests on 'It is therefore' tying ¶16 to ¶15.
+  - Also: “The first rule of the work is a perfect solution” `II.2 ¶16`
+  - Also: “Hence all those preparations, solutions, calcinations, etc.” `II.2 ¶16`
+
+## Terms
+
+- **Etherial Spirit** — In this chunk, the intermediate nature between rational and brutal life, corporeal and incorporeal, joining divine natures with the lowest. It is phantastic before purification by art. (QUOTED: Synesius)
+  - = natural understanding essence: “the phantastical condition also of the natural understanding essence, before it is purified by art and exalted. This Etherial Spirit” `II.2 ¶10`
+  - “it is the medium which conjoins divine natures with the lowest of all” `II.2 ¶10`
+- **Phantastic Spirit** (also: phantastic Spirit, phantastic essence) — In this chunk, the imaginative spirit in man and animals. Unpurified, it produces a 'phantastic life', confusion and possession of the mind, and it is likened to the Sphinx. It can be purified ('mundified'). (ATWOOD)
+  - = mundane spirit: “Thus Iamblicus, speaking of this mundane spirit, says” `II.2 ¶15`
+  - “such is said to be the nature of the Phantastic Spirit before it is mundified” `II.2 ¶15`
+  - “But the phantastic Spirit may be purified, even in brutes” `II.2 ¶13`
+- **vehicle** — In this chunk, the medium of the mind ('primary and proper vehicle of the mind'). It is clear-seeing when the mind is purified and terrene when the mind is sensual. Unpurified, it 'disports herself' in many forms. (ATWOOD)
+  - “the primary and proper vehicle of the mind, when it is in a wise and purified condition, is attenuated and clear seeing” `II.2 ¶15`
+  - “our vehicle disports herself oftentimes in many mingling forms” `II.2 ¶14`
+- **Understanding Spirit** (also: understanding spirit) — In this chunk, the higher spirit that can 'superinduce Divinity' once false imagination is destroyed, and that rises above nature's dominion at the end of the trials. (ATWOOD)
+  - “before the understanding spirit can superinduce Divinity” `II.2 ¶10`
+  - “till the Understanding Spirit rises superior to the dominion of nature” `II.2 ¶13`
+- **phantasy** — In this chunk, imagination considered as an impediment to intellectual conception and as contrary to enthusiasm. (QUOTED: Olympiodorus)
+  - “The phantasy, says he, is an impediment to our intellectual conception” `II.2 ¶12`
+- **false imagination** — In this chunk, what remains of sense impressions even in trance. It must be destroyed before the understanding spirit can receive Divinity. (ATWOOD)
+  - “a false imagination, which it is requisite to destroy” `II.2 ¶10`
+- **impressure** (also: impressures) — In this chunk, residual impressions, from the senses or from 'this life's birth and sphere of accidents', that cloud the spirit. (ATWOOD)
+  - “their impressure yet remains” `II.2 ¶10`
+  - “err amongst the turbulent and shadowy impressures of this of this life’s birth and sphere of accidents” `II.2 ¶14`
+- **enthusiasm** (also: enthusiastic energy) — In this chunk, the state of being agitated by the inspiring influence of divinity. It is contrary to the phantasy. (QUOTED: Olympiodorus)
+  - “when we are agitated by the inspiring influence of divinity, and the phantasy intervenes, the enthusiastic energy ceases” `II.2 ¶12`
+- **Universals** — In this chunk, universal concepts. Perceiving them proves the soul can act without phantasy, and they promise a higher reality and help introduce the Idea of Wisdom. (ATWOOD)
+  - “they reveal in us a necessity of Being beyond present experience” `II.2 ¶13`
+- **Wisdom** — In this chunk, a consummate state in which passive reason receives 'the substance of her Whole'. It is intuitive Intellect without imaginative error, not worldly, reached by a gradual transition through Art. (ATWOOD)
+  - = Intellect diving intuitively without imaginative error: “Plato appropriates the possession of Wisdom to old age, signifying by this Intellect diving intuitively without imaginative error” `II.2 ¶13`
+  - “a Wisdom such as is not worldly, since it by no means belongs to the common life of man” `II.2 ¶13`
+- **Theurgic rites** — In this chunk, rites directed to the experience of truth, ordered by fixed intellectual canons. (QUOTED: Iamblicus)
+  - “Theurgic rites conspiring to this end were scientifically disposed and early defined by intellectual canons” `II.2 ¶13`
+- **two-fold ignorance** — In this chunk, ignorance that does not know it is ignorant and so has no desire to emerge. (QUOTED: Plato)
+  - “which being ignorant that it is ignorant has no desire to emerge” `II.2 ¶13`
+- **purgation** — In this chunk, purification of the soul. Will is its greatest part. (ATWOOD)
+  - “Will is the greatest part of purgation” `II.2 ¶13`
+- **assent** — In this chunk, the soul's consent to its purification. Without it the soul has no 'purifying machine'. (QUOTED: Synesius)
+  - “the soul is deprived of every purifying machine because destitute of assent, which is the greatest pledge of reconciliation” `II.2 ¶13`
+- **initiation** (also: initiated) — In this chunk, admission into the deeper mysteries. Restoration of the soul is obtained by a few 'as a gift of divinity and initiation', and the uninitiated are surrounded by 'dense thickets'. (QUOTED: Iamblicus; Synesius)
+  - “those who have not been purely initiated” `II.2 ¶11`
+- **true hypostasis** — In this chunk, the real being or substance of oneself, which cannot be discerned by self-contemplation with an unpurified spirit. (ATWOOD)
+  - “we shall not there discern the true hypostasis” `II.2 ¶14`
+- **Intellectual Science** — In this chunk, the field whose 'upper grades' are aspired to through labours and dangers. (ATWOOD)
+  - “those who aspire to the upper grades of Intellectual Science” `II.2 ¶14`
+- **Hades** — In this chunk, the depth into which the Spirit sinks when it grows heavy, through downward will or evil agencies. (QUOTED: the Sacred Discourse)
+  - “the Spirit grows heavy and sinks into profound Hades” `II.2 ¶14`
+- **dianoia** — In this chunk, named alongside 'our individual reason' as what the spirit 'becomes perfectly everything from which' these consist. Not further defined. (QUOTED: Proclus)
+  - “becomes perfectly everything from which dianoia and our individual reason consist” `II.2 ¶15`
+- **solve** (also: solution) — In this chunk, glossed as 'comprehend'. Solution is also what the impure perceptive medium needs, and 'perfect solution' is the first rule of the work. (ATWOOD)
+  - = comprehend: “solve, that is comprehend, it on its own ground” `II.2 ¶15`
+  - “it needs alternation and solution, as the oracles teach” `II.2 ¶15`
+  - “The first rule of the work is a perfect solution” `II.2 ¶16`
+- **mundified** — In this chunk, purified (said of the Phantastic Spirit). (ATWOOD)
+  - “the Phantastic Spirit before it is mundified” `II.2 ¶15`
+- **vulgar Matter** — In this chunk, the alchemists' Matter as first known: full of heterogeneous qualities and notions, fallen from its sphere and defiled, needing preparations, solutions and calcinations. (QUOTED: the Alchemists)
+  - “full of heterogeneous qualities and notions, as a subject fallen from its sphere and defiled” `II.2 ¶16`
+- **Mercury of the Philosophers** — In this chunk, what the vulgar Matter becomes after preparation: pure, agile, intelligent, living, in her own sphere. (QUOTED: the Alchemists)
+  - “the Mercury of the Philosophers --- pure, agile, intelligent, living --- as they say, in her own sphere, as a queen upon her throne” `II.2 ¶16`
+- **Arcanum** — In this chunk, the 'occult Arcanum', identified with 'our brass', to be washed until pure. (QUOTED: Albertus Mangus)
+  - = our brass: “the occult Arcanum, which is our brass” `II.2 ¶16`
+  - “Take, says Albertus Mangus, the occult Arcanum, which is our brass, and wash it that it may be pure and clean” `II.2 ¶16`
+- **calcinations** — In this chunk, one of the preparations the vulgar Matter undergoes before it becomes the Mercury of the Philosophers. Not further defined. (ATWOOD)
+  - “Hence all those preparations, solutions, calcinations, etc.” `II.2 ¶16`
+
+## Sources cited
+
+- **Synesius** — “This Etherial Spirit, he says, is situated on the confines of the rational and brutal life” `II.2 ¶10, II.2 ¶13, II.2 ¶14, II.2 n11` — Supports: describes the Etherial/phantastic Spirit, the need for desire, will and assent, the purification of the imaginative soul, and the trials (Hercules). Atwood endorses the passage as 'beautifully suggestive' and calls his an account of 'the life that is operated upon' and 'the artifice'.
+- **Taylor**, *Proclus on Euclid* `II.2 n11, II.2 n14` — Reference only: source of the Synesius extract (vol. 2) and of the History of the Restoration of the Platonic Philosophy.
+- **Taylor**, *History of the Restoration of the Platonic Philosophy* `II.2 n14` — Reference only, for the Synesius passage in ¶13.
+- **Pythagoras** `II.2 ¶11` — Illustrates: long preparations and ordeals before admission to deeper mysteries, and purification of disciples' souls.
+- **his biographer (of Pythagoras)** `II.2 ¶11` — Reports that Pythagoras healed and purified his followers' souls by divine arts.
+- **Iamblicus**, *Life of Pythagorus* — “dense thickets, which are full of briars” `II.2 ¶11, II.2 ¶13, II.2 ¶15, II.2 n12` — Supports: the uninitiated mind is obstructed, and souls must be cleansed before receiving doctrine (dyer analogy). Elsewhere: Theurgic rites follow immutable intellectual canons, and the mundane spirit fashions the soul's powers.
+- **Olympiodorus** — “The phantasy, says he, is an impediment to our intellectual conception” `II.2 ¶12, II.2 n13` — Supports: phantasy opposes divine enthusiasm, and perceiving Universals proves the soul can act without it. Called 'The Egyptian Olympiodorus'.
+- **Porphyry**, *Aid to Intelligibles* `II.2 n13` — Reference only (with Taylor), for the Olympiodorus passage.
+- **Plato** `II.2 ¶13` — Supports: Wisdom assigned to old age (meaning intuitive Intellect without imaginative error), and the 'two-fold ignorance' he condemns.
+- **the ancients** — “one and the same in all, where difference is merged in objective union” `II.2 ¶13, II.2 ¶14` — Supports: the truth is the same experience in all; the worst evil is not perceiving one's evil; they warn about the treatment of the Spirit.
+- **the Sacred Discourse** — “the Spirit grows heavy and sinks into profound Hades” `II.2 ¶13, II.2 ¶14` — Supports: the labours of Hercules as the trials of whoever contends for liberty, and the Spirit's sinking when the will inclines downward.
+- **Proclus** — “it folds itself about the indivisibility of true intellect (which is in its center)” `II.2 ¶15` — Supports: describes the mundane/phantastic spirit as enfolding intellect and conforming to all forms.
+- **the oracles** `II.2 ¶15` — Cited as teaching that the impure perceptive medium needs 'alternation and solution' for discerning good and evil.
+- **the Alchemists** `II.2 ¶16` — Atwood links their condemnation of the defiled vulgar Matter, and its preparation into the Mercury of the Philosophers, to the purification of the Spirit.
+- **Albertus Mangus**, *Secret. Tact. Alberti, in fine; Artis Auriferae* — “The first rule of the work is a perfect solution” `II.2 ¶16, II.2 n15` — Supports: wash the occult Arcanum ('our brass') until pure; perfect solution is the first rule.
+
+## Ambiguities
+
+- “by labor and a transition into other lives” `II.2 ¶13`
+  - Reading: Literal successive lives or incarnations.
+  - Reading: Passage into other modes or states of life within this life (e.g. through initiation).
+  - Basis: The chunk does not explain it. The same paragraph speaks of 'restoration' as 'a gift of divinity and initiation', which could support the second reading. Nothing in the chunk excludes the first.
+- “all the while regressive” `II.2 ¶14`
+  - Reading: Consciousness turning back inward or upward toward its origin (a return).
+  - Reading: Consciousness undergoing setbacks or descent during the trials.
+  - Basis: ¶13 uses 'the regression of the rational soul' as something that would be 'base' if she neglected to restore what is foreign, which suggests a return or ascent. ¶14 sets 'regressive' among 'temptations and trials', which allows the second reading.
+- “it needs alternation and solution, as the oracles teach” `II.2 ¶15`
+  - Reading: 'alternation' as printed: alternating states.
+  - Reading: 'alternation' as a misprint for 'alteration': transformation.
+  - Basis: The text gives no gloss. The sense of change in the purification context fits either.
+- “The first rule of the work is a perfect solution” `II.2 ¶16`
+  - Reading: Solution as comprehension, matching ¶15's 'solve, that is comprehend'.
+  - Reading: Solution as dissolving or washing the Matter, matching 'wash it that it may be pure and clean' and 'solutions, calcinations'.
+  - Basis: ¶15 glosses 'solve' as 'comprehend'. ¶16 places 'solution' among physical-sounding operations next to 'wash'. The chunk does not decide between them, and both may be intended.
+
+## Translations
+
+- `II.2 n15` “Secret. Tact. Alberti, in fine; Artis Auriferae” → Albert's 'Secret. Tact.' (abbreviated title, not expanded here), at the end; [in] 'Of the Gold-making Art'. *(ours)*
+
+## Threads
+
+- `II.2 ¶14` 'Hence, and from the foregoing evidence' points back to earlier argument; 'modern art has hitherto unfolded but a small and inferior part only of the Spirit’s life' refers to a modern art not named in this chunk (compare the mention of mesmerized patients and chloroform or ether in the same paragraph).
+- `II.2 ¶14` 'the whole the passage, from which we here gather' refers to the Synesius passage quoted in ¶13 (source given in n14).
+- `II.2 ¶16` Bridges the Mysteries discussion to alchemical practice. The alchemists' purification of the vulgar Matter into the Mercury of the Philosophers is introduced as a consequence ('It is therefore') of the Spirit's need for purification and solution.

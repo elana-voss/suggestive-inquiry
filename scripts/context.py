@@ -13,6 +13,6 @@ for c in idx:
         doc += f"(from {prev})\n\n{paras[-1].strip()}\n"
     else:
         doc += "(none: this is the first chunk of the book)\n"
-    open(os.path.join(out, c['chunk'] + '.md'), 'w', encoding='utf-8').write(doc)
+    open(os.path.join(out, c['chunk'] + '.md'), 'w', encoding='utf-8', newline='\n').write(doc)
     prev = c['chunk']
 print(len(idx), 'context files')

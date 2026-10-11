@@ -1,0 +1,333 @@
+# III.1_03
+
+*Atwood argues that universal Reason, known by inward (microcosmic) experiment and revealed in a purified intelligence, is the beginning of Wisdom and the leaven of the Art. She reads Plutarch's Isis myth, Homer, Virgil and Palingenius as allegories of its stages (putrefaction of the impure vital spirit, the necessary death of a 'medial life', repeated death and rebirth), and names the 'vertical separated Light' as the hidden principle and Key that adepts sought for years.*
+
+## Argument
+
+- Only the root of reason is universal. Microcosmic experiment into it yielded knowledge of the macrocosmic Cause; in the hermetic process the two cooperate. `III.1 ¶23` — ATWOOD
+- Such claims about Intellect exceed its natural revelation; their authors 'proved the work divine'. Sense suggests mind is a product of the brain, since reason cut off from its source is 'halting and impotent'. `III.1 ¶23` — ATWOOD
+- Myth: Jupiter's grown-together feet, cut apart by Isis, signify the Supreme God's mind, invisible in nature, becoming known when set in motion. `III.1 ¶23, III.1 n28` — QUOTED: Eudoxus in Plutarch
+- As an allegory of the Art: purified intelligence (Isis) dissolves the vital medium, opens the occult source and raises the Voluntary Efficient into reminiscence. The end is self-knowledge. `III.1 ¶23` — ATWOOD
+- Endorsed authorities: reason errs unless God illuminates it (the Magian); seek the purified Intellect in spirit (Aristotle); the soul receives from Intellect a sudden Light that 'is also It' (Plotinus). `III.1 ¶23, III.1 n29, III.1 n30, III.1 n31` — QUOTED: the Magian; Aristotle; Plotinus
+- This Reason underlies all law. Its revelation in a purified intelligence is the 'perfect beginning of Wisdom', half the whole. `III.1 ¶23` — ATWOOD
+- A grain of metaphysical ferment leavens the lump. Like wheat putrefying and growing, the purified graft re-enters its native life and transmutes all into its Aurific Light. `III.1 ¶24` — ATWOOD
+- While the leaven works, the 'sulfuric Spirit' putrefies the philosopher's Mercury (impure vapour of life). The elements rage like a sea, darkness condenses, and falsehood resists the rising truth. `III.1 ¶24` — ATWOOD
+- Achilles' armour dismaying Troy illustrates this. He arms only after Patroclus dies, as Misenus' rites precede Aeneas' descent. Homer and Virgil share one mystic theme; they are not imitators or historians. `III.1 ¶25, III.1 n32, III.1 n33` — ATWOOD
+- The heroes' friends must die: the 'celestial medial life' before the heroic work is cut off and buried, leaving only memory. Palingenius ('one regenerated') divulges the method in verse. `III.1 ¶26` — ATWOOD
+- Verse: the 'Arcadian slippery lad' is drowned, crucified by Lemnos' God, dissolved in a warm womb, and revives in gold and silver; renewed on coals, he perfects what he touches. `III.1 ¶27` — QUOTED: Palingenius
+- The Vital Spirit is not radically improved until the first medial life dissolves. Its motive is the loss of its Understanding Light at full vigour (Eurydice, Proserpine): Intellect isolated. `III.1 ¶28` — ATWOOD
+- Achilles' vow was not in vain. The Iliad's implausibilities point to one 'war of life', where the Heroic Will 'stirs the bitter waters' to regain the lost kingdom. `III.1 ¶29, III.1 ¶30, III.1 n35` — ATWOOD
+- Achilles too must die: what is sown must die. Each life rises better, to a fourth or fifth generation, terrestrial into celestial into divine. One ray of the Savior's Light cleanses 'this leprous life'. `III.1 ¶30, III.1 ¶31, III.1 n36` — ATWOOD
+- Plotinus and Anaxagoras: begin with an image or small portion, gold for universal gold. 'Ramus, non arbor'. `III.1 ¶32, III.1 n37` — QUOTED: Plotinus; Anaxagoras (endorsed)
+- Pure reason grows; impure reason (motive 'not universal') must be reworked until it knows its Law's Unity. Finding the true Separator is hardest; Virgil's tree is hidden. `III.1 ¶32, III.1 ¶33, III.1 n38` — ATWOOD
+- The tree of life stays hidden even from one who 'sees within'. Only the Maternal intelligence reveals it and leads to the Paternal light; Aeneas follows his mother's birds. `III.1 ¶34, III.1 ¶35, III.1 n39` — ATWOOD
+- The separable intellectual purpose, personified by many heroes and Hermes' 'our Son', passes through death and Stygian waters. It is the Mustard-seed of Faith finding the hidden Stone; Caduceus, Golden Bough, Hercules' Cup name it. `III.1 ¶36` — ATWOOD
+- This 'vertical separated Light', a divine ray from the will of the divinized, is the true principle, guarded by alchemists. Trevisan, Pontanus, Flamel and Madathan sought it for years; Pontanus calls the Fire the unrevealed key. `III.1 ¶37, III.1 n40, III.1 n41` — ATWOOD
+- Basil Valentine: the key is Antimony (stone of Fire), matured by the microcosm's fire where the macrocosm's stops. Kirchringius: the key opens first and last gates; its method is 'Manual Operation'. `III.1 ¶37, III.1 n42` — QUOTED: Basil Valentine; Kirchringius
+
+## Method
+
+- **principle** — “by the microcosmic experiment into It, the knowledge if the macrocosmic Cause also was derived” `III.1 ¶23` (ATWOOD)
+  - **Plain (interpreted):** Knowledge of the universal Cause was obtained by an experiment carried out inside the individual, on the root of reason in man. Inner and cosmic processes cooperate in the work.
+  - Basis: III.1 ¶23: 'It' refers back to 'this root of reason which is truly catholic'; the next sentence says that 'in the hermetic process they are seen to cooperate'.
+  - Also: “has been described as present by philosophers on the internal ground” `III.1 ¶23`
+- **subject** — “his feet had grown together and that he was forced to live in solitude” `III.1 ¶23` (QUOTED: Eudoxus in Plutarch)
+  - **Plain (stated):** The divine mind lies invisible and dormant in nature and becomes known only when it is set in motion.
+  - Basis: III.1 ¶23: the scholar glosses it as representing that 'the mind and reason of the Supreme God, which in nature is invisible and dwelling in obscurity, by being put in motion becomes known'.
+- **agent** — “the purified spirit or intelligence, that is Isis, by dissolving the vital medium, opens the occult source, and draws the Voluntary Efficient upward into intellectual reminescence” `III.1 ¶23` (ATWOOD)
+  - **Plain (stated):** Isis stands for the purified intelligence. Its act (cutting Jupiter's feet apart) is the dissolving of the vital medium, which opens the hidden source and raises the Voluntary Efficient into intellectual remembrance.
+  - Basis: III.1 ¶23: 'that is Isis' identifies the figure; Atwood calls the myth 'an allegory of the Art'.
+- **result** — “that man may know himself; whence, what for, and whereto, he is allied” `III.1 ¶23` (ATWOOD)
+  - **Plain (stated):** The goal is self-knowledge: knowing one's origin, purpose and what one is allied to.
+  - Basis: III.1 ¶23
+- **principle** — “reason, unless it be illuminated, is not free from error, and Light is not given to reason except God impart it” `III.1 ¶23` (QUOTED: the Magian (endorsed))
+  - **Plain (stated):** Reason needs illumination from God to be free of error.
+  - Basis: III.1 ¶23, the Magian; Atwood's own parallel view of reason cut off from 'its First Source' earlier in ¶23.
+  - Also: “human reason, as a ray of light, reflected apart from its originating focus, is halting and impotent” `III.1 ¶23`
+- **subject** — “That Intellect must be assumed which is most perfectly purified; the knowledge of which must be sought for in spirit or spirits” `III.1 ¶23` (QUOTED: Aristotle (endorsed))
+  - **Plain (stated):** Work with the most purified Intellect, and seek knowledge of it in spirit.
+  - Basis: III.1 ¶23
+- **sign** — “the sol receives with it, he says, a sudden Light, and this Light is from Intellect, and is also It” `III.1 ¶23` (QUOTED: Plotinus (endorsed))
+  - **Plain (interpreted):** The soul (if 'sol' means soul) suddenly receives a Light from Intellect, and that Light is Intellect itself.
+  - Basis: III.1 ¶23, Plotinus as reported. 'sol' is printed; reading it as 'soul' is an inference from context (see ambiguities).
+- **stage** — “that perfect beginning of Wisdom, which is half of the perfect whole” `III.1 ¶23` (ATWOOD)
+  - **Plain (stated):** The first half of the work is the luminous revelation of universal Reason in a purified intelligence.
+  - Basis: III.1 ¶23: 'the luminous revelation of which in a purified human intelligence, is that perfect beginning of Wisdom'.
+  - Also: “Dimidium facti qui bene coepit habet” `III.1 ¶24`
+- **agent** — “a small grain of the metaphysical ferment leavens the whole lump” `III.1 ¶24` (ATWOOD)
+  - **Plain (interpreted):** A small portion of purified Reason, already tried by fire, goes back into the person's own native life and gradually turns all of it into its own luminous nature.
+  - Basis: III.1 ¶24 follows the 'beginning of Wisdom' passage (¶23) with 'for'. The graft is 'already purified and passed the fire, re-enters to redeem its congenital life, and finally by assimilation transmutes all'.
+  - Also: “the metaphysical graft, already purified and passed the fire, re-enters to redeem its congenital life” `III.1 ¶24`
+  - Also: “transmutes all into the substance of its own Aurific Light” `III.1 ¶24`
+- **sign** — “this acute discriminative sulfuric Spirit occasions a putrefaction of the philosopher’s Mercury, i.e., of the impure vapor of life” `III.1 ¶24` (ATWOOD)
+  - **Plain (stated):** The sharp, discriminating spirit (the ferment) enters the impure vital vapour and makes it putrefy. The text glosses the philosopher's Mercury as the impure vapour of life.
+  - Basis: III.1 ¶24: 'i.e.' gives the gloss; 'this' refers back to the leaven being worked.
+- **sign** — “all the elements are in commotion, raging, swelling, and rolling like a tempestuous sea” `III.1 ¶24` (ATWOOD)
+  - **Plain (stated):** Signs during fermentation: violent inner turmoil. Darkness shows up against the dawning light and contracts, and every kind of falsehood resists the rising truth.
+  - Basis: III.1 ¶24: these are named as 'phenomena' that arise 'During the process of working this leaven'.
+  - Also: “darkness, made visible by the appearing light, shrinks more and more condensing” `III.1 ¶24`
+  - Also: “falsehood, as it were, trembling for her kingdom, puts on every sinister guise, to combat and eclipse the living truth” `III.1 ¶24`
+  - Also: “So did the armor of Achilles, while yet far off he only showed himself, dismay the assembled hosts of Troy” `III.1 ¶25`
+- **stage** — “the celestial medial life which, in the order of divine rites, precedes the heroic work, is by necessity cut off, even in its prime” `III.1 ¶26` (ATWOOD)
+  - **Plain (stated):** A first, intermediate 'celestial' life must be cut off, shut up and buried once it is perfected. Only its memory remains, which drives the work onward. The deaths of the heroes' friends (Patroclus, Misenus) stand for this.
+  - Basis: III.1 ¶26: 'For the friends of those heroes must die ... for the celestial medial life ... is by necessity cut off'. III.1 ¶28 calls it 'this dissolution of the first medial life'.
+  - Also: “when perfected at all points, is shut up and buried” `III.1 ¶26`
+  - Also: “Achilles does not appear at all in arms, nor has he these, until after Patroclus, his bosom friend, is slain” `III.1 ¶25`
+  - Also: “so Hyanthe died, so Hylas at the fountain, Adonis, Misenus, Elpenor, Patroclus, too, before the heroic virtue was brought into act” `III.1 ¶28`
+- **procedure** — “Take this Arcadian slippery lad that’s apt to fly. And in the glittering Stygian lake, drowned let him die” `III.1 ¶27` (QUOTED: Palingenius (endorsed))
+  - **Plain (interpreted):** Atwood says this verse 'divulges the artificial method'. A volatile subject is drowned, set on Hyales's lap, taken by Lemnos' God to feed and 'crucified', dissolved in a warm womb, penetrated by a spirit, and revived in stages. This chunk does not decode the individual figures.
+  - Basis: III.1 ¶26 introduces the verse as divulging 'the artificial method'; the sequence is read straight from III.1 ¶27. This chunk does not say who Hyales or Lemnos’ God are.
+  - Also: “Then in a warm womb placed, his taint dissolve, Whose dropping limbs a spirit shall devolve, To him and penetrate” `III.1 ¶27`
+  - Also: “Dead by degrees, shall bring to life anew All clad in robes of gold and silver hue.” `III.1 ¶27`
+- **result** — “Cast him again on hot coals, Proteus like He’ll be renewed, and all he touches make Most perfect” `III.1 ¶27` (QUOTED: Palingenius (endorsed))
+  - **Plain (interpreted):** Renewed again in fire, the revived subject perfects whatever it touches and can 'change species', which goes beyond natural law.
+  - Basis: III.1 ¶27 verse; III.1 ¶24 makes a parallel claim that the ferment 'transmutes all into the substance of its own Aurific Light'.
+  - Also: “Species he’ll change and poverty repel.” `III.1 ¶27`
+- **principle** — “Nothing is done radically to meliorate the Vital Spirit previous to this dissolution of the first medial life” `III.1 ¶28` (ATWOOD)
+  - **Plain (stated):** The vital spirit cannot be fundamentally improved until that first intermediate life has been dissolved.
+  - Basis: III.1 ¶28
+- **procedure** — “It needs a motive and excitation; and this is given by artifice of the Divine Law depriving it when in full vigor of its Understanding Light” `III.1 ¶28` (ATWOOD)
+  - **Plain (stated):** Drive comes from loss. Divine Law takes away the spirit's understanding-light while it is at full strength, leaving Intellect isolated and longing. Eurydice, Proserpine and the heroes' slain friends all depict this loss.
+  - Basis: III.1 ¶28: 'the identical dilemma is common to these all, who personate the wanderings and anguish of Intellect so artificially isolated on the plain of Truth'.
+  - Also: “all but the hallowed memory burning to retrieve” `III.1 ¶26`
+  - Also: “So Eurydice was lost to Orpheus and Proserpine by Pluto’s stratagem” `III.1 ¶28`
+- **agent** — “the Heroic Will enters in, self-sacrificing, and stirs the bitter waters, to redeem and reinstate the kingdom lost” `III.1 ¶30` (ATWOOD)
+  - **Plain (interpreted):** After the loss, a self-sacrificing will (Achilles roused to avenge Patroclus) enters and stirs the 'bitter waters' to win back what was lost.
+  - Basis: III.1 ¶29 to ¶30: the sentence directly follows Achilles' vow and the defence of his 'vindicative will' and 'heroic tears'. 'Bitter waters' is not explained in this chunk.
+  - Also: “Nor all in vain was that vindicative will conceived or those heroic tears” `III.1 ¶30`
+- **stage** — “So each succeeding life must die, as transplanted in the next, it dissolves, corrupts, and rises into a better form” `III.1 ¶30` (ATWOOD)
+  - **Plain (stated):** The work proceeds by repeated deaths: each stage dissolves and putrefies, then rises improved. Even the heroic agent (Achilles) must die in turn.
+  - Basis: III.1 ¶30, with the grain analogy: 'Does not the grain putrefy in the moist earth before it springs?'
+  - Also: “But Achilles, too, must die and suffer, as was predestinated, before the fatal gates” `III.1 ¶30`
+  - Also: “how otherwise should that which is sown be quickened unless it die?” `III.1 ¶30`
+- **principle** — “it is the Law especial of spiritual generation that the parent is bettered in the offspring, even to the fourth generation, or fifth, if this happily should be attained” `III.1 ¶30` (ATWOOD)
+  - **Plain (stated):** Each generation of the work surpasses the last, up to a fourth or possibly fifth degree.
+  - Basis: III.1 ¶30
+- **result** — “the terrestrial is bettered in the celestial, and the celestial, descending and overcoming, is conceived into the divine” `III.1 ¶30` (ATWOOD)
+  - **Plain (stated):** The earthly body is raised into the celestial, and the celestial, descending and overcoming, into the divine.
+  - Basis: III.1 ¶30
+- **agent** — “This is the true Light which lighteth every man that cometh into the world, which is in the Savior was perfected; one ray of which is able to cleanse this leprous life of ours” `III.1 ¶30` (ATWOOD)
+  - **Plain (stated):** The purifying agent is the true Light present in every man and perfected in the Savior; a single ray of it can cleanse ordinary corrupted life and turn it to 'the purest spiritual extreme'.
+  - Basis: III.1 ¶30; the Latin verses of ¶31 praise the light 'from whose light all light shines' (our translation).
+  - Also: “convert it to the purest spiritual extreme” `III.1 ¶30`
+- **procedure** — “Ramus, non arbor --- The bough, not the whole tree, is to be taken” `III.1 ¶32` (ATWOOD)
+  - **Plain (stated):** Do not try for the universal subject at once. Begin with a small portion that represents the whole.
+  - Basis: III.1 ¶32: Plotinus says to obtain the universal subject 'through the medium of an image' with 'a certain portion of gold, as a representative of universal gold'; Anaxagoras says Intellect 'begins from that which is small'.
+  - Also: “with a certain portion of gold, as a representative of universal gold” `III.1 ¶32`
+- **impediment** — “if it be not pure, in other words, if the motive be not universal, it must be returned, to work, and resolve, and meditate, and prove” `III.1 ¶32` (ATWOOD)
+  - **Plain (stated):** Purity means having a universal rather than a private motive. Pure reason, however small, penetrates and grows. Impure reason must be sent back to be reworked and tested until it knows the Unity of its Law.
+  - Basis: III.1 ¶32: 'in other words' gives the gloss of 'not pure'.
+  - Also: “if the reason be but pure, it will penetrate according to its purity, and gather growth” `III.1 ¶32`
+- **impediment** — “To find the true Separator is described, in fact, as the greatest difficulty” `III.1 ¶32` (ATWOOD)
+  - **Plain (interpreted):** The hardest step is finding the true separating agent. Atwood sets it beside Virgil's hidden tree and the tree of life, which stays hidden even from someone who has got past the senses and sees inward. What the Separator is, this chunk does not state (see ambiguities).
+  - Basis: III.1 ¶32: 'as we may remember also in Virgil, the tree is hid'; ¶34 'The tree of life ... is latent and difficult to find'. The link is by juxtaposition, not stated.
+  - Also: “The tree of life covered over, indeed, with the dark oblivion of this natural outbirth, is latent and difficult to find” `III.1 ¶34`
+- **stage** — “him who has already passed the turbulent waters of the senses’ medium and sees within” `III.1 ¶34` (ATWOOD)
+  - **Plain (stated):** One stage is getting past the senses' turbulent medium so that one 'sees within'. Even then the tree of life is still to be found.
+  - Basis: III.1 ¶34
+- **agent** — “the celestial instinct only to reveal; that subtle Maternal; intelligence which originally conceived it” `III.1 ¶34` (ATWOOD)
+  - **Plain (interpreted):** Neither art nor cleverness finds the tree. Only an inborn 'celestial instinct', the maternal intelligence that conceived it, can reveal it, and only this leads further into the paternal light of life. Aeneas following his mother's birds to the bough illustrates this.
+  - Basis: III.1 ¶34 states the claim. The Virgil verse in III.1 ¶35 ('Materna agnoscit aves') follows it as illustration; reading the birds as the Maternal intelligence is inferred from that placement.
+  - Also: “can alone lead into the yet more central, antecedent Paternal, light of life” `III.1 ¶34`
+  - Also: “Materna agnoscit aves” `III.1 ¶35`
+- **agent** — “that heroic, separable, triply refined intellectual purpose, which has been so often and under so many names personified” `III.1 ¶36` (ATWOOD)
+  - **Plain (stated):** The agent is a separable, thrice-refined intellectual purpose. The heroes of myth and Hermes' 'our Son' personify it, and it passes through darkness, death and the Stygian waters.
+  - Basis: III.1 ¶36 lists the names it is personified under.
+  - Also: “our Son, as Hermes calls him, born a king who, taking his tincture from the fire, passes through darkness, and death and Stygian waters” `III.1 ¶36`
+- **agent** — “This is that prolific Mustard-seed, and Light of divine Faith” `III.1 ¶36` (ATWOOD)
+  - **Plain (stated):** The intellectual purpose is the same as the mustard-seed of faith. Searching the interior, it finds the hidden Stone or Medicine.
+  - Basis: III.1 ¶36: 'This is ...'; 'it is this, which, visiting the interior rectifying, discovers the occult Stone --- the hidden Medicine'.
+  - Also: “visiting the interior rectifying, discovers the occult Stone --- the hidden Medicine” `III.1 ¶36`
+- **agent** — “Such was the Caduceus of Hermes --- the Golden Bough, the ferrying Cup of Hercules” `III.1 ¶36` (ATWOOD)
+  - **Plain (stated):** The Caduceus, the Golden Bough and Hercules' Cup are all symbols of this same agent: the passport into the hidden realms.
+  - Basis: III.1 ¶36: 'Such was' refers back to the intellectual purpose / Light of Faith; 'all the golden passports admitting to those realms'.
+- **principle** — “This vertical separated Light then we take henceforth to be the true alternative principle in the Divine Art” `III.1 ¶37` (ATWOOD)
+  - **Plain (stated):** The decisive principle is a separated light. It is no common light but a divine ray that comes only from the will of someone already made divine. The alchemists say almost nothing about it.
+  - Basis: III.1 ¶37: 'it is no common light that enters into Divinity, but a congenial ray; a Power which glancing forth from the capable will of such only as are divinized, is essentially Divine'.
+  - Also: “a Power which glancing forth from the capable will of such only as are divinized, is essentially Divine” `III.1 ¶37`
+- **operator** — “seek to know this Fire with all thy soul, that so thou mayest attain to thy desire; for it is the key of all the philosophers” `III.1 ¶37` (QUOTED: Pontanus (endorsed))
+  - **Plain (interpreted):** The secret Fire is the key, and the philosophers never openly revealed it. The operator can find it only through wholehearted, profound meditation. Atwood offers this as testimony about the separated Light.
+  - Basis: III.1 ¶37: Pontanus is introduced among adepts who sought 'this' (the separated Light). The identity of Fire and Light is implied by placement, not stated (see ambiguities).
+  - Also: “But profound meditation alone can give it to thee so thou mayest discern, and not otherwise” `III.1 ¶37`
+- **impediment** — “experimenting even after he had attained a general knowledge of the matter and method of its use” `III.1 ¶37` (ATWOOD)
+  - **Plain (stated):** Knowing the matter, the fire and the furnace is not enough. Adepts failed for years (Trevisan half a century, Flamel three years, Madathan five) until they found the singular key, which Madathan says came by secret revelation.
+  - Basis: III.1 ¶37
+  - Also: “I was entrusted with the Key of Power, by a secret revelation from Almighty God” `III.1 ¶37`
+  - Also: “had both fire and furnace indicated to him by Abraham the Jew, wandered in the wilderness of uncertainty for three several years” `III.1 ¶37`
+- **procedure** — “our stone of Fire (which is Antimony) ought to be boiled and maturated with the corporeal fire of the microcosm” `III.1 ¶37` (QUOTED: Basil Valentine (endorsed))
+  - **Plain (stated):** The 'Antimony' or stone of Fire must be cooked with the microcosm's (the human being's) own bodily fire. Where outer, cosmic fire stops working, the microcosm's fire starts a new kind of generation.
+  - Basis: III.1 ¶37: '(which is Antimony)'; 'at the farewell, or ne plus ultra, of the operative fire of the macrocosm, the fire of the microcosm doth begin the production of a new species of generation'. Whether 'Antimony' is literal or a name for the Key/Light is not settled here (see ambiguities).
+  - Also: “in the preparation of Antimony consists the Key of Alchemy” `III.1 ¶37`
+  - Also: “let no man wonder at this coction” `III.1 ¶37`
+- **procedure** — “He who obtains this key and knows the method, which is called Manual Operation, by which to use it, and hath strength to turn the same” `III.1 ¶37` (QUOTED: Kirchringius (endorsed))
+  - **Plain (stated):** Success takes three things: the key, the method of using it (called Manual Operation) and the strength to turn it. The key opens both the first and the last gate of the Art, and missing it makes everything else wasted.
+  - Basis: III.1 ¶37
+  - Also: “this opens the first gate, this will also unlock the last, which leads into the palace of the king” `III.1 ¶37`
+  - Also: “if you miss the door, all your course will be in error” `III.1 ¶37`
+
+## Terms
+
+- **Reason** (also: root of reason, rational faculty, human reason) — The only universal faculty that can be consciously distinguished by itself. In individual consciousness it is the foundation of all law, and its luminous revelation in a purified intelligence is the beginning of Wisdom. Cut off from its source it is weak and unaware of that source. (ATWOOD)
+  - “this root of reason which is truly catholic” `III.1 ¶23`
+  - “in our mere individual consciousness it is the foundation of all law” `III.1 ¶23`
+- **Intellect** (also: Intellectual Essence) — The purified divine intelligence. It is to be sought in spirit, is supremely beautiful, and gives the soul a sudden Light that is Intellect itself. It is isolated and in anguish when its light is taken away. (ATWOOD; QUOTED: Aristotle; Plotinus)
+  - = Light (sudden Light received from it): “this Light is from Intellect, and is also It” `III.1 ¶23`
+  - “That Intellect must be assumed which is most perfectly purified” `III.1 ¶23`
+  - “the wanderings and anguish of Intellect so artificially isolated on the plain of Truth” `III.1 ¶28`
+- **microcosm / macrocosm** (also: microcosmic, macrocosmic) — The individual and the universal. The microcosmic experiment yields knowledge of the macrocosmic Cause, and the microcosm's fire takes over where the macrocosm's operative fire ends. (ATWOOD)
+  - “by the microcosmic experiment into It, the knowledge if the macrocosmic Cause also was derived” `III.1 ¶23`
+  - “the corporeal fire of the microcosm” `III.1 ¶37`
+- **purified spirit or intelligence** — The agent that dissolves the vital medium and draws the Voluntary Efficient upward. (ATWOOD)
+  - = Isis: “the purified spirit or intelligence, that is Isis” `III.1 ¶23`
+- **vital medium** — What the purified intelligence dissolves to open the occult source. Not further defined here. (ATWOOD)
+  - “by dissolving the vital medium, opens the occult source” `III.1 ¶23`
+- **Voluntary Efficient** (also: Efficient) — Something drawn upward into intellectual reminiscence once the vital medium is dissolved; Wisdom 'recovering her lost Efficient'. Not further defined here. (ATWOOD)
+  - “draws the Voluntary Efficient upward into intellectual reminescence” `III.1 ¶23`
+  - “to Wisdom recovering her lost Efficient in the Light of life” `III.1 ¶36`
+- **metaphysical ferment** (also: leaven, metaphysical graft) — A small, purified, fire-tested portion that re-enters its native life and transmutes it all into its own Aurific Light. (ATWOOD)
+  - “a small grain of the metaphysical ferment leavens the whole lump” `III.1 ¶24`
+  - “the metaphysical graft, already purified and passed the fire, re-enters to redeem its congenital life” `III.1 ¶24`
+- **Aurific Light** — The gold-making light of the ferment, into whose substance everything is transmuted. (ATWOOD)
+  - “transmutes all into the substance of its own Aurific Light” `III.1 ¶24`
+- **sulfuric Spirit** — The sharp, discriminating spirit of the working leaven, which enters the philosopher's Mercury and makes it putrefy. (ATWOOD)
+  - “this acute discriminative sulfuric Spirit occasions a putrefaction of the philosopher’s Mercury” `III.1 ¶24`
+- **philosopher's Mercury** (also: philosopher’s Mercury) — The impure vapour of life, which the sulfuric Spirit causes to putrefy. (ATWOOD)
+  - = impure vapor of life: “the philosopher’s Mercury, i.e., of the impure vapor of life” `III.1 ¶24`
+- **putrefaction** (also: putrefied, putrefy) — The decay of the vital vapour under the ferment, and more generally the death and corruption each life goes through before it rises better, like a grain in the earth. (ATWOOD)
+  - “Does not the grain putrefy in the moist earth before it springs?” `III.1 ¶30`
+- **celestial medial life** (also: first medial life) — The intermediate life that comes before the heroic work. It must be cut off in its prime, shut up and buried. Until it dissolves, the Vital Spirit cannot be radically improved. (ATWOOD)
+  - “the celestial medial life which, in the order of divine rites, precedes the heroic work” `III.1 ¶26`
+  - “this dissolution of the first medial life” `III.1 ¶28`
+- **Vital Spirit** — What the work aims to improve. It needs a motive, which comes from being deprived of its Understanding Light. (ATWOOD)
+  - “Nothing is done radically to meliorate the Vital Spirit” `III.1 ¶28`
+- **Understanding Light** — The light the Divine Law takes from the spirit while it is in full vigour, so as to give it a motive. (ATWOOD)
+  - “depriving it when in full vigor of its Understanding Light” `III.1 ¶28`
+- **Heroic Will** — The self-sacrificing will (Achilles' 'vindicative will') that enters after the loss and stirs the bitter waters to recover the lost kingdom. (ATWOOD)
+  - “the Heroic Will enters in, self-sacrificing, and stirs the bitter waters” `III.1 ¶30`
+- **spiritual generation** — Generation in which the parent is bettered in the offspring, up to a fourth or fifth generation. (ATWOOD)
+  - “the Law especial of spiritual generation that the parent is bettered in the offspring” `III.1 ¶30`
+- **Separator** — The true separating agent. Finding it is the greatest difficulty, which Atwood likens to Virgil's hidden tree. (ATWOOD)
+  - “To find the true Separator is described, in fact, as the greatest difficulty” `III.1 ¶32`
+- **tree of life** (also: tree) — Something hidden under the oblivion of natural birth and revealed only by celestial instinct. Its bough, not the whole tree, is to be taken. (ATWOOD)
+  - “The tree of life covered over, indeed, with the dark oblivion of this natural outbirth, is latent and difficult to find” `III.1 ¶34`
+- **Maternal intelligence** — The celestial instinct that conceived the tree of life. It alone reveals the tree and leads into the Paternal light of life. (ATWOOD)
+  - = celestial instinct: “the celestial instinct only to reveal; that subtle Maternal; intelligence which originally conceived it” `III.1 ¶34`
+- **Paternal light of life** (also: light of life, Light of life) — The light that is more central and comes before the Maternal intelligence, which leads into it. (ATWOOD)
+  - “the yet more central, antecedent Paternal, light of life” `III.1 ¶34`
+- **intellectual purpose** — The heroic, separable, thrice-refined purpose personified by many heroes and by Hermes' 'our Son'. It passes through darkness, death and the Stygian waters. (ATWOOD)
+  - = Mustard-seed / Light of divine Faith: “This is that prolific Mustard-seed, and Light of divine Faith” `III.1 ¶36`
+  - = our Son (Hermes): “our Son, as Hermes calls him, born a king” `III.1 ¶36`
+  - = Caduceus of Hermes; Golden Bough; ferrying Cup of Hercules: “Such was the Caduceus of Hermes --- the Golden Bough, the ferrying Cup of Hercules” `III.1 ¶36`
+  - “that heroic, separable, triply refined intellectual purpose” `III.1 ¶36`
+- **occult Stone** (also: Stone) — What the Light of Faith discovers when it searches the interior. (ATWOOD)
+  - = hidden Medicine: “the occult Stone --- the hidden Medicine” `III.1 ¶36`
+- **Golden Bough** (also: bough, dedicated bough, Ramus) — One of the 'golden passports' into the hidden realms. It is the bough rather than the tree, the small portion to start from. (ATWOOD)
+  - = Caduceus of Hermes; ferrying Cup of Hercules: “Such was the Caduceus of Hermes --- the Golden Bough, the ferrying Cup of Hercules” `III.1 ¶36`
+  - “Ramus, non arbor --- The bough, not the whole tree, is to be taken” `III.1 ¶32`
+- **vertical separated Light** — The true principle of the Art, about which the alchemists are very wary. It is a divine ray issuing from the will of the divinized. (ATWOOD)
+  - = congenial ray / Power: “it is no common light that enters into Divinity, but a congenial ray; a Power” `III.1 ¶37`
+  - “This vertical separated Light then we take henceforth to be the true alternative principle in the Divine Art” `III.1 ¶37`
+- **Fire** — The secret Fire that Pontanus calls the unrevealed key of all the philosophers, to be found by profound meditation. (QUOTED: Pontanus)
+  - = key of all the philosophers: “seek to know this Fire with all thy soul, that so thou mayest attain to thy desire; for it is the key of all the philosophers” `III.1 ¶37`
+- **Key** (also: Key of Power, Key of Alchemy, principal key, key) — The decisive secret of the Art. It opens the first and the last gate, and missing it ruins the whole course. (QUOTED: Basil Valentine; Kirchringius; Madathan)
+  - “this key is the principal part of the whole Art; this opens the first gate, this will also unlock the last” `III.1 ¶37`
+- **Antimony** — In Basil Valentine's words, the stone of Fire. Preparing it is the key of Alchemy, and it is matured with the microcosm's corporeal fire. (QUOTED: Basil Valentine)
+  - = stone of Fire: “our stone of Fire (which is Antimony)” `III.1 ¶37`
+  - “in the preparation of Antimony consists the Key of Alchemy” `III.1 ¶37`
+- **Manual Operation** — The name given to the method of using the key. (QUOTED: Kirchringius)
+  - “the method, which is called Manual Operation, by which to use it” `III.1 ¶37`
+- **coction** — The boiling and maturing of the stone of Fire with the microcosm's corporeal fire. (QUOTED: Basil Valentine)
+  - “let no man wonder at this coction” `III.1 ¶37`
+- **artificial method** — The method of the Art, which Atwood says Palingenius 'divulges' in verse. (ATWOOD)
+  - “divulges the artificial method in the few following lines” `III.1 ¶26`
+
+## Sources cited
+
+- **Anaxagoras** — “it begins from that which is small to exercise its comprehending power” `III.1 ¶23, III.1 ¶32` — Supports. Atwood says what he describes as past, internal philosophers describe as present (¶23), and she cites his 'begins from that which is small' for starting with a small portion (¶32).
+- **Eudoxus in Plutarch**, *De Iside et Osiride* — “the mind and reason of the Supreme God, which in nature is invisible and dwelling in obscurity, by being put in motion becomes known” `III.1 ¶23, III.1 n28` — Illustrates. The myth of Jupiter's grown-together feet freed by Isis, which Atwood reads as an allegory of the Art.
+- **the Magian**, *Agrippa’s Third Book of Occult Phil., chap. 43* — “All is one soul, says the Magian, but reason, unless it be illuminated, is not free from error” `III.1 ¶23, III.1 n29` — Supports: reason needs divine illumination.
+- **Agrippa**, *Third Book of Occult Phil., chap. 43* `III.1 n29` — Reference only (source of the Magian's words).
+- **Aristotle**, *treatises attributed to Aristole by his Arabian compilers, as rendered by Taylor, from the Latin of A. Magnus in his Dissertation, book 3* — “That Intellect must be assumed which is most perfectly purified” `III.1 ¶23, III.1 n30` — Supports: the purified Intellect is to be sought in spirit.
+- **Taylor** `III.1 n30` — Reference only (translator of the Aristotle passage).
+- **A. Magnus**, *Dissertation, book 3* `III.1 n30` — Reference only (Latin source of the Aristotle passage).
+- **Plotinus**, *Select Works, On the Gnostic Hypostasis; Ennead 5, Lib. 8* — “a sudden Light, and this Light is from Intellect, and is also It” `III.1 ¶23, III.1 ¶32, III.1 n31, III.1 n37` — Supports. Intellect's beauty and sudden Light (¶23), and approaching the universal subject through an image, a portion of gold (¶32).
+- **the philosopher** — “Dimidium facti qui bene coepit habet” `III.1 ¶24` — Supports: a good beginning is half the work.
+- **Homer**, *Iliad* `III.1 ¶25, III.1 ¶29, III.1 ¶30, III.1 n32, III.1 n35` — Illustrates. Achilles' armour, Patroclus' death and Achilles' vow and death, read as allegory of the Art.
+- **Pope**, *Pope’s Homer’s Iliad, book 18* — “Patroclus dead, Achilles hates to live.” `III.1 ¶29, III.1 ¶30, III.1 n35` — Gives the verse quoted; Atwood criticizes him for rendering the heroic tears 'unavailing'.
+- **Virgil**, *Aeneid, Lib. 6* — “Hunc tegit omnis Lucus et obscures claudunt convallibus umbrae” `III.1 ¶25, III.1 ¶30, III.1 ¶32, III.1 ¶33, III.1 ¶35, III.1 n33, III.1 n39` — Illustrates. Misenus' rites before the descent, Aeneas leaving the bough, the hidden tree and the Golden Bough, and the mother's birds as guides. Atwood denies Virgil was a servile imitator of Homer.
+- **the Sybil** `III.1 ¶25` — Illustrates: enjoins peculiar rites and sacrifices to Misenus' remains, compared with those at Patroclus' pile.
+- **Apollonius Rhodius**, *Argonaut., Lib. 2; Fawkes’ Apollonius Rhodius Argonautics, Book. 1* — “So the gloomy god/Stood mute with fearto see the golden rode” `III.1 n32, III.1 n35` — Reference / parallel to the terror caused by Achilles' armour.
+- **Fawkes**, *Apollonius Rhodius Argonautics* `III.1 n35` — Reference only.
+- **Plato, Proclus, Porphyry, Faber, Tollius, Michael Maier** `III.1 ¶25` — Supports. The 'golden chain of Hermetic philosophers' who traced the poets' allusions and claimed Homer and Virgil as their own.
+- **Manzoli (Palingenius)** — “Take this Arcadian slippery lad that’s apt to fly.” `III.1 ¶26, III.1 ¶27` — Supports. His verse 'divulges the artificial method'; Atwood says the name Palingenius means 'one regenerated'.
+- **Capricornus 214** `III.1 n34` — Reference only. Footnote 34 has no marker in the main text.
+- **the great Apostle (St Paul)**, *Epist. 1 to the Corinthians, 15:37* — “thou sowest not that body that shall be” `III.1 ¶30, III.1 n36` — Supports: what is sown must die to be quickened and rises in a better form.
+- **Hermes** — “our Son, as Hermes calls him” `III.1 ¶36` — Supports: Hermes' 'our Son' is one more personification of the intellectual purpose.
+- **L. Comitibus**, *Metallar. Nat. Oper., lib. 4, cap. 7* `III.1 ¶32, III.1 n38` — Reference for 'To find the true Separator is ... the greatest difficulty'.
+- **Chrysopaea**, *Chrysopaea, lib. 2* `III.1 n38` — Reference for the difficulty of finding the true Separator.
+- **Trevisan** `III.1 ¶37` — Example: he worked over half a century in vain until he found the separated Light.
+- **Pontanus**, *Epistle, in Theat. Chem.* — “seek to know this Fire with all thy soul” `III.1 ¶37, III.1 n40` — Supports. He erred two hundred times; the Fire is the unrevealed key and is found only by profound meditation.
+- **Zachary**, *Opusculum, part 2* `III.1 ¶37, III.1 n42` — Cited as another example of long searching for the key.
+- **Flamel** `III.1 ¶37` — Example: having the matter, fire and furnace from Abraham the Jew, he still wandered three years.
+- **Abraham the Jew** `III.1 ¶37` — Mentioned as the one who indicated fire and furnace to Flamel.
+- **Madathan**, *Mus. Hermeticum, Lumen de Lumine, p. 67* — “I was entrusted with the Key of Power, by a secret revelation from Almighty God” `III.1 ¶37, III.1 n41` — Example: he failed for five years and received the key by revelation after the sixth.
+- **Basil Valentine**, *Chariot of Antimony; Stone of Fire* — “in the preparation of Antimony consists the Key of Alchemy” `III.1 ¶37, III.1 n42` — Supports. The key lies in preparing Antimony (the stone of Fire) with the microcosm's corporeal fire.
+- **Kirchringius** — “this opens the first gate, this will also unlock the last” `III.1 ¶37` — Supports. The key is the principal part of the Art, and its method is called Manual Operation.
+- **Lucerna Salis**, *Lucerna Salis* `III.1 n42` — Reference only.
+
+## Ambiguities
+
+- “the sol receives with it, he says, a sudden Light” `III.1 ¶23`
+  - Reading: 'sol' is a misspelling of 'soul': the soul receives the Light from Intellect.
+  - Reading: 'sol' taken as printed, as a symbolic subject receiving Light.
+  - Basis: Context is Plotinus on Intellect and its effect on a recipient, favoring 'soul'; the spelling as printed is 'sol'.
+- “And this, continues the scholar, is designed to represent to us” `III.1 ¶23`
+  - Reading: 'the scholar' is Plutarch.
+  - Reading: 'the scholar' is Eudoxus.
+  - Basis: ¶23 says the myth is 'related by Eudoxus in Plutarch'; n28 cites Plutarch's treatise.
+- “To find the true Separator is described, in fact, as the greatest difficulty” `III.1 ¶32`
+  - Reading: The Separator is the 'vertical separated Light' or Fire of ¶37, the hidden key.
+  - Reading: The Separator is the pure reason or universal motive just discussed in ¶32, which divides pure from impure.
+  - Reading: The Separator is figured by the hidden tree / tree of life of ¶32-¶34.
+  - Basis: Reading 1: ¶36 calls the purpose 'separable' and ¶37 calls the Light 'separated' and the key adepts failed to find. Reading 2: the sentence directly follows the pure/impure reason passage in ¶32. Reading 3: the next clause 'as we may remember also in Virgil, the tree is hid' and ¶34 'The tree of life ... is latent and difficult to find'.
+- “Take this Arcadian slippery lad that’s apt to fly.” `III.1 ¶27`
+  - Reading: The volatile vital spirit or philosopher's Mercury (the 'impure vapor of life') that must be dissolved and revived.
+  - Reading: The 'celestial medial life' that must die and be buried, which is the topic introducing the verse.
+  - Basis: Reading 1: ¶24 on putrefying the impure vapour of life, and ¶28 on the Vital Spirit. Reading 2: ¶26 introduces the verse right after the cut-off of the medial life. The chunk does not decode the figures (Hyales's lap, Lemnos' God, warm womb).
+- “the true alternative principle in the Divine Art” `III.1 ¶37`
+  - Reading: 'Alternative' means the principle that alters or transmutes.
+  - Reading: 'Alternative' means a second principle alongside another, such as the separated Light beside the matter.
+  - Basis: The text does not explain 'alternative'. ¶37 calls this Light a 'Power' that is 'essentially Divine'.
+- “as Aeneas leaves the dedicated bough in Tartarus” `III.1 ¶30`
+  - Reading: The agent, or its vehicle, must itself be given up or 'die' at the threshold, just as Achilles must die.
+  - Reading: A simple parallel of completion: something is left behind before the next stage.
+  - Basis: It sits alongside 'Achilles, too, must die and suffer' and 'each succeeding life must die'. The bough is elsewhere a 'golden passport' (¶36).
+- “never correctly diving the Identity of the singular Identity of the singular thing itself” `III.1 ¶37`
+  - Reading: Garbled text, probably meaning 'divining the identity of the singular thing itself'.
+  - Reading: Taken as printed.
+  - Basis: The repeated phrase looks like a transcription error; the sense from context is that Pontanus failed to identify the one thing.
+- “our stone of Fire (which is Antimony) ought to be boiled and maturated with the corporeal fire of the microcosm” `III.1 ¶37`
+  - Reading: 'Antimony' is a veiled name for the vertical separated Light/Key Atwood has been discussing.
+  - Reading: 'Antimony' is meant in Basil's own terms as a substance to be prepared.
+  - Basis: Atwood cites Basil after declaring the 'vertical separated Light' the principle and listing adepts who sought 'this'; Basil's text itself speaks of the 'preparation of Antimony' and 'coction'.
+- “seek to know this Fire with all thy soul” `III.1 ¶37`
+  - Reading: Pontanus' Fire is the same as Atwood's 'vertical separated Light'.
+  - Reading: The Fire is a distinct secret agent that Atwood cites only as a parallel case of a hidden key.
+  - Basis: Atwood introduces Pontanus as one who erred before finding 'this' (the Light), but does not explicitly equate Fire and Light.
+
+## Translations
+
+- `III.1 ¶24` “Dimidium facti qui bene coepit habet” → He who has begun well has half the deed done. *(ours)*
+- `III.1 ¶31` “Cujus de lumine lumen Omne micat; sine quo tenebrescunt lucida, de quo Lucescunt tenebrae atque inamoenae noctis imago.” → From whose light all light shines; without which bright things grow dark, and by which darkness and the image of unlovely night grow light. *(ours)*
+- `III.1 ¶32` “Ramus, non arbor” → The bough, not the whole tree, is to be taken. *(book)*
+- `III.1 ¶33` “Hunc tegit omnis Lucus et obscures claudunt convallibus umbrae” → The whole grove covers it, and shadows enclose it in dark valleys. *(ours)*
+- `III.1 ¶35` “Materna agnoscit aves laetusque precatur Este duces, O si qua via est, cursumque per auras Dirigite in lucos, ubi pinquem dives opacat Ramus humum” → He recognizes his mother's birds and joyfully prays: Be my guides, if there is any way, and steer your course through the air into the groves where the rich bough shades the fertile ground. *(ours)*
+- `III.1 ¶37` “ne plus ultra” → the farewell *(book)*
+- `III.1 n41` “Post sextum annum clavis” → after the sixth year, I was entrusted with the Key *(book)*
+
+## Threads
+
+- `III.1 ¶23` 'all that Anaxagoras here speaks of as relatively past' refers to an Anaxagoras passage on Intellect outside this chunk.
+- `III.1 ¶32` 'therefore Anaxagoras says, it begins from that which is small' recalls the same earlier Anaxagoras quotation.
+- `III.1 ¶25` 'Yet we will proceed' marks Atwood's continuing allegorical reading of Homer and Virgil.
+- `III.1 ¶37` 'as we may be by this time perceive' appeals to the argument built so far. 'This vertical separated Light then we take henceforth to be the true alternative principle' sets up a term for later use. The Alchemists are said to be wary 'concerning the human circumstances of the mystery throughout'.

@@ -1,0 +1,250 @@
+# II.4_01
+
+*Opening the concluding chapter on the Mysteries, Atwood describes the goal of initiation as Elysium: a state above corporeal life and generation, reached by few through a narrow ascent and regeneration. She identifies it with the alchemists' garden and the Terrestrial Paradise, describes it as a self-reflexive intellectual vision before the Archetypal Light, and closes by quoting Isis's appearance to Lucius in Apuleius.*
+
+## Argument
+
+- Epigraph: hasten to the Light and the Father's beams. `II.4 ¶2` — QUOTED: Zoroastri Oracula
+- Hercules' last labour in the Hesperidian region: a state transcending corporeal life and generation is the Islands of the Blessed, same as the Elysian Fields; he vanquished terrestrial life and lived in open day. `II.4 ¶3, II.4 n1` — QUOTED: Olympiodorus
+- Dragging up Cerberus = liberating the whole entity through a threefold evolution from earthly geniture. Theseus failed these telestic labours, detained by passions in the sea of sense. `II.4 ¶3` — UNCLEAR
+- Hercules, purified by sacred institutions, enjoying undefiled fruits, was established among the gods. `II.4 ¶3` — QUOTED: Proclus
+- Descent into life is easy; the ascent gate is narrow and hard to discern, passable by few, immortals only. `II.4 ¶5` — ATWOOD
+- Homer's Ithacan cave is allegory, not geography. Porphyry: north gate for souls descending into generation, south for souls ascending; 'immortals' means essentially immortal souls. Only an immortal essence, by regeneration, passes into immortality. `II.4 ¶5, II.4 ¶6, II.4 ¶7, II.4 n2` — ATWOOD
+- Hence the Golden Branch: drawn to its native soil, it enters through death and darkness, roots, and blossoms as a radiant flower illuminating life's wilderness. Aeneid: from Tartarus to the Elysian Fields. `II.4 ¶7, II.4 ¶8, II.4 n3` — ATWOOD
+- This meadow of Divine Ideas (the Oracle's Pratum) the alchemists call their garden. Flammel: climb the mountain of the Seven; at the summit a royal herb called mineral, vegetable, saturnine — 'either and all'. Vaughan: where descending Ideas are conceived and incorporated. `II.4 ¶9, II.4 n4` — ATWOOD
+- The seven mystic mountains = Esdras' outgoings of paradise = Sendivogius' Planetary Sphere = Sapphiric tincture = cleansed Augean, receptacle of the newborn light. When it arises, darkened colours return, neutralize their poison and restore suspended circulation to conscious accord. `II.4 ¶9` — ATWOOD
+- This is Elysium, Solomon's enclosed garden, the Terrestrial Paradise, called nox corporis. Heraclitus: we live their death and die their life. Turned to externals we desert our best life (Empedocles). `II.4 ¶9, II.4 ¶10` — ATWOOD
+- Philosophers visit this place: R.C.'s Olympic houses and fountain; Apollonius' Brahmans, on the earth and not on it; Plotinus' soul there, per the oracle to Amelius. `II.4 ¶11, II.4 ¶12, II.4 n5` — ATWOOD
+- The Sybil and Apollo drew on such supernal rivers. `II.4 ¶13, II.4 ¶14` — ATWOOD
+- Augustine's three visions: external, imaginative, anagogic. The third is in Elysium: the mind's eye, passing through natural life and purified to the center, is converted and raised, and as a Unit takes the circumference as reflector of its light, like Porphyry's self-returning fountain. Time attends the soul's changing conceptions; eternity only permanent intellection. `II.4 ¶15, II.4 n6` — ATWOOD
+- A grade lies above; this Elysian Intellection reveals the Image of Universal Nature, as in Hermes' Athanor. `II.4 ¶15` — ATWOOD
+- Intellectual energy generates Light by tranquil contact with the Principle. The poet's scenes picture the embryo life unfolding: the understanding vehicle, before its Archetypal Light, perfects its attributes under reason. Aristophanes: the sun shines only for the initiated. Eridanus = flow of spirit from that life's occult energy. `II.4 ¶16, II.4 n7` — ATWOOD
+- Theurgists hoped for salvation from the Elysian fountains; the Meadow is life's prolific power and the first causes of life and Forms; its water symbolizes vivification. `II.4 ¶16, II.4 n8` — QUOTED: Proclus
+- Physiologists and alchemists experimentally proved the Universal Identity of Nature, making the material principle visible from the dissolution of the spirit in its kind. The material rewards, and this Water, are deferred. `II.4 ¶16` — ATWOOD
+- Isis appears to Lucius as nature, parent of all, under many names. He must pluck the priest's roses, shed the beast's hide, dedicate his life to her, and return to the Human Form; obedience and chastity may extend life beyond fate. n9: Lucius was an ass until he ate roses. `II.4 ¶16, II.4 ¶17, II.4 n9` — QUOTED: Apuleius
+
+## Method
+
+- **result** — “a condition of being, therefore, which transcends this corporeal life and generation is denominated the Islands of the Blessed; and these are the same with the Elysian Fields” `II.4 ¶3` (QUOTED: Olympiodorus)
+  - **Plain (stated):** The Islands of the Blessed and the Elysian Fields name a state of being above bodily life and generation.
+- **result** — “signifying by this, that having vanquished an obscure and terrestrial life, he afterwards lived in open day” `II.4 ¶3` (QUOTED: Olympiodorus)
+  - **Plain (stated):** Hercules' last labour in the Hesperidian region means overcoming a dark, earthbound life and afterwards living in full light.
+  - Also: “Hercules at length obtained an establishment among the god” `II.4 ¶3`
+- **procedure** — “he dragged up Cerberus from hell, that is to say, he liberated the whole individual entity through a threefold evolution from the bond of its earthly geniture” `II.4 ¶3` (UNCLEAR)
+  - **Plain (stated):** Dragging Cerberus from hell means freeing the whole individual, in three stages of development, from its tie to earthly birth, and fixing it in the highest life.
+  - Also: “established it finally in the most exalted life” `II.4 ¶3`
+- **impediment** — “being detained by his passions in the sea of sense” `II.4 ¶3` (UNCLEAR)
+  - **Plain (interpreted):** The passions keep a person bound to the life of the senses. This stops the hidden labours from being completed.
+  - Basis: II.4 ¶3: Theseus 'was unable to finish' the 'arcane and telestic labours' for this reason. II.4 ¶3 also defines the islands as standing above 'the sea', i.e. above corporeal life.
+- **operator** — “being purified by sacred institutions and enjoying undefiled fruits” `II.4 ¶3` (QUOTED: Proclus)
+  - **Plain (interpreted):** Purification through sacred rites, and partaking only of pure things, come before the soul is established among the gods.
+  - Basis: II.4 ¶3: Proclus makes these the conditions under which Hercules 'at length obtained an establishment among the god'.
+  - Also: “even for us, who are initiated and who have learned to perform all acts of piety and justice” `II.4 ¶16`
+- **principle** — “The descent, therefore, is allowed on all hands to be easy; but the ascent otherwise; the gate indeed being so narrow, close, and difficult to discern, that there be few, and they immortals only, that are able to pass through” `II.4 ¶5` (ATWOOD)
+  - **Plain (interpreted):** Entering generated, embodied life is easy and open to all. The return upward is hard to find and hard to pass, and few achieve it.
+  - Basis: II.4 ¶7: Porphyry glosses the two gates as descent 'into the realms of generation' and ascent 'to divinity'.
+- **stage** — “the northern gate pertains to souls descending into the realms of generation, and the southern to souls ascending to divinity” `II.4 ¶7` (QUOTED: Porphyry)
+  - **Plain (stated):** Homer's two gates of the cave are the soul's way down into generation (north) and its way back up to the divine (south).
+  - Also: “That to the North is pervious to mankind, The sacred South t’ immortals is consigned.” `II.4 ¶6`
+- **principle** — “nothing but the subtlety of an immortal essence, and that by regeneration, can pass into immortality” `II.4 ¶7` (ATWOOD)
+  - **Plain (stated):** Only what is essentially immortal in a person passes the upper gate, and only after it has been regenerated. Homer's 'immortals' means such souls, not gods.
+  - Also: “souls which are per se, that is to say, essentially immortal” `II.4 ¶7`
+- **agent** — “that Golden Branch, which, attracted from the first to its native soil, indifferent to every other lure, through death and darkness enters; and taking root at last, gathers strength to germinate and blossom, as a radiant flower” `II.4 ¶7` (ATWOOD)
+  - **Plain (interpreted):** The chunk does not name what the Golden Branch is. It is something drawn only toward its origin, which passes through death and darkness and then grows into a light that spreads through the rest of life.
+  - Basis: II.4 ¶7: introduced ('And here we may better conceive... the value of that Golden Branch') right after the statement that only an immortal essence, by regeneration, passes into immortality. So it plausibly figures that essence or its regeneration. The text does not say so.
+- **result** — “this meadow of Divine Ideas, or Pratum, as the Oracle denotes it, is a place well known to philosophers; the Alchemists in general call it their garden” `II.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Virgil's Elysian meadow, the Oracle's Pratum and the alchemists' 'garden' are one and the same: the region of Divine Ideas.
+  - Also: “the philosophers have indeed a garden where the sun as well morning as evening remains with a most sweet dew” `II.4 ¶9`
+- **result** — “the rendezvous of all spirits, where Ideas as they descend from above, are conceived and incorporated” `II.4 ¶9` (QUOTED: Vaughan)
+  - **Plain (stated):** The garden is where ideas coming down from above take form and become embodied.
+  - Also: “a delicate and pleasant region, he says, as it were in the suburbs of heaven” `II.4 ¶9`
+- **procedure** — “betake thyself to the mountain of the Seven, where there is no plain, and look down from the highest downward to the Sixth” `II.4 ¶9` (QUOTED: Flammel)
+  - **Plain (interpreted):** Flammel's direction to climb the seven-fold mountain and look down from the top. This chunk does not explain the seven or the sixth, except that the seven mountains are identified with Sendivogius' 'Planetary Sphere'.
+  - Basis: II.4 ¶9: 'Mountain of the Seven metals'; 'Those seven mystic mountains... the Planetary Sphere of Sendivogius'. No further gloss.
+- **result** — “in the topmost height, you will find a royal herb triumphing, which some call mineral, some vegetable, some saturnine” `II.4 ¶9` (QUOTED: Flammel)
+  - **Plain (stated):** What is found at the summit is called by the names of all three kingdoms. Atwood says it is 'either and all'. The chunk does not otherwise explain it.
+  - Also: “For it is either and all” `II.4 ¶9`
+- **subject** — “that most famous tincture of the Sapphiric Mine: which is in truth the cleansed Augean, the already prepared medial receptacle of the newborn light” `II.4 ¶9` (ATWOOD)
+  - **Plain (stated):** The seven mountains are equated with the paradise of Esdras, the Planetary Sphere and the Sapphiric tincture. All of these are the cleansed (Augean) vessel, already prepared, in which the new light arises.
+  - Also: “Those seven mystic mountains, whereupon grow the roses and lilies, are the outgoings of paradise mentioned in Esdras” `II.4 ¶9`
+- **sign** — “no sooner does this arise than all the vegetable colours, before obliterated in darkness, return to neutralize their poison and restore the suspended circulation to a conscious equilibriate accord” `II.4 ¶9` (ATWOOD)
+  - **Plain (interpreted):** When the new light arises, the colours that had been lost in darkness reappear. What was poisonous is neutralized, and a suspended circulation starts again in a conscious, balanced harmony.
+  - Basis: II.4 ¶9: 'this' refers to 'the newborn light' in the preceding clause. The return of colours is stated as its immediate consequence. What the 'colours' and 'circulation' are is not further explained here.
+- **stage** — “the true Terrestrial Paradise, which some have called nox corporis, the night of body or corporeal sleep” `II.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Elysium, the true Terrestrial Paradise, is also called the night of the body or corporeal sleep; souls in that condition are dead to this life yet more alive in that.
+  - Also: “This is Elysium, the enclosed garden of Solomon, where God condescends to walk and drink of the sealed fountain” `II.4 ¶9`
+  - Also: “we live their death and die their life” `II.4 ¶9`
+  - Also: “souls dead indeed to this life, yet more alive in that” `II.4 ¶9`
+- **impediment** — “converted to externals, we desert our best life unconsciously” `II.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Turning attention outward to external things is what cuts us off from the higher life, and we do not notice it happening.
+  - Also: “Heaven’s exiles straying from the orb of light.” `II.4 ¶10`
+- **result** — “the Brahmans of India dwelling on the earth and not on the earth; they were guarded without walls invisibly, and possessing nothing, they enjoyed all things” `II.4 ¶11` (QUOTED: Apollonius)
+  - **Plain (interpreted):** Philosophers who visit this place live in the body yet are not bound to earthly life.
+  - Basis: II.4 ¶11: Vaughan offers this 'To clear the prospect' of R.C.'s account, after 'philosophers are said continually to have visited this place'.
+- **subject** — “fontem aperuit perennis aquae adhuc stillantem, in quo Diana se lavat, cui Venus ut Pedissaqua et Saturnus ut anteambulo, conjunguntur” `II.4 ¶11` (QUOTED: R.C.)
+  - **Plain (interpreted):** R.C.'s image: a perennial, still-dripping fountain in which Diana bathes, with Venus as her handmaid and Saturn going before. The chunk does not decode it. The text warns it will say too much to the understanding and too little to the inexperienced.
+  - Basis: II.4 ¶11: presented as a description of the habitation of philosophers. 'Intelligenti nimium inexperto minimum hoc erit dictum'. Translation ours.
+- **stage** — “the third is anagogic, and an intellectual sight, drawn above, by which intelligible species are beheld, as a pure infusion of light to the understanding” `II.4 ¶15` (ATWOOD)
+  - **Plain (stated):** Of Augustine's three kinds of seeing (bodily eye, imagination, intellect), the third and highest takes place in Elysium. There the understanding is directly filled with light.
+  - Also: “this third vision of the light is in Elysium” `II.4 ¶15`
+- **procedure** — “having passed through this, purifying to the center, is converted and raised; and, as a Unit, now regards the circumference transitively, including it as an understanding or reflector, as it were, to the focus of her light” `II.4 ¶15` (ATWOOD)
+  - **Plain (stated):** The mind's eye stops looking inward from outside through natural life. It passes through that life, is purified down to its center and is turned around and lifted up. Then, from its center as a unity, it takes in the whole periphery as a reflector of its own light.
+  - Also: “a fountain, not flowing outwardly, but circularly scattering its streams into itself” `II.4 ¶15`
+- **result** — “there is an assimilation established, as near as may be in consciousness, of the self-knowing and the self known” `II.4 ¶15` (ATWOOD)
+  - **Plain (stated):** In this state, the knower and what is known (the self) become, as far as consciousness allows, one. Time still accompanies the soul's passage from one conception to another; eternity belongs only to unchanging intellection.
+  - Also: “eternity is consubsistent only with the permanence of intellection itself” `II.4 ¶15`
+- **stage** — “though there is a grade above; yet this is the Intellection in Elysium where the exemplary Image of the Universal Nature also is revealed as in that Athanor of Hermes before mentioned, or furnace having a glass to it” `II.4 ¶15` (ATWOOD)
+  - **Plain (interpreted):** Elysian intellection is not the highest grade. In it, the pattern-image of universal nature is revealed. Atwood compares this to Hermes' Athanor, a furnace with a glass.
+  - Basis: II.4 ¶15: 'as in that Athanor of Hermes' links the revelation of the Image in this intellection to the Athanor. The text gives the comparison, not a full identity.
+  - Also: “that singular fundamental of his small new world” `II.4 ¶15`
+- **result** — “this energy, distinguishing, desiring, understanding within itself simultaneously, generates Light through a perpetual tranquil and quiet contact with the Principle of things” `II.4 ¶16` (ATWOOD)
+  - **Plain (stated):** The life of this state is intellectual activity that produces Light through calm, continuous contact with the first principle.
+- **result** — “an unfolding of the embryo life, the nourishment and education of the understanding vehicle now standing in open presence before its Archetypal Light” `II.4 ¶16` (ATWOOD)
+  - **Plain (stated):** The poet's Elysian scenes are to be read as the growth of a newly born inner life. The understanding is educated before its archetype and brings its virtues and faculties into order under reason.
+  - Also: “perfects all the new-born attributes, as of justice, beauty, charity, hope, every faculty, sentiment and desire in orderly relation under the dominion of reason” `II.4 ¶16`
+- **sign** — “the river Eridanus is said by Virgil to pass through those celestial abodes; for this indicates the prolific flow of spirit which accedes spontaneously from the occult energy of such a life” `II.4 ¶16` (ATWOOD)
+  - **Plain (stated):** The river Eridanus in Elysium stands for an abundant flow of spirit that comes of its own accord from the hidden activity of this life.
+- **agent** — “the Meadow is the prolific power of life, according to Plato, and of all various reasons, and is the comprehension of the First Efficient causes of life and the generation of Forms” `II.4 ¶16` (QUOTED: Proclus)
+  - **Plain (stated):** The Meadow is the generative power of life that contains the first causes of life and of forms. Its water is the symbol of vivification.
+  - Also: “bear water which is the symbol of vivification” `II.4 ¶16`
+- **procedure** — “reproducing the whole material principle to sense and visibility from the dissolution of the spirit in its proper kind without alloy” `II.4 ¶16` (ATWOOD)
+  - **Plain (interpreted):** Atwood says the alchemists, working experimentally, confirmed the metaphysicians' account. They dissolved 'the spirit' in its own kind, unmixed, and from it made the material principle visible. She defers the detail ('this Water especially') to later.
+  - Basis: II.4 ¶16: stated as what the alchemists 'were said to prove'. Called 'material rewards of initiation' to be treated 'hereafter'. Whether physical or psychic is not settled here (see ambiguities).
+- **agent** — “I, who am nature, the parent of all things, the Queen of all the nature, the parents of all things, the Queen of all the elements” `II.4 ¶17` (QUOTED: Apuleius)
+  - **Plain (stated):** The goddess who appears in the Mysteries says she is nature itself, mother of all and ruler of the elements, worshipped under many names. Her true name is Isis.
+  - Also: “whose one divinity the whole orb of the earth venerates under a manifold form, by different rites and a various of appellations” `II.4 ¶17`
+- **procedure** — “gently pluck the roses as if you intended to kiss his hand, and immediately divest yourself of the hide of that worst of beasts” `II.4 ¶17` (QUOTED: Apuleius)
+  - **Plain (stated):** Taking the roses releases Lucius from the ass-form and returns him to the Human Form. The chunk does not decode the roses further.
+  - Basis: II.4 n9: the ass guise 'should not depart from him until he eaten of some flowering roses'. II.4 ¶17: 'you will return to the Human Form'.
+  - Also: “by whose assistance you will return to the Human Form” `II.4 ¶17`
+- **operator** — “by sedulous obedience, religious services, and inviolable chastity, you shall know that it is possible for me to extend your life beyond the limits appointed to it by fate” `II.4 ¶17` (QUOTED: Apuleius)
+  - **Plain (stated):** The initiate must dedicate his whole life to the goddess and keep obedience, worship and chastity. In return his life may be extended beyond its fated limit.
+  - Also: “the remaining course of your life must be dedicated to me, even to the boundary of your latest breath” `II.4 ¶17`
+
+## Terms
+
+- **Elysian Fields** (also: Elysium) — A condition of being that transcends corporeal life and generation. It is the place of the third, intellectual vision, and the goal of the hidden labours. (ATWOOD)
+  - = Islands of the Blessed: “is denominated the Islands of the Blessed; and these are the same with the Elysian Fields” `II.4 ¶3`
+  - = enclosed garden of Solomon: “This is Elysium, the enclosed garden of Solomon” `II.4 ¶9`
+  - = Terrestrial Paradise: “This is Elysium, the enclosed garden of Solomon, where God condescends to walk and drink of the sealed fountain; the true Terrestrial Paradise” `II.4 ¶9`
+  - “this third vision of the light is in Elysium” `II.4 ¶15`
+- **Islands of the Blessed** — A condition of being above corporeal life and generation, as islands stand above the sea. (QUOTED: Olympiodorus)
+  - = Elysian Fields: “these are the same with the Elysian Fields” `II.4 ¶3`
+  - “islands stand out of, as being higher than the sea” `II.4 ¶3`
+- **generation** (also: geniture) — Embodied, born life, into which souls descend and from whose bond they must be freed. (ATWOOD)
+  - “souls descending into the realms of generation” `II.4 ¶7`
+  - “from the bond of its earthly geniture” `II.4 ¶3`
+- **regeneration** — The condition under which an immortal essence can pass into immortality. (ATWOOD)
+  - “nothing but the subtlety of an immortal essence, and that by regeneration, can pass into immortality” `II.4 ¶7`
+- **telestic** — Used of Hercules' arcane labours. Not defined in this chunk. (UNCLEAR)
+  - “a part also of the regard of his arcane and telestic labours” `II.4 ¶3`
+- **Golden Branch** — Something drawn to its native soil that passes through death and darkness, takes root and blossoms into illuminating light. Not explicitly identified in this chunk. (ATWOOD)
+  - “through death and darkness enters; and taking root at last, gathers strength to germinate and blossom, as a radiant flower” `II.4 ¶7`
+- **Meadow** (also: meadow, meadows, Pratum) — The meadow of Divine Ideas; the prolific power of life and the comprehension of the first efficient causes of life and of Forms. (ATWOOD)
+  - = garden (of the Alchemists): “this meadow of Divine Ideas, or Pratum, as the Oracle denotes it, is a place well known to philosophers; the Alchemists in general call it their garden” `II.4 ¶9`
+  - “the Meadow is the prolific power of life, according to Plato” `II.4 ¶16`
+- **garden** — The alchemists' name for the meadow of Divine Ideas: a place of sweet dew where Ideas descending from above are conceived and incorporated. (ATWOOD)
+  - = meadow of Divine Ideas / Pratum: “the Alchemists in general call it their garden” `II.4 ¶9`
+  - “the philosophers have indeed a garden where the sun as well morning as evening remains with a most sweet dew” `II.4 ¶9`
+- **Mountain of the Seven** (also: Mountain of the Seven metals, mountain of the Seven, seven mystic mountains) — Flammel's seven-fold mountain. At its top a royal herb is found. (ATWOOD)
+  - = outgoings of paradise (Esdras): “Those seven mystic mountains, whereupon grow the roses and lilies, are the outgoings of paradise mentioned in Esdras” `II.4 ¶9`
+  - = Planetary Sphere of Sendivogius: “and the Planetary Sphere of Sendivogius” `II.4 ¶9`
+  - = tincture of the Sapphiric Mine: “and that most famous tincture of the Sapphiric Mine” `II.4 ¶9`
+- **royal herb** — What is found at the summit of the mountain of the Seven. It is called mineral, vegetable or saturnine, and is 'either and all'. (QUOTED: Flammel)
+  - “a royal herb triumphing, which some call mineral, some vegetable, some saturnine” `II.4 ¶9`
+- **tincture of the Sapphiric Mine** — The cleansed, prepared vessel in which the newborn light arises. (ATWOOD)
+  - = cleansed Augean: “which is in truth the cleansed Augean, the already prepared medial receptacle of the newborn light” `II.4 ¶9`
+  - = medial receptacle of the newborn light: “the already prepared medial receptacle of the newborn light” `II.4 ¶9`
+- **nox corporis** — Night of the body or corporeal sleep. A name for the Terrestrial Paradise/Elysium, where souls are dead to this life and more alive in that. (ATWOOD)
+  - = Terrestrial Paradise: “the true Terrestrial Paradise, which some have called nox corporis, the night of body or corporeal sleep” `II.4 ¶9`
+- **anagogic vision** (also: anagogic, intellectual sight) — Augustine's third mode of vision. It is drawn above, beholds intelligible species as a pure infusion of light into the understanding, and occurs in Elysium. (ATWOOD)
+  - “the third is anagogic, and an intellectual sight, drawn above, by which intelligible species are beheld” `II.4 ¶15`
+- **Intellection** (also: intellection) — Intellectual activity in Elysium. Eternity accompanies only its permanence; it reveals the exemplary Image of Universal Nature. (ATWOOD)
+  - “eternity is consubsistent only with the permanence of intellection itself” `II.4 ¶15`
+  - “this is the Intellection in Elysium where the exemplary Image of the Universal Nature also is revealed” `II.4 ¶15`
+- **Athanor** — Hermes' furnace having a glass to it, 'that singular fundamental of his small new world'. Used as a comparison for the revelation of the Image of Universal Nature in Elysian intellection. (ATWOOD)
+  - = furnace having a glass to it: “that Athanor of Hermes before mentioned, or furnace having a glass to it” `II.4 ¶15`
+- **Archetypal Light** — The light before which the understanding vehicle stands and by which it perfects its new-born attributes. (ATWOOD)
+  - “the understanding vehicle now standing in open presence before its Archetypal Light” `II.4 ¶16`
+- **understanding vehicle** — What is nourished and educated in the Elysian state as the embryo life unfolds. (ATWOOD)
+  - “the nourishment and education of the understanding vehicle” `II.4 ¶16`
+- **Principle of things** — That with which the intellectual energy of the intelligible world keeps perpetual tranquil contact, generating Light. (ATWOOD)
+  - “generates Light through a perpetual tranquil and quiet contact with the Principle of things” `II.4 ¶16`
+- **Universal Identity of Nature** — What the physiologists and alchemists are said to have proved experimentally, on ontological ground. (ATWOOD)
+  - “were said to prove the Universal Identity of Nature on the ontological ground” `II.4 ¶16`
+- **Water** (also: water) — The water borne by the meadows, symbol of vivification. It is among the 'material rewards of initiation' that Atwood defers to later. (ATWOOD)
+  - “bear water which is the symbol of vivification” `II.4 ¶16`
+  - “of these material rewards of initiation hereafter, and of this Water especially” `II.4 ¶16`
+- **Isis** (also: Queen Isis) — The goddess appearing to Lucius. She calls herself nature, parent of all things and queen of the elements. (QUOTED: Apuleius)
+  - = nature: “I, who am nature, the parent of all things” `II.4 ¶17`
+  - = Pessinuntica, Cecropian Minerva, Paphian Venus, Diana Dyctynna, Stygian Proserpine, Ceres, Juno, Bellona, Hecate, Rhamnusia: “whose one divinity the whole orb of the earth venerates under a manifold form, by different rites and a various of appellations” `II.4 ¶17`
+  - “call me by my true name, Queen Isis” `II.4 ¶17`
+- **Human Form** — What Lucius returns to by the goddess's help, shedding the ass's hide. (QUOTED: Apuleius)
+  - “by whose assistance you will return to the Human Form” `II.4 ¶17`
+
+## Sources cited
+
+- **Zoroastri Oracula**, *Anima, Corpus, Homo* — “It behooves thee to hasten to the Light, and to the beams of the Father” `II.4 ¶2` — Chapter epigraph: exhortation to the Light.
+- **Olympiodorus**, *Commentary on the Gorgias of Plato* — “islands stand out of, as being higher than the sea” `II.4 ¶3` — Supports: allegorical reading of Hercules' last labour and of the Islands of the Blessed/Elysian Fields as a state above corporeal life.
+- **Taylor**, *notes to his Pausanius, Vol. 3, p. 215; his Dissertation; p.237* `II.4 n1, II.4 ¶16, II.4 n6` — Source of the Olympiodorus extract (n1); praised for setting forth Virgil's Elysian particulars in his Dissertation; cited for Porphyry (n6).
+- **Proclus**, *On the Theology (of Plato), Bk. 4, Cap. 7* — “the plain of Truth, he says, is intellectually expanded to intelligible Light” `II.4 ¶3, II.4 ¶16, II.4 n8` — Supports: Hercules' purification and establishment among the gods. Also the Elysian fountains as Theurgists' chief hope of salvation, and the Meadow as the prolific power of life.
+- **Homer**, *Odyssey, thirteenth book* — “A lofty gate unfolds on either side” `II.4 ¶5, II.4 ¶6, II.4 ¶7` — Illustrates: the two gates of the cave in Ithaca, read as allegory of descent and ascent.
+- **Porphyry**, *on the Cave of the Nymphs; Aid to Intelligibles* — “a fountain, not flowing outwardly, but circularly scattering its streams into itself” `II.4 ¶7, II.4 n2, II.4 ¶15, II.4 n6` — Supports: northern/southern gates as descent into generation and ascent to divinity, 'immortals' as essentially immortal souls. Also illustrates the self-reflexive intellectual vision and the time/eternity distinction.
+- **Virgil**, *Aeneid* — “Devenere locos laetos, et amoena vireta” `II.4 ¶7, II.4 ¶8, II.4 n3, II.4 ¶16` — Illustrates: passage from Tartarus to the Elysian Fields, and the Eridanus as flow of spirit; his Elysian scenes read as the unfolding of the embryo life.
+- **the Oracle** `II.4 ¶9` — Source of the name 'Pratum' for the meadow of Divine Ideas.
+- **Flammel**, *Summary (Falmmelli Summula, in fine)* — “the philosophers have indeed a garden where the sun as well morning as evening remains with a most sweet dew” `II.4 ¶9, II.4 n4` — Supports: the alchemists' garden and the mountain of the Seven with its royal herb.
+- **Maria**, *Practica* `II.4 n4` — Reference only.
+- **Vaughan**, *Preface to Famma et Confessio, R.C.* — “the rendezvous of all spirits, where Ideas as they descend from above, are conceived and incorporated” `II.4 ¶9, II.4 ¶11, II.4 n5` — Supports: description of the garden; adds the Apollonius passage to clarify R.C.'s account.
+- **Esdras** `II.4 ¶9` — The 'outgoings of paradise' identified with the seven mystic mountains.
+- **Sendivogius** `II.4 ¶9` — His 'Planetary Sphere' identified with the seven mystic mountains.
+- **Solomon** `II.4 ¶9` — The 'enclosed garden of Solomon' and sealed fountain identified with Elysium.
+- **Heraclitus** — “we live their death and die their life” `II.4 ¶9` — Supports: explains nox corporis, souls dead to this life and alive in the other.
+- **Empedocles** — “Heaven’s exiles straying from the orb of light.” `II.4 ¶9, II.4 ¶10` — Supports: we desert our best life by turning to externals.
+- **R.C.**, *Famma et Confessio* — “Vidi aliquando Olympicos domos” `II.4 ¶11, II.4 n5` — Illustrates: philosophers visiting the Elysian place.
+- **Apollonius** — “I have seen, says Apollonius, the Brahmans of India dwelling on the earth and not on the earth” `II.4 ¶11` — Illustrates (via Vaughan): the abode of the Brahmans as like the philosophers' habitation.
+- **the oracle (to Amelius)** — “Ubi Amicitia est, ubi cupido visu mollis” `II.4 ¶11, II.4 ¶12` — Illustrates: the soul of Great Plotinus is in such a place.
+- **the Sybil** `II.4 ¶13` — Illustrates: drew inspiration from rivers of supernal light.
+- **the Orphic poet** — “Omnia quae Phoebo quondam meditante beatus Audiit Eurotas” `II.4 ¶13, II.4 ¶14` — Illustrates: Apollo contemplating such rivers.
+- **St Augustine** `II.4 ¶15` — Supports: three modes of human vision; the third (anagogic) placed in Elysium.
+- **Hermes** `II.4 ¶15` — His Athanor, 'before mentioned', used as comparison for the revelation of the Image of Universal Nature.
+- **Aristophanes**, *In Ramis, Act 1* — “The sun shines but for us, exclaims the chorus of the Initiated in Aristophanes” `II.4 ¶16, II.4 n7` — Illustrates: the privileged light of the initiated, who perform acts of piety and justice.
+- **Plato** `II.4 ¶16` — Via Proclus: the Meadow as the prolific power of life.
+- **Theurgists** `II.4 ¶16` — Said by Proclus to place their chief hopes of salvation in the Elysian fountains.
+- **Tractatus Aureus**, *Tractatus Aureus, Cap.3* `II.4 n8` — Reference only.
+- **ancient physiologists and alchemists** `II.4 ¶16` — Said to accord with the metaphysician by experimentally proving the Universal Identity of Nature.
+- **Apuleius** — “Moved by thy prayers, O Lucius! Behold, I am come!” `II.4 ¶16, II.4 ¶17, II.4 n9` — Illustrates: the appearance of the goddess (Isis/nature) in the Eleusian Fane and her mandates to the initiate.
+
+## Ambiguities
+
+- “For he dragged up Cerberus from hell, that is to say, he liberated the whole individual entity through a threefold evolution from the bond of its earthly geniture” `II.4 ¶3`
+  - Reading: Continuation of Olympiodorus' commentary.
+  - Reading: Atwood's own gloss following the quotation.
+  - Basis: The 'says he' marks Olympiodorus at the start of the passage, but no closing marker follows; 'So Proclus understands the allegory' then introduces a different authority.
+- “the value of that Golden Branch” `II.4 ¶7`
+  - Reading: The immortal essence itself, which by regeneration passes into immortality.
+  - Reading: The process or power of regeneration that carries the essence through death and darkness.
+  - Basis: II.4 ¶7: it directly follows 'nothing but the subtlety of an immortal essence, and that by regeneration, can pass into immortality'. Its described behaviour (entering through death and darkness, rooting, blossoming) fits either reading. The text names neither.
+- “reproducing the whole material principle to sense and visibility from the dissolution of the spirit in its proper kind without alloy” `II.4 ¶16`
+  - Reading: A physical, experimental operation yielding a visible material principle.
+  - Reading: The same Elysian/intellectual state described as having material effects ('material rewards of initiation').
+  - Basis: II.4 ¶16: 'experimentally searching' and 'to sense and visibility' suggest physical work. But the passage is framed as the alchemists according with 'the metaphysician' on 'ontological ground', and as 'material rewards of initiation' within the discussion of the Elysian state.
+- “as the one (subjective identity) emits by illumination intelligible light so the intelligible (objective entity) imparts to secondary natures a participation productive of essence” `II.4 ¶16`
+  - Reading: The parenthetical glosses are Atwood's insertions into Proclus.
+  - Reading: They are part of the cited text (or Taylor's rendering).
+  - Basis: II.4 ¶16: the parentheses interrupt a passage introduced with 'he says', with no indication of who added them.
+
+## Translations
+
+- `II.4 ¶4` “Felix, qui potuit rerum cognoscere Causas, Atque metus omnes et inexorabile Fatum Subjectit pedibus, strepitimque Acherontis avari!” → Happy he who could know the causes of things, and has put beneath his feet all fears and inexorable Fate, and the roar of greedy Acheron! *(ours)*
+- `II.4 ¶7` “Devenere locos laetos, et amoena vireta” → They came to the joyful places and the pleasant green lawns *(ours)*
+- `II.4 ¶8` “Fortunatorum nemorum, sedsque beatas Largior hic campos Aether et Lumine vestit Purpureo: solemque suum, sua sidera norunt” → of the Fortunate Groves, and the blessed seats. Here a more ample Aether clothes the fields with purple light; they know their own sun, their own stars. *(ours)*
+- `II.4 ¶11` “Vidi aliquando Olympicos domos, non procul a fluviolo et civitate nota quas Sanctus Spiritus fontem aperuit perennis aquae adhuc stillantem, in quo Diana se lavat, cui Venus ut Pedissaqua et Saturnus ut anteambulo, conjunguntur. Intelligenti nimium inexperto minimum hoc erit dictum.” → I once saw the Olympic houses, not far from a little river and a well-known city, which the Holy Spirit [opened as / where the Holy Spirit opened] a fountain of perennial water still dripping, in which Diana bathes, to whom Venus as handmaid and Saturn as forerunner are joined. To the one who understands, this will be said too much; to the inexperienced, too little. *(ours)*
+- `II.4 ¶12` “Ubi Amicitia est, ubi cupido visu mollis, Purae plenus laetitiae, et sempiternis rivis Ambrosiis irrigatus a Deo; unde sunt amorum Retinacula, dulcis spiritus et tranquillus Aether Aurei generis magi Jovis.” → Where Friendship is, where Desire is gentle to behold, full of pure joy, and watered by God with everlasting ambrosial streams; whence come the bonds of loves, sweet spirit and tranquil Aether, of the golden race of great Jove. *(ours)*
+- `II.4 ¶14` “Omnia quae Phoebo quondam meditante beatus Audiit Eurotas, &c...” → All the things which blessed Eurotas once heard while Phoebus was meditating, etc. *(ours)*
+- `II.4 ¶9` “nox corporis” → the night of body or corporeal sleep *(book)*
+
+## Threads
+
+- `II.4 ¶15` 'the second has already been discussed': the imaginative mode of vision was treated earlier in the book.
+- `II.4 ¶15` 'that Athanor of Hermes before mentioned, or furnace having a glass to it': refers back to an earlier mention of Hermes' Athanor.
+- `II.4 ¶16` 'intending to speak of these material rewards of initiation hereafter, and of this Water especially': Atwood promises a later treatment of the material rewards of initiation and of the Water.

@@ -1,0 +1,1406 @@
+{
+  "chunk": "IV.1_01",
+  "gist": "Opening Part IV (the Practice), Atwood argues that the first work, the Vital Purification or Gross Work, is a single manual, linear dissolution of the philosophic subject: entrancing the senses in their medial light (as by mesmerism) is only the start, and the released medium must then be purified by long, repeated, laborious handwork before, in the Second operation, Nature alone works by external fire.",
+  "notes": [
+    {
+      "point": "Heading: Part IV, The Hermetic Practice; Chapter 1, the Vital Purification or Gross Work.",
+      "refs": [
+        "IV.1 ¶1"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "After aids and theory comes Preparation of the Philosophic Subject by the Hands, drawing the latent nature outward; preparation yields knowledge of Alchemy and Medicine and prepares the way to health. Manual operation is chiefly required, else all floats like an unballasted ship; one sight teaches more than many pages.",
+      "refs": [
+        "IV.1 ¶2"
+      ],
+      "voice": "QUOTED: the Monk Basil (endorsed)"
+    },
+    {
+      "point": "The Alchemists gave many Keys but never the first approach; books alone cannot reveal it. Though called child's play, one linear decoction, no one uninstructed would find the now publicly easy artifice of entrancing the senses in their own medial light.",
+      "refs": [
+        "IV.1 ¶3"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Known means: mesmerizing by another's hand or eye, or a fixed gaze. Ether and chloroform, ignorantly preferred, are contrary: the one, in light, purifies blood and intellect; the other, by darkness, confounds the mind and may kill.",
+      "refs": [
+        "IV.1 ¶4"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Entrancing is only a beginning; the medium is naturally volatile, phantastic, irrational. The Alchemists went on to purify, depriving the ether of its wild affections by dissolving the circulating body in its own blood: the Brazen Wall around our Heaven. Albertus: wash our Brass; all operations are successive dissolution and coagulation, beginning with perfect solution.",
+      "refs": [
+        "IV.1 ¶4"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Purification has one way, Manual or Linear. Atwood judges the Hand imparted the Spirit and, by continual trituration, dissolved its innate defects (Lully, Vaughan, Filum Ariadne, Van Helmont). She will not argue with unbelievers; the work demands patience, toil, skill, attention, honesty about error.",
+      "refs": [
+        "IV.1 ¶5"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Crollius: the slothful and profane cannot grasp these secrets. Eirenaeus: the First Work needs assiduity and concentrated attention; nothing is more tedious than the First Operation (Morien to King Calid); this is literal, about things as first found.",
+      "refs": [
+        "IV.1 ¶6"
+      ],
+      "voice": "QUOTED: Crollius; Eirenaeus (endorsed)"
+    },
+    {
+      "point": "Arnold: dissolve the Stone in its own mercury to first Matter. Urbigeranus: a labor of Hercules, for superfluities adhere to the subject; the Adepts' Arcanum shows how to extract the Royal Diadem; labor must not stop lest the Sphinx regain dominion. Rosarium, Dee's Spirit, Van Helmont urge unwearied labor; kings set their hand to it.",
+      "refs": [
+        "IV.1 ¶7"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Latin verse (Ovidii): the first way is steep. The Celestial Ploughshare clears the wasted field of human life, repeated as each dying is renewed into better life; Norton on choosing servants. Zachary: many furnaces avail nothing without Method; one way, one matter, one vessel.",
+      "refs": [
+        "IV.1 ¶8",
+        "IV.1 ¶9"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The Preparing Spirit dissolves and cleanses the body of Light and extracts a tinging Second Spirit; the Argent vive, at first gross and mixed with extraneous Sulfurs, is cleansed and coagulated by its own sulfur, red and white.",
+      "refs": [
+        "IV.1 ¶10"
+      ],
+      "voice": "QUOTED: the Adept"
+    },
+    {
+      "point": "Atwood, noting her evidence runs ahead: this Argent vive, decocted linearly, is generated pontically, by reciprocal alternation, hand to hand.",
+      "refs": [
+        "IV.1 ¶11"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Eirenaeus: preparing the philosophic Eagles is the first degree; the First Operation needs sweat; in the Second, Nature alone works, without hands, by well-regulated external fire.",
+      "refs": [
+        "IV.1 ¶11"
+      ],
+      "voice": "QUOTED: Eirenaeus (endorsed)"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "stage",
+      "veiled": "Of the Vital Purification, Commonly Called the Gross Work",
+      "ref": "IV.1 ¶1",
+      "plain": "The first practical stage is a purification, also called the Gross Work; it is the laborious First Operation, distinguished from a Second in which Nature works alone.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶1 title equates the two names; IV.1 ¶6 and ¶11 call the laborious first stage the First Operation and contrast it with the Second.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "Preparation of the Philosophic Subject, which is performed, says the Monk Basil, by operation of the Hands, that some real effect may be produced",
+      "ref": "IV.1 ¶2",
+      "plain": "The first practical step is preparing the subject by literal handwork, which brings its hidden nature out into view.",
+      "status": "stated",
+      "basis": "IV.1 ¶2 says operation of the hands 'draws the latent and hidden nature outwards'; ¶5 Atwood judges 'the Hand was the instrument employed'; ¶6 Eirenaeus: not to be 'understood figuratively'.",
+      "voice": "QUOTED: the Monk Basil (endorsed)",
+      "also": [
+        {
+          "text": "the operation of the hands manifests something that is good, and draws the latent and hidden nature outwards, and brings it to light for good",
+          "ref": "IV.1 ¶2"
+        },
+        {
+          "text": "Manual operation is chiefly required, therefore; without which, indeed, every other operation, like a ship without ballast, floats and is uncertain",
+          "ref": "IV.1 ¶2"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "more is learned by once seeing the work done, than can be taught by the writing of many pages",
+      "ref": "IV.1 ¶2",
+      "plain": "The practice must be learned by demonstration and instruction; the first step cannot be reconstructed from alchemical books.",
+      "status": "stated",
+      "basis": "IV.1 ¶3: the first approach 'has not been unfolded', it would not be possible 'to discover the Practice from their books alone', and it would not be suggested 'without instruction'.",
+      "voice": "QUOTED: the Monk Basil (endorsed)",
+      "also": [
+        {
+          "text": "nor would it be possible, we think, for any one to discover the Practice from their books alone",
+          "ref": "IV.1 ¶3"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "the tractive artifice now made publicly easy of entrancing the senses in their own medial light",
+      "ref": "IV.1 ¶3",
+      "plain": "The entry into the work is inducing a trance in which the senses are absorbed in their own inner light; Atwood names mesmerism (by another's hand or eye) and a passive fixed gaze as current means.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶4 immediately follows: 'recent observation has proved various means of effecting this ... by the hand or eye of another mesmerizing, or by a passive fixed gaze'; IV.1 ¶5 speaks of ways of 'unfolding the interior light temporarily'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "by the hand or eye of another mesmerizing, or by a passive fixed gaze",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "other revolutionary arts, too, by which the human spirit may be involuted and converted to its proper spheres",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "many ways of including the sensible medium and of unfolding the interior light temporarily",
+          "ref": "IV.1 ¶5"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "by influxion of darkness, drowns the oxygenating spirit, prostrates and confounds the mental powers",
+      "ref": "IV.1 ¶4",
+      "plain": "Ether and chloroform are not valid substitutes for the mesmeric means: the mesmeric means works by light and purifies blood and intellect; the drugs work by darkness, cloud the mind and can cause fainting or death.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶4 contrasts the 'former expedients' with ether and chloroform, 'very different, as proved by the contrariety of their cause'. That 'the one' is the mesmeric means is inferred: 'the other' produces 'syncope and death', fitting the drugs.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "overcoming in light, oxygenates, purifies, and sublimes the arterial blood, and in proportion the intellectual powers",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "often produces syncope and death",
+          "ref": "IV.1 ¶4"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "to effect this was, as we have repeatedly shown, a beginning only of the Hermetic art",
+      "ref": "IV.1 ¶4",
+      "plain": "Producing the trance and its first phenomena is only the start; the real work is the purification that follows.",
+      "status": "stated",
+      "basis": "IV.1 ¶4: the Alchemists 'did not remain satisfied with a few passes of the hand, or any first phenomena whatever, but they proceeded at once scientifically to purify'; ¶5 many ways of unfolding the light 'temporarily', but one way for the Purification.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "did not remain satisfied with a few passes of the hand, or any first phenomena whatever",
+          "ref": "IV.1 ¶4"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the medium in its natural state is volatile, immanifest, phantastic, irrational, and important",
+      "ref": "IV.1 ¶4",
+      "plain": "The medium released in the trance is at first unstable, unmanifest, fantasy-ridden and irrational, far inferior to what it becomes after purification.",
+      "status": "stated",
+      "basis": "IV.1 ¶4, 'compared with what it subsequently is become'. On 'important' see ambiguities.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "depriving the ether of its wild affections and impressures by a dissolution of the circulating body in its own blood",
+      "ref": "IV.1 ¶4",
+      "plain": "Purification means stripping the medium (here called ether) of its disordered impressions by dissolving it in its own vital fluid; 'circulating body' and 'its own blood' are not further explained here.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶4 gives this as how the Alchemists 'proceeded at once scientifically to purify' after the trance; IV.1 ¶7 (Arnold) gives a parallel form, 'dissolve the Stone in its own mercury' (identity not asserted; see ambiguities).",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "that Brazen Wall celebrated by Antiquity, which surrounds our Heaven and must be scaled, and passed through before any one can hope to discern the equilibriate felicity of Being within",
+      "ref": "IV.1 ¶4",
+      "plain": "A barrier that must be passed before the inner, balanced state of Being can be perceived; it is tied to the purifying dissolution, but what exactly 'this' refers to is unclear (see ambiguities).",
+      "status": "interpreted",
+      "basis": "IV.1 ¶4: 'For this is that Brazen Wall' directly follows the sentence on purifying the ether by dissolution.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "Take the occult Nature, which is our Brass, says Albertus, and wash it that it may be pure and clean",
+      "ref": "IV.1 ¶4",
+      "plain": "'Our Brass' names the hidden nature, which must be washed clean.",
+      "status": "stated",
+      "basis": "IV.1 ¶4, Albertus identifies Brass with the occult Nature.",
+      "voice": "QUOTED: Albertus (endorsed)",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "a successive dissolution and coagulation to make the fixed volatile, and volatile fixed",
+      "ref": "IV.1 ¶4",
+      "plain": "All the named operations (dissolve, distill, sublime, calcine, fix) are one alternating process of loosening and setting; the work begins with complete dissolution.",
+      "status": "stated",
+      "basis": "IV.1 ¶4: 'the whole of which is nothing else than' this; 'The beginning of the whole work is a perfect solution'.",
+      "voice": "QUOTED: Albertus (endorsed)",
+      "also": [
+        {
+          "text": "The beginning of the whole work is a perfect solution",
+          "ref": "IV.1 ¶4"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "one way, called by the Adepts Manual, and their Linear way, which supersedes all other from beginning to end of the Dissolution",
+      "ref": "IV.1 ¶5",
+      "plain": "There is a single, uniform method of purification, called both Manual and Linear, used throughout the dissolution on one matter in one vessel until the decoction is complete; the many furnaces and vessels of the operators are of no avail without this method. The chunk does not say what 'linear' means beyond one uniform course.",
+      "status": "stated",
+      "basis": "IV.1 ¶5 gives the two names for one way; ¶3 'one linear decoction throughout and dissolution by line'; ¶9 (Zachary) 'one way of working, in one matter, one linear way throughout' and 'donec decoctio compleatur'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "one linear decoction throughout and dissolution by line",
+          "ref": "IV.1 ¶3"
+        },
+        {
+          "text": "there is indeed but one way of working, in one matter, one linear way throughout, one vessel uniform throughout, except removal",
+          "ref": "IV.1 ¶9"
+        },
+        {
+          "text": "not all would avail without a Method in their distribution",
+          "ref": "IV.1 ¶9"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the Hand was the instrument employed, not only to impart the Spirit as a natural gift, but by a continual mechanic trituration, as it were, to dissolve and ultimately obliterate its innate defects",
+      "ref": "IV.1 ¶5",
+      "plain": "The operator's hand is the actual instrument: it transmits the vital spirit and, by long continued working (likened to grinding), dissolves away the subject's inborn defects. Atwood says the cited passages have a literal application.",
+      "status": "stated",
+      "basis": "IV.1 ¶5, Atwood's own judgment, followed by Lully, Vaughan, Filum Ariadne and Van Helmont on the hand, and 'passages showing the literal application of these'. That the hand works as in mesmeric passes is suggested (not stated) by IV.1 ¶4 'a few passes of the hand'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Nature cannot of herself enter into the dissolution, says the author of the Filum Ariadne, because she has no hands",
+          "ref": "IV.1 ¶5"
+        },
+        {
+          "text": "The Hand, says Van Helmont, is the instrument of instruments, which the soul likewise useth, as a means by which it bears its image into operation",
+          "ref": "IV.1 ¶5"
+        },
+        {
+          "text": "The Mercury of the philosophers, says Lully, comes not but by help of ingenuity, and the Manual operations of man",
+          "ref": "IV.1 ¶5"
+        },
+        {
+          "text": "nature is not moved by theory alone, but by sagacious Handicraft and human assistance",
+          "ref": "IV.1 ¶5"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "patience, toil, skill, unremitting attention, in the execution, and a free will to the discovery of error, without discordant slurring or disguise",
+      "ref": "IV.1 ¶5",
+      "plain": "The operator must be patient, hard-working, skilled, continuously attentive and honest about mistakes; the slothful, unapt for manual work, and the profane, lacking wisdom, fail.",
+      "status": "stated",
+      "basis": "IV.1 ¶5; IV.1 ¶6 Crollius on 'unaptness for Manual operation' and lack of 'the spirit of Wisdom', Eirenaeus 'a concentrated attention is necessary'; IV.1 ¶11 'some sagacity of mind'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "by reason of their indisposition and unaptness for Manual operation",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "they want the spirit of Wisdom, and are not quick of understanding in these things",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "Nor is the work so easy that it should be considered as a mental recreation either (since a concentrated attention is necessary)",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "in the knowledge of which there is required also some sagacity of mind",
+          "ref": "IV.1 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "I am not speaking here indeed of the commencement of the Supernatural Work, but of things as we first find them: and to well dispose the matter, this truly is a labor and a work",
+      "ref": "IV.1 ¶6",
+      "plain": "The First Operation is the hard, literal labor of putting the raw matter in order as first found, distinct from the later 'Supernatural Work'.",
+      "status": "stated",
+      "basis": "IV.1 ¶6: 'Neither would I have these things understood figuratively'.",
+      "voice": "QUOTED: Eirenaeus (endorsed)",
+      "also": [
+        {
+          "text": "Neither would I have these things understood figuratively",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "there is no work more tedious than our First Operation",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "nothing can be achieved in the First Operation without sweating and much labor",
+          "ref": "IV.1 ¶11"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "to dissolve the Stone in its own mercury, that it may be reduced into its first Matter",
+      "ref": "IV.1 ¶7",
+      "plain": "The work dissolves the subject in its own fluid principle so that it returns to its original state; this chunk does not further define 'Stone', 'mercury' or 'first Matter'.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶7 (Arnold, with Latin); parallels IV.1 ¶4 'dissolution of the circulating body in its own blood' and IV.1 ¶10 'reduces the bodies by dissolution into itself'.",
+      "voice": "QUOTED: Arnold (endorsed)",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "there is such a mass of heterogeneous superfluities adhering to our subject, that nothing short of dissolution can give it rest",
+      "ref": "IV.1 ¶7",
+      "plain": "The subject carries many foreign accretions, which only full dissolution removes; hence the labor is called Herculean.",
+      "status": "stated",
+      "basis": "IV.1 ¶7 gives this as the reason ('For') the labor is styled a labor of Hercules; cf. IV.1 ¶5 'innate defects'; IV.1 ¶10 'mingled with extraneous Sulfurs'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "a labor of Hercules",
+          "ref": "IV.1 ¶7"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the Theory of their Arcanum, in which they show the medium by which the Royal Diadem may be extracted from our Sordid Subject",
+      "ref": "IV.1 ¶7",
+      "plain": "A guiding theory is indispensable: it identifies the means by which something precious is drawn out of the base raw subject. The chunk does not say what the Royal Diadem or this medium is.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶7: dissolution is 'entirely impossible to accomplish without' this Theory; IV.1 ¶2 likewise presupposes 'a sufficient theory'.",
+      "voice": "QUOTED: Urbigeranus and other Adepts (reported by Atwood)",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "lest remaining in any part, of left alone, before the total solution of her enigma, the Sphinx should retrieve her dominion unawares and frustrate the work begun",
+      "ref": "IV.1 ¶7",
+      "plain": "If the dissolution is left incomplete anywhere or abandoned too soon, the subject's former state reasserts itself and undoes the work; the labor is a struggle against opposing dark forces needing great force.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶7: stated as the reason 'continual labor is required in the application'; the Spirit to Dr Dee adds the Powers of Darkness, not explained further.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "to fight against the Powers of Darkness requires great force",
+          "ref": "IV.1 ¶7"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "Tere, coque, et reitera, et non te taedeat",
+      "ref": "IV.1 ¶7",
+      "plain": "Grind, cook and repeat without tiring; the labor is repeated many times, each repetition a dying renewed into a better life.",
+      "status": "stated",
+      "basis": "IV.1 ¶7 gives the translation 'Grind, coct ... and reiterate your labor and be not weary'; IV.1 ¶9 'many times the labor must be repeated, as each dying is renewed into a better life'.",
+      "voice": "QUOTED: the wise author of the Rosarium (endorsed)",
+      "also": [
+        {
+          "text": "nor once nor twice; but many times the labor must be repeated, as each dying is renewed into a better life",
+          "ref": "IV.1 ¶9"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "this Celestial Ploughshare",
+      "ref": "IV.1 ¶9",
+      "plain": "The purifying labor is pictured as ploughing; the field is stated to be human life, cleared and harrowed for better growth.",
+      "status": "stated",
+      "basis": "IV.1 ¶9: the ploughshare's toil is 'to clear the wasted field of human life, and harrow it for a more congenial growth'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Fresh horses there are verily needed to this Celestial Ploughshare and laborious assistance for a toil that is incessant",
+      "ref": "IV.1 ¶9",
+      "plain": "The work needs assistants who relieve one another in an incessant labor; hence Norton's advice on choosing servants and their qualifications is recalled. The 'double ... triply complicated sense' is not explained.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶9 links it to 'the advice of Norton and his brother Adepts about the choice of servants, their capacities and qualifications'; IV.1 ¶11 the Argent vive's virtue is distributed 'by hand to hand'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the choice of servants, their capacities and qualifications, which moreover are tried in a double, single manifold, and triply complicated sense",
+          "ref": "IV.1 ¶9"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "The Preparing Spirit dissolves the body of Light, and cleanses it from the corrupting causes, and extracts a Second Spirit subsisting and tinging in the body",
+      "ref": "IV.1 ¶10",
+      "plain": "An active spirit dissolves and cleanses its own luminous body and draws out of it a second, coloring spirit, reducing the bodies into itself. The chunk does not identify the Preparing Spirit or the body of Light further.",
+      "status": "interpreted",
+      "basis": "IV.1 ¶10: 'the advantages of the Spirit preparing its body and extracting from it the tinging spirit'; Atwood notes in IV.1 ¶11 that 'our evidence runs in advance'.",
+      "voice": "QUOTED: the Adept",
+      "also": [
+        {
+          "text": "the Spirit preparing its body and extracting from it the tinging spirit",
+          "ref": "IV.1 ¶10"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "by the operation of Art it was cleansed and renewed, and coagulated by its own internal sulfur, red and white, and is double",
+      "ref": "IV.1 ¶10",
+      "plain": "The formerly gross, unclean, fugitive Argent vive, mixed with foreign elements, is cleansed, renewed and fixed by its own inner principle (red and white), becoming subtle, penetrating and able to dissolve mineral bodies.",
+      "status": "stated",
+      "basis": "IV.1 ¶10 contrasts its first state with its state after Art.",
+      "voice": "QUOTED: the Adept",
+      "also": [
+        {
+          "text": "this Argent vive was at first gross, unclean, fugitive, being mingled with extraneous Sulfurs",
+          "ref": "IV.1 ¶10"
+        },
+        {
+          "text": "not viscous, but acidulated, subtle, and very penetrative, resolving the bodies mineral",
+          "ref": "IV.1 ¶10"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "this Argent vive, which is decocted linearly, is generated pontically, as it were by a reciprocal alternation, distributing its advanced virtue by hand to hand",
+      "ref": "IV.1 ¶11",
+      "plain": "The Argent vive is produced by the linear method through a back-and-forth alternation in which its virtue passes from hand to hand; 'pontically' is not explained (see ambiguities).",
+      "status": "interpreted",
+      "basis": "IV.1 ¶11; 'decocted linearly' ties it to the Linear way of IV.1 ¶5; 'hand to hand' to the Hand as instrument (IV.1 ¶5), 'the hand or eye of another' (IV.1 ¶4) and the assistants of IV.1 ¶9.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "the exact preparation of the philosophic Eagles may be considered the first degree of perfection in this Art",
+      "ref": "IV.1 ¶11",
+      "plain": "Correct preparation of what are called the philosophic Eagles is the first level of attainment; the chunk does not explain the Eagles.",
+      "status": "stated",
+      "basis": "IV.1 ¶11, Eirenaeus, in the context of the First Operation.",
+      "voice": "QUOTED: Eirenaeus (endorsed)",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "In the Second, however, Nature alone operates, and without any imposition of hands, by the sole assistance of a well-regulated external fire",
+      "ref": "IV.1 ¶11",
+      "plain": "The work has two operations: the first is manual labor; in the second the operator's hands are withdrawn and Nature works alone, aided only by well-regulated external heat.",
+      "status": "stated",
+      "basis": "IV.1 ¶11 contrasts the First Operation (sweat and labor) with the Second.",
+      "voice": "QUOTED: Eirenaeus (endorsed)",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "Vital Purification",
+      "variants": [
+        "Purification",
+        "purify"
+      ],
+      "meaning": "The first stage of the Hermetic Practice: purifying the medium of its wild affections and innate defects by dissolution, done by one way only, the Manual or Linear way.",
+      "equivalences": [
+        {
+          "with": "Gross Work",
+          "quote": "Of the Vital Purification, Commonly Called the Gross Work",
+          "ref": "IV.1 ¶1"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "for the Purification we read but of one way, called by the Adepts Manual, and their Linear way",
+          "ref": "IV.1 ¶5"
+        },
+        {
+          "text": "they proceeded at once scientifically to purify",
+          "ref": "IV.1 ¶4"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Philosophic Subject",
+      "variants": [
+        "our subject",
+        "our Sordid Subject"
+      ],
+      "meaning": "The subject on which the work is done; prepared by hand; burdened with heterogeneous superfluities.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Preparation of the Philosophic Subject",
+          "ref": "IV.1 ¶2"
+        },
+        {
+          "text": "such a mass of heterogeneous superfluities adhering to our subject",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Manual",
+      "variants": [
+        "Manual operation",
+        "Manual operations",
+        "manual Practice"
+      ],
+      "meaning": "Literal handwork by the operator, chiefly required in the first work; the name of the one way of Purification.",
+      "equivalences": [
+        {
+          "with": "Linear way",
+          "quote": "called by the Adepts Manual, and their Linear way",
+          "ref": "IV.1 ¶5"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "Manual operation is chiefly required",
+          "ref": "IV.1 ¶2"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Linear way",
+      "variants": [
+        "linear decoction",
+        "dissolution by line",
+        "linear way",
+        "decocted linearly"
+      ],
+      "meaning": "The single uniform course of the dissolution throughout, in one matter and one vessel; not further explained.",
+      "equivalences": [
+        {
+          "with": "Manual",
+          "quote": "called by the Adepts Manual, and their Linear way",
+          "ref": "IV.1 ¶5"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "one linear decoction throughout and dissolution by line",
+          "ref": "IV.1 ¶3"
+        },
+        {
+          "text": "one linear way throughout",
+          "ref": "IV.1 ¶9"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "medial light",
+      "variants": [],
+      "meaning": "The senses' own light, in which they are entranced at the start of the practice.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "entrancing the senses in their own medial light",
+          "ref": "IV.1 ¶3"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "medium",
+      "variants": [
+        "sensible medium"
+      ],
+      "meaning": "What is released or included by entrancing; in its natural state volatile, immanifest, phantastic, irrational; must be purified. Also used in ¶7 for the means by which the Royal Diadem is extracted.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the medium in its natural state is volatile, immanifest, phantastic, irrational, and important",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "many ways of including the sensible medium",
+          "ref": "IV.1 ¶5"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "ether",
+      "variants": [],
+      "meaning": "Used in two senses: the anaesthetic (with chloroform), and that which the Alchemists purified of its 'wild affections and impressures'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the virtues of ether and chloroform too are familiar",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "depriving the ether of its wild affections and impressures",
+          "ref": "IV.1 ¶4"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Brazen Wall",
+      "variants": [],
+      "meaning": "A barrier surrounding 'our Heaven' that must be scaled and passed through before the equilibriate felicity of Being within is discerned.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "this is that Brazen Wall celebrated by Antiquity, which surrounds our Heaven and must be scaled",
+          "ref": "IV.1 ¶4"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Brass",
+      "variants": [],
+      "meaning": "Albertus' name for the occult Nature, to be washed pure and clean and then dissolved, distilled, sublimed, calcined and fixed.",
+      "equivalences": [
+        {
+          "with": "occult Nature",
+          "quote": "Take the occult Nature, which is our Brass",
+          "ref": "IV.1 ¶4"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Albertus"
+    },
+    {
+      "term": "Dissolution",
+      "variants": [
+        "dissolution",
+        "dissolve",
+        "solution"
+      ],
+      "meaning": "The core operation of the first work: dissolving the subject (in its own blood / own mercury) to remove superfluities; begins the whole work and must be total.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The beginning of the whole work is a perfect solution",
+          "ref": "IV.1 ¶4"
+        },
+        {
+          "text": "nothing short of dissolution can give it rest",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "coagulation",
+      "variants": [
+        "coagulated"
+      ],
+      "meaning": "Fixing or setting, alternated with dissolution; the cleansed Argent vive is coagulated by its own internal sulfur.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a successive dissolution and coagulation to make the fixed volatile, and volatile fixed",
+          "ref": "IV.1 ¶4"
+        }
+      ],
+      "voice": "QUOTED: Albertus"
+    },
+    {
+      "term": "trituration",
+      "variants": [],
+      "meaning": "Grinding, used figuratively ('as it were') for the hand's continual working that dissolves the subject's innate defects.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by a continual mechanic trituration, as it were, to dissolve and ultimately obliterate its innate defects",
+          "ref": "IV.1 ¶5"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Mercury",
+      "variants": [
+        "Mercury of the philosophers",
+        "mercury",
+        "Mercurium"
+      ],
+      "meaning": "The Mercury of the philosophers comes only by ingenuity and manual operation (Lully); the Stone is dissolved in its own mercury (Arnold).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The Mercury of the philosophers, says Lully, comes not but by help of ingenuity, and the Manual operations of man",
+          "ref": "IV.1 ¶5"
+        },
+        {
+          "text": "to dissolve the Stone in its own mercury",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "QUOTED: Lully; Arnold"
+    },
+    {
+      "term": "Stone",
+      "variants": [
+        "Lapidem"
+      ],
+      "meaning": "What is dissolved in its own mercury to be reduced to first Matter.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The work of philosophers, says Arnold, is to dissolve the Stone in its own mercury",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "QUOTED: Arnold"
+    },
+    {
+      "term": "first Matter",
+      "variants": [],
+      "meaning": "The state to which the Stone is reduced by dissolution in its own mercury.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "that it may be reduced into its first Matter",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "QUOTED: Arnold"
+    },
+    {
+      "term": "Arcanum",
+      "variants": [],
+      "meaning": "The Adepts' secret, whose Theory shows the medium by which the Royal Diadem is extracted; dissolution is impossible without it.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "it will be entirely impossible to accomplish without the Theory of their Arcanum",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "QUOTED: Urbigeranus and other Adepts"
+    },
+    {
+      "term": "Royal Diadem",
+      "variants": [],
+      "meaning": "What is extracted from the Sordid Subject by the medium the Arcanum shows; not further explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the medium by which the Royal Diadem may be extracted from our Sordid Subject",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "QUOTED: Urbigeranus and other Adepts"
+    },
+    {
+      "term": "Sphinx",
+      "variants": [],
+      "meaning": "A power whose dominion returns if the dissolution is left incomplete before 'the total solution of her enigma'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the Sphinx should retrieve her dominion unawares and frustrate the work begun",
+          "ref": "IV.1 ¶7"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Celestial Ploughshare",
+      "variants": [],
+      "meaning": "Image of the incessant, repeated purifying labor that clears the wasted field of human life.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "to clear the wasted field of human life, and harrow it for a more congenial growth",
+          "ref": "IV.1 ¶9"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "decoction",
+      "variants": [
+        "decoctio",
+        "decocted"
+      ],
+      "meaning": "The cooking process, carried on linearly until complete.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "donec decoctio compleatur",
+          "ref": "IV.1 ¶9"
+        }
+      ],
+      "voice": "QUOTED: Zachary"
+    },
+    {
+      "term": "Preparing Spirit",
+      "variants": [
+        "the Spirit preparing its body"
+      ],
+      "meaning": "The spirit that dissolves and cleanses the body of Light and extracts from it a Second, tinging Spirit.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The Preparing Spirit dissolves the body of Light, and cleanses it from the corrupting causes",
+          "ref": "IV.1 ¶10"
+        }
+      ],
+      "voice": "QUOTED: the Adept"
+    },
+    {
+      "term": "body of Light",
+      "variants": [],
+      "meaning": "The body dissolved and cleansed by the Preparing Spirit, from which a tinging spirit is extracted.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "dissolves the body of Light",
+          "ref": "IV.1 ¶10"
+        }
+      ],
+      "voice": "QUOTED: the Adept"
+    },
+    {
+      "term": "Second Spirit",
+      "variants": [
+        "tinging spirit"
+      ],
+      "meaning": "A spirit 'subsisting and tinging in the body', extracted by the Preparing Spirit.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "extracts a Second Spirit subsisting and tinging in the body",
+          "ref": "IV.1 ¶10"
+        },
+        {
+          "text": "extracting from it the tinging spirit",
+          "ref": "IV.1 ¶10"
+        }
+      ],
+      "voice": "QUOTED: the Adept"
+    },
+    {
+      "term": "Argent vive",
+      "variants": [],
+      "meaning": "At first gross, unclean, fugitive, mixed with extraneous Sulfurs; cleansed by Art and coagulated by its own internal sulfur, red and white; then subtle, penetrative, resolving mineral bodies; decocted linearly and generated pontically.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "this Argent vive was at first gross, unclean, fugitive, being mingled with extraneous Sulfurs",
+          "ref": "IV.1 ¶10"
+        },
+        {
+          "text": "this Argent vive, which is decocted linearly, is generated pontically",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "QUOTED: the Adept; ATWOOD"
+    },
+    {
+      "term": "Sulfur",
+      "variants": [
+        "Sulfurs",
+        "sulfur"
+      ],
+      "meaning": "Extraneous Sulfurs defile the Argent vive; its own internal sulfur, red and white, coagulates it.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "being mingled with extraneous Sulfurs",
+          "ref": "IV.1 ¶10"
+        },
+        {
+          "text": "coagulated by its own internal sulfur, red and white",
+          "ref": "IV.1 ¶10"
+        }
+      ],
+      "voice": "QUOTED: the Adept"
+    },
+    {
+      "term": "pontically",
+      "variants": [],
+      "meaning": "Manner in which the Argent vive is generated, 'as it were by a reciprocal alternation, distributing its advanced virtue by hand to hand'; not otherwise explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "is generated pontically, as it were by a reciprocal alternation",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "First Operation",
+      "variants": [],
+      "meaning": "The laborious manual first stage, the most tedious work, concerned with disposing the matter as first found; contrasted with the Second, where Nature works alone.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "there is no work more tedious than our First Operation",
+          "ref": "IV.1 ¶6"
+        },
+        {
+          "text": "nothing can be achieved in the First Operation without sweating and much labor",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "First Work",
+      "variants": [],
+      "meaning": "Accomplished by assiduity and industry, with the Divine blessing and a good principle to begin with.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "it is by assiduity and industry that we accomplish the First Work",
+          "ref": "IV.1 ¶6"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Supernatural Work",
+      "variants": [],
+      "meaning": "A later work whose commencement Eirenaeus says he is not speaking of when describing the literal labor on things as first found.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "I am not speaking here indeed of the commencement of the Supernatural Work, but of things as we first find them",
+          "ref": "IV.1 ¶6"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Second (Operation)",
+      "variants": [],
+      "meaning": "Stage in which Nature alone operates, without hands, by well-regulated external fire.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "In the Second, however, Nature alone operates, and without any imposition of hands",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "external fire",
+      "variants": [],
+      "meaning": "The well-regulated heat that alone assists Nature in the Second operation.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by the sole assistance of a well-regulated external fire",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "philosophic Eagles",
+      "variants": [],
+      "meaning": "Their exact preparation is the first degree of perfection in the Art; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the exact preparation of the philosophic Eagles may be considered the first degree of perfection in this Art",
+          "ref": "IV.1 ¶11"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Keys",
+      "variants": [],
+      "meaning": "Means the Alchemists delivered for entering the sanctuary of philosophy; they do not unfold the first approach.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "delivered many Keys, whereby, as they say, we may enter into the sanctuary of philosophy",
+          "ref": "IV.1 ¶3"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Arcanum Ignis Aquae",
+      "work": "Arcanum Ignis Aquae Resp. 6",
+      "quote": "Dii sudoribus vendunt Artes",
+      "use": "Chapter epigraph; sets the theme of labor (arts bought by sweat).",
+      "refs": [
+        "IV.1 ¶1"
+      ]
+    },
+    {
+      "name": "the Monk Basil (B. Valentine)",
+      "work": "Triumphal Chariot of Antimony",
+      "quote": "more is learned by once seeing the work done, than can be taught by the writing of many pages",
+      "use": "Supports: preparation of the subject by manual operation, which draws out the hidden nature; experience and seeing over writing.",
+      "refs": [
+        "IV.1 ¶2",
+        "IV.1 n1"
+      ]
+    },
+    {
+      "name": "maxim 'Physician, heal thyself'",
+      "work": null,
+      "quote": "Physician, heal thyself",
+      "use": "Cited within Basil's passage: the praise of the science consists in experience.",
+      "refs": [
+        "IV.1 ¶2"
+      ]
+    },
+    {
+      "name": "Kirchringius",
+      "work": null,
+      "quote": null,
+      "use": "Reference only (cited 'in Basil, idem').",
+      "refs": [
+        "IV.1 n1"
+      ]
+    },
+    {
+      "name": "Antiquity",
+      "work": null,
+      "quote": null,
+      "use": "Source of the celebrated image of the Brazen Wall.",
+      "refs": [
+        "IV.1 ¶4"
+      ]
+    },
+    {
+      "name": "Albertus (Alberti mag.)",
+      "work": "Secret. Tact. Alberti mag.; Ars Aurifera, p. 130",
+      "quote": "Take the occult Nature, which is our Brass",
+      "use": "Supports: purification of the occult Nature (our Brass) by successive dissolution and coagulation, beginning with perfect solution.",
+      "refs": [
+        "IV.1 ¶4",
+        "IV.1 n2"
+      ]
+    },
+    {
+      "name": "Lully (R. Lully)",
+      "work": "Theoria et Pratica",
+      "quote": "comes not but by help of ingenuity, and the Manual operations of man",
+      "use": "Supports: the hand as instrument; the Mercury of the philosophers needs manual operation.",
+      "refs": [
+        "IV.1 ¶5",
+        "IV.1 n3"
+      ]
+    },
+    {
+      "name": "Vaughan",
+      "work": "Coelum Terrae",
+      "quote": "nature is not moved by theory alone, but by sagacious Handicraft and human assistance",
+      "use": "Supports: necessity of handwork and human assistance.",
+      "refs": [
+        "IV.1 ¶5",
+        "IV.1 n3"
+      ]
+    },
+    {
+      "name": "the author of the Filum Ariadne",
+      "work": "Le Filet d’Aridane",
+      "quote": "Nature cannot of herself enter into the dissolution",
+      "use": "Supports: the dissolution needs hands, which Nature lacks.",
+      "refs": [
+        "IV.1 ¶5",
+        "IV.1 n3"
+      ]
+    },
+    {
+      "name": "Van Helmont (Helmont)",
+      "work": "Oreatrike",
+      "quote": "The Hand, says Van Helmont, is the instrument of instruments",
+      "use": "Supports: the Hand as the soul's instrument (¶5); learners must buy coals and fire and labor as philosophers did (¶7).",
+      "refs": [
+        "IV.1 ¶5",
+        "IV.1 ¶7",
+        "IV.1 n3",
+        "IV.1 n9"
+      ]
+    },
+    {
+      "name": "Norton",
+      "work": "Ordinal",
+      "quote": null,
+      "use": "Cited in n3; in ¶9 his and his brother Adepts' advice on the choice of servants and their qualifications illustrates the need for assistants.",
+      "refs": [
+        "IV.1 n3",
+        "IV.1 ¶9"
+      ]
+    },
+    {
+      "name": "Crollius",
+      "work": "Phil., p.10",
+      "quote": "these Chemical Secrets will never be fingered by those slothful or sottish despisers of them",
+      "use": "Supports operator requirements: the slothful and profane are unfit for the work.",
+      "refs": [
+        "IV.1 ¶6",
+        "IV.1 n4"
+      ]
+    },
+    {
+      "name": "Eirenaeus",
+      "work": "Introit. Apert., cap. 8; Introitis Apertus, cap. 7",
+      "quote": "there is no work more tedious than our First Operation",
+      "use": "Supports: the First Operation is literal, tedious labor needing attention and sagacity; distinguishes it from the Second, where Nature works alone by external fire.",
+      "refs": [
+        "IV.1 ¶6",
+        "IV.1 ¶11",
+        "IV.1 n5",
+        "IV.1 n13"
+      ]
+    },
+    {
+      "name": "Hermes",
+      "work": null,
+      "quote": "I spared no labor either of mind or body",
+      "use": "Cited by Eirenaeus: supports the necessity of labor.",
+      "refs": [
+        "IV.1 ¶6"
+      ]
+    },
+    {
+      "name": "Solomon",
+      "work": null,
+      "quote": "The desire of the idle shall cause him to perish",
+      "use": "Proverb cited by Eirenaeus against idleness.",
+      "refs": [
+        "IV.1 ¶6"
+      ]
+    },
+    {
+      "name": "Morien",
+      "work": "Morieni de Tans. Metal.",
+      "quote": null,
+      "use": "Cited by Eirenaeus: warned King Calid that many philosophers were overcome by the fatigue of this work.",
+      "refs": [
+        "IV.1 ¶6",
+        "IV.1 n5"
+      ]
+    },
+    {
+      "name": "Arnold (Arnoldi)",
+      "work": "Rosar., cap. 9, lib. 1",
+      "quote": "The work of philosophers, says Arnold, is to dissolve the Stone in its own mercury",
+      "use": "Supports: the work is dissolution of the Stone in its own mercury to first Matter.",
+      "refs": [
+        "IV.1 ¶7",
+        "IV.1 n6"
+      ]
+    },
+    {
+      "name": "Urbigeranus, the author of the Hermetic Secret",
+      "work": "Hermetic Secret",
+      "quote": null,
+      "use": "Styles the labor a labor of Hercules; with 'these Adepts', holds it impossible without the Theory of their Arcanum.",
+      "refs": [
+        "IV.1 ¶7"
+      ]
+    },
+    {
+      "name": "the wise author of the Rosarium",
+      "work": "Rosar., cap.3",
+      "quote": "Tere, coque, et reitera, et non te taedeat",
+      "use": "Supports: grind, coct, and repeat without weariness.",
+      "refs": [
+        "IV.1 ¶7",
+        "IV.1 n7"
+      ]
+    },
+    {
+      "name": "the Spirit to Dr Dee",
+      "work": "Dee’s Conversat.",
+      "quote": "to fight against the Powers of Darkness requires great force",
+      "use": "Supports steadfast continuance of labor to the end.",
+      "refs": [
+        "IV.1 ¶7",
+        "IV.1 n8"
+      ]
+    },
+    {
+      "name": "Digby",
+      "work": "Lucerna Salis, Dialog.",
+      "quote": null,
+      "use": "Reference for kings and powerful princes setting their hand to the work.",
+      "refs": [
+        "IV.1 ¶7",
+        "IV.1 n10"
+      ]
+    },
+    {
+      "name": "Ovidii",
+      "work": "Metam., lib. 1, 64",
+      "quote": "Ardua prima via est",
+      "use": "Illustrates the steepness of the first way.",
+      "refs": [
+        "IV.1 ¶8",
+        "IV.1 n11"
+      ]
+    },
+    {
+      "name": "the wise poet, in his Georgics",
+      "work": "Georgics",
+      "quote": null,
+      "use": "Said to teach the repeated labor of ploughing and clearing the field.",
+      "refs": [
+        "IV.1 ¶9"
+      ]
+    },
+    {
+      "name": "Zachary (Zacharius)",
+      "work": "Opusc. Lucerna Salis",
+      "quote": "there is indeed but one way of working, in one matter, one linear way throughout",
+      "use": "Supports: despite many furnaces and vessels, one method, one matter, one vessel.",
+      "refs": [
+        "IV.1 ¶9",
+        "IV.1 n12"
+      ]
+    },
+    {
+      "name": "the Adept",
+      "work": null,
+      "quote": "the advantages of the Spirit preparing its body and extracting from it the tinging spirit",
+      "use": "Describes the Preparing Spirit and the cleansing of the Argent vive.",
+      "refs": [
+        "IV.1 ¶10"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "For this is that Brazen Wall celebrated by Antiquity",
+      "ref": "IV.1 ¶4",
+      "readings": [
+        "'this' is the unpurified ether / circulating body with its wild affections and impressures: the barrier itself",
+        "'this' is the purifying dissolution: the passage that must be gone through"
+      ],
+      "basis": "The sentence follows directly on 'depriving the ether of its wild affections ... by a dissolution of the circulating body in its own blood'; 'must be scaled, and passed through' fits a barrier, while Albertus' 'occult Nature, which is our Brass' that follows fits the impure substance, though no identity of Brass and Brazen Wall is asserted."
+    },
+    {
+      "quote": "a dissolution of the circulating body in its own blood",
+      "ref": "IV.1 ¶4",
+      "readings": [
+        "the same operation as dissolving 'the Stone in its own mercury' (¶7)",
+        "a distinct description; the chunk asserts no identity"
+      ],
+      "basis": "Both describe dissolving the subject in its own [x] at the beginning of the work (IV.1 ¶4 'perfect solution'; IV.1 ¶7)."
+    },
+    {
+      "quote": "volatile, immanifest, phantastic, irrational, and important",
+      "ref": "IV.1 ¶4",
+      "readings": [
+        "'important' as printed",
+        "a word of deficiency, possibly misprinted (the list otherwise names defects 'compared with what it subsequently is become')"
+      ],
+      "basis": "IV.1 ¶4; the text gives no gloss."
+    },
+    {
+      "quote": "many ways of including the sensible medium",
+      "ref": "IV.1 ¶5",
+      "readings": [
+        "'including' as printed (enclosing or containing the medium)",
+        "possible misprint for a word meaning bringing on the medium"
+      ],
+      "basis": "IV.1 ¶5 pairs it with 'unfolding the interior light temporarily', i.e. the entrancing means of ¶3-4."
+    },
+    {
+      "quote": "which moreover are tried in a double, single manifold, and triply complicated sense",
+      "ref": "IV.1 ¶9",
+      "readings": [
+        "the servants' capacities and qualifications are tested in several ways",
+        "Norton's advice itself is to be read on several levels of meaning"
+      ],
+      "basis": "'which' may refer to 'capacities and qualifications' or to 'the advice'; the chunk does not explain."
+    },
+    {
+      "quote": "for this Argent vive was at first gross, unclean, fugitive",
+      "ref": "IV.1 ¶10",
+      "readings": [
+        "'this Argent vive' is the tinging spirit just named",
+        "it is the Preparing Spirit itself, which prepares its own body"
+      ],
+      "basis": "It follows 'extracting from it the tinging spirit: for'; but it is also said to be 'coagulated by its own internal sulfur' and 'resolving the bodies mineral', matching the Preparing Spirit that 'reduces the bodies by dissolution into itself'."
+    },
+    {
+      "quote": "generated pontically, as it were by a reciprocal alternation, distributing its advanced virtue by hand to hand",
+      "ref": "IV.1 ¶11",
+      "readings": [
+        "virtue passed alternately between the hands of operators (cf. 'the hand or eye of another', ¶4; servants and assistance, ¶9)",
+        "a back-and-forth alternation within a single manual process"
+      ],
+      "basis": "IV.1 ¶11; IV.1 ¶4; IV.1 ¶9. 'pontically' is not explained in the chunk."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "IV.1 ¶1",
+      "original": "Dii sudoribus vendunt Artes",
+      "translation": "The gods sell the arts for sweat.",
+      "by": "ours"
+    },
+    {
+      "ref": "IV.1 ¶7",
+      "original": "Opus namque philosophorum, est dissolvere Lapidem in suum Mercurium, ut in priman reducatur materiam",
+      "translation": "The work of philosophers, says Arnold, is to dissolve the Stone in its own mercury, that it may be reduced into its first Matter.",
+      "by": "book"
+    },
+    {
+      "ref": "IV.1 ¶7",
+      "original": "Tere, coque, et reitera, et non te taedeat",
+      "translation": "Grind, coct, says the wise author of the Rosarium, and reiterate your labor and be not weary",
+      "by": "book"
+    },
+    {
+      "ref": "IV.1 ¶8",
+      "original": "Ardua prima via est; et qua vix mane recentes Enitantur equi",
+      "translation": "The first way is steep, and such that the horses, fresh in the morning, can scarcely struggle up it.",
+      "by": "ours"
+    },
+    {
+      "ref": "IV.1 ¶9",
+      "original": "Unicus operandi modu in unico vase, in unica fornacula, praeter a motionem, donec decoctio compleatur",
+      "translation": "One mode of working, in one vessel, in one small furnace, apart from removal, until the decoction is complete. (The preceding English in the book paraphrases it: 'one way of working, in one matter, one linear way throughout, one vessel uniform throughout, except removal'.)",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "IV.1 ¶2",
+      "note": "'Next to the preliminary aids already noted, and a sufficient theory' points back to earlier parts for the preparatory aids and theory."
+    },
+    {
+      "ref": "IV.1 ¶4",
+      "note": "'as we have repeatedly shown' that entrancing is only a beginning of the Hermetic art: points to earlier demonstrations."
+    },
+    {
+      "ref": "IV.1 ¶5",
+      "note": "'at this late stage of inquiry': Atwood places the practice after the theoretical parts."
+    },
+    {
+      "ref": "IV.1 ¶6",
+      "note": "'the Supernatural Work' is distinguished from the First Operation but not described here."
+    },
+    {
+      "ref": "IV.1 ¶11",
+      "note": "'But our evidence runs in advance': the account of the Preparing Spirit and Argent vive (¶10-11) anticipates later material."
+    },
+    {
+      "ref": "IV.1 ¶11",
+      "note": "Eirenaeus' 'Second' operation, where Nature alone works by external fire, is mentioned but not described here."
+    }
+  ]
+}

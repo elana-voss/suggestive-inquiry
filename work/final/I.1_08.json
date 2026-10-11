@@ -1,0 +1,975 @@
+{
+  "chunk": "I.1_08",
+  "gist": "Atwood closes her survey of adepts with Thomas Vaughan, notes the vast extent of Hermetic literature, and then argues from the testimony of sincere, disinterested adepts who claim tangible transmutation that Alchemy can be neither fraud nor self-delusion; she ends by explaining why the world rejects it: the adepts concealed the Subject and deliberately scrambled their writings.",
+  "notes": [
+    {
+      "point": "Thomas Vaughan (Eugenius Philalethes), distinct from but confounded with Eirenaeus, wrote treatises on the higher grounds of the science; mentioning gold-making only casually and giving no sophistic practical order, he repels impertinent inquiry and leads to the only valuable speculation. Atwood judges he shows 'the one Art and medium of vital perfectibility' more clearly than any English author. His works are listed.",
+      "refs": [
+        "I.1 ¶74"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Vaughan reportedly died extraordinarily, 'something after the manner of Virgil's', from an overdose of the elixir; as the narrative runs, 'the subtle light of life' was swallowed by 'a greater flame'. Agrippa similarly says Alexander's preceptor, entrusted with his life, body and soul, killed him with 'the venom of the waters of the Styx'.",
+      "refs": [
+        "I.1 ¶74",
+        "I.1 n94"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Authors are counted at 4000 by some, 2500 by Borricius; Dufresnoy, ignorant of the subject, excluded books by title rather than matter. Large collections exist at the Bodlerian, the Royal Library of France, the Vatican and the Escurial.",
+      "refs": [
+        "I.1 ¶75",
+        "I.1 n95",
+        "I.1 n96",
+        "I.1 n97"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The Art now survives only in archives; an Alchemist is thought insane, and the prejudice outweighs reason and authority. As folly, Alchemy implies ages of fraud among revered authorities; if its religious professors were sincere, delusion is unlikely, since transmutation was a proof addressed to the senses.",
+      "refs": [
+        "I.1 ¶76"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Testimonies: Van Helmont projected a quarter grain on eight ounces of boiling quicksilver, obtaining nearly eight ounces of gold; Paracelsus describes the tincture's astral fire, colour, weight and transmuting force; Friar Bacon, Lully and Arnold saw and touched the perfect thing transmuting; Geber's writings were proved by experiment and he handled the completed magistery; Pico saw gold and silver made and made them himself.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n98",
+        "I.1 n99",
+        "I.1 n100",
+        "I.1 n101",
+        "I.1 n102",
+        "I.1 n103"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "These are offered not as proof but to prompt inquiry: public transmutations before Gustavus Adolphus (1620, gold coined into medals) and the king of Prussia (Berlin, 1710), and Kircher's and Helvetius's accounts, show the evidence was 'clean, experimental and determinable'.",
+      "refs": [
+        "I.1 ¶77",
+        "I.1 ¶78",
+        "I.1 n104"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Deception would have to be wilful, yet the adepts were hermits, ecclesiastics, physicians and men of rank who often renounced wealth for the science and religion. Ripley offered his king to show the Stone working and unfold the whole confection, on condition of secrecy and godly use.",
+      "refs": [
+        "I.1 ¶79",
+        "I.1 ¶80",
+        "I.1 n105"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Self-deception is still less likely with tangible facts: Khunrath promises the reader will handle and see Azoth, and says he healed neighbours with the universal tincture.",
+      "refs": [
+        "I.1 ¶81"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Fair testimony makes disbelief hard; reason can prompt the investigation that should precede experiment, which the multitude avoid. Lord bacon and Newton recognized the possibility and, though unsuccessful, never condemned the tradition.",
+      "refs": [
+        "I.1 ¶82"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The world rejects what it was not taught, and research into possibilities seems too arduous. The adepts never declared even the common Subject, leaving errors about salts, sulfurs and mercuries; their literature is a chaos of metaphor and enigma, inverted in order and scattered with repetitions by cabalistic artifice, so even holders of the key reach only the vestibule. Norton: each master disclosed but a part.",
+      "refs": [
+        "I.1 ¶82",
+        "I.1 ¶83",
+        "I.1 n107"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "result",
+      "veiled": "the one Art and medium of vital perfectibility",
+      "ref": "I.1 ¶74",
+      "plain": "The Art is a single means of perfecting life (vital perfectibility), as opposed to gold-making.",
+      "status": "interpreted",
+      "basis": "I.1 ¶74: Vaughan is praised because he makes only casual reference to gold-making and leads instead to 'the true and only valuable speculation'; in that context the Art is characterised by vital perfection rather than metallic gain. The chunk does not say further what 'vital perfectibility' consists in.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "repelling impertinent inquiry, he leads at once to the true and only valuable speculation of the subject",
+      "ref": "I.1 ¶74",
+      "plain": "Gold-making and step-by-step practical recipes are not the valuable part of the subject; the higher speculation is.",
+      "status": "interpreted",
+      "basis": "I.1 ¶74: Vaughan 'is at little pains to attract' toward gold-making or to give 'any sophistic order of practical operation', and this is what leads to the only valuable speculation.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the universal spirit of nature, with its strange, abstruse, and miraculous ascent and descent",
+      "ref": "I.1 ¶74",
+      "plain": "A universal spirit of nature that ascends and descends is a topic of Vaughan's writing on the science; this chunk does not explain it.",
+      "status": "interpreted",
+      "basis": "I.1 ¶74: given only as the description of Vaughan's Anima Magia Abscondita, among works on 'the higher grounds of this mystic science'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "that secret fountain whose water flows from fire",
+          "ref": "I.1 ¶74"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "the subtle light of life should in these instances have been swallowed up in the superior attraction of a greater flame",
+      "ref": "I.1 ¶74",
+      "plain": "The elixir can kill: Vaughan reportedly died from an overdose of it, explained, 'as the narrative runs', as the individual's life being absorbed into a stronger fire.",
+      "status": "interpreted",
+      "basis": "I.1 ¶74: the sentence follows directly on 'from an overdose of the elixir' and is offered as why such a death should not 'appear wonderful'. The explanation is given 'as the narrative runs', so whether Atwood adopts it is unclear.",
+      "voice": "UNCLEAR",
+      "also": [
+        {
+          "text": "an overdose of the elixir",
+          "ref": "I.1 ¶74"
+        },
+        {
+          "text": "administering the venom of the waters of the Styx",
+          "ref": "I.1 ¶74"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "the transmutation of metallic bodies was a proof addressed to the senses",
+      "ref": "I.1 ¶76",
+      "plain": "The adepts' claim was checkable by the senses: base metal visibly became gold.",
+      "status": "stated",
+      "basis": "I.1 ¶76, ¶77 ('the evidence of Alchemy was neither abstract nor hidden'), ¶81 ('their problem being one of tangible facts').",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "with thine own hands thou shalt handle and with thine own eyes thou shalt see Azoth",
+          "ref": "I.1 ¶81"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "projected the fourth part of one grain, wrapped in paper, upon eight ounces of quicksilver boiling in a crucible",
+      "ref": "I.1 ¶76",
+      "plain": "Projection: a tiny weight of the Stone (powder) is cast onto boiling quicksilver, which then sets and yields gold; Van Helmont reckons one grain transmutes 19,186 parts.",
+      "status": "stated",
+      "basis": "I.1 ¶76: Van Helmont's account describes the operation and its outcome directly.",
+      "voice": "QUOTED: Van Helmont",
+      "also": [
+        {
+          "text": "the quicksilver, with a small voice, presently stood in its flux, and was congealed like to yellow wax",
+          "ref": "I.1 ¶76"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "has within it an astral fire which conquers all things and changes them into a nature like itself",
+      "ref": "I.1 ¶76",
+      "plain": "The tincture works by an inner fire that assimilates other things to its own nature.",
+      "status": "stated",
+      "basis": "I.1 ¶76: Paracelsus states the mechanism directly.",
+      "voice": "QUOTED: Paracelsus",
+      "also": [
+        {
+          "text": "by its transmuting force all imperfect metals are changed",
+          "ref": "I.1 ¶76"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "It is of a ruby color of the greatest weight; and this is a true sign of the tincture of the philosophers",
+      "ref": "I.1 ¶76",
+      "plain": "Marks of the finished tincture: deep red (saffron/ruby) powder, very heavy, fixed and unchanging, yet liquid like resin, transparent like crystal, brittle like glass.",
+      "status": "stated",
+      "basis": "I.1 ¶76: Paracelsus calls these properties 'a true sign'.",
+      "voice": "QUOTED: Paracelsus",
+      "also": [
+        {
+          "text": "a powder having the reddest color, almost like saffron",
+          "ref": "I.1 ¶76"
+        },
+        {
+          "text": "it is a most fixed substance and immutable in the multiplication",
+          "ref": "I.1 ¶76"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "this gold is better than the gold of the mines",
+      "ref": "I.1 ¶76",
+      "plain": "The product surpasses natural gold, and medicines can be made from it; Khunrath says he healed the sick with the tincture.",
+      "status": "stated",
+      "basis": "I.1 ¶76 (Paracelsus), I.1 ¶81 (Khunrath).",
+      "voice": "QUOTED: Paracelsus",
+      "also": [
+        {
+          "text": "out of it may be prepared better medicines and arcane",
+          "ref": "I.1 ¶76"
+        },
+        {
+          "text": "used it efficaciously towards my poor neighbors in most desperate cases",
+          "ref": "I.1 ¶81"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "By the goodness of God’s instigation and by our own incessant labor",
+      "ref": "I.1 ¶76",
+      "plain": "Success comes through divine prompting together with persistent work, checked by experiment and reasoning.",
+      "status": "stated",
+      "basis": "I.1 ¶76: Geber names both; Friar Bacon, Lully and Arnold likewise saw the result only 'after much labor and industry'.",
+      "voice": "QUOTED: Geber",
+      "also": [
+        {
+          "text": "according as we found them by experiment and reason",
+          "ref": "I.1 ¶76"
+        },
+        {
+          "text": "after much labor and industry",
+          "ref": "I.1 ¶76"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "That to yourself ye shall keep yt secretly; And only yt use, as may be God’s pleasure,",
+      "ref": "I.1 ¶80",
+      "plain": "The secret is passed on only conditionally: the recipient must keep it secret and use it only as God wills; otherwise the teacher would have to answer to God for disclosing it.",
+      "status": "stated",
+      "basis": "I.1 ¶80: Ripley's conditions; I.1 ¶79 calls this promising to 'unfold the whole confection conditionally'. The penalty clause rests partly on our translation of the Middle English.",
+      "voice": "QUOTED: Ripley",
+      "also": [
+        {
+          "text": "Els in tyme comynge of God I shoulde abye For my discoveringe of hys secret treasurye",
+          "ref": "I.1 ¶80"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "Azoth, viz., the Universal Mercury, which alone with its internal and external fire is sufficient for thee",
+      "ref": "I.1 ¶81",
+      "plain": "Azoth is the Universal Mercury; with its own inner and outer fire it alone suffices for the work and changes into whatever it will by fire.",
+      "status": "stated",
+      "basis": "I.1 ¶81: Khunrath identifies Azoth with the Universal Mercury ('viz.') and states its sufficiency.",
+      "voice": "QUOTED: H. Khunrath",
+      "also": [
+        {
+          "text": "which transforms itself into what it will by the fire",
+          "ref": "I.1 ¶81"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "the universal tincture, and the blood of the Lion, which is the gold of the philosophers",
+      "ref": "I.1 ¶81",
+      "plain": "The universal tincture / blood of the Lion is identified as the gold of the philosophers, a substance Khunrath says he received, handled and used.",
+      "status": "stated",
+      "basis": "I.1 ¶81: explicit 'which is'. Whether the identity covers both names or only 'the blood of the Lion' is unclear (see ambiguities).",
+      "voice": "QUOTED: H. Khunrath",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "strict investigation and thought which should always precede experiment",
+      "ref": "I.1 ¶82",
+      "plain": "Careful study and reasoning must come before practical trials; those who skip it go astray and learn only by chance.",
+      "status": "stated",
+      "basis": "I.1 ¶82: Atwood states this directly and says the multitude 'are consequently led astray in progress, and learn as it were by chance'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "they would not, not have they anywhere openly declared, even the common Subject of their Art",
+      "ref": "I.1 ¶82",
+      "plain": "The adepts never openly named the material the Art works on; the familiar names (salts, sulfurs, mercuries, etc.) led people into error about it.",
+      "status": "interpreted",
+      "basis": "I.1 ¶82: the Subject was undeclared and mankind was left 'to imagine ... all that was erroneous concerning it, as of their salts, sulfurs, mercuries'. Whose imaginings these are is unclear (see ambiguities).",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "left mankind to imagine, as they did, all that was erroneous concerning it, as of their salts, sulfurs, mercuries, magic elements, and occult confections",
+          "ref": "I.1 ¶82"
+        },
+        {
+          "text": "behind some clouded metaphor or word of warning that the secret of the ages may not be profaned",
+          "ref": "I.1 ¶82"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "the Hermetic discourses are not infrequently found introverted in their order, and dispersed with repetitions, to prevent the truth from becoming openly obvious",
+      "ref": "I.1 ¶82",
+      "plain": "Reading rule: the texts are deliberately out of sequence, padded with repetition, and each author gives only part, so the reader must reassemble and reorder the pieces across authors.",
+      "status": "interpreted",
+      "basis": "I.1 ¶82 states the devices and purpose; I.1 ¶83 (Norton) adds that each master 'disclosed but a parte' and the reader 'cannot order or joine them'. That the remedy is reassembly is inferred from Norton's complaint.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Every and each of them disclosed but a parte",
+          "ref": "I.1 ¶83"
+        },
+        {
+          "text": "A variety of artifices according to the cabalistic method",
+          "ref": "I.1 ¶82"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Alchemy",
+      "variants": [
+        "Alchemist"
+      ],
+      "meaning": "The ancient Art, also called the Hermetic art; preserved now only in archives and despised by the public, either the acme of folly or 'the recondite perfection of wisdom and causal science'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "whether as the acme of human folly, or contrariwise, as the recondite perfection of wisdom and causal science",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hermetic art",
+      "variants": [
+        "Hermetic ground"
+      ],
+      "meaning": "The Art the adepts profess; its literature is deliberately obscure.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the Hermetic ground is as far out of the road of common thought as if it were tabooed",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Stone",
+      "variants": [
+        "philosophers’ stone"
+      ],
+      "meaning": "The object of the Art; Van Helmont 'handled' it and projected it as a powder; Ripley offered to show its 'actual working'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "I have seen the Stone and handled it",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "elixir",
+      "variants": [],
+      "meaning": "A product of the Art that can be taken; an overdose reportedly killed Vaughan.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "from an overdose of the elixir",
+          "ref": "I.1 ¶74"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "tincture",
+      "variants": [
+        "tincture of gold",
+        "tincture of the philosophers",
+        "universal tincture"
+      ],
+      "meaning": "The transmuting substance: a heavy red powder with an astral fire that turns imperfect metals into gold better than mined gold; also medicinal.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Our tincture of gold",
+          "ref": "I.1 ¶76"
+        },
+        {
+          "text": "this is a true sign of the tincture of the philosophers",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Paracelsus"
+    },
+    {
+      "term": "blood of the Lion",
+      "variants": [],
+      "meaning": "Name Khunrath uses alongside the universal tincture for what he received.",
+      "equivalences": [
+        {
+          "with": "gold of the philosophers",
+          "quote": "the blood of the Lion, which is the gold of the philosophers",
+          "ref": "I.1 ¶81"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: H. Khunrath"
+    },
+    {
+      "term": "philosophers’ gold",
+      "variants": [
+        "gold of the philosophers"
+      ],
+      "meaning": "The transmuting powder Van Helmont projected; in Khunrath, identified with the blood of the Lion (possibly also the universal tincture; see ambiguities).",
+      "equivalences": [
+        {
+          "with": "blood of the Lion",
+          "quote": "the blood of the Lion, which is the gold of the philosophers",
+          "ref": "I.1 ¶81"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "one grain of the philosophers’ gold upon some thousands of grains of boiling quicksilver",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Van Helmont"
+    },
+    {
+      "term": "Azoth",
+      "variants": [],
+      "meaning": "The Universal Mercury; with its internal and external fire alone sufficient, transforming itself by fire into what it will; visible and tangible.",
+      "equivalences": [
+        {
+          "with": "Universal Mercury",
+          "quote": "Azoth, viz., the Universal Mercury",
+          "ref": "I.1 ¶81"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "which alone with its internal and external fire is sufficient for thee",
+          "ref": "I.1 ¶81"
+        }
+      ],
+      "voice": "QUOTED: H. Khunrath"
+    },
+    {
+      "term": "astral fire",
+      "variants": [],
+      "meaning": "The fire within the tincture that conquers all things and assimilates them to itself.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "an astral fire which conquers all things and changes them into a nature like itself",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Paracelsus"
+    },
+    {
+      "term": "projection",
+      "variants": [
+        "projected",
+        "projections"
+      ],
+      "meaning": "Casting a small amount of the powder on boiling quicksilver to transmute it into gold.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "I have made projections divers times",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Van Helmont"
+    },
+    {
+      "term": "multiplication",
+      "variants": [],
+      "meaning": "Used of the tincture, which remains immutable in it; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "immutable in the multiplication",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Paracelsus"
+    },
+    {
+      "term": "magistery",
+      "variants": [],
+      "meaning": "Geber's word for the work whose completion he saw and handled.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the completement of matters sought after in our magistery",
+          "ref": "I.1 ¶76"
+        }
+      ],
+      "voice": "QUOTED: Geber"
+    },
+    {
+      "term": "Subject",
+      "variants": [],
+      "meaning": "The material the Art works on; never openly declared by the adepts.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "even the common Subject of their Art",
+          "ref": "I.1 ¶82"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "first matter",
+      "variants": [],
+      "meaning": "Mentioned only as the topic of an allegory in Vaughan's Lumen de Lumine; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "an allegorical display of the first matter",
+          "ref": "I.1 ¶74"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "vital perfectibility",
+      "variants": [],
+      "meaning": "What the one Art is the medium of; not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the one Art and medium of vital perfectibility",
+          "ref": "I.1 ¶74"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "protochemistry",
+      "variants": [],
+      "meaning": "The 'protochemistry of Hermes', on which Vaughan grounds his discourse on the nature of man; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "grounded on the protochemistry of Hermes",
+          "ref": "I.1 ¶74"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "universal spirit of nature",
+      "variants": [],
+      "meaning": "Subject of Vaughan's Anima Magia Abscondita, said to ascend and descend; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the universal spirit of nature, with its strange, abstruse, and miraculous ascent and descent",
+          "ref": "I.1 ¶74"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "adepts",
+      "variants": [],
+      "meaning": "The genuine masters of the Art, whose writing deliberately obscures.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the adepts appear to have a directly contrary aim",
+          "ref": "I.1 ¶82"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "key",
+      "variants": [],
+      "meaning": "Possession of the true key still gives only vestibule access when texts are scrambled.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "even to those who had already become possessed of the true key",
+          "ref": "I.1 ¶82"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "cabalistic method",
+      "variants": [],
+      "meaning": "Source of the artifices (inversion of order, dispersed repetition) used to hide the truth.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "A variety of artifices according to the cabalistic method",
+          "ref": "I.1 ¶82"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Thomas Vaughan",
+      "work": "Magia Adamica; Coelum Terrae; Anthroposophia Theomagica; Anima Magia Abscondita; Euphrates, or Waters of the East; Lumen de Lumine",
+      "quote": null,
+      "use": "Supports: praised as showing the Art of vital perfectibility most clearly of English authors; pseudonym Eugenius Philalethes; death by overdose of the elixir.",
+      "refs": [
+        "I.1 ¶74"
+      ]
+    },
+    {
+      "name": "Eirenaeus",
+      "work": null,
+      "quote": null,
+      "use": "Contrasts: the 'foregoing' adept with whom Vaughan is confounded.",
+      "refs": [
+        "I.1 ¶74"
+      ]
+    },
+    {
+      "name": "Virgil",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: his death compared to Vaughan's.",
+      "refs": [
+        "I.1 ¶74"
+      ]
+    },
+    {
+      "name": "Agrippa",
+      "work": "Vanity of the Sciences, c. 54",
+      "quote": null,
+      "use": "Illustrates: account of Alexander the Great's death by the venom of the waters of the Styx, paralleling Vaughan's.",
+      "refs": [
+        "I.1 ¶74",
+        "I.1 n94"
+      ]
+    },
+    {
+      "name": "Petri Norelli",
+      "work": "Bibliot. Chem. Paris, 1656",
+      "quote": null,
+      "use": "Reference only: for the count of 4000 authors.",
+      "refs": [
+        "I.1 ¶75",
+        "I.1 n95"
+      ]
+    },
+    {
+      "name": "Borricius",
+      "work": "De Ortu et Progressu Chimiae",
+      "quote": null,
+      "use": "Supports: counts 2500 authors; also cited for transmutation stories.",
+      "refs": [
+        "I.1 ¶75",
+        "I.1 n96",
+        "I.1 n104"
+      ]
+    },
+    {
+      "name": "L’Englet Dufresnoy",
+      "work": "Histoire Hermetique, tom. iii, in Catalogue Raisonnee des Ecrivains de cette Science, Paris, 1762",
+      "quote": null,
+      "use": "Criticized: reduced the count of authors, ignorant of the subject, excluding by title rather than matter; also cited (hist. Herm., vol. 2) for transmutation stories.",
+      "refs": [
+        "I.1 ¶75",
+        "I.1 n97",
+        "I.1 n104"
+      ]
+    },
+    {
+      "name": "Van Helmont",
+      "work": "Book of EternalLife, Ortus Med.",
+      "quote": "I have seen the Stone and handled it",
+      "use": "Supports: eyewitness projection on quicksilver yielding gold; powder received from the stranger Butler.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n98"
+      ]
+    },
+    {
+      "name": "Paracelsus",
+      "work": "Signatura Rerum",
+      "quote": "Our tincture of gold",
+      "use": "Supports: describes the tincture's astral fire, signs and transmuting and medicinal power.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n99"
+      ]
+    },
+    {
+      "name": "Friar Bacon",
+      "work": null,
+      "quote": null,
+      "use": "Supports: said he saw and touched the perfect thing transmuting.",
+      "refs": [
+        "I.1 ¶76"
+      ]
+    },
+    {
+      "name": "Lully",
+      "work": null,
+      "quote": null,
+      "use": "Supports: same testimony.",
+      "refs": [
+        "I.1 ¶76"
+      ]
+    },
+    {
+      "name": "Arnold",
+      "work": "Speculum (Speculum Alchimiae, Theat. Chem., vol. 4)",
+      "quote": null,
+      "use": "Supports: same testimony.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n100"
+      ]
+    },
+    {
+      "name": "Geber",
+      "work": "Epilogue to the Investigation of Verity, Russel’s Geber",
+      "quote": "we have searched out and found, and have seen with our eyes and handled with our hands",
+      "use": "Supports: work verified by experiment and reason; completed magistery handled.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n101",
+        "I.1 n102"
+      ]
+    },
+    {
+      "name": "Pico di Mirandola",
+      "work": "De Auro",
+      "quote": "I have seen it and done it myself",
+      "use": "Supports: a friend made gold and silver in his presence.",
+      "refs": [
+        "I.1 ¶76",
+        "I.1 n103"
+      ]
+    },
+    {
+      "name": "Gustavus Adolphus",
+      "work": null,
+      "quote": null,
+      "use": "Supports: transmutation before him in 1620, gold coined into medals.",
+      "refs": [
+        "I.1 ¶77",
+        "I.1 n104"
+      ]
+    },
+    {
+      "name": "king of Prussia",
+      "work": null,
+      "quote": null,
+      "use": "Supports: transmutation at Berlin, 1710.",
+      "refs": [
+        "I.1 ¶77",
+        "I.1 n104"
+      ]
+    },
+    {
+      "name": "Kircher",
+      "work": "Mundus Subterraneus",
+      "quote": null,
+      "use": "Supports: explicit transmutation story.",
+      "refs": [
+        "I.1 ¶77"
+      ]
+    },
+    {
+      "name": "Helvetius",
+      "work": null,
+      "quote": null,
+      "use": "Supports: explicit transmutation story.",
+      "refs": [
+        "I.1 ¶77"
+      ]
+    },
+    {
+      "name": "unattributed verse",
+      "work": null,
+      "quote": "vaguely opinable, But clean, experimental and determinable",
+      "use": "Illustrates: the evidence of Alchemy was concrete.",
+      "refs": [
+        "I.1 ¶78"
+      ]
+    },
+    {
+      "name": "Ripley",
+      "work": "Epistle to King Edward IV",
+      "quote": "Never trewly for merke nor for pounde Make yt I common",
+      "use": "Supports: offered to show his king the Stone's working, conditionally; argues against wilful deceit.",
+      "refs": [
+        "I.1 ¶79",
+        "I.1 ¶80",
+        "I.1 n105"
+      ]
+    },
+    {
+      "name": "H. Khunrath",
+      "work": "Ampitheater (Ampitheatrum Sapientae Eternae)",
+      "quote": "I write not fables",
+      "use": "Supports: tangible Azoth; received the universal tincture and healed with it; argues against self-deception.",
+      "refs": [
+        "I.1 ¶81",
+        "I.1 n106"
+      ]
+    },
+    {
+      "name": "Lord bacon",
+      "work": "Advancement of Learning",
+      "quote": null,
+      "use": "Supports: reportedly experimented toward the philosophers' stone and recognized its possibility in the Advancement of Learning; did not condemn the tradition.",
+      "refs": [
+        "I.1 ¶82"
+      ]
+    },
+    {
+      "name": "Sir Isaac Newton",
+      "work": null,
+      "quote": null,
+      "use": "Supports: recognized the possibility; did not condemn the tradition.",
+      "refs": [
+        "I.1 ¶82"
+      ]
+    },
+    {
+      "name": "Norton",
+      "work": "Norton’s Ordinal, cap. 2",
+      "quote": "Every and each of them disclosed but a parte",
+      "use": "Supports: the parts of the work are set out of order and divided among authors.",
+      "refs": [
+        "I.1 ¶83",
+        "I.1 n107"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "the universal tincture, and the blood of the Lion, which is the gold of the philosophers",
+      "ref": "I.1 ¶81",
+      "readings": [
+        "Both 'universal tincture' and 'blood of the Lion' are identified with the gold of the philosophers.",
+        "Only 'the blood of the Lion' is glossed as the gold of the philosophers, the tincture being a separate gift."
+      ],
+      "basis": "The relative 'which is' follows directly on 'the blood of the Lion'; the comma series allows either attachment."
+    },
+    {
+      "quote": "left mankind to imagine, as they did, all that was erroneous concerning it, as of their salts, sulfurs, mercuries, magic elements, and occult confections",
+      "ref": "I.1 ¶82",
+      "readings": [
+        "Mankind imagined erroneous things about the Subject (as mankind did), the salts, sulfurs etc. being false notions of it.",
+        "'As they did' means the adepts themselves spoke of salts, sulfurs, mercuries, letting readers take these names literally."
+      ],
+      "basis": "'they' may refer to 'mankind' or to the adepts; 'their salts' suggests the adepts' terms."
+    },
+    {
+      "quote": "even to those who had already become possessed of the true key; but only of the vestibule and entrance rights;",
+      "ref": "I.1 ¶82",
+      "readings": [
+        "Even holders of the true key are kept from obvious truth, having only vestibule access.",
+        "The concealment targets those who hold only the vestibule and entrance rights, not the full key."
+      ],
+      "basis": "The elliptical 'but only of' can qualify what such people possess or contrast with 'true key'."
+    },
+    {
+      "quote": "administering the venom of the waters of the Styx",
+      "ref": "I.1 ¶74",
+      "readings": [
+        "A literal poisoning of Alexander.",
+        "An analogue to Vaughan's death by the elixir, which Atwood calls 'a similar account'."
+      ],
+      "basis": "Atwood presents it as similar to death by overdose of the elixir and as administered by one to whom Alexander had entrusted 'life, body and soul'; the chunk does not explain further."
+    },
+    {
+      "quote": "Oh, how wonderful is God in his works!\" (105)",
+      "ref": "I.1 ¶81",
+      "readings": [
+        "Marker refers to n105 (Ripley's Epistle) as printed.",
+        "Misprint for (106), matching n106 'Ampitheatrum Sapientae Eternae', the Khunrath work named in ¶81."
+      ],
+      "basis": "¶80 already uses (105) for Ripley; n106 has no other marker in the text and matches 'Ampitheater'."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.1 ¶80",
+      "original": "Never trewly for merke nor for pounde Make yt I common; but to you conditionedly That to yourself ye shall keep yt secretly; And only yt use, as may be God’s pleasure, Els in tyme comynge of God I shoulde abye For my discoveringe of hys secret treasurye",
+      "translation": "Truly, never for mark nor for pound [i.e. for money] will I make it common; but to you on condition that you keep it secret to yourself and use it only as may please God; otherwise in time to come I should pay the penalty to God for disclosing his secret treasury.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶82",
+      "original": "If you consider how the partes of the werkes",
+      "translation": "If you consider how the parts of the works",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶83",
+      "original": "Be out of order set by the old clerkes, As I said before, the master of this arte, Every and each of them disclosed but a parte; Wherefore tho’ ye perceived themas ye woulde, Yet ye cannot order or joine them as ye shoulde",
+      "translation": "[If you consider how the parts of the works] are set out of order by the old scholars — as I said before, the masters of this art each disclosed only a part — then, though you perceived them as you wished, you still cannot order or join them as you should.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶74",
+      "original": "Lumen de Lumine",
+      "translation": "Light from Light",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶74",
+      "original": "Coelum Terrae",
+      "translation": "The Heaven of Earth",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶74",
+      "original": "Anima Magia Abscondita",
+      "translation": "The hidden magical soul",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶77",
+      "original": "Mundus Subterraneus",
+      "translation": "The Subterranean World",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 n106",
+      "original": "Ampitheatrum Sapientae Eternae",
+      "translation": "Amphitheatre of Eternal Wisdom",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.1 ¶74",
+      "note": "'the foregoing Eirenaeus' points back to an earlier discussion of an author named Eirenaeus, with whom Vaughan is confounded through his pseudonym Eugenius Philalethes."
+    },
+    {
+      "ref": "I.1 ¶75",
+      "note": "'The Authors we have brought forth as distinguished and genuine' refers to the survey of adepts earlier in this chapter."
+    }
+  ]
+}

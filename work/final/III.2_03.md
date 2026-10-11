@@ -1,0 +1,270 @@
+# III.2_03
+
+*Atwood closes her adept testimonies with a vision of a world-in-miniature arising from one thing in the consecrated vessel. She reads it as the whole Hermetic laboratory and the 'Genesis of Light', and describes the trials and the fermentation, threefold division and near-annihilation undergone by those who reach the Causal Truth. She then sets German metaphysics' 'pure Being = non-Being', reached by abstraction, against the Kabalists' experienced 'primitive non-Being'. Finally she argues that the Greek sages' differing first principles all name one consubstantial substance: the Celestial Elements, Hermes' Quintessence, the Hermetists' 'Earth of the Wise'.*
+
+## Argument
+
+- An Adeptus saw a friend's furnaces crowned with glass cornues, vessels holding an oblation 'dedicated to the Ternary'. In the consecrated vessel a circling mass figured the great world: earth amid clear waters, fruits, wine, oil, milk, stones, metals; a salt turning white, red, yellow, purple. All moved by its own imperceptible, ethereal fire. `III.2 ¶25, III.2 n26` — QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26)
+- From one thing, with small help, strengthened by degrees, came all this diversity, to settle at last into one body. Fusil salt is pumice stone; quicksilver (mercury) is Lully's Lunaria, rising against nature's fire, shining by night, viscous by day. Footnote parallels include Paracelsus' magical separation of the Elements. `III.2 ¶25, III.2 n27` — QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26)
+- Atwood: this depicts the whole Hermetic laboratory; the 'clarified hypostasis' is the stage where all Forms arise spontaneously, not imaginatively, as the true Genesis of Light. `III.2 ¶26` — ATWOOD
+- Virgil's verses hailing the 'Saturnia Tellus' (by our translation, the land as parent of metals, crops and men) are applied here, though Virgil 'refers all the compliment to his native soul'. `III.2 ¶27, III.2 ¶28` — ATWOOD
+- These witnesses, by 'experimental ingress' to the Vital Radix, found nature's original within themselves; those free of 'imaginative hindrance' will believe them. They passed delusions of sense and selfhood, were 'proved and reproved', then saw the Causal Truth, Light meeting Light. `III.2 ¶28` — ATWOOD
+- It unfolds a triple creative Law: mineral ('infernal motive wheel'), vegetable, Divine Image in man. In philosophic fermentation Life is transmuted into three principles (Van Helmont's Salt, Sulphur, Mercury) as the Medial Spirit's forms are extinguished; near-annihilation then draws a new seed: Night of Hippocrates to Day of Orpheus. `III.2 ¶28` — ATWOOD
+- Reason being universal, German logic reaches by abstraction what the Rabbis affirm by ontological experiment. `III.2 ¶29` — ATWOOD
+- Hegel: all begins in pure Being, a pure abstraction, which may be called non-Being. `III.2 ¶30, III.2 n28` — QUOTED: the German philosopher (Hegel)
+- Kant, Fichte, Schelling ended in that void, without passage 'to the promised shore'; yet that bounding hypostasis, met by the inquiring light within, is the Absolute Identity, prior to duality of consciousness. `III.2 ¶31` — ATWOOD
+- The Rabbi: creation from nothing means from primitive non-Being, inconceivable yet Cause of causes: the Principle or Wisdom, unknowable as it holds no subject-object distinction. `III.2 ¶31, III.2 ¶32` — QUOTED: the Rabbi
+- This accords with Hermetic, Platonic, Aristotelian doctrine. With Bacon, Atwood urges reverence for the early sages, whom Aristotle suppressed; their philosophy rested on a hidden method of ascent by gradual assimilation to the Causal Source. `III.2 ¶33, III.2 n30` — ATWOOD
+- They derived nature from 'a certain Intellect in energy'. Their principles (fire, water, earth, Intellect, Being) differ in expression only; mind and universal matter are consubstantial in their Cause. `III.2 ¶34, III.2 ¶35` — ATWOOD
+- Their elements are the Celestial Elements of Life: Plato's earth 'within the heaven'; heaven, per Proclus, intellectual contact with the intelligible; Aristotle's highest heaven, the Spirit of Universal nature, known only in conscious alliance, Hermes' Quintessence. Likewise the Hermetists, placing their earth within their heaven, call it Earth of the Wise, Olympus, Our Earth. `III.2 ¶36, III.2 n31, III.2 n32` — ATWOOD
+
+## Method
+
+- **subject** — “a certain mass moving circularly, or driven round about, and representing the very figure of the great world” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (interpreted):** The matter in the sealed vessel, in circular motion, shows within it an image of the whole world (earth, waters, fruits, metals).
+  - Basis: ¶25 places the mass 'Within this fabric (i.e., the consecrated vessel)'; ¶26 Atwood says the passage depicts 'the whole Hermetic laboratory --- furnace, fire, matter, and vessels'.
+  - Also: “the earth was to be seen standing of itself in the middest of all, compassed about with most clear waters” `III.2 ¶25`
+- **principle** — “Here we have the whole Hermetic laboratory --- furnace, fire, matter, and vessels, with their mysterious germinations, subtly depicted and set apart.” `III.2 ¶26` (ATWOOD)
+  - **Plain (stated):** Atwood says the Adeptus's vision is a veiled picture of the entire apparatus of the Art: furnace, fire, matter and vessels are all present in this one scene.
+  - Basis: ¶26 directly.
+- **result** — “this clarified hypostasis (shall we not believe in it?), is the stage of all Forms, and here they are spontaneously produced” `III.2 ¶26` (ATWOOD)
+  - **Plain (stated):** The purified substance is where all forms arise of themselves, really and not as imagination or dream. What 'clarified hypostasis' refers to is disputed (see ambiguities).
+  - Basis: ¶26: 'not in mere imagination, or as we might conceive imaginatively, or, as in a dream, shadowly; but as the true Genesis of Light.'
+  - Also: “as the true Genesis of Light” `III.2 ¶26`
+- **agent** — “All things were actuated with their own appropriate fire; but in very truth imperceptible as yet, and ethereal.” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (interpreted):** The fire that moves the work is internal to each thing in the matter; it is not a sensible fire but, at this stage, imperceptible and ethereal. The chunk does not explain it further.
+  - Basis: ¶25 wording only: 'their own appropriate fire', 'imperceptible as yet', 'ethereal'.
+- **sign** — “now white, now red, then yellow and purpled, and, as it were, chamletted with various colours” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (interpreted):** The transparent salt in the waters shows changing colours that swell up to the surface. This chunk does not explain their meaning.
+  - Basis: ¶25 only describes the colours, within the vessel.
+- **principle** — “so many things, and diverse in kind, and of such perfect particulars, should proceed from one only thing; and that, with very small assistance” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (stated):** One single matter produces all the diversity with very little outside help; strengthened gradually, it finally reunites into one body.
+  - Basis: ¶25 directly, including 'which being strengthened and furthered by degrees' and the artist's affirmation.
+  - Also: “the artist faithfully affirmed to me that all those diversities would settle at last into one body” `III.2 ¶25`
+- **subject** — “that quicksilver, which authors call mercury, to be the same with Lully’s Lunaria” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (stated):** The authors' 'mercury' (quicksilver) is identified with Lully's Lunaria. Its signs: its water rises against the fire of nature, shines by night, and is viscous by day. The chunk does not explain these signs.
+  - Basis: Identity asserted in ¶25; signs given there without gloss.
+  - Also: “whose water gets up against the fire of nature, and shines by night, but by day has a glutinous, viscous faculty” `III.2 ¶25`
+- **subject** — “that fusil kind of salt to be not different from pumice stone” `III.2 ¶25` (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - **Plain (stated):** The fusible salt seen in the waters is said to be the same as 'pumice stone'. The chunk does not explain this.
+  - Basis: Identity asserted in ¶25.
+- **procedure** — “by an experimental ingress, as they acknowledge, to the Vital Radix, have discovered the catholic original of nature” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** The adepts entered the 'Vital Radix' (vital root) by direct experiment, not theory, and found the universal origin of nature, intellectual and material, as a spectacle arising within themselves.
+  - Basis: ¶28: 'intellectual and material', 'through the arising spectacle of the Creative Majesty within themselves'; ¶29 contrasts the Rabbis 'ontologically experimenting' with logic 'by abstraction'.
+  - Also: “through the arising spectacle of the Creative Majesty within themselves” `III.2 ¶28`
+  - Also: “the Rabbis, ontologically experimenting, and guided by the same Law, affirm out of their own more proving observation and experience” `III.2 ¶29`
+- **operator** — “they had passed the turbulent delusions, not of sense only but of the selfhood, and having combated every sinister disguise in opposition, were proved and reproved” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** Before the vision the operator must overcome illusions of the senses and of the self, combat every opposing deception, and be repeatedly tested; such minds are then free of ordinary error.
+  - Basis: ¶28 directly.
+  - Also: “previous to being admitted to the apperceptive vision of the Causal Truth which they describe” `III.2 ¶28`
+  - Also: “freed moreover from the liability of error which besets ordinary minds” `III.2 ¶28`
+- **impediment** — “able to glance freely, without imaginative hindrance, into the capability of mind” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** Imagination is a hindrance: only those who look into the mind's capacity without it, judging by their own clear reason, can credit the adepts' revelation.
+  - Basis: ¶28: they 'by analogy of their own clear reason, can judge of that fontal revelation'; ¶26 likewise denies the Forms arise 'in mere imagination'.
+  - Also: “by analogy of their own clear reason, can judge of that fontal revelation” `III.2 ¶28`
+- **principle** — “fontal revelation which, when entertained in consciousness, becomes efficient” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** The source-revelation becomes active and effective once it is held in consciousness; in its simultaneous energy it is divine.
+  - Basis: ¶28 directly ('and, in its simultaneous energy, divine').
+- **result** — “when Light meeting Light, apprehends itself alone” `III.2 ¶28` (ATWOOD)
+  - **Plain (interpreted):** The vision of the Causal Truth is reached when the inner light meets the light it seeks and knows itself alone.
+  - Basis: ¶28 places it at the 'apperceptive vision of the Causal Truth'; ¶31 parallel: the hypostasis 'met by contact of the inquiring light within, is that Absolute Identity'.
+- **stage** — “the triple mystery of its creative Law throughout, from the infernal motive wheel which is the origin of the mineral kingdom, through the whole intermediate paradisiacal vegetable growth, up to the final concord of the Divine Image in man” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** The vision unfolds a threefold creative law at three levels: mineral (originating in the 'infernal motive wheel'), vegetable, and the Divine Image in man. The 'infernal motive wheel' is not explained here.
+  - Basis: ¶28 directly for the three levels.
+- **procedure** — “as Life passes through the philosophic fermentation, its substance is entirely transmuted, and the threefold property is developed, with a dividing of the heterogeneous parts, by an extinguishing of the forms and properties of the Medial Spirit” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** The fermentation acts on Life itself: it wholly changes its substance and separates it into three principles (Van Helmont's Salt, Sulphur, Mercury) by dividing the unlike parts and extinguishing the forms of the 'Medial Spirit'.
+  - Basis: ¶28 directly.
+  - Also: “resolved into these three principles, which Van Helmont also calls Salt, Sulphur, and Mercury” `III.2 ¶28`
+- **stage** — “a procedure towards a radical destruction, almost annihilating the components of the former life, which at length, in its extreme exigence, draws a new seed to begin a New Generation” `III.2 ¶28` (ATWOOD)
+  - **Plain (stated):** After the threefold division comes a near-total destruction of the old life; at its extreme it draws a new seed and a new generation begins: death and rebirth.
+  - Basis: ¶28 directly.
+- **stage** — “this is the way of the recedure to the Night of Hippocrates, leading thenceforth into the Day of Orpheus” `III.2 ¶28` (ATWOOD)
+  - **Plain (interpreted):** 'Night' most narrowly names the destructive phase and 'Day' the new generation after it; the chunk does not say why Hippocrates and Orpheus are named (see ambiguities).
+  - Basis: In ¶28 'this is the way' follows directly on the sentence about radical destruction and New Generation.
+- **impediment** — “stopped short nevertheless of objective realization on their own ground; there being arrested, faithful and as it were in view, without a means of passage to the promised shore” `III.2 ¶31` (ATWOOD)
+  - **Plain (interpreted):** Pure abstraction (Kant, Fichte, Schelling) reaches the threshold, the void non-entity, but cannot realize it and ends in skepticism; what it lacks is experiential contact.
+  - Basis: ¶29 contrasts logic 'by abstraction' with the Rabbis 'ontologically experimenting'; ¶31 names 'contact of the inquiring light within' as what turns the bound into the Absolute Identity.
+  - Also: “that truth which common logic arrives at by abstraction as an inferential necessity, is the same which the Rabbis, ontologically experimenting” `III.2 ¶29`
+- **principle** — “that very hypostasis which bounds reason in transcendental abstraction, when met by contact of the inquiring light within, is that Absolute Identity which it seeks after” `III.2 ¶31` (ATWOOD)
+  - **Plain (stated):** The ground that abstract reason reaches only as empty 'pure Being' or non-Being proves, when touched by the inner light, to be the Absolute Identity, the life of all, prior to subject-object division.
+  - Basis: ¶31 directly; ¶30 for the 'pure Being' that is 'non-Being'.
+  - Also: “which, before all duality of consciousness, is the fortitude and life of all” `III.2 ¶31`
+- **principle** — “by non-Being they mean that which is neither conceivable as cause nor as essence, but yet is in fact the Cause of causes” `III.2 ¶32` (QUOTED: the Rabbi (endorsed by Atwood, ¶33))
+  - **Plain (stated):** The 'nothing' from which all is made is not mere absence but the first Cause, prior to the universe and not bodily: the Principle or Wisdom. Atwood declares this 'precisely in accordance with the Hermetic philosophy'.
+  - Basis: ¶32; endorsement in ¶33.
+  - Also: “it is that which we call the primitive non-Being; because it is anterior to the universe” `III.2 ¶32`
+  - Also: “by it we do not signify corporeity either, but that Principle or Wisdom on which it is founded” `III.2 ¶32`
+- **impediment** — “because in non-Being, there is no distinction (as of subject and object in the consciousness by which it can be truly said to be known), no mode of true existence” `III.2 ¶32` (QUOTED: the Rabbi)
+  - **Plain (stated):** Wisdom's essence, and how it unites with life, cannot be stated, because non-Being contains no subject-object distinction by which it could be known.
+  - Basis: ¶32. The parenthesis may be Atwood's interpolation inside the Rabbi's words; the text does not mark it.
+- **procedure** — “there are methods by which an ascent may be affected from the oblivious bondage of this existence, and, through a gradual assimilation, to a survey more or less immediate of the Causal Source” `III.2 ¶33` (ATWOOD)
+  - **Plain (stated):** Atwood endorses the ancients' claim that a practical method exists: by gradual assimilation one rises from ordinary forgetful existence to a more or less direct view of the first Cause. It was unknown to the profane.
+  - Basis: ¶33 directly.
+  - Also: “belonged to an experience and method of observation, unknown to the profane multitude” `III.2 ¶33`
+- **principle** — “the mind is not without the matter (the universal element we mean), nor that matter without the mind” `III.2 ¶35` (ATWOOD)
+  - **Plain (stated):** The first Principle is mind and universal matter at once; those naming it Intellect and those naming it fire, water or earth mean one substance.
+  - Basis: ¶35; ¶34 'the substance alluded to by them all is the same'.
+  - Also: “all things, however various in manifestation, are consubstantial in their Cause” `III.2 ¶35`
+  - Also: “the substance alluded to by them all is the same” `III.2 ¶34`
+- **subject** — “their investigation concerned the prior Elements of Life; which some, openly distinguishing, call the Celestial Elements” `III.2 ¶36` (ATWOOD)
+  - **Plain (stated):** The ancients' 'elements' are not the common elements or abstractions but prior, living, 'celestial' elements, perceived in another way than ordinary perception.
+  - Basis: ¶36; ¶34 their definitions agree with no material element 'that we discern or understand at all'.
+  - Also: “they speak, as before said, out of another perception of tings, exhibiting the phenomena of the substantial world” `III.2 ¶34`
+- **principle** — “Heaven, he says, is the intellectual contact with the intelligible” `III.2 ¶36` (QUOTED: Proclus)
+  - **Plain (stated):** 'Heaven' means intellect joined to the intelligible, its true end; the earth 'within the heaven' is thus an element known in that contact.
+  - Basis: ¶36: Proclus cited to explain Plato's earth 'within the heaven'.
+- **subject** — “That is the arising Spirit of the Universal nature which, persisting separately, bounds as it were, by an invisible summit, every corporeal subsistence, and in the conscious alliance only becomes known” `III.2 ¶36` (ATWOOD)
+  - **Plain (stated):** The highest ethereal 'heaven' is the Spirit of universal nature, the invisible limit of every body, known only when consciousness is joined with it. Hermes calls it Quintessence.
+  - Basis: ¶36; what 'That' refers to is disputed (see ambiguities).
+  - Also: “The same is called by Hermes, a Quintessence” `III.2 ¶36`
+- **subject** — “call it magical, the Earth of the Wise, Olympus, Our Earth” `III.2 ¶36` (ATWOOD)
+  - **Plain (stated):** The Hermetic 'earth' is not ordinary soil but lies within their 'heaven', as Plato's does; the same holds for their other elements.
+  - Basis: ¶36: 'in order to distinguish from the feculent dead soil'; 'and of the other elements the same'.
+- **sign** — “the arising circulation of Mature from the four concentering winds” `III.2 ¶36` (ATWOOD)
+  - **Plain (interpreted):** The poet's image of the four winds meeting is offered as an apt figure of the same arising celestial spirit/elements. The chunk does not explain it further.
+  - Basis: ¶36: 'Which the initiated poet ... neither unaptly signaliszes'; 'Which' refers back to the Hermetic earth and elements within heaven.
+
+## Terms
+
+- **Mercury** (also: mercury) — The authors' name for quicksilver; here identified with Lully's Lunaria, whose water rises against the fire of nature, shines by night and is viscous by day. Also one of Van Helmont's three principles. (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - = quicksilver: “that quicksilver, which authors call mercury” `III.2 ¶25`
+  - = Lunaria: “that quicksilver, which authors call mercury, to be the same with Lully’s Lunaria” `III.2 ¶25`
+  - “whose water gets up against the fire of nature, and shines by night, but by day has a glutinous, viscous faculty” `III.2 ¶25`
+- **Lunaria** (also: Lully’s Lunaria) — Lully's term, identified with the authors' quicksilver/mercury. (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - = quicksilver / mercury: “that quicksilver, which authors call mercury, to be the same with Lully’s Lunaria” `III.2 ¶25`
+- **fusil salt** (also: fusil kind of salt) — The salt seen in the waters of the vessel; identified with pumice stone. (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - = pumice stone: “that fusil kind of salt to be not different from pumice stone” `III.2 ¶25`
+  - “full of a certain transparent salt” `III.2 ¶25`
+- **Ternary** — That to which the offering in the vessel is dedicated; not explained here. (QUOTED: an ancient and much esteemed Adeptus (Grasseus, n26))
+  - “a holy oblation or present, dedicated to the Ternary” `III.2 ¶25`
+- **clarified hypostasis** (also: hypostasis) — The purified substance on which all Forms arise spontaneously, as the true Genesis of Light. ¶31 also uses 'hypostasis' for the ground bounding abstract reason, which met by the inner light is the Absolute Identity; the text does not say these are the same (see ambiguities). (ATWOOD)
+  - “this clarified hypostasis (shall we not believe in it?), is the stage of all Forms” `III.2 ¶26`
+- **Genesis of Light** — The real, non-imaginary production of Forms in the clarified hypostasis. (ATWOOD)
+  - “but as the true Genesis of Light” `III.2 ¶26`
+- **Vital Radix** — That to which the adepts made 'experimental ingress', thereby discovering within themselves the catholic original of nature, intellectual and material. (ATWOOD)
+  - “by an experimental ingress, as they acknowledge, to the Vital Radix, have discovered the catholic original of nature, intellectual and material” `III.2 ¶28`
+- **Causal Truth** — What is beheld in the 'apperceptive vision' granted to those proved and reproved, when Light meets Light. (ATWOOD)
+  - “previous to being admitted to the apperceptive vision of the Causal Truth which they describe” `III.2 ¶28`
+- **Causal Source** — The goal of the ancients' method of ascent, surveyed 'more or less immediately' after gradual assimilation. (ATWOOD)
+  - “to a survey more or less immediate of the Causal Source” `III.2 ¶33`
+- **philosophic fermentation** — The process in which Life's substance is wholly transmuted, its threefold property developed, its heterogeneous parts divided and the forms of the Medial Spirit extinguished; a radical destruction and New Generation follow. (ATWOOD)
+  - “as Life passes through the philosophic fermentation, its substance is entirely transmuted” `III.2 ¶28`
+- **three principles** (also: threefold property) — The three into which Life is resolved in the philosophic fermentation. (ATWOOD)
+  - = Salt, Sulphur, and Mercury: “resolved into these three principles, which Van Helmont also calls Salt, Sulphur, and Mercury” `III.2 ¶28`
+- **Medial Spirit** — Its forms and properties are extinguished in the fermentation; not further explained here. (ATWOOD)
+  - “by an extinguishing of the forms and properties of the Medial Spirit” `III.2 ¶28`
+- **New Generation** — The new beginning that the near-annihilated former life draws to itself through a new seed. (ATWOOD)
+  - “which at length, in its extreme exigence, draws a new seed to begin a New Generation” `III.2 ¶28`
+- **Night of Hippocrates / Day of Orpheus** — The radical destruction is 'the way of the recedure' to the Night, which leads into the Day; not further explained. (ATWOOD)
+  - “the way of the recedure to the Night of Hippocrates, leading thenceforth into the Day of Orpheus” `III.2 ¶28`
+- **non-Being** (also: primitive non-Being) — For Hegel, pure Being as an empty abstraction. For the Kabalists, not common-sense nothing but the primitive non-Being: inconceivable as cause or essence, yet Cause of causes, anterior to the universe, not corporeity but the Principle or Wisdom; it holds no distinction. (QUOTED: Hegel; the Rabbi)
+  - = nothing (in the Kabalists' sense): “from nothing in the common-sense acceptation of that word; for Being could never be produced from non-Being (deficiently understood), but by non-Being they mean” `III.2 ¶32`
+  - = pure Being (Hegel): “this pure Being is no other than a pure abstraction, it is a term absolutely negative, which may also in its immediate conception be called non-Being” `III.2 ¶30`
+  - = Cause of causes: “but yet is in fact the Cause of causes: it is that which we call the primitive non-Being” `III.2 ¶32`
+  - = Principle or Wisdom: “by it we do not signify corporeity either, but that Principle or Wisdom on which it is founded” `III.2 ¶32`
+  - “it is that which we call the primitive non-Being; because it is anterior to the universe” `III.2 ¶32`
+- **Wisdom** — What the Kabalists signify by non-Being: the Principle on which 'it' is founded. Its essence, how it is contained in non-Being, and how it unites with life cannot be told. (QUOTED: the Rabbi)
+  - = Principle: “that Principle or Wisdom on which it is founded” `III.2 ¶32`
+  - “if any one should ask what is the essence of Wisdom, and in what manner she is contained in non-Being, no one can reply to this question” `III.2 ¶32`
+- **Absolute Identity** (also: Identity) — What the hypostasis bounding abstract reason proves to be when met by the inquiring light within; prior to all duality of consciousness, 'the fortitude and life of all'. (ATWOOD)
+  - “which, before all duality of consciousness, is the fortitude and life of all” `III.2 ¶31`
+  - “incomprehensible nature of the objective contact in Identity” `III.2 ¶33`
+- **Divine Inversion** — Named as the subject of the Rabbi's advice and linked to creation out of nothing; not defined here. (ATWOOD)
+  - “concerning the true nature of Divine Inversion” `III.2 ¶31`
+- **Initial Principle** — The philosophers' first principle, called one and finite or infinite, fire, water, earth, Intellect; the substance meant is the same in all, mind and matter consubstantial in it. (ATWOOD)
+  - = fire: “some, as Heraclitus, according to essence, have denominated it to be fire” `III.2 ¶35`
+  - = Intellect: “rather regarding the perfection and origin of the One Thing in consciousness, calls it Intellect” `III.2 ¶35`
+  - “some saying indeed of the Initial Principle, that it is one and finite, others infinite” `III.2 ¶35`
+  - “for the substance alluded to by them all is the same” `III.2 ¶34`
+- **Intellect in energy** — That from which the Greeks derived nature 'mediately', without distinction; nature's true Being is fixed in the Law of Universals. (ATWOOD)
+  - “derived nature mediately from a certain Intellect in energy, but without distinction, fixing her true Being in the Law of Universals” `III.2 ¶34`
+- **consubstantial** — All things, however various in manifestation, share one substance in their Cause. (ATWOOD)
+  - “all things, however various in manifestation, are consubstantial in their Cause” `III.2 ¶35`
+- **Celestial Elements** — The prior Elements of Life the ancients actually investigated, as opposed to the common elements or abstractions. (ATWOOD)
+  - = prior Elements of Life: “the prior Elements of Life; which some, openly distinguishing, call the Celestial Elements” `III.2 ¶36`
+- **heaven** (also: Heaven) — Per Proclus, intellectual contact with the intelligible; Aristotle distinguishes three senses; the Hermetists, like Plato, place their earth within it. (QUOTED: Proclus; Aristotle)
+  - = intellectual contact with the intelligible: “Heaven, he says, is the intellectual contact with the intelligible” `III.2 ¶36`
+  - “we are accustomed likewise to call that heaven, which is composed from every natural and sensible body” `III.2 ¶36`
+- **Quintessence** — Hermes' name for the arising Spirit of the Universal nature: persisting separately, the invisible bound of every body, known only in conscious alliance. (ATWOOD)
+  - = arising Spirit of the Universal nature: “The same is called by Hermes, a Quintessence” `III.2 ¶36`
+  - “That is the arising Spirit of the Universal nature which, persisting separately, bounds as it were, by an invisible summit, every corporeal subsistence” `III.2 ¶36`
+- **Earth of the Wise** — The Hermetists' earth, located within their heaven and distinguished from the 'feculent dead soil'. (ATWOOD)
+  - = magical earth / Olympus / Our Earth: “call it magical, the Earth of the Wise, Olympus, Our Earth” `III.2 ¶36`
+  - “in order to distinguish from the feculent dead soil” `III.2 ¶36`
+
+## Sources cited
+
+- **an ancient and much esteemed Adeptus / Grasseus**, *Theatr. Chem. 6:294* — “Within this fabric (i.e., the consecrated vessel), was a certain mass moving circularly” `III.2 ¶25, III.2 n26` — Supports: eyewitness account of the world-in-miniature in the vessel, which Atwood reads as the whole Hermetic laboratory.
+- **Lully** `III.2 ¶25` — Illustrates: his Lunaria identified with the authors' quicksilver/mercury.
+- **Lumen de Lumine**, *the Extract, p. 69* `III.2 n27` — Reference only (parallel to the vessel vision).
+- **Sendivogius**, *the Parable of Sendivogius* `III.2 n27` — Reference only (parallel).
+- **Paracelsus** `III.2 n27` — Reference only: his 'account of the magical separation of the Elements, and vision, in their native place'.
+- **Helmont / Van Helmont**, *Imago Mentis; Tree of Life* — “Salt, Sulphur, and Mercury” `III.2 ¶28, III.2 n27` — Supports: names the three principles into which Life is resolved; works cited as parallels (reference only).
+- **Scripture**, *Genesis 2, Deut. 8, 9; Exodus, Moses’ Description of the Promised Land; Job 28* `III.2 n27` — Reference only (parallels to the vision of the fruitful land).
+- **Virgil** — “Salve Magna Parens frugum Saturnia Tellus Magna virum!” `III.2 ¶27, III.2 ¶28` — Illustrates: verses praising the land as mother of metals, crops and men, applied to the vision though Virgil referred them to his 'native soul'.
+- **Hippocrates** `III.2 ¶28` — Illustrates: 'the Night of Hippocrates' names the end of the destructive way.
+- **Orpheus** `III.2 ¶28` — Illustrates: 'the Day of Orpheus' follows the Night.
+- **Kabalistic commentators and mystics of the middle ages; the Rabbis** `III.2 ¶29` — Supports: they hold the same ideas as German metaphysics, reached by ontological experiment.
+- **Hegel (the German philosopher)** — “All things, says the German philosopher (Hegel), have their commencement in pure Being” `III.2 ¶30` — Contrasts: abstraction reaches pure Being = non-Being, but only as a void.
+- **La Kabbale**, *La Kabbale, p. 214* `III.2 n28` — Reference only (footnote to the Hegel passage).
+- **Abram den Dior**, *Comment. on the Zephir Jezirah, p. 67* `III.2 n28` — Reference only.
+- **Kant, Fichte, Schelling** `III.2 ¶31` — Criticized: metaphysics ending in void non-entity and skepticism, short of objective realization; Schelling ranked above the other two.
+- **the learned Rassbi / the Rabbi; Ben Jochai and his disciples** — “by non-Being they mean that which is neither conceivable as cause nor as essence, but yet is in fact the Cause of causes” `III.2 ¶31, III.2 ¶32` — Supports: creation from nothing as from the primitive non-Being, Wisdom; endorsed as Hermetic. Footnote marker (29) has no footnote in this chunk.
+- **Platonic theology** `III.2 ¶33` — Supports: agrees with the doctrine of primitive non-being.
+- **Aristotle**, *Treatise on the Heavens, Book 1* — “we are accustomed likewise to call that heaven, which is composed from every natural and sensible body” `III.2 ¶33, III.2 ¶36, III.2 n32` — Supports: his discourses on the origin of things and on Identity accord; triple distinction of heaven. Criticized for making away with his brethren 'after the manner of the Ottomans'.
+- **Lord Bacon**, *Adv. of Learning, lib. 3, sec. 5* `III.2 ¶33, III.2 n30` — Supports: advice to regard the early sages with more reverence.
+- **Thales** — “teaches that all beings have their beginning from water” `III.2 ¶33, III.2 ¶34, III.2 ¶35` — Illustrates: names the principle water, looking to its first material manifestation; differs in expression only.
+- **Pythagoras, Parmenides** `III.2 ¶33` — Reference only: among the sages whose dogmas deserve reverence.
+- **Empedocles** `III.2 ¶33, III.2 ¶34` — Illustrates: 'the physiologist' substituting elements as principles, differing in expression only.
+- **Anaxagoras** — “calls it Intellect” `III.2 ¶33, III.2 ¶35` — Illustrates: names the principle Intellect, regarding the One Thing in consciousness.
+- **Heraclitus** — “have denominated it to be fire” `III.2 ¶35` — Illustrates: names the principle fire, according to essence.
+- **Timaeus** — “mentions a certain earth as antecedent, and the most ancient element” `III.2 ¶35` — Illustrates: names a certain earth as the principle.
+- **Plato**, *Parmenides; Phaedo* — “calls it the most ancient element within the heaven” `III.2 ¶35, III.2 ¶36` — Supports: derives all things transcendentally; places earth within heaven, as the Hermetists do.
+- **Proclus**, *On the Theology of Plato, pp. 236, 240* — “Heaven, he says, is the intellectual contact with the intelligible” `III.2 ¶36, III.2 n31` — Supports: explains what 'heaven' means.
+- **Hermes** — “The same is called by Hermes, a Quintessence” `III.2 ¶36` — Supports: names the Spirit of Universal nature the Quintessence.
+- **the initiated poet**, *Metamorphoses* — “the arising circulation of Mature from the four concentering winds” `III.2 ¶36` — Illustrates: an apt figure of the same celestial elements.
+
+## Ambiguities
+
+- “this clarified hypostasis” `III.2 ¶26`
+  - Reading: The matter in the Adeptus's consecrated vessel (¶25).
+  - Reading: The inner vital substance/consciousness reached in the experiment ('within themselves').
+  - Basis: Reading 1: ¶26 follows directly on the vessel description and names 'matter, and vessels'. Reading 2: ¶28 'experimental ingress ... to the Vital Radix' and 'the Creative Majesty within themselves'; ¶31 uses 'hypostasis' for what is 'met by contact of the inquiring light within'.
+- “dedicated to the Ternary” `III.2 ¶25`
+  - Reading: Refers to the threefold principle or 'triple mystery' Atwood describes in ¶28.
+  - Reading: An unspecified sacred triad this chunk does not explain.
+  - Basis: ¶28 speaks of 'the triple mystery of its creative Law' and 'the threefold property'; ¶25 itself gives no gloss.
+- “Virgil refers all the compliment to his native soul” `III.2 ¶28`
+  - Reading: Misprint for 'soil': Virgil praises his native land.
+  - Reading: As printed, 'soul': Virgil refers the praise to his own native soul.
+  - Basis: The verses in ¶27 hail the 'Saturnia Tellus' (land) as parent of crops and men, favouring 'soil'; the printed text reads 'soul'.
+- “the Night of Hippocrates, leading thenceforth into the Day of Orpheus” `III.2 ¶28`
+  - Reading: Night = the radical destruction; Day = the New Generation that follows.
+  - Reading: Night = the whole fermentation/destruction; Day = the vision of Light.
+  - Basis: Reading 1: 'this is the way' follows immediately on the destruction and new seed (¶28). Reading 2: ¶26 'Genesis of Light' and ¶28 'Light meeting Light'.
+- “that Principle or Wisdom on which it is founded” `III.2 ¶32`
+  - Reading: 'it' = corporeity: Wisdom is the Principle on which bodily existence is founded.
+  - Reading: 'it' = the universe (named just before): Wisdom is the Principle on which the universe is founded.
+  - Basis: ¶32: 'anterior to the universe: and by it we do not signify corporeity either, but that Principle or Wisdom on which it is founded'; both nouns precede the pronoun.
+- “That is the arising Spirit of the Universal nature” `III.2 ¶36`
+  - Reading: 'That' = the highest sphere of ethereality (Aristotle's heaven).
+  - Reading: 'That' = Aristotle's third sense, the heaven 'composed from every natural and sensible body'.
+  - Basis: The sentence follows Aristotle's third definition directly, but the earlier subject is 'the highest sphere of ethereality'.
+- “the arising circulation of Mature from the four concentering winds” `III.2 ¶36`
+  - Reading: 'Mature' is a misprint for 'Nature'.
+  - Reading: As printed.
+  - Basis: ¶36 discusses 'the Universal nature' just before; this passage has other evident misprints ('signaliszes'; 'tings' in ¶34).
+
+## Translations
+
+- `III.2 ¶27` “Haec dedit Argenti Rivos, Aerisque metalla Ostendit venis, atque plurima fluxit Haec genus aere virum; Marsos Pubemque Sabella Assemtuque; Malo Ligurem volcosque verutos Extulit; Haec Decios Marios, magnosque Camillos; Salve Magna Parens frugum Saturnia Tellus Magna virum!” → This [land] gave streams of silver and showed ores of copper in her veins, and flowed most abundantly; this [land] bore a [hardy] race of men, the Marsi and the Sabellian youth, and the Ligurian [inured] to hardship, and the dart-armed Volsci; this [land] brought forth the Decii, the Marii and the great Camilli. Hail, great parent of crops, Saturnian land, great [parent] of men! (Printed Latin is partly garbled; bracketed words uncertain.) *(ours)*
+- `III.2 ¶31` “sed quasi auctoritatem habens” → but as one having authority *(ours)*
+
+## Threads
+
+- `III.2 ¶25` 'And this, adds an ancient and much esteemed Adeptus' continues a series of testimonies begun before this chunk.
+- `III.2 ¶28` 'Such are a few only of the remarkable declarations of individuals' sums up the preceding adept testimonies (before this chunk).
+- `III.2 ¶31` 'let us revert to the learned Rassbi’s advice' refers back to a Rabbi cited earlier (not in this chunk).
+- `III.2 ¶32` Footnote marker (29) has no corresponding footnote in this chunk.
+- `III.2 ¶34` 'as before said' refers to the earlier statement that the sages spoke from another experience and method of observation (cf. ¶33).
+- `III.2 ¶36` 'as we have shown already in our Exoteric Theory, and elsewhere' points to Atwood's earlier treatment of the Hermetic earth and other elements as magical/celestial.

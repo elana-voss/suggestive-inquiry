@@ -1,0 +1,317 @@
+# III.3_04
+
+*Atwood closes the Poemander testimony of illumination and argues that the 'operative revelation of Intellect' is known only by experience, that the First Principle is reached only by a theurgically prepared seeker, and that Scripture and the Law veil a hidden Soul. She then presents the practical work through Synesius (gentle coction of one Water, all operations being one), Bacon's Proteus, the Matter as Isis bringing forth Orus, and two Rosicrucian speeches of the Matter (the Goddess with the five gates, the Dragon called Mercury), and ends with a call to real faith as the leader of experimental inquiry.*
+
+## Argument
+
+- Poemander withdraws. The narrator, taught the nature of the Whole, preaches piety and knowledge: bodily sleep was the mind's watchfulness, shut eyes true Sight, silence 'great with child'. Inspired with Truth, he ends in a hymn to the Father, 'To be praised in silence'. `III.3 ¶58, III.3 n36` — QUOTED: The Divine Poemander of Hermes Trismegistus (the narrator Poemander spoke to)
+- Nothing can make this operative revelation of Intellect more credible to the uninitiated. Those who cannot imagine disbelieve without experience; those with inner evidence will believe and know before observation forces the many to a faith which is blessed only in the Intuition. `III.3 ¶59` — ATWOOD
+- Whoever seeks the First Principle must be theurgically prepared and pass corrosive and fiery ordeals, to rise to what is most united in nature, its Flower, through which it is Deity and binds the Universe in sympathetic consent. `III.3 ¶59` — ATWOOD
+- Those to whom the Word came are called gods (John). Unbelief arises in ignorance: none looks 'under the Bark of the Law' (Agrippa). The veil over reading Moses lifts on turning to the Lord, who is Spirit; beholders are changed from glory to glory (the Apostle). `III.3 ¶59, III.3 n37, III.3 n38` — ATWOOD
+- The Kabalist: each word of the Law cloaks a mystery; its story is its vestment; the wise seek its Soul, the Law itself. Atwood: without it nothing is truly known. Paul: the Fathers drank of a spiritual rock, 'and that rock was Christ'. `III.3 ¶59, III.3 n39, III.3 n40` — QUOTED: the Kabalist (endorsed by ATWOOD); St. Paul
+- Synesius: labour only for the Water that blackens, dissolves, congeals, putrefies and germinates. Decoct it gently and long until its false tincture becomes light; don't burn its flowers or hasten; shut the vessel. All named operations are one decoction of nature; extracting soul, spirit or body is calcination, the 'operation of Venus'. `III.3 ¶60, III.3 n41, III.3 n42` — QUOTED: Synesius
+- The soul is extracted and reduced upon the body until the four elements commix. Two luminaries appear, fixed male below, volatile above; when the lower rises upon the upper, an incomparable Luminary issues. `III.3 ¶60, III.3 n43` — QUOTED: Synesius
+- This was the Experiment that led 'our Fathers' into Experience and illumination; theirs was the true philosophy, its end Christian regeneration. `III.3 ¶61` — ATWOOD
+- It is the Art of Democritus in Bacon's Proteus: matter forced toward annihilation runs through all shapes and restores itself if force continues; binding it in the extremest degrees works best. Atwood: that is, life's last exigence, before rebirth by the recreative Light within. `III.3 ¶61, III.3 n44` — ATWOOD (citing Lord Bacon)
+- Then the Matter is Isis, the Divine I Am, Myrionymous, able to take any Form the Supreme Reason impresses. In herself Nothing, pre-existent mother of all, miraculous; by the Fire of nature she brings forth Orus, the Philosophic Sun. `III.3 ¶62` — ATWOOD
+- A Rosy Cross Goddess pours milk and blood to be boiled into silver and gold; poison named the flying eagle, she is the First Matter, hidden from the wicked. Eagle's tears and Lion's blood combined are the treasure; the pair become a Salamander curing men and metals. `III.3 ¶63, III.3 n45` — QUOTED: fraternity of the Rosy Cross
+- Five gates: knowledge of the matter; preparation (water, blood, a spiritual bright body); fire to maturity; multiplication by weights; projection. The fourth gives a universal medicine, the fifth serves only metals. The mystery, God's Word breathed into nature, is given to few though seen daily. `III.3 ¶63` — QUOTED: fraternity of the Rosy Cross
+- The Dragon: everywhere and free; its water and fire dissolve and compound; unknown, it destroys the senses; separate thick from thin, with courage. It is the Egg of nature, Mercury wedded to Gold philosophical, all contraries, the Light of nature within, transmuting base metals. `III.3 ¶64, III.3 n45` — QUOTED: fraternity of the Rosy Cross
+- Atwood: nourish even a small real faith until experience rewards it; without faith and the ideal conception nothing is proven. It is not credulity but self-evidencing liberty of thought, revealing Nature's occult Causality; the right-believer will not be deceived. `III.3 ¶64` — ATWOOD
+
+## Method
+
+- **sign** — “For the sleep of the body was the sober watchfulness of the mind; and the shutting of my eyes the true Sight; and my silence great with child and full of good” `III.3 ¶58` (QUOTED: The Divine Poemander of Hermes Trismegistus (endorsed by ATWOOD))
+  - **Plain (interpreted):** In the state of illumination the body sleeps and the eyes are shut while the mind is fully awake and sees truly; the inner silence is fertile.
+  - Basis: III.3 ¶58 sets bodily sleep against mental watchfulness and shut eyes against 'true Sight'; Atwood calls this testimony the 'operative revelation of Intellect' with 'experimental knowledge' (III.3 ¶59).
+  - Also: “whereby I became inspired by God with the Truth” `III.3 ¶58`
+  - Also: “To be praised in silence.” `III.3 ¶58`
+- **principle** — “operative revelation of Intellect” `III.3 ¶59` (ATWOOD)
+  - **Plain (interpreted):** Atwood treats the Poemander account as testimony to a real, working revelation of Intellect, known experimentally; it cannot be made credible to those without the experience.
+  - Basis: III.3 ¶59: 'or its experimental knowledge more credible to the uninitiated'; 'They who cannot imagine will disbelieve without experience'.
+  - Also: “They who cannot imagine will disbelieve without experience” `III.3 ¶59`
+- **operator** — “he must be theurgically prepared, and pass through many preliminary ordeals, corrosive tests, and fiery solutions and dissolutions refining” `III.3 ¶59` (ATWOOD)
+  - **Plain (interpreted):** Whoever seeks the First Principle must himself be prepared and undergo refining trials described in chemical terms (corrosion, solution, dissolution); in this sentence it is the seeker who is refined and raised.
+  - Basis: III.3 ¶59: the grammatical subject is the person ('he must be ... prepared'), and the purpose is 'in order to raise himself'. 'Theurgically' is not defined in this chunk.
+- **result** — “That which is the most united in nature, and to its Flower, and That through which it is Deity” `III.3 ¶59` (ATWOOD)
+  - **Plain (stated):** The goal is the First Principle: the most unified point of nature, its highest flowering, by which nature is divine; it hangs from its own source and holds the Universe in sympathy with itself.
+  - Basis: III.3 ¶59 continues: 'by which it is suspended from its proper fountain, and connects and causes the Universe to have a sympathetic consent with Itself'.
+- **impediment** — “when Moses is read, the veil is upon their heart” `III.3 ¶59` (QUOTED: the Apostle (used by ATWOOD))
+  - **Plain (interpreted):** Unbelief comes from ignorance of Scripture's hidden sense: readers stop at the surface. The veil is taken away when the heart turns to the Lord.
+  - Basis: III.3 ¶59: 'Does not all our unbelief, as the common faith, arise in ignorance? For at present there is no profound understanding of the Scriptures'; 'the veil shall be taken away'.
+  - Also: “nor does any look, as Agrippa says, under the Bark of the Law” `III.3 ¶59`
+  - Also: “when it shall turn to the Lord, says the Apostle, the veil shall be taken away” `III.3 ¶59`
+- **result** — “are changed into the same image from glory to glory, even as by the Spirit of the Lord” `III.3 ¶59` (QUOTED: the Apostle (used by ATWOOD))
+  - **Plain (stated):** With the veil removed, those who behold the Lord's glory as in a glass are transformed into that same image, by the Spirit. The chunk does not explicitly tie this to the work beyond placing it in Atwood's argument.
+  - Basis: III.3 ¶59 says this directly; 'For the Lord is that Spirit'.
+  - Also: “For the Lord is that Spirit, and where the Spirit of the Lord is, there is liberty.” `III.3 ¶59`
+- **principle** — “The story of the Law is the vestment of the Law; unhappy he, who mistakes the vestment for the Law itself.” `III.3 ¶59` (QUOTED: the Kabalist (endorsed by ATWOOD))
+  - **Plain (stated):** Sacred texts must be read for their hidden sense: the literal narrative is a garment; every word hides a mystery; the real Law is its Soul, which the wise contemplate. Atwood adds that nothing is truly known without this Soul.
+  - Basis: III.3 ¶59: 'each word of the Law has a meaning and cloaks a mystery entirely sublime'; 'the Soul, which is the basis of all rest; which is the Law itself'; Atwood: 'Without which nothing is truly known; whose Experience is All.'
+  - Also: “so that they may be prepared at length to contemplate and know that Soul which breathes in the Law” `III.3 ¶59`
+  - Also: “Without which nothing is truly known; whose Experience is All.” `III.3 ¶59`
+- **subject** — “labour only for that Water which burns to blackness, dissolves and congeals” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (interpreted):** The whole work is on one 'Water', to the exclusion of all else. Its stated properties: it blackens, dissolves, congeals, putrefies and causes germination. The chunk does not identify it further.
+  - Basis: III.3 ¶60: 'make no account of other things'; 'It is that which putrefies and causes germination'; no identification given.
+  - Also: “It is that which putrefies and causes germination” `III.3 ¶60`
+- **procedure** — “Decoct it gently by little and little, until it have changed its false tincture into a perfect form of light” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (interpreted):** Cook the Water gently and gradually over a long time, not grudging the time, until its false colouring becomes a perfect form of light.
+  - Basis: III.3 ¶60: 'wholly employ thyself in the coction of this water, and demur not at the expense of time; otherwise thou shalt gain no advantage'. Reading 'decoct' as gentle heating is ours; the text gives only 'gently by little and little'.
+  - Also: “wholly employ thyself in the coction of this water, and demur not at the expense of time” `III.3 ¶60`
+- **impediment** — “have great care at the beginning, that thou burn not its flowers and its vivacity, and make not too much haste to come to an end of thy work” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (interpreted):** Excess at the start destroys the matter's living quality ('flowers', 'vivacity'); haste to finish spoils the work.
+  - Basis: III.3 ¶60: the warning follows the instruction to decoct 'gently by little and little'.
+- **procedure** — “Shut thy vessel well that it may not breathe out, so that thou mayest bring it to some effect” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (interpreted):** Keep the vessel sealed so nothing escapes; otherwise no effect follows. This chunk does not say what the vessel is.
+  - Basis: III.3 ¶60; no gloss of 'vessel' in this chunk (n42 cites Eirenaeus and Norton for this sentence).
+- **principle** — “to dissolve, to calcine, to tinge, to whiten, to renew, to bathe, to wash, to coagulate, to imbibe, to decoct, to fix, to grind, to dry and to distill are all one” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (stated):** The many operation names in the books are not separate procedures: all name one continuous operation, cooking nature until she is perfected.
+  - Basis: III.3 ¶60: they 'signify no more than to decoct nature until such time as she be perfected'. The sentence is introduced by 'and not that', likely a misprint for 'note' (see ambiguities).
+  - Also: “signify no more than to decoct nature until such time as she be perfected” `III.3 ¶60`
+- **principle** — “to extract the soul, or the spirit, or the body, is nothing else than the aforesaid calcinations in regard they signify the operation of Venus” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (stated):** 'Extracting' soul, spirit or body is the same as the calcinations already named, which signify the 'operation of Venus'; through the fire of this extraction the spirit comes forth gently. This chunk does not explain 'Venus'.
+  - Basis: III.3 ¶60, direct equation ('is nothing else than'); 'operation of Venus' is not glossed.
+  - Also: “It is through the fire of the extraction of the soul that the spirit comes forth gently” `III.3 ¶60`
+- **procedure** — “the extraction of the soul out of the body, and the reduction of it afterwards upon the same body; until the whole be drawn to a commixion of the four elements” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (stated):** The soul is drawn out of the body and afterwards returned onto the same body, until the whole is brought to a mixture of all four elements.
+  - Basis: III.3 ¶60 directly.
+- **stage** — “there are made manifest two luminaries, the one fixed, the other not; whereof the fixed which is the male remains below, and the volatile remains above, moving itself perpetually” `III.3 ¶60` (QUOTED: Synesius)
+  - **Plain (stated):** Two lights appear: a fixed, male one below and a volatile, ever-moving one above. When the lower rises upon the upper and all is 'substantiated', a single incomparable Luminary issues. The chunk does not identify the luminaries further.
+  - Basis: III.3 ¶60 gives the sequence; it follows 'so that which is below, being like that which is above'.
+  - Also: “until that which is below rises upon that which is above, and all being substantiated, there then issues forth an incomparable Luminary” `III.3 ¶60`
+- **result** — “That was the Experiment that led our Fathers into Experience, and illumination in the Divine Antecedent of all life.” `III.3 ¶61` (ATWOOD)
+  - **Plain (stated):** Atwood identifies the work just described as the experiment by which the ancients reached direct experience and illumination in the divine source of life; its worthiest end is Christian regeneration.
+  - Basis: III.3 ¶61: 'then was not theirs the right and true philosophy with Christian regeneration for its most worthy end?'
+  - Also: “with Christian regeneration for its most worthy end” `III.3 ¶61`
+- **procedure** — “if any skillful minister of nature shall apply force to matter, and by design torture and vex it in order to its annihilation” `III.3 ¶61` (QUOTED: Lord Bacon (endorsed by ATWOOD))
+  - **Plain (stated):** Matter deliberately constrained and pushed toward annihilation passes through every shape and, if the force is kept up, completes the cycle and restores itself. Binding it hard ('manacles and fetters') is most effective. Atwood calls this the Art of Democritus.
+  - Basis: III.3 ¶61: 'running through the whole circle of transformations and completing its period, it restores itself, if the force be continued'.
+  - Also: “running through the whole circle of transformations and completing its period, it restores itself, if the force be continued” `III.3 ¶61`
+  - Also: “And that method of binding, torturing, and detaining will prove the most effectual and expeditious which makes use of manacles and fetters” `III.3 ¶61`
+- **stage** — “lays hold of and works upon matter in the extremest degrees” `III.3 ¶61` (ATWOOD (glossing Lord Bacon))
+  - **Plain (stated):** Atwood glosses 'extremest degrees' as the last extremity of life, when it is about to be reborn out of oblivion and defilement, drawn by the re-creating Light within.
+  - Basis: III.3 ¶61, Atwood's own gloss beginning 'That is'.
+  - Also: “That is, in the last exigence of life; when it is about to be born again from out the oblivion of this worked and its defilements, by attraction of the recreative Light within.” `III.3 ¶61`
+- **subject** — “Then she is Isis, the Divine I Am, by the Greeks called Myrionymous, or the goddess with a thousand names” `III.3 ¶62` (ATWOOD)
+  - **Plain (stated):** At this point the Matter is called Isis; her thousand names signify that it can understand and be converted into any form the Supreme Reason impresses on it.
+  - Basis: III.3 ¶62: 'hereby to denote the capacity with which such a Matter is endowed of understanding, and of being converted to all or any of the Forms or degrees of specific Law, which it may please the Supreme Reason to impress upon her'.
+  - Also: “hereby to denote the capacity with which such a Matter is endowed of understanding, and of being converted to all or any of the Forms or degrees of specific Law” `III.3 ¶62`
+- **subject** — “As respects herself, she is Nothing” `III.3 ¶62` (ATWOOD (citing the Adepts))
+  - **Plain (stated):** In herself the Matter is no particular thing, not animal, vegetable or mineral apart, but prior to all and mother of all; her birth and complexion are singular and miraculous.
+  - Basis: III.3 ¶62: 'neither animal nor vegetable nor mineral apart; but, --- pre-existent to them all, --- she is the mother of all'.
+  - Also: “her birth, according to the Adepts, is singular and not without a miracle” `III.3 ¶62`
+  - Also: “I am well known and yet a mere nothing” `III.3 ¶64`
+- **result** — “that which she brings forth by the Fire of nature lawfully conceived, is Orus, the Philosophic Sun” `III.3 ¶62` (ATWOOD)
+  - **Plain (stated):** What the Matter brings forth by the 'Fire of nature', lawfully conceived, is called Orus, the Philosophic Sun. The chunk does not further explain the Fire of nature.
+  - Basis: III.3 ¶62, direct identification.
+- **subject** — “Though at the first sight thou art poison adorned with the name of the flying eagle; thou are the First Matter: the Seed of Divine benediction, in whose body there is heat and rain” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The Goddess-subject, out of which all things are generated, is the First Matter; at first sight it seems poison and bears the name 'flying eagle'. Its parents are the philosophical Sun and Moon.
+  - Basis: III.3 ¶63: 'O, most excellent subject! Out of which all things in the world are generated'; ¶62 introduces this speech as describing the same multinominal goddess.
+  - Also: “I am a Goddess for beauty and extraction, famous, born out of our own proper sea, which compasseth the whole earth, and is ever restless.” `III.3 ¶63`
+  - Also: “Thy parents are the Sun and Moon (philosophical)” `III.3 ¶63`
+- **impediment** — “which notwithstanding are hidden from the wicked, because of thy habit and virgin vestures, which are scattered over the whole world” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The subject is everywhere, free and in plain sight daily, yet its outward appearance hides it from the wicked, and it is given only to few.
+  - Basis: III.3 ¶63 and ¶64 state the paradox repeatedly.
+  - Also: “this mystery, because of the malice and wickedness of men, is given only to few; notwithstanding it lives and moves every day in the sight of the whole world” `III.3 ¶63`
+  - Also: “I am a poisonous dragon, present everywhere, and to be had for nothing.” `III.3 ¶64`
+- **procedure** — “Out of my breast I pour forth milk and blood; boil these two till they are turned into silver and gold.” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (interpreted):** Two products of the subject, 'milk' and 'blood', are to be heated until they become 'silver' and 'gold'. This chunk does not explain the terms.
+  - Basis: III.3 ¶63; no gloss given.
+- **procedure** — “Torture the Eagle till she weeps; and the Lion being weakened, bleeds to death.” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (interpreted):** Two opposed principles, Eagle and Lion, are pressed until the Eagle yields 'tears' and the Lion 'blood'; combined, these are the treasure. They devour each other yet love mutually and take the nature of a 'Salamander' that endures fire unharmed and heals men and metals. The chunk does not decode Eagle and Lion beyond 'flying eagle' as a name the First Matter bears at first sight.
+  - Basis: III.3 ¶63: 'The blood of this Lion incorporated with the tears of the Eagle is the treasure of the whole earth'; 'they put on the property and nature of a Salamander'.
+  - Also: “The blood of this Lion incorporated with the tears of the Eagle is the treasure of the whole earth.” `III.3 ¶63`
+  - Also: “they put on the property and nature of a Salamander; which, if it remains in the fire without any detriment, cures all the diseases of men and metals” `III.3 ¶63`
+- **stage** — “for the center of the middlemost tree in the Terrestrial Paradise, entering in by five litigious gates” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The ancient philosophers sought the 'center of the middlemost tree in the Terrestrial Paradise' (not explained here) through five contested stages: (1) knowing the true matter, the bitterest conflict; (2) preparing it, to obtain the eagle's embers and lion's blood, producing water, blood and a spiritual bright body; (3) the fire that ripens the medicine; (4) multiplication and augmentation by proportions and weights; (5) projection.
+  - Basis: III.3 ¶63 enumerates all five gates.
+  - Also: “The first gate was the knowledge of the true matter, and here arose the first, and that a most bitter conflict.” `III.3 ¶63`
+  - Also: “The second was the preparation by which the matter was to be qualified, that they might obtain the embers of the eagle and the blood of the lion.” `III.3 ¶63`
+  - Also: “it produceth water and blood, and a spiritual bright body” `III.3 ¶63`
+  - Also: “The third gate is the fire which conduceth to the maturity of the medicine.” `III.3 ¶63`
+  - Also: “The fourth gate is that of multiplication and augmentation in which proportions and weights are necessary.” `III.3 ¶63`
+  - Also: “The fifth and last gate is projection.” `III.3 ¶63`
+- **result** — “most glorious, full, rich, and highly elevated is he who attains but to the fourth gate; for his has got an universal medicine for all diseases” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** Reaching the fourth stage already gives a universal medicine for all diseases, called 'the great character of the book of Nature'; the fifth stage (projection) concerns only metals.
+  - Basis: III.3 ¶63: 'This is the great character of the book of Nature, out of which her whole alphabet doth arise. The fifth gate serves only for metals.'
+  - Also: “This is the great character of the book of Nature, out of which her whole alphabet doth arise.” `III.3 ¶63`
+  - Also: “The fifth gate serves only for metals.” `III.3 ¶63`
+- **agent** — “a knowledge which God Almighty, by his Word, breathed into nature; a miraculous power, the blessed Fire of Life; the transparent carbuncle and red gold of the Wise men” `III.3 ¶63` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The mystery is a knowledge and power God put into nature by his Word; it is named the Fire of Life, and the wise call it their 'carbuncle' and 'red gold'. It is the most ancient of mysteries.
+  - Basis: III.3 ¶63: appositional identifications of 'This mystery, existing from the foundation of the world and the creation of Adam'.
+- **agent** — “My water and my fire dissolve and compound” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (interpreted):** The subject contains its own dissolving and combining agents ('water' and 'fire') and gives both male and female faculties. The 'green and red lion' are to be drawn from it; this chunk does not explain them.
+  - Basis: III.3 ¶64: 'out of my body thou shall draw the green and red lion'; 'I give thee faculties both male and female, and the powers both of heaven and earth'.
+  - Also: “out of my body thou shall draw the green and red lion” `III.3 ¶64`
+  - Also: “I give thee faculties both male and female, and the powers both of heaven and earth.” `III.3 ¶64`
+- **impediment** — “if thou dost not exactly know me, thou wilt with my fire destroy thy five senses” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** Working the subject without exact knowledge of it is dangerous: its fire and poison destroy the operator's senses and have destroyed many; many have lost labour and substance.
+  - Basis: III.3 ¶64 directly; 'in which attempt many have lost their labour and their substance'.
+  - Also: “A most pernicious quick-poison comes out of my nostrils, which hath been the destruction of many.” `III.3 ¶64`
+- **procedure** — “Separate, therefore, the thick from the thin artificially, unless thou dost delight in extreme poverty.” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (interpreted):** Separating the gross from the subtle by art is given as the response to the danger just described; failing to do it leads to ruin.
+  - Basis: III.3 ¶64: 'therefore' links it to the preceding warning about the poison.
+- **operator** — “The mysteries of my art are to be performed magnanimously and with great courage, if thou wouldst have me overcome the violence of the fire” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The operator needs courage and magnanimity, piety and modesty, and should seek the work to relieve the poor, not for perishing gold.
+  - Basis: III.3 ¶64 directly.
+  - Also: “I am the Egg of nature, known only to the Wise, such as are pious and modest, who make of me a little world.” `III.3 ¶64`
+  - Also: “I am given only to a few, that they may relieve the poor with my treasures, and not set their mind on gold that perisheth” `III.3 ¶64`
+- **subject** — “I am called of the philosophers Mercury: my husband is Gold philosophical.” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The speaking Dragon is what the philosophers call Mercury, whose partner is philosophical Gold. It is also the Egg of nature and the Old Dragon present everywhere.
+  - Basis: III.3 ¶64: the same speaker names itself poisonous dragon, Egg of nature, Mercury and Old Dragon.
+  - Also: “I am the Old Dragon that is present everywhere on the face of the earth.” `III.3 ¶64`
+- **sign** — “In me the order of nature is oftentimes inverted in colour, number, weight and measure.” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (stated):** The subject unites contraries (father and mother, young and old, life and death, visible and invisible, light and heavy) and departs from the ordinary order of nature; all colours shine in it.
+  - Basis: III.3 ¶64 lists the contraries and inversions.
+  - Also: “I am father and mother, youthful and antique, weak yet powerful, life and death, visible and invisible” `III.3 ¶64`
+  - Also: “all colours shine in me and all metals, by the beams of the Sun” `III.3 ¶64`
+- **subject** — “I am, within, the Light of nature; I am dark and bright” `III.3 ¶64` (QUOTED: fraternity of the Rosy Cross)
+  - **Plain (interpreted):** Inwardly the subject is the Light of nature, though dark as well as bright; it is the 'carbuncle of the Sun', a clarified Earth that turns base metals into gold.
+  - Basis: III.3 ¶64; 'within' set against 'dark and bright'. Compare Atwood's 'the recreative Light within' (III.3 ¶61), not explicitly linked by the text.
+  - Also: “I am the carbuncle of the Sun, a most noble clarified Earth, by which thou mayest turn copper, iron, tin, and lead into most pure gold” `III.3 ¶64`
+- **operator** — “without faith, without the ideal conception, nothing is or can be proven; for is not this, in fact, the leader of all experimental inquiry?” `III.3 ¶64` (ATWOOD)
+  - **Plain (stated):** The inquirer must start from a real, even small, faith or imaginative conception and cultivate it until it grows with knowledge and is confirmed in practical experience. This is not credulity but a freedom of thought that carries its own evidence.
+  - Basis: III.3 ¶64: 'The faith we invite is no blind credulity, but such a liberty of thought, as, bearing its own evidence independently of common observation, can glance beyond this boundary into the integral probability of Life.' Cf. III.3 ¶59 on those 'having within them a substantial evidence of the thing hoped for'.
+  - Also: “let us believe in it, and nourish and educate, that it may increase with knowledge, and finally prove its own reward in practical experience” `III.3 ¶64`
+  - Also: “The faith we invite is no blind credulity, but such a liberty of thought” `III.3 ¶64`
+  - Also: “having within them a substantial evidence of the thing hoped for, will believe and know too” `III.3 ¶59`
+  - Also: “Involve we then our thoughts, if we would intrinsically conceive the wonderful Nature that is set before us” `III.3 ¶64`
+
+## Terms
+
+- **Intellect** — That whose 'operative revelation' the Poemander testimony shows; known by experience. (ATWOOD)
+  - “the operative revelation of Intellect” `III.3 ¶59`
+- **First Principle** — What the theurgically prepared seeker rises to: the most united in nature, its Flower, that through which it is Deity, suspended from its fountain and holding the Universe in sympathetic consent with itself. (ATWOOD)
+  - “But if any one wish to discover the First Principle, according to the doctrine of the ancients, he must be theurgically prepared” `III.3 ¶59`
+- **theurgically** — The kind of preparation required of whoever seeks the First Principle; not further defined here. (ATWOOD)
+  - “he must be theurgically prepared” `III.3 ¶59`
+- **Law** — The scriptural Law, whose story is an outer vestment; each word cloaks a sublime mystery; its real substance is its Soul. (QUOTED: the Kabalist (endorsed by ATWOOD))
+  - = Soul: “the Soul, which is the basis of all rest; which is the Law itself” `III.3 ¶59`
+  - “The story of the Law is the vestment of the Law” `III.3 ¶59`
+  - “under the Bark of the Law” `III.3 ¶59`
+- **Spirit of the Lord** (also: Spirit) — Where it is, there is liberty; by it beholders are changed into the same image. (QUOTED: the Apostle)
+  - = the Lord: “For the Lord is that Spirit” `III.3 ¶59`
+  - “even as by the Spirit of the Lord” `III.3 ¶59`
+- **spiritual rock** — The rock that followed the Fathers, from which they drank spiritual drink. (QUOTED: St. Paul)
+  - = Christ: “and that rock was Christ” `III.3 ¶59`
+  - “they drank of that spiritual rock that followed them” `III.3 ¶59`
+- **Water** (also: water) — The sole object of labour: it burns to blackness, dissolves, congeals, putrefies and causes germination; to be decocted gently. (QUOTED: Synesius)
+  - “that Water which burns to blackness, dissolves and congeals” `III.3 ¶60`
+- **coction** (also: Decoct, decoct) — Gentle, gradual, long cooking; the single operation of which all the named operations are names. (QUOTED: Synesius)
+  - = dissolve, calcine, tinge, whiten, renew, bathe, wash, coagulate, imbibe, fix, grind, dry, distill: “are all one, and signify no more than to decoct nature until such time as she be perfected” `III.3 ¶60`
+  - “the coction of this water” `III.3 ¶60`
+- **calcination** (also: calcinations, calcine) — One of the names of the single operation; identical with extracting soul, spirit or body; signifies the operation of Venus. (QUOTED: Synesius)
+  - = extraction of the soul, spirit or body: “to extract the soul, or the spirit, or the body, is nothing else than the aforesaid calcinations” `III.3 ¶60`
+  - = operation of Venus: “in regard they signify the operation of Venus” `III.3 ¶60`
+- **luminaries** (also: Luminary) — Two lights made manifest, one fixed (male, below), one volatile (above, ever moving); when the lower rises upon the upper an incomparable Luminary issues. (QUOTED: Synesius)
+  - “there are made manifest two luminaries, the one fixed, the other not” `III.3 ¶60`
+  - “there then issues forth an incomparable Luminary” `III.3 ¶60`
+- **Experiment** (also: Experience, experience, experimental) — The practical work that led the Fathers into Experience and illumination; experience is said to be the proper test of philosophy. (ATWOOD)
+  - “That was the Experiment that led our Fathers into Experience” `III.3 ¶61`
+- **Isis** — Name of the Matter 'then' (after the process of ¶61): endowed with understanding, convertible to any Form, in herself Nothing, pre-existent mother of all. (ATWOOD)
+  - = Divine I Am: “Then she is Isis, the Divine I Am” `III.3 ¶62`
+  - = Myrionymous (goddess with a thousand names): “by the Greeks called Myrionymous, or the goddess with a thousand names” `III.3 ¶62`
+  - “As respects herself, she is Nothing” `III.3 ¶62`
+- **Orus** — What the Matter brings forth by the Fire of nature lawfully conceived. (ATWOOD)
+  - = Philosophic Sun: “is Orus, the Philosophic Sun” `III.3 ¶62`
+- **Fire of nature** — That by which the Matter, lawfully conceived, brings forth Orus; not further explained here. (ATWOOD)
+  - “by the Fire of nature lawfully conceived” `III.3 ¶62`
+- **First Matter** — The subject out of which all things are generated, speaking as a Goddess; at first sight poison; hidden from the wicked by its vestures; parents the philosophical Sun and Moon. (QUOTED: fraternity of the Rosy Cross)
+  - = Seed of Divine benediction: “thou are the First Matter: the Seed of Divine benediction” `III.3 ¶63`
+  - = flying eagle (the name it bears at first sight): “thou art poison adorned with the name of the flying eagle; thou are the First Matter” `III.3 ¶63`
+  - “O, most excellent subject! Out of which all things in the world are generated.” `III.3 ¶63`
+- **Eagle** (also: eagle, flying eagle) — One of two mutually devouring yet loving creatures; tortured, it yields tears; its 'embers' are obtained at the second gate. (QUOTED: fraternity of the Rosy Cross)
+  - “Torture the Eagle till she weeps” `III.3 ¶63`
+- **Lion** (also: lion, green and red lion) — The other creature; weakened, it bleeds, and its blood with the Eagle's tears is the treasure. A green and red lion is drawn from the Dragon's body. Not further explained here. (QUOTED: fraternity of the Rosy Cross)
+  - “The blood of this Lion incorporated with the tears of the Eagle is the treasure of the whole earth.” `III.3 ¶63`
+- **Salamander** — The nature taken on by the Eagle and Lion together; endures fire unharmed and cures all diseases of men and metals. (QUOTED: fraternity of the Rosy Cross)
+  - “which, if it remains in the fire without any detriment, cures all the diseases of men and metals” `III.3 ¶63`
+- **gates** (also: gate) — The five contested stages of the work: knowledge of the true matter, preparation, fire to maturity, multiplication, projection. (QUOTED: fraternity of the Rosy Cross)
+  - “entering in by five litigious gates” `III.3 ¶63`
+- **multiplication** — Fourth gate, with augmentation, requiring proportions and weights; reaching it gives a universal medicine. (QUOTED: fraternity of the Rosy Cross)
+  - “The fourth gate is that of multiplication and augmentation in which proportions and weights are necessary.” `III.3 ¶63`
+- **projection** — Fifth and last gate; serves only for metals. (QUOTED: fraternity of the Rosy Cross)
+  - “The fifth and last gate is projection.” `III.3 ¶63`
+- **medicine** (also: universal medicine) — What the fire of the third gate matures; at the fourth gate it is a universal medicine for all diseases. (QUOTED: fraternity of the Rosy Cross)
+  - “The third gate is the fire which conduceth to the maturity of the medicine.” `III.3 ¶63`
+- **mystery** — The most ancient knowledge, breathed by God into nature by his Word; given to few though it lives and moves daily in sight of all. (QUOTED: fraternity of the Rosy Cross)
+  - = Fire of Life: “a miraculous power, the blessed Fire of Life” `III.3 ¶63`
+  - = transparent carbuncle and red gold of the Wise men: “the transparent carbuncle and red gold of the Wise men” `III.3 ¶63`
+  - “a knowledge which God Almighty, by his Word, breathed into nature” `III.3 ¶63`
+- **Mercury** — The philosophers' name for the speaking Dragon: poisonous, everywhere, free, a union of contraries, whose husband is Gold philosophical. (QUOTED: fraternity of the Rosy Cross)
+  - = Old Dragon: “I am the Old Dragon that is present everywhere on the face of the earth.” `III.3 ¶64`
+  - = poisonous dragon: “I am a poisonous dragon, present everywhere, and to be had for nothing.” `III.3 ¶64`
+  - = Egg of nature: “I am the Egg of nature, known only to the Wise” `III.3 ¶64`
+  - = Light of nature (within): “I am, within, the Light of nature” `III.3 ¶64`
+  - = carbuncle of the Sun; clarified Earth: “I am the carbuncle of the Sun, a most noble clarified Earth” `III.3 ¶64`
+  - “I am called of the philosophers Mercury: my husband is Gold philosophical.” `III.3 ¶64`
+- **Gold philosophical** — The 'husband' of Mercury; not further explained here. (QUOTED: fraternity of the Rosy Cross)
+  - “my husband is Gold philosophical” `III.3 ¶64`
+- **faith** — A real, even small, ideal conception that leads experimental inquiry and grows into knowledge and practical experience; a liberty of thought bearing its own evidence, not blind credulity. (ATWOOD)
+  - = ideal conception: “without faith, without the ideal conception, nothing is or can be proven” `III.3 ¶64`
+  - “The faith we invite is no blind credulity” `III.3 ¶64`
+
+## Sources cited
+
+- **Poemander**, *The Divine Poemander of Hermes Trismegistus, book 2* — “For the sleep of the body was the sober watchfulness of the mind” `III.3 ¶58, III.3 n36` — Supports: testimony of the operative revelation of Intellect, to which Atwood says nothing can be added.
+- **St John’s Gospel**, *St John’s Gospel, 10* — “thou blasphemest, because I said I am the Son of God” `III.3 ¶59, III.3 n37` — Supports: those to whom the Word of God came are called gods; set against unbelief.
+- **Agrippa** — “under the Bark of the Law” `III.3 ¶59` — Supports: no one now reads Scripture beneath its literal surface.
+- **the Apostle**, *1 Corinth. 3:15, etc.* — “the veil shall be taken away” `III.3 ¶59, III.3 n38` — Supports: the veil over reading Moses lifts on turning to the Lord/Spirit; beholders are transformed.
+- **Moses** — “when Moses is read, the veil is upon their heart” `III.3 ¶59` — Within the Apostle's text: the Law read under a veil.
+- **the Kabalist**, *Zohar, part 3, fol. 152, verso* — “The story of the Law is the vestment of the Law” `III.3 ¶59, III.3 n39` — Supports (endorsed): the Law's narrative clothes a sublime mystery, its Soul.
+- **Frank** `III.3 n39` — Reference only (p. 165), for the Kabalist passage.
+- **Origen**, *Homil. 7, in Levit.* `III.3 n39` — Reference only, for the Kabalist passage.
+- **St. Paul**, *1 Cor. 10:1-4* — “and that rock was Christ” `III.3 ¶59, III.3 n40` — Cited: the Fathers baptized in cloud and sea, eating spiritual meat and drinking from the spiritual rock; its application is not stated.
+- **Synesius**, *True Book concerning the Philosopher’s Stopne* — “labour only for that Water which burns to blackness, dissolves and congeals” `III.3 ¶60, III.3 n43` — Supports: practical instruction on coction of the one Water, unity of operations, extraction and the luminaries; Atwood calls it the Experiment of the Fathers.
+- **Lumen de Lumine**, *Lumen de Lumine, p. 66* `III.3 n41` — Reference only, for part of ¶60.
+- **Norton**, *Norton’s Ordinal, cap.3* `III.3 n41, III.3 n42` — Reference only, for parts of ¶60.
+- **Eirenaeus**, *Eirenaeus’s Experiments, at the end of his Ripley Revived, p. 6* `III.3 n42` — Reference only, for sealing the vessel (¶60).
+- **Democritus** `III.3 ¶61` — Atwood names the Experiment 'the Art of Democritus', as commemorated by Bacon.
+- **Lord Bacon**, *Bacon’s Wisdom of the Ancient, Fable of Proteus* — “lays hold of and works upon matter in the extremest degrees” `III.3 ¶61, III.3 n44` — Supports (endorsed, quoted before and repeated): matter forced to extremity runs through all forms and restores itself; Atwood glosses the extremity as the last exigence of life.
+- **the Adepts** — “her birth, according to the Adepts, is singular and not without a miracle” `III.3 ¶62` — Supports: the miraculous birth of the Matter.
+- **the Greeks** — “by the Greeks called Myrionymous” `III.3 ¶62` — Supports: Isis's name 'goddess with a thousand names'.
+- **the initiated, who celebrated her Mysteries in the Eleusian fane** `III.3 ¶62` — Illustrates: the multinominal goddess as they described her.
+- **fraternity of the Rosy Cross**, *Latin original of the Fraternity, as given in the Coelum Terrae of Vaughan* — “I am a Goddess for beauty and extraction” `III.3 ¶62, III.3 ¶63, III.3 ¶64, III.3 n45` — Supports/illustrates: speeches of the Matter as Goddess (First Matter, Eagle and Lion, five gates) and as Dragon/Mercury.
+- **Vaughan**, *Coelum Terrae* `III.3 n45` — Reference only: source for the Rosicrucian passages.
+
+## Ambiguities
+
+- “And I advise thee, my son, says the Saint Synesius” `III.3 ¶60`
+  - Reading: The whole of ¶60 is Synesius.
+  - Reading: ¶60 is a composite drawn from several authors under Synesius' name.
+  - Basis: The text attributes it to Synesius and n43 cites his True Book for the end; but n41 cites Lumen de Lumine and Norton's Ordinal, and n42 Eirenaeus and Norton, for earlier sentences.
+- “and not that to dissolve, to calcine” `III.3 ¶60`
+  - Reading: 'not' is a misprint for 'note', introducing the statement that all operations are one.
+  - Reading: 'not' as printed, negating the identity.
+  - Basis: The parallel 'Note further, that to extract the soul...' in the next sentence and the conclusion 'are all one, and signify no more than to decoct nature' support 'note'.
+- “the operation of Venus” `III.3 ¶60`
+  - Reading: A name for the extracting calcination as one operation.
+  - Reading: A reference to a particular agent or substance called Venus.
+  - Basis: The text only says the calcinations 'signify the operation of Venus'; no gloss in this chunk.
+- “the oblivion of this worked and its defilements” `III.3 ¶61`
+  - Reading: 'worked' is a misprint for 'world'.
+  - Reading: 'worked' as printed, referring to the worked-upon state of the matter.
+  - Basis: 'oblivion of this ... and its defilements' reads naturally as 'this world'; the surrounding text speaks of working on matter.
+- “and that rock was Christ” `III.3 ¶59`
+  - Reading: Cited as an example of Scripture whose literal story hides a spiritual sense.
+  - Reading: Cited to identify the spiritual drink/rock with the subject of the work.
+  - Basis: It follows the Kabalist passage on the Law's hidden Soul and 'whose Experience is All'; Atwood gives no explicit application.
+- “Thy parents are the Sun and Moon (philosophical)” `III.3 ¶63`
+  - Reading: The parentheticals are Atwood's insertions into the quotation.
+  - Reading: They belong to the quoted Rosicrucian text.
+  - Basis: A similar parenthesis occurs at 'used (in their circulatory course)' in III.3 ¶63; the text does not mark who wrote them.
+- “At this gate there is a most sharp fight, for it produceth water and blood, and the blood of the lion.” `III.3 ¶63`
+  - Reading: Transcription duplication; the second gate produces 'water and blood, and a spiritual bright body'.
+  - Reading: Both the lion's blood and a spiritual bright body are meant.
+  - Basis: The sentence is immediately repeated ending 'and a spiritual bright body', matching the duplication in III.3 ¶62 ('is is miraculous...').
+
+## Translations
+
+- `III.3 ¶62` “Myrionymous” → the goddess with a thousand names *(book)*
+
+## Threads
+
+- `III.3 ¶58` 'When Poemander had thus said to me' concludes a Poemander discourse begun before this chunk.
+- `III.3 ¶61` Bacon's Proteus passage was 'before quoted' earlier in the book; repeated here 'for its value’s sake'.
+- `III.3 ¶62` 'from the whole above, we may have gathered some approximating idea of the multinominal goddess' points back to the preceding discussion.
+- `III.3 ¶64` 'we repeat it' indicates the claim that the percipient right-believer will not be deceived was made earlier.

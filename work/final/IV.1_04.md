@@ -1,0 +1,261 @@
+# IV.1_04
+
+*Atwood strings together adept testimonies on the vital, constant heat, the alternating extraction and return of moisture to putrefaction, and the reconciling of contrary works, and glosses them as action and reaction preparing the matter to attract the Divine Seed; she then turns the work inward: the Motive is the spiritual ferment, Mind is the Key, and the Philosophic Work truly begins only when all is purified within and without.*
+
+## Argument
+
+- Vaughan: one vital, most mysterious heat-operation; place the Moon of the Firmament, a middle Nature, equally within two elements. `IV.1 ¶41, IV.1 n35` — QUOTED: Vaughan
+- Flamel: cherish Solar and Lunar Mercury, one planted in the other, over a constant sun-like fire, not coals or wood. `IV.1 ¶41, IV.1 n35` — QUOTED: Flamel
+- Morien: raise water from the earth and return it until the earth putrefies, loses Form, lies dead a season. `IV.1 ¶41, IV.1 n36` — QUOTED: Morien
+- This supplies the condition for attracting the Divine Seed: actives raised by passives and vice versa until spiritual ability is complete. `IV.1 ¶41` — ATWOOD
+- Verse: two works undo each other; perform each apart, then reconcile them. `IV.1 ¶42, IV.1 n37` — QUOTED: Eirenaeus
+- Fiery Dragon and Lodestone (4:9), reduced to water, purged thrice, yield the Chamelion, our Chaos, holding all Arcana in virtue. `IV.1 ¶43, IV.1 n38` — QUOTED: the same author (Eirenaeus, n37)
+- Latin: the terrestrial sun's innate heat, not the celestial sun's, warms earth's depth. `IV.1 ¶43, IV.1 n39` — QUOTED: Nuysement
+- Democritus portrays this Vulcanic action, destroying and maintaining life: `IV.1 ¶43` — ATWOOD
+- fixed Brass fired until Paphia appears entirely Golden. `IV.1 ¶43, IV.1 n40` — QUOTED: Democritus
+- The aim is to promote inquiry. Increasing faith through equal companionship and reciprocal benefaction, the inquirer finds the riddle solving itself. Everything depends on the Motive, the spiritual ferment. `IV.1 ¶44` — ATWOOD
+- The end depends from the beginning: as sap becomes wine, the philosophic matter is purified by interchanging ferments into an immortal Form of Light. The artist refuses Nature's intermediate allurements until Divine Perfection. `IV.1 ¶45, IV.1 ¶46` — ATWOOD
+- The apostle: no other foundation than Jesus Christ; Fire tries every work; ye are the Temple of God. `IV.1 ¶46, IV.1 n41` — QUOTED: the apostle
+- Chemistry drives off the Divine Original unidentified; Alchemists rectify the Universal Element by voluntary corrosive, gentleness, beneficence, justice, until subversion of selfhood makes their Sublimate sublime. `IV.1 ¶47` — ATWOOD
+- Solving the Sphinx is rationally penetrating one's darkened understanding. Mind is the Key: with Self Knowledge the Efficient enacts its motive. The Work truly begins only after the right Motive and full mundification; premature confection fails. `IV.1 ¶48` — ATWOOD
+- Norton: begin not till all be pure without and within. `IV.1 ¶49, IV.1 n42` — QUOTED: Norton
+
+## Method
+
+- **principle** — “There is one operation of heat, says Vaughan, whose method is vital and far more mysterious than all other” `IV.1 ¶41` (QUOTED: Vaughan)
+  - **Plain (interpreted):** There is a particular heating operation whose method is 'vital' and harder to grasp than any other, understood by few; the chunk does not explain 'vital' beyond the instructions that follow.
+  - Basis: IV.1 ¶41 only characterizes it; the following instructions (Moon of the Firmament, Flamel's non-common fire) are the only elaboration.
+  - Also: “there be but few of that Spirit that can comprehend it” `IV.1 ¶41`
+- **subject** — “take the Moon of the Firmament, which is a middle Nature” `IV.1 ¶41` (QUOTED: Vaughan)
+  - **Plain (stated):** The subject of this operation is called a 'middle' (intermediate) Nature; the chunk does not otherwise identify it.
+  - Basis: IV.1 ¶41 gives the gloss 'which is a middle Nature'; nothing further in the chunk.
+- **procedure** — “place her so that every part of her may be in two elements at one and the same time; these elements also must equally attend her body; not one further off, nor one nearer than the other” `IV.1 ¶41` (QUOTED: Vaughan)
+  - **Plain (interpreted):** The subject is held wholly and in exact balance within two elements at once, neither nearer nor farther from either. Which two elements is not said; the 'twofold geometry' is not explained.
+  - Basis: IV.1 ¶41 literal wording; see ambiguities for what the two elements may be.
+  - Also: “In the regulation of these there is a twofold geometry to be observed, natural and artificial.” `IV.1 ¶41`
+- **subject** — “the Solar and Lunar Mercury, and the plantation of the one in the other” `IV.1 ¶41` (QUOTED: Flamel)
+  - **Plain (interpreted):** Two Mercuries, one implanted in the other, are nurtured together over fire in a vessel; the chunk does not explain what they are.
+  - Basis: IV.1 ¶41: 'Take them, he says, and cherish them over a fire in thy Alembic'; no gloss in this chunk.
+  - Also: “cherish them over a fire in thy Alembic” `IV.1 ¶41`
+- **agent** — “it must not be a fire of coals, nor of any wood, but a bright shining fire like the Sun itself, whose heat must neither be excessive, but always of one and the same degree” `IV.1 ¶41` (QUOTED: Flamel)
+  - **Plain (stated):** The heat is not ordinary fuel-fire but a luminous, sun-like heat, kept moderate and constant.
+  - Basis: IV.1 ¶41 states the negative and positive qualities directly.
+- **procedure** — “Our operation, concludes Morien, is nothing else but extracting water from the earth and returning it again, so long and so often until the earth is completely putrefied” `IV.1 ¶41` (QUOTED: Morien)
+  - **Plain (stated):** Repeated circulation: moisture is drawn up from the body and returned to it; drawing it off heats and dries the body, returning it cools and moistens it; repeated until the body decomposes.
+  - Basis: IV.1 ¶41: Morien himself explains the alternation.
+  - Also: “by elevation of the moisture the body is heated and dried, and by returning it again it is cooled and moistened” `IV.1 ¶41`
+- **stage** — “it is brought to corrupt and to lose its Form, and for a season to remain dead” `IV.1 ¶41` (QUOTED: Morien)
+  - **Plain (stated):** Putrefaction: the circulated body corrupts, loses its former form and lies inert for a time.
+  - Basis: IV.1 ¶41, stated as the outcome of the continued successive operations.
+- **principle** — “This then is the true intention and manner of working to supply the right condition for attracting the Divine Seed, by action and reaction raising successively actives by passives” `IV.1 ¶41` (ATWOOD)
+  - **Plain (stated):** Atwood's own reading of the quoted operations: the alternating action and reaction of active and passive principles supplies the right condition for attracting the Divine Seed, and continues until the spiritual ability is complete.
+  - Basis: IV.1 ¶41, Atwood's summarizing sentence ('This then is ...') after Vaughan, Flamel and Morien.
+  - Also: “and, vice versa, passives by actives, until the spiritual ability is complete” `IV.1 ¶41`
+- **procedure** — “But if thou canst each work perform apart, And knowest them afterwards to reconcile, Then thou art master of a princely Art” `IV.1 ¶42` (QUOTED: Eirenaeus)
+  - **Plain (interpreted):** There are two works that counteract each other; each must be done separately and then the two reconciled.
+  - Basis: IV.1 ¶42 'For what one doth concoct t’other will drive away'; plausibly the alternating heating/drying and cooling/moistening, actives and passives of IV.1 ¶41, but the verse does not name the two works.
+  - Also: “For what one doth concoct t’other will drive away;” `IV.1 ¶42`
+- **procedure** — “Take four parts of our Fiery Dragon, which bears in his belly the Magic Steel, and conjoin to nine parts of our Lodestone, that by a violent concussion they may be reduced in to a mineral water” `IV.1 ¶43` (QUOTED: the same author (Eirenaeus, n37))
+  - **Plain (interpreted):** Two named ingredients in fixed proportion (4:9) are united by violent concussion into a liquid. Offered as 'an explanation of the whole difficulty', but this chunk does not say what Dragon, Steel or Lodestone are.
+  - Basis: IV.1 ¶43 only; no gloss in this chunk.
+- **procedure** — “reject the superfluous scum which swims upon it; leave the Shell and take the Kernel; and purge thrice with Salt and with Fire” `IV.1 ¶43` (QUOTED: the same author (Eirenaeus, n37))
+  - **Plain (interpreted):** Discard the superficial impurity and the outer part, keep the inner core, and purify it three times. Salt and Fire are not explained here.
+  - Basis: IV.1 ¶43; narrowest reading of the images.
+- **sign** — “which will be easy to do, if Saturn have chanced to regard his beauty in the glass of Mars” `IV.1 ¶43` (QUOTED: the same author (Eirenaeus, n37))
+  - **Plain (interpreted):** A condition that makes the purging easy; not explained in this chunk.
+  - Basis: IV.1 ¶43 only.
+- **result** — “Hence comes the Chamelion which is our Chaos, in which all the Arcana are contained; not in act as yet, but in virtue” `IV.1 ¶43` (QUOTED: the same author (Eirenaeus, n37))
+  - **Plain (stated):** The product of this stage is a chaos holding all the secret powers potentially, not yet actualized.
+  - Basis: IV.1 ¶43 identifies the Chamelion with 'our Chaos' and states it contains the Arcana 'in virtue'.
+- **agent** — “Non igitur externus solis coelestis calor est qui profundum terrae calefacit sed potius solis terrestris innatus calor” `IV.1 ¶43` (QUOTED: Nuysement)
+  - **Plain (interpreted):** The effective heat is innate to the 'earth' (a 'terrestrial sun'), not applied from outside. Rests on our translation only.
+  - Basis: IV.1 ¶43, our translation (no book translation); placed alongside Vaughan's 'vital' heat (IV.1 ¶41) and the 'Vulcanic action' (IV.1 ¶43).
+- **agent** — “Which Vulcanic action, to destroy life and to maintain it” `IV.1 ¶43` (ATWOOD)
+  - **Plain (stated):** The fire-action of the work is double: it both destroys life and sustains it.
+  - Basis: IV.1 ¶43, Atwood's own characterization introducing Democritus.
+- **stage** — “adorning now the shoulder and the breast of Paphia till she shall appear more manifestly beautiful, and, throwing the glaucous veil aside, shall appear entirely Golden” `IV.1 ¶43` (QUOTED: Democritus)
+  - **Plain (interpreted):** Under repeated firing with additions, the material is progressively beautified until its covering falls away and it appears wholly golden. The chunk explains it only as the 'Vulcanic action'; Fossil Slat and Attic Ochre are not explained.
+  - Basis: IV.1 ¶43: Atwood presents the passage as portraying the Vulcanic action; the fixed Brass is placed 'upon the coals' and Vulcan stirred in, 'now irradiating with the Fossil Slat, now with the incessant Attic Ochre'.
+  - Also: “Drawing the fixed Brass out bodily, instructs this Abderite, thou shalt compose a certain oblong tongue, and placing it again upon the coals, stir Vulcan into it” `IV.1 ¶43`
+- **operator** — “having increased also his natural store of inclination and faith by practice in equal companionship and reciprocal benefaction” `IV.1 ¶44` (ATWOOD)
+  - **Plain (stated):** The beginner strengthens his inclination and faith by practice in a partnership of equals with mutual benefit; then the riddle opens stage by stage.
+  - Basis: IV.1 ¶44, literal statement of how the inquirer should begin.
+  - Also: “even though the riddle should appear ever so intricate at first, it will solve itself at every stage, opening into new prospects within the veil of life” `IV.1 ¶44`
+- **operator** — “Labor to know causes, advises the philosopher; he that seeks rationally finds the true end, not otherwise” `IV.1 ¶44` (QUOTED: the philosopher)
+  - **Plain (stated):** The operator must pursue the work by rational inquiry into causes.
+  - Basis: IV.1 ¶44; Atwood endorses it ('for such a conduct conciliates Minerva, and at her behest Jove prospers the undertaking').
+- **principle** — “Everything depends upon the Motive, which is the true spiritual ferment” `IV.1 ¶44` (ATWOOD)
+  - **Plain (stated):** The Motive is the true spiritual ferment; the result obtained corresponds to the virtue of this fermenting principle, so the end depends on the beginning.
+  - Basis: IV.1 ¶44 identifies Motive with the spiritual ferment and ties the result to 'the virtue of the fermenting principle'; IV.1 ¶45-¶46 'The end depends from the beginning'.
+  - Also: “according to the virtue of the fermenting principle is the result obtained” `IV.1 ¶44`
+  - Also: “Sie finis ab origine pendet.” `IV.1 ¶45`
+  - Also: “The end depends from the beginning” `IV.1 ¶46`
+- **subject** — “the philosophic matter, drawn in part from the heterogeneous air and defiled breath of vitality” `IV.1 ¶46` (ATWOOD)
+  - **Plain (stated):** The matter of the work is drawn partly from the (mixed) air and from the impure breath of life.
+  - Basis: IV.1 ¶46, stated directly within the vine/wine analogy.
+- **procedure** — “is purified by successive interchanging of ferments, fretted, dissolved, and rectified into a consummate and immortal Form of Light” `IV.1 ¶46` (ATWOOD)
+  - **Plain (stated):** As sap is turned into wine by fermentation, the matter is refined by repeated alternation of ferments, dissolution and rectification, ending in a perfected, immortal form of light.
+  - Basis: IV.1 ¶46, explicit analogy with the vine's sap 'by the fermentive art is turned into wine, spiritualized'.
+  - Also: “as the vine draws its sap from the foeculent impure earth, and yields a fluid fruit, which by the fermentive art is turned into wine, spiritualized” `IV.1 ¶46`
+- **impediment** — “Nature halts many times before this final rest, at each stage offering the fruits of her conceptive imagination to allure” `IV.1 ¶46` (ATWOOD)
+  - **Plain (stated):** At intermediate stages the process yields tempting partial results; the true artist must refuse them all, destroying each early product and pressing on until perfection.
+  - Basis: IV.1 ¶46: 'he will accept of none of these, but will proceed, sacrificing all the intermediate benefits'.
+  - Also: “with relentless hands, slaying the firstborn offspring until the Divine Perfection is attained” `IV.1 ¶46`
+- **sign** — “it shall be revealed by Fire; and the Fire shall try every man’s work of what sort it is” `IV.1 ¶46` (QUOTED: the apostle)
+  - **Plain (interpreted):** Fire is the test that shows whether a work abides; Atwood cites this directly after the artist's refusal of intermediate fruits, ending on the person as Temple of God.
+  - Basis: IV.1 ¶46: the apostle's words follow the image of pursuing 'the Divine Perfection'; the passage ends 'which Temple ye are'.
+  - Also: “If any man’s work abide which he hath built thereupon, he shall receive a reward.” `IV.1 ¶46`
+  - Also: “Know ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?” `IV.1 ¶46`
+- **impediment** — “The common elements of Nature obscure their Divine Original, and Chemistry and all our experimental physics drive it forcibly without the means of Identification” `IV.1 ¶47` (ATWOOD)
+  - **Plain (stated):** Ordinary matter hides its divine source, and ordinary chemistry and physics drive it off without being able to recognize it.
+  - Basis: IV.1 ¶47 directly; prefaced by the image of the unopened casket.
+  - Also: “It is vain to look in expectation, or believe ourselves in the hereditary possession, of a treasure, without so much as opening or suspecting even the casket in which it is shut up.” `IV.1 ¶47`
+- **subject** — “to rectify the Universal Element, and compress its invisible vapor into a tangible Form” `IV.1 ¶47` (ATWOOD)
+  - **Plain (stated):** The Alchemists' object is the Universal Element, whose invisible vapor they refine and compress into tangible form by subtler apparatus and tests than chemistry's.
+  - Basis: IV.1 ¶47, contrasted with the chemist's refining of common elements.
+- **procedure** — “By applying the proper voluntary corrosive they teach to obliterate its defilements; by gentleness to mollify its Durity; by beneficence to sweeten its acerbity; by justice to moderate its intensity” `IV.1 ¶47` (ATWOOD)
+  - **Plain (stated):** The purifying operations are acts of will and moral virtues: a voluntary corrosive removes defilement, gentleness softens hardness, beneficence sweetens harshness, justice tempers intensity; the matter is then filled with hope, truth, beauty and understanding, replacing the rule of the senses.
+  - Basis: IV.1 ¶47 pairs each virtue explicitly with a chemical effect.
+  - Also: “to irradiate it with hope, truth, beauty, and universal intellection; supplanting the sensual dominion” `IV.1 ¶47`
+- **result** — “by an actual subversion of the selfhood, they made their Sublimate sublime” `IV.1 ¶47` (ATWOOD)
+  - **Plain (stated):** The culmination is an actual overthrow of the self, which raises the product to its highest state.
+  - Basis: IV.1 ¶47 directly.
+- **operator** — “to solve the Enigma of the Sphinx; in other words, to penetrate rationally the darkened essence of his natural understanding” `IV.1 ¶48` (ATWOOD)
+  - **Plain (stated):** The riddle to be solved is the operator's own obscured natural understanding; penetrated rationally and illuminated by conversion, it becomes wholly lucid and is changed.
+  - Basis: IV.1 ¶48 'in other words' gives the gloss.
+  - Also: “by conversion illuminating its obscurity, cause it to become lucid throughout, and to be no longer what it was before” `IV.1 ¶48`
+- **agent** — “For Mind is the Key of this Hermetic Enigma” `IV.1 ¶48` (ATWOOD)
+  - **Plain (stated):** Mind is the key: once it attains Self Knowledge by inquiry within, 'the Efficient' proceeds outward to image its motive in operation, so what lay in speculation only is carried out in life.
+  - Basis: IV.1 ¶48 'no sooner does it attain to Self Knowledge, by proper inquiry within, than the Efficient proceeds out wards to image its motive in operation'.
+  - Also: “so that that which before lay in speculation only is carried out in Life” `IV.1 ¶48`
+- **stage** — “it is not until the right Motive is discovered, and until the mundification of the Spirit is completed in both kinds, and all things are reduced to a crystalline diaphaneity, that the Philosophic Work has been said truly to being” `IV.1 ¶48` (ATWOOD)
+  - **Plain (stated):** Everything before is preliminary purification; the Philosophic Work proper begins only after the right motive is found and the spirit is completely cleansed and made transparent.
+  - Basis: IV.1 ¶48 directly; IV.1 ¶49 Norton: 'The philosopher’s worke doe not begin Till all things be pure without and within'.
+  - Also: “The philosopher’s worke doe not begin Till all things be pure without and within” `IV.1 ¶49`
+  - Also: “Must needly avoid all things wild and vicious.” `IV.1 ¶49`
+- **impediment** — “if any permanent confection is made or suffered to take place beforehand, the immature offspring does not abide” `IV.1 ¶48` (ATWOOD)
+  - **Plain (stated):** Fixing anything permanently before purification is complete yields a premature product that does not last.
+  - Basis: IV.1 ¶48 directly ('as was before observed').
+
+## Terms
+
+- **Moon of the Firmament** — The subject to be placed equally within two elements in the vital heat-operation; said to be a middle Nature. (QUOTED: Vaughan)
+  - = middle Nature: “the Moon of the Firmament, which is a middle Nature” `IV.1 ¶41`
+  - “take the Moon of the Firmament, which is a middle Nature” `IV.1 ¶41`
+- **Solar and Lunar Mercury** — Two Mercuries, one planted in the other, cherished in the Alembic over a constant sun-like fire; not further explained. (QUOTED: Flamel)
+  - “the Solar and Lunar Mercury, and the plantation of the one in the other” `IV.1 ¶41`
+- **Alembic** — The vessel in which the Mercuries are cherished over fire. (QUOTED: Flamel)
+  - “cherish them over a fire in thy Alembic” `IV.1 ¶41`
+- **putrefied** — State of the earth after repeated extraction and return of its water: corrupted, without its Form, dead for a season. (QUOTED: Morien)
+  - “until the earth is completely putrefied” `IV.1 ¶41`
+- **Form** — What the body loses in putrefaction; also what the Universal Element's invisible vapor is compressed into ('tangible Form'). (ATWOOD)
+  - “to corrupt and to lose its Form” `IV.1 ¶41`
+  - “compress its invisible vapor into a tangible Form” `IV.1 ¶47`
+- **Divine Seed** — What the matter, brought to the right condition by action and reaction, attracts. (ATWOOD)
+  - “to supply the right condition for attracting the Divine Seed” `IV.1 ¶41`
+- **actives / passives** — Paired principles raised successively by each other through action and reaction until spiritual ability is complete. (ATWOOD)
+  - “raising successively actives by passives, and, vice versa, passives by actives” `IV.1 ¶41`
+- **Fiery Dragon** — Ingredient (four parts) bearing the Magic Steel in its belly, conjoined to nine parts Lodestone; not explained here. (QUOTED: the same author (Eirenaeus, n37))
+  - “Take four parts of our Fiery Dragon, which bears in his belly the Magic Steel” `IV.1 ¶43`
+- **Magic Steel** — Carried in the belly of the Fiery Dragon; not explained here. (QUOTED: the same author (Eirenaeus, n37))
+  - “which bears in his belly the Magic Steel” `IV.1 ¶43`
+- **Lodestone** — Ingredient (nine parts) conjoined with the Fiery Dragon; not explained here. (QUOTED: the same author (Eirenaeus, n37))
+  - “conjoin to nine parts of our Lodestone” `IV.1 ¶43`
+- **Chamelion** — Product of the Dragon/Lodestone conjunction and purgations; a chaos containing all Arcana in virtue, not in act. (QUOTED: the same author (Eirenaeus, n37))
+  - = Chaos: “the Chamelion which is our Chaos” `IV.1 ¶43`
+  - “Hence comes the Chamelion which is our Chaos, in which all the Arcana are contained; not in act as yet, but in virtue” `IV.1 ¶43`
+- **Arcana** — The secrets contained in the Chaos potentially ('in virtue'), not yet actually. (QUOTED: the same author (Eirenaeus, n37))
+  - “in which all the Arcana are contained; not in act as yet, but in virtue” `IV.1 ¶43`
+- **Vulcan** (also: Vulcanic action) — The fire of the work; its action both destroys and maintains life. (ATWOOD)
+  - “Which Vulcanic action, to destroy life and to maintain it” `IV.1 ¶43`
+  - “placing it again upon the coals, stir Vulcan into it” `IV.1 ¶43`
+- **fixed Brass** — Material drawn out and worked on the coals in the Democritus passage until it appears Golden. (QUOTED: Democritus)
+  - “Drawing the fixed Brass out bodily” `IV.1 ¶43`
+- **Motive** — The operator's motive, on which everything depends; the result corresponds to its virtue; the Work truly begins only when the right Motive is discovered. (ATWOOD)
+  - = spiritual ferment: “the Motive, which is the true spiritual ferment” `IV.1 ¶44`
+  - “Everything depends upon the Motive, which is the true spiritual ferment” `IV.1 ¶44`
+  - “it is not until the right Motive is discovered” `IV.1 ¶48`
+- **ferment** (also: ferments, fermenting principle, fermentive art) — The active, spiritualizing principle by whose virtue the result is obtained; the philosophic matter is purified by successive interchange of ferments, as sap becomes wine. (ATWOOD)
+  - “according to the virtue of the fermenting principle is the result obtained” `IV.1 ¶44`
+  - “is purified by successive interchanging of ferments” `IV.1 ¶46`
+- **philosophic matter** — The matter of the Hermetic art, drawn partly from air and the defiled breath of vitality, purified into an immortal Form of Light. (ATWOOD)
+  - “the philosophic matter, drawn in part from the heterogeneous air and defiled breath of vitality” `IV.1 ¶46`
+- **Form of Light** — The consummate, immortal form into which the philosophic matter is finally rectified. (ATWOOD)
+  - “rectified into a consummate and immortal Form of Light” `IV.1 ¶46`
+- **Divine Original** — The divine source obscured by the common elements and not identifiable by chemistry. (ATWOOD)
+  - “The common elements of Nature obscure their Divine Original” `IV.1 ¶47`
+- **Universal Element** — What the Alchemists rectify: an invisible vapor compressed into tangible Form; contrasted with the common elements of chemistry. (ATWOOD)
+  - “to rectify the Universal Element, and compress its invisible vapor into a tangible Form” `IV.1 ¶47`
+- **voluntary corrosive** — The agent applied to obliterate the defilements of the Universal Element; first in a series with gentleness, beneficence and justice. (ATWOOD)
+  - “By applying the proper voluntary corrosive they teach to obliterate its defilements” `IV.1 ¶47`
+- **Sublimate** — The product the Alchemists made sublime by actual subversion of the selfhood. (ATWOOD)
+  - “they made their Sublimate sublime” `IV.1 ¶47`
+- **selfhood** — That whose actual subversion completes the rectification and sublimation. (ATWOOD)
+  - “by an actual subversion of the selfhood” `IV.1 ¶47`
+- **Enigma of the Sphinx** (also: Hermetic Enigma) — The riddle whose solution is rationally penetrating the darkened essence of one's natural understanding; Mind is its Key. (ATWOOD)
+  - = the darkened essence of his natural understanding (to be penetrated rationally): “to solve the Enigma of the Sphinx; in other words, to penetrate rationally the darkened essence of his natural understanding” `IV.1 ¶48`
+  - “For Mind is the Key of this Hermetic Enigma” `IV.1 ¶48`
+- **Mind** — The Key of the Hermetic Enigma; attains Self Knowledge by inquiry within, whereupon the Efficient acts outward. (ATWOOD)
+  - = Key of this Hermetic Enigma: “Mind is the Key of this Hermetic Enigma” `IV.1 ¶48`
+  - “no sooner does it attain to Self Knowledge, by proper inquiry within” `IV.1 ¶48`
+- **Efficient** — The effective power that, once Mind attains Self Knowledge, proceeds outward to image its motive in operation. (ATWOOD)
+  - “the Efficient proceeds out wards to image its motive in operation” `IV.1 ¶48`
+- **mundification** — Cleansing of the Spirit, to be completed 'in both kinds' before the Philosophic Work truly begins. (ATWOOD)
+  - “until the mundification of the Spirit is completed in both kinds” `IV.1 ¶48`
+- **crystalline diaphaneity** — The transparent state to which all things must be reduced before the Work truly begins. (ATWOOD)
+  - “all things are reduced to a crystalline diaphaneity” `IV.1 ¶48`
+- **Philosophic Work** (also: philosopher’s worke) — The work proper, which begins only after the right Motive, complete mundification and crystalline diaphaneity; what precedes is preparatory. (ATWOOD)
+  - “that the Philosophic Work has been said truly to being” `IV.1 ¶48`
+  - “The philosopher’s worke doe not begin Till all things be pure without and within” `IV.1 ¶49`
+- **confection** — A permanent fixing; if made or allowed prematurely, its immature offspring does not abide. (ATWOOD)
+  - “if any permanent confection is made or suffered to take place beforehand, the immature offspring does not abide” `IV.1 ¶48`
+- **Tincture** — What the seeker aims at; seeking it requires avoiding all things wild and vicious. (QUOTED: Norton)
+  - “He that would seek Tincture most specious Must needly avoid all things wild and vicious.” `IV.1 ¶49`
+
+## Sources cited
+
+- **Vaughan**, *Coelum Terrae* — “There is one operation of heat, says Vaughan, whose method is vital and far more mysterious than all other” `IV.1 ¶41, IV.1 n35` — Supports: the vital, mysterious heat-operation and placing the Moon of the Firmament equally in two elements. Work assigned from n35, which lists 'Coelum Terrae; Flamelli Summula' in the order Vaughan, Flamel are quoted.
+- **Flamel**, *Flamelli Summula* — “a bright shining fire like the Sun itself, whose heat must neither be excessive, but always of one and the same degree” `IV.1 ¶41, IV.1 n35` — Supports: the nature of the fire (not coal or wood; sun-like, constant) for cherishing the Solar and Lunar Mercury.
+- **Morien**, *De Trans. Metal.* — “Our operation, concludes Morien, is nothing else but extracting water from the earth and returning it again” `IV.1 ¶41, IV.1 n36` — Supports: alternating extraction and return of moisture leading to putrefaction; Atwood then glosses it as action and reaction.
+- **Eirenaeus**, *Ripley Revived* — “For what one doth concoct t’other will drive away;” `IV.1 ¶42, IV.1 n37` — Supports: two contrary works to be done apart and then reconciled (verse).
+- **the same author**, *Introitus Apertus, cap. 7 (text: 'his pe Entrance')* — “Hence comes the Chamelion which is our Chaos” `IV.1 ¶43, IV.1 n38` — Illustrates: 'an explanation of the whole difficulty' — Fiery Dragon, Lodestone, purgation, the Chamelion/Chaos. 'The same author' follows the n37 verse (Eirenaeus); n38 names no author.
+- **Nuysement**, *Sal Lumen, the latin of Combachius* — “sed potius solis terrestris innatus calor” `IV.1 ¶43, IV.1 n39` — Supports: the effective heat is innate (terrestrial sun), not external.
+- **Democritus**, *In Flamelli Summula, Quae ex Democrito colleguntur* — “Drawing the fixed Brass out bodily, instructs this Abderite” `IV.1 ¶43, IV.1 n40` — Illustrates: Atwood says Democritus 'before all, and as it were pyrographically, portrays' the Vulcanic action; called 'this Abderite'.
+- **Paris (Venus, Juno, Minerva)** — “Perchance it was when Paris gazed on such a Venus, he did prefer her both to Juno and Minerva” `IV.1 ¶43` — Illustrates: the beauty of the golden Venus (Paphia) of the Democritus passage; speaker unclear (see ambiguities).
+- **the philosopher** — “Labor to know causes” `IV.1 ¶44` — Supports: rational inquiry into causes as the condition of success; endorsed by Atwood.
+- **unattributed Latin maxim** — “Sie finis ab origine pendet.” `IV.1 ¶45` — Supports: the end depends from the beginning (the Motive governs the result).
+- **the apostle**, *1 Corinth. 3:11-17* — “the Fire shall try every man’s work of what sort it is” `IV.1 ¶46, IV.1 n41` — Supports: the one foundation, trial of every work by Fire, and man as Temple of God; attached to the call to press on to Divine Perfection.
+- **Oedipus / the Sphinx** — “like Oedipus, is able to solve the Enigma of the Sphinx” `IV.1 ¶48` — Illustrates: solving the riddle as rational penetration of one's own natural understanding.
+- **Norton**, *Norton’s ordinal, cap. 4* — “The philosopher’s worke doe not begin Till all things be pure without and within” `IV.1 ¶49, IV.1 n42` — Supports: the Work begins only after complete purity (verse).
+
+## Ambiguities
+
+- “every part of her may be in two elements at one and the same time” `IV.1 ¶41`
+  - Reading: Two contrary qualities applied together (heat/dryness and cold/moisture, as in Morien)
+  - Reading: Two principles acting reciprocally (actives and passives)
+  - Basis: Reading 1: Morien's heating/drying and cooling/moistening in the same IV.1 ¶41. Reading 2: Atwood's summary 'raising successively actives by passives, and, vice versa, passives by actives' (IV.1 ¶41). The text names neither element.
+- “Perchance it was when Paris gazed on such a Venus, he did prefer her both to Juno and Minerva” `IV.1 ¶43`
+  - Reading: Atwood's own aside on the Democritus passage
+  - Reading: Part of the quoted Democritus passage
+  - Basis: Reading 1: shift from instruction ('thou shalt') to comment ('Perchance'). Reading 2: footnote marker (40) stands after this sentence, not after 'entirely Golden'.
+- “Know ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?” `IV.1 ¶46`
+  - Reading: Moral exhortation about the operator's conduct as a condition of the work
+  - Reading: Identification of the person as the very ground/vessel of the work
+  - Basis: Reading 1: IV.1 ¶44 stress on Motive; IV.1 ¶49 'avoid all things wild and vicious'. Reading 2: IV.1 ¶47 'subversion of the selfhood' and IV.1 ¶48 penetrating 'the darkened essence of his natural understanding'; the quotation follows directly on the philosophic matter drawn from 'defiled breath of vitality' (IV.1 ¶46).
+- “until the mundification of the Spirit is completed in both kinds” `IV.1 ¶48`
+  - Reading: Outward and inward purity
+  - Reading: The two paired principles or works (Solar/Lunar, actives/passives, the two works to be reconciled)
+  - Basis: Reading 1: IV.1 ¶49 'Till all things be pure without and within' follows directly. Reading 2: IV.1 ¶41 Solar and Lunar Mercury, actives and passives; IV.1 ¶42 two works to be reconciled.
+
+## Translations
+
+- `IV.1 ¶43` “Non igitur externus solis coelestis calor est qui profundum terrae calefacit sed potius solis terrestris innatus calor; etc…” → It is not, therefore, the external heat of the celestial sun that warms the depth of the earth, but rather the innate heat of the terrestrial sun; etc. *(ours)*
+- `IV.1 ¶45` “Sie finis ab origine pendet.” → The end depends from the beginning *(book)*
+- `IV.1 n40` “In Flamelli Summula, Quae ex Democrito colleguntur.” → In Flamel's Summula, things collected from Democritus. *(ours)*
+
+## Threads
+
+- `IV.1 ¶43` 'adds the same author, in his pe Entrance': points back to the author of the IV.1 ¶42 verse (n37 Eirenaeus); 'pe' appears garbled in the source text.
+- `IV.1 ¶44` 'This evidence may suffice for the present occasion': closes the run of cited authorities that began before this chunk; the stated aim is to promote inquiry rather than pursue it.
+- `IV.1 ¶48` 'as was before observed': points back to an earlier statement that a permanent confection made beforehand yields immature offspring that does not abide.
+- `IV.1 ¶48` The Philosophic Work 'truly' begins only after mundification and crystalline diaphaneity, marking the purification described before it as preparatory.

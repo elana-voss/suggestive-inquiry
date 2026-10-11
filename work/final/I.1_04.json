@@ -1,0 +1,1065 @@
+{
+  "chunk": "I.1_04",
+  "gist": "Atwood traces alchemy's passage from East to West around the crusades and surveys medieval adepts (Roger Bacon, Albertus Magnus, Aquinas, Arnold di Villa Nova, Alain de l'Isle, Raymond Lully), defending their authenticity against editors and biographers and arguing that only pure-motived philosophers, never the avaricious, succeed in the art, whose practice they deliberately concealed.",
+  "notes": [
+    {
+      "point": "Artephius links alchemy's history: about the first crusades arts passed from East to West, and towards the end of the twelfth century 'our Phoenix' passed into the West.",
+      "refs": [
+        "I.1 ¶37"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Roger Bacon was among the first to fill his lamp from her reviviscent spirit; working it experimentally he is said to have found the secret ligature of natures and their magical dissolution, proved the multiplicability of light by the universal spirit of nature, and produced gold.",
+      "refs": [
+        "I.1 ¶38",
+        "I.1 n43"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Bacon withheld these fruits from conscience, as he declares, the gift being rashly and dangerously obtained; reportedly fatal curiosity led him into forbidden self-sufficiency and unlawful peace of mind, and he abandoned the research to expiate in solitude.",
+      "refs": [
+        "I.1 ¶38"
+      ],
+      "voice": "QUOTED: Roger Bacon (as he declares) / unnamed report ('as it is suggested'); relayed by Atwood without dissent"
+    },
+    {
+      "point": "Rejecting his books at Oxford was bigotry, but reducing the magic charge to natural skill may be equally far from truth.",
+      "refs": [
+        "I.1 ¶38"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Bacon's surviving works state the roots of the Hermetic science but conceal the practice, per his maxim that truth must not be shown to every ribald.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 n44"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Medieval 'Magians' were drawn by the fire of nature into communication with her central source; named adepts held the veil partly open for those able to aspire and willing to labor. Medium minds halt at barriers great minds over-leap; faith led them beyond things seen.",
+      "refs": [
+        "I.1 ¶39"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Editors excluded Albert's alchemical works, but De Mineralibus, unquestionably his, describes the first matter from personal observation and calls alchemy the best means of rational investigation; Aquinas' disclosures remove doubt.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 n45",
+        "I.1 n46"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Albert renounced riches, fame and church power for cloistered study. Gain-seekers never found the stone; success has peculiar conditions; wisdom teaches only philosophers to make gold. Norton: scarcely three in a million are chosen.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶40",
+        "I.1 n47"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "True adepts were rare; their writings show the purest motives (truthful, moral, pious, intelligent), unlike the reckless pseudo-alchemists. Albert's fame passed to Aquinas.",
+      "refs": [
+        "I.1 ¶41",
+        "I.1 n48"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Aquinas affirms transmutation (metals share one matter) and his and Albert's successes. He sophisticated to screen the doctrine, directing inquirers to the Divine Art's higher purposes and universal theosophy rather than multiplying gold, and enjoins oral teaching and secrecy. His De Esse et Essentia is called eminently instructive.",
+      "refs": [
+        "I.1 ¶42",
+        "I.1 n49",
+        "I.1 n50",
+        "I.1 n51"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Contemporaries attest Arnold di Villa Nova's projections with transmuting powder; John Andre reports iron bars turned to gold at Rome.",
+      "refs": [
+        "I.1 ¶43",
+        "I.1 n52"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Towards the close of the 14th century the art became in high request; lesser geniuses took up the scattered doctrines with various success.",
+      "refs": [
+        "I.1 ¶44"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Alain de l'Isle is said to have obtained the Elixir; editors suppressed this testimony. He commented on Merlin's Prophecies, reportedly solely about Hermetic arcana.",
+      "refs": [
+        "I.1 ¶45",
+        "I.1 n53",
+        "I.1 n54"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "John Cremer, misled thirty years by the adepts' enigmas, sought Lully in Italy and brought him to England; for Edward II's pledged crusade Lully, the story runs, made 50,000 pounds of gold in the Tower, as his testament states.",
+      "refs": [
+        "I.1 ¶46",
+        "I.1 n55"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "agent",
+      "veiled": "fill his lamp from her reviviscent spirit",
+      "ref": "I.1 ¶38",
+      "plain": "Bacon drew on a reviving spirit belonging to 'her' (the Phoenix of ¶37); what this spirit is, the chunk does not explain.",
+      "status": "interpreted",
+      "basis": "I.1 ¶37 names 'our Phoenix' passing into the West; ¶38 'her reviviscent spirit' follows directly. See ambiguities for the referent of the Phoenix.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "with this ascending and descending experimentally",
+      "ref": "I.1 ¶38",
+      "plain": "An experimental working with that spirit, by raising and lowering it; the chunk does not explain the operation.",
+      "status": "interpreted",
+      "basis": "I.1 ¶38: 'this' refers back to the reviviscent spirit; the result is said to be discovery of ligature and dissolution of natures.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the secret ligature of natures, and their magical dissolution",
+      "ref": "I.1 ¶38",
+      "plain": "A hidden binding of natures together and its counterpart, their dissolution; named as discoveries of the art but not explained here.",
+      "status": "interpreted",
+      "basis": "I.1 ¶38 presents them as what Bacon discovered by the experimental working; no gloss given.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "miraculous multiplicability of light by the universal spirit of nature",
+      "ref": "I.1 ¶38",
+      "plain": "Light can be multiplied by means of a universal spirit in nature; applying this knowledge in the mineral kingdom yields gold.",
+      "status": "interpreted",
+      "basis": "I.1 ¶38: 'having proved' this, 'he worked the knowledge to such effect, that in the mineral kingdom he produced gold'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "in the mineral kingdom he produced gold",
+          "ref": "I.1 ¶38"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "final fruits of labor and long interior study",
+      "ref": "I.1 ¶38",
+      "plain": "Bacon's results (gold) are described as fruits of labor joined with long interior study.",
+      "status": "interpreted",
+      "basis": "I.1 ¶38 so describes Bacon's gold-making results; the same paragraph calls his mind 'acutely penetrative and experimental'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "led him by a fatal curiosity, as it is suggested, into forbidden realms of self-sufficiency and unlawful peace of mind",
+      "ref": "I.1 ¶38",
+      "plain": "The operator can transgress by excess curiosity, arriving at a forbidden self-sufficiency and peace; the gift can be obtained rashly and dangerously, requiring expiation.",
+      "status": "interpreted",
+      "basis": "I.1 ¶38: conscience warned Bacon to withhold 'a gift somewhat over rashly and dangerously obtained'; he abandoned the researches 'to retrieve and expiate in solitude the wrongs he had committed'. What the forbidden realms are is not explained.",
+      "voice": "QUOTED: unnamed report ('as it is suggested'); Atwood relays without dissent",
+      "also": [
+        {
+          "text": "a gift somewhat over rashly and dangerously obtained",
+          "ref": "I.1 ¶38"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the roots of the Hermetic science are fairly stated; but the practice most carefully concealed",
+      "ref": "I.1 ¶39",
+      "plain": "Adepts' books state the theory openly but hide the practical procedure, so as not to give the secret to the unworthy.",
+      "status": "stated",
+      "basis": "I.1 ¶39 states this directly, with Bacon's maxim as the reason.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "truth ought not to be shown to every ribald, for then that would become most vile, which, in the hands of a philosopher, is the most precious of all things",
+          "ref": "I.1 ¶39"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "drawn about the fire of nature, as it were, into communication with her central source",
+      "ref": "I.1 ¶39",
+      "plain": "The medieval adepts ('Magians') were led, via a 'fire of nature', into contact with nature's central source; the chunk does not further explain either term.",
+      "status": "interpreted",
+      "basis": "I.1 ¶39 describes the 'Magians' this way, marked 'as it were' (figurative).",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "disclosing the interior lights of science to such as were able to aspire, and willing to follow their great example, laboring in the way",
+      "ref": "I.1 ¶39",
+      "plain": "The adepts partly unveiled the inner knowledge only to those capable of aspiring and willing to follow and labor; capacity, will and labor are required of the student.",
+      "status": "stated",
+      "basis": "I.1 ¶39: they held the veil 'still partially open for others' on these conditions.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Faith was the beacon light that led them on to conviction, by a free perspicuity of thought beyond things seen",
+      "ref": "I.1 ¶39",
+      "plain": "Faith and freedom of thought beyond the visible are requisites; ordinary ('medium') minds stop at limits that great minds pass.",
+      "status": "stated",
+      "basis": "I.1 ¶39 states both the contrast with medium minds and the role of faith.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Medium minds set limits to nature, halting continually, and returning, before barriers which those others over-leaped almost without perceiving them",
+          "ref": "I.1 ¶39"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the first matter of the adepts",
+      "ref": "I.1 ¶39",
+      "plain": "The adepts' starting material, which Albert describes from personal observation in De Mineralibus; this chunk does not say what it is.",
+      "status": "interpreted",
+      "basis": "I.1 ¶39 mentions only that Albert describes it 'with the characteristic minuteness of personal observation'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "recommends alchemy as the best and most easy means of rational investigation",
+      "ref": "I.1 ¶39",
+      "plain": "Per Albert, alchemy, not physics, determines metallic transmutation, and is the surest inquiry because it knows each thing through its proper cause.",
+      "status": "stated",
+      "basis": "I.1 ¶39 gives Atwood's paraphrase; the Latin (n45) adds the reasoning (translation ours).",
+      "voice": "QUOTED: Albert (Albertus Magnus); endorsed by Atwood",
+      "also": [
+        {
+          "text": "Est autem optimum genus hujus inquisitionis et certissimum, quia tunc per causam unius cujusque rei propriam, res cognoscitur",
+          "ref": "I.1 ¶39"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "It is philosophers only that she teaches to make gold.",
+      "ref": "I.1 ¶39",
+      "plain": "Gold-making comes as part of wisdom and only to the philosophically minded; those seeking it from greed never succeed. Success depends on special conditions to be explained later.",
+      "status": "stated",
+      "basis": "I.1 ¶39: selfish searchers 'never found it'; avarice least likely to be gratified 'by the discovery of wisdom'; 'she' refers to wisdom. ¶40 verse: scarcely three in a million chosen.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Avarice is of all motives the least likely to be gratified by the discovery of wisdom.",
+          "ref": "I.1 ¶39"
+        },
+        {
+          "text": "The conditions of success are peculiar, as will be shown.",
+          "ref": "I.1 ¶39"
+        },
+        {
+          "text": "such searchers never found it",
+          "ref": "I.1 ¶39"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "the motives actuating them were of the purest possible kind; truthful, moral, always pious and intelligent",
+      "ref": "I.1 ¶41",
+      "plain": "Successful adepts are marked by pure, moral, pious and intelligent motives; pseudo-alchemists by reckless, despicable ones.",
+      "status": "stated",
+      "basis": "I.1 ¶41 states the contrast directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Metals can be transmuted one into another, since they are of one and the same matter",
+      "ref": "I.1 ¶42",
+      "plain": "Transmutation is possible because all metals share a single underlying matter.",
+      "status": "stated",
+      "basis": "I.1 ¶42, Aquinas' Latin with the book's translation.",
+      "voice": "QUOTED: Aquinas; endorsed by Atwood",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "he slurs over points and sophisticates also occasionally in order to screen the doctrine from superficial detection",
+      "ref": "I.1 ¶42",
+      "plain": "Adept writers deliberately obscure and mislead in places so that casual readers cannot detect the doctrine.",
+      "status": "stated",
+      "basis": "I.1 ¶42 states the purpose of the obscurity directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "the higher purposes and application of the Divine Art, and universal theosophy, rather than to rest its capabilities of quickening and perfection in the mineral kingdom",
+      "ref": "I.1 ¶42",
+      "plain": "The art's power is to quicken and perfect; in metals this is a lower use, and its higher aim is theosophical. Devoting life to multiplying gold is a misuse.",
+      "status": "stated",
+      "basis": "I.1 ¶42 states Aquinas' aim and contrasts it with those 'sacrificing their whole life’s hope to the multiplication of gold'. The nature of the higher purpose is not specified here.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "sacrificing their whole life’s hope to the multiplication of gold",
+          "ref": "I.1 ¶42"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Fac sicut te ore tenens docui, ut scis quod tibi non scribo",
+      "ref": "I.1 ¶42",
+      "plain": "The decisive instruction is given by mouth, not in writing, because revealing it to worldly seekers who want it for vanity rather than its due end and God's honour would be sin.",
+      "status": "interpreted",
+      "basis": "I.1 ¶42 Latin (translation ours): 'Do as I taught you by mouth, as you know I do not write it to you, since it would be a sin to reveal this secret to worldly men...'. Rests on our translation.",
+      "voice": "QUOTED: Aquinas; endorsed by Atwood",
+      "also": [
+        {
+          "text": "ne sis garrulous sed pone ori tuo custodiam",
+          "ref": "I.1 ¶42"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "the wonderful projections he made with the transmuting powder",
+      "ref": "I.1 ¶43",
+      "plain": "Arnold made projections with a transmuting powder; witnesses reported iron bars converted into pure gold. The chunk does not describe the powder or the act of projection.",
+      "status": "stated",
+      "basis": "I.1 ¶43: projections with the transmuting powder; John Andre's testimony of iron bars turned to gold at Rome.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "testifies to the genuine conversions of some iron bars into pure gold at Rome",
+          "ref": "I.1 ¶43"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "Alain de l’Isle is said to have obtained the Elixir",
+      "ref": "I.1 ¶45",
+      "plain": "The Elixir is named as an attainable product of the art; this chunk does not explain it.",
+      "status": "interpreted",
+      "basis": "I.1 ¶45 names it only as what Alain obtained.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the Prophecies of Merlin, which are reported to have sole reference to the arcane of the Hermetic Art",
+      "ref": "I.1 ¶45",
+      "plain": "The Hermetic secrets may be veiled in texts of another genre (here prophecy).",
+      "status": "interpreted",
+      "basis": "I.1 ¶45 reports the Prophecies refer solely to Hermetic arcana and that Alain commented on them.",
+      "voice": "QUOTED: unnamed report ('are reported'); relayed by Atwood",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "The enigmas of the old adepts had sadly perplexed and led him astray",
+      "ref": "I.1 ¶46",
+      "plain": "The adepts' riddling writings misled even a diligent worker for decades; Cremer then sought out a living adept (Lully) to be more intimately enlightened.",
+      "status": "stated",
+      "basis": "I.1 ¶46: Cremer worked 30 years, was led astray by enigmas, then sought Lully and gained his confidence to be 'more intimately enlightened'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Desirous of becoming still more intimately enlightened than was convenient in that place",
+          "ref": "I.1 ¶46"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "at one time 50,000 pounds weight of quicksilver, lead and tin, into gold",
+      "ref": "I.1 ¶46",
+      "plain": "Claimed large-scale transmutation of base metals into gold by Lully.",
+      "status": "stated",
+      "basis": "I.1 ¶46, Lully's testament with the book's translation; Atwood prefaces it 'so the story runs'.",
+      "voice": "QUOTED: Raymond Lully",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "Alchemy",
+      "variants": [
+        "alchemy",
+        "Alchimiam",
+        "Alchimia",
+        "Alchimica",
+        "Alchimiae"
+      ],
+      "meaning": "The art concerned with transmutation of metals; per Albert, it (not physics) determines transmutation and is the best and most certain mode of inquiry, knowing things by their proper cause.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "recommends alchemy as the best and most easy means of rational investigation",
+          "ref": "I.1 ¶39"
+        },
+        {
+          "text": "non est physici determinare, sed artis quae est Alchimica",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hermetic Art",
+      "variants": [
+        "Hermetic science",
+        "Hermetic Art"
+      ],
+      "meaning": "The art whose roots Bacon stated while concealing its practice; also referred to in this chunk as 'the Secret Art', 'the Divine Art', 'the Great Art' and 'the Art', though the text asserts no explicit identity among these labels.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the roots of the Hermetic science are fairly stated",
+          "ref": "I.1 ¶39"
+        },
+        {
+          "text": "praise the Hermetic Art as beneficial and rational",
+          "ref": "I.1 ¶43"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Phoenix",
+      "variants": [],
+      "meaning": "Figure for what passed from East to West around the twelfth century, apparently alchemy; possessor of a 'reviviscent spirit'. See ambiguities.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "our Phoenix too bestirred herself, and passed into the West",
+          "ref": "I.1 ¶37"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "reviviscent spirit",
+      "variants": [],
+      "meaning": "A reviving spirit belonging to the Phoenix, from which Bacon 'filled his lamp' and which he worked by ascending and descending; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "fill his lamp from her reviviscent spirit",
+          "ref": "I.1 ¶38"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "universal spirit of nature",
+      "variants": [],
+      "meaning": "That by which light is shown to be multiplicable; knowledge of it applied in the mineral kingdom produced gold.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "miraculous multiplicability of light by the universal spirit of nature",
+          "ref": "I.1 ¶38"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "ligature of natures",
+      "variants": [],
+      "meaning": "A secret binding of natures, paired with their magical dissolution; discovered by Bacon. Not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the secret ligature of natures, and their magical dissolution",
+          "ref": "I.1 ¶38"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "magic",
+      "variants": [
+        "magia"
+      ],
+      "meaning": "An imputation made against Bacon; Atwood suggests reducing it to natural skill may be as wrong as the old superstition. The medieval adepts are called 'Magians'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the imputation of magic has seemed ridiculous",
+          "ref": "I.1 ¶38"
+        },
+        {
+          "text": "Magians, who were drawn about the fire of nature",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "fire of nature",
+      "variants": [],
+      "meaning": "That about which the Magians were drawn into communication with nature's 'central source'; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "drawn about the fire of nature, as it were, into communication with her central source",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "first matter",
+      "variants": [],
+      "meaning": "The adepts' first matter, which Albert describes from personal observation; not defined in this chunk.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "he describes the first matter of the adepts with the characteristic minuteness of personal observation",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "philosophers' stone",
+      "variants": [
+        "philosophers’ stone"
+      ],
+      "meaning": "The object sought by alchemists; never found by those seeking it from selfish motives; Lully's fame joined to its discovery.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the philosophers’ stone was sought after from selfish motives and a blind love of gain",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "adepts",
+      "variants": [
+        "adepts",
+        "true adepts"
+      ],
+      "meaning": "Those who truly succeeded in the art; rare, of the purest motives; contrasted with pseudo-alchemists.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The true adepts have been rare exceptions in the world",
+          "ref": "I.1 ¶41"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "pseudo-alchemists",
+      "variants": [],
+      "meaning": "Seekers of reckless and despicable motives, opposed to true adepts.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "as those of the pseudo-alchemists, on the other hand, were reckless and despicable",
+          "ref": "I.1 ¶41"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "transmutation",
+      "variants": [
+        "transmuted",
+        "transmutari",
+        "transmutare",
+        "transmutatione"
+      ],
+      "meaning": "Conversion of one metal into another, possible because metals share one matter; to be done 'secundum veritatem et non sophistice'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Metals can be transmuted one into another, since they are of one and the same matter",
+          "ref": "I.1 ¶42"
+        },
+        {
+          "text": "transmutare metalla scilicet imperfecta secundum veritatem et non sophistice",
+          "ref": "I.1 n50"
+        }
+      ],
+      "voice": "QUOTED: Aquinas"
+    },
+    {
+      "term": "Divine Art",
+      "variants": [],
+      "meaning": "The art considered in its higher purposes and application, joined with 'universal theosophy', beyond its capabilities of quickening and perfection in the mineral kingdom.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the higher purposes and application of the Divine Art, and universal theosophy",
+          "ref": "I.1 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "multiplication of gold",
+      "variants": [],
+      "meaning": "The merely mineral aim to which many sacrificed their lives; contrasted with the art's higher purposes.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "sacrificing their whole life’s hope to the multiplication of gold",
+          "ref": "I.1 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "projection",
+      "variants": [
+        "projections"
+      ],
+      "meaning": "What Arnold made with the transmuting powder; attested by reports of iron bars converted into gold. Not further defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the wonderful projections he made with the transmuting powder",
+          "ref": "I.1 ¶43"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Elixir",
+      "variants": [],
+      "meaning": "A product of the art that Alain de l'Isle is said to have obtained; not defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Alain de l’Isle is said to have obtained the Elixir",
+          "ref": "I.1 ¶45"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Occult Science",
+      "variants": [],
+      "meaning": "Atwood's label for the subject of the medieval epoch she surveys.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "this extraordinary epoch of Occult Science",
+          "ref": "I.1 ¶39"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Universal Science",
+      "variants": [],
+      "meaning": "That with which Lully became acquainted late in life, along with Arnold; context is his turn to alchemy, but no identity is asserted.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Raymond Lully is supposed to have become acquainted with Arnold, and the Universal Science, late in life",
+          "ref": "I.1 ¶46"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Artephius",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: a link in alchemy's history as it passed from Asia to Europe.",
+      "refs": [
+        "I.1 ¶37"
+      ]
+    },
+    {
+      "name": "Roger Bacon",
+      "work": "Speculum Alchimiae Rogerii Bachonis; De Mirabilibus Potestatibus Artis et Naturae; Fr. Bachonis Anglici libellus cum influenctiis Coeli",
+      "quote": "truth ought not to be shown to every ribald, for then that would become most vile, which, in the hands of a philosopher, is the most precious of all things",
+      "use": "Supports: an adept who produced gold; his maxim justifies concealment of the practice; conscience led him to withhold his gift.",
+      "refs": [
+        "I.1 ¶38",
+        "I.1 ¶39",
+        "I.1 n43",
+        "I.1 n44"
+      ]
+    },
+    {
+      "name": "Albertus Magnus (Albert)",
+      "work": "De Mineralibus; Libellus de Alchemia; Concordanditia Philosophorum de Lapide; Secretum Secretorum; Breve Compendium",
+      "quote": "De transmutatione horum corporum metallicorum et mutatione unius in aliud non est physici determinare, sed artis quae est Alchimica",
+      "use": "Supports: proof Albert was a practising alchemist who described the first matter and commended alchemy as the best means of inquiry; example of renunciation of worldly advantage.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶41",
+        "I.1 n45",
+        "I.1 n46"
+      ]
+    },
+    {
+      "name": "Aquinas",
+      "work": "Thesaurus Alchimiae (Tractatus D. Thomae Aquino datus fratri D. Reinaldo de Arte Alchimiae); Meteorum, lib. Iv; De Esse et Essentia; Secreta Alchimiae",
+      "quote": "Metalla transmutari possunt unum in aliud",
+      "use": "Supports: transmutation affirmed by a confessed adept; his deliberate obscurity and his warnings to keep the secret from worldly seekers; points to the art's higher theosophical purpose. Atwood criticizes his 'false panegyrists'.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶41",
+        "I.1 ¶42",
+        "I.1 n49",
+        "I.1 n50",
+        "I.1 n51"
+      ]
+    },
+    {
+      "name": "Abbot Reginald",
+      "work": null,
+      "quote": null,
+      "use": "Addressee of Aquinas' Thesaurus Alchimiae.",
+      "refs": [
+        "I.1 ¶42",
+        "I.1 n49",
+        "I.1 n51"
+      ]
+    },
+    {
+      "name": "Scotus Erigina",
+      "work": null,
+      "quote": null,
+      "use": "Listed among confessed adepts.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Arnold di Villa Nova",
+      "work": "Rosarium Philosophicum; Speculum; Carmina; Questiones ad Bonifacium; Testamentum",
+      "quote": null,
+      "use": "Supports: confessed adept whose skill, including projections with transmuting powder, is attested by contemporaries.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶43"
+      ]
+    },
+    {
+      "name": "Raymond Lully",
+      "work": "Ultimum Testamentum R. Lulli",
+      "quote": "Converti una vice in aurum 50 millia pondo argenti vivi, plumbi, et stannic.",
+      "use": "Supports: confessed adept of known Christian zeal; story of 50,000 pounds of gold produced for Edward II.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶46",
+        "I.1 n55"
+      ]
+    },
+    {
+      "name": "John Reuchlin",
+      "work": null,
+      "quote": null,
+      "use": "Listed among those blending alchemy and therapeutics with neoplatonism and cabala.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Ficinus the Platonist",
+      "work": null,
+      "quote": null,
+      "use": "Listed as above.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Picus di Mirandola",
+      "work": null,
+      "quote": null,
+      "use": "Listed as above.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Spinoza",
+      "work": null,
+      "quote": null,
+      "use": "Named as a metaphysician and speculator on the same experimental ground.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Alain de l’Isle (Alani Philosophi; Alanai de Insulis)",
+      "work": "Dicta de Lapide; commentary on the Prophecies of Merlin (Prophetia Anglicana Merlini, Francf. 1608)",
+      "quote": null,
+      "use": "Supports: said to have obtained the Elixir; example of editors suppressing alchemical testimony.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶45",
+        "I.1 n53",
+        "I.1 n54"
+      ]
+    },
+    {
+      "name": "Merlin (St Ambrose)",
+      "work": "Prophecies of Merlin",
+      "quote": null,
+      "use": "Listed among the great spirits; his Prophecies reported to refer solely to Hermetic arcana.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶45",
+        "I.1 n54"
+      ]
+    },
+    {
+      "name": "John Trithemius",
+      "work": null,
+      "quote": null,
+      "use": "Listed among the great spirits.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Cornelius Agrippa",
+      "work": null,
+      "quote": null,
+      "use": "Listed as Trithemius' pupil among the great spirits.",
+      "refs": [
+        "I.1 ¶39"
+      ]
+    },
+    {
+      "name": "Norton",
+      "work": "Ordinal of Alchemy, Preface, in Ashmole’s Theat. Chem. Brit.",
+      "quote": "Quod inter mille millia, vix subt tres electi",
+      "use": "Supports: few are chosen; covetousness disqualifies.",
+      "refs": [
+        "I.1 ¶40",
+        "I.1 n47"
+      ]
+    },
+    {
+      "name": "Chronicon Magnum Belgicum",
+      "work": "Chronicon Magnum Belgicum",
+      "quote": "magnus in magia, major in philosophia, maximus in theologia",
+      "use": "Supports: praise of Albert at his death.",
+      "refs": [
+        "I.1 ¶41",
+        "I.1 n48"
+      ]
+    },
+    {
+      "name": "John Andre (J. Andraeas)",
+      "work": "in addit. ad Speculum Rub de crim. Falsi",
+      "quote": "Nostris diebus habuimus magnum",
+      "use": "Supports: testifies to Arnold's conversion of iron bars into gold at Rome.",
+      "refs": [
+        "I.1 ¶43",
+        "I.1 n52"
+      ]
+    },
+    {
+      "name": "Oldradus (Oldranus)",
+      "work": "lib. Concilio, Quest 74",
+      "quote": null,
+      "use": "Supports: praised the Hermetic Art and Arnold's wisdom.",
+      "refs": [
+        "I.1 ¶43",
+        "I.1 n52"
+      ]
+    },
+    {
+      "name": "Abbot Panorimitanus",
+      "work": null,
+      "quote": null,
+      "use": "Supports: praised the Hermetic Art and Arnold's wisdom.",
+      "refs": [
+        "I.1 ¶43"
+      ]
+    },
+    {
+      "name": "R. Vallensis",
+      "work": "de Veritate, etc., in Theat. Chem., vol. 1",
+      "quote": "Haec ille Andaeas",
+      "use": "Reference only.",
+      "refs": [
+        "I.1 n52"
+      ]
+    },
+    {
+      "name": "D. Fabianus de Monte, S. Severin",
+      "work": "Tractatu de Emptione et Venditione, Quest 5",
+      "quote": "Alchimia est ars perspicaci",
+      "use": "Reference only.",
+      "refs": [
+        "I.1 n52"
+      ]
+    },
+    {
+      "name": "John Cremer, Abbot of Westminster",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: a long-labouring seeker misled by the adepts' enigmas who found enlightenment by seeking Lully.",
+      "refs": [
+        "I.1 ¶46"
+      ]
+    },
+    {
+      "name": "Theatrum Chemicum",
+      "work": "Theatrum Chemicum",
+      "quote": null,
+      "use": "Reference only: collection containing works of Bacon, Albert, Aquinas, Arnold and Alain.",
+      "refs": [
+        "I.1 ¶39",
+        "I.1 ¶43",
+        "I.1 ¶45",
+        "I.1 n43",
+        "I.1 n46",
+        "I.1 n51"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "our Phoenix too bestirred herself, and passed into the West",
+      "ref": "I.1 ¶37",
+      "readings": [
+        "The Phoenix is a figure for alchemy/the Hermetic art itself, whose history passed from Asia to Europe.",
+        "The Phoenix is something within the work (possessor of the 'reviviscent spirit' Bacon drew on) rather than the discipline."
+      ],
+      "basis": "Reading 1: ¶37 opens with 'the history of Alchemy, carried ... from Asia into Europe' and the Phoenix 'too' passes West. Reading 2: ¶38 speaks of 'her reviviscent spirit' as something Bacon filled his lamp from and worked experimentally."
+    },
+    {
+      "quote": "fill his lamp from her reviviscent spirit; and with this ascending and descending experimentally",
+      "ref": "I.1 ¶38",
+      "readings": [
+        "Figurative: Bacon absorbed the doctrine of the art and tested it experimentally.",
+        "Literal-operative: Bacon took a reviving spirit and worked it by raising and lowering (an operation)."
+      ],
+      "basis": "Reading 1: the Phoenix as alchemy in ¶37. Reading 2: 'ascending and descending experimentally' and the stated results (ligature and dissolution of natures, gold) in ¶38."
+    },
+    {
+      "quote": "forbidden realms of self-sufficiency and unlawful peace of mind",
+      "ref": "I.1 ¶38",
+      "readings": [
+        "A moral fault (pride/curiosity) of the operator.",
+        "A state actually reached through the work, which is itself forbidden."
+      ],
+      "basis": "Reading 1: 'fatal curiosity' and expiation of 'wrongs'. Reading 2: same sentence treats it as where his experimental mind 'led him', and conscience warns of a gift 'rashly and dangerously obtained'."
+    },
+    {
+      "quote": "Noli te, charissime, cum majori opere occupare",
+      "ref": "I.1 ¶42",
+      "readings": [
+        "'Do not busy yourself with the greater work' meaning the alchemical great work, to be subordinated to spiritual duties.",
+        "A general exhortation not to take on larger labours that distract from religious office."
+      ],
+      "basis": "Both rest on our translation only; context in ¶42 urges spiritual riches over temporal gains and Christ's preaching office. The Latin as printed appears corrupt."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.1 ¶39",
+      "original": "De transmutatione horum corporum metallicorum et mutatione unius in aliud non est physici determinare, sed artis quae est Alchimica. Est autem optimum genus hujus inquisitionis et certissimum, quia tunc per causam unius cujusque rei propriam, res cognoscitur, et de accidentibus ejus mimime dubitatur, nec est difficile cognoscere",
+      "translation": "It is not for the physicist to determine the transmutation of these metallic bodies and the change of one into another, but for the art which is Alchemical. And this is the best and most certain kind of inquiry, because then the thing is known through the proper cause of each thing, and there is least doubt about its accidents, nor is it difficult to know.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶40",
+      "original": "Querant Alchimiam, falsi quoque recti; Falsi sine numero, sed hi sunt rejecti; Et cupiditatibus, heu, tot sunt infecti Quod inter mille millia, vix subt tres electi Istam as scientiam",
+      "translation": "Both false and true seek Alchemy; the false without number, but these are rejected; and, alas, so many are infected with covetousness that among a thousand thousands scarcely three are chosen for this science.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶41",
+      "original": "magnus in magia, major in philosophia, maximus in theologia",
+      "translation": "great in magic, greater in philosophy, greatest in theology",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶42",
+      "original": "Metalla transmutari possunt unum in aliud",
+      "translation": "Metals can be transmuted one into another",
+      "by": "book"
+    },
+    {
+      "ref": "I.1 ¶42",
+      "original": "cum naturalia sint et ipsorum material eadem",
+      "translation": "since they are of one and the same matter",
+      "by": "book"
+    },
+    {
+      "ref": "I.1 ¶42",
+      "original": "Fac sicut te ore tenens docui, ut scis quod tibi non scribo, quoniam peccatum esset hoc secretum virissecularibus revelare, qui magis hanc scientiam propter vanitatem quam propter debitum finem et Dei honorem quaerunt",
+      "translation": "Do as I taught you by word of mouth, for you know I do not write it to you, since it would be a sin to reveal this secret to worldly men, who seek this science more for vanity than for its due end and the honour of God.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶42",
+      "original": "ne sis garrulous sed pone ori tuo custodiam; et it filiam sapientum margaritam ante porcas non projicies. Noli te, charissime, cum majori opere occupare, quia propter salutis et Christi praedictionis officium;et lucrandi tempus magni debes attendere divitiis spiritialibus, quam lucris temporibus inhiare",
+      "translation": "Be not talkative but set a guard on your mouth; and do not cast the daughter of the wise, the pearl, before swine. Do not, dearest, occupy yourself with the greater work, because on account of the office of salvation and of preaching Christ you ought rather to attend to great spiritual riches than to gape after temporal gains. (Latin as printed is corrupt; rendering approximate.)",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 n50",
+      "original": "Praecipuus Alchimistarum scopus est transmutare metalla scilicet imperfecta secundum veritatem et non sophistice.",
+      "translation": "The chief aim of the alchemists is to transmute metals, namely imperfect ones, in truth and not sophistically.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶46",
+      "original": "Converti una vice in aurum 50 millia pondo argenti vivi, plumbi, et stannic.",
+      "translation": "I converted at one time 50,000 pounds weight of quicksilver, lead and tin, into gold",
+      "by": "book"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.1 ¶37",
+      "note": "'This Artephius' refers back to Artephius as discussed in the preceding paragraph(s)."
+    },
+    {
+      "ref": "I.1 ¶39",
+      "note": "'it will be necessary to regard this extraordinary epoch of Occult Science more in detail, with the testimony of its heroes' — announces continued survey of medieval adepts."
+    },
+    {
+      "ref": "I.1 ¶39",
+      "note": "'The conditions of success are peculiar, as will be shown.' — promises a later account of the conditions for success in the art."
+    },
+    {
+      "ref": "I.1 ¶41",
+      "note": "'But more of this hereafter.' — further treatment of the motives of true adepts versus pseudo-alchemists promised."
+    }
+  ]
+}

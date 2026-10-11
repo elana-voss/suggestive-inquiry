@@ -1,0 +1,335 @@
+# APP_03
+
+*A run of numbered aphorisms (63-90) presenting the Hermetic Work as purification of the vital atmosphere and a translation of consciousness carried out in the Will: the Salt drawn up into the medial life, contrition and emotion fermenting the self-life, the Universal Will dissolving the false sulphurs of the self-will, the three microcosmic centers, and the Stone as a real ens of light. It closes by ranking modern metaphysicians against Behmen.*
+
+## Argument
+
+- The Mystery purifies the impure vital atmosphere around each life, where thoughts and desires are imaged; its density shows as darkness in men. Mesmerism's vertical passes loosen spirit from body for the moment, an external imitation of Paracelsus's Divine Art of separation. `APP ¶73` — ATWOOD
+- (63) Two Causes and one Mother, shadowed in Oedipus. (64) Behmen: Eternal Will brings the No Thing into Something to behold itself; the Work images this order. `APP ¶73` — ATWOOD
+- (65) Real first-fruits must be sacrificed for their promise, for the Divine purpose. `APP ¶74` — ATWOOD
+- (66) True Knowledge: mind consciously enters the Universal, knowing itself in its principle. Adepts had it; many Alchemists saw only theoretically. `APP ¶75, APP ¶76` — ATWOOD
+- (67) Salt, the voluntary substance bound in mineral life, drawn into the medial life (Mercury steals Apollo's cattle) becomes Light, moving the surrounding spirit to contrition. (68) True Alchemy, Theosophy's physical side: reiterated contritions change the blood's circulation, returning the ens of light to God. `APP ¶77, APP ¶78` — ATWOOD
+- (69) Regeneration: the whole of life brought into the Sonship, an eternal marriage-union with God in Christ; rebirth as offspring of one's own will passively given to the Divine Will. Until this new birth we know little of this life's sinfulness. `APP ¶79` — ATWOOD
+- (70) Emotion moves mind into matter; conscience ferments the self-life into a third life. (71) Qualities pass letter, intellect, emotion, sensible expression; Sulphur, Salt, Mercury, elements name principles. (72) All is potential in Will. `APP ¶80, APP ¶81` — ATWOOD
+- At a point of passivity the Artist must stir the Motion; Vulcan with Minerva: stirred Wisdom-life is taken by self-will. `APP ¶82` — QUOTED: The Alchemists / the older masters (glossed by Atwood)
+- The mystery translates consciousness from sense back to its First Source. (73) Philosophic Matter: light extracted through anguish; repeated as successive self-surrender of Will. Thinking into it moves it. `APP ¶83, APP ¶84, APP ¶85` — ATWOOD
+- (74) Will is the only true substance. (75) False sulphurs (forms) must be purged; the spirit dies to all, even identity, to receive the Divine Seed. `APP ¶86, APP ¶87` — ATWOOD
+- (76) We must not speak The Name; if it speaks in us it changes us. `APP ¶88` — ATWOOD
+- (77) Eirenaeus glossed: the magical earth at one's own center is the pure earth commencing Regeneration; mineral earth is lower. `APP ¶89` — ATWOOD
+- (78) Wisdom demands entire self-devotion, ends in annihilation into the Nothing, and must be born repeatedly. `APP ¶90` — ATWOOD
+- (79) The blood's sensuous spirit is taken into the will; magnetizing purifies unless a bad will corrupts it. (80) Phoenix from its ashes. `APP ¶91` — ATWOOD
+- (81) Universal Will destroys then transmutes self-will's faculties. (82) Solar Tincture is Aurific Light. (83) Making invisible spirit visible. (85) The Stone: real ens of light. `APP ¶92, APP ¶93` — ATWOOD
+- (86) Second Principle is the Paradisiacal heart life. (87) The great Salt Sea (Universal Will, agent) dissolves impure sulphurs in self-will (patient). (88) Universal matter obtainable at head, heart or lumbar center. `APP ¶94, APP ¶95` — ATWOOD
+- (89) Light manifests in the soul. (90) In dissolution the breathless body is held by a thread until refixation. `APP ¶96` — ATWOOD
+- Modern metaphysicians took their starting point from the Mystics. Kant stayed on the negative margin; Fichte and Schelling saw the Absolute ground without experiencing; Behmen was in the Experience of the uncreated, though they surpassed him in scientific intuition; Oken had an inspiration into created nature. `APP ¶96` — ATWOOD
+
+## Method
+
+- **subject** — “The whole process of the Mystery was intended to purify the impure vital atmosphere which surrounds each individual life.” `APP ¶73` (ATWOOD)
+  - **Plain (stated):** The work is done on the subtle atmosphere around each person, where all their thoughts and desires are imaged. Its density or lightness shows as darkness or brightness in a person, and clairvoyants can see it.
+  - Basis: APP ¶73 states the purpose and describes the atmosphere.
+  - Also: “Its density or lightness is the cause of the darkness or brightness which may be seen in men.” `APP ¶73`
+- **procedure** — “an imitation of the Divine Art of the separation of which Paracelsus speaks” `APP ¶73` (ATWOOD)
+  - **Plain (stated):** The 'separation' loosens the bond between spirit and its bodily media. Mesmerism does this only externally and for the moment, by vertical passes. Magnetizing someone lifts them into a purer atmosphere, dissolves the sensuous medium and opens consciousness to the Divine.
+  - Basis: APP ¶73: 'It solves the bond between the spirit and its corporeal media for the moment'. APP ¶91 gives the effects of magnetizing.
+  - Also: “If you magnetize a person, he is elevated into a purer atmosphere instantly” `APP ¶91`
+  - Also: “it dissolved the sensuous medium and opens the consciousness to the Divine life” `APP ¶91`
+- **impediment** — “you may corrupt it by introducing forcibly upon the patient a bad will, but it is not, naturally easy to do so” `APP ¶91` (ATWOOD)
+  - **Plain (stated):** The purifying tendency of magnetizing can be corrupted if a bad will is forced on the patient, though this is not naturally easy.
+  - Basis: APP ¶91.
+- **principle** — “There are two Causes and one Mother in the Work” `APP ¶73` (ATWOOD)
+  - **Plain (interpreted):** This chunk does not explain it. It says only that the myth of Oedipus and early Greek allegories shadow it.
+  - Basis: APP ¶73 gives no gloss ('Qui capit, ille sapit'). See ambiguities.
+- **principle** — “This is the order imaged out in the Hermetic Work, which is in fact an imitation of the Divine.” `APP ¶73` (ATWOOD)
+  - **Plain (stated):** The Work copies the way the Divine manifests: a Will arising in nothing brings that nothing into something, so that it can feel and behold itself.
+  - Basis: APP ¶73: 'This' refers back to the Behmen quotation on the Law of Divine Manifestation.
+  - Also: “All is held in potentiality in Will.” `APP ¶81`
+- **impediment** — “The first-fruits, tough perfectly real, should not be accepted as permanent” `APP ¶74` (ATWOOD)
+  - **Plain (stated):** The first real results must not be taken as the goal. The Artist has to give them up for the further result they promise, serving the Divine purpose and not his own.
+  - Basis: APP ¶74.
+  - Also: “they must be sacrificed for the sake of the promise they contain” `APP ¶74`
+- **result** — “True Knowledge is experimental contact of mind with mystery; it is when the mind enters into the Universal consciously” `APP ¶75` (ATWOOD)
+  - **Plain (stated):** The knowledge sought is lived, not theoretical. The mind consciously enters the Universal, knows itself in its source, and gains an outflow of life with real consequences. Ordinary men touch only a surface; many alchemists saw only theoretically.
+  - Basis: APP ¶75-76.
+  - Also: “their life is not multiplied into the absolute fountain of being” `APP ¶76`
+  - Also: “Many of the Alchemists only saw theoretically” `APP ¶76`
+- **subject** — “The Slat is the voluntary substance, and is bound up in the lowest region, the generative mineral life” `APP ¶77` (ATWOOD)
+  - **Plain (stated):** 'Salt' means the will-substance, which is bound in the lowest, generative ('mineral') level of life. It must be raised into the middle ('medial') life.
+  - Basis: APP ¶77 states the identity and the required movement.
+  - Also: “must be translated or drawn up into the medial life” `APP ¶77`
+- **procedure** — “Troy in the old analogy is that citadel where Apollo keeps his cattle, Mercury steals them and afterwards sacrifices them” `APP ¶77` (ATWOOD)
+  - **Plain (interpreted):** Set inside the sentence about drawing the Salt up, the analogy illustrates that movement: the cattle kept in Troy would be the Salt bound below, Mercury's theft and sacrifice its drawing-up and translation. The text gives no figure-by-figure mapping.
+  - Basis: APP ¶77 places the analogy in parentheses within the sentence on translating the Salt. The mapping is inferred; see ambiguities.
+- **sign** — “the Salt thus transplanted becomes Light and grows” `APP ¶77` (ATWOOD)
+  - **Plain (stated):** Once raised, the will-substance becomes light and grows. As it grows it sensibly affects the whole surrounding spirit, fermenting it and moving it to contrition.
+  - Basis: APP ¶77.
+  - Also: “this sensibly affects the whole connate or surrounding spirit, ferments it, and moves it to contrition” `APP ¶77`
+- **procedure** — “the change is wrought by reiterative contritions absorbing the sensuous medium and carrying back the purer conscious ens of light to its first life in God” `APP ¶78` (ATWOOD)
+  - **Plain (stated):** True alchemy is the physical side of theosophy: a change in the blood's circulation brought about by repeated contritions. These absorb the sensuous medium and return the purified conscious light to its first life in God.
+  - Basis: APP ¶78.
+  - Also: “True Alchemy (not that which the world has run after without finding) is related to Theosophy on its physical side” `APP ¶78`
+- **operator** — “regenerated or born again as an offspring of his own will, given up in passivity to the Divine Will” `APP ¶79` (ATWOOD)
+  - **Plain (stated):** The operator's own will must be passively surrendered to the Divine Will; this is the death to sin and new birth. Entire self-devotion is required even to begin, and all true religion prepares the will for this.
+  - Basis: APP ¶79; APP ¶90; APP ¶87.
+  - Also: “nothing but entire self-devotion is of any use even to begin with” `APP ¶90`
+  - Also: “All true religion in this life is a preparation of the Will for this final work.” `APP ¶87`
+- **procedure** — “The process goes over and over again, for we could not bear the birth in our own strength” `APP ¶84` (ATWOOD)
+  - **Plain (stated):** The operation is repeated many times, each time a further surrender of the will to be bettered, because the full birth could not be borne at once. Wisdom likewise has to be born in us again and again.
+  - Basis: APP ¶84; APP ¶90.
+  - Also: “it is a successive giving up of itself to be bettered on the part of Will” `APP ¶84`
+  - Also: “This Divine Wisdom in us has to be born over Andover again” `APP ¶90`
+- **agent** — “It is by emotion that mind is moved into matter.” `APP ¶80` (ATWOOD)
+  - **Plain (stated):** Emotion is the mid-point linking mind and matter. When conscience strikes the self-life, it ferments that life and brings out of it a third, newborn form of life.
+  - Basis: APP ¶80.
+  - Also: “conscience strikes upon the self-life, and, when it does so, effectually ferments it and evolves from it a third form of life, a new birth of life” `APP ¶80`
+- **principle** — “the Sulphur, the Salt and the Mercury; the water, the air, the fire, etc., relates to principles rather than qualities: in the spirit they become qualities” `APP ¶81` (ATWOOD)
+  - **Plain (stated):** The alchemical names (Sulphur, Salt, Mercury, the elements) name principles, not physical properties; they become qualities only in spirit. Qualities move from bare form, through intellect and feeling, to sensible expression; thought shapes spirit, and spiritual experience brings the qualities from potential into actual being.
+  - Basis: APP ¶81.
+  - Also: “Thought qualitates spirit, and spiritual experiences bring the qualities produced into manifestation, into esse from posse.” `APP ¶81`
+- **stage** — “there is a point of passivity, where there is no attraction but rather an indifference to both the life and the death” `APP ¶82` (QUOTED: The Alchemists (endorsed by Atwood))
+  - **Plain (stated):** At one point the process goes still and indifferent. The Artist must then actively stir up the motion again.
+  - Basis: APP ¶82.
+  - Also: “then the Artist must look to his Work, and seek to stir up the Motion” `APP ¶82`
+- **impediment** — “when Vulcan appears in the same altar with Minerva the conjunction is ominous” `APP ¶82` (QUOTED: the older masters (glossed by Atwood))
+  - **Plain (interpreted):** Atwood's gloss: all the desire of life goes toward the Wisdom-life, which needs nothing of itself, but once stirred it is seized, and what seizes it is the self-will. Which figure stands for which is not stated.
+  - Basis: APP ¶82 glosses the image ('This means that ... what takes it is the self-will') but does not identify Vulcan or Minerva; see ambiguities.
+  - Also: “of itself it needs nothing, but if it is stirred it is taken; what takes it is the self-will” `APP ¶82`
+- **principle** — “The whole of this mystery is a translation of the consciousness” `APP ¶83` (ATWOOD)
+  - **Plain (stated):** The work moves consciousness away from sense, to which it is now drawn out, backwards and upwards into the life behind it, its First Source.
+  - Basis: APP ¶83.
+  - Also: “it may be, it should be, thrown backwards, nay upwards, into its First Source” `APP ¶83`
+- **subject** — “The Philosophic Matter is an excruciated ens of Light; alight extracted through anguish from Life.” `APP ¶84` (ATWOOD)
+  - **Plain (stated):** The matter of the work is light drawn out of one's life through suffering.
+  - Basis: APP ¶84.
+- **operator** — “I don’t think you can think into such spheres of life without moving them, or being moved by them” `APP ¶85` (ATWOOD)
+  - **Plain (stated):** Attention to these matters is itself operative: one cannot think into these spheres without affecting them or being affected; the principle is almost too sacred.
+  - Basis: APP ¶85.
+  - Also: “it is almost too sacred, and impinges so strongly on the Spirit-life” `APP ¶85`
+- **principle** — “it is the only true substance of body” `APP ¶86` (ATWOOD)
+  - **Plain (stated):** Will is the foundation and true substance of everything, body included. It subsists in one will, then two, exists in a third, and then becomes self-assertion.
+  - Basis: APP ¶86; APP ¶81.
+  - Also: “Everything is in Will.” `APP ¶86`
+- **impediment** — “All the false sulphurs (by sulphurs I mean forms) of the mundane life require to be purified, nay, perhaps extirpated” `APP ¶87` (ATWOOD)
+  - **Plain (stated):** The 'false sulphurs' are the forms of worldly life, glossed elsewhere as desires and phantasms in the individual will. They must be purified or removed so the medium for the Divine Light is simple and pure.
+  - Basis: APP ¶87 glosses sulphurs as forms; APP ¶94 as desires and phantasms.
+  - Also: “the impure sulphurs (desires, phantasms) in the individual will” `APP ¶94`
+- **stage** — “The human spirit has to die to everything that it now lives to, and lastly to its own identity, in order to become a simple receptacle and magnet for the Divine Seed.” `APP ¶87` (ATWOOD)
+  - **Plain (stated):** The spirit must die to everything, finally to its own identity, to receive the Divine Seed. Re-arising, it is a manifestation and image of the Divine: the highest regeneration. Wisdom's end is likewise called annihilation, a return into the Nothing before all things.
+  - Basis: APP ¶87; APP ¶90.
+  - Also: “When it re-arises it is a true manifestation, reflex and image of the Divine; that is the condition of the highest regeneration.” `APP ¶87`
+  - Also: “Its end is that so-called annihilation bringing back into the Nothing which is before all things.” `APP ¶90`
+- **impediment** — “We have no business whatsoever to speak The Name.” `APP ¶88` (ATWOOD)
+  - **Plain (stated):** The operator must not speak The Name. If it speaks in him, it works its own change; it would seem that even Christ needed new strength by its utterance when his soul was troubled.
+  - Basis: APP ¶88.
+  - Also: “If it should speak in us it will work its own change in us” `APP ¶88`
+- **subject** — “in finding the magical earth in yourself, in your own center, you find that which is in the air or the vegetable life, that pure earth which commences the Regeneration, the medial life” `APP ¶89` (ATWOOD)
+  - **Plain (stated):** Eirenaeus's 'gold thrown into bottomless Mercury' is glossed as an inward search: the matter is found at one's own center, a pure earth of the air or vegetable life that begins regeneration, unlike the mineral earth of the lower life. The chunk does not decode 'gold' or 'Mercury' further.
+  - Basis: APP ¶89: Atwood's gloss directly follows the Eirenaeus quotation.
+  - Also: “such a Mercury as is bottomless, whose center it can never find but by discovering its own” `APP ¶89`
+  - Also: “The mineral earth belongs to the lower life and to the center of the globe” `APP ¶89`
+- **sign** — “Out of the ashes of this present sensuous spirit arises the Phoenix.” `APP ¶91` (ATWOOD)
+  - **Plain (interpreted):** New life rises from the death of the present sensuous spirit in the blood.
+  - Basis: APP ¶91: the life in the blood is to be taken up into the will 'to cause another and new life to grow out of its death'.
+  - Also: “it is all to be taken up into, I suppose, the will to cause another and new life to grow out of its death” `APP ¶91`
+- **agent** — “The great Salt Sea (Wisdom, the Universal Will) dissipates the impure sulphurs (desires, phantasms) in the individual will” `APP ¶94` (ATWOOD)
+  - **Plain (stated):** The Universal Will (Wisdom) is the active agent and the self-will the patient. In the war between them, the Universal Will first destroys the faculties and desires, then reproduces them transmuted, as sunlight dispels night.
+  - Basis: APP ¶94 gives the glosses and agent/patient language; APP ¶92 the war and destroy-then-reproduce.
+  - Also: “The Universal Will being represented as agent dissolves the false forms in the self-will represented as patient.” `APP ¶94`
+  - Also: “There is a war in the Work between the self-will and the Universal Will” `APP ¶92`
+  - Also: “by first destroying them, and then reproducing them in a transmuted form” `APP ¶92`
+- **principle** — “The Solar Tincture (Tinctura Solaris) is the Aurific Light.” `APP ¶92` (ATWOOD)
+  - **Plain (stated):** Identity only: the Solar Tincture is the Aurific Light. Its role is not explained in this chunk.
+  - Basis: APP ¶92.
+- **result** — “The physical problem as Kirchberger calls it (Theos. Correspondence, p. 168) is the making visible the invisible spirit.” `APP ¶93` (QUOTED: Kirchberger (term; endorsed by Atwood))
+  - **Plain (stated):** The physical goal is to bring invisible spirit into visible, bounded form by multiplying its shadow or image. Lives that remain mere surfaces do not create.
+  - Basis: APP ¶93.
+  - Also: “it is a taking of the infinite Light-nature into bound by hypostatic multiplication of its shadow or image” `APP ¶93`
+  - Also: “Lives as long as they are superficies don’t create; they are merely principles.” `APP ¶93`
+- **result** — “The Philosopher’s Stone is a real entity produced by spiritual generation; it is a real ens of light; it is both objective and subjective” `APP ¶93` (ATWOOD)
+  - **Plain (stated):** The Stone is a real thing made of light, produced by spiritual generation; an actuality as well as a theory.
+  - Basis: APP ¶93.
+- **stage** — “Living in the Second Principle means living the Paradisiacal Life” `APP ¶94` (ATWOOD)
+  - **Plain (stated):** The Second Principle is the Paradisiacal Life, lived 'under the Cross'; the heart life below the outstretched arms both represents and is it.
+  - Basis: APP ¶94.
+  - Also: “the heart life below the arms which, when extended, give a Cross, represents this, and is this” `APP ¶94`
+- **subject** — “The universal matter is obtainable at the focus of either center.” `APP ¶95` (ATWOOD)
+  - **Plain (stated):** Man has three centers: head (divine, animal-rational life), heart (celestial, medial, vegetable life), lumbar region (inferior, mineral life). The universal matter can be reached at the focus of any of them.
+  - Basis: APP ¶95.
+  - Also: “There are three microcosmic centers in man” `APP ¶95`
+- **stage** — “In the Philosophical dissolution of the body, soul and spirit are separate; the body lies without any breath; the other two are united to it as by a thread, and this continues until the refixation takes place.” `APP ¶96` (ATWOOD)
+  - **Plain (stated):** In the dissolution, soul and spirit separate from a breathless body but stay linked to it as if by a thread until they are fixed back.
+  - Basis: APP ¶96.
+- **result** — “the place of its manifestation is in the soul” `APP ¶96` (ATWOOD)
+  - **Plain (stated):** What is sought is the true manifestation of the law of Light in the soul. The same principles operate through every stage until assimilation is perfected and the Divine Will is all; then the selfhood has nothing to deface.
+  - Basis: APP ¶96.
+  - Also: “until the assimilation is perfected and the Divine Will is all” `APP ¶96`
+  - Also: “the selfhood has nothing to deface, nothing to deform” `APP ¶96`
+
+## Terms
+
+- **vital atmosphere** (also: atmosphere) — The impure atmosphere surrounding each individual life, perceived by clairvoyants, where all thoughts and desires are imaged; its density or lightness causes darkness or brightness in men. Purifying it is the aim of the Mystery. (ATWOOD)
+  - “all the thoughts and desires of life are imaged there” `APP ¶73`
+- **Divine Art of separation** — Loosening the bond between spirit and its corporeal media; Paracelsus speaks of it; mesmerism imitates it externally. (ATWOOD)
+  - “an imitation of the Divine Art of the separation of which Paracelsus speaks” `APP ¶73`
+- **mesmerism** — A very external imitation of the Divine Art of separation; by vertical passes it loosens spirit from its corporeal media for the moment. (ATWOOD)
+  - “The action of mesmerism is a very external way” `APP ¶73`
+- **Law of Divine Manifestation** — Expressed by Behmen: an Eternal Will arises in the No Thing to bring it into Something, that the Will might behold itself. The Hermetic Work images this order. (ATWOOD)
+  - “The Law of Divine Manifestation is expressed in those striking words of Behmen” `APP ¶73`
+- **Nothing** (also: No Thing) — That in which the Eternal Will arises; that which is before all things; Wisdom's end is a return into it. (ATWOOD)
+  - “bringing back into the Nothing which is before all things” `APP ¶90`
+- **first-fruits** — Early results of the work: real but not permanent, to be sacrificed for the promise they contain. (ATWOOD)
+  - “The first-fruits, tough perfectly real, should not be accepted as permanent” `APP ¶74`
+- **True Knowledge** — Experimental contact of mind with mystery: the mind consciously enters the Universal and knows itself in its principle, with an efflux of life. (ATWOOD)
+  - “True Knowledge is experimental contact of mind with mystery” `APP ¶75`
+- **Salt** (also: Slat) — The voluntary substance, bound in the generative mineral life; drawn up into the medial life it becomes Light and grows. Also named among the principles (Sulphur, Salt, Mercury). (ATWOOD)
+  - = voluntary substance: “The Slat is the voluntary substance” `APP ¶77`
+  - “the Salt thus transplanted becomes Light and grows” `APP ¶77`
+- **great Salt Sea** — Wisdom, the Universal Will, which dissipates the impure sulphurs in the individual will. (ATWOOD)
+  - = Wisdom: “The great Salt Sea (Wisdom, the Universal Will)” `APP ¶94`
+  - = Universal Will: “The great Salt Sea (Wisdom, the Universal Will)” `APP ¶94`
+- **medial life** (also: medial sphere) — The middle level of life, between the mineral and the higher; the heart center is that of the celestial medial vegetable life. The Salt is drawn up into it. (ATWOOD)
+  - “must be translated or drawn up into the medial life” `APP ¶77`
+  - “the heart of the celestial medial vegetable life” `APP ¶95`
+- **True Alchemy** — Theosophy on its physical side: a change in the circulatory system of the blood wrought by reiterative contritions; distinguished from what the world has sought without finding. (ATWOOD)
+  - “True Alchemy (not that which the world has run after without finding) is related to Theosophy on its physical side” `APP ¶78`
+- **contrition** (also: contritions) — Stirred in the surrounding spirit by the growing Light of the Salt; reiterated, it absorbs the sensuous medium and changes the circulation of the blood. (ATWOOD)
+  - “reiterative contritions absorbing the sensuous medium” `APP ¶78`
+- **ens of light** (also: ens of Light) — An entity of light: the purer conscious ens of light carried back to God; the Philosophic Matter (excruciated); the Stone (real). (ATWOOD)
+  - “the purer conscious ens of light” `APP ¶78`
+- **Regeneration** (also: regeneration, regenerated) — Bringing the whole of life into the Sonship; the death to sin with a new birth. Begun by the pure earth; highest when the spirit, dead to its identity, re-arises as the Divine image. (ATWOOD)
+  - “It is the death to sin with a new birth awakened in us” `APP ¶79`
+  - “that is the condition of the highest regeneration” `APP ¶87`
+- **emotion** — A mid-point between mind and matter, by which mind is moved into matter. (ATWOOD)
+  - “Emotion is a mid-point between the two” `APP ¶80`
+- **principles** — What the Hermetic names (Sulphur, Salt, Mercury, water, air, fire) relate to, as opposed to qualities; in the spirit they become qualities. (ATWOOD)
+  - “in the spirit they become qualities” `APP ¶81`
+- **sulphurs** (also: Sulphur, false sulphurs, impure sulphurs) — Forms; the false or impure sulphurs are the desires and phantasms of mundane life in the individual will, to be purified or extirpated. 'Sulphur' is also named as a principle. (ATWOOD)
+  - = forms: “by sulphurs I mean forms” `APP ¶87`
+  - = desires, phantasms: “the impure sulphurs (desires, phantasms)” `APP ¶94`
+- **Mercury** — Named with Sulphur and Salt as a principle. In Eirenaeus's quotation, a bottomless Mercury into which the matter that is gold is thrown. Not decoded further here. (ATWOOD)
+  - “such a Mercury as is bottomless, whose center it can never find but by discovering its own” `APP ¶89`
+- **point of passivity** — A point in the process with no attraction but indifference to both life and death, when the Artist must stir up the Motion. (QUOTED: The Alchemists (endorsed by Atwood))
+  - “there is a point of passivity” `APP ¶82`
+- **Wisdom** (also: Wisdom-life, Divine Wisdom) — A pure exemplar from the first Light or Life, showing man what he ought to be. The Wisdom-life is that toward which all desire of life tends; it needs nothing of itself but, if stirred, is taken by self-will. It must be born in us repeatedly. (ATWOOD)
+  - = Universal Will / great Salt Sea: “The great Salt Sea (Wisdom, the Universal Will)” `APP ¶94`
+  - “it is a pure exemplar from the first Light or Life, showing man what he ought to be, and offering to conform him to it” `APP ¶90`
+- **self-will** — The individual will: it takes the stirred Wisdom-life, wars with the Universal Will, and as patient has its false forms dissolved. (ATWOOD)
+  - “what takes it is the self-will” `APP ¶82`
+- **Universal Will** — The agent of the Work, at war with the self-will; it destroys the faculties and false forms, then reproduces them transmuted. (ATWOOD)
+  - = great Salt Sea / Wisdom: “The great Salt Sea (Wisdom, the Universal Will)” `APP ¶94`
+  - “The Universal Will being represented as agent dissolves the false forms in the self-will represented as patient.” `APP ¶94`
+- **translation of the consciousness** — What the whole mystery is: consciousness, now drawn out to sense, thrown backwards and upwards into its First Source. (ATWOOD)
+  - “The whole of this mystery is a translation of the consciousness” `APP ¶83`
+- **Philosophic Matter** — Light extracted through anguish from Life. (ATWOOD)
+  - = excruciated ens of Light: “The Philosophic Matter is an excruciated ens of Light” `APP ¶84`
+  - “alight extracted through anguish from Life” `APP ¶84`
+- **Will** (also: will) — The foundation and only true substance of everything, body included; all is held in potentiality in it. It subsists in one will, then two, exists in the third, then becomes self-assertion. (ATWOOD)
+  - “All in the beginning is Will; it is the foundation of everything, and is everything” `APP ¶86`
+- **Divine Seed** — What the spirit, having died to all including its identity, receives as a simple receptacle and magnet. (ATWOOD)
+  - “a simple receptacle and magnet for the Divine Seed” `APP ¶87`
+- **The Name** (also: Name) — Not to be spoken by us; if it speaks in us it works its own change. (ATWOOD)
+  - “We have no business whatsoever to speak The Name.” `APP ¶88`
+- **magical earth** (also: terra magica) — Found in oneself at one's own center; the pure earth of the air or vegetable life that commences Regeneration; contrasted with the mineral earth of the lower life. (ATWOOD)
+  - = pure earth: “you find that which is in the air or the vegetable life, that pure earth which commences the Regeneration” `APP ¶89`
+  - “nascitur in aere terra magica; in aethere clarificatur” `APP ¶89`
+- **annihilation** — The end of Wisdom: a 'so-called' annihilation bringing back into the Nothing before all things. (ATWOOD)
+  - “that so-called annihilation bringing back into the Nothing which is before all things” `APP ¶90`
+- **sensuous spirit** (also: sensuous and sensible spirit) — The spirit in the blood through which life acts; to be taken up into the will so that new life grows from its death; the Phoenix arises from its ashes. (ATWOOD)
+  - “Out of the ashes of this present sensuous spirit arises the Phoenix.” `APP ¶91`
+- **sensuous medium** — Absorbed by reiterative contritions; dissolved by magnetizing. (ATWOOD)
+  - “it dissolved the sensuous medium and opens the consciousness to the Divine life” `APP ¶91`
+- **Solar Tincture** (also: Tinctura Solaris) — The Aurific Light; not explained further here. (ATWOOD)
+  - = Aurific Light: “The Solar Tincture (Tinctura Solaris) is the Aurific Light.” `APP ¶92`
+- **physical problem** — Kirchberger's term: making visible the invisible spirit; a taking of the infinite Light-nature into bound by hypostatic multiplication of its image. (QUOTED: Kirchberger (term; endorsed by Atwood))
+  - “the making visible the invisible spirit” `APP ¶93`
+- **Philosopher's Stone** (also: Philosopher’s Stone) — A real entity produced by spiritual generation; both objective and subjective, an actuality as well as a theory. (ATWOOD)
+  - = real ens of light: “it is a real ens of light” `APP ¶93`
+  - “The Philosopher’s Stone is a real entity produced by spiritual generation” `APP ¶93`
+- **Second Principle** — The Paradisiacal Life, lived under the Cross; the heart life below the extended arms represents and is it. (ATWOOD)
+  - = Paradisiacal Life: “Living in the Second Principle means living the Paradisiacal Life” `APP ¶94`
+- **microcosmic centers** — Three centers in man: head (the eye of the Divine, animal rational life), heart (celestial medial vegetable life), lumbar region (inferior mineral life). (ATWOOD)
+  - “There are three microcosmic centers in man” `APP ¶95`
+- **universal matter** — Obtainable at the focus of any of the three microcosmic centers. (ATWOOD)
+  - “The universal matter is obtainable at the focus of either center.” `APP ¶95`
+- **Philosophical dissolution** — Soul and spirit separate from the breathless body, joined to it as by a thread until refixation. (ATWOOD)
+  - “In the Philosophical dissolution of the body, soul and spirit are separate” `APP ¶96`
+- **refixation** — What ends the philosophical dissolution. (ATWOOD)
+  - “this continues until the refixation takes place” `APP ¶96`
+
+## Sources cited
+
+- **Paracelsus** `APP ¶73` — Supports: the Divine Art of separation he speaks of, which mesmerism imitates.
+- **myth of Oedipus** `APP ¶73` — Illustrates: shadows the mystery of 'two Causes and one Mother'.
+- **Behmen (also spelled 'Jacob Bhemen')**, *Sign. Rerum, Ch. II, p. 68* — “An Eternal Will arises in the No Thing to introduce the No Thing into Something, that the Will might feel and find and behold itself” `APP ¶73, APP ¶81, APP ¶96` — Supports: the Law of Divine Manifestation, the order the Hermetic Work imitates; cited for the Sulphur, Salt and Mercury nomenclature; praised as 'in the Experience' of the uncreated, beyond the metaphysicians, though they surpassed him in scientific intuition.
+- **Khunrath** — “the Enigma Omia in omnibus” `APP ¶73` — Comparison (c.f.) for Behmen's law.
+- **The Hermetic Wedding**, *The Hermetic Wedding* `APP ¶74` — Illustrates, in its latter part, the sacrifice of the first-fruits.
+- **the old analogy (Troy, Apollo, Mercury)** — “Troy in the old analogy is that citadel where Apollo keeps his cattle” `APP ¶77` — Illustrates drawing the Salt up into the medial life.
+- **St Martin**, *Correspondence, letter 30; Theos. Correspondence, p. 117* `APP ¶78, APP ¶88, APP ¶89` — Supports: the change in the circulatory system of the blood (with Eckhartshausen); reference on The Name speaking in us; reference on the mineral earth.
+- **Eckhartshausen** `APP ¶78` — Supports: the change in the blood wrought by reiterative contritions.
+- **St Paul** `APP ¶79` — Supports: hints at the marriage-union between man and God in Christ.
+- **Book of Revelation**, *Book of Revelation* `APP ¶79` — Supports: hints at the marriage-union between man and God in Christ.
+- **The Alchemists / the older masters** — “when Vulcan appears in the same altar with Minerva the conjunction is ominous” `APP ¶82` — Supports: the point of passivity at which the Artist must stir up the Motion; glossed by Atwood as the stirred Wisdom-life being taken by self-will.
+- **the Voice at our Lord's baptism; our Lord's prayer** — “How I have both glorified my Name and I will glorify it again” `APP ¶88` — Illustrates The Name speaking and working its change; Christ needing new strength by its utterance ('Father, glorify thy Name'; 'Now is my soul troubled').
+- **Eirenaeus** — “Take that matter which is gold” `APP ¶89` — Supports: the matter thrown into bottomless Mercury, glossed as finding the magical earth at one's own center.
+- **Book of Wisdom**, *Book of Wisdom* `APP ¶90` — Supports: the best description of Wisdom as man's exemplar.
+- **Job** — “I have heard of thee by the hearing of the ear, but now mine eye seeth Thee; therefore I abhor myself and repent in dust and ashes” `APP ¶90` — Illustrates the contrast between the perfection of the Law of Light and human defection.
+- **Kirchberger**, *Theos. Correspondence, p. 168* `APP ¶93` — Supports: names 'the physical problem', making the invisible spirit visible.
+- **Chaldaic Oracles**, *Chaldaic Oracles* — “There is room for the image also in the circumlucid place. Every way to the unfashioned soul stretch the reins of fire” `APP ¶96` — Supports: the soul as the place of manifestation of the law of Light.
+- **Stanley**, *Hist. Phil.* `APP ¶96` — Reference only, for the Chaldaic Oracles.
+- **Kant** `APP ¶96` — Criticized: never got beyond the negative margin of intellectual intuition.
+- **Fichte** `APP ¶96` — Contrasts: broke through into the Absolute ground, seeing but without experiencing.
+- **Schelling** `APP ¶96` — Contrasts: as Fichte.
+- **Hegel** `APP ¶96` — Named among modern metaphysicians who took their starting point from the Mystics.
+- **Oken** `APP ¶96` — Contrasts: appears to have had an inspiration into the science of created nature.
+
+## Ambiguities
+
+- “There are two Causes and one Mother in the Work” `APP ¶73`
+  - Reading: Left deliberately veiled ('Qui capit, ille sapit'); the chunk does not identify the Causes or the Mother.
+  - Reading: Possibly connected with the two wills of the chunk (Universal Will and self-will, APP ¶92, ¶94; 'one will, then in two wills, and exists in the third', APP ¶86).
+  - Basis: APP ¶73 gives only the Oedipus pointer. Reading 2 is speculative: the text never links the phrase to the two wills.
+- “the Paradisiacal life inferred the higher and deeper” `APP ¶76`
+  - Reading: Those who entered the medial sphere could only infer the higher and deeper spheres from the Paradisiacal life.
+  - Reading: The Paradisiacal life itself implies higher and deeper levels.
+  - Basis: APP ¶76 is elliptical. APP ¶94 links the Paradisiacal Life to the Second Principle.
+- “Troy in the old analogy is that citadel where Apollo keeps his cattle, Mercury steals them and afterwards sacrifices them” `APP ¶77`
+  - Reading: Point-by-point: Troy/the cattle = the Salt bound in the lowest region; Mercury's theft and sacrifice = its drawing-up into the medial life.
+  - Reading: A loose illustration of the translation of the Salt, with no figure-by-figure mapping.
+  - Basis: APP ¶77 sets the analogy inside the sentence on translating the Salt but gives no explicit mapping.
+- “when Vulcan appears in the same altar with Minerva the conjunction is ominous” `APP ¶82`
+  - Reading: Vulcan = the self-will, Minerva = the Wisdom-life; the conjunction is ominous because the stirred Wisdom-life is taken by self-will. The Artist should still stir the Motion, the image naming the risk.
+  - Reading: The stirring itself is the ominous conjunction to be wary of.
+  - Basis: APP ¶82 enjoins stirring, calls the conjunction ominous, then glosses 'what takes it is the self-will'. Neither figure is explicitly identified.
+- “It subsists first in one will, then in two wills, and exists in the third; it then becomes a self-assertion.” `APP ¶86`
+  - Reading: An abstract sequence of Will's self-manifestation (cf. Behmen's law, APP ¶73).
+  - Reading: Parallels the Universal Will / self-will pair yielding a third, new life (cf. 'a third form of life', APP ¶80), or describes how self-will ('self-assertion') arises.
+  - Basis: APP ¶86 gives no gloss; APP ¶73, ¶80, ¶92 each give partial context.
+- “that pure earth which commences the Regeneration, the medial life” `APP ¶89`
+  - Reading: 'the medial life' is in apposition to 'the Regeneration'.
+  - Reading: 'the medial life' is in apposition to 'that pure earth'.
+  - Basis: The syntax of APP ¶89 allows either.
+- “the heart life below the arms which, when extended, give a Cross, represents this, and is this” `APP ¶94`
+  - Reading: The bodily heart region literally is the seat of the Paradisiacal life.
+  - Reading: The cross-shaped body is a symbol of it.
+  - Basis: 'represents this, and is this' asserts both; APP ¶95 places the medial life in the heart.
+- “the eye of the Divine, animal rational head life” `APP ¶95`
+  - Reading: The head center is both 'the eye of the Divine' and the animal rational life.
+  - Reading: 'the eye of the Divine' is a separate item.
+  - Basis: The punctuation of APP ¶95 leaves it open, though 'three' centers favours the first.
+
+## Translations
+
+- `APP ¶73` “Qui capit, ille sapit.” → He who grasps it is wise. *(ours)*
+- `APP ¶73` “Omia in omnibus” → All in all things. *(ours)*
+- `APP ¶81` “into esse from posse” → into being from possibility *(ours)*
+- `APP ¶89` “nascitur in aere terra magica; in aethere clarificatur” → The magical earth is born in the air; in the ether it is clarified. *(ours)*
+- `APP ¶92` “Tinctura Solaris” → Solar Tincture *(book)*
+- `APP ¶93` “Verbum invisible fiat palpabile et germinabit ut radix” → Let the invisible Word become palpable, and it will germinate like a root. *(ours)*
+
+## Threads
+
+- `APP ¶73` 'the Divine Art of the separation of which Paracelsus speaks' points to a Paracelsus passage not given here.
+- `APP ¶74` Points to 'the latter part' of The Hermetic Wedding as illustration of sacrificing the first-fruits.
+- `APP ¶88` Points to St Martin's Correspondence, letter 30, on The Name.
+- `APP ¶89` Points to St Martin's Theos. Correspondence, p. 117, on the mineral earth.
+- `APP ¶93` Points to Kirchberger, Theos. Correspondence, p. 168, for 'the physical problem'.

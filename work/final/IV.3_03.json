@@ -1,0 +1,1196 @@
+{
+  "chunk": "IV.3_03",
+  "gist": "Because the Keys of Eudoxus are defective on Multiplication and Projection, Atwood supplies these from other authorities (the Open Entrance, Sendivogius, Vaughan, Lucerna Salis, Eirenaeus' verse, the Rosary), distinguishing a spiritual from a bodily fermentation. She then warns gold-seekers that these assertions are not literally true: the philosophers sought not gold or silver but 'the substance of these things', which was itself swallowed up in the vision of the Light.",
+  "notes": [
+    {
+      "point": "The Keys of Eudoxus open no more; their last parts, on Multiplication and Projection, are avowedly defective, so Atwood supplies these from another credible source.",
+      "refs": [
+        "IV.3 ¶17"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Multiplication: one part Perfect Matter with at most three or four of Mercury of the First Work, sealed, over gentle fire. All prior operations pass in seven days, virtue rising a thousandfold; repeats take three days, one day, an hour; after the fifth, strength is incalculable.",
+      "refs": [
+        "IV.3 ¶18"
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "point": "Projection (Atwood: 'the final Projection' names the matter's metalline perfectibility): Stone melted 1:4 with silver (white) or gold (red) gives a powder; this on ten parts smoking purified mercury gives an inferior medicine, projected on purified molten metal. Project by degrees; impurities waste the Stone.",
+      "refs": [
+        "IV.3 ¶19",
+        "IV.3 ¶20",
+        "IV.3 n1"
+      ],
+      "voice": "QUOTED: E. Philalethes (Introitus Apertus, per n1)"
+    },
+    {
+      "point": "Fermentation is twofold, spiritual and bodily; spiritual multiplies tinctures and cannot use common gold or silver, mere gross bodies.",
+      "refs": [
+        "IV.3 ¶21"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Sendivogius: use not dead common metals but living 'Ours'. In Our Fire earth becomes Water, the Mercury of philosophers, consuming them to the radical moisture of metals. Set this on clear water and salt-nitre from Our Earth over the fire of putrefaction and generation; digest through peacock colors to green, then fiery ashes and reddish water; if it tinges iron, add water and reboil. 'The wary Artist' went no further. The water must be the menstruum of the world, rectified until it calcines gold.",
+      "refs": [
+        "IV.3 ¶21",
+        "IV.3 n2"
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "point": "Vaughan: the finished medicine, a fiery liquid shining like the sun, is too strong to proportion; cast 1:10 on molten gold it makes a bloody powder. This 'descent or incorporation' is bodily fermentation; common gold only tempers the Stone, never makes it. The dust is the portable Arabian Elixir; the medicine, a subtle moist fire, only its proper glass holds.",
+      "refs": [
+        "IV.3 ¶22",
+        "IV.3 n3"
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "point": "Verse: a little composition in one glass under Hermes' seal suffices, barring error.",
+      "refs": [
+        "IV.3 ¶23",
+        "IV.3 n4"
+      ],
+      "voice": "QUOTED: Marrow of Alchemy"
+    },
+    {
+      "point": "Lucerna Salis: ferment first with a drachm of pure gold (red) or silver (white), since imperfect metals cannot bear the medicine's subtlety; purify them too ('let not the allusion here be misapprehended'). Re-dissolving and coagulating with its own mercury raises virtue tenfold each time.",
+      "refs": [
+        "IV.3 ¶24",
+        "IV.3 n5"
+      ],
+      "voice": "QUOTED: Author of Lucerna Salis"
+    },
+    {
+      "point": "Eirenaeus' verse: the powder grows by oft dissolving and congealing, enters metal as rennet curdles milk; projected 1:4-5 on pure metal (brittle ruby-like mass), then 1:10 on Argent vive. Like fire it multiplies itself; one grain finally tinged ninety thousand parts.",
+      "refs": [
+        "IV.3 ¶24",
+        "IV.3 ¶25",
+        "IV.3 n6"
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "point": "The Rosary: endless abundance, earned by one's own labor. Eirenaeus adds better-than-natural gems and a universal medicine able to heal the world.",
+      "refs": [
+        "IV.3 ¶26",
+        "IV.3 n7"
+      ],
+      "voice": "QUOTED: Author of the Rosary; Eirenaeus"
+    },
+    {
+      "point": "Atwood begs gold-seekers to disregard all this: literally taken the assertions are false, and making gold nature supplies is delirious. The rewards come only to a life of labor, thought, patience, self-conquest and suffering; the object was not gold but 'the substance of these things', itself despised in the vision of the Light.",
+      "refs": [
+        "IV.3 ¶26"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "procedure",
+      "veiled": "take one part of the Perfect Matter and to join it with three or four parts at most of the Mercury of the First Work",
+      "ref": "IV.3 ¶18",
+      "plain": "Multiplication: one part of the finished (Perfect) Matter is joined with at most three or four parts of the Mercury of the First Work and heated gently, so that all the earlier operations run through again. This chunk does not explain 'Perfect Matter' or 'Mercury of the First Work'.",
+      "status": "stated",
+      "basis": "IV.3 ¶18 gives the proportion, the fire, and says 'all the operations before named pass through'.",
+      "voice": "QUOTED: Author of the Open Entrance",
+      "also": [
+        {
+          "text": "by the help of a gentle and well-regulated fire",
+          "ref": "IV.3 ¶18"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "place both in a vessel well luted and sealed",
+      "ref": "IV.3 ¶18",
+      "plain": "The work is done in a closed, sealed vessel. The verse's one glass 'shut With Hermes’ seal' likely makes the same point, but this chunk does not explain 'Hermes’ seal'.",
+      "status": "interpreted",
+      "basis": "IV.3 ¶18 literal instruction; IV.3 ¶23 speaks of one glass shut with Hermes' seal so the composition is not lost. The identity of the two is not stated.",
+      "voice": "QUOTED: Author of the Open Entrance",
+      "also": [
+        {
+          "text": "which shut With Hermes’ seal, no fear it should be lost",
+          "ref": "IV.3 ¶23"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "all the operations before named pass through rapidly in seven days",
+      "ref": "IV.3 ¶18",
+      "plain": "Each repetition of the multiplication runs through the whole sequence of operations and colors faster (seven days, three days, one natural day, an hour) while the strength increases (a thousandfold the first time, then 'redoubled', then 'thousands by thousands'), until after the fifth it is incalculable.",
+      "status": "stated",
+      "basis": "IV.3 ¶18 gives the times and increases explicitly.",
+      "voice": "QUOTED: Author of the Open Entrance",
+      "also": [
+        {
+          "text": "one natural day will complete the whole, and every regiment of the colors will in that brief space be passed through",
+          "ref": "IV.3 ¶18"
+        },
+        {
+          "text": "the virtue is augmented a thousand times in this revelation above what it was before",
+          "ref": "IV.3 ¶18"
+        },
+        {
+          "text": "if you multiply it a fifth time, you will no longer be able to calculate the strength of the medicine",
+          "ref": "IV.3 ¶18"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "the final Projection, as the metalline perfectibility of the matter is sometimes called",
+      "ref": "IV.3 ¶19",
+      "plain": "Atwood notes that 'the final Projection' is a name sometimes given to 'the metalline perfectibility of the matter'; the recipes that follow are presented under that name. This chunk does not explain the phrase further.",
+      "status": "stated",
+      "basis": "IV.3 ¶19, Atwood's own gloss.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "cause to be melted in a crucible four parts of one of the fixed metals",
+      "ref": "IV.3 ¶20",
+      "plain": "Projection in steps: one part Stone with four parts molten silver (white) or gold (red) gives a pulverizable mass; one part of this powder on ten parts of heated purified mercury gives a weaker medicine; that is projected on purified molten metal to give gold or silver.",
+      "status": "stated",
+      "basis": "IV.3 ¶20 gives the sequence; the verse in IV.3 ¶25 gives the same proportions (one to four or five on metal, then ten to one on Argent vive).",
+      "voice": "QUOTED: E. Philalethes (Introitus Apertus, per n1)",
+      "also": [
+        {
+          "text": "you will have the medicine, though of an inferior order",
+          "ref": "IV.3 ¶20"
+        },
+        {
+          "text": "The white to throw, one part of this, your Stone On four of metal, or else five to one.",
+          "ref": "IV.3 ¶25"
+        },
+        {
+          "text": "Then upon Argent vive cast this with care. On ten parts one so long project until The tincture to decrease thou shalt perceive",
+          "ref": "IV.3 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "the Stone sustains great loss on account of the impurities with which they abound",
+      "ref": "IV.3 ¶20",
+      "plain": "Impurities in the receiving metal waste the Stone; so purify the metal first and project by degrees until the Stone yields no more tincture.",
+      "status": "stated",
+      "basis": "IV.3 ¶20 explicitly; IV.3 ¶24 repeats the need to purify.",
+      "voice": "QUOTED: E. Philalethes (Introitus Apertus, per n1)",
+      "also": [
+        {
+          "text": "it is always best to make projection by degrees until the Stone yields no more tincture",
+          "ref": "IV.3 ¶20"
+        },
+        {
+          "text": "the more the metal is purified before projection, the more successful will be transmutation",
+          "ref": "IV.3 ¶20"
+        },
+        {
+          "text": "The imperfect and impure metals (let not the allusion here be misapprehended) must also be purified",
+          "ref": "IV.3 ¶24"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "there is a twofold fermentation --- a spiritual and a bodily",
+      "ref": "IV.3 ¶21",
+      "plain": "Spiritual fermentation = multiplying the tinctures, which cannot be done with common gold or silver; bodily fermentation = the 'descent or incorporation' of the finished medicine into molten gold to bring its strength down to a usable level.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 defines the spiritual kind; IV.3 ¶22 names the descent or incorporation into gold a bodily fermentation.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "The spiritual fermentation is performed by multiplying the tinctures",
+          "ref": "IV.3 ¶21"
+        },
+        {
+          "text": "This descent or incorporation, some wise authors have called a bodily fermentation",
+          "ref": "IV.3 ¶22"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "thou takest not common gold or silver, for these are dead; take Ours which are living",
+      "ref": "IV.3 ¶21",
+      "plain": "The gold and silver of the work are not the common metals (dead, 'gross compacted bodies', not tinctures) but the philosophers' own, called living. This chunk does not say positively what 'Ours' are.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 states the contrast; IV.3 ¶22 adds that common gold was not used to make the Stone.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "they are not tinctures, but gross compacted bodies",
+          "ref": "IV.3 ¶21"
+        },
+        {
+          "text": "the philosophers did not use common gold to make their Stone (though so many deceptively write about it)",
+          "ref": "IV.3 ¶22"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "the earth will be resolved into Water which is called the Mercury of philosophers",
+      "ref": "IV.3 ¶21",
+      "plain": "In 'Our Fire' the living metals are made into a 'dry liquor': the earth dissolves into a water, and this water is what is called the Mercury of philosophers; it then dissolves and consumes the bodies of gold and silver.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 makes the identification explicitly.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "put them into Our Fire and let there be made of them a dry liquor",
+          "ref": "IV.3 ¶21"
+        }
+      ]
+    },
+    {
+      "aspect": "stage",
+      "veiled": "there shall remain but the tenth part with one part; and this shall be the radical moisture of the metals",
+      "ref": "IV.3 ¶21",
+      "plain": "What remains after the water consumes the gold and silver is called the radical moisture of the metals. The proportion phrase is not explained.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 names the residue.",
+      "voice": "QUOTED: Sendivogius",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "water and salt-nitre, which comes from Our Earth in which there is a river of living water",
+      "ref": "IV.3 ¶21",
+      "plain": "A second ingredient: the clear part of a water with salt-nitre, drawn from 'Our Earth', on which the radical moisture is put. This chunk does not explain it.",
+      "status": "interpreted",
+      "basis": "IV.3 ¶21: 'upon this put that radical moisture'; only the clear water is to be taken. No gloss given.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "if thou digest the pit knee deep, therefore take the water out of that; but take that which is clear",
+          "ref": "IV.3 ¶21"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the fire of putrefaction and generation, not on such a one as thou didst in the first operation",
+      "ref": "IV.3 ¶21",
+      "plain": "This stage uses a different fire from the first operation, named the fire of putrefaction and generation, governed with great discretion and patient digestion. This chunk does not describe it further.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 contrasts it with the first operation's fire and prescribes discretion and digestion.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "govern all things with a great deal of discretion",
+          "ref": "IV.3 ¶21"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "until colors appear like a peacock’s tail",
+      "ref": "IV.3 ¶21",
+      "plain": "Signs in order: many colors like a peacock's tail, then one green color throughout, then fiery-colored ashes at the bottom with the water almost red, the cue to open the vessel.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 gives the sequence and the action at its end.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "there appear throughout the whole one green color",
+          "ref": "IV.3 ¶21"
+        },
+        {
+          "text": "when thou shalt see in the bottom ashes of a fiery color and the water almost red",
+          "ref": "IV.3 ¶21"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "dip in a pen, and smear some Iron with it; if it tinge",
+      "ref": "IV.3 ¶21",
+      "plain": "Test of readiness: if the liquid tinges iron, add more of the water (as much as the cold air that went in) and boil again with the former fire until it tinges again.",
+      "status": "stated",
+      "basis": "IV.3 ¶21, literal instruction.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "put in so much of that water as the cold air was which went in, boil it again with the former fire, until it tinge again",
+          "ref": "IV.3 ¶21"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "that water must be the menstruum of the world, out of the sphere of the Moon so often rectified until it can calcine gold",
+      "ref": "IV.3 ¶21",
+      "plain": "The water used must be the 'menstruum of the world', rectified until it can calcine gold. This chunk does not explain 'menstruum of the world' or 'out of the sphere of the Moon'.",
+      "status": "stated",
+      "basis": "IV.3 ¶21 states the requirement without gloss; speaker unclear (see ambiguities).",
+      "voice": "UNCLEAR",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "a liquid fiery spiritual substance, shining like the sun",
+      "ref": "IV.3 ¶22",
+      "plain": "The finished medicine is a liquid, fiery, luminous, subtle substance, so powerful that no just proportion for projection can be found, and only its proper glass can hold it.",
+      "status": "stated",
+      "basis": "IV.3 ¶22 describes it directly.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "you would hardly find the just proportion: the virtue of the medicine is so intensive and powerful",
+          "ref": "IV.3 ¶22"
+        },
+        {
+          "text": "it is such a subtle moist fire that there is nothing bit (its proper) glass that will hold it",
+          "ref": "IV.3 ¶22"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "this single grain brings all the gold to a bloody powder",
+      "ref": "IV.3 ¶22",
+      "plain": "Bodily fermentation: one part of the finished Stone cast on ten of molten gold turns it to a bloody powder, the gold abating the Stone's strength. Common gold is used only after the Stone is made, to temper its power so the quantity of base metal to project on can be found.",
+      "status": "stated",
+      "basis": "IV.3 ¶22 gives the act, names it bodily fermentation and states its purpose.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "the gross body of the gold abates the spiritual strength of the projected grain",
+          "ref": "IV.3 ¶22"
+        },
+        {
+          "text": "they used it only to qualify the utensive power of it when it was made, that they might the more easily find what quantity of base metal they should project upon",
+          "ref": "IV.3 ¶22"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "By this means they reduced their medicine to a dust, and this dust is the Arabian Elixir",
+      "ref": "IV.3 ¶22",
+      "plain": "The medicine reduced to a dust by bodily fermentation is the 'Arabian Elixir', which can be carried about, unlike the medicine itself.",
+      "status": "stated",
+      "basis": "IV.3 ¶22 makes the identification.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "This Elixir the philosophers could carry about them",
+          "ref": "IV.3 ¶22"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "it is requisite that they should first be fermented with very good and most pure gold; for otherwise the imperfect metals would not be able to support its too great and supreme subtlety",
+      "ref": "IV.3 ¶24",
+      "plain": "Before projection on imperfect metals, the medicine is first fermented with a small amount (one drachm) of pure gold for the red or silver for the white, since unmediated it is too subtle for them and would be lost.",
+      "status": "stated",
+      "basis": "IV.3 ¶24 gives the reason and amounts.",
+      "voice": "QUOTED: Author of Lucerna Salis",
+      "also": [
+        {
+          "text": "one drachm of gold is sufficient for the fermentation in the red, and one drachm of silver for the fermentation in the white",
+          "ref": "IV.3 ¶24"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "be again dissolved and coagulated by the virtue of its mercury, white or red, of which it was prepared",
+      "ref": "IV.3 ¶24",
+      "plain": "Multiplication works by repeatedly dissolving and re-solidifying the medicine with the same mercury it was made from; each round raises its tinging power (tenfold, per Lucerna Salis), without limit.",
+      "status": "stated",
+      "basis": "IV.3 ¶24 states it; the verse in IV.3 ¶25 says the same.",
+      "voice": "QUOTED: Author of Lucerna Salis",
+      "also": [
+        {
+          "text": "the tinging virtue will be augmented each time by ten degrees in perfection, which may be reiterated as often as one pleases",
+          "ref": "IV.3 ¶24"
+        },
+        {
+          "text": "who so shall It oft dissolve, and then congeal again, Shall find a medicine that will translate Innumerable parts to Sol’s estate.",
+          "ref": "IV.3 ¶25"
+        },
+        {
+          "text": "At first it is of virtue very small, Compared with the might it doth attain By oft reiteration",
+          "ref": "IV.3 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "just like milk Is penetrated by the Rennet sour, And curdled in the minute of an hour",
+      "ref": "IV.3 ¶25",
+      "plain": "When projected, the powder melts like wax on the metal and enters it to the centre almost at once, as rennet curdles milk.",
+      "status": "stated",
+      "basis": "IV.3 ¶25 gives the simile; IV.3 ¶20 likewise says the powder penetrates the mercury 'in the twinkling of an eye'.",
+      "voice": "QUOTED: Eirenaeus",
+      "also": [
+        {
+          "text": "On metal it, like wax, in flux is guided To enter to the centre",
+          "ref": "IV.3 ¶25"
+        },
+        {
+          "text": "in the twinkling of an eye as it were, penetrate the mercury",
+          "ref": "IV.3 ¶20"
+        }
+      ]
+    },
+    {
+      "aspect": "sign",
+      "veiled": "Then brittle like to glasse that masse will be",
+      "ref": "IV.3 ¶25",
+      "plain": "After the first projection on pure metal the mass is brittle, glassy, bright, ruby-like but not transparent, and its virtue is lessened.",
+      "status": "stated",
+      "basis": "IV.3 ¶25 describes it directly.",
+      "voice": "QUOTED: Eirenaeus",
+      "also": [
+        {
+          "text": "To view most glittering, like a ruby fair,",
+          "ref": "IV.3 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "it, like fire, is apt to multiply Itself in weight as eke in dignity",
+      "ref": "IV.3 ¶25",
+      "plain": "Like fire, the Stone increases itself in quantity and quality, so it is never used up.",
+      "status": "stated",
+      "basis": "IV.3 ¶25.",
+      "voice": "QUOTED: Eirenaeus",
+      "also": [
+        {
+          "text": "That never shall thy stock with use be spent,",
+          "ref": "IV.3 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "would possess a universal medicine, moreover, capable of curing all diseases",
+      "ref": "IV.3 ¶26",
+      "plain": "The promised results: endless abundance honestly earned, transmuted metals, precious stones finer than nature's, and a universal medicine. Atwood then says these assertions are not true taken literally.",
+      "status": "stated",
+      "basis": "IV.3 ¶26 lists the results, then gives Atwood's caveat.",
+      "voice": "QUOTED: Author of the Rosary; Eirenaeus",
+      "also": [
+        {
+          "text": "make precious stones also more beautiful and perfect than those of nature",
+          "ref": "IV.3 ¶26"
+        },
+        {
+          "text": "even one Adept, were he permitted, might impart health to the whole world",
+          "ref": "IV.3 ¶26"
+        },
+        {
+          "text": "But one at last ting’d ninety thousand more",
+          "ref": "IV.3 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "even supposing the whole of the assertions to be true (and which literally taken they are not)",
+      "ref": "IV.3 ¶26",
+      "plain": "Atwood denies that the quoted metallic claims are literally true, tells gold-seekers to regard none of it, and calls it delirious to labor to make gold that nature supplies ripe for the gathering.",
+      "status": "stated",
+      "basis": "IV.3 ¶26 directly.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "to regard nothing of all that has been written",
+          "ref": "IV.3 ¶26"
+        },
+        {
+          "text": "Let not one then be allured by the ultimate promises of Alchemy",
+          "ref": "IV.3 ¶26"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "the rewards only of a long- suffering and laborious life",
+      "ref": "IV.3 ¶26",
+      "plain": "Alchemy's ultimate rewards come only to one who gives a long, laborious life to unwearying thought, patience under affliction, mastery of the passions and self-denial, enduring hardship and even the terrors of death and hell. The Rosary likewise credits industry, patience and one's own labor.",
+      "status": "stated",
+      "basis": "IV.3 ¶26, Atwood's own list; the Rosary passage in the same paragraph agrees.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "of unwearying thought, patience under afflictions, conquest over unruly passions, hunger, thirst, stripes merited and unmerited, persecutions, indigence, self-denial",
+          "ref": "IV.3 ¶26"
+        },
+        {
+          "text": "even encountering the terrors of death and hell itself in pursuit of their object",
+          "ref": "IV.3 ¶26"
+        },
+        {
+          "text": "not by the oppression of others or by unlawful means, but by industry, patience, and the labor of his own hand",
+          "ref": "IV.3 ¶26"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "which was not gold however, or silver, but the substance of these things",
+      "ref": "IV.3 ¶26",
+      "plain": "The philosophers' real object was not metal but 'the substance' of gold and silver; once gained, even this was despised in favor of the vision of the Light. This chunk defines neither 'the substance of these things' nor 'the Light'.",
+      "status": "stated",
+      "basis": "IV.3 ¶26.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "was despised and swallowed up in the vision of a yet more alluring prospect of the Light",
+          "ref": "IV.3 ¶26"
+        }
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "term": "Multiplication",
+      "variants": [
+        "multiply",
+        "multiplied",
+        "multiplying"
+      ],
+      "meaning": "The work after the Stone is made: by repeating the operation (joining with Mercury of the First Work; dissolving and coagulating with its own mercury) its virtue is raised many times over, each round faster.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "It remains only for the work of Multiplication",
+          "ref": "IV.3 ¶18"
+        }
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "Projection",
+      "variants": [
+        "project",
+        "projected",
+        "projecting"
+      ],
+      "meaning": "Casting the Stone or medicine onto metal or mercury to tinge or transmute it, done stepwise and by degrees onto purified metal.",
+      "equivalences": [
+        {
+          "with": "metalline perfectibility of the matter",
+          "quote": "the final Projection, as the metalline perfectibility of the matter is sometimes called",
+          "ref": "IV.3 ¶19"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "it is always best to make projection by degrees until the Stone yields no more tincture",
+          "ref": "IV.3 ¶20"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Perfect Matter",
+      "variants": [],
+      "meaning": "What is joined with the Mercury of the First Work in Multiplication. Not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "take one part of the Perfect Matter",
+          "ref": "IV.3 ¶18"
+        }
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "Mercury of the First Work",
+      "variants": [],
+      "meaning": "Added three or four parts to one of the Perfect Matter in Multiplication. Not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "three or four parts at most of the Mercury of the First Work",
+          "ref": "IV.3 ¶18"
+        }
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "Stone",
+      "variants": [
+        "Perfect Stone"
+      ],
+      "meaning": "The finished product, white or red, which is multiplied and projected.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Take one part of your Perfect Stone, whether white or red",
+          "ref": "IV.3 ¶20"
+        }
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "medicine",
+      "variants": [],
+      "meaning": "The Stone in its working, tinging form; its strength grows with multiplication; a medicine 'of an inferior order' results from dilution in mercury. In Vaughan, a liquid fiery spiritual substance that only its proper glass can hold.",
+      "equivalences": [
+        {
+          "with": "subtle moist fire",
+          "quote": "the medicine itself not so, for it is such a subtle moist fire",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "you will have the medicine, though of an inferior order",
+          "ref": "IV.3 ¶20"
+        },
+        {
+          "text": "when thou hast made the Stone and magic medicine",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "regiment of the colors",
+      "variants": [],
+      "meaning": "The succession of colors the matter passes through, run through again in each multiplication.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "every regiment of the colors will in that brief space be passed through",
+          "ref": "IV.3 ¶18"
+        }
+      ],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "fixed metals",
+      "variants": [],
+      "meaning": "Silver (for the white) and gold (for the red), melted with the Stone in projection.",
+      "equivalences": [
+        {
+          "with": "silver or gold",
+          "quote": "four parts of one of the fixed metals, i.e., silver of it be for the white, or gold if it be for the red",
+          "ref": "IV.3 ¶20"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Author of the Open Entrance"
+    },
+    {
+      "term": "fermentation",
+      "variants": [
+        "fermented"
+      ],
+      "meaning": "Twofold: spiritual (multiplying the tinctures) and bodily (incorporating the medicine into gold or silver).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "there is a twofold fermentation --- a spiritual and a bodily",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "spiritual fermentation",
+      "variants": [],
+      "meaning": "Fermentation performed by multiplying the tinctures; not done with common gold or silver.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The spiritual fermentation is performed by multiplying the tinctures",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "bodily fermentation",
+      "variants": [],
+      "meaning": "Casting the finished Stone on molten gold so the gold abates its strength, to fix a usable projection ratio.",
+      "equivalences": [
+        {
+          "with": "descent or incorporation",
+          "quote": "This descent or incorporation, some wise authors have called a bodily fermentation",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "tincture",
+      "variants": [
+        "tinctures",
+        "tinge",
+        "tinging",
+        "teined",
+        "ting’d"
+      ],
+      "meaning": "The coloring, transmuting virtue, or what carries it; spiritual fermentation multiplies tinctures; common gold and silver are not tinctures but gross compacted bodies.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "they are not tinctures, but gross compacted bodies",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Ours (living gold and silver)",
+      "variants": [],
+      "meaning": "The philosophers' own gold and silver, called living, as opposed to common gold and silver, called dead. Not positively defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "take Ours which are living",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "Our Fire",
+      "variants": [],
+      "meaning": "The fire into which the living metals are put to make a dry liquor. Not further defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "put them into Our Fire and let there be made of them a dry liquor",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "dry liquor",
+      "variants": [],
+      "meaning": "What the living metals are made into in Our Fire. Not explained further.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "let there be made of them a dry liquor",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "Mercury of philosophers",
+      "variants": [],
+      "meaning": "The water into which the earth is resolved in Our Fire; it dissolves and consumes the bodies of gold and silver.",
+      "equivalences": [
+        {
+          "with": "Water",
+          "quote": "the earth will be resolved into Water which is called the Mercury of philosophers",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "radical moisture of the metals",
+      "variants": [],
+      "meaning": "What remains ('the tenth part with one part') after the philosophers' water consumes the gold and silver.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "this shall be the radical moisture of the metals",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "salt-nitre",
+      "variants": [],
+      "meaning": "Taken with water from Our Earth; the radical moisture is put upon it.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "water and salt-nitre, which comes from Our Earth",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "Our Earth",
+      "variants": [],
+      "meaning": "Source of the water and salt-nitre; contains 'a river of living water'. Not further defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Our Earth in which there is a river of living water",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "fire of putrefaction and generation",
+      "variants": [],
+      "meaning": "The fire of the second operation, different from that of the first.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the fire of putrefaction and generation, not on such a one as thou didst in the first operation",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "menstruum of the world",
+      "variants": [],
+      "meaning": "What 'that water' must be: 'out of the sphere of the Moon', rectified until it can calcine gold. Not explained further.",
+      "equivalences": [
+        {
+          "with": "that water",
+          "quote": "Now that water must be the menstruum of the world",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "out of the sphere of the Moon so often rectified until it can calcine gold",
+          "ref": "IV.3 ¶21"
+        }
+      ],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "Arabian Elixir",
+      "variants": [
+        "Elixir"
+      ],
+      "meaning": "The medicine reduced to a dust by bodily fermentation; portable, unlike the medicine itself.",
+      "equivalences": [
+        {
+          "with": "dust (the reduced medicine)",
+          "quote": "they reduced their medicine to a dust, and this dust is the Arabian Elixir",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "This Elixir the philosophers could carry about them",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "utensive power",
+      "variants": [],
+      "meaning": "The Stone's working strength, which casting on gold is used to 'qualify'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "to qualify the utensive power of it when it was made",
+          "ref": "IV.3 ¶22"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "Hermes’ seal",
+      "variants": [],
+      "meaning": "The closure of the single glass holding the composition. Not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "which shut With Hermes’ seal, no fear it should be lost",
+          "ref": "IV.3 ¶23"
+        }
+      ],
+      "voice": "QUOTED: Marrow of Alchemy"
+    },
+    {
+      "term": "Argent vive",
+      "variants": [],
+      "meaning": "What the glassy mass is cast on, ten parts to one, in the verse's projection. It occupies the place of the 'mercury purged and purified' of ¶20, though the text does not state the identity.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Then upon Argent vive cast this with care.",
+          "ref": "IV.3 ¶25"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Sol",
+      "variants": [
+        "Sol’s"
+      ],
+      "meaning": "Paired with Lune as the products of projection; the next line says the effect will prove 'both gold and silver pure'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Most perfect Sol and Lune from fire receive",
+          "ref": "IV.3 ¶25"
+        },
+        {
+          "text": "Innumerable parts to Sol’s estate.",
+          "ref": "IV.3 ¶25"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Lune",
+      "variants": [],
+      "meaning": "Paired with Sol as the products of projection; the next line says the effect will prove 'both gold and silver pure'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Most perfect Sol and Lune from fire receive",
+          "ref": "IV.3 ¶25"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "universal medicine",
+      "variants": [],
+      "meaning": "A medicine able to cure all diseases, which the accomplished artist would possess.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a universal medicine, moreover, capable of curing all diseases",
+          "ref": "IV.3 ¶26"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "Adept",
+      "variants": [],
+      "meaning": "One who has accomplished the Art.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "even one Adept, were he permitted, might impart health to the whole world",
+          "ref": "IV.3 ¶26"
+        }
+      ],
+      "voice": "QUOTED: Eirenaeus"
+    },
+    {
+      "term": "the Light",
+      "variants": [],
+      "meaning": "The 'more alluring prospect' in whose vision the philosophers' attained 'substance' of gold and silver was despised and swallowed up. Not defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "swallowed up in the vision of a yet more alluring prospect of the Light",
+          "ref": "IV.3 ¶26"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Eudoxus",
+      "work": "Keys of Eudoxus",
+      "quote": "The Keys of Eudoxus open no more",
+      "use": "Atwood notes its last Keys, on Multiplication and Projection, are avowedly defective, so she turns to another source.",
+      "refs": [
+        "IV.3 ¶17"
+      ]
+    },
+    {
+      "name": "Author of the Open Entrance; E. Philalethes",
+      "work": "Introitus Apertus, cap. 34",
+      "quote": "you will no longer be able to calculate the strength of the medicine",
+      "use": "Supports: provides the Multiplication (¶18, attributed in text to the Author of the Open Entrance) and Projection (¶20, footnoted n1 to the Introitus Apertus of E. Philalethes) procedures. Treating the two as one rests on our translation of the title; the text does not state it.",
+      "refs": [
+        "IV.3 ¶18",
+        "IV.3 ¶20",
+        "IV.3 n1"
+      ]
+    },
+    {
+      "name": "Sendivogius",
+      "work": "Praxis; footnoted as New Light of Alchemy, treatise 11",
+      "quote": "thou takest not common gold or silver, for these are dead; take Ours which are living",
+      "use": "Supports/illustrates spiritual fermentation: living vs common metals, the philosophers' Water/Mercury, radical moisture, color signs, iron test. Atwood calls him 'the wary Artist', who admits his experience stopped there.",
+      "refs": [
+        "IV.3 ¶21",
+        "IV.3 n2"
+      ]
+    },
+    {
+      "name": "Vaughan",
+      "work": "Lumen de Lumine",
+      "quote": "this dust is the Arabian Elixir",
+      "use": "Supports: nature of the finished medicine, bodily fermentation in gold used only to temper its power, the Arabian Elixir.",
+      "refs": [
+        "IV.3 ¶22",
+        "IV.3 n3"
+      ]
+    },
+    {
+      "name": "Norton",
+      "work": "Norton’sOPrdinal, chap. 2 (as printed)",
+      "quote": null,
+      "use": "Reference only (cited in n3 alongside Vaughan).",
+      "refs": [
+        "IV.3 n3"
+      ]
+    },
+    {
+      "name": "Marrow of Alchemy",
+      "work": "Marrow of Alchemy, Book 3",
+      "quote": "And it sufficeth in one glasse to put",
+      "use": "Illustrates (verse): a small quantity of composition sealed in one glass.",
+      "refs": [
+        "IV.3 ¶23",
+        "IV.3 n4"
+      ]
+    },
+    {
+      "name": "Author of Lucerna Salis; Digby",
+      "work": "Lucerna Salis, cap. 8 (footnoted as Digby’s Lucerna Salis)",
+      "quote": "one drachm of gold is sufficient for the fermentation in the red",
+      "use": "Supports: fermenting with pure gold or silver before projection, purifying the metals, tenfold multiplication by dissolving and coagulating.",
+      "refs": [
+        "IV.3 ¶24",
+        "IV.3 n5"
+      ]
+    },
+    {
+      "name": "Eirenaeus",
+      "work": "Marrow of Alchemy, Book 3, v. 45, etc.",
+      "quote": "But one at last ting’d ninety thousand more",
+      "use": "Illustrates (verse): multiplication by reiteration, the projection steps, the rennet image, an eyewitness claim of the Red medicine's power.",
+      "refs": [
+        "IV.3 ¶25",
+        "IV.3 n6"
+      ]
+    },
+    {
+      "name": "Author of the Rosary",
+      "work": null,
+      "quote": null,
+      "use": "Cited for inexhaustible abundance won by industry, patience and one's own labor; followed by 'continues Eirenaeus' within a passage footnoted to Introitus Apertus cap. 35. Part of the testimony Atwood then says is not literally true.",
+      "refs": [
+        "IV.3 ¶26",
+        "IV.3 n7"
+      ]
+    },
+    {
+      "name": "Eirenaeus",
+      "work": "Introitus Apertus, cap. 35. De Multiplici hujus Artis.",
+      "quote": "even one Adept, were he permitted, might impart health to the whole world",
+      "use": "Cited for transmutation, perfected precious stones and a universal medicine; Atwood then tells gold-seekers to disregard such testimony.",
+      "refs": [
+        "IV.3 ¶26",
+        "IV.3 n7"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "Now that water must be the menstruum of the world, out of the sphere of the Moon so often rectified until it can calcine gold",
+      "ref": "IV.3 ¶21",
+      "readings": [
+        "Continuation of Sendivogius' words.",
+        "Atwood's own closing comment on Sendivogius' process."
+      ],
+      "basis": "It follows Atwood's interjection 'says the wary Artist, I found out no more. ---' with no new attribution; the single footnote (2) comes after it and covers the paragraph."
+    },
+    {
+      "quote": "The imperfect and impure metals (let not the allusion here be misapprehended) must also be purified",
+      "ref": "IV.3 ¶24",
+      "readings": [
+        "The parenthesis signals that 'imperfect and impure metals' is an allusion to something other than literal metals.",
+        "It only warns against misreading the purification step, with metals meant literally."
+      ],
+      "basis": "Reading 1: IV.3 ¶26 says the assertions 'literally taken they are not' true and the object was 'not gold however, or silver'. Reading 2: the surrounding passage is a practical metallurgical instruction and the parenthesis does not say which sense is meant. Whether the parenthesis is Atwood's interjection or part of the Lucerna Salis quotation is also unclear."
+    },
+    {
+      "quote": "looking at home for that which their instinct and proper destiny would otherwise direct them to find abroad",
+      "ref": "IV.3 ¶26",
+      "readings": [
+        "'At home' hints at an inward or near-at-hand pursuit (the Art's true object), versus outward gold sought 'abroad'.",
+        "Surface sense only: gold-seekers should not be diverted by this book from seeking gold in the ordinary outward way."
+      ],
+      "basis": "Reading 1: IV.3 ¶26 says the true object was 'not gold however, or silver, but the substance of these things'. Reading 2: the sentence addresses the 'credulous dunce or adventurous gold-seeker' and says gold is to be had 'all ready elaborated by nature'."
+    },
+    {
+      "quote": "except indeed out Mercury alone",
+      "ref": "IV.3 ¶20",
+      "readings": [
+        "A misprint for 'our Mercury', exempting the philosophers' Mercury from the loss caused by impurities.",
+        "Read as printed, the phrase is obscure."
+      ],
+      "basis": "Elsewhere the text uses 'Our'/'Ours' for the philosophers' materials (IV.3 ¶21 'Our Fire', 'Our Earth', 'Ours which are living')."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "IV.3 n1",
+      "original": "Introitus Apertus",
+      "translation": "Open Entrance",
+      "by": "ours"
+    },
+    {
+      "ref": "IV.3 n3",
+      "original": "Lumen de Lumine",
+      "translation": "Light from Light",
+      "by": "ours"
+    },
+    {
+      "ref": "IV.3 n5",
+      "original": "Lucerna Salis",
+      "translation": "Lamp of Salt",
+      "by": "ours"
+    },
+    {
+      "ref": "IV.3 n7",
+      "original": "De Multiplici hujus Artis",
+      "translation": "On the manifold [benefits] of this Art",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "IV.3 ¶17",
+      "note": "'The Keys of Eudoxus open no more' and 'these last ones' refer back to the Keys given earlier in this chapter; the last, on Multiplication and Projection, are 'avowedly defective'."
+    },
+    {
+      "ref": "IV.3 ¶18",
+      "note": "'all the operations before named' and 'the Mercury of the First Work' refer to earlier operations (in the cited source or the preceding Keys); the chunk does not say which."
+    },
+    {
+      "ref": "IV.3 ¶21",
+      "note": "'not on such a one as thou didst in the first operation' and 'that water which has been spoken of' point to earlier stages of Sendivogius' process not given here."
+    },
+    {
+      "ref": "IV.3 ¶23",
+      "note": "'How to avoid I faithfully shall teach' — the verse source promises instruction on avoiding error, not given in this chunk."
+    },
+    {
+      "ref": "IV.3 ¶24",
+      "note": "'its mercury, white or red, of which it was prepared' refers back to the mercury the medicine was originally made from."
+    }
+  ]
+}

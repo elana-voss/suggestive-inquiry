@@ -1,0 +1,275 @@
+# III.2_02
+
+*Atwood identifies the 'one thing in which are all' with the Identity made in regeneration out of an artificially induced void of life, supports this with visionary testimonies (Boehme, Van Helmont, Pordage, Basil Valentine) which she reads as displaying the metaphysico-chemical analysis, and describes the freed Identic Salt as a Protean flux of colours and forms that must be bound until Art fixes it in its Final Cause, which only the whole voluntary force of the central magnet can do.*
+
+## Argument
+
+- Not all came of nothing absolutely: God made of nothing something, the one thing in which are all. This appears to be the Identity made in regeneration by reprocedure into experience out of an artificially induced void of life; for the creature, the first divine manifestation out of the abyss, Spirit brought into a new circulatory confine. `III.2 ¶16` — ATWOOD
+- In the Celestial Light is a water-like, oil-burning substance, the Tincture: source of the material world and of growth, in metals and stones; a virgin generating nothing yet making all fruitful; flies from what is against nature; works not of itself; can be overpowered and used, making gold of iron or copper; source of man's thoughts; understood only in the Light of God. `III.2 ¶16, III.2 n16` — QUOTED: Boehme (endorsed by Atwood, III.2 ¶17)
+- Boehme saw this with the eyes wherein life generates, the new man. After seeking, repulse, and resolving to hazard his life, the gate opened: in a quarter hour he saw Bysse and Abysse and the Three Worlds in himself, hardly graspable by his external man. He writes from an inner book, the image of God, whose three leaves are the Principles of Eternity. `III.2 ¶16, III.2 n17` — QUOTED: Boehme
+- This modern testimony agrees in all particulars with the most ancient Kabalah and experimental divinity. `III.2 ¶17` — ATWOOD
+- Van Helmont, led to perceive the simple element of nature, saw as in a dream the earth from void creation through the flood; aspectual Ideas are deciphered in the sky of the Archaeus. `III.2 ¶17, III.2 n18` — QUOTED: Van Helmont
+- Verse: here God displays himself to himself in wonders. `III.2 ¶18, III.2 n19` — QUOTED: Pordage
+- Valentine, freed by prayer from worldly business, flew like Icarus, fell into the sea, was rescued by one who stilled the waters, and climbed a mountain to test whether the superior stars ('Ideae Divinae Mentis', our tr.: Ideas of the Divine Mind) produce their like below. Things are infused from them as light, begin as vapour, are dried until fire and air rule; this all-containing water, formed into earth, is the first matter. `III.2 ¶19, III.2 n20` — QUOTED: Basil Valentine
+- The allegory displays the metaphysico-chemical analysis of the Universal Subject: separation, introspection, reunion of the vital elements. Hence the Identic Salt, surviving dissolution, is the true grain, seed of this world and the next; it renews the parts and, Proteus-like, runs through green, red, black and countless colours. `III.2 ¶20` — ATWOOD
+- Latin verse: the captive held in bonds mocks with shapes. `III.2 ¶21, III.2 n21` — QUOTED: Georgic
+- Freed from its labyrinth and purified, he becomes vegetable, stone, animal, gem, metal, ever renewing. `III.2 ¶22, III.2 n22` — QUOTED: the adept (n22: Fama et Confessionis, R.C.)
+- Changes cease only when Art brings the Matter into the fixity of its Final Cause (Democritus); fetters bind best: philosophers chain their matter when it contends with fire (Hermes); only force and bonds compel (Latin verse). `III.2 ¶22, III.2 ¶23, III.2 n23, III.2 n24` — ATWOOD
+- Arresting this imaginative flux of freed vitality needs the whole voluntary force of the central magnet, its proper reason. Reuchlin: one nature is sensible and ever-changing; the other, principiating substance, is immutable. `III.2 ¶24, III.2 n25` — ATWOOD
+
+## Method
+
+- **subject** — “this One Thing appears to be nothing less or more than that Identity which is made in the regeneration” `III.2 ¶16` (ATWOOD)
+  - **Plain (stated):** The 'one thing in which are all' is, Atwood says (hedged with 'appears'), the Identity produced in regeneration, not a thing made out of absolute nothing.
+  - Basis: III.2 ¶16, direct identification by Atwood.
+  - Also: “God of nothing created something which was made that one thing in which are all” `III.2 ¶16`
+- **procedure** — “the reprocedure into experience out of the dissolute void of life when artificially induced” `III.2 ¶16` (ATWOOD)
+  - **Plain (interpreted):** A dissolved, void state of life is induced by art; the Identity is made as life returns from that void into experience.
+  - Basis: III.2 ¶16 gives this as how the Identity is 'made in the regeneration'; 'artificially induced' marks the void as deliberately produced. The nature of the void is not explained in this chunk.
+- **stage** — “the first divine manifestation out of the abyss, when the Spirit is brought forth into a new circulatory confine” `III.2 ¶16` (ATWOOD)
+  - **Plain (interpreted):** In the individual ('the creature'), the One Thing is the first appearance of the divine out of the void: the Spirit held in a new enclosed circulation, showing its universal properties inwardly.
+  - Basis: III.2 ¶16 frames it 'As respects the creature' right after the Identity made 'out of the dissolute void'. 'Circulatory confine' and 'Microcosmic Heaven' are not further explained here.
+  - Also: “displaying its universal properties internally according to the magnetic virtue, action, and passion of the Microcosmic Heaven” `III.2 ¶16`
+- **agent** — “a Substance like water which yet is no water, but such a spirit or property: but it burns more like a kindred oil, and is called by many the Tincture” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** The Tincture: a spirit or property in the Celestial Light, water-like yet burning like oil, source of the material world and of all growth, present in metals and stones.
+  - Basis: III.2 ¶16 names and describes it; Atwood endorses the testimony in III.2 ¶17.
+  - Also: “this Tincture is the source of the material world, and gives to all essences virtue to grow” `III.2 ¶16`
+  - Also: “it is the most hidden thing, and also the most manifest” `III.2 ¶16`
+- **principle** — “amongst all the children of nature it only is a virgin, and has never generated anything out of itself” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** The Tincture generates nothing itself; it enables others to be impregnated and grow, and does nothing of its own accord.
+  - Basis: III.2 ¶16: 'neither can it generate, yet it makes all things that are to be impregnated'; 'It is powerful, yet of itself does nothing'.
+  - Also: “It is not God, but it is God’s friend; for it works not of itself” `III.2 ¶16`
+- **impediment** — “if anything be done against the right of nature, then it readily flies away” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** Any operation against nature makes the Tincture escape; once it leaves a thing it does not naturally return. It stays with life, not with decay.
+  - Basis: III.2 ¶16, stated directly.
+  - Also: “when it goes out of a thing it comes not into it again naturally, but it stays in its ether” `III.2 ¶16`
+  - Also: “it continues in no kind of decaying of anything, but abides constantly with life” `III.2 ¶16`
+- **result** — “it may well be overpowered and used, especially in metals: there it can of itself, being pure, make gold of iron or copper, and makes a little grow to be a great deal” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** Though imperceptible, the Tincture can be mastered and used; pure, it turns base metals to gold and multiplies.
+  - Basis: III.2 ¶16, stated directly.
+  - Also: “it causes silver and gold to grow” `III.2 ¶16`
+- **principle** — “For it is as subtle as the thoughts of ma, and his thoughts do even arise from thence” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** The Tincture is as subtle as human thought, and thought arises from it; all things arose from it through the Divine Imagination.
+  - Basis: III.2 ¶16, stated directly ('ma' as printed).
+  - Also: “All things are thence arisen through the Divine Imagination” `III.2 ¶16`
+- **operator** — “the understanding and capacity is not in nature’s own ability without the Light of God” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** Understanding the Tincture is beyond natural ability; it is easy for those 'in the Light' of God. The way is near but cannot be put into words; it comes to those who seek it rightly.
+  - Basis: III.2 ¶16, stated directly.
+  - Also: “it is very easy to be understood by those who are in the Light, to them it is easy and plain” `III.2 ¶16`
+  - Also: “The way to it is very near, yet no language can express it: nevertheless it meets them that seek it aright in its own way” `III.2 ¶16`
+- **operator** — “with those eyes wherein life generates in me, for the new man speculates into the midst of the astral birth or geniture” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (interpreted):** The knowledge is seen by a regenerate inner faculty, 'the new man', in which life is generated, looking into the astral birth; opposed to the 'external man' that can hardly grasp it.
+  - Basis: III.2 ¶16: 'for' links the seeing eyes to the new man; contrast with 'my external man' later in ¶16. 'Astral birth' is not explained.
+- **procedure** — “I resolved, he says, rather to put my life to the utmost hazard than to give over and leave off; the gate was opened to me” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** Long seeking and desire through repeated rebuff, ending in a resolve to risk life itself rather than stop, preceded a sudden opening of inner vision.
+  - Basis: III.2 ¶16 introduces it as 'in explication the method of his experience' and narrates the sequence.
+  - Also: “after much Christian seeking and desire, and suffering of much repulse” `III.2 ¶16`
+  - Also: “in one quarter of an hour I saw and knew more than if I had been many years at the University” `III.2 ¶16`
+- **result** — “the Bysse, or ground or original foundation; and the Abysse, that is without ground, or fathomless or void” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** The vision showed the ground of being and the groundless void, the generation of the Trinity, the world's origin, the Three Worlds within the seer, good and evil, and the womb of eternity, seen inwardly as a chaos in which all is enfolded.
+  - Basis: III.2 ¶16; the glosses of Bysse and Abysse are given in the text.
+  - Also: “I knew and saw in myself all the Three Worlds” `III.2 ¶16`
+  - Also: “I had a thorough view of the universe as in a chaos wherein all things are couched and wrapped up” `III.2 ¶16`
+- **impediment** — “I could very hardly apprehend the same in my external man, and express it with my pen” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** What is seen inwardly is hard to carry into ordinary consciousness and into words.
+  - Basis: III.2 ¶16, stated directly.
+- **result** — “my book hath only three leaves, the same are the Principles of Eternity” `III.2 ¶16` (QUOTED: Boehme)
+  - **Plain (stated):** Knowledge comes not from men or books but from an inner 'book' opened within, the image of God, containing all that scripture teaches; the Spirit of God, not the self, does it.
+  - Basis: III.2 ¶16, stated directly.
+  - Also: “I have written out in my own book which was opened in me, being the noble similitude, the book of the most noble and precious image of God” `III.2 ¶16`
+  - Also: “and yet not I but the Spirit of God doeth it according to the measure as he pleaseth” `III.2 ¶16`
+- **sign** — “at length without the day and beyond the beginning of the night, I saw, as in a dream, the whole face of the earth” `III.2 ¶17` (QUOTED: Van Helmont)
+  - **Plain (stated):** In a dream-like state, Van Helmont beheld creation from its void beginning through the flood; Atwood calls this a perception of the simple element of nature.
+  - Basis: III.2 ¶17: Atwood's framing 'led along into a perception of the simple element of nature'. The exact state meant by 'without the day and beyond the beginning of the night' is not explained.
+  - Also: “by a mysterious hand he was led along into a perception of the simple element of nature” `III.2 ¶17`
+- **principle** — “For in the sky of our Archaeus, aspectual Ideas are deciphered as well from the depth of the starry heaven of the soul itself, as those formed by the erring or implanted spirit of the seven bowels” `III.2 ¶17` (QUOTED: Van Helmont)
+  - **Plain (interpreted):** Such visions are images read in an inner 'sky' (of the Archaeus), arising either from the soul's own 'starry heaven' or from a bodily spirit.
+  - Basis: III.2 ¶17, given as the explanation ('For') of the vision; 'Archaeus' and 'seven bowels' are not explained in this chunk.
+- **operator** — “an abundance of thoughts, which my internal fervent prayer to God suggested, had set me loose and wholly free from terrene business” `III.2 ¶19` (QUOTED: Basil Valentine)
+  - **Plain (stated):** Precondition: inward fervent prayer frees the mind from worldly concerns so it can attend to the spiritual inspirations needed to scrutinize nature.
+  - Basis: III.2 ¶19, stated directly.
+  - Also: “I purposed in myself to attend to those spiritual inspirations of which we have need for the more accurate scrutiny of nature” `III.2 ¶19`
+- **stage** — “when I soared too near the sun, my feathers with its vehement heat were consumed, and I fell headlong into the depths of the sea” `III.2 ¶19` (QUOTED: Basil Valentine)
+  - **Plain (interpreted):** A self-made ascent fails by excess heat; the seeker falls into the deep, is saved on invoking God by one who stills the waters, and a mountain rises from the abyss to be climbed. This chunk does not decode the individual images; Atwood says only that the whole allegory displays the analysis.
+  - Basis: III.2 ¶20: 'In this allegory the whole metaphysico-chemical analysis of the Universal Subject is displayed'. No image-by-image key is given; see ambiguities.
+  - Also: “one hastened to my assistance who commanded the waters should be still; and instantly in that deep abyss appeared a most high mountain” `III.2 ¶19`
+- **agent** — “the superior stars [i.e., Ideae Divinae Mentis]” `III.2 ¶19` (ATWOOD)
+  - **Plain (stated):** The 'superior stars' are glossed in brackets as 'Ideae Divinae Mentis' (our translation: Ideas of the Divine Mind); things below are infused from them as light and begin as vapour.
+  - Basis: Bracketed gloss inserted into the quotation in III.2 ¶19 (editorial, hence Atwood's), alongside the parallel bracket '[viz., in the metaphysico-chemical analysis]'. The English rendering of the Latin gloss is ours, not the book's.
+  - Also: “infused from the superior stars as light, and to take their beginning from them in the form of an aqueous cloud, fume, or vapour” `III.2 ¶19`
+- **procedure** — “In this allegory the whole metaphysico-chemical analysis of the Universal Subject is displayed --- the separation, introspection and reunion of the vital elements in their ethereal accord” `III.2 ¶20` (ATWOOD)
+  - **Plain (stated):** Valentine's story allegorizes the whole analysis of the Universal Subject, which has three moments: separating the vital elements, looking into them, and reuniting them in their ethereal accord.
+  - Basis: III.2 ¶20 states it; III.2 ¶19 bracket glosses Valentine's searching as 'in the metaphysico-chemical analysis'.
+  - Also: “And having searched into things, I found, [viz., in the metaphysico-chemical analysis]” `III.2 ¶19`
+- **stage** — “this vapour is dried, that the wateriness may lose its dominion, and the fire next by help of the air retain the ruling power” `III.2 ¶19` (QUOTED: Basil Valentine)
+  - **Plain (interpreted):** Sequence: light from the superior stars enters as watery vapour, is long nourished, then dried until water loses dominion and fire with air rule; of water comes fire, of fire air and earth; at length a tangible form.
+  - Basis: III.2 ¶19 gives the sequence as natural generation; reading it as stages of the work rests on III.2 ¶20 calling the passage an allegory of the analysis.
+  - Also: “of water, fire; and of fire, air and earth are produced” `III.2 ¶19`
+- **subject** — “this water therefore containing all, which by the dryness of its fire and air is formed into earth, is the first matter of all things” `III.2 ¶19` (QUOTED: Basil Valentine)
+  - **Plain (stated):** The first matter is this all-containing water, which becomes earth through the drying of its own fire and air.
+  - Basis: III.2 ¶19, stated directly.
+- **subject** — “adepts have concluded this Identic Salt to be the true grain, since it cannot be annihilated, but survives the wreck of the whole dissolute Being throughout” `III.2 ¶20` (ATWOOD)
+  - **Plain (stated):** What survives the full dissolution of the being is an indestructible 'Identic Salt', the true seed of this world and the next, which immediately renews the dissolved parts.
+  - Basis: III.2 ¶20, stated directly.
+  - Also: “this mystical substance, this root of the world, returning immediately upon the dissolution of its parts, renews them” `III.2 ¶20`
+- **sign** — “Proteus-like runs from one complexion of light into another, and from this colour to that” `III.2 ¶20` (ATWOOD)
+  - **Plain (stated):** Once freed, the substance shows before the observing eye a succession of lights, colours and forms: green to red, red to black, then countless colours and species.
+  - Basis: III.2 ¶20: 'transmuting himself before the regardant eye into a strange variety of forms and appearances'. Whether seen inwardly or physically: see ambiguities.
+  - Also: “as he runs forth from green to red and from red to black, receding thenceforth into a million of colours and transmigrating species” `III.2 ¶20`
+- **stage** — “when he has departed from the fragile labyrinth through which he was dispersed, says the adept, and is moreover purified from every impurity, he raises himself likewise into an infinity of forms” `III.2 ¶22` (QUOTED: the adept (n22: Fama et Confessionis, R.C.))
+  - **Plain (interpreted):** Once released from the 'labyrinth' it was dispersed through and purified, the freed substance (or spirit) takes endless forms: vegetable, stone, animal, pearl, gem, shining metal, ever renewing itself.
+  - Basis: III.2 ¶22 continues the Proteus description of ¶20; n22 'Ubi vero spiritus excessit' (ours: 'when the spirit has departed'). 'Labyrinth' is not explained.
+  - Also: “one while into a vegetable, and then into a stone or into some strange animal” `III.2 ¶22`
+  - Also: “and thus he lives perpetually the worker of miracles, an indefatigable magian” `III.2 ¶22`
+- **result** — “until the Matter has worked out its own restitution and is brought by Art into the supernatural fixity of its Final Cause” `III.2 ¶22` (ATWOOD)
+  - **Plain (stated):** The changes go on until the Matter has restored itself and Art fixes it permanently in its final end.
+  - Basis: III.2 ¶22, stated directly (attributed as a hint of Democritus).
+- **procedure** — “The philosophers chain up their matter with a strong chain or band when they make it to contend with fire” `III.2 ¶22` (QUOTED: Hermes)
+  - **Plain (interpreted):** The changing matter must be bound by force while subjected to fire; entreaty does not work, only force and bonds. ¶24 then names what can arrest the flux: the voluntary force of the central magnet.
+  - Basis: III.2 ¶22 'that mode of binding is said to be best which makes use of manacles and fetters'; III.2 ¶23 Latin (ours) 'without force he will give no counsel ... apply hard force and bonds'; III.2 ¶24 follows directly on arresting the flux.
+  - Also: “that mode of binding is said to be best which makes use of manacles and fetters” `III.2 ¶22`
+- **agent** — “To arrest this imaginative flux of freed vitality, we may well conceive that it need the whole voluntary force of the central magnet; and that this alone, which is its proper reason, can compel it to repose” `III.2 ¶24` (ATWOOD)
+  - **Plain (stated):** The Protean flux is freed vitality acting imaginatively; only the whole willed force of the 'central magnet' can bring it to rest. The text adds that 'this alone' is 'its proper reason'; whether 'its' means the flux's or the magnet's, and whether this will is the operator's or the vitality's own centre, is not settled here (see ambiguities).
+  - Basis: III.2 ¶24, stated directly; the referent of 'its' is not fixed by the text.
+- **principle** — “the other nature or principiating substance is incorruptible, immutable, and always subsistent” `III.2 ¶24` (QUOTED: Reuchlin)
+  - **Plain (stated):** Two natures: one sensible and continually changing, apprehended more as it is not than as it is; the other an unchanging originating substance. Atwood says Reuchlin 'alludes to this', i.e. to arresting the flux.
+  - Basis: III.2 ¶24.
+  - Also: “One nature is such that it may be seen with the eyes, felt with the hands, and is subject to alteration almost at every moment” `III.2 ¶24`
+  - Also: “apprehended of the mind under such her qualification more rightly as she is not than as she is” `III.2 ¶24`
+
+## Terms
+
+- **One Thing** (also: one thing) — That which God made of the 'something' created from nothing, in which are all things; Atwood says it appears to be the Identity made in regeneration; for the creature, the first divine manifestation out of the abyss. (ATWOOD)
+  - = Identity: “this One Thing appears to be nothing less or more than that Identity which is made in the regeneration” `III.2 ¶16`
+  - “God of nothing created something which was made that one thing in which are all” `III.2 ¶16`
+- **Identity** — That which is made in regeneration by reprocedure into experience out of an artificially induced dissolute void of life. (ATWOOD)
+  - “that Identity which is made in the regeneration by the reprocedure into experience out of the dissolute void of life when artificially induced” `III.2 ¶16`
+- **regeneration** — The process in which the Identity is made, by reprocedure into experience out of an artificially induced dissolute void of life. (ATWOOD)
+  - “that Identity which is made in the regeneration” `III.2 ¶16`
+- **Microcosmic Heaven** — That according to whose magnetic virtue, action and passion the Spirit displays its universal properties internally; not further explained. (ATWOOD)
+  - “according to the magnetic virtue, action, and passion of the Microcosmic Heaven” `III.2 ¶16`
+- **Tincture** — A water-like yet oil-burning spirit or property in the Celestial Light; source of the material world and of growth, in metals and stones; virgin, non-generating yet making all fruitful; works not of itself; flies from what is against nature; can be overpowered and used to transmute metals; source of man's thoughts. (QUOTED: Boehme)
+  - = a Substance like water which yet is no water: “a Substance like water which yet is no water, but such a spirit or property: but it burns more like a kindred oil, and is called by many the Tincture” `III.2 ¶16`
+  - “this Tincture is the source of the material world, and gives to all essences virtue to grow” `III.2 ¶16`
+  - “it is the most hidden thing, and also the most manifest” `III.2 ¶16`
+- **Celestial Light** — That in which the Tincture is. (QUOTED: Boehme)
+  - “And there is in the Celestial Light, continues the same author, a Substance like water which yet is no water” `III.2 ¶16`
+- **Light of God** (also: the Light) — Required to understand the Tincture, which is not in nature's own ability; to those in it the matter is easy and plain. (QUOTED: Boehme)
+  - “the understanding and capacity is not in nature’s own ability without the Light of God” `III.2 ¶16`
+  - “it is very easy to be understood by those who are in the Light” `III.2 ¶16`
+- **Divine Imagination** — That through which all things arose from the Tincture. (QUOTED: Boehme)
+  - “All things are thence arisen through the Divine Imagination” `III.2 ¶16`
+- **ether** — Where the Tincture stays when it goes out of a thing. (QUOTED: Boehme)
+  - “it comes not into it again naturally, but it stays in its ether” `III.2 ¶16`
+- **new man** — The regenerate inner seer that looks into the astral birth; contrasted with the external man. (QUOTED: Boehme)
+  - “for the new man speculates into the midst of the astral birth or geniture” `III.2 ¶16`
+- **external man** — The outward self, which could hardly apprehend or express what was seen inwardly. (QUOTED: Boehme)
+  - “I could very hardly apprehend the same in my external man” `III.2 ¶16`
+- **astral birth** — What the new man looks into; not further explained. (QUOTED: Boehme)
+  - = geniture: “the astral birth or geniture” `III.2 ¶16`
+- **Bysse** — The ground or original foundation. (QUOTED: Boehme)
+  - = ground or original foundation: “the Bysse, or ground or original foundation” `III.2 ¶16`
+- **Abysse** (also: abyss) — That which is without ground, fathomless, void; Atwood speaks of the One Thing as the first divine manifestation 'out of the abyss'. (QUOTED: Boehme)
+  - = without ground, fathomless, void: “the Abysse, that is without ground, or fathomless or void” `III.2 ¶16`
+  - “the first divine manifestation out of the abyss” `III.2 ¶16`
+- **Three Worlds** — Worlds Boehme saw in himself; the text names the divine angelical or paradisiacal, and the dark world (a third is not clearly named as printed; see ambiguities). (QUOTED: Boehme)
+  - “I knew and saw in myself all the Three Worlds, viz., first, the divine angelical, or paradisiacal; and then the dark world” `III.2 ¶16`
+- **dark world** — One of the Three Worlds: a procreation or extern birth, a substance expressed or spoken forth from the internal and spiritual worlds. (QUOTED: Boehme)
+  - = extern birth: “the dark world, being a procreation or extern birth or, as it were, a substance expressed or spoken forth from the internal and spiritual worlds” `III.2 ¶16`
+- **Principles of Eternity** — The three leaves of the inner book opened in Boehme, the image of God, in which he finds all scripture teaches. (QUOTED: Boehme)
+  - = three leaves of the inner book: “my book hath only three leaves, the same are the Principles of Eternity” `III.2 ¶16`
+- **Archaeus** — Has a 'sky' in which aspectual Ideas are deciphered, from the soul's starry heaven and from the spirit of the seven bowels; not otherwise explained. (QUOTED: Van Helmont)
+  - “For in the sky of our Archaeus, aspectual Ideas are deciphered” `III.2 ¶17`
+- **simple element of nature** — What Van Helmont was led to perceive in his dream-like vision. (ATWOOD)
+  - “led along into a perception of the simple element of nature” `III.2 ¶17`
+- **superior stars** — Glossed in brackets as 'Ideae Divinae Mentis' (our translation: Ideas of the Divine Mind); things generated below are infused from them as light. (ATWOOD)
+  - = Ideae Divinae Mentis: “the superior stars [i.e., Ideae Divinae Mentis]” `III.2 ¶19`
+- **first matter** — The all-containing water which, by the dryness of its fire and air, is formed into earth. (QUOTED: Basil Valentine)
+  - = this water containing all: “this water therefore containing all, which by the dryness of its fire and air is formed into earth, is the first matter of all things” `III.2 ¶19`
+- **Philosophic Matter** — What Basil Valentine goes on to describe after the quoted passage; not described in this chunk. (ATWOOD)
+  - “before proceeding to a description of the Philosophic Matter” `III.2 ¶19`
+- **metaphysico-chemical analysis** — The analysis of the Universal Subject: separation, introspection and reunion of the vital elements in their ethereal accord; displayed in Valentine's allegory. (ATWOOD)
+  - “the whole metaphysico-chemical analysis of the Universal Subject is displayed --- the separation, introspection and reunion of the vital elements in their ethereal accord” `III.2 ¶20`
+  - “[viz., in the metaphysico-chemical analysis]” `III.2 ¶19`
+- **Universal Subject** — That on which the metaphysico-chemical analysis is performed. (ATWOOD)
+  - “the whole metaphysico-chemical analysis of the Universal Subject” `III.2 ¶20`
+- **Identic Salt** — The indestructible substance surviving dissolution of the whole being; seed of this world and the next; renews the dissolved parts; Protean and colour-changing when freed. (ATWOOD)
+  - = true grain: “adepts have concluded this Identic Salt to be the true grain” `III.2 ¶20`
+  - = root of the world: “this mystical substance, this root of the world” `III.2 ¶20`
+  - “the seed not only of this world but o the next” `III.2 ¶20`
+- **Final Cause** — The end into whose supernatural fixity Art brings the Matter, ending its alterations. (ATWOOD)
+  - “is brought by Art into the supernatural fixity of its Final Cause” `III.2 ¶22`
+- **Art** — That by which the Matter is brought into the fixity of its Final Cause. (ATWOOD)
+  - “the Matter has worked out its own restitution and is brought by Art” `III.2 ¶22`
+- **central magnet** — That whose whole voluntary force alone can arrest the imaginative flux of freed vitality and compel it to repose; 'this alone' is called 'its proper reason' (referent of 'its' unclear). (ATWOOD)
+  - = its proper reason: “this alone, which is its proper reason, can compel it to repose” `III.2 ¶24`
+  - “it need the whole voluntary force of the central magnet” `III.2 ¶24`
+- **imaginative flux of freed vitality** — What must be arrested; 'this' refers back to the Protean succession of forms and colours described in ¶20-22. (ATWOOD)
+  - “To arrest this imaginative flux of freed vitality” `III.2 ¶24`
+- **principiating substance** — The second of the two catholic natures in the mirific Word: incorruptible, immutable, always subsistent, opposed to the visible, changing nature. (QUOTED: Reuchlin)
+  - “the other nature or principiating substance is incorruptible, immutable, and always subsistent” `III.2 ¶24`
+- **mirific Word** — That which contains the two catholic natures, changeable and immutable. (ATWOOD)
+  - “the two catholic natures contained in the mirific Word” `III.2 ¶24`
+
+## Sources cited
+
+- **Boehme**, *Boehme’s Works, Vol. 1* — “is called by many the Tincture” `III.2 ¶16, III.2 n16, III.2 ¶17` — Supports: description of the Tincture in the Celestial Light, following Atwood's identification of the One Thing with the regenerate Identity; endorsed as agreeing with the ancient Kabalah.
+- **Boehme**, *Turned Eye, in Vol. 2* — “the gate was opened to me” `III.2 ¶16, III.2 n17, III.2 ¶17` — Supports: first-person account of the method and content of his illumination; called 'modern testimony'.
+- **Moses and the Prophets, Christ and his Apostles** `III.2 ¶16` — Named by Boehme as teaching what he finds in his inner book.
+- **Kabalah** `III.2 ¶17` — Supports: Boehme's testimony said to agree 'in all particulars with the most ancient Kabalah and profound experimental divinity'.
+- **Van Helmont**, *Oreatrike, Chap. 60 and 96* — “I saw, as in a dream, the whole face of the earth” `III.2 ¶17, III.2 n18` — Supports: another favoured individual led to perceive the simple element of nature.
+- **Pordage**, *Mundorum Explicatoio, p. 320* — “Here ‘tis that God himself t’ himself displays” `III.2 ¶18, III.2 n19` — Illustrates: verse on the sphere where God displays himself to himself.
+- **Basil Valentine**, *Stone of Fire, in int.* — “is the first matter of all things” `III.2 ¶19, III.2 n20, III.2 ¶20` — Supports: allegory of flight, fall and mountain, read by Atwood as displaying the whole metaphysico-chemical analysis; account of the first matter.
+- **Icarus and is father Daedelus** `III.2 ¶19` — Illustration within Basil Valentine's allegory.
+- **Georgic**, *Georgic, Lib. 4:405* — “Verum,ubi correptum minibus, vinclisque tenebis” `III.2 ¶21, III.2 n21` — Illustrates: the captive held in bonds changes into varied shapes.
+- **the adept**, *Fama et Confessionis, R.C., Preface* — “he raises himself likewise into an infinity of forms” `III.2 ¶22, III.2 n22` — Supports: the freed, purified substance's endless transformations; footnote adds 'Ubi vero spiritus excessit, etc'.
+- **Democritus** `III.2 ¶22` — Supports: hints that the alterations cease only when the Matter is brought by Art into the fixity of its Final Cause.
+- **Hermes**, *Tract. Aur., cap. 3* — “The philosophers chain up their matter with a strong chain or band when they make it to contend with fire” `III.2 ¶22, III.2 n23` — Supports: binding the matter by force.
+- **Georgic**, *Georgic, lib. 4:397* — “vim duram et vincula capto Tende” `III.2 ¶23, III.2 n24` — Illustrates: only force and bonds compel the captive.
+- **Reuchlin**, *de Verbo Mirificao* — “the other nature or principiating substance is incorruptible, immutable, and always subsistent” `III.2 ¶24, III.2 n25` — Supports: two natures in the mirific Word, changeable and immutable; said to allude to arresting the flux.
+- **Apuleius** — “you must pardon, as Apuleius says, the strange expression” `III.2 ¶24` — Cited within Reuchlin's passage to excuse an obscure expression.
+- **Vaughan**, *Coelum Terrae* `III.2 n25` — Reference only (footnote gives it as a further location for the Reuchlin passage).
+
+## Ambiguities
+
+- “I knew and saw in myself all the Three Worlds, viz., first, the divine angelical, or paradisiacal; and then the dark world” `III.2 ¶16`
+  - Reading: Only two worlds are enumerated; the third has dropped out of the text as printed.
+  - Reading: The 'dark world' description ('extern birth ... spoken forth from the internal and spiritual worlds') runs a second and third world together.
+  - Basis: III.2 ¶16 announces 'all the Three Worlds, viz., first ... and then ...' but names only two.
+- “it was impossible then for me from time to time, as a young plant, and came forth into the external principle of my mind” `III.2 ¶16`
+  - Reading: Words are missing: the vision could not be grasped at once but grew 'as a young plant' into his outward mind over time.
+  - Reading: The passage is corrupt and its sense cannot be fixed.
+  - Basis: III.2 ¶16: the syntax breaks and is followed by an ellipsis; context speaks of difficulty apprehending 'in my external man'.
+- “as those formed by the erring or implanted spirit of the seven bowels” `III.2 ¶17`
+  - Reading: A second, bodily source of inner images, distinct from the soul's starry heaven.
+  - Reading: A source of misleading ('erring') images.
+  - Basis: III.2 ¶17: 'as well from ... as those formed by' sets two sources; 'erring or implanted' is not explained.
+- “when I soared too near the sun, my feathers with its vehement heat were consumed, and I fell headlong into the depths of the sea” `III.2 ¶19`
+  - Reading: A coded stage of the work (excess heat leading to dissolution into the 'sea'), part of the 'separation' in the analysis.
+  - Reading: Narrative of the seeker's failed attempt before divine help, not itself a coded operation.
+  - Basis: III.2 ¶20 says the whole allegory displays the analysis (separation, introspection, reunion) but maps no individual image.
+- “Proteus-like runs from one complexion of light into another” `III.2 ¶20`
+  - Reading: The colours and forms are perceived phenomena (visions) of the freed vitality.
+  - Reading: Physical colour changes of a material substance.
+  - Basis: III.2 ¶20 'before the regardant eye' and III.2 ¶24 'imaginative flux of freed vitality' favour the first; III.2 ¶22 lists pearl, gem, metal; the chunk does not decide.
+- “And when he has departed from the fragile labyrinth through which he was dispersed” `III.2 ¶22`
+  - Reading: 'he' is the Identic Salt / mystical substance of ¶20, personified as 'he'.
+  - Reading: 'he' is the spirit, per n22 'Ubi vero spiritus excessit'.
+  - Basis: III.2 ¶20 personifies the substance as 'he'; III.2 n22 names 'spiritus'. The two may be one, but the chunk does not say so.
+- “the whole voluntary force of the central magnet; and that this alone, which is its proper reason, can compel it to repose” `III.2 ¶24`
+  - Reading: The operator's will/reason, which binds the freed vitality (the philosophers' chain of ¶22).
+  - Reading: A central principle within the vitality itself (its own reason) that draws it to rest.
+  - Basis: 'voluntary force' suggests will and III.2 ¶22-23 frame binding as done by the philosophers; 'its proper reason' makes it the flux's own reason.
+
+## Translations
+
+- `III.2 ¶19` “Ideae Divinae Mentis” → Ideas of the Divine Mind *(ours)*
+- `III.2 ¶21` “Verum,ubi correptum minibus, vinclisque tenebis; Tum variae illudnet species, atque ora ferearum; Fiet enim subito sus horridus, atraque tigris...” → But when you hold him seized in your hands and in bonds, then varied shapes and the faces of wild beasts will mock you; for suddenly he will become a bristling boar and a black tigress... *(ours)*
+- `III.2 n22` “Ubi vero spiritus excessit, etc” → But when the spirit has departed, etc. *(ours)*
+- `III.2 ¶23` “Nam sine vi non dabit praecepta, neque illum Orando flectes: vim duram et vincula capto Tende. Doli circum haec demum frangetur inanes” → For without force he will give no counsel, nor will you bend him by entreaty; apply hard force and bonds to the captive. Against these at last his wiles will break in vain. *(ours)*
+
+## Threads
+
+- `III.2 ¶16` 'Now here we do not read either ...' and 'continues the same author' refer back to a passage of the same author (Boehme, per n16) quoted before this chunk.
+- `III.2 ¶16` 'continues our author in another place' introduces a second Boehme work (n17: Turned Eye, in Vol. 2).
+- `III.2 ¶19` Basil Valentine's discourse goes on to 'a description of the Philosophic Matter', not given here.

@@ -1,0 +1,374 @@
+# III.1_02
+
+*Atwood argues that the Hermetic work starts as patient, experiential, rational inquiry, but is done by a higher spiritual Intellect (Reason, Mind, the 'internal fire', called Gold, Sol, Sulfur, Tincture). Natural reason only unlocks this Intellect. Once freed from the body, it becomes the true Separator: it purifies the Ethereal Spirit, and Atwood identifies its Separation with the death-and-resurrection ordeal of the Mysteries. She supports this with the adepts, Eirenaeus, the Aenid, Orpheus, Synesius, Paracelsus, Hermes and Anaxagoras.*
+
+## Argument
+
+- Physicians freed this Light to cure the body. The Theurgic Art purified the Mind, nearest to Christ's regeneration: baptismal purification, then subjugation of the passions and subordinate powers to reason, until the whole hypostasis became 'substant light within'. `III.1 ¶11` — ATWOOD
+- To discover 'this Reason', the ancients questioned Nature rationally, not destructively like modern chemistry. Admitted from within as lawful guests, they addressed nature in her own light rather than noting phenomena. `III.1 ¶12` — ATWOOD
+- Theurgists consulted the divine intellect only on purification, liberation and the salvation of life. `III.1 ¶12, III.1 n9` — QUOTED: Iamblicus, endorsed
+- Beginners wander among chimeras. Right investigation traces vital causes to Deity and then works supernatural perfection, aiming only at the Central Light until the hidden Divinity is made manifest. All adepts agree the way is patience and rational inquiry. `III.1 ¶13, III.1 n10` — ATWOOD
+- Infer from experience. Help nature exceed her common course, because the Mercury of the Wise needs ingenuity and industry (Alchemists). Preparation, contemplation, handiwork and grace bring forth more than nature promises (Crollius). The Tree of Life is laborious (Van Helmont). Find nature's concealed first foundation by hand and eye, or build on sand (Basil Valentine). `III.1 ¶13, III.1 n11, III.1 n12, III.1 n13, III.1 n14` — QUOTED: the Alchemists, Crollius, Van Helmont, Basil Valentine, endorsed
+- Basil Valentine: the second part is celestial contemplation by spiritual reason: how nature is perfected by resolving itself, so that pure is separated from impure. `III.1 ¶13, III.1 n15` — QUOTED: Basil Valentine, endorsed
+- Natural reason is only an 'iron key' at the threshold. It helps the spiritual intellect into self-knowledge, and that intellect then proves all 'chemically'. This perscrutinator, Eirenaeus' 'internal fire of the sulfur of thy water', operates the whole change. Only its holders pass the narrow gate. It is the flower of intellect, triply imprisoned in the body, and only a lover of Wisdom frees it. `III.1 ¶13` — ATWOOD
+- Our fire, the sulfur of Gold, is imprisoned in the body (glossed: ethereal body). It is loosed by our water and appears in the Third Menstrual. Join the first water to the body in just pondus and seal it till the infant forms. Cherish internal heat with external, and wait for the sign: the body's pores opened and tincture of Sol extracted. Tend the internal Fire above the Athanor's. `III.1 ¶14, III.1 n16` — QUOTED: Eirenaeus, endorsed (parenthetical glosses UNCLEAR)
+- The Golden Bough, sought by looking upward, yields only if fate calls. The Cave of Mercury is hermetically 'the most hidden vapor of life'; the prudent enter it and carry off the mineral radix. Without right mind, predestined conditions and order of operation, the power stays hidden. `III.1 ¶15, III.1 ¶16, III.1 ¶17, III.1 ¶18, III.1 ¶19, III.1 n17` — ATWOOD (with QUOTED: the Sybil's verse, Orpheus)
+- Fire loves fire, to assimilate gold, not make it: throw the gold body, not a brazen ferment, into bottomless Mercury. `III.1 ¶19, III.1 n18` — QUOTED: the adepts ('say they')
+- The art of Oedipus subdues the Sphinx: the Ethereal Spirit abandons phantasy and yields understanding. Synesius: Intellect purifies phantastic Spirit; natural Intellect cannot. The adepts asserted a freed will refining its vehicle into universal intelligence. This age lacks experience of this, but Atwood will discuss it. `III.1 ¶20, III.1 n19` — ATWOOD
+- Paracelsus' Separation, the Art's primary object, appears identical with the Mysteries' ordeals: suffering, dread, dissolution, corruption, resurrection of the pure Ether into Light. Free will is friend or foe. The sequestatrix is Intellect's part. `III.1 ¶21, III.1 n20, III.1 n21` — ATWOOD (with QUOTED: Paracelsus)
+- Hermes: separate earth from fire, subtle from gross, gently. Man can find and effect the Causal Nature. The whole matter is One only Thing. `III.1 ¶21, III.1 n22, III.1 n23, III.1 n24` — QUOTED: Hermes, endorsed
+- Decomposition is not mechanical: Mind is Separator and regimen, admitting nothing foreign. Nothing is discovered without decomposing the matter, or perfected without the whole introversion. `III.1 ¶21` — ATWOOD
+- Folly, phantasy, passion and Reason are modes of the One Thing. Prevailing phantasy turns all to folly; prevailing Reason gathers all, as a ferment, into her Light (the adepts' Head Stone). `III.1 ¶21, III.1 n25` — ATWOOD
+- Everyday reason, which governs passions and sifts fact from falsehood, and the universal evidence 'which subsists by faith', an independent standard by which all is proven, image the Reason the ancients call Wisdom, Intellect, Gold, Sol, Sulfur, Tincture. That Reason is Light: an Intellectual sun that separates false forms, triturates foreign tincture and infuses the passified Spirit. `III.1 ¶21, III.1 n26` — ATWOOD
+- Anaxagoras: Intellect is infinite, unmingled, purest and rules soul. Beginning small, it separated dense from rare, hot from cold, lucid from dark. `III.1 ¶21, III.1 ¶22, III.1 n27` — QUOTED: Anaxagoras, endorsed
+
+## Method
+
+- **result** — “the whole hypostasis was converted finally through faith into the identity of substant light within” `III.1 ¶11` (ATWOOD)
+  - **Plain (stated):** The end of the Theurgic Art is that the whole hypostasis (not defined here) is converted, through faith, into an inner substant light. Atwood calls this nearer than any other to the regeneration preached by Christ.
+  - Basis: III.1 ¶11.
+  - Also: “a power of purifying and informing the Mind much more beneficial and lasting than this pertaining to the mortal body” `III.1 ¶11`
+- **procedure** — “by an effectual baptismal purification, they also prepared the way, and by a gradual subjugation of the passions and adaptation of the subordinate powers to reason” `III.1 ¶11` (ATWOOD)
+  - **Plain (stated):** The preparatory sequence is purification first, then gradual mastery of the passions and alignment of the lower faculties with reason.
+  - Basis: III.1 ¶11.
+- **procedure** — “the doors being opened from within, they enjoyed and took advantage of their entrance as lawful guests” `III.1 ¶12` (ATWOOD)
+  - **Plain (interpreted):** Nature is questioned by reason, not taken apart by force. Entry to her 'inner chamber' is granted from within, and there the inquirer addresses nature in her own light rather than collecting external facts.
+  - Basis: III.1 ¶12 contrasts this with modern chemistry that would 'demolish her edifices', and says they were 'not much engaged in noting phenomena'.
+  - Also: “put the question to Nature rationally” `III.1 ¶12`
+  - Also: “sphered in the magian circle of her own light” `III.1 ¶12`
+- **principle** — “they consulted it about things which pertain to purification, liberation, as Iamblicus tells us, and the salvation of life” `III.1 ¶12` (QUOTED: Iamblicus, endorsed)
+  - **Plain (stated):** The divine intellect is consulted only about purification, liberation and salvation of life, and what is beneficial and leads to truth, never about trifles.
+  - Basis: III.1 ¶12.
+- **impediment** — “he wanders awhile in the region of chimeras” `III.1 ¶13` (ATWOOD)
+  - **Plain (stated):** Every beginner makes many mistaken inquiries before gaining experimental knowledge. Investigation succeeds only when begun in a right, rectifying spirit.
+  - Basis: III.1 ¶13: 'the inquiries which he makes before attaining to experimental knowledge are many, and often erroneous'.
+  - Also: “investigation, once begum in a right rectifying spirit, enters” `III.1 ¶13`
+- **procedure** — “having set the chain of vital causes in action, succeeded in tracing them to their last efficient link in Deity” `III.1 ¶13` (ATWOOD)
+  - **Plain (stated):** The adepts traced living causes back to their divine source. From there, under the divine will, they effected supernatural results. Their only aim was the Central Light, until the hidden Divinity became manifest in experience.
+  - Basis: III.1 ¶13.
+  - Also: “until the hidden Divinity was moved into experience and made manifest in effect and power” `III.1 ¶13`
+- **principle** — “you must help her, that she may exceed her common course, or all is to no purpose” `III.1 ¶13` (QUOTED: the Alchemists (n11), endorsed)
+  - **Plain (stated):** Nature alone will not produce the result. The operator must help her beyond her ordinary course without demanding what exceeds her strength. Patient examination and inference from experience are required, and the 'Mercury of the Wise' comes only by ingenuity and industry.
+  - Basis: III.1 ¶13.
+  - Also: “for the Mercury of the Wise comes not but by help of ingenuity and industry” `III.1 ¶13`
+  - Also: “Seek not for that in nature which is an effect beyond her strength” `III.1 ¶13`
+  - Also: “Lay the line to thy thoughts and examine all patiently, and infer from experience” `III.1 ¶13`
+- **operator** — “by a holy assiduity of preparations, joining thereto diligent contemplation of natural causes” `III.1 ¶13` (QUOTED: Crollius, Van Helmont, endorsed)
+  - **Plain (stated):** The operator needs devout, persistent preparation, contemplation of causes, hands-on experience and divine grace. The work is laborious and intellectual.
+  - Basis: III.1 ¶13.
+  - Also: “shall refuse no pains or difficulties to get experience by the industry of his handy work” `III.1 ¶13`
+  - Also: “if the grace of the most high be infused into him” `III.1 ¶13`
+  - Also: “the attainment of the Tree of Life is laborious, and the fruit of intellectual research” `III.1 ¶13`
+- **procedure** — “Learn and look for the first foundation, says the monk, which nature holds concealed; search for it even with thine own eyes and hand” `III.1 ¶13` (QUOTED: Basil Valentine, endorsed)
+  - **Plain (stated):** The hidden 'first foundation' must be found by first-hand experience. Words and discourse without experience are worthless. Atwood sums it up: the way to Wisdom is patience and rational inquiry. This chunk does not say what the foundation is.
+  - Basis: III.1 ¶13.
+  - Also: “Let not any one imagine either that we can be satisfied with mere words, who rather exact documents proved by experience” `III.1 ¶13`
+  - Also: “the way to Wisdom is by patience and rational inquiry” `III.1 ¶13`
+- **procedure** — “the contemplation which absolves the Second part of our admonition is celestial” `III.1 ¶13` (QUOTED: Basil Valentine, endorsed)
+  - **Plain (stated):** The second part is spiritual contemplation. It asks how nature is perfected by resolving itself and how destruction and compaction are handled, so that the pure is separated from the impure.
+  - Basis: III.1 ¶13.
+  - Also: “considering how nature may be helped and perfected by resolution of itself, and how the destruction and compaction are to be handled” `III.1 ¶13`
+  - Also: “the pure may be separated from the impure” `III.1 ¶13`
+- **agent** — “as it were an iron key, intended to unlock the golden treasury of light within” `III.1 ¶13` (ATWOOD)
+  - **Plain (stated):** Natural reason is necessary but is only an aid at the threshold. It unlocks the inner light, frees itself further, and helps introduce the spiritual intellect into self-knowledge. In the work itself it is dull and inoperative.
+  - Basis: III.1 ¶13: natural reason 'stands in the Philosophic Work, albeit necessary, as a mere circumstantial aid'.
+  - Also: “natural reason, even the most acute, is dull here comparatively, and inoperative” `III.1 ¶13`
+- **agent** — “It is this vital perscrutinator, the internal fire of the sulfur of thy water, as Eirenaeus calls it, that, investigating scientifically, operates the whole change” `III.1 ¶13` (ATWOOD)
+  - **Plain (interpreted):** The spiritual intellect, once in self-knowledge, turns back on the outer life, analyzes it and transforms it. 'This vital perscrutinator', which operates the whole change, appears to be that intellect; Atwood equates it with Eirenaeus' 'internal fire of the sulfur of thy water'.
+  - Basis: III.1 ¶13: 'this vital perscrutinator' follows directly on the description of the spiritual intellect; the identity rests on the demonstrative 'this', not an explicit statement.
+  - Also: “this latter, returning with power upon the life without, proceeds to analyze and revolutionize” `III.1 ¶13`
+  - Also: “proving all, as may be said, chemically by the fiery essence of its newly conceived Law” `III.1 ¶13`
+- **operator** — “they only who have obtained this passport can attain to the Magistery of life” `III.1 ¶13` (ATWOOD)
+  - **Plain (interpreted):** Only those in whom the spiritual intellect is awakened can complete the work. This guards it against intruders, like the narrow gate of the Mysteries, and the operator must be a lover of Wisdom.
+  - Basis: III.1 ¶13: 'this passport' directly follows the vital perscrutinator, but the text does not explicitly say what the passport is. The same paragraph says 'he must be a lover of Wisdom who can set her free'.
+  - Also: “they only, literally speaking, can enter in through the narrow gate” `III.1 ¶13`
+  - Also: “he must be a lover of Wisdom who can set her free” `III.1 ¶13`
+- **subject** — “the flower of human intellect, triply imprisoned in the dark body’s hold” `III.1 ¶13` (ATWOOD)
+  - **Plain (stated):** What the work frees is the highest intellect, which is locked within the body. Freeing it is the philosopher's task. The discovery is remote and hard, even for diligent seekers. 'Triply' is not explained.
+  - Basis: III.1 ¶13.
+  - Also: “This it is the business of the philosopher to open and set free” `III.1 ¶13`
+  - Also: “the discovery is difficult, and reputed tedious by many who have spared no labor either of body or mind in the research” `III.1 ¶13`
+- **agent** — “Our fire is the true sulfur of Gold, says Eirenaeus, which in the hard and dry body is imprisoned but by the mediation of our water it is set loose” `III.1 ¶14` (QUOTED: Eirenaeus, endorsed)
+  - **Plain (stated):** Eirenaeus' fire (also the 'seed of gold') is imprisoned in a hard, dry body. 'Our water' frees it by rotting the body's 'moles'. A parenthetical gloss in the passage makes this the 'ethereal body' (see ambiguities). In ¶13 Atwood already named Eirenaeus' 'internal fire of the sulfur of thy water' as the vital perscrutinator. This chunk does not explain 'our water'.
+  - Basis: III.1 ¶14 gloss '(i.e., of the ethereal body)'; III.1 ¶13 on the vital perscrutinator.
+  - Also: “by rotting the moles of the body (i.e., of the ethereal body) under which it is detained” `III.1 ¶14`
+  - Also: “this is the seed of gold, involved in many links, and held prisoner, as it were, in a deep dungeon” `III.1 ¶14`
+- **stage** — “after separation of the elements (of the same body) it appears visibly in our Third Menstrual” `III.1 ¶14` (QUOTED: Eirenaeus, endorsed)
+  - **Plain (stated):** The freed fire becomes visible at a third stage, after the body's elements have separated. One who does not know the two first 'menstruals' cannot reach it. This chunk does not explain the menstruals.
+  - Basis: III.1 ¶14.
+  - Also: “he that knows not our two first menstruals is altogether shut out from attaining to the sight of this Third and last” `III.1 ¶14`
+- **procedure** — “to prepare the first water, and to join it to the body in a just pondus, to shut it up in its vessel philosophically, until the infant be formed” `III.1 ¶14` (QUOTED: Eirenaeus, endorsed)
+  - **Plain (stated):** The sequence: prepare the first water, join it to the body in the right proportion, seal it until the 'infant' forms, govern the fire, and wait patiently for signs. Finding the means requires profound meditation. This chunk does not decode the water, body, vessel or infant.
+  - Basis: III.1 ¶14 (sequence only).
+  - Also: “But the means to discover this is not a light work, it requires a profound meditation” `III.1 ¶14`
+  - Also: “can wait with patience till he sees signs” `III.1 ¶14`
+- **principle** — “be not so careful of the fire of the Athanor as of your internal Fire” `III.1 ¶14` (QUOTED: Eirenaeus, endorsed)
+  - **Plain (stated):** The decisive heat is internal, and external heat only cherishes it. Where to seek it is given in images (house of Aries, depths of Saturn, Mercury as 'the internal') that this chunk does not explain.
+  - Basis: III.1 ¶14.
+  - Also: “to govern his fire dexterously, so as to cherish internal heat with external” `III.1 ¶14`
+  - Also: “Seek it in the house of Aries, and draw it from the depths of Saturn; let Mercury be the internal” `III.1 ¶14`
+- **sign** — “the first water will work on the body till it hath opened the pores and extracted partly the tincture of Sol” `III.1 ¶14` (QUOTED: Eirenaeus, endorsed)
+  - **Plain (stated):** The sign to wait for is the first water opening the body and drawing out part of its 'tincture of Sol'. The 'Doves of Diana' are named as the signal but are not explained here.
+  - Basis: III.1 ¶14.
+  - Also: “your signal the Doves of Diana” `III.1 ¶14`
+- **procedure** — “well directing him how to look from beneath upwards, and take it in hand” `III.1 ¶15` (ATWOOD)
+  - **Plain (interpreted):** The hidden prize, imaged as the Golden Bough, is found by looking upward and then taken in hand. It comes willingly to one called by fate and cannot be won by force.
+  - Basis: III.1 ¶15 ties it to 'such errand', i.e. the discovery of ¶13–14. The 'willingly / not by force' part rests on our translation of ¶16.
+- **subject** — “the Cave of Mercury, which, according to the Hermetic interpretation, is Taenerus, the most hidden vapor of life” `III.1 ¶19` (ATWOOD (reporting the Hermetic interpretation))
+  - **Plain (stated):** The 'Cave of Mercury' means the most hidden vapor of life. What is carried out of it in both hands is the root and true matter of the Art.
+  - Basis: III.1 ¶19.
+  - Also: “the mineral radix and true mater of the Hermetic Art” `III.1 ¶19`
+- **operator** — “But if he have not a right mind, and unless the predestined conditions and the order of operation be observed, all will be in vain” `III.1 ¶19` (ATWOOD)
+  - **Plain (stated):** Success requires a right and congenial mind, a prudent motive allied to the goal, the predestined conditions and the correct order of operation. Otherwise the power stays hidden whatever the effort.
+  - Basis: III.1 ¶19.
+  - Also: “let him enter with a prudent motive, well understanding and allied to what he seeks” `III.1 ¶19`
+  - Also: “the power will remain hidden, despite of every effort, in a pusillanimous uncongenial soul” `III.1 ¶19`
+- **procedure** — “Take, therefore, that body which is gold (not a brazen ferment), and throw it into Mercury” `III.1 ¶19` (QUOTED: the adepts ('say they'; n18))
+  - **Plain (stated):** Like assimilates like ('Fire loves fire'). The genuine gold body is cast into a 'bottomless' Mercury, so that gold is assimilated, not manufactured. Neither term is decoded here.
+  - Basis: III.1 ¶19.
+  - Also: “Fire loves fire, say they, not to make gold, but to assimilate it” `III.1 ¶19`
+  - Also: “such a Mercury as is bottomless, or whose center it can never find, but by discovering its own” `III.1 ¶19`
+- **procedure** — “This is the art of Oedipus which, well conducted with the Sphinx, ends in her subjugation; in other words, the Ethereal Spirit abandons her phantasy, and yields the clear light of understanding” `III.1 ¶20` (ATWOOD)
+  - **Plain (stated):** The Sphinx is the Ethereal Spirit. Subduing her means that spirit gives up its fantasy and yields clear understanding to an investigator who is properly trained and knows how to examine her essence.
+  - Basis: III.1 ¶20: 'in other words'.
+  - Also: “having been duly educated and singled out, knows how and wherewith to investigate her peculiar essence” `III.1 ¶20`
+- **agent** — “Intellect above all things separates whatever is contrary to the true purity of phantastic Spirit; for it attenuates this spirit in an occult and ineffable manner, and extends it to Divinity” `III.1 ¶20` (QUOTED: Synesius, endorsed)
+  - **Plain (stated):** The higher Intellect purifies and refines the imaginative spirit and raises it to the divine. Natural intellect cannot, because it does not comprehend the Spirit and is not penetrating enough.
+  - Basis: III.1 ¶20.
+  - Also: “But the natural Intellect cannot do this” `III.1 ¶20`
+- **principle** — “the efficient force of an individual freed will upon the vehicle of its motive cause, separating, refining, and transmuting it from an impure, dull consistency to the clear light of universal intelligence” `III.1 ¶20` (ATWOOD (reporting the adepts' assertion))
+  - **Plain (stated):** The adepts held that a freed individual will acts on its own vehicle and transmutes it from dull impurity into clear universal intelligence. Atwood calls this 'the magic action of mind in her own spheres'. What the 'vehicle' is remains open (see ambiguities).
+  - Basis: III.1 ¶20.
+  - Also: “the magic action of mind in her own spheres” `III.1 ¶20`
+- **stage** — “Separation is the greatest miracle in philosophy, and that magic the most singular by which it is effected” `III.1 ¶21` (QUOTED: Paracelsus; ATWOOD for the identification)
+  - **Plain (stated):** Separation is the primary object of the Art. Atwood identifies it with the Mysteries' ordeal of the decomposition and death of the natural life. That ordeal runs through suffering, dread, dissolution and corruption to the resurrection of the pure Ether into Light.
+  - Basis: III.1 ¶21.
+  - Also: “appears to be identical with that which is described as taking place in the Mysteries, when the great ordeals are passed through during the decomposition and death of the natural life” `III.1 ¶21`
+  - Also: “from the beginning in suffering, succedent dread, dissolution, and corruption, to the final resurrection of the pure Ether into Light” `III.1 ¶21`
+  - Also: “This Separation is indeed the primary object of the Art” `III.1 ¶21`
+- **operator** — “The free will flourisheth and is conversant in virtue, and is either friend or foe in our works” `III.1 ¶21` (QUOTED: Paracelsus; Hermes (Asclepius))
+  - **Plain (stated):** Separation is not done by God alone; the creature has a free power in it, so it can be studied and done. The operator's free will can help or hinder the work, and man can both find and effect the Causal Nature.
+  - Basis: III.1 ¶21: 'if it were divinely done by God alone, it would be to no purpose to study after it'.
+  - Also: “there is a free power in the creature to its mutual affection and destruction” `III.1 ¶21`
+  - Also: “man should be able not only to find the Causal Nature but to effect it” `III.1 ¶21`
+- **procedure** — “Thou shalt separate the earth from the fire, the subtle from the gross, gently, with much sagacity; it will ascend from earth to heaven, and again descend from heaven to earth” `III.1 ¶21` (QUOTED: Hermes (Smagardine Tablet), endorsed)
+  - **Plain (stated):** Separate subtle from gross, gently and wisely. What is separated rises and descends again, receiving the strength of both higher and lower, and overcomes every strong thing.
+  - Basis: III.1 ¶21.
+  - Also: “will receive the strength of the Inferiors and of the Superiors” `III.1 ¶21`
+- **agent** — “we observe Mind to be the true Separator, the efficient as well as the regimen of the work, into which, as before shown, no foreign admixture is allowed to enter” `III.1 ¶21` (ATWOOD)
+  - **Plain (stated):** Atwood reads the Tablet's 'Thou shalt separate' literally: Mind both performs and governs the separation. It is not a mechanical dissolution, and nothing foreign enters. The 'sequestatrix' that gives form and essence is Intellect's special part.
+  - Basis: III.1 ¶21: 'according to the literal wording of the Table'.
+  - Also: “Nor ought we, therefore, taking into consideration the human agency, to understand this decomponency of life in a mechanical sense” `III.1 ¶21`
+  - Also: “that is the sequestatrix, which gives to every thing its form and essence” `III.1 ¶21`
+- **principle** — “nothing is discovered except the matte be decomposed, and because it is not perfected unless the whole introversion is passed through” `III.1 ¶21` (ATWOOD)
+  - **Plain (stated):** Knowledge of the elements comes only by decomposing the matter and passing through the whole 'introversion', which this chunk does not explain. It is found through patience and Wisdom, not sought corporally.
+  - Basis: III.1 ¶21.
+  - Also: “not corporally or imprudently sought after, but is through patience and Wisdom to be discovered according to their causes and their occult operation” `III.1 ¶21`
+- **subject** — “the whole matter I know to be One only Thing” `III.1 ¶21` (QUOTED: the great Master (Hermes per n21, n24), endorsed)
+  - **Plain (stated):** The matter of the work is a single thing. Folly, fantasy and passion are its modes of being, and so is Reason.
+  - Basis: III.1 ¶21: 'as folly, and phantasy, and passion are modes of being of the One Thing, and Reason is another'.
+  - Also: “as folly, and phantasy, and passion are modes of being of the One Thing, and Reason is another” `III.1 ¶21`
+- **principle** — “this Reason gaining the ascendancy, would gather all up, as a ferment, into the superior essence and traction of her own Light” `III.1 ¶21` (ATWOOD)
+  - **Plain (stated):** Whichever mode prevails converts the inner life to itself. Fantasy turns everything to folly, while Reason acts as a ferment and raises everything into its own light. The adepts' 'Head Stone' celebrates this.
+  - Basis: III.1 ¶21.
+  - Also: “the phantasy, if suffered to prevail, will convert all to her own folly in the internal life” `III.1 ¶21`
+  - Also: “abundantly celebrating the virtues of their Head Stone” `III.1 ¶21`
+- **agent** — “it is of this the ancients speak, calling it Wisdom, Intellect, Gold, Sol, Sulfur, Tincture” `III.1 ¶21` (ATWOOD)
+  - **Plain (stated):** The ancients' Gold, Sol, Sulfur and Tincture are names for the supernatural Reason, which is Light. Everyday reason, which judges, governs the passions and separates fact from falsehood, is its image: what natural reason does theoretically, this Reason does essentially.
+  - Basis: III.1 ¶21.
+  - Also: “For it is Light indeed, and an occult splendor of existence transcendentally pure” `III.1 ¶21`
+  - Also: “these things which the natural reason as an image enacts theoretically, this supernatural reason is said to do as an archetype essentially” `III.1 ¶21`
+  - Also: “let him for a plea only regard the image of it in this life” `III.1 ¶21`
+- **procedure** — “separating and rejecting the false forms and elementary qualities which supervene through generation, assimilating the whole inferior life by continual trituration of its foreign tincture” `III.1 ¶21` (ATWOOD)
+  - **Plain (stated):** The 'Intellectual sun' does to the inner life what the sun does to matter. It strips away acquired false forms, assimilates the lower life by steadily grinding out what is foreign, and pervades the passive Spirit with itself.
+  - Basis: III.1 ¶21: 'as the luminary of the sensible world purifies and subtilizes the gross parts of matter ... so are we taught to conceive of the Intellectual sun'.
+  - Also: “by pure infusion of Itself to the passified Spirit throughout” `III.1 ¶21`
+- **agent** — “this comprehending Intellect made things to be separated” `III.1 ¶22` (QUOTED: Anaxagoras, endorsed)
+  - **Plain (stated):** Anaxagoras' Intellect is unmixed, purest, all-knowing and rules over soul. It begins small, extends its power, and separates contraries. Atwood cites it to confirm the efficient operation of Intellect.
+  - Basis: III.1 ¶21 ('confirms what has been said above of its efficient operation'); III.1 ¶22.
+  - Also: “separated the dense from the rare, the hot from the cold, the lucid from the dark, and the dry from the moist” `III.1 ¶22`
+  - Also: “Whatever soul possesses greater or lesser, over all these Intellect has dominion.” `III.1 ¶22`
+  - Also: “it began from that which is small to exercise its comprehending power” `III.1 ¶22`
+
+## Terms
+
+- **Theurgic Art** (also: Theurgists) — An art of purifying and informing the Mind, more lasting than bodily medicine. Through purification and subjugation of the passions it converts the whole hypostasis into inner light. Its practitioners consulted the divine intellect only on purification, liberation and salvation of life. (ATWOOD)
+  - “the Theurgic Art professed a power of purifying and informing the Mind much more beneficial and lasting” `III.1 ¶11`
+- **hypostasis** — What is converted, as a whole, into substant light within. Not further defined here. (ATWOOD)
+  - “the whole hypostasis was converted finally through faith into the identity of substant light within” `III.1 ¶11`
+- **Light** (also: substant light, Central Light) — The hidden light, held captive, that is to be found and freed. It is the adepts' aim and the inner treasury that natural reason unlocks. The superior Reason is said to be Light (see Reason). (ATWOOD)
+  - “To find this Light, and to free it from captivity” `III.1 ¶11`
+  - “the Central Light and Wisdom was all their aim” `III.1 ¶13`
+- **Reason** (also: Reason of our Rule, supernatural reason) — The superior, supernatural reason. When ascendant it gathers all, as a ferment, into its own Light, separating false forms and assimilating the inferior life. Natural reason is its image. (ATWOOD)
+  - = Wisdom, Intellect, Gold, Sol, Sulfur, Tincture: “it is of this the ancients speak, calling it Wisdom, Intellect, Gold, Sol, Sulfur, Tincture” `III.1 ¶21`
+  - = Light: “For it is Light indeed, and an occult splendor of existence transcendentally pure” `III.1 ¶21`
+  - = Intellectual sun: “so are we taught to conceive of the Intellectual sun” `III.1 ¶21`
+  - “this Reason gaining the ascendancy, would gather all up, as a ferment, into the superior essence and traction of her own Light” `III.1 ¶21`
+- **natural reason** (also: natural Intellect, natural intellect) — Ordinary reason. It is necessary but is only an aid at the threshold, dull and inoperative in the work itself. It cannot purify the phantastic Spirit. It is the image of the supernatural reason. (ATWOOD)
+  - = iron key: “as it were an iron key, intended to unlock the golden treasury of light within” `III.1 ¶13`
+  - “these things which the natural reason as an image enacts theoretically, this supernatural reason is said to do as an archetype essentially” `III.1 ¶21`
+  - “But the natural Intellect cannot do this” `III.1 ¶20`
+- **spiritual intellect** — The intellect that natural reason helps introduce into self-knowledge. It then turns on the outer life and analyzes and transforms it 'chemically'. The following 'this vital perscrutinator' (the operating agent of the change) appears to refer to it. (ATWOOD)
+  - “this latter, returning with power upon the life without, proceeds to analyze and revolutionize” `III.1 ¶13`
+- **perscrutinator** (also: perscrutinating Intellect) — The searching, investigating intellect that operates the whole change. Hermes speaks of it, and the sequestration that gives form and essence belongs to it. (ATWOOD)
+  - = internal fire of the sulfur of thy water: “It is this vital perscrutinator, the internal fire of the sulfur of thy water, as Eirenaeus calls it” `III.1 ¶13`
+  - “that same perscrutinating Intellect which Hermes speaks of” `III.1 ¶21`
+- **Intellect** (also: intellect) — The superior separating power. It purifies and attenuates the phantastic Spirit and extends it to Divinity (Synesius). It is unmingled, purest and all-knowing, rules soul, and separates contraries (Anaxagoras). Its special part is the sequestatrix (see ambiguities). (ATWOOD; QUOTED: Synesius, Anaxagoras, endorsed)
+  - “Intellect above all things separates whatever is contrary to the true purity of phantastic Spirit” `III.1 ¶20`
+  - “Intellect is infinite and possesses absolute power, and is not mingled with any thing; but is alone by itself.” `III.1 ¶22`
+- **Mind** — The true Separator: both the efficient cause and the regimen of the work. Nothing foreign enters it. (ATWOOD)
+  - “we observe Mind to be the true Separator, the efficient as well as the regimen of the work” `III.1 ¶21`
+- **Separation** (also: Separabis, Separator) — The Art's primary object and 'the greatest miracle in philosophy': separating pure from impure and subtle from gross. Mind does it, not mechanical dissolution. Atwood identifies it with the Mysteries' ordeal of the death of the natural life. (ATWOOD)
+  - = the ordeals of the Mysteries (decomposition and death of the natural life): “appears to be identical with that which is described as taking place in the Mysteries, when the great ordeals are passed through during the decomposition and death of the natural life” `III.1 ¶21`
+  - “This Separation is indeed the primary object of the Art” `III.1 ¶21`
+- **sequestatrix** — That which gives each thing its form and essence. Atwood calls it, or the Separation, the special part of Intellect (see ambiguities). (QUOTED: Paracelsus; ATWOOD)
+  - “that is the sequestatrix, which gives to every thing its form and essence” `III.1 ¶21`
+- **Ether** (also: pure Ether) — What the Alchemists distill. At the end of Separation the pure Ether is resurrected into Light. (ATWOOD)
+  - “our Oedipus distillers of this Ether, the instructive Alchemists” `III.1 ¶13`
+  - “the final resurrection of the pure Ether into Light” `III.1 ¶21`
+- **Rule** — The God-given standard for discerning right from wrong. The superior Reason is 'the Reason of our Rule'. (QUOTED: the Alchemists; ATWOOD)
+  - “Take hold of that Rule which God hath given thee for direction” `III.1 ¶13`
+  - “the superior virtue of that which is the Reason of our Rule” `III.1 ¶21`
+- **Mercury of the Wise** — Something that comes only by ingenuity and industry, when nature is helped beyond her common course. Not further defined here. (QUOTED: the Alchemists)
+  - “the Mercury of the Wise comes not but by help of ingenuity and industry” `III.1 ¶13`
+- **first foundation** — What nature holds concealed, to be sought with one's own eyes and hand. It is the basis for philosophizing with judgment. (QUOTED: Basil Valentine)
+  - “Learn and look for the first foundation, says the monk, which nature holds concealed” `III.1 ¶13`
+- **Tree of Life** — Its attainment is laborious and is the fruit of intellectual research. (QUOTED: Van Helmont)
+  - “the attainment of the Tree of Life is laborious, and the fruit of intellectual research” `III.1 ¶13`
+- **Magistery** — The 'Magistery of life', reached only by those who hold 'this passport'. (ATWOOD)
+  - “they only who have obtained this passport can attain to the Magistery of life” `III.1 ¶13`
+- **fire** (also: our fire, internal Fire, internal fire) — The inner fire. It is imprisoned in the hard, dry body and freed by our water, appears in the Third Menstrual, and is to be tended more than the furnace fire. In ¶13 Atwood names Eirenaeus' 'internal fire of the sulfur of thy water' as the vital perscrutinator. (QUOTED: Eirenaeus)
+  - = true sulfur of Gold: “Our fire is the true sulfur of Gold, says Eirenaeus” `III.1 ¶14`
+  - = seed of gold: “this is the seed of gold, involved in many links, and held prisoner, as it were, in a deep dungeon” `III.1 ¶14`
+  - “be not so careful of the fire of the Athanor as of your internal Fire” `III.1 ¶14`
+- **body** — The hard, dry body that imprisons the fire and is rotted by our water. A gloss in the passage makes it the ethereal body. (QUOTED: Eirenaeus (gloss UNCLEAR))
+  - = ethereal body: “by rotting the moles of the body (i.e., of the ethereal body)” `III.1 ¶14`
+  - “which in the hard and dry body is imprisoned” `III.1 ¶14`
+- **water** — 'Our water' frees the fire by rotting the body. The 'first water' is prepared, joined to the body in just pondus, opens its pores and extracts part of the tincture of Sol. The text does not say whether the two are the same (see ambiguities). (QUOTED: Eirenaeus)
+  - “by the mediation of our water it is set loose” `III.1 ¶14`
+  - “the first water will work on the body till it hath opened the pores and extracted partly the tincture of Sol” `III.1 ¶14`
+- **menstrual** (also: Third Menstrual, menstruals) — There are three. The freed fire appears visibly in the third, which only one who knows the first two can see. (QUOTED: Eirenaeus)
+  - “it appears visibly in our Third Menstrual” `III.1 ¶14`
+  - “he that knows not our two first menstruals is altogether shut out” `III.1 ¶14`
+- **pondus** — The just weight or proportion in which the first water is joined to the body. (QUOTED: Eirenaeus)
+  - “to join it to the body in a just pondus” `III.1 ¶14`
+- **Athanor** — The source of the external fire, which matters less than the internal Fire. (QUOTED: Eirenaeus)
+  - “be not so careful of the fire of the Athanor as of your internal Fire” `III.1 ¶14`
+- **tincture of Sol** — What the first water partly extracts from the body, as a sign. (Separately, 'Tincture' is a name for Reason, and 'foreign tincture' is what Reason grinds out of the inferior life.) (QUOTED: Eirenaeus)
+  - “extracted partly the tincture of Sol” `III.1 ¶14`
+- **Doves of Diana** — Named as the signal. This chunk does not explain them. (QUOTED: Eirenaeus)
+  - “your signal the Doves of Diana” `III.1 ¶14`
+- **Golden Bough** — What the Sybil sends Aeneas to find. Atwood offers it as a parallel to the hidden object of the work. (ATWOOD)
+  - “he may discover and bring to her the Golden Bough” `III.1 ¶15`
+- **Cave of Mercury** — The place to be entered with a prudent motive. From it the mineral radix of the Art is carried away. (ATWOOD)
+  - = Taenerus, the most hidden vapor of life: “the Cave of Mercury, which, according to the Hermetic interpretation, is Taenerus, the most hidden vapor of life” `III.1 ¶19`
+- **mineral radix** — What is carried in both hands from the Cave of Mercury: the root and true matter of the Art. (ATWOOD)
+  - = true mater of the Hermetic Art: “the mineral radix and true mater of the Hermetic Art” `III.1 ¶19`
+- **Mercury** — The 'bottomless' Mercury into which the gold body is thrown. In Eirenaeus it is to be 'the internal'. Not decoded here. (UNCLEAR)
+  - “such a Mercury as is bottomless, or whose center it can never find, but by discovering its own” `III.1 ¶19`
+  - “let Mercury be the internal” `III.1 ¶14`
+- **ferment** (also: brazen ferment) — Reason acts 'as a ferment', gathering all into its Light. A 'brazen ferment' is contrasted with the true gold body. (ATWOOD)
+  - “would gather all up, as a ferment” `III.1 ¶21`
+  - “that body which is gold (not a brazen ferment)” `III.1 ¶19`
+- **Ethereal Spirit** — The spirit that, when subjugated, abandons its phantasy and yields the clear light of understanding to the trained investigator. (ATWOOD)
+  - = the Sphinx: “ends in her subjugation; in other words, the Ethereal Spirit abandons her phantasy” `III.1 ¶20`
+- **phantastic Spirit** — The spirit whose impurity Intellect separates; Intellect attenuates it and extends it to Divinity. The text does not assert that it is the same as the Ethereal Spirit. (QUOTED: Synesius)
+  - “Intellect above all things separates whatever is contrary to the true purity of phantastic Spirit” `III.1 ¶20`
+- **phantasy** — A mode of the One Thing, alongside folly and passion. If it prevails it converts the inner life to folly. The Ethereal Spirit abandons it when subdued. (ATWOOD)
+  - “the phantasy, if suffered to prevail, will convert all to her own folly in the internal life” `III.1 ¶21`
+- **Causal Nature** — Something that man can both find and effect. (QUOTED: Hermes (Asclepius))
+  - “man should be able not only to find the Causal Nature but to effect it” `III.1 ¶21`
+- **introversion** — A complete process that must be passed through before the work is perfected. Not defined here. (ATWOOD)
+  - “it is not perfected unless the whole introversion is passed through” `III.1 ¶21`
+- **One Thing** (also: One only Thing) — The whole matter of the work. Folly, phantasy, passion and Reason are its modes of being. (QUOTED: the great Master; ATWOOD)
+  - “the whole matter I know to be One only Thing” `III.1 ¶21`
+- **Head Stone** — What Lully, Arnold, Bacon and Geber celebrate, in connection with Reason acting as a ferment. (ATWOOD)
+  - “abundantly celebrating the virtues of their Head Stone” `III.1 ¶21`
+- **passified Spirit** — The Spirit, made passive, into which the supernatural reason infuses itself throughout. (ATWOOD)
+  - “by pure infusion of Itself to the passified Spirit throughout” `III.1 ¶21`
+
+## Sources cited
+
+- **Jesus Christ and his apostles** — “the perfect doctrine of regeneration preached by Jesus Christ and his apostles” `III.1 ¶11` — Comparison: the Theurgic Art comes nearest to their doctrine of regeneration.
+- **Iamblicus**, *de Mysteriis, sect. 7, cap. 8* `III.1 ¶12, III.1 n9` — Supports the claim that Theurgists consulted the divine intellect only on purification, liberation and salvation of life.
+- **Vaughan**, *Lumen de Lumine* `III.1 n10, III.1 n11, III.1 n18` — Reference for beginners' errors (n10), the Alchemists' precepts (n11) and the gold/Mercury passage (n18, p. 97).
+- **Basil Valentine**, *Triumphal Chariot of Antomony / Chariot of Antimony; 'Disce igitur' (n14)* — “Learn and look for the first foundation, says the monk, which nature holds concealed” `III.1 ¶13, III.1 n10, III.1 n14, III.1 n15` — Supports the need for first-hand experience of nature's hidden first foundation. His second, 'celestial' part (separating pure from impure by spiritual reason) leads into Atwood's turn to spiritual reason. Atwood calls the advice 'Excellent'. Spelled 'B.. Valentine' in n10, 'B. Valentine' in n15, and called 'the monk'.
+- **Norton**, *Ordinal, c. 4* `III.1 n10` — Reference only (beginners' errors).
+- **Lully**, *Lullii Theoria et Practica, cap. 68 and 88; Arbor Scientiae, Brancha Human; Arbor 10, Scientiae, p. 99* — “Intellectus naturam habens subtilem ad intelligendum res intelligibles” `III.1 ¶13, III.1 ¶21, III.1 n11, III.1 n25, III.1 n26` — Supports: lessons of patient rational inquiry; 'intimates' Reason as a ferment; source of the Latin on Intellect (n26).
+- **Crollius**, *Admonitory Preface (of Oswald Crollius)* — “by a holy assiduity of preparations, joining thereto diligent contemplation of natural causes” `III.1 ¶13, III.1 n12` — Supports: preparation, contemplation, handiwork and grace bring forth great things.
+- **Van Helmont**, *Oreatrike, p. 631, 710* — “the attainment of the Tree of Life is laborious, and the fruit of intellectual research” `III.1 ¶13, III.1 n13` — Supports the claim that the work is laborious and intellectual.
+- **Michael Maier**, *Atalanta Fugiens, Emblem 18* `III.1 ¶13, III.1 n18` — Named among writers with specimens of the preliminary lessons; reference for the gold/Mercury passage.
+- **Eirenaeus** — “Our fire is the true sulfur of Gold” `III.1 ¶13, III.1 ¶14` — Supports. His 'internal fire of the sulfur of thy water' names the operating agent (¶13), and he supplies the account of fire, waters, menstruals, regimen and signs (¶14).
+- **Ripley Revived**, *Ripley Revived, pp. 263, 266; p. 206* `III.1 n16, III.1 n18` — Reference for the Eirenaeus passage (n16) and the gold/Mercury passage (n18).
+- **the poet** — “reclusa resedet longius” `III.1 ¶13` — Illustrates how remote the discovery is.
+- **the Sybil / Aeneas**, *Aenid, lib. 6:145* — “Alte vestiga oculis: et rite repertum” `III.1 ¶15, III.1 ¶16, III.1 n17` — Illustrates the Golden Bough: sought by looking upward, and yielding only to one the fates call.
+- **Orpheus**, *Argonautics* — “Mercurii ingedier spuluncam” `III.1 ¶17, III.1 ¶18` — Illustrates prudent entry into the Cave of Mercury, which Atwood interprets hermetically.
+- **Synesius**, *de Somniis (extract in Taylor's Proculus on Euclid)* — “Intellect above all things separates whatever is contrary to the true purity of phantastic Spirit” `III.1 ¶20, III.1 n19` — Supports the claim that Intellect purifies the phantastic Spirit.
+- **Taylor**, *Proculus on Euclid; a note to Aristotle's Metaphysics* `III.1 ¶21, III.1 n19` — Transmits the Synesius extract and the Anaxagoras passage.
+- **Paracelsus**, *book to the Athenians (First Book of the Athenians, text 9, 10)* — “Separation is the greatest miracle in philosophy” `III.1 ¶21, III.1 n20` — Supports: Separation as the Art's primary object; free will as friend or foe; the sequestatrix. Atwood calls him 'our doctor'.
+- **Hermes**, *Tract. Aureus, cap. 2 and cap. 4; Smagardine Tablet (Tabula Smaragdina hermetis); Asclepius (Aclepius, cap. 13)* — “Thou shalt separate the earth from the fire, the subtle from the gross” `III.1 ¶21, III.1 n21, III.1 n22, III.1 n23, III.1 n24` — Supports: the perscrutinating Intellect, the separation precept read as Mind the Separator, man's power to effect the Causal Nature, and the One only Thing ('the great Master', n24). Called 'the same reputed author'.
+- **Arnold**, *Arnoldi Speculum* `III.1 ¶21, III.1 n25` — Named as celebrating the Head Stone.
+- **Bacon** `III.1 ¶21` — Named as celebrating the Head Stone.
+- **Geber**, *Invest. Perf* `III.1 ¶21, III.1 n25` — Named as celebrating the Head Stone.
+- **Manget** `III.1 n25` — Reference only. n25 continues 'Sumantur Lapis in capitulis notus, etc.'
+- **Plotinus**, *Select Works (treatise on the Gnostic Hypostasis)* `III.1 n26` — Reference only ('a very beautiful treatise').
+- **Anaxagoras**, *lost works, as preserved by Simplicius; given in Taylor's note to Aristotle's Metaphysics* — “Intellect is infinite and possesses absolute power, and is not mingled with any thing” `III.1 ¶21, III.1 ¶22, III.1 n27` — Confirms Intellect's efficient, separating operation. Atwood calls him 'one of the earliest of the Greek hermetic School'.
+- **Simplicius** `III.1 ¶21` — Preserved the Anaxagoras passage.
+
+## Ambiguities
+
+- “in order to discover this Reason” `III.1 ¶12`
+  - Reading: 'this Reason' is the Light of ¶11, the inner divine principle
+  - Reading: 'this Reason' refers back to something named before this chunk
+  - Basis: ¶21 says of the Reason of our Rule 'For it is Light indeed'; but 'this' points back, and ¶11 names only 'this Light'.
+- “by rotting the moles of the body (i.e., of the ethereal body)” `III.1 ¶14`
+  - Reading: the parenthetical glosses are Atwood's interpretation inserted into Eirenaeus
+  - Reading: they belong to the cited text
+  - Basis: Parentheses sit inside a quoted passage and are not attributed (also '(of the same body)').
+- “by the mediation of our water it is set loose” `III.1 ¶14`
+  - Reading: 'our water' is the same as 'the first water' later in ¶14
+  - Reading: they are distinct waters/menstruals
+  - Basis: Both are said to act on the body; ¶14 also distinguishes 'two first menstruals'.
+- “Seek it in the house of Aries, and draw it from the depths of Saturn” `III.1 ¶14`
+  - Reading: 'it' = the internal Fire just named
+  - Reading: 'it' = the material or the sulfur
+  - Basis: It directly follows 'as of your internal Fire'. The chunk does not explain Aries, Saturn or Mercury here.
+- “such a Mercury as is bottomless, or whose center it can never find, but by discovering its own” `III.1 ¶19`
+  - Reading: the gold body finds Mercury's center only by discovering its own
+  - Reading: Mercury's center is found only by Mercury discovering its own
+  - Basis: The antecedent of 'it' is grammatically unclear.
+- “Salt is good, but if the Salt have lost its savor wherewith shall it be seasoned?” `III.1 ¶20`
+  - Reading: Salt stands for natural intellect, insufficient for the change
+  - Reading: a general warning that the agent or operator must keep its potency
+  - Basis: It follows directly on 'But the natural Intellect cannot do this', and no gloss is given.
+- “the efficient force of an individual freed will upon the vehicle of its motive cause” `III.1 ¶20`
+  - Reading: the 'vehicle' is the Ethereal/phantastic Spirit
+  - Reading: the 'vehicle' is the body
+  - Basis: ¶20 has just discussed Intellect purifying 'phantastic Spirit'; ¶13–14 speak of the body imprisoning the fire.
+- “which gives to every thing its form and essence (20); which is the part especial of Intellect” `III.1 ¶21`
+  - Reading: the sequestatrix is the special part of Intellect
+  - Reading: the Separation (the Art's primary object) is the special part of Intellect
+  - Basis: The second 'which' follows the sequestatrix directly, but the sentence's main subject is 'This Separation'.
+
+## Translations
+
+- `III.1 ¶13` “reclusa resedet longius” → shut away, it sits farther off *(ours)*
+- `III.1 ¶16` “Alte vestiga oculis: et rite repertum, Carpe manu; namque Ipse volens facilisaque sequetur, Si te fate vocant; aliter, non viribus ullis Vincere, nec duro poteris convellere ferro” → Search on high with your eyes, and when duly found, pluck it with your hand; for of itself it will follow, willing and easy, if the fates call you; otherwise by no strength can you overcome it, nor tear it away with hard iron. (The book paraphrases part in ¶15: 'how to look from beneath upwards, and take it in hand'.) *(ours)*
+- `III.1 ¶18` “At quaecunque virum ducit prudnetia cordis Mercurii ingedier spuluncam plurima ubi ille Deponit bona, stat quorum praegrandis acervus Ambabus valet hic minibus sibi sumere, et ista Ferre domum, valet hic vistare incommoda cuncta.” → But whatever man prudence of heart leads to enter the cave of Mercury, where he lays down very many goods, of which a huge heap stands, he is able to take them up for himself with both hands and carry them home, and is able to avoid all troubles. (The book paraphrases this in ¶19.) *(ours)*
+- `III.1 ¶19` “Nescit Sol comitis non memor esse sui;” → The Sun knows not how to be unmindful of its companion. *(ours)*
+- `III.1 ¶19` “Ignire ignis amat, non aurificare sed, aurum.” → Fire loves fire, say they, not to make gold, but to assimilate it. *(book)*
+- `III.1 ¶21` “Separabis” → Thou shalt separate *(book)*
+- `III.1 ¶21` “Intellectus naturam habens subtilem ad intelligendum res intelligibles, participat, cum entibus intensis et cum entibus extensis, viz., cum intenso calore corporis, cum quo conjunctus est et cum intense bonitate sustentata in suis intensis concretis” → Intellect, having a subtle nature for understanding intelligible things, participates with intensive beings and with extensive beings, namely with the intense heat of the body with which it is joined, and with the intense goodness sustained in its intensive concretes. *(ours)*
+- `III.1 n14` “Disce igitur” → Learn therefore *(ours)*
+
+## Threads
+
+- `III.1 ¶11` 'To find this Light' refers back to a Light discussed before this chunk.
+- `III.1 ¶12` 'to discover this Reason' points back to a Reason named before this chunk (see ambiguities).
+- `III.1 ¶13` 'our Oedipus distillers of this Ether' points back to an Ether discussed earlier.
+- `III.1 ¶13` Specimens from Lully, Michael Maier and others: 'to which in the Practice we shall have occasion to allude' (a later part, the Practice).
+- `III.1 ¶13` The narrow gate 'as in the Mysteries we have already described': the earlier account of the Mysteries.
+- `III.1 ¶20` Atwood commits to go on 'to discuss the point' and 'to substantialize without deforming this Intellectual Science'.
+- `III.1 ¶21` 'in a former citation from his book to the Athenians, Paracelsus saying' that Separation is the greatest miracle: an earlier citation in the book.
+- `III.1 ¶21` Separation is identified with what is 'described as taking place in the Mysteries' (the earlier treatment of the Mysteries' ordeals).
+- `III.1 ¶21` 'into which, as before shown, no foreign admixture is allowed to enter': refers to an earlier demonstration.

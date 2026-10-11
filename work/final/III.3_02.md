@@ -1,0 +1,305 @@
+# III.3_02
+
+*Atwood carries the work to its consummation: the soul's ascent from image to Archetype, a conversion of the elements in which active and passive exchange roles across two conjunctions (Spirit/Mercury and Soul's Light/Gold), yielding a Fifth Essence figured as the Quadrature of the Circle and the indissoluble Tetractys; whoever attains it sees the Archetypal Law of Light mirrored in the Subject Waters, which she then likens to ancient cosmogonies and to what the Mysteries taught inwardly.*
+
+## Argument
+
+- Reflect into, not discuss, the mystery of our Image, to know our true selves, Adam, the Son and the Holy Spirit. `III.3 ¶25` — ATWOOD
+- The soul associates with her Efficient, gains its similitude and passes from image to Archetype, her end; fallen from the vision of God, she re-excites her virtue and rises through Intellect and Wisdom to the Principle. `III.3 ¶26` — QUOTED: the Platonic Successor
+- Vaughan (endorsed): Light descends from the central unit in a vital magnetical series; celestial nature, aerial spirit and soul's aura are one substance, so can be united and carried by intellectual Light into immortality. `III.3 ¶27` — QUOTED: Vaughan
+- We shall be changed; the corruptible must put on incorruption. `III.3 ¶27, III.3 n18` — QUOTED: the Aristotle
+- This immortal essentiality requires sanctified mind, purified soul, union with God; revolving the instructions reveals the whole work. `III.3 ¶28, III.3 n19` — QUOTED: Roger Bacon
+- Imitating the one matter of the Beginning, all diversities proceed from and return to the One: the conversion of the elements, making active passive and passive active, occult manifest. `III.3 ¶29` — ATWOOD
+- Separate spirit from water, putrefy, cast away faeces, rejoin; the Conjunction breeds a branch unlike its parents. `III.3 ¶29, III.3 n20` — QUOTED: Sendivogius
+- The Quadrature of the Circle is demonstrable only supernaturally, by transmuting hypostatic relations. First conjunction: Spirit (Mercury) predominates; second: Soul's Light (Gold). Sol's imprisoned sulphur, penetrated by Mercury, sends forth Light; Mercury turns passive and bears a more perfect offspring; that light, given to a proper recipient, multiplies a thousandfold. `III.3 ¶30` — ATWOOD
+- Male and female into circle, square, triangle, circle: the Stone; Atwood calls it the geometric procedure with the Metaphysical Embryo. `III.3 ¶31, III.3 ¶37, III.3 ¶38` — QUOTED: Maier
+- Beyond four degrees comes a Fifth Essence: the Ethereal Quadrangle becomes a Circle of golden light, embodied yet free of gross corporeity. Hence the philosopher's Mercury is fixed and compact yet penetrating and tinging. `III.3 ¶32` — ATWOOD
+- The gold of the Wise is clear water bearing the Lord's lightning; spiritualized, it leaves black earth that dissolves so spirit and soul reunite with it inseparably. `III.3 ¶32, III.3 n22` — QUOTED: the author of Lucerna Salis
+- This Conjunction consummates the Microcosm: circulated Form of Gold, Ripley's 'tetraptive', the Pythagorean Tetractys, fourfold from three heads, indissoluble. `III.3 ¶33, III.3 ¶34, III.3 ¶35, III.3 n23` — ATWOOD
+- The sun is twice begot, by Nature and Art; Art perfects Nature; the work is twofold yet indivisible; one fixed fixes the unfixed. `III.3 ¶36, III.3 n24` — QUOTED: Enigma Philosophicum
+- Who demonstrates the Quadrature resolves all to one Principle, can recompose every particular, and sees the Archetypal Law of Light as in a glass; Divine Light piercing the matter shows the universe's pattern in the Subject Waters. `III.3 ¶39, III.3 ¶40, III.3 n26` — ATWOOD
+- A body's impress seen in the vessel after decomposition (Paracelsus, Van Helmont, via Marcus) is only a secondary witness of the Archetypal mind. `III.3 n27` — ATWOOD
+- Hesiod's cosmogony agrees with alchemical descriptions, imaging Ethereal Quintessences called forth by the superincumbent mind; ancient cosmogonies may share one divine source. `III.3 ¶41, III.3 ¶42, III.3 n28` — ATWOOD
+- From inane Identity the Divine Will produces itself into material form. The Memphian prophet probably taught by passing the mystery inwards, not by words; Ovid was inspired by Janus. `III.3 ¶43, III.3 ¶44, III.3 n29` — ATWOOD
+
+## Method
+
+- **procedure** — “that great and miraculous mystery of our Image, which it behooves us to reflect into, rather than profanely to discuss” `III.3 ¶25` (ATWOOD)
+  - **Plain (interpreted):** The work involves inward reflection into one's own Image (the self) to know one's true self, not discursive debate.
+  - Basis: III.3 ¶25 gives the purpose 'that we may know our true selves'; III.3 ¶26 continues with passing 'from himself as an image to the Archetype'.
+- **stage** — “if he further passes from himself as an image to the Archetype, he will then attain the end of his progression” `III.3 ¶26` (QUOTED: the Platonic Successor)
+  - **Plain (stated):** Ascent in steps: the soul associates with her cause ('Efficient') and perceives its likeness in herself; then passes beyond herself as image to the Archetype, the goal.
+  - Basis: III.3 ¶26 gives the sequence directly.
+  - Also: “the soul, being in such a condition, associates with her Efficient” `III.3 ¶26`
+- **impediment** — “when falling off from the vision of God, if he again excites the virtue which is in himself and perceives himself to be perfectly adorned, he will again” `III.3 ¶26` (QUOTED: the Platonic Successor)
+  - **Plain (stated):** Losing the vision is recoverable: rousing one's own inner virtue raises one again through Intellect and Wisdom to the Principle of things.
+  - Basis: III.3 ¶26 states remedy and order of ascent.
+  - Also: “through virtue proceeding to Intellect and Wisdom, and afterwards to the Principle of things” `III.3 ¶26`
+- **principle** — “These three, being but One substantially, admit of a perfect hypostatic union” `III.3 ¶27` (QUOTED: Vaughan)
+  - **Plain (stated):** Celestial nature, aerial spirit and the soul's aura are one substance differing only in degree or constitution, so they can be fully united and raised by intellectual Light into immortality.
+  - Basis: III.3 ¶27: celestial 'differs not in substance from the aerial spirit but only in degree and complexion'; aerial differs from the aura 'in constitution only and not in nature'. Atwood endorses ('has well described').
+  - Also: “may be carried by a certain intellectual Light into the supreme horizon, and so swallowed up of immortality” `III.3 ¶27`
+- **principle** — “the Light, striking in a rapid coruscation from the center to the circumference, depends from the solitary unit through the surrounding vapor, in a vital magnetical series” `III.3 ¶27` (QUOTED: Vaughan)
+  - **Plain (interpreted):** Light descends from a single central unit outward through a surrounding medium as a living linked chain; this chain is what makes the union of the three natures possible.
+  - Basis: III.3 ¶27 joins this description directly ('where ...') to the claim that the three natures differ only in degree and can be united.
+- **result** — “this corruptible must put on incorruption, and this mortal must put on immortality” `III.3 ¶27` (QUOTED: the Aristotle)
+  - **Plain (interpreted):** The end is a sudden change of the corruptible, mortal nature into an incorruptible, immortal one.
+  - Basis: Placed right after Vaughan's 'swallowed up of immortality' (III.3 ¶27) and followed by Bacon's 'this immortal essentiality' (III.3 ¶28).
+  - Also: “we shall not all sleep, but we shall be changed; in a moment, in the twinkling of an eye” `III.3 ¶27`
+- **operator** — “it is impossible for you to attain this immortal essentiality, unless you become sanctified in mind and purified in soul, so as to be united to God, and to become one spirit with Him” `III.3 ¶28` (QUOTED: Roger Bacon)
+  - **Plain (stated):** The operator must be morally and spiritually purified and united with God; without this the goal cannot be reached.
+  - Basis: III.3 ¶28 direct statement.
+  - Also: “Behold, I show you the fear of the Lord, and the love of Him, with unfeigned obedience” `III.3 ¶28`
+- **procedure** — “if you revolve these my instructions in your mind, you may obtain the knowledge of the beginning, the middle, and the end of the whole work” `III.3 ¶28` (QUOTED: Roger Bacon)
+  - **Plain (stated):** Meditating on the instructions gives knowledge of the whole course of the work and an experience of subtle wisdom and pure matter that fills the soul.
+  - Basis: III.3 ¶28.
+  - Also: “such a subtlety of Wisdom, and such a purity of matter, as shall amply replete your soul” `III.3 ¶28`
+  - Also: “He will open to you the gates of His treasure, the like of which is not to be found on earth” `III.3 ¶28`
+- **principle** — “a conversion of the elements in this respect is just to make active passive and passive active” `III.3 ¶29` (ATWOOD)
+  - **Plain (stated):** 'Conversion of the elements' means reversing which component is active and which passive, so the hidden becomes manifest and the manifest hidden.
+  - Basis: III.3 ¶29 defines the phrase; III.3 ¶30 repeats it of the Quadrature.
+  - Also: “the occult becoming manifest and the manifest occult in inverse order of conception” `III.3 ¶29`
+  - Also: “as in a circulating medium making passive active and active passive” `III.3 ¶30`
+- **principle** — “all diversities of things are seen to proceed from and return to this only One” `III.3 ¶29` (ATWOOD)
+  - **Plain (stated):** The work imitates creation: as all things came from one matter, in the process all varieties come out of and return into a single One; this is also called the conversion of the elements.
+  - Basis: III.3 ¶29 'this imitative process', paralleling 'one only matter of all things' in the Beginning, 'which is called a conversion of the elements'.
+- **procedure** — “who knows how to congeal water with heat, and to join a spirit thereto, shall certainly find out a thing more precious than gold” `III.3 ¶29` (QUOTED: Sendivogius)
+  - **Plain (interpreted):** Enigmatic instruction: fix a 'water' by heat and join a 'spirit' to it. This chunk does not decode 'water' or 'spirit' here.
+  - Basis: III.3 ¶29 'says Sendivogius enigmatically'; no gloss given.
+- **stage** — “cause that the spirit be separated from the water, that it may putrefy and be like a grain” `III.3 ¶29` (QUOTED: Sendivogius)
+  - **Plain (interpreted):** Sequence: separate spirit from water; let it putrefy like a seed; discard the dregs; bring the spirit back 'from the deep' into the water and rejoin them. Terms not decoded in this chunk.
+  - Basis: III.3 ¶29 gives the steps in order; Atwood frames them as an instance of the conversion of the elements; III.3 ¶30 continues with Spirit as Mercury.
+  - Also: “the faeces being cast away, let him reduce and bring back the spirit again from the deep into the water” `III.3 ¶29`
+- **result** — “that Conjunction will generate a branch of unlike shape to its parents” `III.3 ¶29` (QUOTED: Sendivogius)
+  - **Plain (interpreted):** The reunion produces something new, unlike either component.
+  - Basis: III.3 ¶29; III.3 ¶30 parallels it with 'an offspring more perfect than either parent'.
+  - Also: “the Mercury, in turn becoming passive, conceives and bears an offspring more perfect than either parent” `III.3 ¶30`
+- **principle** — “the Quadrature of the Circle was supernaturally demonstrated; which naturally it cannot be; and in no other way but by a transmutation of the hypostatic relations” `III.3 ¶30` (ATWOOD)
+  - **Plain (stated):** 'Squaring the circle' names what this process achieves; it is impossible naturally and done only by exchanging active and passive among the principles. Its discoverer has reduced all things to one Principle.
+  - Basis: III.3 ¶30 states the means; III.3 ¶39 states what the discoverer of the Quadrature has done.
+- **stage** — “In the first conjunction the Spirit predominates; in the second the Soul, i.e., its Light; which two are, by adepts, called Mercury and Gold” `III.3 ¶30` (ATWOOD)
+  - **Plain (stated):** Two conjunctions: in the first, Spirit (called Mercury) dominates; in the second, the Soul's Light (called Gold) dominates.
+  - Basis: III.3 ¶30 explicit identification.
+- **agent** — “the formal virtue of Sol is sealed; his sulphur is imprisoned, so that he is not aware of it, does not feel or know himself” `III.3 ¶30` (ATWOOD)
+  - **Plain (stated):** The Gold/Soul principle is at first dormant and unaware of its own power, so Mercury (Spirit) must act on it first; once penetrated it emits its Light, and Mercury becomes the passive partner that conceives the offspring.
+  - Basis: III.3 ¶30 gives this as the reason ('because') for Mercury's first activity over gold, and describes the role reversal.
+  - Also: “until penetrated by the mercurial Spirit, then he sends forth his Light; to which the Mercury, in turn becoming passive, conceives” `III.3 ¶30`
+- **procedure** — “when that light is again taken and given to a proper recipient, it is made a thousand times more fit and apt to bring forth excellent and abundant fruits” `III.3 ¶30` (ATWOOD)
+  - **Plain (stated):** Transferring the released Light again into a suitable receiver multiplies its fruitfulness; no further detail here.
+  - Basis: III.3 ¶30.
+- **procedure** — “Fac ex mare et foemina circulum; inde quadrangulum; hinc triamgulum, fac circulum, et habebis lapidem philosophorum” `III.3 ¶31` (QUOTED: Maier)
+  - **Plain (interpreted):** Geometric figure of the sequence: unite male and female into a circle, then a square, then a triangle, then a circle again, and the Stone results. Atwood says it symbolizes the procedure with the 'Metaphysical Embryo'; the figures are not decoded, except that the Quadrangle becoming a Circle marks the Fifth Essence.
+  - Basis: III.3 ¶37 names what is symbolized; III.3 ¶38 repeats the sequence in verse; III.3 ¶32 'the Ethereal Quadrangle becomes a Circle of golden light'. Rendering is ours.
+  - Also: “Feomina masque unus fiant tibi circulus, ex quo Surgat habens aequum forma quadrata latus.” `III.3 ¶38`
+  - Also: “the geometric method of procedure with the Metaphysical Embryo, through its complex parts” `III.3 ¶37`
+- **result** — “beyond all the four precedent degrees of perfection there is made a Fifth Essence” `III.3 ¶32` (ATWOOD)
+  - **Plain (stated):** A Fifth Essence, distinct from yet sharing in all four prior degrees in lasting union: embodied but not bound by the laws of gross bodies.
+  - Basis: III.3 ¶32: 'neuter from all, yet partaking of all in perpetuity of union'.
+  - Also: “the Ethereal Quadrangle becomes a Circle of golden light in eternity” `III.3 ¶32`
+  - Also: “though they have bodies, yet are not subject to those laws of gross corporeity which fetter bodies unregenerate” `III.3 ¶32`
+- **sign** — “the philosopher’s Mercury is a system of wonders ponderous, fixed, and, as a petrification from water is, exquisitely compact; yet penetrative withal and communicative of tincture” `III.3 ¶32` (ATWOOD)
+  - **Plain (stated):** Marks of the perfected Mercury: heavy, fixed and compact, yet able to penetrate instantly and impart its quality; projected on anything imperfect it dissolves it and draws its foundation into itself.
+  - Basis: III.3 ¶32 lists the properties, introduced by 'therefore' as following from the Fifth Essence.
+  - Also: “projected on the imperfect metal of any life, dissolves, drawing away the foundation into itself” `III.3 ¶32`
+- **subject** — “the gold of the Wise to be by no means vulgar gold; but it is a certain water clear and pure, on which is borne the lightning of the Lord” `III.3 ¶32` (QUOTED: the author of Lucerna Salis)
+  - **Plain (stated):** The philosophers' 'gold' is not metal but a clear pure 'water' carrying divine lightning, from which all things receive life.
+  - Basis: III.3 ¶32 explicit identification.
+  - Also: “it is from thence that all things receive their life” `III.3 ¶32`
+- **stage** — “by means of the spirit it passes through the Alembic, its earth remaining black” `III.3 ¶32` (QUOTED: the author of Lucerna Salis)
+  - **Plain (stated):** The spiritualized gold rises through the vessel leaving a black earth, which from 'thirst' dissolves into thick water and oil; only so can spirit and soul reunite with it into one inseparable Thing.
+  - Basis: III.3 ¶32: 'if it did not become water and oil, its spirit and soul could not unite and mingle with it'.
+  - Also: “By reason of the thirst it has, it dissolves and is dissevered, which benefits it very much” `III.3 ¶32`
+  - Also: “of them One Thing is made which rises to a consummate perfection; the parts thereof being so firmly joined together that they can never after be separated” `III.3 ¶32`
+- **result** — “This then is the Conjunction in which all the mysteries of the Microcosm have their consummation --- the true circulated Form of Gold” `III.3 ¶33` (ATWOOD)
+  - **Plain (stated):** The final Conjunction completes the work in the human being (Microcosm); Atwood identifies it with the circulated Form of Gold, Ripley's 'tetraptive' conjunction and the Pythagorean Tetractys.
+  - Basis: III.3 ¶33 states the identifications.
+- **result** — “Tetractys, fourfold, drawn from three heads by the obstetric hand of the physico-chemical Art” `III.3 ¶35` (ATWOOD)
+  - **Plain (stated):** The fourfold result is brought forth from three principles by the Art acting as midwife, and once joined cannot be dissolved.
+  - Basis: III.3 ¶35.
+  - Also: “without possibility of dissolution any more; for those principles so joined together of God, man cannot any more put asunder” `III.3 ¶35`
+- **principle** — “There is no sun but which is twice begot; Nature and Arte the parents first begonne” `III.3 ¶36` (QUOTED: Enigma Philosophicum)
+  - **Plain (stated):** The 'sun' has two births: by Nature, which leaves it imperfect, and by Art, which perfects it, making a twofold work out of one.
+  - Basis: III.3 ¶36: 'By Nature ‘twas but Nature perfects not.'
+  - Also: “Art then, what Nature left, in hand doth take, And out of one a twofold worke doth make.” `III.3 ¶36`
+- **principle** — “It must be two yet make it one and one, And you do take the way to make it none.” `III.3 ¶36` (QUOTED: Enigma Philosophicum)
+  - **Plain (interpreted):** Called 'the primary secret': the twofold work admits no division except 'mathematical'; it is two yet one. Exact sense open (see ambiguities).
+  - Basis: III.3 ¶36: 'such a work As doth admit Division none at all', 'Lo here, the primary secret of this Arte'.
+  - Also: “Who faileth to attain the foremost part, Shall never know Arte’s force or Nature’s might.” `III.3 ¶36`
+- **procedure** — “To make by one fixt, one unfixed fixt” `III.3 ¶36` (QUOTED: Enigma Philosophicum)
+  - **Plain (interpreted):** A fixed component is used to fix an unfixed one; this chunk does not say what they are.
+  - Basis: III.3 ¶36 read literally; no gloss given.
+- **result** — “having before himself, as in a glass, the great Archetypal Law of Light, in which are all things causally ranged in the order in which they were originally distributed” `III.3 ¶39` (ATWOOD)
+  - **Plain (stated):** Whoever attains the Quadrature has reduced all things, thoughts, passions and actions to one Principle, can recompose every particular from it, and perceives the original causal order of creation as in a mirror, the same in the individual as in the Great World.
+  - Basis: III.3 ¶39 states these results of discovering the Quadrature.
+  - Also: “having resolved all sorts and ideas of things, all thoughts, passions, and actions to one and the same Principe” `III.3 ¶39`
+  - Also: “Perfect in the Microcosmic Unit as in the total Deity of the Great World” `III.3 ¶39`
+- **sign** — “no sooner, it is said, does the Divine Light pierce to the bosom of the matter, but the pattern of the whole universe appears in those Subject Waters, as an image in a glass” `III.3 ¶39` (QUOTED: unnamed ('it is said'))
+  - **Plain (stated):** Sign: once Divine Light penetrates the matter, the ideal pattern of the universe appears in the 'Subject Waters' like a mirror image; n27 calls this the appearance of the Universal Idea in the mind.
+  - Basis: III.3 ¶39; III.3 n27 'this appearance of the Universal Idea in the mind'.
+  - Also: “this appearance of the Universal Idea in the mind” `III.3 n27`
+- **sign** — “by separation of their parts the specific impress is to be perceived in the vessel containing the decomposed spirit” `III.3 n27` (QUOTED: Marcus (reporting Paracelsus and Van Helmont); Atwood qualifies)
+  - **Plain (stated):** Physical analogy: decomposing a body shows its specific form in the vessel, from which the creature may be revived. Atwood ranks any such impress as only a secondary witness of the creative Archetypal mind.
+  - Basis: III.3 n27: 'would be but as a secondary vestiment or witness of that which is in the Archetypal mind creatively efficient'.
+  - Also: “the whole creature may be also resuscitated from thence” `III.3 n27`
+- **stage** — “indicative of the several estates of the Ethereal Quintessences arising one above another, called forth by the light and heat of the superincumbent mind” `III.3 ¶42` (ATWOOD)
+  - **Plain (stated):** Atwood reads Hesiod's births (Chaos, Matter, Love, Erebus, Night, Ether, Day) as images of successive states of the ethereal essence, each called forth by the light and heat of a mind acting from above.
+  - Basis: III.3 ¶42, her reading of III.3 ¶41 'when set in comparison with the Alchemical descriptions'.
+  - Also: “First of all existed Chaos; next in order of the broad bosomed Matter; and then Love appeared” `III.3 ¶41`
+- **agent** — “the Divine Will, then alone operating, says the Kabalistic Interpreter, produces itself into a material form and recreation” `III.3 ¶43` (QUOTED: the Kabalistic Interpreter)
+  - **Plain (stated):** From an undifferentiated, silent, dead state, the Divine Will alone acts and produces itself into material form.
+  - Basis: III.3 ¶43.
+  - Also: “in that inane Identity --- from that silent dead obscurity” `III.3 ¶43`
+- **procedure** — “by passing it inwards to the evolution of its proper mystery, thence to emanate and recreate” `III.3 ¶44` (ATWOOD)
+  - **Plain (interpreted):** Atwood suggests the mysteries of creation were taught not by words, signs or authority but by an inward process in which the mystery unfolds within and then issues outward recreatively.
+  - Basis: III.3 ¶44 offers this as the 'more probable' answer to how the Memphian prophet taught, after doubting that words, signs or tradition 'can truly reach the understanding'.
+
+## Terms
+
+- **Image** (also: image) — The self as likeness of its divine source, to be reflected into for self-knowledge; the soul passes from herself as image to the Archetype. (ATWOOD)
+  - “that great and miraculous mystery of our Image” `III.3 ¶25`
+  - “passes from himself as an image to the Archetype” `III.3 ¶26`
+- **Archetype** (also: Archetypal) — The original of which the self is image; end of the soul's progression; the creative mind whose Law of Light orders all things causally and which 'shadows the intellectual spheres'. (ATWOOD)
+  - “where the Archetype shadows the intellectual spheres” `III.3 ¶39`
+  - “that which is in the Archetypal mind creatively efficient” `III.3 n27`
+- **Efficient** — That with which the soul associates and of which she gains a similitude; her cause. (QUOTED: the Platonic Successor)
+  - “the soul, being in such a condition, associates with her Efficient” `III.3 ¶26`
+- **hypostatic union** (also: Hypostatic Metamorphoses, hypostatic relations) — Union of celestial nature, aerial spirit and soul's aura, which are one in substance; transmuting the 'hypostatic relations' (exchanging active and passive) is how the Quadrature is achieved. (QUOTED: Vaughan)
+  - “These three, being but One substantially, admit of a perfect hypostatic union” `III.3 ¶27`
+  - “by a transmutation of the hypostatic relations” `III.3 ¶30`
+- **aura** — The material efflux of the soul; differs from the aerial spirit in constitution only, not in nature. (QUOTED: Vaughan)
+  - = material efflux of the soul: “the aura or material efflux of the soul” `III.3 ¶27`
+- **immortal essentiality** — The goal, unattainable without sanctified mind, purified soul and union with God. (QUOTED: Roger Bacon)
+  - “it is impossible for you to attain this immortal essentiality” `III.3 ¶28`
+- **one only matter** — The single matter of all things in the Beginning, imitated in the process where all diversities come from and return to the One. (ATWOOD)
+  - “as in the Beginning there was said to be one only matter of all things” `III.3 ¶29`
+- **conversion of the elements** — Making active passive and passive active, the occult manifest and the manifest occult; the name for all diversities proceeding from and returning to the One. (ATWOOD)
+  - = procession from and return to the One: “all diversities of things are seen to proceed from and return to this only One; which is called a conversion of the elements” `III.3 ¶29`
+  - “a conversion of the elements in this respect is just to make active passive and passive active” `III.3 ¶29`
+- **Conjunction** (also: conjunction) — Union of the principles: a first conjunction (Spirit predominant) and a second (Soul's Light predominant); the final Conjunction consummates the mysteries of the Microcosm, generates an offspring unlike/more perfect than its parents, and cannot be dissolved. (ATWOOD)
+  - = true circulated Form of Gold: “This then is the Conjunction in which all the mysteries of the Microcosm have their consummation --- the true circulated Form of Gold” `III.3 ¶33`
+  - = tetraptive (Ripley); fountain of Pythagoras; Divine Tetractys: “the Conjunction, by Ripley called tetraptive, that so highly commended fountain of Pythagoras, and Divine Tetractys” `III.3 ¶33`
+  - “In the first conjunction the Spirit predominates; in the second the Soul, i.e., its Light” `III.3 ¶30`
+  - “that Conjunction will generate a branch of unlike shape to its parents” `III.3 ¶29`
+- **Quadrature of the Circle** (also: Quadrature) — Impossible naturally; demonstrated supernaturally only by transmuting the hypostatic relations; its discoverer has resolved all things to one Principle and perceives the Universal Mystery of Nature. (ATWOOD)
+  - “the Quadrature of the Circle was supernaturally demonstrated; which naturally it cannot be” `III.3 ¶30`
+- **Mercury** (also: mercury, mercurial Spirit) — Adepts' name for the Spirit, predominant in the first conjunction; it penetrates Sol, then becomes passive and conceives the offspring. (ATWOOD)
+  - = Spirit: “In the first conjunction the Spirit predominates; in the second the Soul, i.e., its Light; which two are, by adepts, called Mercury and Gold” `III.3 ¶30`
+  - “the activity of mercury over gold in the first place is because the formal virtue of Sol is sealed” `III.3 ¶30`
+- **philosopher's Mercury** (also: philosopher’s Mercury) — Following the Fifth Essence: ponderous, fixed, compact, yet penetrating and communicating tincture; projected on imperfect metal of any life it dissolves it into itself. Relation to Mercury=Spirit open (see ambiguities). (ATWOOD)
+  - “the philosopher’s Mercury is a system of wonders ponderous, fixed” `III.3 ¶32`
+- **Gold** (also: gold) — Adepts' name for the Soul, i.e. its Light, predominant in the second conjunction; its formal virtue is sealed until penetrated by Mercury. (ATWOOD)
+  - = Soul, i.e., its Light: “in the second the Soul, i.e., its Light; which two are, by adepts, called Mercury and Gold” `III.3 ¶30`
+- **Sol** — Named in explaining Mercury's activity over gold: his formal virtue is sealed and sulphur imprisoned, unaware of himself until penetrated by the mercurial Spirit; then he sends forth his Light. (ATWOOD)
+  - “the formal virtue of Sol is sealed; his sulphur is imprisoned” `III.3 ¶30`
+- **sulphur** — Sol's inner principle, imprisoned and unknown to him until released by the mercurial Spirit. (ATWOOD)
+  - “his sulphur is imprisoned, so that he is not aware of it, does not feel or know himself” `III.3 ¶30`
+- **gold of the Wise** (also: our gold, Aurum Sapientum) — Not vulgar gold but a clear pure water bearing the Lord's lightning, from which all things receive life; becomes spiritual and passes through the Alembic. (QUOTED: the author of Lucerna Salis)
+  - = a certain water clear and pure: “the gold of the Wise to be by no means vulgar gold; but it is a certain water clear and pure” `III.3 ¶32`
+  - “this is the reason, continues he, why our gold is become spiritual” `III.3 ¶32`
+- **Fifth Essence** — Made beyond the four precedent degrees of perfection; neuter from all yet partaking of all in perpetual union; embodied but not subject to gross corporeity. (ATWOOD)
+  - “neuter from all, yet partaking of all in perpetuity of union” `III.3 ¶32`
+- **Ethereal Quadrangle** — That which, in the Fifth Essence, becomes a Circle of golden light in eternity. (ATWOOD)
+  - “the Ethereal Quadrangle becomes a Circle of golden light in eternity” `III.3 ¶32`
+- **tincture** — What the philosopher's Mercury communicates. (ATWOOD)
+  - “penetrative withal and communicative of tincture” `III.3 ¶32`
+- **projection** (also: projected) — Casting the Mercury on 'the imperfect metal of any life', which it dissolves, drawing its foundation into itself. (ATWOOD)
+  - “projected on the imperfect metal of any life, dissolves, drawing away the foundation into itself” `III.3 ¶32`
+- **Alembic** — Vessel through which the spiritualized gold passes, leaving its earth black. (QUOTED: the author of Lucerna Salis)
+  - “by means of the spirit it passes through the Alembic, its earth remaining black” `III.3 ¶32`
+- **faeces** — Residue cast away after putrefaction, before the spirit is returned to the water. (QUOTED: Sendivogius)
+  - “the faeces being cast away” `III.3 ¶29`
+- **Tetractys** (also: Divine Tetractys) — The fourfold drawn from three heads by the Art, indissoluble; source of wisdom and 'fountain, cause, and root' of nature; identified with the consummating Conjunction. (ATWOOD)
+  - = Conjunction: “the Conjunction, by Ripley called tetraptive, that so highly commended fountain of Pythagoras, and Divine Tetractys” `III.3 ¶33`
+  - “Tetractys, fourfold, drawn from three heads by the obstetric hand of the physico-chemical Art” `III.3 ¶35`
+  - “Perennial nature’s fountain, cause, and root” `III.3 ¶34`
+- **Microcosm** (also: Microcosmic Unit) — The small world (set against 'the Great World') whose mysteries are consummated in the Conjunction; the Archetypal Law is perfect in it as in the Great World. (ATWOOD)
+  - “the Conjunction in which all the mysteries of the Microcosm have their consummation” `III.3 ¶33`
+  - “Perfect in the Microcosmic Unit as in the total Deity of the Great World” `III.3 ¶39`
+- **Metaphysical Embryo** — That on which the geometric procedure (circle, square, triangle, circle) operates 'through its complex parts'; not further defined here. (ATWOOD)
+  - “the geometric method of procedure with the Metaphysical Embryo, through its complex parts” `III.3 ¶37`
+- **lapidem philosophorum** (also: Lapis) — The Stone, which results from the geometric sequence of circle, square, triangle, circle. (QUOTED: Maier)
+  - “et habebis lapidem philosophorum” `III.3 ¶31`
+- **Principle** (also: Principe, Principle of things) — The one source to which all things, thoughts, passions and actions are resolved and from which every particular can be recomposed; the final term of the soul's ascent. (ATWOOD)
+  - “he will not alone have that Principle, and be able to compose and renumerate every former particular out of the same” `III.3 ¶39`
+  - “afterwards to the Principle of things” `III.3 ¶26`
+- **Archetypal Law of Light** — The order in which all things are causally ranged as originally distributed, seen 'as in a glass' by the one who has the Principle. (ATWOOD)
+  - “the great Archetypal Law of Light, in which are all things causally ranged” `III.3 ¶39`
+- **Subject Waters** — The matter into whose bosom Divine Light pierces, in which the pattern of the universe then appears as in a glass. (QUOTED: unnamed ('it is said'))
+  - “the pattern of the whole universe appears in those Subject Waters, as an image in a glass” `III.3 ¶39`
+- **Universal Idea** — What appears in the mind (cf. the pattern in the Subject Waters); corroborated, as a secondary witness, by the impress seen in the vessel. (ATWOOD)
+  - “this appearance of the Universal Idea in the mind” `III.3 n27`
+- **Ethereal Quintessences** — Successive estates rising one above another, called forth by the light and heat of the superincumbent mind; figured in Hesiod's generations. (ATWOOD)
+  - “the several estates of the Ethereal Quintessences arising one above another” `III.3 ¶42`
+
+## Sources cited
+
+- **the Platonic Successor** — “he will again, says the Platonic Successor, be elevated” `III.3 ¶26` — Supports: the soul's ascent from image to Archetype and recovery after falling from the vision of God.
+- **Vaughan**, *Anima Magia* — “These three, being but One substantially, admit of a perfect hypostatic union” `III.3 ¶27` — Supports (Atwood: 'has well described'): the Hypostatic Metamorphoses, the descending series of Light, and union into immortality.
+- **the Aristotle** — “Behold I show you a mystery, says the Aristotle, we shall not all sleep, but we shall be changed” `III.3 ¶27, III.3 n18` — Supports: change of the corruptible into incorruption. Footnote: 'ibid., 15: 51, etc.'
+- **Roger Bacon**, *Rogeri Bachonis Radix Mundi, lib. 3* — “it is impossible for you to attain this immortal essentiality, unless you become sanctified in mind and purified in soul” `III.3 ¶28, III.3 n19` — Supports: moral/spiritual requirements of the operator; knowledge of the whole work by meditation.
+- **Sendivogius**, *New Light, Treatise v* — “who knows how to congeal water with heat, and to join a spirit thereto” `III.3 ¶29, III.3 n20` — Illustrates (called enigmatic): separation, putrefaction and rejoining of spirit and water, as conversion of the elements.
+- **Khunrath**, *Amph. Sap., cap. 8* `III.3 n20` — Reference only (cited with Sendivogius).
+- **Michael Maier**, *Atalanta Fugiens, Emblema 21; Epigramma 21* — “Fac ex mare et foemina circulum; inde quadrangulum” `III.3 ¶31, III.3 ¶37, III.3 ¶38, III.3 n21, III.3 n25` — Illustrates: geometric symbol of the procedure (circle, square, triangle, circle) yielding the Stone; Atwood: 'epigrammatically symbolized by Michael Maier'.
+- **the author of Lucerna Salis**, *Lucerna Salis, p. 39; from the Latin verse, Aurum Sapientum* — “the gold of the Wise to be by no means vulgar gold” `III.3 ¶32, III.3 n22` — Supports: the gold of the Wise as pure water; its dissolution and reunion into One inseparable Thing.
+- **Ripley** — “by Ripley called tetraptive” `III.3 ¶33` — Supports: his name for the consummating Conjunction.
+- **Pythagoras** — “that so highly commended fountain of Pythagoras, and Divine Tetractys” `III.3 ¶33` — Supports: the Conjunction identified with the Tetractys.
+- **Iamblichus**, *Life of Pythagoras, chap. 28* — “Whence all our Wisdom springs, and which contains Perennial nature’s fountain, cause, and root” `III.3 ¶34, III.3 n23` — Source of the verse praising the Tetractys.
+- **Enigma Philosophicum**, *Ashmole’s Theatrum, p. 423* — “There is no sun but which is twice begot” `III.3 ¶36, III.3 n24` — Supports: Nature and Art as parents; twofold yet indivisible work; fixed fixing the unfixed.
+- **Poemander and Book of Wisdom**, *Chap. 11, ver. 22* — “The whole world is before thee, O God! As a little grain of the balance” `III.3 ¶39, III.3 n26` — Illustrates: the whole world held before the divine vision, as before the one who has the Principle.
+- **unnamed Latin verse** — “Mundum mente gerens, similique in imagine formas” `III.3 ¶39, III.3 ¶40` — Illustrates: the world formed after a supernal exemplar held in mind; carries footnote (27).
+- **Paracelsus and Van Helmont** — “by separation of their parts the specific impress is to be perceived in the vessel containing the decomposed spirit” `III.3 n27` — Corroborates the appearance of the Universal Idea; Atwood qualifies it as only a secondary witness.
+- **Marcus**, *Defensio Idearum Operaticium* — “Quid quaesco dicerunt hi tanti philosophi, si plantam quasi momento nasci in vitreo case viderent” `III.3 n27` — Source of the words on the impress and on a plant born, dying and reborn in a glass vessel.
+- **Hesiod**, *Epic Cycle, The Weeks and the Days* — “First of all existed Chaos” `III.3 ¶41, III.3 ¶42, III.3 n28` — Supports: his theogony, compared with alchemical descriptions, is 'very regular and correct'; accepted by ancient philosophers.
+- **the Platonists** `III.3 ¶42` — Reported as saying the Epic Cycle includes the true philosophic secret of creation.
+- **the Mosaic (Scripture)** — “the Mosaic was the only revealed truth of all” `III.3 ¶42` — Contrast: some learned judged it the only revealed truth; Atwood would still reverence Scripture if all cosmogonies share one divine source.
+- **the Kabalistic Interpreter**, *Blackwell’s Mythology, letter 7* — “the Divine Will, then alone operating, says the Kabalistic Interpreter, produces itself into a material form and recreation” `III.3 ¶43, III.3 n29` — Supports: creation as the Divine Will producing itself into form from inane Identity.
+- **the Memphian prophet** `III.3 ¶44` — Illustrates: teacher of the hidden mysteries of creation to the young Aspirant, probably by inward evolution rather than words.
+- **Ovid**, *Fasti* — “he was inspired, as he declares, by that same universal deity of the two-faced Janus” `III.3 ¶44` — Illustrates: an 'initiated poet' inspired, as he declares, by the same universal deity of the two-faced Janus; the chunk ends here.
+
+## Ambiguities
+
+- “Behold I show you a mystery, says the Aristotle” `III.3 ¶27`
+  - Reading: The speaker is 'the Aristotle' as printed.
+  - Reading: 'the Aristotle' is a misprint for some other designation of the speaker.
+  - Basis: The article before a personal name is anomalous; n18 cites 'ibid., 15: 51, etc.' in chapter:verse form, like n26 'Chap. 11, ver. 22'.
+- “Fac ex mare et foemina circulum” `III.3 ¶31`
+  - Reading: Male and female are the Mercury/Spirit and Gold/Soul whose alternating activity and passivity yield an offspring.
+  - Reading: Male and female are not identified in this chunk beyond being the starting pair of the geometric procedure.
+  - Basis: III.3 ¶30 describes two 'parents' conceiving an offspring just before; III.3 ¶31 and ¶37–38 give no gloss.
+- “beyond all the four precedent degrees of perfection” `III.3 ¶32`
+  - Reading: The four figures of the geometric precept in III.3 ¶31 (circle, quadrangle, triangle, circle).
+  - Reading: Four elements or components, made one in the 'Ethereal Quadrangle' and the Tetractys.
+  - Basis: III.3 ¶31 lists four figures just before; III.3 ¶32 'Ethereal Quadrangle', III.3 ¶35 'Tetractys, fourfold', and III.3 ¶29 'conversion of the elements'.
+- “the philosopher’s Mercury is a system of wonders ponderous, fixed” `III.3 ¶32`
+  - Reading: Names the perfected product, distinct from the Mercury=Spirit agent of the first conjunction.
+  - Reading: The same Mercury throughout, first as agent, then in its perfected state.
+  - Basis: III.3 ¶30 identifies Mercury with Spirit acting on Gold; III.3 ¶32 describes 'the philosopher’s Mercury' as fixed and projectable, introduced by 'therefore' after the Fifth Essence.
+- “projected on the imperfect metal of any life” `III.3 ¶32`
+  - Reading: Literal metals.
+  - Reading: Any imperfect living being, 'metal' used figuratively.
+  - Basis: 'of any life' qualifies 'metal'; the surrounding context is spiritual (III.3 ¶28, ¶33 Microcosm) while projection is a metallic image.
+- “It must be two yet make it one and one, And you do take the way to make it none.” `III.3 ¶36`
+  - Reading: A warning: treating the twofold work as separable 'one and one' destroys it.
+  - Reading: An instruction: rightly joining the two resolves them into 'none', a neutral unity like the Fifth Essence 'neuter from all'.
+  - Basis: III.3 ¶36 'such a work As doth admit Division none at all ... Unless it be a mathematical', called 'the primary secret'; III.3 ¶32 'neuter from all, yet partaking of all'.
+- “by passing it inwards to the evolution of its proper mystery, thence to emanate and recreate” `III.3 ¶44`
+  - Reading: 'it' is the lesson/mystery of creation, passed into the aspirant to unfold there.
+  - Reading: 'it' is the understanding, turned inward to unfold its own mystery.
+  - Basis: III.3 ¶44: the preceding clause ends 'if none of these can truly reach the understanding'; the subject taught is 'the most hidden mysteries of God’s creation'.
+
+## Translations
+
+- `III.3 ¶26` “Non poterit illa dare qui non habet: habet autem nemo, nsis qui jam cohibitis elementis…” → He cannot give those things who does not have them; but no one has them, except one who, the elements being now restrained… (sentence truncated in the text; 'nsis' read as 'except') *(ours)*
+- `III.3 ¶31` “Fac ex mare et foemina circulum; inde quadrangulum; hinc triamgulum, fac circulum, et habebis lapidem philosophorum” → Make a circle of male and female; then a quadrangle; from this a triangle; make a circle, and you will have the stone of the philosophers. *(ours)*
+- `III.3 ¶38` “Feomina masque unus fiant tibi circulus, ex quo Surgat habens aequum forma quadrata latus. Hinc Trigonum ducas, omni qui parte rotundam In sphaeram redeat: Tum Lapis ortus erit. Si res tanta tuae non mox venit obvia menti. Dogma Geometrae si capis, Omne Scies” → Let woman and man become for you one circle, from which a square form with equal sides may arise. From this draw a triangle, which may return on every side into a round sphere: then the Stone will have arisen. If so great a thing does not soon come to your mind, if you grasp the Geometer's teaching, you will know all. *(ours)*
+- `III.3 ¶40` “Ducis ab exemplo pulchrum pulcherrimus ipse Mundum mente gerens, similique in imagine formas” → (Continuing 'Tu cuncta superno' at the end of III.3 ¶39:) You lead all things from the supernal exemplar, yourself most beautiful, bearing the beautiful world in mind and forming it in a like image. *(ours)*
+- `III.3 n27` “Quid quaesco dicerunt hi tanti philosophi, si plantam quasi momento nasci in vitreo case viderent, cum suis ad vivum coloribus, et rursum interire, et renasci, idque quoties, et quando luberet? Credo daemonum arte magica inclusum dicerent illudere sensibus humanis.” → What, I ask, would these great philosophers say if they saw a plant born as if in a moment in a glass vessel, with its colours true to life, and die again and be reborn, as often and whenever one pleased? I believe they would say that something enclosed by the magic art of demons was mocking the human senses. *(ours)*
+
+## Threads
+
+- `III.3 ¶25` 'And this is that great and miraculous mystery of our Image' refers back to preceding text not in this chunk.
+- `III.3 ¶29` 'as in the Beginning there was said to be one only matter of all things' points back to an earlier statement of the one matter.
+- `III.3 n18` 'ibid., 15: 51, etc.' refers to a work cited in a preceding footnote outside this chunk.
+- `III.3 ¶32` 'the four precedent degrees of perfection' assumes four degrees already set out; not enumerated here.
+- `III.3 ¶32` No footnote marker (22) appears in the text, though n22 (Lucerna Salis, p. 39) belongs to the Lucerna Salis passage.
+- `III.3 ¶44` The Memphian prophet and the young Aspirant are referred to as known figures; the chunk ends just after introducing Ovid's Fasti and the two-faced Janus, so the point is left open here.

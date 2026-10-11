@@ -1,0 +1,274 @@
+# III.4_01
+
+*Opens the chapter on the operator's mental requisites and impediments: through Geber's list of disqualifying defects, Atwood singles out avarice, glossed as clinging to selfhood, as the gravest, because in Alchemy, unlike ordinary arts, the operator's intention returns on him exactly through an agent springing from himself; hence the art's secrecy, oaths and holiness (Hermes, Norton).*
+
+## Argument
+
+- Epigraph: numberless false seekers of Alchemy are rejected, infected by desires; among thousands scarcely three are chosen. `III.4 ¶1` — QUOTED: Norton’s Ordinal
+- Recovering 'the Ancient Experiment of nature into her Causal Light' needs more than brief study or idle handling. All men have the material and live by it, yet very few are disposed for this research, distinct from all other philosophy; so impediments and endowments come before the Practice. `III.4 ¶2` — ATWOOD
+- Natural Impotency arises from the body (organ weak or corrupted) or the soul (without rectitude, or fantastical, leaping between opposites). Incomplete faculties bar completion, since the art is perfected through the members ministering to nature. `III.4 ¶3, III.4 n1` — QUOTED: Geber
+- Impediments of Mind: without sagacity scrutinizing natural principles the true Radix cannot be found. Also excluded: the stiff-necked; the fanciful, full of fumosities; the changeable; the beast-like; deniers, whom the science repels; money-lovers fearing 'to interposit the necessary charges'. `III.4 ¶3` — QUOTED: Geber
+- These obstacles have a real drift. Beginning with Avarice, 'this first and last defect': ignorant seekers working inert matter did little harm and deserve compassion for their lost labour. `III.4 ¶4` — ATWOOD
+- Far worse are depraved minds who entered by reason's right way, forsook it, climbed by the 'clue of life' into self-sufficiency and slew Truth's first fruits. Mammon led them (verse on Mammon's downward-bent looks). `III.4 ¶4, III.4 ¶5, III.4 n2` — ATWOOD
+- Having induced an exalted energy, they denied the Light its fulfilment, substituted their purpose for the Divine and compelled the Spirit to private ends. The subject soul must be filled by a superior power (reward of piety, near the Final Cause) or an inferior one (an evil spirit in place of the Divine, punishment of the impious). `III.4 ¶6` — ATWOOD
+- The prophet: discoverers of secrets (of angels, devils, sorcery, how silver and the metallic drop arise) are to be judged. Atwood identifies them with Geber's avaricious, glossing 'necessary charges' as abandoning selfhood and returning the product to a benevolent end. An Arabian Magician stole a boy to supply the material his wickedness barred him from. `III.4 ¶6, III.4 n3` — ATWOOD
+- No impure leaven enters Wisdom; wrong against the right of nature makes her forsake the polluted tabernacle. The Aquarium: pride or covetousness after receiving the gift makes the art vanish. Job is cited on accountability and trusting gold. `III.4 ¶7, III.4 n4, III.4 n5` — ATWOOD
+- So sinned Eve and Adam. Effects travel far from their source, so moral, physical and organic laws seem independent; like a tree they are one at the root, and a virus reaching it by any channel decays the whole. Vice may coexist with health; the best men may suffer organic defects. `III.4 ¶8, III.4 n6` — ATWOOD
+- In mechanical arts and ordinary thought the product images the Idea, not the motive: Holbein's covetousness does not show in his pictures. Motives stay occult, like the Trojan Horse's armament. `III.4 ¶8` — ATWOOD
+- In Alchemy nature is reversed and Final Causes manifest in the act: intention returns exactly in kind; subject, object and result agree; the end is fixed from the beginning. The agent springs from ourselves, images the Idea as the will directs, is fortified by concentration and multiplied in the Conjunction, exacting retribution on its wielder. Hence secrecy. `III.4 ¶9` — ATWOOD
+- Hermes: philosophers are called envious because they withhold truth not from the just but from fools and the vicious, lest these be empowered to sin; the philosophers are accountable to God for such. `III.4 ¶9, III.4 n7` — QUOTED: Hermes
+- Norton: holy Alkimy is a gift of grace, taught mouth to mouth under oath only to one long proved in truth, virtue and stable wit; kept secret lest an evil man overthrow peace and kings; peril rests on the teacher; turning foul copper to gold and silver is divine work. `III.4 ¶9, III.4 ¶10, III.4 n8` — QUOTED: Norton’s Ordinal
+
+## Method
+
+- **subject** — “because all men have the material and live by it” `III.4 ¶2` (ATWOOD)
+  - **Plain (stated):** The material of the work is something every person possesses and lives by; possessing it does not make one fit to handle it. This chunk does not identify it further.
+  - Basis: III.4 ¶2 states it directly; what the material is remains open (see ambiguities).
+- **result** — “recover the Ancient Experiment of nature into her Causal Light” `III.4 ¶2` (ATWOOD)
+  - **Plain (interpreted):** The aim of the Inquiry is to recover an ancient experiment upon nature that brings nature into the light of her causes. 'Causal Light' is not defined here.
+  - Basis: III.4 ¶2 names this as the object pursued; III.4 ¶9 says that in Alchemy 'Final Causes are of all things most manifestly revealed', supporting 'Causal Light' as revelation of causes.
+- **operator** — “Few, we fear, judging by our own observation, and very few according to the testimony of more experienced observers, are endowed with a disposition naturally adapted towards this peculiar research” `III.4 ¶2` (ATWOOD)
+  - **Plain (stated):** Success requires an innate aptitude that few possess; brief study or casual handling cannot substitute for it.
+  - Basis: III.4 ¶2.
+  - Also: “nor, et us be assured, will a few short years of study or idle handling of the matter, be sufficient to admit a man to the arcane of Hermetic science” `III.4 ¶2`
+  - Also: “Quod inter mille, millia, vix sunt tres electi” `III.4 ¶1`
+- **operator** — “because he is helped by those members, by mediation of which likewise, as ministering to nature, this art is perfected” `III.4 ¶3` (QUOTED: Geber)
+  - **Plain (stated):** The operator must be sound in body and soul, because the art is perfected through the operator's own members acting in service of nature; a weak or corrupted organ, or a soul without rectitude, blocks completion.
+  - Basis: III.4 ¶3 gives this as Geber's reason; Atwood takes his classes 'as a foundation'.
+  - Also: “Natural Impotency, he asserts, is manifold, and may proceed partly from the physical defects of the artist, and partly from his soul” `III.4 ¶3`
+  - Also: “for either the organ may be weak or wholly corrupted, or the soul in the organ having nothing of rectitude or reason in itself” `III.4 ¶3`
+- **operator** — “He that hath not a natural sagacity and soul, searching subtly, and scrutinizing natural principles, the Fundamentals of Nature, and Artifices which can follow Nature in the properties of her action, cannot find the true Radix of this most precious science.” `III.4 ¶3` (QUOTED: Geber)
+  - **Plain (stated):** The operator needs a naturally penetrating mind that investigates nature's principles and the techniques that imitate nature's action; without it the root of the science cannot be found.
+  - Basis: III.4 ¶3.
+  - Also: “As there be many who have a stiff neck, void of ingenuity and every sort of perscrutination.” `III.4 ¶3`
+  - Also: “others who cannot discern any truth at all to look after in natural things, no more than beasts” `III.4 ¶3`
+- **impediment** — “because there is replete with fumosities, it cannot receive the true intention of natural things” `III.4 ¶3` (QUOTED: Geber)
+  - **Plain (stated):** A mind that takes its own fancies for truth is clouded and cannot receive what natural things truly intend.
+  - Basis: III.4 ¶3.
+  - Also: “a soul easily opinionating every phantasy; but that which they believe to be truth is all imagination, deviating from reason” `III.4 ¶3`
+  - Also: “fantastical, unduly susceptive of the contrary of forms, and suddenly extensive from one thing knowable to its opposite, without discrimination” `III.4 ¶3`
+- **impediment** — “a soul movable from opinion to opinion, and from will to will” `III.4 ¶3` (QUOTED: Geber)
+  - **Plain (stated):** Inconstancy of belief and will disqualifies: such people leave even small undertakings defective.
+  - Basis: III.4 ¶3: 'And these, being so changeable, can ill accomplish the least of what they intend'.
+- **impediment** — “others again, who condemn this science and believe it not to be” `III.4 ¶3` (QUOTED: Geber)
+  - **Plain (stated):** Disbelief in the science excludes a person; the science itself repels such people.
+  - Basis: III.4 ¶3: 'this science contemns and repels from the accomplishment of this most pious work'.
+- **impediment** — “being afraid in their own persons to interposit the necessary charges, i.e., to abandon the life of selfhood, and return the product to a benevolent and truthful end” `III.4 ¶6` (ATWOOD)
+  - **Plain (stated):** The 'cost' that must be paid is personal: giving up self-centred life and devoting the result to good and truthful ends. Those unwilling do not attain the experience of the work even if they approve it and seek it rationally.
+  - Basis: Atwood glosses Geber's phrase with 'i.e.' in III.4 ¶6; in Geber's own wording (III.4 ¶3) the failure is 'through covetousness of money'.
+  - Also: “are afraid to interposit the necessary charges” `III.4 ¶3`
+  - Also: “Therefore, although they approve, and according to reason have sought the same, yet to the experience of the work they attain not, through covetousness of money.” `III.4 ¶3`
+- **impediment** — “who sought in ignorance, from inert matter, without a ray of light to guide their benighted hopes” `III.4 ¶4` (ATWOOD)
+  - **Plain (stated):** Greedy seekers who worked on inert matter without understanding found only loss; Atwood treats them as foolish but comparatively harmless.
+  - Basis: III.4 ¶4: they 'did but small harm comparatively' and 'found nothing but loss and disappointment'.
+- **impediment** — “having succeeded in inducing an exalted energy, have willfully denied the Light its true fulfillment, and substituting their own hasty purpose instead of the Divine, defiled it; compelling the Spirit to their private ends” `III.4 ¶6` (ATWOOD)
+  - **Plain (interpreted):** The gravest failure belongs to those who actually succeed in raising the power of the work but then turn it to selfish ends instead of its divine purpose, defiling it.
+  - Basis: III.4 ¶6, continuing III.4 ¶4 (minds that 'entered ... by the right way of reason' then forsook it). That 'exalted energy', 'the Light' and 'the Spirit' name the work's power is inferred from context and from 'the ministering Spirit' as agent in III.4 ¶9; the chunk does not define them.
+  - Also: “having entered, as Geber implies, by the right way of reason, forsook her guidance nevertheless, and basely entangling the clue of life, climbed by it into forbidden regions of self-sufficiency” `III.4 ¶4`
+  - Also: “who have turned the discovery of nature to an ill account” `III.4 ¶6`
+- **principle** — “it must either be filled with a superior or inferior power” `III.4 ¶6` (ATWOOD)
+  - **Plain (stated):** The soul cannot stay neutral: piety fills it with a higher, divine power; defiling the divine part of one's essence lets in an evil spirit instead.
+  - Basis: III.4 ¶6: the former is 'the reward of piety and proximate to the Final Cause', the latter 'the punishment of the impious'.
+  - Also: “the latter is the punishment of the impious who defile the divine part of their essence, insinuating an evil spirit in the place of the Divine” `III.4 ¶6`
+- **impediment** — “steal a little boy, to go with him to the mountain, in order to supply the material his own wickedness did not suffer him to approach” `III.4 ¶6` (ATWOOD)
+  - **Plain (interpreted):** Wickedness bars an operator from approaching the material himself, so he uses another (a stolen boy) to supply it.
+  - Basis: III.4 ¶6 gives the story 'Just to the point' of the selfish operators and says his wickedness kept him from the material; how the boy supplies it is open (see ambiguities).
+- **principle** — “No impure leaven (need we repeat it?) can enter into Wisdom” `III.4 ¶7` (ATWOOD)
+  - **Plain (stated):** Moral impurity excludes the operator from the work: any act against the right of nature makes Wisdom leave.
+  - Basis: III.4 ¶7.
+  - Also: “But if anything can be done against the right of nature, she forsakes the polluted tabernacle and is lost” `III.4 ¶7`
+- **impediment** — “this art will vanish from under thy hands, insomuch that thou shalt not know even that thou hadst it” `III.4 ¶7` (QUOTED: the pious author of the Aquarium)
+  - **Plain (stated):** Even after the art is attained as God's gift, pride or covetousness makes it vanish entirely, unnoticed.
+  - Basis: III.4 ¶7; Atwood endorses it ('Does any one ... ridicule such an assertion').
+- **principle** — “Let the virus but once reach this by either channel, the moral, the physical, or the organic vitally infringed, the whole structure sympathizing decays” `III.4 ¶8` (ATWOOD)
+  - **Plain (stated):** Moral, physical and organic laws look independent on the surface but are one at the root; an infringement reaching the root through any of them corrupts the whole.
+  - Basis: III.4 ¶8, with the tree image.
+  - Also: “for in their root are they not also one?” `III.4 ¶8`
+- **principle** — “But in Alchemy, where the nature of things is altogether altered and ultimately reversed, Final Causes are of all things most manifestly revealed” `III.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Alchemy alters and finally reverses the ordinary state of things, so that ends and purposes become visible in the operation itself, not only in its effects. The reversal is not explained further here.
+  - Basis: III.4 ¶9.
+  - Also: “and that in their immediate act and operation no less than in the effect” `III.4 ¶9`
+- **principle** — “the intention is received back according to its kind most exactly” `III.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Unlike ordinary arts, whose products show the Idea but not the maker's motive, in Alchemy the operator's intention shapes the result and returns on him exactly.
+  - Basis: III.4 ¶9 contrasted with III.4 ¶8 (Holbein).
+  - Also: “the thing resulting may be the same, and remain to image, not the motive instigatory, but the Idea” `III.4 ¶8`
+  - Also: “Here is no gathering of grapes from thorns, or figs from thistles” `III.4 ¶9`
+- **principle** — “where the subject, object, and result, through every phase of life agree together, where the end is determinate from the beginning” `III.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Throughout the work, subject, object and outcome correspond; the end is fixed at the start, and the start is revealed by the end.
+  - Basis: III.4 ¶9.
+  - Also: “as the beginning is by the end made manifest, without intervention or concealment in the ministering Spirit throughout” `III.4 ¶9`
+- **agent** — “Springing directly from ourselves, this highly effective agent, even in the natural state, inclines, as the will directs, to image the conceived Idea” `III.4 ¶9` (ATWOOD)
+  - **Plain (interpreted):** The active power of the work arises from the operator himself and, even unstrengthened, tends to give form to whatever idea the will conceives. It is probably the 'ministering Spirit' named just before.
+  - Basis: III.4 ¶9 states the agent springs from ourselves and images the Idea as the will directs; that 'this ... agent' refers to 'the ministering Spirit' is inferred from its directly following that phrase.
+- **stage** — “how much more, when promoted through a second to a third of concentration, does it become fortified; and further multiplying in the Conjunction” `III.4 ¶9` (ATWOOD)
+  - **Plain (interpreted):** The agent is strengthened through successive degrees of concentration and multiplied further in the Conjunction; as it grows, so does the accountability it imposes on the operator. The chunk does not describe these stages.
+  - Basis: III.4 ¶9: growth in power is tied to 'the inherent accountability' imposed 'on him who wields it'. Reading the degrees and the Conjunction as stages is inferred; see ambiguities.
+  - Also: “impose in sure consequences on him who wields it the inherent accountability” `III.4 ¶9`
+- **principle** — “hence so much caution and secrecy, that the Power might only be discovered through the long labour of an experienced and upright mind” `III.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Because the work exacts exact retribution, it was kept secret so that only experienced, upright people, after long work, would reach the Power.
+  - Basis: III.4 ¶9.
+  - Also: “An eye for an eye, a tooth for a tooth; so does the Law of Justice exact retribution in those spheres” `III.4 ¶9`
+- **impediment** — “lest, deviating, they should either break or become broken necessitiously upon the Wheel of Life” `III.4 ¶9` (ATWOOD)
+  - **Plain (interpreted):** The unprepared who stray in the work risk ruining it or being ruined by it. 'Wheel of Life' is not explained here.
+  - Basis: III.4 ¶9: given as the reason for 'continued warning off the profane'.
+- **principle** — “For this reason are the philosophers said to be envious, declares Hermes, not that they grudged the truth to religious or just men, but to fools, ignorant and vicious” `III.4 ¶9` (QUOTED: Hermes)
+  - **Plain (stated):** The philosophers' secrecy ('envy') is protective: it keeps power from the vicious, for whom the philosophers would answer to God.
+  - Basis: III.4 ¶9.
+  - Also: “lest they should be made powerful and able to perpetuate sinful things, for of such the philosophers are made accountable to God” `III.4 ¶9`
+  - Also: “If one evil man had hereof all his will, All Christian peace he might easily spill;” `III.4 ¶10`
+- **operator** — “But he were proved perfectly with space, Whether he were able to receive this grace. For his trewth, virtue and for his stable wit,” `III.4 ¶10` (QUOTED: Norton’s Ordinal)
+  - **Plain (interpreted):** A student must be thoroughly tested over time for truthfulness, virtue and steadiness of mind before being taught.
+  - Basis: III.4 ¶10; 'with space' as 'over time' rests on our translation (see translations).
+  - Also: “No man therefore may reach this great present, But he hath virtues excellent.” `III.4 ¶10`
+- **procedure** — “That it must needs be taught fro’ mouth to mouth;” `III.4 ¶10` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** Transmission is oral, under a sacred oath to refuse dignity and fame as the teachers do; the teacher bears the peril if it is misused.
+  - Basis: III.4 ¶10.
+  - Also: “Receive it with a most sacred oath,” `III.4 ¶10`
+  - Also: “That, as we refuse great dignity and fame, Soe he must needly refuse the same.” `III.4 ¶10`
+  - Also: “Upon the teacher resteth dreadfully” `III.4 ¶10`
+- **principle** — “And forasmuch as no man may her find But only by grace, she is holy in her kind.” `III.4 ¶10` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** The science is attained only by divine grace, which is why it is called holy; grace is also needed for undoing God's conjunctions.
+  - Basis: III.4 ¶10.
+  - Also: “A singular grace and gift of the Almightye” `III.4 ¶10`
+  - Also: “For God’s conjunctions man my not undoe, But if His grace fully consent thereto,” `III.4 ¶10`
+- **result** — “Also it is a work and cure divine, Foul copper to make gold and silver fine;” `III.4 ¶10` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** Norton names the result as turning base copper into gold and silver, a divine work; the chunk does not say whether this is literal or figurative.
+  - Basis: III.4 ¶10.
+  - Also: “Is the tincture of holi Alkimy;” `III.4 ¶10`
+
+## Terms
+
+- **Hermetic science** — The art under discussion; distinct from every other branch of philosophy and requiring a naturally fitted disposition. (ATWOOD)
+  - “for that it is peculiar and distinct from every other branch of philosophy” `III.4 ¶2`
+- **Alchemy** (also: Alchimiam, Alkimy, holi Alkimy, Holy Alkimy) — The art in which the nature of things is altered and reversed and Final Causes are manifest; Norton calls it holy because found only by grace. (ATWOOD)
+  - “But in Alchemy, where the nature of things is altogether altered and ultimately reversed” `III.4 ¶9`
+  - “Wherefore old Fathers, conveniently, Called this science Holy Alkimy” `III.4 ¶10`
+- **the material** (also: the matter) — What the work is done on; all men have it and live by it, but few can handle it. Not identified further here. (ATWOOD)
+  - “because all men have the material and live by it” `III.4 ¶2`
+- **Ancient Experiment** — The experiment of nature the Inquiry seeks to recover 'into her Causal Light'; not defined further. (ATWOOD)
+  - “recover the Ancient Experiment of nature into her Causal Light” `III.4 ¶2`
+- **Causal Light** — That into which the Ancient Experiment of nature is to be recovered; not defined in this chunk. (ATWOOD)
+  - “the Ancient Experiment of nature into her Causal Light” `III.4 ¶2`
+- **Practice** — The practical routine of the work, to be entered on after the impediments and endowments are set out. (ATWOOD)
+  - “before we enter on the routine of Practice” `III.4 ¶2`
+- **Natural Impotency** — Geber's term for natural incapacity for the work, arising from bodily defects or defects of soul. (QUOTED: Geber)
+  - “Natural Impotency, he asserts, is manifold” `III.4 ¶3`
+- **Impediments of Mind** — Geber's list of mental defects excluding a person: lack of sagacity, dullness, fantasy, changeability, beast-like blindness, disbelief, love of money. (QUOTED: Geber)
+  - “respecting the Impediments of Mind, the Arabian continues” `III.4 ¶3`
+- **Radix** — The true root of the science, found only by a subtly searching mind. (QUOTED: Geber)
+  - “cannot find the true Radix of this most precious science” `III.4 ¶3`
+- **fumosities** — What fills a fanciful soul so that it cannot receive the true intention of natural things. (QUOTED: Geber)
+  - “because there is replete with fumosities, it cannot receive the true intention of natural things” `III.4 ¶3`
+- **perscrutination** — Thorough searching investigation; its absence marks the stiff-necked. (QUOTED: Geber)
+  - “void of ingenuity and every sort of perscrutination” `III.4 ¶3`
+- **necessary charges** — What the avaricious fear to 'interposit'. In Geber's wording the failure is covetousness of money; Atwood glosses the charges as abandoning the life of selfhood and returning the product to a benevolent and truthful end. (ATWOOD)
+  - “but are afraid to interposit the necessary charges” `III.4 ¶3`
+  - “i.e., to abandon the life of selfhood, and return the product to a benevolent and truthful end” `III.4 ¶6`
+- **Avarice** — 'The first and last defect'; leads either to fruitless searching in inert matter or, in Mammon's followers, to abuse of the attained power. (ATWOOD)
+  - “this first and last defect of Avarice” `III.4 ¶4`
+- **Mammon** (also: mammon) — The downward-looking spirit that led the depraved abusers of the work. (ATWOOD)
+  - “Mammon led them on; mammon that least erected sprit that fell” `III.4 ¶4`
+- **selfhood** — Self-centred life, which must be abandoned as the 'necessary charges'. (ATWOOD)
+  - “to abandon the life of selfhood” `III.4 ¶6`
+- **self-sufficiency** — The 'forbidden regions' into which depraved minds climbed by the clue of life. (ATWOOD)
+  - “climbed by it into forbidden regions of self-sufficiency” `III.4 ¶4`
+- **clue of life** — Something the depraved 'entangled' and climbed by into self-sufficiency; not explained here. (ATWOOD)
+  - “basely entangling the clue of life” `III.4 ¶4`
+- **exalted energy** — What the abusers succeeded in inducing before denying the Light its fulfilment; not defined further. (ATWOOD)
+  - “having succeeded in inducing an exalted energy” `III.4 ¶6`
+- **the Light** — Something with a 'true fulfillment' that the selfish deny and defile. (ATWOOD)
+  - “have willfully denied the Light its true fulfillment” `III.4 ¶6`
+- **subject soul** — The soul that suffers when pressed by evil; it must be filled by a superior or an inferior power. Sense of 'subject' is open (see ambiguities). (ATWOOD)
+  - “And what will not the subject soul suffer when pressed by so execrable an evil?” `III.4 ¶6`
+- **ministering Spirit** — That which acts 'without intervention or concealment' throughout the work (III.4 ¶9); the 'highly effective agent' springing from ourselves, which follows directly, probably refers to it (inferred). Whether 'the Spirit' compelled to private ends (III.4 ¶6) is the same is not stated. (ATWOOD)
+  - “without intervention or concealment in the ministering Spirit throughout” `III.4 ¶9`
+  - “compelling the Spirit to their private ends” `III.4 ¶6`
+- **Final Cause** (also: Final Causes, final causes) — Ends or purposes; hidden in ordinary life, manifest in Alchemy in act as in effect; the superior power filling the soul is proximate to the Final Cause. (ATWOOD)
+  - “Final Causes are of all things most manifestly revealed” `III.4 ¶9`
+  - “proximate to the Final Cause” `III.4 ¶6`
+- **Wisdom** — Personified ('she'); admits no impure leaven and forsakes the polluted tabernacle if anything is done against the right of nature; withheld from evil men. (ATWOOD)
+  - “No impure leaven (need we repeat it?) can enter into Wisdom” `III.4 ¶7`
+- **Laws of Nature** (also: natural laws, natural Law) — The moral, physical and organic laws, apparently independent at the circumference of nature but one at the root. (ATWOOD)
+  - “the moral, the physical, and the organic are well reasoned, as in their constitutional consequences, apart from each other” `III.4 ¶8`
+- **circumference** — Nature's outer level, where things appear varied and nothing homogeneous is seen, as opposed to the root. (ATWOOD)
+  - “For nature at the circumference subsists in this way” `III.4 ¶8`
+- **Idea** — The pattern a work images; in ordinary arts the product shows the Idea, not the motive; in Alchemy the agent images the conceived Idea as the will directs. (ATWOOD)
+  - “remain to image, not the motive instigatory, but the Idea” `III.4 ¶8`
+  - “to image the conceived Idea” `III.4 ¶9`
+- **concentration** — Degrees ('a second to a third') through which the agent is promoted and fortified; not explained further. (ATWOOD)
+  - “when promoted through a second to a third of concentration” `III.4 ¶9`
+- **Conjunction** (also: conjunctions) — That in which the agent further multiplies (Atwood); Norton separately speaks of 'God's conjunctions' which man may not undo without grace. (ATWOOD)
+  - “further multiplying in the Conjunction” `III.4 ¶9`
+  - “For God’s conjunctions man my not undoe” `III.4 ¶10`
+- **Law of Justice** — The law exacting exact retribution ('eye for an eye') in the spheres of the work. (ATWOOD)
+  - “so does the Law of Justice exact retribution in those spheres” `III.4 ¶9`
+- **the Power** — What secrecy ensured could be discovered only through long labour of an experienced, upright mind. (ATWOOD)
+  - “that the Power might only be discovered through the long labour of an experienced and upright mind” `III.4 ¶9`
+- **Wheel of Life** — That upon which deviating profane persons may break or be broken; not explained. (ATWOOD)
+  - “become broken necessitiously upon the Wheel of Life” `III.4 ¶9`
+- **envious (of the philosophers)** — The philosophers' withholding of truth from fools and the vicious, not from the just. (QUOTED: Hermes)
+  - “For this reason are the philosophers said to be envious” `III.4 ¶9`
+- **Subject** — Capitalized for that with which one may be 'really conversant' in the work; not defined here. (ATWOOD)
+  - “really conversant with the Subject” `III.4 ¶7`
+- **tincture** — 'The tincture of holi Alkimy', called marvellous; not defined further. (QUOTED: Norton’s Ordinal)
+  - “Is the tincture of holi Alkimy;” `III.4 ¶10`
+- **grace** — Divine gift by which alone the science is found; the student must be proved able to receive it; needed to undo God's conjunctions. (QUOTED: Norton’s Ordinal)
+  - “A singular grace and gift of the Almightye;” `III.4 ¶10`
+  - “But only by grace, she is holy in her kind.” `III.4 ¶10`
+
+## Sources cited
+
+- **Norton**, *Norton’s Ordinal (Proheme; chap. 1)* — “Wherefore old Fathers, conveniently, Called this science Holy Alkimy” `III.4 ¶1, III.4 ¶9, III.4 ¶10, III.4 n8` — Supports: epigraph on the few chosen; closing verse on Alchemy as a holy gift of grace, taught orally under oath only to the proven and virtuous, kept secret because of the danger of evil men.
+- **Ashmole**, *Theatrum* `III.4 n8` — Reference only (where Norton's Ordinal, chap. 1, is cited).
+- **Geber**, *Sum of Perfection (Summa Perfect., lub. 1,cap.3)* — “Natural Impotency, he asserts, is manifold” `III.4 ¶3, III.4 ¶4, III.4 ¶6, III.4 n1` — Supports: foundation list of bodily and mental impediments; his 'necessary charges' is reinterpreted by Atwood as abandonment of selfhood.
+- **Paradise Lost (author not named)**, *Paradise Lost, Bok 1* — “for e’en in heaven his looks and thoughts Were always downward bent” `III.4 ¶4, III.4 ¶5, III.4 n2` — Illustrates Mammon as the downward-looking spirit leading the depraved operators.
+- **the prophet**, *Book of Enoch, cap. 64, sect. 2* — “They have discovered secrets, and these are they who are to be judged” `III.4 ¶6, III.4 n3` — Supports: those who discover secrets and turn them to ill account are judged; Atwood identifies them with Geber's avaricious.
+- **story of an Arabian Magician** — “the story of an Arabian Magician, who must needs steal a little boy” `III.4 ¶6` — Illustrates that wickedness bars approach to the material.
+- **the pious author of the Aquarium**, *Aquarium Sapientum, Appendix* — “this art will vanish from under thy hands” `III.4 ¶7, III.4 n4` — Supports: pride or covetousness after possession makes the art vanish; endorsed by Atwood.
+- **Job**, *Job 31: 3-24; Idem, 33* — “If I have made gold my hope, or have said to the fine gold, Thou art my confidence” `III.4 ¶7, III.4 ¶8, III.4 n5, III.4 n6` — Supports accountability of moral evil and condemnation of trusting gold; n6 accompanies Adam hiding his iniquity in his bosom.
+- **Holbein** — “The pictures, of Holbein are not less beautiful for all the covetous spirit that reigned with their conception” `III.4 ¶8` — Contrasts: in ordinary arts the maker's moral state does not appear in the product, unlike Alchemy.
+- **Hermes**, *Tact. Aur., cap. 1* — “For this reason are the philosophers said to be envious, declares Hermes” `III.4 ¶9, III.4 n7` — Supports: the philosophers' secrecy withholds truth from the vicious, for whom they are accountable to God.
+- **more experienced observers** `III.4 ¶2` — Supports: their testimony that very few are naturally disposed to the research.
+
+## Ambiguities
+
+- “because all men have the material and live by it” `III.4 ¶2`
+  - Reading: The material is something within human life itself, what people live by.
+  - Reading: The material is simply something universally available.
+  - Basis: First: 'live by it' (III.4 ¶2) and the agent 'Springing directly from ourselves' (III.4 ¶9). Second: the sentence alone says only that all have it. The chunk does not decide.
+- “And what will not the subject soul suffer when pressed by so execrable an evil?” `III.4 ¶6`
+  - Reading: The soul made subject to (oppressed by) the abuser's evil.
+  - Reading: The soul as the subject of the work, defiled by misuse.
+  - Basis: First: 'pressed by so execrable an evil'. Second: same paragraph on compelling 'the Spirit' and defiling 'the divine part of their essence'; III.4 ¶9 'the subject, object, and result'.
+- “steal a little boy, to go with him to the mountain, in order to supply the material his own wickedness did not suffer him to approach” `III.4 ¶6`
+  - Reading: The boy fetches or approaches the material on the magician's behalf.
+  - Reading: The boy himself is the source of the material, which the magician could not provide from his own nature.
+  - Basis: Grammar of 'supply the material' allows either; III.4 ¶2 'all men have the material and live by it' may favour the second, but the chunk does not decide.
+- “she forsakes the polluted tabernacle and is lost” `III.4 ¶7`
+  - Reading: The tabernacle is the operator's own person, defiled by his wrongdoing.
+  - Reading: The tabernacle is the vessel or material of the work in which Wisdom resides.
+  - Basis: First: III.4 ¶6 on defiling 'the divine part of their essence'. Second: III.4 ¶7 'man’s finite hand' and 'the right of nature'. The chunk does not identify it.
+- “when promoted through a second to a third of concentration” `III.4 ¶9`
+  - Reading: Successive degrees of intensification of the agent.
+  - Reading: Successive passages of the agent through a second and a third subject or operation.
+  - Basis: Only this sentence; 'fortified' and 'further multiplying' indicate increase, but the chunk gives no detail.
+- “that the Power might only be discovered through the long labour of an experienced and upright mind” `III.4 ¶9`
+  - Reading: 'The Power' is the agent (ministering Spirit) just described.
+  - Reading: 'The Power' is the art or science as a whole.
+  - Basis: First: placement directly after the agent multiplying in the Conjunction (III.4 ¶9). Second: the following lines on teaching the science (III.4 ¶9–¶10).
+
+## Translations
+
+- `III.4 ¶1` “Querunt Alchimiam falsi quoque recti, Falsi sine numero, sed hi sunt rejceti; Et cupiditatibus, heu! Tot sunt infecti, Quod inter mille, millia, vix sunt tres electi Istam ad scientiam.” → Both the false and the upright seek Alchemy; the false without number, but these are rejected; and, alas, so many are infected with desires that among thousands upon thousands scarcely three are chosen for this science. *(ours)*
+- `III.4 ¶9` “Mais tryeful, merveylous, and Archimastyre” → Most choice (?), marvellous, and masterly (?) [is the tincture of holy Alchemy]; 'tryeful' and 'Archimastyre' uncertain. *(ours)*
+- `III.4 ¶10` “But he were proved perfectly with space, Whether he were able to receive this grace. For his trewth, virtue and for his stable wit,” → Unless he had been thoroughly tested over time as to whether he was able to receive this grace, for his truth, virtue and steady mind. *(ours)*
+- `III.4 ¶10` “For it is so wonderful, and so selcouth, That it must needs be taught fro’ mouth to mouth;” → For it is so wonderful and so strange that it must be taught by word of mouth. *(ours)*
+- `III.4 ¶10` “Soe tho’ men weene possessors not to aide To hallow this science, as before is saide, Neither seem not blessed effectually, Yet, in her order, this science is holy.” → So although men think its possessors do not help to sanctify this science, as said before, and do not seem truly blessed, yet in its own order this science is holy. *(ours)*
+- `III.4 ¶10` “For God’s conjunctions man my not undoe, But if His grace fully consent thereto,” → For man may not undo God's conjunctions unless His grace fully consents to it. *(ours)*
+
+## Threads
+
+- `III.4 ¶2` 'that it is peculiar and distinct from every other branch of philosophy, may, without a more lengthening demonstration, have become apparent' — points back to earlier chapters as having shown this.
+- `III.4 ¶2` 'before we enter on the routine of Practice' — points forward to a later account of the Practice.
+- `III.4 ¶4` 'we pray the reader to consider their application more closely' — Atwood will particularize Geber's impediments, beginning with avarice; the other classes may follow in later chunks.
+- `III.4 ¶7` '(need we repeat it?)' — that no impure leaven can enter Wisdom was stated earlier in the book.

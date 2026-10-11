@@ -1,0 +1,261 @@
+# III.1_06
+
+*Atwood closes her treatment of the rebellious Principle and its 'identical representative' with the image of stripping the Orient Animal, inserts the verse 'Hunting of the Greene Lyon' as a veiled account of the whole practice (Lion, Sun and Moon, blackness, imbibition, ferment, multiplication), then reads the outcome as the New Life whose virtue is the Corner Stone, decoding Cadmus as the Rational Ferment and his associates as the mind's other faculties drawn into the Opposive Principle.*
+
+## Argument
+
+- Innumerable similitudes fit the rebellious Principle and the 'identical representative' of him the Divine Art requires, so his stolen forces are drawn forth and spent in the bloody conflict he provokes; Egyptian relics show him in human semblance with emblems of grace and power, seated between foes. `III.1 ¶64` — ATWOOD
+- As Adepts say, the Orient Animal is stripped of his skin with the Hand, not arrows or clubs; the garment of Light is dissected and shorn, the signal of victory transferred. Maier's Latin adds (our rendering) that, stripped of its lion's skin, it enters the great salt sea and emerges with beauty. `III.1 ¶64, III.1 n72` — ATWOOD
+- She gives 'by way of recreation' a Philalethean Lion Hunt from Malden 'in part', and the Cosmopolite Eirenaeus. `III.1 ¶64` — ATWOOD
+- Sworn by his dying master to cloud his words, the narrator writes so that seekers must first know how to rule their fire, as swords are kept from madmen. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- The Lion is called green for unripeness, not colour, and is not common quicksilver. Shut in one tower with the Sun, it devours and eclipses him, turning red to white by its crudity, yet by its heat perfects him beyond Nature. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- As Priest the Lion weds Sun to his sister Moon, both born in the Lion's Bed; they beget a King whose only food is the Lion's Blood, said to be the King's Father and Mother. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- Practice: feed the Lion with Sol and Luna in easy heat till they kiss and form an egg-yolk skin; draw off the Lion's Blood to feed the risen King. After long vigil he shows black; gentle fire separates black, light 'vile Erth' from a white magnet; raise fire a degree till dry, remove excrements, bed the young Child, then give drink. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- Imbibition, hidden by old philosophers who described only creating Magnesia, is 'the whole subtill warke': feed Lion's sweat, grind, seal, dry, repeat, between overmoist and overdry; six imbibitions eight days apart, a seventh rest; at the ninth seal six weeks till black turns white. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- Proceed to red, not fermenting at white. The ferment must be of the work's beginning: Luna or Sol worked alone with the Lion's blood; white King fed Luna, red the Sun; one fourth part, joined warm, circled through black, white, red till fire-proof. Continual fermentation multiplies; the lay should desist. `III.1 ¶65` — QUOTED: The Hunting of the Greene Lyon
+- Original Sin overcome by subtle stratagems, the New Life arises, whose quintessential virtue is the Corner Stone or first Material foundation of the Art, known only to the Wise who have it in themselves; the frivolous cannot receive it. `III.1 ¶66` — ATWOOD
+- Cadmus (with Jason, Orpheus, Aeneas) represents the Rational Ferment; his associates are the mind's other faculties, drawn into the vortex of the Opposive Principle, which, revelling, becomes satiated and more easily ensnared, as Saturn was bound drunk by his son on the goddess's advice (per Orpheus). `III.1 ¶66` — ATWOOD
+
+## Method
+
+- **subject** — “that identical representative of him which the Divine Art requires, in order that his stolen forces may be drawn forth and spent in the sanquinary conflict which he provokes in life” `III.1 ¶64` (ATWOOD)
+  - **Plain (interpreted):** The Art works on a counterpart of the rebellious Principle, through which the forces the Principle has seized are drawn out and exhausted in the conflict it provokes. This chunk does not say concretely what the representative is.
+  - Basis: III.1 ¶64 states the requirement and purpose ('drawn forth and spent'); III.1 ¶66 describes the Opposive Principle becoming 'satiated and more easily ensnared' and Original Sin 'overcome by so many subtle stratagems', consistent with spending its forces.
+- **procedure** — “For the Orient Animal must be stripped of his skin, not with arrows or clubs, but with the Hand, as Adepts say” `III.1 ¶64` (QUOTED: Adepts)
+  - **Plain (interpreted):** The Orient Animal's covering (restated as its 'garment of Light') is removed not by violent means but by 'the Hand'; the Latin adds that, stripped of its lion's skin, it enters the great salt sea and comes out again with beauty. This chunk does not explain the Animal, the skin or the Hand.
+  - Basis: III.1 ¶64 contrasts 'arrows or clubs' with 'the Hand' and restates the stripping as 'the whole garment of Light must be dissected, shorn'; the Latin in III.1 ¶64 (source n72) names 'pelle sua leonine' and emergence 'cum pulchritidine' (rendering ours).
+  - Also: “the whole garment of Light must be dissected, shorn, and the signal of victory be heroically transferred” `III.1 ¶64`
+  - Also: “Animal de Oriente pelle sua leonine spoliari debet” `III.1 ¶64`
+- **operator** — “That they which do this Art desire, Should first know well to rule their Fyre:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** The precondition for the seeker is mastery of the fire; the teaching is deliberately clouded so only such can use it, since the art is dangerous in unfit hands.
+  - Basis: III.1 ¶65: the narrator swore to 'Spread a Cloude Over my words' for this purpose, justified by 'Swords to keep fro mad Mens hand'.
+  - Also: “Swords to keep fro mad Mens hand:” `III.1 ¶65`
+  - Also: “Whose noble practice doth them teach To veil their art with misty speech;” `III.1 ¶65`
+- **agent** — “But our Lyon wanting maturity, Is called greene for unripenes trust me,” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** 'Green' in 'Green Lion' means unripe, immature, not the colour green.
+  - Basis: III.1 ¶65 states the meaning directly and denies the colour is literal.
+  - Also: “For no man lives that each hath seens Upon foure feete a Lyon colloured Greene:” `III.1 ¶65`
+- **impediment** — “For they weene that our Lyon ys Common Quicksilver, but truly they miss:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** The Lion is not ordinary mercury; those who work with common quicksilver fail and waste their means, because it readily flies off.
+  - Basis: III.1 ¶65: such a worker 'shall fayle' 'Because he doth soe readely flie'.
+  - Also: “Therefore leave off ere thou begin, Till thow know better what we meane;” `III.1 ¶65`
+- **agent** — “And suddainely can hym devoure, If they be both shut in one towre: And hym Eclipse that was so bryght, And make thys redde to turne to whyte:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** Enclosed together, the swift, unripe Lion overcomes and darkens the Sun, turning red to white by its crudity; yet its heat then raises the Sun to a perfection beyond what Nature gave. This chunk does not say what Lion or Sun are in plain terms.
+  - Basis: III.1 ¶65: 'By vertue of hys crudytie', then 'He bringeth hym to more perfection, Than ever he had by Natures direccion'.
+  - Also: “And yet full quickly he can run, And soone can overtake the Sun:” `III.1 ¶65`
+  - Also: “That whan he hath the Sun up eate, He bringeth hym to more perfection, Than ever he had by Natures direccion.” `III.1 ¶65`
+- **agent** — “The Lyon ys the Preist, and the Sun and Moone the wedd, Yet they were both borene in the Lyons Bedd;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** The Lion is the uniting agent that joins Sun and Moon, who themselves originate from the Lion; from their union a King is produced; the three accomplish one act.
+  - Basis: III.1 ¶65: 'This Lyon maketh the Sun ... To be joined to hys Sister the Moone', 'Thys Lyon should cause hem to begett a King', 'All these three one deede have done'.
+  - Also: “A wonder a Lyon, and Sun and Moone, All these three one deede have done:” `III.1 ¶65`
+- **agent** — “And tis as strange that thys Kings food, Can be nothing but thys Lyons Blood;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** The King is nourished only by the Lion's Blood, given to him after he has 'risen from the dead'. Whether the next couplet makes the Blood or the Lion the King's 'Father and Mother' is ambiguous (see ambiguities).
+  - Basis: III.1 ¶65 asserts it directly and repeats it in the practice: 'And therewith must be the King fedd, When he ys risen from the dead'.
+  - Also: “And therewith must be the King fedd, When he ys risen from the dead:” `III.1 ¶65`
+- **procedure** — “Whan thow hast they Lyon with Sol and Luna well fedd, And layd them clenly in their Bedd; An easie heate they may not misse, Till each the other well can kisse;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** First step: combine the Lion with Sol and Luna, enclose them cleanly, and keep them in gentle heat until they unite.
+  - Basis: III.1 ¶65 sequence of instructions; 'kisse' read as union from the poem's wedding imagery ('To be joined to hys Sister the Moone').
+- **sign** — “And that they shroude them in a skin, Such as an Egg yelke lyeth in:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Sign that the first union is complete: the mixture forms a skin like the membrane around an egg yolk; then the Lion's Blood is drawn off from it.
+  - Basis: III.1 ¶65: after the skin forms, 'Than mus thow draw from thence away, A right good secret ... For yt ys the Lyons Blood'.
+  - Also: “Than mus thow draw from thence away, A right good secret withouten any nay: Wych must serve to doe thee good’ For yt ys the Lyons Blood:” `III.1 ¶65`
+- **sign** — “And many a sleepe thow must lack, Or thow hym see of Collour black.” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** Blackness appears only after a long time and much vigilance; it is paired with the King's 'death'.
+  - Basis: III.1 ¶65: the parallel preceding couplet 'But longe tyme it wilbe, Or ere his death appear to thee'; the pairing of death and black rests on this parallel, not an explicit statement.
+  - Also: “But longe tyme it wilbe, Or ere his death appear to thee;” `III.1 ¶65`
+- **procedure** — “Take heede yow move hym not with yre, But keepe hym in an easy fyre;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Through the black stage keep the heat gentle, not violent; only after the white separation raise it by one degree, until the matter is very dry.
+  - Basis: III.1 ¶65: 'easy fyre' until separation, then 'Your fire one degree increasing'.
+  - Also: “Your fire one degree increasing; Untill yow well may se thereby, Your matter to grow very dry:” `III.1 ¶65`
+- **sign** — “Untill you see hym separate, From hys vile Erth vituperate; Wych wilbe black and light withall, Much like the substance of a fusball: Your magnet in the midst wilbe, Of Collour faire and white trust me;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Sign of progress: the matter divides into a black, light, worthless earth and a white central part called the 'magnet'.
+  - Basis: III.1 ¶65 describes both parts directly.
+- **procedure** — “The excrements be tane away; Prepare a Bed most bryght and shine For to lodge this young Chylde in:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** Once dry, remove the residue ('excrements') and set the purified 'young Chylde' in a clean, bright vessel to dry fully before giving it 'drink'.
+  - Basis: III.1 ¶65 sequence: 'Till he be thoughly dry; Than ys tyme ... After such drouth to give him drinke'. Reading 'Bed' as vessel is inferred from the later 'Glasse' and 'vessell' in the same instructions.
+- **principle** — “For Philosophers of tyme old, The secret of Imbibition never out tould; To create Magnesia they made no care, In their Bookes largely to declare;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (interpreted):** Imbibition, giving the dried matter 'drink', is the concealed key and 'the whole subtill warke'; the old writers described creating Magnesia but not how to handle it afterwards, so imitators found nothing at projection and gave up.
+  - Basis: Imbibition as giving 'drink' is inferred: III.1 ¶65: 'After such drouth to give him drinke' leads directly to 'The secret of Imbibition'; the later steps join drink and imbibition ('another Imbibition: But evermore looke that you dry Up all hys drinke'); 'how to order it after hys creacion, The left poore men without consolacion'.
+  - Also: “Thus do olde Fathers hide it from a Clearke, Because in it consisteth the whole subtill warke;” `III.1 ¶65`
+  - Also: “Soe many men thought they had had perfeccion, But they found nothing in their Projeccion:” `III.1 ¶65`
+- **procedure** — “Whan your pure matter in the glasse is fitt, Before that you your vessell shitt; A portion of your Lyons sweate Must be given it for to eate:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** How to imbibe: add a portion of 'Lion's sweat' to the pure matter, grind them thoroughly together, seal the glass, dry it in the furnace, then repeat; each dose must be fully dried up before the next. This chunk does not say what 'Lyons sweate' is.
+  - Basis: III.1 ¶65: 'grounded so well together', 'seale up your Glasse', 'set them there to dry', 'For another Imbibition', 'dry Up all hys drinke, that none lye by'.
+  - Also: “But evermore looke that you dry Up all hys drinke, that none lye by,” `III.1 ¶65`
+- **impediment** — “Wherefore the meane to hold is best, Twixt overmoyst and too much rost [roft];” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Keep a balance in imbibition: too much liquid lengthens the work; too little dries out and kills the 'Child'.
+  - Basis: III.1 ¶65 gives both consequences directly.
+  - Also: “For if yow make hym drink too free, The longer will your workeing be, And yf you let hym be too dry, Than for thirst your Child may dye;” `III.1 ¶65`
+- **stage** — “Six tymes thy Imbibtions make, The seaventh that Saboath’s rest betake: Eight dayes twixt ilke day of the six, To dry up moist and make it fix;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Schedule: six imbibitions with eight days of drying and fixing between each, a seventh as rest; at the ninth, seal the glass and leave six weeks under tempered heat until blackness passes to white; rest the seventh week, then ferment.
+  - Basis: III.1 ¶65 gives the counts and durations explicitly.
+  - Also: “Then at the nynth tyme thy Glasse up seale, And let him stand six weeks each deale: With his heate tempered so right, That Blackness passed he may grow white;” `III.1 ¶65`
+- **stage** — “Which if thow wilt Ferment for Whyte, Thereby thow gainst noe greate prifitt; For I assure thee thow needest not dred, To proceede with fire till all be Redd;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Do not stop to ferment at the white; continue the fire until all is red, then prepare a ferment of pure gold.
+  - Basis: III.1 ¶65 states this directly.
+  - Also: “To prepaire thy Ferment of peure Gold,” `III.1 ¶65`
+- **principle** — “Which Ferment must be of such a thing, As was the workes begyning;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** The ferment must be of the same nature as the work's starting material; fermentation is how all things are brought forth fitted to their generation.
+  - Basis: III.1 ¶65 states both directly.
+  - Also: “O noble Worke of workes that God has wrought, Whereby each thing of things are forth aye broght; And fitted to their generacion, By a noble Fermentacion;” `III.1 ¶65`
+- **procedure** — “Worke Luna by her selfe alone, With the blood of the Greene Lyon: As earst thow didst in the begining, And of three didst make one thing,” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** To prepare the ferment, repeat the opening procedure separately: Luna alone with the Green Lion's blood for a white ferment, Sol alone for a red one, each until its magnet shows full white.
+  - Basis: III.1 ¶65: 'Till thy Magnet schew full whyte; Soe must thow warke all thy Ferment, Both White and Red'; 'Of Sol for Redd, of Luna for White, Each by himself let worke tight'.
+  - Also: “Of Sol for Redd, of Luna for White, Each by himself let worke tight;” `III.1 ¶65`
+- **procedure** — “If he be of Collour White, Feed hym than with Luna bright; If his flesh be perfect Red, Than with the Sun he must be fedd,” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Match the ferment to the King's colour: Luna ferment for a white King, Sun ferment for a red one.
+  - Basis: III.1 ¶65 direct instruction.
+- **procedure** — “Your Ferment one fourth parte must be, Into your Magnet made evenly, And joyne hem warme and not cold,” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Add ferment as 'one fourth parte' (base of the fraction unspecified) to the Magnet, joining both warm because raw and ripe disagree like heat and cold; then seal the glass.
+  - Basis: III.1 ¶65: 'Therefore put hem warme into thy Glasse, Then seale it up even as it was'.
+  - Also: “For raw to ripe you may be bold Have disagreement soe have heate and cold:” `III.1 ¶65`
+- **result** — “And Circle all till yt be wonne, By passing degrees every each one: Both black and whyte, and also redd, Than of the Fire heere have noe dread;” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** After circulation through black, white and red, the product is fixed: it no longer fears fire.
+  - Basis: III.1 ¶65: 'For he will never dreade the fyre, But ever abide thy desire.'
+- **procedure** — “I say to thee that in noe fashion, It’s so well Multeplied as with continuall Firmentation:” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** Multiplication: keep ferment continually in the fire so the Medicine keeps increasing and the work need not be begun anew, as a maid saves her leaven.
+  - Basis: III.1 ¶65: 'Or else it wilbe over micle paine For thee to begin thy worke againe'; the leaven proverb follows.
+  - Also: “Therefor in the fyre keepe Firment alway, That thy Medicine augment mayst aye;” `III.1 ¶65`
+- **impediment** — “For hym to hunt that ys a prety wyle, Yet by hys Craft he doth most Folke beguile, And hem devour and leave hem full of care,” `III.1 ¶65` (QUOTED: The Hunting of the Greene Lyon)
+  - **Plain (stated):** The pursuit of the Lion deceives and ruins most who attempt it; the unlearned ('lay') should desist and keep silence; God may withdraw the blessing if it is abused.
+  - Basis: III.1 ¶65: 'Keepe Councell then and leve thy Toy'; 'Remember God hys blessing he can take'.
+  - Also: “But if so be that thow be lay, And understond not what I say, Keepe Councell then and leve thy Toy,” `III.1 ¶65`
+- **result** — “the New Life thence arises whose quintessential virtue, imperishable and perpetually victorious, is the Corner Stone or first Material foundation of the Hermetic Art” `III.1 ¶66` (ATWOOD)
+  - **Plain (stated):** When the evil of Original Sin is overcome by these stratagems, a New Life arises; its imperishable essential virtue is the Corner Stone, i.e. the first material foundation of the Art.
+  - Basis: III.1 ¶66 asserts the identity directly.
+  - Also: “The evil of the Original Sin being overcome by so many subtle stratagems” `III.1 ¶66`
+- **operator** — “known, as the Adept says, only to the Wise, because they alone can know it who have it in themselves” `III.1 ¶66` (ATWOOD)
+  - **Plain (stated):** The foundation of the Art can only be known by those who possess it within themselves; it depends on knowing what is most hidden in oneself, so the irrational and frivolous cannot receive it.
+  - Basis: III.1 ¶66 gives the reason directly.
+  - Also: “The irrational and frivolous-minded cannot Receive this truth, because it depends exactly upon the knowledge of That which is most abstruse in them.” `III.1 ¶66`
+- **agent** — “The example given of Cadmus, from the Greek fable, identified him with Jason, Orpheus, Aeneas, and the rest, who represent the Rational Ferment;” `III.1 ¶66` (ATWOOD)
+  - **Plain (stated):** The fable heroes (Cadmus, Jason, Orpheus, Aeneas) stand for the Rational Ferment, on which the other faculties of the mind are originally attendant.
+  - Basis: III.1 ¶66 states the identification and the associates' relation to it.
+- **impediment** — “the associates are taken to signify the other faculties of the mind originally attendant on this, but which are drawn away afterwards into the vortex of the Opposive Principle” `III.1 ¶66` (ATWOOD)
+  - **Plain (stated):** The hero's companions are the mind's other faculties, which accompany reason but are pulled into the Opposive Principle once it is freed; by revelling with them it becomes sated and thereby easier to capture.
+  - Basis: III.1 ¶66 states both the identification and the consequence.
+  - Also: “rapidly attracting them when it is freed, and reveling with which, it becomes satiated and more easily ensnared” `III.1 ¶66`
+- **procedure** — “As it is told of Saturn, likewise, that he was inebriated when he was bound in fetters by his son; and by the advice of the goddess, too, according to Orpheus, the subtle stratagem was contrived.” `III.1 ¶66` (ATWOOD)
+  - **Plain (interpreted):** Parallel image: the opposing principle is bound once intoxicated or sated, by a stratagem devised on a goddess's advice. This chunk does not say whom the son or the goddess stand for.
+  - Basis: III.1 ¶66: 'likewise' directly follows 'it becomes satiated and more easily ensnared'; 'subtle stratagem' echoes 'so many subtle stratagems' at the start of ¶66.
+
+## Terms
+
+- **Green Lion** (also: Lyon Greene, Greene Lyon, our Lyon, Lyon) — The poem's central agent: called green because unripe, not coloured; not common quicksilver; swift; devours and eclipses the Sun, turning red to white, yet perfects him; as Priest weds Sun and Moon, who were born in its Bed; supplies the Lion's Blood; beguiles most who hunt it. (QUOTED: The Hunting of the Greene Lyon)
+  - “But our Lyon wanting maturity, Is called greene for unripenes trust me,” `III.1 ¶65`
+  - “For they weene that our Lyon ys Common Quicksilver, but truly they miss:” `III.1 ¶65`
+- **Lion's Blood** (also: Lyons Blood, blood of the Greene Lyon) — The 'secret' drawn off after Lion, Sol and Luna unite and form a skin; the King's only food, given after he rises from the dead; worked with Luna or Sol to prepare the ferments. Possibly called the King's Father and Mother (see ambiguities). (QUOTED: The Hunting of the Greene Lyon)
+  - = right good secret: “A right good secret withouten any nay: Wych must serve to doe thee good’ For yt ys the Lyons Blood:” `III.1 ¶65`
+  - “And tis as strange that thys Kings food, Can be nothing but thys Lyons Blood;” `III.1 ¶65`
+- **Lion's sweat** (also: Lyons sweate) — The liquid given to the pure matter at each imbibition; not further defined in this chunk (relation to Lion's Blood: see ambiguities). (QUOTED: The Hunting of the Greene Lyon)
+  - “A portion of your Lyons sweate Must be given it for to eate:” `III.1 ¶65`
+- **Sun** — The bright one devoured and eclipsed by the Lion and brought to more perfection; brother and bridegroom of the Moon; with her, parent of the King; feeds a red King. 'Sol' occupies parallel positions (fed to the Lion with Luna; 'Of Sol for Redd'), but the chunk does not assert the identity. (QUOTED: The Hunting of the Greene Lyon)
+  - “This Lyon maketh the Sun sith [fith] soone To be joined to hys Sister the Moone:” `III.1 ¶65`
+- **Moon** (also: Moone) — Sister and bride of the Sun, born with him in the Lion's Bed; with him, parent of the King. 'Luna' occupies parallel positions (fed to the Lion with Sol; worked alone with the Lion's blood for the white ferment; feeds a white King), but the chunk does not assert the identity. (QUOTED: The Hunting of the Greene Lyon)
+  - “Worke Luna by her selfe alone, With the blood of the Greene Lyon:” `III.1 ¶65`
+- **King** — Offspring of Sun and Moon wedded by the Lion; fed on the Lion's Blood; dies (paired with blackness) and rises; fed with Luna if white, the Sun if red. The matter is also called 'this young Chylde' / 'Child' in the same sequence; the identity of King and Child is not explicitly asserted. (QUOTED: The Hunting of the Greene Lyon)
+  - “And yet thys King was begott by none other, But by Sun and Moone hys owne Sister and Brother.” `III.1 ¶65`
+- **Magnet** (also: magnet) — The fair white part left in the midst when the matter separates from its black, light 'vile Erth'; must show full white; the ferment is put into it as one fourth part. (QUOTED: The Hunting of the Greene Lyon)
+  - “Your magnet in the midst wilbe, Of Collour faire and white trust me;” `III.1 ¶65`
+- **Magnesia** — Something whose creation the old philosophers described at large, while concealing how to order it afterwards (imbibition). (QUOTED: The Hunting of the Greene Lyon)
+  - “To create Magnesia they made no care, In their Bookes largely to declare;” `III.1 ¶65`
+- **Imbibition** (also: Imbibtions) — Giving the dried matter 'drink' (Lion's sweat), grinding, sealing and drying, repeated on a fixed schedule; the secret the old philosophers never told, in which 'the whole subtill warke' consists. (QUOTED: The Hunting of the Greene Lyon)
+  - “The secret of Imbibition never out tould;” `III.1 ¶65`
+  - “Because in it consisteth the whole subtill warke;” `III.1 ¶65`
+- **Ferment** (also: Fermentacion, Firmentation, Firment) — In the poem: a preparation of the same nature as the work's beginning (Luna for white, Sol for red, each worked alone with the Lion's blood; 'Ferment of peure Gold' for red), added warm to the Magnet as one fourth part; continual fermentation multiplies the Medicine; fermentation is how all things are brought forth fitted to their generation. Atwood's 'Rational Ferment' (¶66) is a separate term. (QUOTED: The Hunting of the Greene Lyon)
+  - “Which Ferment must be of such a thing, As was the workes begyning;” `III.1 ¶65`
+- **Multiplication** (also: Multeplie, Multeplied) — Increasing the Medicine without restarting the work, best done by continual fermentation. (QUOTED: The Hunting of the Greene Lyon)
+  - “It’s so well Multeplied as with continuall Firmentation:” `III.1 ¶65`
+- **Projection** (also: Projeccion) — The final use or test of the product; those ignorant of imbibition found nothing in it; continually fermented medicine 'in Projeccion ren full fast'. (QUOTED: The Hunting of the Greene Lyon)
+  - “And sure far it will be exalted at the last, And in Projeccion ren full fast:” `III.1 ¶65`
+- **Medicine** — The product, augmented by keeping ferment always in the fire. (QUOTED: The Hunting of the Greene Lyon)
+  - “That thy Medicine augment mayst aye;” `III.1 ¶65`
+- **excrements** — Residue removed once the matter has grown very dry, before lodging the young Child in a bright bed. (QUOTED: The Hunting of the Greene Lyon)
+  - “The excrements be tane away;” `III.1 ¶65`
+- **Clerke** (also: Clearke) — In the poem, the learned who will find truth in the work, as against the 'lay', who should keep counsel and leave off; the narrator says he is 'noe Clerke' in science yet has laboured in the work. (QUOTED: The Hunting of the Greene Lyon)
+  - “For surely if thow be a Clerke, Thow wilt finde trewth in thys werke:” `III.1 ¶65`
+- **rebellious Principle** — A principle with 'stolen forces' that provokes a bloody conflict in life; the Divine Art requires an identical representative of him so those forces can be drawn forth and spent; depicted in Egyptian relics in human semblance between foes. (ATWOOD)
+  - “innumerable similitudes belonging both to this rebellious Principle and to that identical representative of him which the Divine Art requires” `III.1 ¶64`
+- **Divine Art** — The Art under discussion; it requires a representative of the rebellious Principle. ¶66 speaks of 'the Hermetic Art'; the chunk does not assert the two names identical. (ATWOOD)
+  - “that identical representative of him which the Divine Art requires” `III.1 ¶64`
+- **Orient Animal** (also: Animal de Oriente) — That which must be stripped of its (lion's) skin by the Hand, not by arrows or clubs; per the Latin it then enters the great salt sea and comes out again with beauty. Not otherwise explained here. (QUOTED: Adepts)
+  - “For the Orient Animal must be stripped of his skin, not with arrows or clubs, but with the Hand, as Adepts say” `III.1 ¶64`
+- **garment of Light** — Something that must be dissected and shorn, in parallel with stripping the Orient Animal's skin. (ATWOOD)
+  - “the whole garment of Light must be dissected, shorn, and the signal of victory be heroically transferred” `III.1 ¶64`
+- **Corner Stone** — The imperishable, perpetually victorious quintessential virtue of the New Life; the first Material foundation of the Hermetic Art; known only to the Wise who have it in themselves. (ATWOOD)
+  - = first Material foundation of the Hermetic Art: “is the Corner Stone or first Material foundation of the Hermetic Art” `III.1 ¶66`
+  - = quintessential virtue of the New Life: “the New Life thence arises whose quintessential virtue, imperishable and perpetually victorious, is the Corner Stone” `III.1 ¶66`
+  - “known, as the Adept says, only to the Wise, because they alone can know it who have it in themselves” `III.1 ¶66`
+- **New Life** — What arises when the evil of Original Sin is overcome by subtle stratagems; its quintessential virtue is the Corner Stone. (ATWOOD)
+  - “The evil of the Original Sin being overcome by so many subtle stratagems, the New Life thence arises” `III.1 ¶66`
+- **Original Sin** — An evil overcome by 'so many subtle stratagems', whereupon the New Life arises. (ATWOOD)
+  - “The evil of the Original Sin being overcome by so many subtle stratagems” `III.1 ¶66`
+- **Rational Ferment** — What Cadmus, Jason, Orpheus, Aeneas and the rest represent; the other faculties of the mind are originally attendant on it. (ATWOOD)
+  - “identified him with Jason, Orpheus, Aeneas, and the rest, who represent the Rational Ferment;” `III.1 ¶66`
+- **Opposive Principle** — A principle that, once freed, rapidly draws the mind's other faculties into its vortex, revels with them, becomes satiated and thus more easily ensnared. The chunk does not assert its identity with the 'rebellious Principle' of ¶64. (ATWOOD)
+  - “drawn away afterwards into the vortex of the Opposive Principle, rapidly attracting them when it is freed” `III.1 ¶66`
+
+## Sources cited
+
+- **Egyptian relics** `III.1 ¶64` — Illustrates the rebellious Principle depicted in human semblance with emblems of grace and power, seated between his foes.
+- **Adepts** — “not with arrows or clubs, but with the Hand, as Adepts say” `III.1 ¶64` — Supports, endorsed: the Orient Animal is stripped with the Hand, not by force.
+- **Maier**, *Hierog. Egypt. Graec.* — “Animal de Oriente pelle sua leonine spoliari debet” `III.1 ¶64, III.1 n72` — Supports the stripping of the Orient Animal; Latin given untranslated; reference p. 222.
+- **Malden; Philalethean Lion Hunt**, *The Hunting of the Greene Lyon* — “But our Lyon wanting maturity, Is called greene for unripenes trust me,” `III.1 ¶64, III.1 ¶65` — Given 'by way of recreation' ('in part' per ¶64, though headed '[*unabridged]') as an allegorical account of the whole practice (Green Lion, Sun and Moon, black/white/red, imbibition, ferment, multiplication); Atwood does not comment on it in this chunk. Attribution: see ambiguities.
+- **the Cosmopolite Eirenaeus** `III.1 ¶64` — Named alongside the Lion Hunt; either a further piece to be given or a co-source of the poem (see ambiguities).
+- **noble Master (of the poem's narrator)** — “At his death he made me sweare hym to, That all the secrets I schould never undoe” `III.1 ¶65` — Within the poem: the reason for veiling.
+- **Philosophers of tyme old / olde Fathers** — “The secret of Imbibition never out tould;” `III.1 ¶65` — Within the poem: criticized for describing the creation of Magnesia while hiding imbibition.
+- **the Adept** — “known, as the Adept says, only to the Wise” `III.1 ¶66` — Supports, endorsed: the Corner Stone is known only to the Wise who have it in themselves.
+- **Greek fable (Cadmus, Jason, Orpheus, Aeneas)** — “who represent the Rational Ferment” `III.1 ¶66` — Decoded: the heroes represent the Rational Ferment, their associates the other faculties of the mind.
+- **Orpheus** — “and by the advice of the goddess, too, according to Orpheus, the subtle stratagem was contrived” `III.1 ¶66` — Cited for the tale that Saturn was bound in fetters, inebriated, by his son through a stratagem advised by the goddess; illustrates the satiated Opposive Principle being ensnared.
+
+## Ambiguities
+
+- “this Philalethean Lion Hunt from Malden in part, and the Cosmopolite Eirenaeus” `III.1 ¶64`
+  - Reading: The Lion Hunt is taken partly from Malden, and a separate piece by 'the Cosmopolite Eirenaeus' is also to be given (not in this chunk).
+  - Reading: The poem is attributed jointly: drawn partly from Malden and partly from the Cosmopolite Eirenaeus.
+  - Basis: The syntax of ¶64 allows both; the ¶65 heading '[*unabridged]' sits uneasily with 'in part'.
+- “For the Orient Animal must be stripped of his skin” `III.1 ¶64`
+  - Reading: The Orient Animal is the rebellious Principle or its representative required by the Art.
+  - Reading: The Orient Animal is a separate image of the work, only juxtaposed with it.
+  - Basis: Reading 1: 'For' links the sentence causally to the preceding description of 'him', and the Latin's 'pelle sua leonine' leads into the Lion Hunt. Reading 2: the text never states the identity.
+- “not with arrows or clubs, but with the Hand” `III.1 ¶64`
+  - Reading: A direct, manual operation as opposed to violent means.
+  - Reading: A figurative 'Hand' (some agency or skill) not explained in this chunk.
+  - Basis: ¶64 gives only the contrast with arrows and clubs; no gloss of 'Hand'.
+- “ejusque aloe evanescere” `III.1 ¶64`
+  - Reading: 'aloe' stands for 'alae' (its wings vanish).
+  - Reading: 'aloe' is meant literally or is otherwise corrupt.
+  - Basis: The Latin is untranslated and has other apparent misprints ('pulchritidine', 'egrdi'); the grammar wants a noun subject for 'evanescere'.
+- “And tis as true that thys ys none other, Than ys it the Kings Father and Mother.” `III.1 ¶65`
+  - Reading: 'thys' is the Lion's Blood, which is thus the King's Father and Mother.
+  - Reading: 'thys' is the Lion itself, in whose bed Sun and Moon, the King's parents, were born.
+  - Basis: Reading 1: the line directly follows 'thys Lyons Blood'. Reading 2: 'Yet they were both borene in the Lyons Bedd', while the King is begotten 'by Sun and Moone'.
+- “A portion of your Lyons sweate Must be given it for to eate:” `III.1 ¶65`
+  - Reading: Lion's sweat is the Lion's Blood drawn off earlier.
+  - Reading: Lion's sweat is a distinct liquid.
+  - Basis: Reading 1: the King 'must be fedd' with the Lion's Blood after rising from the dead, and imbibition is giving him drink. Reading 2: the poem uses a different name and asserts no identity.
+- “Your Ferment one fourth parte must be, Into your Magnet made evenly,” `III.1 ¶65`
+  - Reading: Ferment is one quarter of the total mixture.
+  - Reading: Ferment is added in an amount equal to one quarter of the Magnet.
+  - Basis: The wording does not specify the base of the fraction.
+- “As it is told of Saturn, likewise, that he was inebriated when he was bound in fetters by his son” `III.1 ¶66`
+  - Reading: Saturn stands for the Opposive Principle, sated and then ensnared.
+  - Reading: A general parallel for the 'subtle stratagem' without a one-to-one mapping.
+  - Basis: 'likewise' directly follows 'it becomes satiated and more easily ensnared'; no explicit identification is made.
+
+## Translations
+
+- `III.1 ¶64` “Animal de Oriente pelle sua leonine spoliari debet ejusque aloe evanescere atque tum simul ingredi magnum oceani salum cumque pulchritidine iterum egrdi, etc” → The Animal from the East must be despoiled of its lion's skin, and its 'aloe' [?wings] vanish, and then at once enter the great salt surge of the ocean and come out again with beauty, etc. *(ours)*
+- `III.1 ¶65` “Least th’one shoul, kill th’other burne, Or either doe some fore shroud turne:” → Lest the one should kill, the other burn, or either do some [?sore] shrewd turn. *(ours)*
+- `III.1 ¶65` “Eight dayes twixt ilke day of the six,” → Eight days between each of the six [imbibitions]. *(ours)*
+- `III.1 ¶65` “For raw to ripe you may be bold Have disagreement soe have heate and cold:” → For you may be sure raw and ripe disagree, as do heat and cold. *(ours)*
+- `III.1 ¶65` “For yf the maid doe not her leaven save, (crave; Then of her Neighbours sche must needs goe” → For if the maid does not save her leaven, she must go crave it of her neighbours. *(ours)*
+- `III.1 ¶65` “For it befitts no Lymmer loy, To medle with such grete secresie:” → For it befits no worthless fellow to meddle with such great secrecy. *(ours)*
+
+## Threads
+
+- `III.1 ¶64` 'this rebellious Principle' refers back to the Principle discussed before this chunk.
+- `III.1 ¶64` The Cosmopolite Eirenaeus is named alongside the Lion Hunt; nothing further from him appears in this chunk.
+- `III.1 ¶65` Within the poem, 'In the next Chapter as erst I did say' points to the poem's own following section on preparing the ferment.
+- `III.1 ¶66` 'The example given of Cadmus, from the Greek fable' refers to an earlier Cadmus example outside this chunk, now decoded.
+- `III.1 ¶66` 'by so many subtle stratagems' summarizes the preceding account of overcoming the opposing principle.

@@ -1,0 +1,314 @@
+# I.3_02
+
+*The Second Section of Hermes' treatise gives veiled operative instructions (drowning the volatile, purifying the redness, the coal returned to water, the three from two, the Dragon, the medium-fire, the dissolving water), which Atwood's footnotes gloss as the rational operation on the freed spirit, soul and body of the philosophic matter, repeated through successive dissolutions until it is purified and whitened.*
+
+## Argument
+
+- Hermes bids the son fear God, 'the strength of thy undertaking', weigh teaching rationally as if its author, and shut himself within against ignorance. `I.3 ¶14, I.3 ¶15` — QUOTED: Hermes
+- Atwood: the magistery comes by communion with the ruling Spirit of nature, whose Law must be feared lest the work turn to evil; only those experienced in the Fontal Nature know why. Scholiast: enter the framing Spirit at nature's center, which carries one to the root and shows the whole work. 'Shutting within' means leaving sense for a higher consciousness, not trusting words' outward sense. The spirit then passes through successive dissolutions toward more perfect being. `I.3 n19` — ATWOOD
+- Drown the flying volatile, separate it from the rust holding it in death, rule it by reason so it lives without flying, and it becomes a companion. `I.3 ¶16` — QUOTED: Hermes
+- Atwood: these images concern rational operation on the freed spirit and its soul; the process is repeated many times. `I.3 n20` — ATWOOD
+- Extract the ray's shadow; withdraw the redness corrupted with water, like a live coal, until pure. `I.3 ¶17` — QUOTED: Hermes
+- Darkness accompanies the philosophic body until purified. Scholiast: the body is repeatedly opened, dissolved, putrefied; Magnesia dies in the Philosophic Earth like sown wheat, worked by its own Identity as agent and patient. Water is the passive spirit, redness its soul, the earth between their body; spirit penetrates body, body fixes spirit, soul tinges white or red. A Latin enigma (Aquarium Sapientum) follows. `I.3 n21` — ATWOOD
+- Return the extinct coal to the water thirty days; then, a crowned king over the fountain, draw Auripigment dry. `I.3 ¶18` — QUOTED: Hermes
+- Atwood: the master presupposes knowledge of Matter and Vessel. The coal's life is fire; light is life, kept by heat. Scholiast: life's essence is pure celestial Fire, also metals' first matter of Salt, Sulfur, Mercury. The crowned king is the vital tincture's first resplendence; the well is the inexhaustible catholic spirit of life with the occult Causality at its center, yielding auripigment, the stone's multiplicative virtue. An adept: returning exaltations bring wondrous colours and the white elixir. `I.3 n22` — ATWOOD
+- Restore the water (first in air, then earth) to the superiors and conjoin it to its red spirit; Atwood glosses Arnold's 'convert the elements' as separating and rejoining in harmonious proportion. `I.3 ¶19, I.3 n23` — QUOTED: Hermes
+- Our earth's fatness is sulphur; auripigment, siretz, colcothar are sulphurs, found in hair, hoofs, brain, claws, white bodies, two oriental quicksilvers. Sulphur tinges, fixes, connects tinctures; oils fly unless held by sulphurs and albuminous bodies. Atwood: names for the occult luminous vital principle, the philosophic sulfur or Light in different estates. `I.3 ¶20, I.3 ¶21, I.3 n24, I.3 n25` — QUOTED: Hermes
+- The sought disposition is in 'our egg', not the hen's egg, though that has the greatest natural proximity. Atwood: the hen's egg matches the compound simple except in catholicity; observe nature for analogy. `I.3 ¶22, I.3 n26, I.3 n27` — QUOTED: Hermes
+- Sulphurs are heavenly and terrestrial; the masculine is heaven of the feminine, the feminine earth of the masculine; each needs the other. Atwood: the spirit is one but diversified by degree of rectification; purified sulfur is the seed, mercury the earth of the wise. `I.3 ¶22, I.3 ¶23, I.3 n28, I.3 n29` — QUOTED: Hermes
+- Three from two: water, oily tincture, faeces. Atwood: agent, patient, offspring, like the Trinity; the Adepts' Salt, Sulfur, Mercury (Sendivogius: body, spirit, occult soul, separated, purified, rejoined); Vaughan: hidden natures, not literal water, oil, earth. `I.3 ¶23, I.3 n30` — QUOTED: Hermes
+- A Dragon dwells in all three; remove vapour, blackness and death, and by dissolution win the reward. Atwood: the dragon is the self-willed spirit fallen into generation, the blackness of first ascension; radical dissolution exposes original sin's evil, needed to regain purity. An adept: central heat turns water to air, then subtler water. `I.3 ¶23, I.3 n31` — QUOTED: Hermes
+- The temperate unguent, fire, mediates faeces and water as Perscrutinator; unguents are sulphurs. Scholiast: this secret sulfur is the whole art; Atwood links it to the Rational Ferment. `I.3 ¶24, I.3 n32` — QUOTED: Hermes
+- All wisdoms lie in the hidden Wisdom; its student must be humble, just, good, helpful, a guardian of secrets. Atwood leaves this unexplained. `I.3 ¶25, I.3 n33` — QUOTED: Hermes
+- One must mortify, generate, vivify, cleanse and bring Light until contraries fight and whiten. The Stone of four elements is dissevered and mortified by its own nature, keeping its water, which is really fire holding ascending waters so spirits stay with bodies. Atwood: light and darkness war until the foreign life dies; all follows the threefold law of life. `I.3 ¶26, I.3 n34, I.3 n35` — QUOTED: Hermes
+- The watery pontic form dissolves the elements; mingled with our Acetum, its dissolution is the key of restoration. Atwood: this Aqua Philosophica purifies itself inwardly and, joined in consciousness with the central Efficient, is key of every magic art; only practice reveals it. `I.3 ¶27, I.3 n36` — QUOTED: Hermes
+
+## Method
+
+- **principle** — “fear God, in whom is the strength of thy undertaking; and the bond of each separated element” `I.3 ¶15` (QUOTED: Hermes (glossed by Atwood))
+  - **Plain (stated):** The operator must fear and obey the Law of the ruling Spirit of nature, with which the work is a communion; transgressing it turns the work to evil.
+  - Basis: I.3 n19: 'the way to the attainment of the magistery is by communion with the ruling Spirit of nature ... Hermes admonishes the student earnestly to fear and obey its Law; lest, being transgressed in any part, man should work evil instead of good through its means.'
+  - Also: “the way to the attainment of the magistery is by communion with the ruling Spirit of nature” `I.3 n19`
+- **operator** — “he who is rational shuts himself within from the threshold of ignorance; lest supinely he should be deceived” `I.3 ¶15` (QUOTED: Hermes (glossed by Atwood))
+  - **Plain (stated):** The operator withdraws inward, away from sense-distractions, to open a higher consciousness, so as not to be misled by the outward, literal sense of words or things.
+  - Basis: I.3 n19: Hermes recommends 'to shut himself within, away from the distractions of sense and this life's ignorance, and learn to open to himself the door of a higher consciousness, lest in the outward acceptation of words or things he should be deceived.'
+- **agent** — “that Spirit which is the Framer of all things, which pierces through and dwells in that central root” `I.3 n19` (QUOTED: our scholiast (endorsed by Atwood))
+  - **Plain (stated):** The operator must first enter the formative Spirit dwelling at nature's center; that Spirit then acts as a vehicle carrying him into the root and showing him the whole work.
+  - Basis: I.3 n19: 'by entering into that, it will, as a vehicle, carry thee into the same root where all things are hidden ... and show thee, as in a glass, the whole work and laboratory of the most secret nature.'
+  - Also: “Thou must enter with thy whole spirit into the center of nature” `I.3 n19`
+- **procedure** — “Take the flying volatile and drown it flying and divide and separate it from its rust, which yet holds it in death” `I.3 ¶16` (QUOTED: Hermes)
+  - **Plain (stated):** Rational operation on the freed spirit and its soul: the volatile spirit is to be held down and separated from what binds it in death, so that it lives without escaping and becomes governable by reason. Beyond that general reference, Atwood calls the images obscure.
+  - Basis: I.3 n20: 'These images, indicating the mode of rational operation with the freed spirit and its soul, will appear inevitably obscure.' The 'rust' itself is not glossed in this chunk.
+  - Also: “in the days known to thee shalt by reason have ruled it” `I.3 ¶16`
+- **procedure** — “which if thou shalt withdraw so often until the redness is made pure” `I.3 ¶17` (QUOTED: Hermes)
+  - **Plain (stated):** The operation is repeated many times; the body is repeatedly opened, thinned, dissolved and putrefied until fully clear.
+  - Basis: I.3 n20: 'The entire process is repeated many times before perfection is arrived at'; I.3 n21: 'the body must be repeatedly opened and made thin after its fixation and dissolved and putrefied'.
+  - Also: “The entire process is repeated many times before perfection is arrived at” `I.3 n20`
+- **impediment** — “Extract from the ray its shadow and impurity by which the clouds hang over it, defile and keep away the light” `I.3 ¶17` (QUOTED: Hermes)
+  - **Plain (interpreted):** A darkness accompanies the philosophic body, obscuring its own light until it is purified from sensual defilements; this must be removed.
+  - Basis: I.3 n21, the note to this paragraph: 'A shadowy darkness passes always along with the philosophic body, moving in its own light until it is thoroughly purified from sensual defilements.'
+- **subject** — “this redness, corrupted with the water, which is as a live coal holding the fire” `I.3 ¶17` (UNCLEAR)
+  - **Plain (stated):** The water is the passive spirit; the redness is its soul; the earth produced between them is the body of both.
+  - Basis: I.3 n21: 'The water spoken of by Hermes is the passive spirit, the redness is its soul, and the earth begot betwixt them is the substance or body of both'. Whether Atwood or the scholiast speaks is unclear (see ambiguities).
+- **stage** — “the spirit thereafter penetrates the body, and the body fixes the spirit --- the soul being conjoined, tinges the whole of its proper color, whether white or red” `I.3 n21` (UNCLEAR)
+  - **Plain (stated):** After separation and purification, spirit and body interpenetrate and fix each other, and the joined soul colours the whole white or red.
+  - Basis: I.3 n21 states this directly as the process; the Latin enigma there describes spirit, soul and body dwelling together, separated by putrefaction, and rejoining in heat.
+- **procedure** — “so our Magnesia, continues he, being sown in the Philosophic Earth, dies and corrupts, that it may conceive itself anew” `I.3 n21` (QUOTED: the scholiast)
+  - **Plain (stated):** Like sown wheat, the matter must die and putrefy to be reborn; it is separated, dissolved, digested, coagulated, sublimed, incerated and fixed by its own nature acting alternately as agent and patient on itself.
+  - Basis: I.3 n21: 'It is purifies by separation, and is dissolved, digested, and coagulated, sublimed, incerated, and fixed by the reciprocated action of its own proper Identity, as agent and patient, alternating to improve.' Magnesia and Philosophic Earth themselves are not further defined.
+- **stage** — “Return, then, O my son, the extinct coal to the water for thirty days” `I.3 ¶18` (QUOTED: Hermes)
+  - **Plain (stated):** A coal whose fire is extinct is a dead body; fire/light is its life, conserved by heat. The dead matter is returned to the water. The 'thirty days' is not explained in this chunk.
+  - Basis: I.3 n22: 'The life of the coal is fire, which being extinct, becomes a dead body; nor of coal alone, but of other things light is the life, and it is heat that conserves it.'
+- **principle** — “a pure, naked, unmingled Fire” `I.3 n22` (QUOTED: the scholiast)
+  - **Plain (stated):** The essence of life is a subtle, celestial, generating fire (not common elementary fire); the same is the first matter of metals containing Salt, Sulfur and Mercury.
+  - Basis: I.3 n22: 'the essence of life, says the scholiast, is nothing else than a pure, naked, unmingled Fire; not that indeed which is corrupting and elementary, but that which is subtle, celestial, and generating all things.'
+- **sign** — “thou art a crowned king” `I.3 ¶18` (QUOTED: Hermes)
+  - **Plain (stated):** The first manifested resplendence of the vital tincture.
+  - Basis: I.3 n22: 'By the crowned king, Hermes signifies the first manifested resplendence of the vital tincture'.
+- **agent** — “resting over the fountain as known to thee” `I.3 ¶18` (QUOTED: Hermes)
+  - **Plain (interpreted):** The inexhaustible universal spirit of life, at whose center lies the hidden causality of all things.
+  - Basis: I.3 n22 (note to ¶18) glosses 'the well', not 'the fountain': 'the well is, as the catholic spirit of life, inexhaustible; at the bottom, or center rather, of which subsists the occult Causality of all'. Identity of fountain and well rests on note placement.
+- **result** — “drawing from thence the Auripigment dry, without moisture” `I.3 ¶18` (QUOTED: Hermes)
+  - **Plain (stated):** What is drawn from that source is the multiplying power of the Stone.
+  - Basis: I.3 n22: 'is drawn, according to tradition, that auripigment of philosophers which is the multiplicative virtue of their stone.'
+- **sign** — “light shall begin to appear with such admirable colors as never were seen by the eye of man in so little a room before” `I.3 n22` (QUOTED: the adept)
+  - **Plain (stated):** When the exaltations return and are continued on the body, unprecedented colours appear; this marks the king's triumph over death and the white elixir, a point at which one may rest.
+  - Basis: I.3 n22: 'then rejoice, for now our king hath triumphed over the miseries of death ... Here thou mayest rest and wait, and enjoy the glory of thy white elixir'.
+- **procedure** — “Convert the elements, says Arnold, and you shall have what you desire” `I.3 n23` (QUOTED: Arnold (glossed by Atwood))
+  - **Plain (stated):** Separate the matter into its essential relationships and join them again in harmonious proportion. Attached to Hermes' instruction to restore the water to the superiors and conjoin it to its former red spirit.
+  - Basis: I.3 n23: 'that is to say, separate the matter into its essential relationships, and join them again together in harmonious proportion.' Note to I.3 ¶19.
+  - Also: “restore thou it also, to the superiors by its proper windings, and altering skillfully before collecting; then to its former red spirit let it be carefully conjoined” `I.3 ¶19`
+- **agent** — “the fatness of our earth is sulphur, the auripigment, siretz, and colcothar, which are also sulphur” `I.3 ¶20` (QUOTED: Hermes)
+  - **Plain (stated):** Sulphur, auripigment, siretz etc. are names for the hidden luminous principle that vitalizes; in animal bodies it shows as a vegetable growth of the spirit.
+  - Basis: I.3 n24: 'The occult luminous principle of vitalization he calls sulfur, auripigment, etc., hiding it also under a variety of other covertures.'
+- **principle** — “this sulphur doth tinge and fix, and is the connection of the tinctures” `I.3 ¶21` (QUOTED: Hermes)
+  - **Plain (stated):** The philosophic sulfur (Light) has different states and uses as it develops: as sulphur it tinges and fixes; volatile oils tinge but escape unless joined to sulphurs and albuminous bodies that hold the fugitive.
+  - Basis: I.3 n25: 'A distinction is here made by our author of the different estates and uses of the philosophic sulfur, or Light, as it becomes developed in the Hermetic work.'
+  - Also: “a conjunction of fugitives with sulphurs and albumninous bodies, which hold also and detain the fugitive Ens” `I.3 ¶21`
+- **subject** — “The disposition sought after by the philosophers, O son, is but one in our egg” `I.3 ¶22` (QUOTED: Hermes)
+  - **Plain (stated):** The matter is divided into four parts and its vital composition compared to a hen's egg, which corresponds in every respect to the art's 'compound simple' except that it lacks universality.
+  - Basis: I.3 n26: 'comparing also its vital composition to that of a hen's egg, which answers in all respects, excepting the catholicity, to the compound simple of this art.'
+  - Also: “in the hen's egg is the greatest proximity and relationship in nature” `I.3 ¶22`
+- **principle** — “The Alchemists uniformly recommend us to observe nature” `I.3 n27` (ATWOOD)
+  - **Plain (stated):** Study natural processes so that by analogy one can judge the proper method and cooperate with nature's Spirit to regenerate it.
+  - Basis: I.3 n27: 'that from analogy we may be better able to imagine and judge of the proper method of experimenting, and learn to cooperate with her Spirit effectually to regenerate it.'
+- **stage** — “certain of them are heavenly, and some are terrestrial” `I.3 ¶22` (QUOTED: Hermes)
+  - **Plain (stated):** The 'sulphurs' or lights are not all of one quality: the spirit is one in essence but varies in its conception and according to its degree of rectification by the art.
+  - Basis: I.3 n28: 'the spirit, though one is essence, is extremely diversified, in its conception, as also according to the degree and order of its rectification by art.'
+- **principle** — “the masculine truly is the heaven of the feminine, and the feminine is the earth of the masculine” `I.3 ¶22` (QUOTED: Hermes)
+  - **Plain (interpreted):** Active and passive need each other: the purified, fixed sulfur is the generating seed, and the mercury (the recreated, passive body of the spirit) is the earth that conceives, nourishes and brings that seed to visible birth.
+  - Basis: I.3 n29 (note to this line) gives the adepts' doctrine of sulfur as seed and mercury as 'the earth of the wise'; it does not explicitly equate masculine/feminine with sulfur/mercury and calls the son's allusion 'particular'. I.3 ¶23 'Each needs the other'.
+  - Also: “Each needs the other; for the precepts demand a medium” `I.3 ¶23`
+- **subject** — “In every nature there are three from two, first the needful water, then the oily tincture, and lastly, the faeces or earth which remains below” `I.3 ¶23` (QUOTED: Hermes)
+  - **Plain (interpreted):** When active and passive are conjoined they yield an offspring: a threefold agent-patient-offspring found in all things, the Adepts' Salt, Sulfur and Mercury, i.e. body, spirit and occult soul of one substance, which are to be separated, purified and rejoined. Per Vaughan these are hidden natures, not literal water, oil and earth.
+  - Basis: I.3 n30: 'agent, patient and offspring ... And there are the Salt, Sulfur, and Mercury of the Adepts'; Sendivogius 'a body, a spirit, and an occult soul ... if thou shalt join them together, having been previously separated and well purified'; Vaughan 'not of kitchen-stuff, those three pot-principles of water, oil, and earth'. No item-by-item mapping given. The link of n30's triad to ¶23's water/oily tincture/faeces rests on note placement (see ambiguities).
+- **impediment** — “But a Dragon inhabits all these, and are his habitation; and the blackness is in them, and by it he ascends into the air” `I.3 ¶23` (QUOTED: Hermes)
+  - **Plain (stated):** The Dragon is the self-willed spirit drawn outward into nature by the fall into generation; operationally, the blackness of the matter on its first ascension, a thick glutinous body hard to resolve into vapour, which, like a poisonous dragon, destroys all that it touches.
+  - Basis: I.3 n31: 'The dragon is the self-willed spirit, which is externally derived into nature, by the fall into generation. And by it, says the scholiast, Hermes especially signifies the blackness of the matter on its first ascension'.
+  - Also: “for the root of this science is a deadly poison” `I.3 n31`
+- **procedure** — “Take away therefore the vapour from the water, and the blackness from the oily tincture, and death from the faeces: and by dissolution thou shalt achieve a triumphant reward” `I.3 ¶23` (QUOTED: Hermes)
+  - **Plain (stated):** Purify each of the three components by dissolution; this radical dissolution of the spirit brings to light the evil of the original sin, without which the spirit cannot return to its first purity and immortality.
+  - Basis: I.3 n31: 'that the component principles may be pure'; 'the evil of the original sin is said to be discovered by a radical dissolution of the spirit, and without this discovery and the arising evil, it cannot return to its pristine purity'.
+- **procedure** — “the central heat may change the water into air” `I.3 n31` (QUOTED: a no less subtle than experienced adept)
+  - **Plain (stated):** Central heat volatilizes the water into air, which then returns as a far subtler water. The accompanying image (the old man swallowing gold or silver, dying, burned, ashes boiled in water, yielding a medicine for the leprosy of life) is not explained in this chunk.
+  - Basis: I.3 n31: 'and then, contrariwise, the air will be turned into water, far more subtle than the first water was.'
+  - Also: “if thou give our old man fold or silver to swallow, that he may consume them” `I.3 n31`
+- **agent** — “the temperate unguent, which is fire, is the medium between the faeces and the water and is the Perscrutinator of the water” `I.3 ¶24` (QUOTED: Hermes)
+  - **Plain (stated):** A tempered fire (called unguent and sulphur) is the medium between faeces and water and the 'Perscrutinator' of the water; it is the secret sulfur that stirs up the whole power and purifies the matter. Atwood says the name Perscrutinator eminently distinguishes the Rational Ferment, to be inquired into later.
+  - Basis: Text: 'which is fire', 'the unguents are called sulphurs'. I.3 n32: 'It is the stirrer-up of the whole power and efficacy and purifier of the matter; hence Hermes calls it the Perscrutinator, eminently distinguishing the Rational Ferment'.
+  - Also: “The knowledge of this secret sulfur, says the Scholiast, and how to prepare it and use it in this work includes the whole art of perfection” `I.3 n32`
+- **operator** — “to free himself from the vice of arrogance; and to be just and good, and of a profound reason, ready at hand to help mankind” `I.3 ¶25` (QUOTED: Hermes)
+  - **Plain (stated):** Moral requirements of the operator: humility, justice, goodness, deep reason, helpfulness, serenity, diligence, and keeping the secrets. Atwood declines to explain the paragraph further for now.
+  - Basis: Plain in ¶25; I.3 n33 'which we leave for the present therefore unexplained.'
+  - Also: “These secrets, son, it behooves us to guard and conceal from the wicked and foolish world” `I.3 ¶26`
+- **stage** — “to mortify and induce generation, to vivify the Spirit, to cleanse and introduce Light, until they fight with each other and grow white” `I.3 ¶26` (QUOTED: Hermes)
+  - **Plain (stated):** Light and darkness, as contrary natures, contend unceasingly until the foreign life is destroyed and the matter whitens; then the internal agent returns to vivify the whole and yield its tincture of light.
+  - Basis: I.3 n34: 'The two contrary natures of light and darkness must contend together ... for the destruction of the foreign life until it succumbs, grows white ... in order that the internal agent may return to vivify the whole'.
+- **procedure** — “which we ought to divide and dissever in pieces, and segregate in the limbs; and mortifying the same by its proper nature, which is also in it” `I.3 ¶26` (QUOTED: Hermes)
+  - **Plain (interpreted):** The Stone's four-element composition is to be divided and mortified by its own inner nature, while keeping the water and fire within it. The process follows a threefold law of life whose ingress, egress and alternating action make up all its phenomena.
+  - Basis: First sentence from ¶26 itself; I.3 n35 (note to this passage): 'she operates her proper progress necessitously under the threefold law of life; the ingress, egress, and alternatig action of which ... constitutes the whole phenomena of the Hermetic process.' Link between the two is by note placement only.
+  - Also: “our Stone is from many things and of various colours, and composed from four elements” `I.3 ¶26`
+- **agent** — “this, however, is not water in its true form, but fire, containing in a pure vessel the ascending waters, lest the spirits should fly away from the bodies” `I.3 ¶26` (QUOTED: Hermes)
+  - **Plain (stated):** The 'water' preserved in the Stone is really fire; held in a pure vessel it retains the rising vapours so spirits do not escape the bodies, and thereby they become tinging and fixed.
+  - Basis: ¶26 states the identity itself ('not water in its true form, but fire') and the result ('by this means they are made tinging and fixed'). The 'pure vessel' is not explained; n22 says the master presupposes knowledge of the Vessel.
+- **agent** — “O, blessed watery pontic form, that dissolvest the elements” `I.3 ¶27` (QUOTED: Hermes)
+  - **Plain (stated):** The philosophic water, which emerges by the Art of Life, cleanses inwardly as common water does outwardly, purifying itself; joined in consciousness with the central Efficient it becomes all-powerful. Its dissolving of the composition is 'the key of the restoration'.
+  - Basis: I.3 n36: 'as common water washes and cleanses things outwardly, so this inwardly effects the same, even itself purifying itself ... being conjoined in consciousness with the central Efficient, it becomes all-powerful, and the key of every magic art.'
+  - Also: “by the power of the water, the composition is dissolved, it is the key of the restoration” `I.3 ¶27`
+- **procedure** — “with this watery soul, in order to possess ourselves of the sulphurous Form, to mingle the same with our Acetum” `I.3 ¶27` (QUOTED: Hermes)
+  - **Plain (interpreted):** The watery soul is to be mixed with 'our Acetum' to obtain the sulphurous Form. This chunk does not explain Acetum.
+  - Basis: Only ¶27 itself; no gloss given.
+- **operator** — “Nor can this secret be truly learned either from a master at all, but practice reveals it by the instinct of nature” `I.3 n36` (QUOTED: the Scholiast)
+  - **Plain (stated):** The preparation of the philosophic water is known to very few and cannot be taught; it is learned only through practice.
+  - Basis: I.3 n36: 'The preparation of it is not known to many, says the Scholiast, and a very few have obtained it; because the well is deep out of which it is drawn'.
+
+## Terms
+
+- **sulphur** (also: sulphurs, sulfur, Sulfur, sulfurs) — The fatness of 'our earth'; tinges and fixes and connects tinctures; per Atwood a name for the occult luminous principle of vitalization; the philosophic sulfur is Light in its various estates; when purified, fixed and incombustible it is the generating seed of universal nature (adepts). Fit sulphurs are both heavenly and terrestrial. (QUOTED: Hermes)
+  - = fatness of our earth: “the fatness of our earth is sulphur” `I.3 ¶20`
+  - = Light: “the philosophic sulfur, or Light” `I.3 n25`
+  - = unguents: “For the unguents are called sulphurs” `I.3 ¶24`
+  - = occult luminous principle of vitalization: “The occult luminous principle of vitalization he calls sulfur, auripigment, etc.” `I.3 n24`
+  - “this sulphur doth tinge and fix, and is the connection of the tinctures” `I.3 ¶21`
+  - “The purified sulfur, fixed and incombustible, is the generating seed of the universal nature” `I.3 n29`
+- **Auripigment** (also: auripigment, auripigments) — A kind of sulphur; drawn dry from the fountain by the crowned king; per Atwood the multiplicative virtue of the philosophers' stone and a name for the luminous vital principle. (QUOTED: Hermes)
+  - = sulphur: “the auripigment, siretz, and colcothar, which are also sulphur” `I.3 ¶20`
+  - = multiplicative virtue of their stone: “that auripigment of philosophers which is the multiplicative virtue of their stone” `I.3 n22`
+  - = fat of the brain: “and of the brain, which too is auripigment” `I.3 ¶20`
+  - “drawing from thence the Auripigment dry, without moisture” `I.3 ¶18`
+- **siretz** — A kind of sulphur; found in lions' and cats' claws. (QUOTED: Hermes)
+  - = sulphur: “the auripigment, siretz, and colcothar, which are also sulphur” `I.3 ¶20`
+  - = lions' and cats' claws: “the lions' and cats' claws, which is siretz” `I.3 ¶20`
+- **colcothar** — Named as a kind of sulphur. (QUOTED: Hermes)
+  - = sulphur: “the auripigment, siretz, and colcothar, which are also sulphur” `I.3 ¶20`
+- **oriental quicksilvers** — 'The two oriental quicksilvers' hunt the sulphurs and contain the bodies; not further explained. (QUOTED: Hermes)
+  - “the fat of the two oriental quicksilvers, which hunt the sulphurs and contain the bodies” `I.3 ¶20`
+- **fugitive Ens** (also: fugitives) — The volatile element that flies away, held and detained by sulphurs and albuminous bodies. (QUOTED: Hermes)
+  - “which hold also and detain the fugitive Ens” `I.3 ¶21`
+- **flying volatile** — That which is to be drowned flying and separated from its rust; per Atwood the images concern the freed spirit and its soul. (QUOTED: Hermes)
+  - “Take the flying volatile and drown it flying” `I.3 ¶16`
+- **water** (also: waters) — In Hermes' figure of the redness corrupted with water, the passive spirit; first in air then in earth; one of the three from two ('the needful water'); in ¶26 the water preserved in the Stone is really fire. (QUOTED: Hermes)
+  - = passive spirit: “The water spoken of by Hermes is the passive spirit” `I.3 n21`
+  - = fire: “this, however, is not water in its true form, but fire” `I.3 ¶26`
+  - “the water was first in the air, then in the earth” `I.3 ¶19`
+- **redness** — Corrupted with water, like a live coal holding fire; to be purified by repeated withdrawal; the soul of the passive spirit. (QUOTED: Hermes)
+  - = soul: “the redness is its soul” `I.3 n21`
+  - “Take, my Son, this redness, corrupted with the water” `I.3 ¶17`
+- **coal** (also: extinct coal, live coal) — A coal's life is fire; extinct, it becomes a dead body; the extinct coal is returned to the water for thirty days. (QUOTED: Hermes)
+  - “The life of the coal is fire, which being extinct, becomes a dead body” `I.3 n22`
+- **crowned king** (also: king) — The first manifested resplendence of the vital tincture; the king triumphing over death at the appearance of colours. (ATWOOD)
+  - = first manifested resplendence of the vital tincture: “By the crowned king, Hermes signifies the first manifested resplendence of the vital tincture” `I.3 n22`
+- **fountain** — Over which the crowned king rests, drawing auripigment from it. The note to this paragraph speaks of 'the well' (inexhaustible like the catholic spirit of life, with the occult Causality at its center); n36 speaks of the deep well from which the philosophic water is drawn. The text does not explicitly identify fountain and well. (ATWOOD)
+  - “the well is, as the catholic spirit of life, inexhaustible” `I.3 n22`
+  - “because the well is deep out of which it is drawn” `I.3 n36`
+- **Fire** (also: fire) — The life of the coal; the scholiast's essence of life, pure, naked, unmingled, celestial and generating, not elementary fire; the temperate unguent; the true form of the Stone's water. (QUOTED: the scholiast)
+  - = essence of life: “the essence of life, says the scholiast, is nothing else than a pure, naked, unmingled Fire” `I.3 n22`
+  - = temperate unguent: “the temperate unguent, which is fire” `I.3 ¶24`
+- **Salt, Sulfur, and Mercury** (also: three principals, three principles) — The three principles contained in the first matter of metals; the paternal, maternal and proceeding ens of life found in all created things; per Sendivogius body, spirit and occult soul of one substance; per Vaughan hidden intrinsical natures, not the literal 'pot-principles'. (ATWOOD)
+  - = paternal, maternal, and proceeding ens of life: “the paternal, maternal, and proceeding ens of life. And there are the Salt, Sulfur, and Mercury of the Adepts” `I.3 n30`
+  - = body, spirit, occult soul: “thou hast in these three principles, says Sendivogius, a body, a spirit, and an occult soul” `I.3 n30`
+  - “of which so much has been spoken and ignorantly misapplied” `I.3 n22`
+- **mercury** — The recreated body of the spirit, passive and pure; called the earth of the wise, conceiving the seed and bringing it to birth. (QUOTED: the adepts)
+  - = earth of the wise: “the mercury (which is the recreated body of the spirit, passive and pure) is sometimes called the earth of the wise” `I.3 n29`
+- **earth** (also: Philosophic Earth) — 'Our earth' whose fatness is sulphur; the earth begot between water (spirit) and redness (soul) is the body of both; the feminine is the earth of the masculine; Magnesia is sown in the Philosophic Earth. (QUOTED: Hermes)
+  - = substance or body of both: “the earth begot betwixt them is the substance or body of both” `I.3 n21`
+  - = faeces: “the faeces or earth which remains below” `I.3 ¶23`
+  - “the feminine is the earth of the masculine” `I.3 ¶22`
+- **Magnesia** — 'Our Magnesia', sown in the Philosophic Earth, dies and corrupts to conceive itself anew; otherwise undefined here. (QUOTED: the scholiast)
+  - “our Magnesia, continues he, being sown in the Philosophic Earth, dies and corrupts” `I.3 n21`
+- **philosophic body** — The body of the work, accompanied by a shadowy darkness until purified from sensual defilements. (ATWOOD)
+  - “A shadowy darkness passes always along with the philosophic body” `I.3 n21`
+- **egg** (also: our egg, hen's egg) — 'Our egg' holds the one disposition sought; the hen's egg, of four elements, is the closest natural analogue to the art's compound simple, lacking only catholicity. (QUOTED: Hermes)
+  - “which answers in all respects, excepting the catholicity, to the compound simple of this art” `I.3 n26`
+- **compound simple** — The art's matter, to which the hen's egg corresponds except in catholicity. (ATWOOD)
+  - “the compound simple of this art” `I.3 n26`
+- **oily tincture** — Second of the three from two; holds blackness to be removed. (QUOTED: Hermes)
+  - “then the oily tincture” `I.3 ¶23`
+- **faeces** — Third of the three from two, the earth remaining below; holds death to be removed. (QUOTED: Hermes)
+  - “death from the faeces” `I.3 ¶23`
+- **medium** (also: mean) — What the precepts demand between the two; the temperate unguent (fire) is the medium between faeces and water. (QUOTED: Hermes)
+  - = temperate unguent: “the temperate unguent, which is fire, is the medium between the faeces and the water” `I.3 ¶24`
+  - “for the precepts demand a medium” `I.3 ¶23`
+- **Dragon** (also: dragon) — Inhabits water, oily tincture and faeces; ascends by blackness; the self-willed spirit derived into nature by the fall into generation; the blackness of the matter on first ascension; poisonous. (ATWOOD)
+  - = self-willed spirit: “The dragon is the self-willed spirit” `I.3 n31`
+  - “like a poisonous dragon it destroys all that it touches” `I.3 n31`
+- **unguent** (also: unguents) — The temperate unguent is fire, the medium between faeces and water and the Perscrutinator of the water; unguents are called sulphurs because fire, oil and sulphur are closely akin. (QUOTED: Hermes)
+  - = fire: “the temperate unguent, which is fire” `I.3 ¶24`
+  - = sulphurs: “For the unguents are called sulphurs” `I.3 ¶24`
+- **Perscrutinator** — Hermes' name for the temperate unguent (fire), 'the Perscrutinator of the water'; the secret sulfur that stirs up the whole power and purifies the matter; per Atwood it eminently distinguishes the Rational Ferment. (ATWOOD)
+  - = secret sulfur: “It is the stirrer-up of the whole power and efficacy and purifier of the matter; hence Hermes calls it the Perscrutinator” `I.3 n32`
+  - “eminently distinguishing the Rational Ferment” `I.3 n32`
+- **Rational Ferment** — Distinguished by the name Perscrutinator; to be inquired into later. (ATWOOD)
+  - “the Rational Ferment, concerning which it will be our purpose to inquire hereafter” `I.3 n32`
+- **Stone** — From many things, of various colours, composed of four elements, to be divided, mortified and made tinging and fixed; its multiplicative virtue is the auripigment. (QUOTED: Hermes)
+  - “our Stone is from many things and of various colours, and composed from four elements” `I.3 ¶26`
+- **hidden Wisdom** — Comprehends all the wisdoms of the world; the learning of the Arts consists in discovering the hidden elements beneath which it hides. (QUOTED: Hermes)
+  - “All the wisdoms of the world, O son, are comprehended in this my hidden Wisdom” `I.3 ¶25`
+- **Aqua Philosophica** — The water that dissolves the elements; its dissolution of the composition is the key of restoration; per Atwood's note on that passage it distils itself to manifestation by the Art of Life, cleanses inwardly and itself, and joined in consciousness with the central Efficient becomes the key of every magic art; learned only by practice. (QUOTED: Hermes)
+  - “O, blessed watery pontic form, that dissolvest the elements” `I.3 ¶27`
+  - “Great is the reputed virtue of this Aqua Philosophica, which distills itself finally to manifestation by the Art of Life” `I.3 n36`
+- **Acetum** — 'Our Acetum', with which the watery soul is mingled to obtain the sulphurous Form; not explained here. (QUOTED: Hermes)
+  - “to mingle the same with our Acetum” `I.3 ¶27`
+- **white elixir** — Enjoyed when the colours appear and the king has triumphed over death; a resting point. (QUOTED: the adept)
+  - “Here thou mayest rest and wait, and enjoy the glory of thy white elixir” `I.3 n22`
+- **Vessel** (also: pure vessel) — That in which the Matter is scientifically concocted; knowledge of it is presupposed by the master; a pure vessel contains the ascending waters. (ATWOOD)
+  - “the master presupposes not only a knowledge of the Matter, but of the Vessel also in which it is scientifically concocted” `I.3 n22`
+- **Fontal Nature** — Those conversant with it by experience truly understand why God is to be feared. (ATWOOD)
+  - “they only who have become conversant by experience in the Fontal Nature” `I.3 n19`
+- **ruling Spirit of nature** — That with which communion is the way to the magistery; its Law is to be feared and obeyed. (ATWOOD)
+  - “communion with the ruling Spirit of nature” `I.3 n19`
+- **magistery** — The goal of the work, attained by communion with the ruling Spirit of nature. (ATWOOD)
+  - “the way to the attainment of the magistery” `I.3 n19`
+- **dissolution** (also: dissolved, radical dissolution) — Means of the triumphant reward; the spirit is carried through successive dissolutions to more perfect form; a radical dissolution of the spirit discovers the evil of original sin; dissolution by the water is the key of restoration. (ATWOOD)
+  - “the process by which the spirit is carried on from each succeeding dissolution into a more perfect form of being” `I.3 n19`
+- **mortify** (also: mortifying) — To put to death the matter (by its proper nature) as a necessary part of the work, with inducing generation. (QUOTED: Hermes)
+  - “except one understandeth how to mortify and induce generation” `I.3 ¶26`
+- **threefold law of life** (also: threefold) — Under which catholic nature necessarily proceeds; its ingress, egress and alternating action make up all phenomena of the process. (ATWOOD)
+  - “she operates her proper progress necessitously under the threefold law of life” `I.3 n35`
+- **central Efficient** — That with which the Aqua Philosophica, conjoined in consciousness, becomes all-powerful. (ATWOOD)
+  - “being conjoined in consciousness with the central Efficient, it becomes all-powerful” `I.3 n36`
+
+## Sources cited
+
+- **Hermes** — “the masculine truly is the heaven of the feminine, and the feminine is the earth of the masculine” `I.3 ¶15, I.3 ¶22, I.3 ¶23, I.3 n19, I.3 n31` — Main text of the section; speaker of all ¶ instructions, which Atwood glosses throughout the notes.
+- **our scholiast / the Scholiast**, *the Scholium* — “Thou must enter with thy whole spirit into the center of nature” `I.3 n19, I.3 n20, I.3 n21, I.3 n22, I.3 n26, I.3 n27, I.3 n29, I.3 n30, I.3 n31, I.3 n32, I.3 n36` — Supports Atwood's glosses: entering the Spirit, repeated opening of the body, Magnesia, essence of life as Fire, the Dragon as first blackness, secret sulfur, rarity of the philosophic water; cited repeatedly as giving full instructions.
+- **the excellent author of the Aquarium Sapientum, or Water Stone**, *Aquarium Sapientum, Musaeum Hermeticum* — “Spiritus ipse datur pro tempore corpori” `I.3 n21` — Latin enigma illustrating the separation, putrefaction and reunion of spirit, soul and body.
+- **the adept** — “now our king hath triumphed over the miseries of death” `I.3 n22` — Illustrates the sign of returning exaltations, colours and the white elixir.
+- **the poet** — “Adferet haec Phoebi nigra favilla jubar.” `I.3 n22` — Couplet illustrating that the black soot brings light.
+- **Eiraneaeus**, *Ripley Revived* `I.3 n22` — Reference only.
+- **Vaughan**, *Lumen de Lumine* `I.3 n22, I.3 n36` — Reference only (n36 cites 'Lumen de Lumine' without naming an author).
+- **Vaughan** — “not of kitchen-stuff, those three pot-principles of water, oil, and earth” `I.3 n30` — Supports reading the triplicity as hidden intrinsical natures known to those 'whose eyes are in the center and not on the circumference'.
+- **Arnold**, *Arnoldi Speculu* — “Convert the elements, says Arnold, and you shall have what you desire” `I.3 n23` — Supports ¶19; Atwood glosses as separating and rejoining in harmonious proportion.
+- **B. Valentine**, *Stone of Fire* `I.3 n23` — Reference only.
+- **Smagardine Tablet**, *Smagardine Tablet* `I.3 n23` — Reference only.
+- **Atalanta Fugiens**, *Atalanta Fugiens; Epigramma 8* — “Est avis in mundo sublimior omnibus, ovum” `I.3 n26` — Verse illustrating the egg analogy.
+- **The Alchemists** `I.3 n27` — Recommend observing nature for analogy; supports.
+- **the adepts** `I.3 n29, I.3 n30` — Doctrine of purified sulfur as seed and mercury as earth of the wise; Salt, Sulfur, Mercury.
+- **Sendivogius**, *New Light* — “a body, a spirit, and an occult soul” `I.3 n30, I.3 n31` — Supports the three principles as one substance in triple relation, to be separated, purified and rejoined.
+- **Digby's Ed.** `I.3 n30` — Reference only (p. 3).
+- **the mystical problem of the Trinity** — “three in one and one in three” `I.3 n30` — Analogy for agent, patient and offspring in all created things.
+- **a no less subtle than experienced adept** — “the central heat may change the water into air” `I.3 n31` — Illustrates the conversion of water to air and back, and the old man swallowing gold or silver.
+- **Maria**, *Maria Practica* `I.3 n31` — Reference only.
+- **unattributed saying** — “The fear of God is the beginning of wisdom, and the knowledge of the Holy is understanding” `I.3 n19` — Supports the admonition to fear God, said to be proved in Alchemy.
+- **Anthrop. Theomag.**, *Anthrop. Theomag.* `I.3 n22, I.3 n30` — Reference only (p. 22 in n30).
+
+## Ambiguities
+
+- “The water spoken of by Hermes is the passive spirit, the redness is its soul, and the earth begot betwixt them is the substance or body of both” `I.3 n21`
+  - Reading: Continuation of the scholiast's words
+  - Reading: Atwood's own gloss
+  - Basis: Preceded by 'says the scholiast' and 'continues he' in the same note, but the shift to 'spoken of by Hermes' could mark Atwood's own voice; no closing marker.
+- “the masculine truly is the heaven of the feminine, and the feminine is the earth of the masculine” `I.3 ¶22`
+  - Reading: Masculine = purified fixed sulfur (seed); feminine = mercury, the earth of the wise
+  - Reading: A more particular operative sense not given here
+  - Basis: n29 gives the sulfur/mercury seed-earth doctrine as its note to this line; but n29 adds 'the son's allusion is intimate to the art, and particular. See the Scholium.'
+- “first the needful water, then the oily tincture, and lastly, the faeces or earth which remains below” `I.3 ¶23`
+  - Reading: Figures for the three principles Salt, Sulfur, Mercury / body, spirit, soul
+  - Reading: Literal water, oil and earth
+  - Basis: n30 equates the triad in all things with Salt, Sulfur, Mercury; Vaughan in n30 rejects 'those three pot-principles of water, oil, and earth' as the adept's meaning. No one-to-one mapping is given.
+- “a no less subtle than experienced adept” `I.3 n31`
+  - Reading: Sendivogius (New Light)
+  - Reading: Maria (Maria Practica)
+  - Reading: Another unnamed author
+  - Basis: The note ends 'See the Scholium; Sendivogius, New Light; Maria Practica.' without assigning the quotation.
+- “teaches the adept” `I.3 n22`
+  - Reading: Eiraneaeus (Ripley Revived)
+  - Reading: Vaughan
+  - Reading: Another unnamed author
+  - Basis: The note's sources list follows without assigning the quotation.
+
+## Translations
+
+- `I.3 n21` “Spiritus ipse datur pro tempore corpori, at ille Exhilarans Animam Spiritus arte cluet. Spiritus ille Animan subito si contrahit ad se, Nullum se abjungit segregat aque suo. Tunc tria consistent et in una sede morantur, Donec solvatur, nobile corpus, opus. Putrescat nec non moriature, separate istis: Temporeat elapso Spiritus atque Anima Aestu convenient extremo sive calore, Quisquw suam sedem cim gravitate tenet. Integritas praesto est, nulla et perfectio desit Amplis laetitiis glorificatur opus.” → The Spirit itself is given for a time to the body, but that Spirit, gladdening the Soul, is renowned by art. If that Spirit suddenly draws the Soul to itself, none disjoins or separates itself from its own [text corrupt]. Then the three stand together and dwell in one seat until the work, the noble body, is dissolved. Let it putrefy and also die, these being separated; and when time has passed, Spirit and Soul come together in extreme heat or warmth, each holding its own seat with weight. Wholeness is at hand, no perfection is lacking; the work is glorified with ample joys. *(ours)*
+- `I.3 n22` “Ne te poeniteat faciem fuligine pingi Adferet haec Phoebi nigra favilla jubar.” → Do not regret that your face is painted with soot; this black ember will bring the radiance of Phoebus. *(ours)*
+- `I.3 n26` “Est avis in mundo sublimior omnibus, ovum Cujus ut inquiras, cura sit una tibi. Albumen luteum cicumdat molle vitellum, Ignito (ceu mos) cautus id ense petas: Vulcano Mars adat opem: pullaster et inde Exortus, ferri victor et ignis erit.” → There is a bird in the world loftier than all; let your one care be to seek its egg. The white surrounds the soft yellow yolk; attack it cautiously (as is the custom) with a fiery sword; let Mars lend aid to Vulcan; and the chick sprung from it will be victor over iron and fire. *(ours)*
+
+## Threads
+
+- `I.3 n19` 'Having previously shown that the way to the attainment of the magistery is by communion with the ruling Spirit of nature' points back to earlier argument.
+- `I.3 n20` Instructions for each repetition 'are given by the scholiast at full length'; repeated 'See the Scholium' references (n21, n22, n26, n27, n29, n30, n31, n36).
+- `I.3 ¶18` 'as I shall note to thee' — Hermes promises further note on the thirty days.
+- `I.3 n26` 'Hermes divides the matter into four parts, as was before seen' points back to an earlier section.
+- `I.3 n32` The Rational Ferment, 'concerning which it will be our purpose to inquire hereafter'.
+- `I.3 n33` ¶25 is 'for the present therefore unexplained', implying later explanation.
+- `I.3 n22` The Vessel, knowledge of which the master presupposes, is passed over here ('but we must pass on').

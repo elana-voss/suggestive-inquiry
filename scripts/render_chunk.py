@@ -34,7 +34,7 @@ def r(path, out):
     if d.get('threads'):
         L += ['', '## Threads', '']
         L += [f"- `{t['ref']}` {t['note']}" for t in d['threads']]
-    open(out, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    open(out, 'w', encoding='utf-8', newline='\n').write('\n'.join(L) + '\n')
 
 if __name__ == '__main__':
     r(sys.argv[1], sys.argv[2])

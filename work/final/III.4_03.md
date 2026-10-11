@@ -1,0 +1,273 @@
+# III.4_03
+
+*Atwood explains why adepts veiled their doctrine so that only the desirous and long-studied can follow it, gathers authorities on the student's requisites (study, skill, will, labour, prayer), and argues that the work turns on Desire and needs divine cooperation. She then defends prayer, understood as concentrated desire joined with labour, through Kirchringius's account of riddle-solving and Iamblicus's three classes of prayer and its effects on the soul.*
+
+## Argument
+
+- Adepts advise discretion, lest what is most precious in a philosopher's hands become worthless or worse. `III.4 ¶18` — ATWOOD
+- Let him who understands advance; the treasure can be neither bought nor sold. `III.4 ¶18, III.4 n13` — QUOTED: the royal artist (endorsed by Atwood)
+- The avaricious and ignorant are warned off; the art is written so the wise understand by pursuit and fools are debarred. `III.4 ¶18, III.4 n14` — QUOTED: Geber (endorsed by Atwood)
+- The Alchemists veiled their Wisdom so only the really desirous, fitted by long study, could understand. One spirit and intention runs throughout, hedged with kabalisms and emblems, so only One Leader can deliver her: the Rational Light, which strengthens in practice, is raised to 'the allegoric siege of life', and by divine wrath overcomes the stronghold of evil there. `III.4 ¶19` — ATWOOD
+- Collect the intention dispersed through the books and prove it by experiment until the whole, the perfecting and corrupting of Matter and Form, is known. `III.4 ¶20, III.4 n15` — QUOTED: the prince
+- A mind sluggish in theory cannot bring the Hand to practice; study wipes off ignorance, and 'the Dagon is overthrown'. `III.4 ¶20, III.4 n16` — QUOTED: Ricardus
+- Zachary: read and pray before the Work, yet mediums are needed. Sendivogius: pray, but work. Arnold: subtle mind, manual skill, free will; Lully adds Divine Favour and books. `III.4 ¶20, III.4 n17, III.4 n18, III.4 n19, III.4 n20` — QUOTED: Zachary; Sendivogius; Arnold; Lully
+- God grants the art on fervent prayer, never immediately but through instruction and handwork; without prayer the work is blocked or ends badly. `III.4 ¶20, III.4 n21` — QUOTED: the author of the Lucerna Salis
+- Prayer is no cant: the research is wrapped in the Desire and made manifest through it. Wisdom is sought from the Causal Fountain; partaking of Divinity comes only by voluntary assimilation. `III.4 ¶20` — ATWOOD
+- Love God, strength of the undertaking and bond of what one would unloose; the science is God's gift. `III.4 ¶20, III.4 n22` — QUOTED: Hermes
+- Man may conditionate, preparing by labour, but cannot compel the blessing, cement the spiritual union or give increase; in conjunction the Spirit recreates under the Divine Hand alone. God is Nature's Will. Wasted or hoarded talent is taken away. `III.4 ¶20` — ATWOOD
+- 'Our' gold and silver are no common plate; a 'sperme' out of a body holds Sol, Lune, Life, Light and the elements, all of one Image; the Water of the Wood makes the marriage. The covetous never find it; the seeker must be meek, charitable, prayerful. `III.4 ¶21, III.4 n23` — QUOTED: Pierce, the Black Monk
+- Every desire is a kind of prayer; prayer collects the mind so means suggest themselves. Esoterically it works in Spagyric Works when the mind is lifted up. `III.4 ¶22` — ATWOOD
+- Adepts prayed amid Vital Chemistry and received things suddenly, as if infused. With enigmas, burning desire is prayer and meditation is cooperation; persistence brings the solution in a moment, untraceably, as revelation, opening the mystery of all things. `III.4 ¶22, III.4 n24` — QUOTED: Kirchringius (endorsed by Atwood)
+- Against the charge of superstition, Atwood turns to the invocations of ancient Theurgic rites. `III.4 ¶23` — ATWOOD
+- Three classes of prayer: Collective, gathering the mental powers to enter the Enigma (Illumination); binding concordant spirits (Communion of Operation); the seal of union (Divine Fire). No sacred operation succeeds without prayer; it enlarges desire, is the Divine Key to Wisdom, purges what is prone to generation. `III.4 ¶24, III.4 n25, III.4 n26` — QUOTED: Iamblicus (endorsed by Atwood)
+
+## Method
+
+- **operator** — “he only who was really desirous, and made fit by long study to pursue the work, should be able to understand them” `III.4 ¶19` (ATWOOD)
+  - **Plain (stated):** The instructions are deliberately veiled so that only someone with genuine desire and long preparatory study can understand them.
+  - Also: “we treat of it in such words as to the wise shall, by pursuit become intelligible” `III.4 ¶18`
+  - Also: “hedged in with kabalisms, metaphors, types, emblems, and sophistications” `III.4 ¶19`
+- **impediment** — “Ye sons of Avarice and Ignorance, cries Geber, and ye of evil manners, avaunt and fly from this science, for it is inimical to you, and will bring you to poverty” `III.4 ¶18` (QUOTED: Geber)
+  - **Plain (stated):** Greed, ignorance and bad character exclude a person from the art; it cannot be bought or sold.
+  - Also: “For this treasure is not to be bought with money; and as it cannot be bought, so neither can it be sold” `III.4 ¶18`
+  - Also: “For covetous men yt findeth never Though they seek yt once and ever” `III.4 ¶21`
+- **agent** — “there is but One Leader, who should undertake the deliverance; one only, we repeat; he that is allied --- the same Rational Light that, in practice strengthening, afterwards is raised to the allegoric siege of life” `III.4 ¶19` (ATWOOD)
+  - **Plain (stated):** The single guide able to deliver the one hidden spirit and intention is what the text calls the Rational Light; it grows stronger through practice and is afterwards raised to the 'allegoric siege of life'. Whether it is the student's reason reading the texts or also an agent in the work is not settled here (see ambiguities).
+  - Basis: III.4 ¶19 explicitly identifies the One Leader with 'the same Rational Light'; 'siege of life' is not explained in this chunk.
+- **procedure** — “by the fire of his divine wrath enkindled, to overcome the stronghold of evil therein allied” `III.4 ¶19` (ATWOOD)
+  - **Plain (interpreted):** Once raised, the Rational Light is kindled by a 'fire of divine wrath' and overcomes evil lodged within that 'siege of life'. The chunk does not say what the evil is.
+  - Basis: III.4 ¶19: the same sentence continues the account of the Rational Light raised to the 'siege of life'; 'therein' refers back to that siege.
+- **procedure** — “collecting our dispersed intention, which we have described in divers places that we might not expose it to malignant, ignorant men” `III.4 ¶20` (QUOTED: the prince)
+  - **Plain (stated):** The teaching is deliberately scattered across the books; the student must gather the pieces and test the collection by experiment until he understands the whole.
+  - Also: “let him prove his collection even into the knowledge, studying and experimenting with the instance of sagacious labour, till he come to an entire understanding of the whole” `III.4 ¶20`
+- **result** — “so as to acquire a plenary knowledge of the verity of perfecting and corrupting Matter and Form” `III.4 ¶20` (QUOTED: the prince)
+  - **Plain (stated):** The aim of the study is full knowledge of how Matter and Form are perfected and corrupted. The chunk does not explain these terms further.
+- **procedure** — “nor will he be able advantageously to bring his Hand to the practice whose Mind is sluggish in studying the theory” `III.4 ¶20` (QUOTED: Ricardus)
+  - **Plain (stated):** Theory comes first: the mind must be prepared by reading the philosophers before practical work is attempted.
+  - Also: “thou ought first to read with unwearied patience and perseverance the writings of the philosophers before thou extendest thy Hand to the Philosophic Work” `III.4 ¶20`
+  - Also: “study is required in the beginning, and meditation, that a good foundation may be laid” `III.4 ¶20`
+- **impediment** — “ignorance is wiped off by study, which restores the human intellect to true science and knowledge, and by these enigmas the Dagon is overthrown” `III.4 ¶20` (QUOTED: Ricardus)
+  - **Plain (interpreted):** Study of the enigmatic writings removes the obstacle of ignorance; 'the Dagon' names what is overthrown, apparently that ignorance.
+  - Basis: III.4 ¶20: 'Dagon is overthrown' follows directly on 'ignorance is wiped off by study' in the same sentence. The chunk does not define Dagon; see ambiguities.
+- **operator** — “three requisites, viz., subtlety of mind, manual skill, and a free will for the operation” `III.4 ¶20` (QUOTED: Arnold)
+  - **Plain (stated):** The operator needs a subtle mind, skill of hand and a will freely set on the work; Lully adds sufficient Divine Favour and books that open the understanding.
+  - Also: “a sufficiency of the Divine Favour, and books to open the understanding and give it zest for truth” `III.4 ¶20`
+- **procedure** — “He does not either grant it immediately to any person, but always by mediate dispositions, to wit, by instructions and the labour of the hands” `III.4 ¶20` (QUOTED: the author of the Lucerna Salis)
+  - **Plain (stated):** Prayer alone is not enough: the gift comes only through means, namely instruction and manual labour, which God blesses when invoked sincerely.
+  - Also: “Mediums nevertheless are to be employed” `III.4 ¶20`
+  - Also: “Pray, says Sendivogius, pray; but work.” `III.4 ¶20`
+  - Also: “God indeed gives understanding; but thou must know how and when to use it” `III.4 ¶20`
+- **impediment** — “He stops the effect thereof, either by interposing obstacles to things already begun, or else suffering them to conclude with an evil event” `III.4 ¶20` (QUOTED: the author of the Lucerna Salis)
+  - **Plain (stated):** Without prayer, work already begun is obstructed or ends badly.
+- **principle** — “a research which is so much wrapped in and about the Desire as to be ultimately made manifest through its means” `III.4 ¶20` (ATWOOD)
+  - **Plain (interpreted):** The work depends on, and is finally brought to light through, desire; this is why prayer (desire directed to God) belongs to it.
+  - Basis: III.4 ¶20 gives this as the reason prayer is not 'a canting pretense'; III.4 ¶22 says 'every desire of the mind is in its kind a prayer'; III.4 ¶24 says prayer enlarges the soul's capacity 'by enlarging the desire'.
+- **principle** — “For to desire and covet after wisdom is to seek to be a partaker of that Divinity to which we aspire, and no otherwise can we be made partakers, it is taught, but by a voluntary assimilation” `III.4 ¶20` (ATWOOD)
+  - **Plain (stated):** Desiring wisdom is itself the attempt to share in the divine, and one shares in it only by willingly becoming like it.
+- **principle** — “I admonish thee to love God, in whom is the strength of thy undertaking and the bond of whatsoever thou meditatest to unloose” `III.4 ¶20` (QUOTED: Hermes)
+  - **Plain (stated):** Love of God underlies the work: in God lies the strength of the undertaking and the 'bond' of whatever the operator intends to loosen. The chunk does not say what is to be unloosed.
+  - Also: “this science I have obtained by the sole gift of the living God inspiring me” `III.4 ¶20`
+- **principle** — “Man may conditionate: --- ought, by patient labour disciplining, to prepare the way of the Greater in the Lesser Good” `III.4 ¶20` (ATWOOD)
+  - **Plain (stated):** The operator can only set up conditions by disciplined labour; the divine blessing, the spiritual union and its increase depend on God, the Will of Nature, not on him.
+  - Also: “he cannot compel, much less impart, the Divine blessing on his handiwork, neither cement the spiritual union or give it increase” `III.4 ¶20`
+  - Also: “it is vain to look for a blessing from Nature without His cooperation who is her Will” `III.4 ¶20`
+  - Also: “the Lesser is blessed by the Greater” `III.4 ¶20`
+  - Also: “Paul may plant and Apollos may water, but God alone giveth the increase” `III.4 ¶20`
+- **stage** — “There is a period too, when in conjunction, the Spirit transcends all earthly control, and passing under the Divine Hand, recreates by His sovereign will alone” `III.4 ¶20` (ATWOOD)
+  - **Plain (stated):** At a period of 'conjunction' the Spirit passes beyond the operator's control and the recreation happens by God's will alone. Whether 'conjunction' is a stage of the practical work or the spiritual union just mentioned is open (see ambiguities).
+- **impediment** — “God withholds not this increase alone, but deprives the talent likewise, where it is wasted or hoarded without interest or promotion” `III.4 ¶20` (ATWOOD)
+  - **Plain (stated):** If the gift is wasted or left idle, increase is withheld and the ability itself is taken away; the operator must be a good steward of the 'treasury of life'.
+  - Also: “he therefore must be a good steward who would overlook the rich treasury of life” `III.4 ¶20`
+- **subject** — “Our gld and silver ben nocommon plate, But a sperme owte of a body I take,” `III.4 ¶21` (QUOTED: Pierce, the Black Monk)
+  - **Plain (interpreted):** The philosophers' gold and silver are not the common metal; what is taken is a seed out of a body, said to contain Sol, Lune, Life, Light and the four elements, all from one Image. The chunk does not identify the body.
+  - Basis: III.4 ¶21: 'In the which is alle, Sol, Lune, Life and Light, Water and Erth, Fyre and Fryght: And alle cometh of one Image'. Whether the seed is identified with 'our gold and silver' depends on how the 'But' is read (see ambiguities).
+  - Also: “In the which is alle, Sol, Lune, Life and Light, Water and Erth, Fyre and Fryght: And alle cometh of one Image,” `III.4 ¶21`
+- **agent** — “But the Water of the Wood, maketh the marriage.” `III.4 ¶21` (QUOTED: Pierce, the Black Monk)
+  - **Plain (stated):** Something called the 'Water of the Wood' brings about the union ('marriage'). This chunk does not explain what it is.
+- **operator** — “And he that will come thereby Must be meeke and full of mercy:” `III.4 ¶21` (QUOTED: Pierce, the Black Monk)
+  - **Plain (stated):** Moral requirements: meekness, mercy, charity, simple living, almsgiving, prayer and penance; the long-searching are told to leave work and pray.
+  - Also: “Therefore there ys no other waye But to take thee to thy beades and pray:” `III.4 ¶21`
+  - Also: “All you that have sought manie a day, Leave worke, take your beades and pray” `III.4 ¶21`
+- **principle** — “every desire of the mind is in its kind a prayer and preparative for the acquirement of its object” `III.4 ¶22` (ATWOOD)
+  - **Plain (stated):** Prayer is a form of desire: concentrated desire gathers the mind so that means to its object suggest themselves.
+  - Also: “it certainly collects the mind, and corroborates the faculties in their pursuit; for when the thoughts are concentered, means and adjuncts suggest themselves” `III.4 ¶22`
+- **procedure** — “adepts are eloquent in their imputations of its efficacy in Spagyric Works, when the mind is lifted up” `III.4 ¶22` (ATWOOD)
+  - **Plain (interpreted):** Esoterically, prayer is part of the work itself: adepts prayed during the operations, with the mind raised, and received things suddenly as if infused from above.
+  - Basis: III.4 ¶22: 'the esoteric ground brings us acquainted with prayer in a far deeper sense'; 'even in the midst of the operations of Vital Chemistry, full of labour and toil, they prayed'. The chunk does not detail what 'mind lifted up' involves.
+  - Also: “even in the midst of the operations of Vital Chemistry, full of labour and toil, they prayed, says Kirchringius” `III.4 ¶22`
+- **procedure** — “for if you burn with a great desire of knowing them, that is prayer: and when you incline your mind to this or that, variously discussing and meditating many things, this is cooperation” `III.4 ¶22` (QUOTED: Kirchringius)
+  - **Plain (stated):** In solving the enigmatic writings, intense desire to know is prayer, and active, varied mental effort alongside it is 'cooperation'; without that effort prayer is a tempting of God.
+  - Also: “that your prayer may not be, for want of exertion a tempting of God” `III.4 ¶22`
+- **sign** — “at length, in a moment, the solution will fall in; this is a revelation, which you cannot receive unless you pray with great desire and labour” `III.4 ¶22` (QUOTED: Kirchringius)
+  - **Plain (stated):** After persistent desire and labour, the answer arrives suddenly and from no traceable line of thought; this sudden arrival is called revelation.
+  - Also: “have been imparted to him in a moment, as it were, infused from above, or dictated by some good genius” `III.4 ¶22`
+  - Also: “you cannot perceive how from all those things, of which you thought, which were not the solution of the Enigma, the solution itself arose” `III.4 ¶22`
+- **result** — “This unfolding of the Riddle opens to you the mystery of all things” `III.4 ¶22` (QUOTED: Kirchringius)
+  - **Plain (stated):** Solving the riddle this way opens the mystery of all things and shows that prayer obtains both spiritual and bodily goods.
+- **stage** — “The first of which, as pertaining to the early initiations, was called Collective, having for its object to gather the mental powers into accord with their leader, seeking a clue whereby it may enter the intelligible profundity of the Enigma” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** First class of prayer (early initiations): gathering the mental faculties into agreement under their leader to find entry into the Enigma; it pertains to Illumination.
+  - Also: “The first, recapitulates our author, pertains to Illumination” `III.4 ¶24`
+- **stage** — “The second effects the bonds of concordant spirits; calling forth, prior to intellectual alliance.” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** Second class of prayer: binding together spirits in accord, before intellectual alliance; it pertains to a Communion of Operation.
+  - Also: “the second, to a Communion of Operation” `III.4 ¶24`
+- **stage** — “The third is the final authoritative seal of union; when the desire, leading from faith, becomes into its true end.” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** Third class of prayer: the final seal of union, where desire led by faith reaches its end; through it one receives a full plenitude of Divine Fire.
+  - Also: “through the energy of the third, we receive a perfect plenitude of Divine Fire” `III.4 ¶24`
+- **principle** — “No operation, however, in sacred concerns, can succeed without the intervention of prayer.” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** Prayer is required in every sacred operation; it may prepare for, mediate in, or complete the sacrifice.
+  - Also: “supplication, indeed precedes, like a precursor, preparing the way before the sacrifice appears; but sometimes it intercedes as a mediator” `III.4 ¶24`
+- **procedure** — “It likewise is the Divine Key which opens to men the penetralia of Wisdom” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** Continual prayer is the 'Divine Key': it enlarges the soul's capacity by enlarging desire, accustoms it to supernal light, and opens the inner recesses of Wisdom.
+  - Also: “renders, the receptacles of the soul far more capacious (by enlarging the desire) for the communications of the gods” `III.4 ¶24`
+  - Also: “accustoms us to the splendid rivers of supernal light” `III.4 ¶24`
+- **result** — “expels whatever is prone to generation, and retains nothing of the dregs of mortality in its ethereal and splendid spirit” `III.4 ¶24` (QUOTED: Iamblicus)
+  - **Plain (stated):** Prayer purifies the soul: it strips away what is foreign to the divine and prone to generation, clothes the soul with divine perfections, inflames its divine part, and brings it into lasting communion with Divinity.
+  - Also: “divesting her of every thing foreign to a Divine nature, and clothes her with the perfections of the god” `III.4 ¶24`
+  - Also: “inflames the Divine part of the soul” `III.4 ¶24`
+  - Also: “renders those by whom it is employed the familiars and domestics of the gods” `III.4 ¶24`
+
+## Terms
+
+- **Prayer** (also: prayer, prayers, pray, prayed) — Desire directed to its object, especially to God for wisdom; it collects the mind and, joined with labour ('cooperation'), brings revelation. Esoterically it has 'a far deeper sense' and works within the operations; Iamblicus distinguishes three classes leading to union and Divine Fire. (ATWOOD)
+  - = great desire of knowing: “for if you burn with a great desire of knowing them, that is prayer” `III.4 ¶22`
+  - = Divine Key: “It likewise is the Divine Key which opens to men the penetralia of Wisdom” `III.4 ¶24`
+  - “every desire of the mind is in its kind a prayer and preparative for the acquirement of its object” `III.4 ¶22`
+  - “But the esoteric ground brings us acquainted with prayer in a far deeper sense” `III.4 ¶22`
+  - “prayer especially, which is its principle exercise, is profitable for great undertakings” `III.4 ¶22`
+- **Desire** (also: desire) — The longing of the mind for its object; the research is 'wrapped in and about' it and made manifest through it; every desire is a kind of prayer; prayer enlarges it. (ATWOOD)
+  - “a research which is so much wrapped in and about the Desire as to be ultimately made manifest through its means” `III.4 ¶20`
+  - “(by enlarging the desire)” `III.4 ¶24`
+- **Rational Light** — The One Leader able to deliver the veiled spirit and intention; strengthened in practice, then raised to the 'allegoric siege of life' and kindled to overcome the stronghold of evil there. (ATWOOD)
+  - = One Leader: “there is but One Leader, who should undertake the deliverance; one only, we repeat; he that is allied --- the same Rational Light” `III.4 ¶19`
+- **siege of life** — Called 'allegoric'; that to which the Rational Light is raised and where it overcomes 'the stronghold of evil'. Not further explained here. (ATWOOD)
+  - “afterwards is raised to the allegoric siege of life” `III.4 ¶19`
+- **Matter and Form** — What is perfected and corrupted; full knowledge of this is the goal of study. (QUOTED: the prince)
+  - “a plenary knowledge of the verity of perfecting and corrupting Matter and Form” `III.4 ¶20`
+- **Dagon** — Something overthrown by the enigmas, in a sentence about study wiping off ignorance. Not defined. (QUOTED: Ricardus)
+  - “by these enigmas the Dagon is overthrown” `III.4 ¶20`
+- **Philosophic Work** — The practical work, to which the Hand is extended only after reading the philosophers and praying. (QUOTED: Zachary)
+  - “before thou extendest thy Hand to the Philosophic Work” `III.4 ¶20`
+- **Mediums** — Means that must be employed besides prayer. (QUOTED: Zachary)
+  - “Mediums nevertheless are to be employed” `III.4 ¶20`
+- **mediate dispositions** — The means through which God grants the art: instruction and the labour of the hands. (QUOTED: the author of the Lucerna Salis)
+  - “but always by mediate dispositions, to wit, by instructions and the labour of the hands” `III.4 ¶20`
+- **Causal Fountain** — The source of Wisdom, referred to as 'His', to be applied to by prayer as one applies to a master of an art. (ATWOOD)
+  - “the Causal Fountain for Wisdom, which is His alone and voluntarily to bestow” `III.4 ¶20`
+- **voluntary assimilation** — The only way to be made partaker of the Divinity one aspires to. (ATWOOD)
+  - “no otherwise can we be made partakers, it is taught, but by a voluntary assimilation” `III.4 ¶20`
+- **conditionate** — What man can do: prepare conditions by patient disciplined labour, without being able to compel the Divine blessing. (ATWOOD)
+  - “Man may conditionate: --- ought, by patient labour disciplining, to prepare the way of the Greater in the Lesser Good” `III.4 ¶20`
+- **Greater and Lesser Good** — Man prepares the way of the Greater in the Lesser Good; the Lesser is blessed by the Greater. (ATWOOD)
+  - “to prepare the way of the Greater in the Lesser Good” `III.4 ¶20`
+  - “the Lesser is blessed by the Greater” `III.4 ¶20`
+- **spiritual union** — Something man cannot cement or increase by himself. (ATWOOD)
+  - “neither cement the spiritual union or give it increase” `III.4 ¶20`
+- **conjunction** — A period in which the Spirit transcends earthly control and recreates under the Divine Hand alone. (ATWOOD)
+  - “There is a period too, when in conjunction, the Spirit transcends all earthly control” `III.4 ¶20`
+- **sperme** — A seed taken out of a body; contains Sol, Lune, Life, Light, Water, Earth, Fire and 'Fryght'; set against common gold and silver. (QUOTED: Pierce, the Black Monk)
+  - “But a sperme owte of a body I take,” `III.4 ¶21`
+  - “In the which is alle, Sol, Lune, Life and Light, Water and Erth, Fyre and Fryght:” `III.4 ¶21`
+- **Water of the Wood** — What 'maketh the marriage'. Not explained here. (QUOTED: Pierce, the Black Monk)
+  - “But the Water of the Wood, maketh the marriage.” `III.4 ¶21`
+- **Sol** — Named among the contents of the seed; not explained. (QUOTED: Pierce, the Black Monk)
+  - “In the which is alle, Sol, Lune, Life and Light” `III.4 ¶21`
+- **Lune** — Named among the contents of the seed; not explained. (QUOTED: Pierce, the Black Monk)
+  - “In the which is alle, Sol, Lune, Life and Light” `III.4 ¶21`
+- **Spagyric Works** — Works in which, esoterically, adepts credit prayer's efficacy 'when the mind is lifted up'. Not further defined. (ATWOOD)
+  - “adepts are eloquent in their imputations of its efficacy in Spagyric Works, when the mind is lifted up” `III.4 ¶22`
+- **Vital Chemistry** — Operations 'full of labour and toil', in the midst of which adepts prayed. Not further defined. (QUOTED: Kirchringius)
+  - “even in the midst of the operations of Vital Chemistry, full of labour and toil, they prayed” `III.4 ¶22`
+- **Cooperation** — The mental labour of turning the mind variously to the problem alongside prayer, so that prayer is not 'a tempting of God'. (QUOTED: Kirchringius)
+  - = variously discussing and meditating many things: “when you incline your mind to this or that, variously discussing and meditating many things, this is cooperation” `III.4 ¶22`
+- **Revelation** — The sudden arrival of a solution after persistent desire and labour, received only by one who prays with great desire and labour. (QUOTED: Kirchringius)
+  - = the solution falling in: “at length, in a moment, the solution will fall in; this is a revelation” `III.4 ¶22`
+- **Enigma** (also: enigmas) — The veiled teaching and its hidden meaning, whose solution comes by desire and labour; the first class of prayer seeks entry into its 'intelligible profundity'; unfolding it opens 'the mystery of all things'. (UNCLEAR)
+  - “seeking a clue whereby it may enter the intelligible profundity of the Enigma” `III.4 ¶24`
+  - “which were not the solution of the Enigma, the solution itself arose” `III.4 ¶22`
+- **Theurgic rites** — Ancient rites in which different kinds of invocation were used; Atwood draws on them to defend prayer. (ATWOOD)
+  - “the different kinds of invocation which were employed by the ancients in their celebration of Theurgic rites” `III.4 ¶23`
+- **Collective** — The first class of prayer, of the early initiations; gathers the mental powers into accord with their leader; pertains to Illumination. (QUOTED: Iamblicus)
+  - “was called Collective, having for its object to gather the mental powers into accord with their leader” `III.4 ¶24`
+- **Illumination** — What the first class of prayer pertains to. (QUOTED: Iamblicus)
+  - “The first, recapitulates our author, pertains to Illumination” `III.4 ¶24`
+- **Communion of Operation** — What the second class of prayer pertains to; that class effects the bonds of concordant spirits before intellectual alliance. (QUOTED: Iamblicus)
+  - “the second, to a Communion of Operation” `III.4 ¶24`
+- **Divine Fire** — Received in perfect plenitude through the energy of the third class of prayer, the final seal of union. (QUOTED: Iamblicus)
+  - “through the energy of the third, we receive a perfect plenitude of Divine Fire” `III.4 ¶24`
+- **generation** — What prayer expels: 'whatever is prone to generation' is set alongside 'the dregs of mortality'. (QUOTED: Iamblicus)
+  - “expels whatever is prone to generation, and retains nothing of the dregs of mortality” `III.4 ¶24`
+
+## Sources cited
+
+- **the royal artist**, *Calid in Salmon, p. 30 (per footnote)* — “this treasure is not to be bought with money; and as it cannot be bought, so neither can it be sold” `III.4 ¶18, III.4 n13` — Supports: the art is for those who understand, and cannot be bought or sold.
+- **Geber**, *Summa Perfect.* — “Ye sons of Avarice and Ignorance, cries Geber, and ye of evil manners, avaunt and fly from this science” `III.4 ¶18, III.4 n14` — Supports deliberate veiling: the unworthy are excluded; the writing is intelligible only to the wise by pursuit.
+- **the preacher** — “The words of the wise are as goads” `III.4 ¶19` — Illustrates the pointed, veiled nature of the wise writings.
+- **the prince**, *Epilogue to the Invest. Of Perfection* — “let the sapient artificer, concludes the prince, studiously peruse our books, collecting our dispersed intention” `III.4 ¶20, III.4 n15` — Supports: the student must collect the dispersed teaching and test it by experiment.
+- **Ricardus**, *Richardi Ang. Libel. Cap. 3* — “I beg of thee, my son, says the adept Ricardus, to examine the writings of the philosophers” `III.4 ¶20, III.4 n16` — Supports: study of theory precedes practice; study overthrows ignorance.
+- **Zachary**, *Opusculum (Zachary Opuscule, p. 69)* — “for no one ever acquired this art by chance, but by prayer rather than by other means” `III.4 ¶20, III.4 n17` — Supports: read the philosophers and pray before the Work, yet means must be used.
+- **Sendivogius**, *New Light* — “Pray, says Sendivogius, pray; but work.” `III.4 ¶20, III.4 n18` — Supports: prayer joined with work and knowing how and when to use understanding.
+- **Arnold**, *Rosary (Arnoldi Rosarium, lib. 2, cap. 5)* — “three requisites, viz., subtlety of mind, manual skill, and a free will for the operation” `III.4 ¶20, III.4 n19` — Supports: requisites of the operator.
+- **Lully**, *Lullii Theor. Test. Ch. 31.; Theatr. Chem., vol. 2, p.419* — “a sufficiency of the Divine Favour, and books to open the understanding and give it zest for truth” `III.4 ¶20, III.4 n20` — Supports: adds Divine Favour and books to Arnold's requisites.
+- **Ricardi Anglici Libellus**, *Ricardi Anglici Libellus, cap. 2* `III.4 n20` — Reference only (cited with Lully).
+- **The author of the Lucerna Salis**, *Lucerna Salis (Digby's Translation, p. 320, Recapitulation)* — “He does not either grant it immediately to any person, but always by mediate dispositions, to wit, by instructions and the labour of the hands” `III.4 ¶20, III.4 n16, III.4 n21` — Supports: study, meditation and prayer are needed; God grants the art only through instruction and labour, and without prayer obstructs or spoils it. Also cited in n16 for 'many passages to the same effect' as Ricardus.
+- **Digby**, *Digby's Translation of the Lucerna Salis* `III.4 n21` — Reference only (translation cited).
+- **Hermes**, *Tract. Aur., cap. 1 and 2* — “this science I have obtained by the sole gift of the living God inspiring me” `III.4 ¶20, III.4 n22` — Supports: love of God is the strength of the undertaking; the science is God's gift.
+- **the Scripture** — “the Lesser is blessed by the Greater” `III.4 ¶20` — Supports: blessing and increase come from God. Atwood also quotes 'Every good gift and every perfect gift comes from the Father of Lights' and 'Paul may plant and Apollos may water, but God alone giveth the increase', and says the talent is taken from him who does not use it.
+- **Pierce, the Black Monk**, *on the Elixir, in Ashmole's Theatr.* — “Therefore there ys no other waye But to take thee to thy beades and pray:” `III.4 ¶21, III.4 n23` — Supports: the subject is a seed from a body, not common gold and silver; the seeker must be pious, charitable and prayerful; covetous men never find it.
+- **Ashmole**, *Theatr.* `III.4 n23` — Reference only (collection containing Pierce's verse).
+- **Kirchringius**, *Annotations of Kirchringius on Basil Valentine, sub init., p. 5* — “even in the midst of the operations of Vital Chemistry, full of labour and toil, they prayed, says Kirchringius” `III.4 ¶22, III.4 n24` — Supports: efficacy of prayer in the work and in solving enigmas; prayer as desire plus cooperation yielding revelation.
+- **Basil Valentine** `III.4 n24` — Reference only (subject of Kirchringius's annotations).
+- **the oracles** — “Thus piety is available for all things, as the oracles declare” `III.4 ¶22` — Supports: piety, and prayer as its principal exercise, are profitable for great undertakings.
+- **St. Paul**, *Epistle to the Romans, 8:26, 27* `III.4 n25` — Reference only (compared with supplication interceding as a mediator).
+- **Iamblicus**, *De Mysteriis, cap. 26* — “Prayer, according to Iamblicus, was divided into three classes” `III.4 ¶24, III.4 n26` — Supports Atwood's defence of prayer: three classes of prayer, its necessity in sacred operations, and its purifying effects on the soul.
+
+## Ambiguities
+
+- “lest That, which in the hands of a philosopher becomes most precious, should be otherwise made worthless, or worse than all” `III.4 ¶18`
+  - Reading: 'That' is the art or knowledge itself, harmful in the wrong hands.
+  - Reading: 'That' is the subject or matter of the work, which becomes precious only under philosophic handling.
+  - Basis: Reading 1: ¶18 continues with 'this treasure' and 'this great gift of God' hidden from the unworthy. Reading 2: capitalized 'That' and 'in the hands of a philosopher becomes' suggest a material transformed; the chunk does not specify.
+- “but she is so hedged in with kabalisms, metaphors, types, emblems, and sophistications, that there is but One Leader, who should undertake the deliverance” `III.4 ¶19`
+  - Reading: 'She' is the one spirit or intention of the writings; the One Leader (Rational Light) is the student's reason, and 'deliverance' means freeing the hidden meaning from the emblems.
+  - Reading: 'She' is a spirit hidden in life itself, and the Rational Light is also an agent in the work, raised into the 'siege of life' to overcome evil there.
+  - Basis: Reading 1: the sentence follows the discussion of veiled writings and 'One spirit indeed reigns throughout, and one intention'; 'Rational' suggests reason. Reading 2: the same sentence continues 'in practice strengthening', 'raised to the allegoric siege of life' and 'overcome the stronghold of evil therein allied', which describe an operative process.
+- “afterwards is raised to the allegoric siege of life” `III.4 ¶19`
+  - Reading: 'siege' is a seat or place in life to which the Rational Light is raised.
+  - Reading: 'siege' is an assault on life, where the stronghold of evil is overcome.
+  - Basis: Reading 1: 'raised to' suggests a position. Reading 2: the sentence goes on to 'overcome the stronghold of evil therein'.
+- “by these enigmas the Dagon is overthrown” `III.4 ¶20`
+  - Reading: Dagon stands for the ignorance just said to be wiped off by study.
+  - Reading: Dagon names some other obstacle or false object overthrown through the enigmas, not identified here.
+  - Basis: Reading 1: same sentence, directly after 'ignorance is wiped off by study'. Reading 2: the text does not state the identity.
+- “There is a period too, when in conjunction, the Spirit transcends all earthly control” `III.4 ¶20`
+  - Reading: 'conjunction' is a stage of the practical work.
+  - Reading: 'conjunction' is the spiritual union mentioned just before.
+  - Basis: Reading 1: 'a period' implies a phase in a process. Reading 2: the preceding clause says man cannot 'cement the spiritual union or give it increase'. The chunk does not define conjunction.
+- “Our gld and silver ben nocommon plate, But a sperme owte of a body I take,” `III.4 ¶21`
+  - Reading: 'Our gold and silver' are identified with the seed taken out of a body.
+  - Reading: The lines only contrast: the gold and silver are not common, and (separately) the speaker takes a seed from a body.
+  - Basis: Reading 1: the 'But' construction ('not common plate, but a sperme') suggests identity. Reading 2: 'I take' can be a separate clause; the text does not state the identity outright.
+- “All you that have sought manie a day, Leave worke, take your beades and pray” `III.4 ¶21`
+  - Reading: Give up the labour and rely on prayer alone.
+  - Reading: Prayer is the missing element to add to labour, consistent with the other authorities in this chunk.
+  - Basis: Reading 1: the verse's literal wording. Reading 2: III.4 ¶20 'Pray, says Sendivogius, pray; but work' and the Lucerna Salis's 'mediate dispositions'; III.4 ¶22, where prayer without exertion is 'a tempting of God'.
+- “they prayed, says Kirchringius, and every man knows, that hath entirely devoted himself to this business, how effectual prayer is” `III.4 ¶22`
+  - Reading: Kirchringius is quoted from here to the end of ¶22, where footnote (24) sits.
+  - Reading: Only the opening clause is Kirchringius; the riddle-solving passage is Atwood's own.
+  - Basis: Reading 1: the single footnote (24) closes the paragraph and the passage shifts to second-person address. Reading 2: there are no quotation marks; the text does not mark where the citation ends.
+- “(by enlarging the desire)” `III.4 ¶24`
+  - Reading: Atwood's own gloss inserted into Iamblicus's account.
+  - Reading: Part of the reported Iamblicus text.
+  - Basis: Reading 1: the parenthesis interrupts the sentence and echoes Atwood's emphasis on Desire in III.4 ¶20 and ¶22. Reading 2: it sits inside the passage footnoted to Iamblicus (n26) with no marker of a change of voice.
+
+## Translations
+
+- `III.4 ¶21` “Our gld and silver ben nocommon plate, But a sperme owte of a body I take, In the which is alle, Sol, Lune, Life and Light, Water and Erth, Fyre and Fryght: And alle cometh of one Image, But the Water of the Wood, maketh the marriage.” → Our gold and silver are no common plate, but a seed I take out of a body, in which is all: Sol, Lune, Life and Light, Water and Earth, Fire and 'Fryght'. And all comes of one Image, but the Water of the Wood makes the marriage. *(ours)*
+- `III.4 ¶21` “Therefore there ys no other waye But to take thee to thy beades and pray: For covetous men yt findeth never Though they seek yt once and ever:” → Therefore there is no other way but to take to your beads and pray; for covetous men never find it, though they seek it forever. *(ours)*
+- `III.4 ¶21` “Symple and pewerly hys lyf to leade: With prayers, penances and piety, And ever to God a lover be, And all the riches, that he ys sped, To do God worshippe with almes ded. All you that have sought manie a day, Leave worke, take your beades and pray” → To lead his life simply and poorly, with prayers, penances and piety, and ever be a lover of God, and use all the riches he gains to worship God with alms-deeds. All you who have sought many a day, leave work, take your beads and pray. *(ours)*
+
+## Threads
+
+- `III.4 ¶18` 'Adepts all therefore advise discretion' draws its conclusion from the preceding chunk's argument.
+- `III.4 ¶20` 'it is taught' (voluntary assimilation as the only way to partake of Divinity) appeals to an unnamed teaching not identified in this chunk.
+- `III.4 ¶23` Announces 'a few further considerations in defense of prayer, and also the different kinds of invocation which were employed by the ancients in their celebration of Theurgic rites'; ¶24 begins this with Iamblicus, and it may continue in the next chunk.

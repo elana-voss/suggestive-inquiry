@@ -1,0 +1,302 @@
+# APP_05
+
+*A run of numbered aphorisms (110–134): the work as reciprocal, gradual action; the inner center reached by humble, whole-self conversion rather than intellect alone; the a priori method; the soul's ether and vaporous vehicle; the Sulphur (light of life) bound by Will and loosed only by Will through fermentation; and decodings of Saturn, the colours and Vulcan.*
+
+## Argument
+
+- The work is agent on patient and patient, advancing, reacting on agent; gradual but progressive, each fermented spirit advancing on its origin. Desire draws matter about the image of its object. `APP ¶111` — ATWOOD
+- Language was never framed for absolute truth, so even Bacon's style turned a priori would seem mystical to perceptive minds; inner light elaborated by thought grows more expressible. `APP ¶111` — ATWOOD
+- Inner principles are deviated by the law of individual life. Theocracy (Kirchberger for de St Martin) is a great truth, qualified: a perfect law must work on an imperfect surface by degrees. `APP ¶112` — ATWOOD
+- Mars/Venus natures, near the Sol principle, know by experience; Mercury/Jupiter perceive but cannot realize without Saturn and Luna. `APP ¶113` — ATWOOD
+- De St Martin entered the center of substantial life; all who enter agree, the revelation being identical. `APP ¶113` — ATWOOD
+- Intellectual seekers like Kirchberger dive by intellect instead of being converted wholly into the Light: revelation without realization. Passive seekers in Love are worked at every surface: slower, surer. `APP ¶114, APP ¶115` — ATWOOD
+- Deep thought reaches the true center at moments. In the Hermetic process each question is thrown into solution that converts the enquirer: light dissolving darkness. `APP ¶115` — ATWOOD
+- Universal Reason answers the sceptical intellect only in humility; Boehme became it by in-seeing. `APP ¶116, APP ¶117` — ATWOOD
+- Only Light illumines Light; St Paul is better read through the higher Mystics than commentators. `APP ¶118` — ATWOOD
+- In 'that dream' the mind returned to its ether, the Universal Ether being the omnia in omnibus; each holds a scrap of it from conception. Green vegetative life is hope; purple its ripened Life. `APP ¶119` — ATWOOD
+- Turned within and allied to God, man is Nature's master, not Bacon's servant. A priori inquiry is hindered only by selfhood until regeneration, and proves itself by effects, which induction never can. `APP ¶120` — ATWOOD
+- The vaporous vehicle obscuring the generative light must be evaporated before truth appears. Birth images the Fall, first spiritual. `APP ¶121` — ATWOOD
+- Nature's spirit is imagination, clothing itself in aromal essences, reconstructing in us likewise. Children imagine freely until self becomes the magnet. Behmen surpassed the Neo-Platonists, who did not declare inner experience. `APP ¶122` — ATWOOD
+- Weight is the analogue of Will; two wills contend for the soul. Sulphur, the light of life, lies bound below and must be grafted into the medial region; Saturn (Will) alone unbinds what Will bound. `APP ¶123, APP ¶124, APP ¶125` — ATWOOD
+- A will thrown into another's mind ferments the including spirit until it dissolves and releases its light in a coruscation, like Apuleius's midnight sun, under spiritual guides. Light meeting light brings self-perception. `APP ¶126` — ATWOOD
+- Uttering spirit-suggestions invites possession. Music is formative in the ether. Vulcan is Motion, lame because it never returns into its principle; he stirs the fire but is not it. `APP ¶127, APP ¶128, APP ¶129` — ATWOOD
+
+## Method
+
+- **principle** — “The whole work is an action of agent on patient, and the reaction of patient, advancing, on agent.” `APP ¶111` (ATWOOD)
+  - **Plain (stated):** The work is reciprocal: an active principle acts on a passive one, and the passive one, as it advances, reacts back on the active.
+  - Basis: Direct statement, APP ¶111.
+- **stage** — “The work is gradual, yet always progressive; each fermented spirit advances upon its origin.” `APP ¶111` (ATWOOD)
+  - **Plain (stated):** The work goes by degrees; each fermentation leaves the spirit further on than the state it arose from.
+  - Basis: Direct statement, APP ¶111; compare a perfect law working 'by intermediate degrees of completeness' (APP ¶112) and each solution furnishing 'a new basis' (APP ¶115).
+  - Also: “it works by intermediate degrees of completeness before it attains power to work through to regenerate without destruction” `APP ¶112`
+  - Also: “a new basis furnished for further enquiry; and here every solution is a convertive process and progress in entity and hypostatic relation” `APP ¶115`
+- **agent** — “Desire constricts the essence of what it desires and so draws matter about the image of its object.” `APP ¶111` (ATWOOD)
+  - **Plain (stated):** Desire is formative: it contracts the essence of what it desires and gathers matter around the image of that object.
+  - Basis: Direct statement, APP ¶111.
+- **principle** — “The language of the spirit itself only can clearly express and reveal its own life.” `APP ¶111` (ATWOOD)
+  - **Plain (stated):** Writings from the a priori ground seem mystical to merely perceptive minds because ordinary language was not made for absolute truth; they grow clearer as inner experience is worked out by thought.
+  - Basis: APP ¶111: 'the natural understanding and language are inadequate to express things belonging to absolute truth; they were never framed to it'.
+  - Also: “the more the inner becomes elaborated by thought through the organization, the more intelligible can its light be made by natural language to the natural understanding” `APP ¶111`
+- **impediment** — “they are thrown into deviation in the course of evolution by the halting, obstructive movements of the law of individual life” `APP ¶112` (ATWOOD)
+  - **Plain (stated):** Inner principles do come outward, but the conditions of individual life bend them off course on the way.
+  - Basis: Direct statement, APP ¶112.
+- **principle** — “if the divine center moves into a superficial dominion it immediately proceeds to recreate and prepare for the dethronement of the old center by dissolution of the corrupt surface” `APP ¶112` (ATWOOD)
+  - **Plain (interpreted):** Said of government: a surface can be ruled only by the center it derives from; the divine center entering an unprepared surface dissolves it, so a perfect law must work by degrees to regenerate without destroying what is valuable. Its application to the work is not stated here.
+  - Basis: APP ¶112 speaks of theocratic government; the parallel with the gradual work rests on the matching language of degrees and regeneration (APP ¶111, ¶112).
+- **operator** — “their knowledge is by experience, not perception or intuition, which are the property of Mercury and Jupiter” `APP ¶113` (ATWOOD)
+  - **Plain (stated):** Temperaments differ: Mars/Venus natures know by felt experience, close to the vortex of life (Sol); Mercury/Jupiter natures perceive and articulate more clearly but cannot feel or realize without the voluntary dominance of Saturn and Luna, which supply evidence to their light and life.
+  - Basis: APP ¶113 assigns these faculties to the planetary 'properties' explicitly.
+  - Also: “cannot feel as well, or realize without the voluntary dominance of Saturn and Luna” `APP ¶113`
+- **result** — “an entrance into the center of the substantial life which every creature is seeking” `APP ¶113` (ATWOOD)
+  - **Plain (stated):** The goal is entry into the inner center of life; those who truly enter agree because the same revelation is given to each, the truth being one and universal.
+  - Basis: APP ¶113: 'It is in the identity of this revelation in every individual vouchsafed it, that this agreement arises.'
+  - Also: “For this truth is at once a unity and an universal.” `APP ¶113`
+- **impediment** — “they desire to dive deeply by the one ray of intellect rather than to transfuse its converting light and essence through the darkness of the selfhood on which it shines” `APP ¶114` (ATWOOD)
+  - **Plain (stated):** The intellectual seeker's snare: using insight to see further instead of letting the light convert the whole self; this yields revelations without 'clothing or realization', unless the seeker returns in time to take up the life born with the Light.
+  - Basis: APP ¶114 calls this 'the snare of most intellectual seekers'; APP ¶115 gives the result and the remedy.
+  - Also: “rather than to become integrated or made anew and converted wholly into the Light he saw” `APP ¶114`
+  - Also: “high revelations may be obtained in that way, intuitions even, but without clothing or realization” `APP ¶115`
+  - Also: “unless the spirit of such a seeker returns before it is too late to take up the life which was born with the Light” `APP ¶115`
+- **operator** — “Seekers, who are in the Divine order of Love, who are passive, are worked at every surface of the Spirit, and this takes time” `APP ¶115` (ATWOOD)
+  - **Plain (stated):** Passive, loving seekers are transformed throughout, more slowly than intellectual seekers but more surely, because everything is taken up under God's Will.
+  - Basis: APP ¶115 contrasts the two kinds directly.
+  - Also: “Intellectual seekers get quickly deeper, but have more to overcome.” `APP ¶115`
+  - Also: “for doing is more tedious than seeing, but then it is surer, it takes up everything under God’s Will” `APP ¶115`
+- **procedure** — “Every one can find in himself at moments the true center, if only the thought dives deep enough” `APP ¶115` (ATWOOD)
+  - **Plain (stated):** By diving deep enough in thought one can momentarily reach the center within, where every particular truth is perceived in its widest sense.
+  - Basis: APP ¶115: 'so long as he is there every particular truth will be perceived in its widest acceptation'.
+- **procedure** — “in the Hermetic process there is an inquisition into life, in which every question is solved, thrown into solution” `APP ¶115` (ATWOOD)
+  - **Plain (stated):** In the Hermetic process 'solution' is alchemical: each question is dissolved into the enquirer's own spirit and changes his being, rather than merely being answered.
+  - Basis: APP ¶115: 'the solution enters into the spirit of the enquirer: it is intimate, alchemical'; contrasted with ordinary questioning that 'does not change, though it affects, our life'.
+  - Also: “it is light dissolving darkness until there is no more darkness or shadow of a doubt” `APP ¶115`
+- **operator** — “To the true seeker after truth in humility, not in pride, it responds.” `APP ¶116` (ATWOOD)
+  - **Plain (stated):** The individual intellect is the sceptical questioner; the Universal Reason answers it only when it is humble and not self-seeking. Boehme is said to have become it through experienced in-seeing.
+  - Basis: APP ¶116; APP ¶117.
+  - Also: “The Universal Reason condescends to answer it when not self-seeking and too proud to know.” `APP ¶116`
+  - Also: “Boehme knew it and proved it by his experienced in-seeing whereby he became it” `APP ¶117`
+- **principle** — “It requires Light to throw Light upon Light; darkness looking in and endeavoring only darkens.” `APP ¶118` (ATWOOD)
+  - **Plain (interpreted):** Only an illuminated mind can understand illuminated matters; unilluminated effort obscures them.
+  - Basis: APP ¶118: unilluminated effort 'only darkens' ('the blind leading the blind'); illustrated by St Paul being better opened by 'The Theosophic light' of the higher Mystics than by commentators.
+- **subject** — “That ether is the omnia in omnibus of the Hermetic Riddle.” `APP ¶119` (ATWOOD)
+  - **Plain (stated):** The Universal Ether is the 'all in all' of the Hermetic riddle; each person holds a portion of it, enclosed at conception, containing all qualities; the mind can be carried back into it, as in the addressee's dream.
+  - Basis: APP ¶119: 'What we have is a scrap of that ether shut in at our birth-conception. All qualities are in it and color it.'
+  - Also: “your mind was carried back into its ether; the ethereal consciousness brought into relation with the Universal Ether” `APP ¶119`
+- **sign** — “The first vegetative life is green, it arises with hope; it is hope, the first aspiration to something better” `APP ¶119` (ATWOOD)
+  - **Plain (stated):** Green marks the first vegetative stage, felt as hope and aspiration, blessed to those permitted to enter it in consciousness; purple marks its ripened Life.
+  - Basis: APP ¶119 glosses green as hope and purple as 'its ripened Life'; which colour is the 'benedicta viriditas' is unclear (see ambiguities).
+  - Also: “The purple color is its ripened Life; it is the benedicta viriditas of the masters” `APP ¶119`
+- **result** — “he has a capacity in his own principle of being and life, when allied to God, to become, next Him, her revealer and master” `APP ¶120` (ATWOOD)
+  - **Plain (stated):** Seeking outward, man is only Nature's servant; returning within and allied to God, he can become Nature's revealer and master.
+  - Basis: APP ¶120, qualifying Bacon's 'servant and interpreter of Nature'.
+- **principle** — “The a priori method is the true one for the discovery of the first truths” `APP ¶120` (ATWOOD)
+  - **Plain (stated):** Knowledge from the inner cause is superior to induction; its difficulty does not lessen its superiority; once found it proves itself outwardly by effective results ('miracle'), whereas induction moves away from the cause and originates no effects.
+  - Basis: APP ¶120: 'when found it proceeds to prove itself a posteriori by efficient procedure, as it were by what is commonly called miracle'.
+  - Also: “The subjective can prove itself, has proved itself, to the objective; the objective never can prove itself by originating any effects.” `APP ¶120`
+- **impediment** — “the lapse of the human soul, the fall away of it into selfhood, which has defaced the image” `APP ¶120` (ATWOOD)
+  - **Plain (stated):** Selfhood has spoiled the soul's capacity to reflect and perceive truth; until it is regenerated, a priori inquiry is unreliable — the only valid objection to it.
+  - Basis: APP ¶120: 'so that it no longer reflects the truth nor perceives it until it has been regenerated; and so far the objection is valid, but not beyond'.
+- **procedure** — “The whole of the self-included vaporous vehicle of the soul must be evaporated before any truth is evolved.” `APP ¶121` (ATWOOD)
+  - **Plain (stated):** The material principle that has wrapped the soul since conception, hiding its original generative light (in order to bring it into sense), must be wholly removed before truth emerges.
+  - Basis: APP ¶121: 'The vaporous vehicle is the material principle in the conception, it obscures the pure paternal light of life --- the generative light, in order to bring it out into sense.'
+- **agent** — “The spirit of nature is all imagination, ideality, fancy. She wraps herself about with what you call aromal essences” `APP ¶122` (ATWOOD)
+  - **Plain (stated):** Nature's spirit works by imagination, clothing its images in subtle emanations; it is most active when given more power from the Central Source, and the same constructive power works in us 'when the constructing organ is called into play'.
+  - Basis: APP ¶122: 'in order to realize her imaginings'; 'when there is more power given her from the Central Source to work with'.
+  - Also: “She enjoys reconstructing in the world, just as she does in us when the constructing organ is called into play.” `APP ¶122`
+- **impediment** — “it is imprisoned in the self-consciousness, and self becomes the magnet” `APP ¶122` (ATWOOD)
+  - **Plain (stated):** Once the circle of individual life closes after childhood, free intercourse with Nature's spirit is shut in by self-consciousness and the self becomes the center of attraction.
+  - Basis: APP ¶122 on children's growth spirit and its closing.
+- **principle** — “Weight is the analogue of Will.” `APP ¶123` (ATWOOD)
+  - **Plain (stated):** Weight and Will are analogues. This chunk does not say in what respect or elaborate.
+  - Basis: APP ¶123.
+- **impediment** — “There are two magnets in man, i.e., two wills contending for man” `APP ¶124` (ATWOOD)
+  - **Plain (stated):** 'Magnets' means wills; two opposed wills compete for the soul.
+  - Basis: APP ¶124 glosses 'two magnets' as 'two wills'; what the two are drawn to is unclear (see ambiguities).
+- **subject** — “The Sulphur, the pure light of life, is bound down in the inferior mineral region of life” `APP ¶125` (ATWOOD)
+  - **Plain (stated):** 'Sulphur' means the pure light of life; in our inverted present state it lies captive in the lowest region and must be drawn up and grafted into the middle region before it can grow and appear.
+  - Basis: APP ¶125 identifies Sulphur with 'the pure light of life' and states it 'has to be drawn forth and transplanted into the medial region before it can grow and become manifest'.
+  - Also: “It is brought up like a graft” `APP ¶125`
+  - Also: “in this life, we are upside down” `APP ¶125`
+- **agent** — “a Saturn (i.e., Will) has the Key to the prison where Sulphur lies bound; for that which Will has bound, Will only can unbind” `APP ¶125` (ATWOOD)
+  - **Plain (stated):** 'Saturn' means Will; the will that binds the light of life is the only thing that can release it.
+  - Basis: APP ¶125 glosses Saturn as Will; the central light is 'hidden in the voluntary contrariation'.
+  - Also: “the central hidden light (there’s the mystery) is hidden in the voluntary contrariation” `APP ¶125`
+- **procedure** — “I throw its purpose into your mind, and so ferment the whole including spirit of your life that it, the former, opens, corrupts, dissolves” `APP ¶126` (ATWOOD)
+  - **Plain (stated):** A will aiming to loosen the will that binds another's individual life projects its purpose into that mind; this ferments the enclosing spirit through opening, corruption and dissolution, releasing the light that life was begotten from.
+  - Basis: APP ¶126 gives the sequence; the released light is 'the light which comes into every soul born into the world'. Whether this is an actual operation or an illustration is unclear (see ambiguities).
+- **sign** — “it shines forth with a sudden coruscation feeding on the surrounding ether which constitutes the atmosphere of the life” `APP ¶126` (ATWOOD)
+  - **Plain (stated):** The released light appears as a sudden flash nourished by the surrounding ether, compared to Apuleius's midnight sun at his Isis initiation.
+  - Basis: APP ¶126.
+  - Also: “the midnight sun seen by Apuleius when he was initiated by the Goddess Isis” `APP ¶126`
+- **operator** — “You are always taken down there by spiritual guides; it is never human initiation, that” `APP ¶126` (ATWOOD)
+  - **Plain (stated):** The descent to where this light is released is led by spiritual guides, not human initiators.
+  - Basis: APP ¶126.
+- **result** — “When light meets light there is true self-perception, and man begins to know and to hate and to rectify himself and desire rectification.” `APP ¶126` (ATWOOD)
+  - **Plain (stated):** When the released inner light meets light, the person truly sees himself and begins to hate, correct and desire correction of himself.
+  - Basis: APP ¶126.
+- **impediment** — “To utter from spirit-suggestions is a fearful thing; spirits get footing in the life through utterance” `APP ¶127` (ATWOOD)
+  - **Plain (stated):** Speaking out what spirits suggest gives them a foothold, strengthened each time, through emptiness of self-will; with nothing divine substituted, they take possession and plague the soul into submission.
+  - Basis: APP ¶127.
+- **agent** — “By music the human spirit is passed back into its original sources” `APP ¶128` (ATWOOD)
+  - **Plain (stated):** Music returns the spirit to its origins: sound opens a receptive hollow in the hearer's life and shapes the ether, matter arranging itself geometrically to the forms drawn out.
+  - Basis: APP ¶128.
+  - Also: “it is formative in the ether; matter arranges itself geometrically in accordance with the forms educed” `APP ¶128`
+- **agent** — “The Vulcan of the Alchemists is Motion.” `APP ¶129` (ATWOOD)
+  - **Plain (stated):** 'Vulcan' means Motion, which stirs up the philosophers' fire but is not that fire; his lameness means motion in this life is halting and does not return circularly into its own principle, since nothing here contains its principle in itself.
+  - Basis: APP ¶129 gives the identification, explains the lameness, and states 'Vulcan is not the fire, the ignis Philosophorum, but the stirrer up of the fire.'
+  - Also: “Vulcan is not the fire, the ignis Philosophorum, but the stirrer up of the fire.” `APP ¶129`
+
+## Terms
+
+- **agent and patient** — The active and passive parties of the work, which act and react on each other progressively. (ATWOOD)
+  - “The whole work is an action of agent on patient, and the reaction of patient, advancing, on agent.” `APP ¶111`
+- **ferment** (also: fermented spirit) — To work on a life so that its including spirit opens, corrupts and dissolves, releasing its light; each fermented spirit advances on its origin. (ATWOOD)
+  - “each fermented spirit advances upon its origin” `APP ¶111`
+  - “so ferment the whole including spirit of your life that it, the former, opens, corrupts, dissolves” `APP ¶126`
+- **a priori** (also: a priore) — Inquiry from the inner, causal ground; the true method for first truths, hindered only by the soul's lapse into selfhood; proves itself a posteriori by effects; contrasted with the inductive method. (ATWOOD)
+  - “The a priori method is the true one for the discovery of the first truths” `APP ¶120`
+  - “it proceeds to prove itself a posteriori by efficient procedure, as it were by what is commonly called miracle” `APP ¶120`
+- **inductive philosophy** — The outward method that 'goes further and further out', strong in remoteness from the causal source, unable to originate effects. (ATWOOD)
+  - “the inductive philosophy or method never can arrive at, since it goes further and further out, and finds its strength in remoteness from the causal source” `APP ¶120`
+- **Theocracy** (also: theocratic government) — The only true government (Kirchberger for de St Martin), endorsed as a great truth but requiring a coordinate surface: the world's surface is governed only by the center it derives from, its king. (ATWOOD)
+  - “the world’s surface can only be governed by the center from which it is derived --- that is, its king” `APP ¶112`
+- **Sol principle** — The vortex of life, to which Mars/Venus natures are drawn closely in consciousness. (ATWOOD)
+  - = vortex of life: “the vortex of life ---the Sol principle” `APP ¶113`
+- **Mars and Venus property** — Planetary properties of temperament whose dominance draws consciousness near the Sol principle and gives knowledge by experience. (ATWOOD)
+  - “People in whom the Mars and Venus property is dominant” `APP ¶113`
+- **Mercury and Jupiter** — Planetary properties to which perception and intuition belong; clearer in enunciation than the emotional spheres but weaker in feeling and realization. (ATWOOD)
+  - “perception or intuition, which are the property of Mercury and Jupiter” `APP ¶113`
+- **Saturn** — Will; holds the Key to Sulphur's prison. Also a planetary property whose voluntary dominance, with Luna, is needed to feel and realize. (ATWOOD)
+  - = Will: “a Saturn (i.e., Will) has the Key to the prison where Sulphur lies bound” `APP ¶125`
+  - “without the voluntary dominance of Saturn and Luna” `APP ¶113`
+- **center** (also: true center) — The center of substantial life every creature seeks; reachable at moments by deep thought; the same revelation is given to all who enter it. (ATWOOD)
+  - “the center of the substantial life which every creature is seeking” `APP ¶113`
+  - “Every one can find in himself at moments the true center” `APP ¶115`
+- **selfhood** — The individual self into which the soul has fallen; it defaces the image, and its darkness must be transfused by the converting light. (ATWOOD)
+  - “the darkness of the selfhood on which it shines” `APP ¶114`
+  - “the fall away of it into selfhood, which has defaced the image” `APP ¶120`
+- **Light** (also: light) — The inner illumination that converts the seeker, needed to understand Light; the light of which each life was begot, released in the work. (ATWOOD)
+  - “It requires Light to throw Light upon Light” `APP ¶118`
+  - “the light which comes into every soul born into the world” `APP ¶126`
+- **solution** (also: solved, dissolving) — In the Hermetic process, both the answer to a question and a dissolving that enters and converts the enquirer; light dissolving darkness. (ATWOOD)
+  - “every solution is a convertive process and progress in entity and hypostatic relation” `APP ¶115`
+- **Universal Reason** — What answers the individual, sceptical intellect when it is humble and not self-seeking. (ATWOOD)
+  - “The Universal Reason condescends to answer it when not self-seeking and too proud to know.” `APP ¶116`
+- **Theosophic** (also: theosophy) — The light of the higher Mystics, opening scripture on a wider plane than the Theological; also used of the Neo-Platonists' and Behmen's doctrine. (ATWOOD)
+  - “The Theosophic light opens him at a much wider plane of thought than the Theological.” `APP ¶118`
+- **Ether** (also: ether, Universal Ether, ethereal) — The Universal Ether, into which the mind may be carried back; each person has a scrap of it shut in at birth-conception, containing all qualities. (ATWOOD)
+  - = omnia in omnibus of the Hermetic Riddle: “That ether is the omnia in omnibus of the Hermetic Riddle.” `APP ¶119`
+  - “What we have is a scrap of that ether shut in at our birth-conception. All qualities are in it and color it.” `APP ¶119`
+- **first vegetative life** — Coloured green; is hope, the first aspiration to progress; its ripened Life is purple. (ATWOOD)
+  - = hope: “The first vegetative life is green, it arises with hope; it is hope” `APP ¶119`
+  - “The purple color is its ripened Life” `APP ¶119`
+- **benedicta viriditas** — Phrase 'of the masters' tied to the green/purple passage; which colour it names is unclear. (ATWOOD)
+  - “The purple color is its ripened Life; it is the benedicta viriditas of the masters” `APP ¶119`
+- **vaporous vehicle** — The self-included material principle in conception that obscures the paternal generative light in order to bring it into sense; must be wholly evaporated before truth is evolved. (ATWOOD)
+  - = the material principle in the conception: “The vaporous vehicle is the material principle in the conception” `APP ¶121`
+  - “The whole of the self-included vaporous vehicle of the soul must be evaporated before any truth is evolved.” `APP ¶121`
+- **paternal light of life** — The soul's original light, obscured by the vaporous vehicle in order to bring it into sense. (ATWOOD)
+  - = the generative light: “the pure paternal light of life --- the generative light” `APP ¶121`
+- **Fall** — Spiritual before it was sensible; its principle lies far behind its effects; birth into this life is a continuous image of it. (ATWOOD)
+  - “the Fall was not at first sensible, but spiritual; the principle of the Fall is a long way back behind its effects” `APP ¶121`
+- **spirit of nature** (also: spirit of Nature) — All imagination; wraps itself in aromal essences to realize its imaginings; a personality in particulars and, universally, in the orb soul; more phantastic when given more power from the Central Source. (ATWOOD)
+  - “The spirit of nature is all imagination, ideality, fancy.” `APP ¶122`
+  - “when regarded universally it is the same in the being of the orb soul” `APP ¶122`
+- **aromal essences** (also: aromal emanations) — The addressee's term ('what you call') for what Nature wraps herself in to realize her imaginings. (ATWOOD)
+  - “She wraps herself about with what you call aromal essences, aromal emanations” `APP ¶122`
+- **growth spirit** — The spirit of growth in children, more phantastic than the animal, allowing free imagination until the circle of life closes. (ATWOOD)
+  - = vegetable spirit: “Children have the growth spirit in them (the vegetable spirit which is more phantastic than the animal)” `APP ¶122`
+- **Mystae and Teleioi** — Those whose inner experience the Neo-Platonists did not declare. (ATWOOD)
+  - “It was not their practice to declare the inner experience of the Mystae and Teleioi” `APP ¶122`
+- **Will** (also: will, wills, self-will) — The binding and unbinding power; analogue of weight; two wills contend for the soul; vacuity of self-will gives spirits footing. (ATWOOD)
+  - = Saturn: “a Saturn (i.e., Will) has the Key” `APP ¶125`
+  - “Weight is the analogue of Will.” `APP ¶123`
+  - “that which Will has bound, Will only can unbind” `APP ¶125`
+- **magnet** (also: magnets) — A will as center of attraction: self becomes the magnet; the two magnets in man are two wills. (ATWOOD)
+  - = wills: “There are two magnets in man, i.e., two wills contending for man” `APP ¶124`
+  - “self becomes the magnet” `APP ¶122`
+- **Sulphur** — The pure light of life, bound in the inferior mineral region; must be drawn forth and grafted into the medial region to grow and manifest. (ATWOOD)
+  - = the pure light of life: “The Sulphur, the pure light of life, is bound down in the inferior mineral region of life” `APP ¶125`
+  - “Saturn (i.e., Will) has the Key to the prison where Sulphur lies bound” `APP ¶125`
+- **inferior mineral region** — The lower region of life where the Sulphur lies bound. (ATWOOD)
+  - “bound down in the inferior mineral region of life” `APP ¶125`
+- **medial region** (also: medial life) — The middle region of life into which the Sulphur must be transplanted to grow and become manifest; the medial life draws the hidden central light. (ATWOOD)
+  - “has to be drawn forth and transplanted into the medial region before it can grow and become manifest” `APP ¶125`
+  - “When the medial life draws the hidden central light” `APP ¶125`
+- **voluntary contrariation** — That in which the central hidden light is hidden; linked in the (broken) sentence to Saturn/Will. (ATWOOD)
+  - “the central hidden light (there’s the mystery) is hidden in the voluntary contrariation” `APP ¶125`
+- **coruscation** — The sudden flash in which the released light shines forth, feeding on the surrounding ether. (ATWOOD)
+  - “it shines forth with a sudden coruscation feeding on the surrounding ether” `APP ¶126`
+- **spirit-suggestions** — Promptings from spirits; uttering them gives spirits footing in the life. (ATWOOD)
+  - “To utter from spirit-suggestions is a fearful thing” `APP ¶127`
+- **Vulcan** — Motion; lame because motion in this life is halting and never returns into its own principle; the stirrer up of the fire, not the fire. (ATWOOD)
+  - = Motion: “The Vulcan of the Alchemists is Motion.” `APP ¶129`
+  - “Vulcan is not the fire, the ignis Philosophorum, but the stirrer up of the fire.” `APP ¶129`
+- **ignis Philosophorum** — The philosophers' fire, distinguished from Vulcan (Motion), which stirs it up; not otherwise explained here. (ATWOOD)
+  - “Vulcan is not the fire, the ignis Philosophorum, but the stirrer up of the fire.” `APP ¶129`
+
+## Sources cited
+
+- **Bacon** — “Man is the servant and interpreter of Nature” `APP ¶111, APP ¶120` — His lucid style illustrates that clear language seems mystical when turned to the a priori ground (¶111); his dictum is accepted only for outward seeking and qualified: turned within, man can be Nature's revealer and master (¶120).
+- **Kirchberger**, *Theos. Corresp., p. 359* — “there is no true government but a Theocracy” `APP ¶112, APP ¶114` — Says this 'for de St Martin'; Atwood calls it a great truth but qualifies it. Kirchberger himself is criticized as an intellectual seeker who did not convert wholly into the Light.
+- **de St Martin**, *Reply, p. 364* `APP ¶112, APP ¶113, APP ¶115` — Cited on a perfect law working by degrees; praised as having entered the center of substantial life; his answers to his friend's particular enquiry illustrate universal truth exploding questions, like the Hermetic inquisition.
+- **Kant** `APP ¶117` — Listed as having 'saw that'; the antecedent is not stated, presumably the preceding point (¶116) on intellect and the Universal Reason.
+- **Hegel** `APP ¶117` — Same list ('saw it').
+- **Fichte** `APP ¶117` — Same list ('knew it').
+- **Schelling** `APP ¶117` — Same list ('saw it').
+- **Boehme** `APP ¶117` — Knew it and proved it by experienced in-seeing whereby he became it.
+- **St Paul**, *Epistles* `APP ¶118` — Example: better understood in the atmosphere of the higher Mystics than through professed commentators.
+- **the higher Mystics** `APP ¶118` — Their atmosphere opens St Paul's depths; contrasted with commentators.
+- **Hermetic Riddle** — “omnia in omnibus” `APP ¶119` — Its 'omnia in omnibus' identified with the Universal Ether.
+- **the masters** — “benedicta viriditas” `APP ¶119` — Their term, applied to the green/purple vegetative life.
+- **Song of Sol.**, *ch. 2* `APP ¶119` — Reference only, attached to the benedicta viriditas.
+- **Behmen** `APP ¶122` — Said to surpass the Neo-Platonists in revelations of the Life Center (as Newton's astronomy to Ptolemy's).
+- **Neo-Platonists** `APP ¶122` — Contrast: delivered principles scientifically and underwent long-perfected Initiation, but did not declare the inner experience of the Mystae and Teleioi; confined to psychological investigation; surpassed by Behmen.
+- **Ptolemy** `APP ¶122` — Comparison only (his astronomy to Newton's).
+- **Newton** `APP ¶122` — Comparison only.
+- **Apuleius** `APP ¶126` — Illustrates the coruscation of released light: the midnight sun seen when initiated by the Goddess Isis.
+- **the Alchemists** `APP ¶129` — Their Vulcan decoded as Motion.
+- **the Myths** `APP ¶129` — Represent Vulcan as lame, explained as halting motion.
+
+## Ambiguities
+
+- “The purple color is its ripened Life; it is the benedicta viriditas of the masters” `APP ¶119`
+  - Reading: 'it' = the purple, ripened Life is the benedicta viriditas
+  - Reading: 'it' = the green first vegetative life (the paragraph's subject) is the benedicta viriditas, purple being its ripening
+  - Basis: The nearest antecedent is 'The purple color'/'its ripened Life'; but the passage's main subject is green vegetative life, and the text does not gloss 'viriditas'.
+- “the one to the other self center” `APP ¶124`
+  - Reading: one will draws toward the true/divine center, the other toward the self center
+  - Reading: the two wills each pull toward the other's center
+  - Basis: The clause appears defective; elsewhere the chunk contrasts the true center (¶115) with self as magnet (¶122), supporting the first.
+- “is hidden in the voluntary contrariation which is a Saturn (i.e., Will) has the Key” `APP ¶125`
+  - Reading: the voluntary contrariation is itself Saturn/Will, which holds the Key
+  - Reading: the light is hidden in the voluntary contrariation; separately, Saturn (Will) holds the Key
+  - Basis: Syntax is broken; both readings agree that Saturn = Will and that Will unbinds what Will bound.
+- “there is a tremendous central action now, i.e., in this life, we are upside down” `APP ¶125`
+  - Reading: 'now, i.e., in this life' qualifies the tremendous central action
+  - Reading: 'now, i.e., in this life' qualifies 'we are upside down'
+  - Basis: Punctuation is garbled; the following sentence (Sulphur bound below, to be drawn up) supports the second.
+- “Supposing I have a will that wishes to loosen your will” `APP ¶126`
+  - Reading: describes an actual operation of one person's will on another's life
+  - Reading: a hypothetical illustration of how the binding will is loosed
+  - Basis: 'Supposing' marks it as hypothetical, but the steps are given concretely and end with spiritual guides taking one 'down there'.
+- “but when he returns within according to the Divine Ordinance and law of Reason, but that he has a capacity in his own principle of being and life” `APP ¶120`
+  - Reading: when man returns within, he finds he has a capacity to become Nature's revealer and master
+  - Basis: The doubled 'but' makes the sentence defective; the contrast with Bacon's 'servant' supports only this sense.
+
+## Translations
+
+- `APP ¶119` “omnia in omnibus” → all in all (all things in all things) *(ours)*
+- `APP ¶119` “benedicta viriditas” → blessed greenness *(ours)*
+- `APP ¶122` “Mystae and Teleioi” → initiates and the perfected *(ours)*
+- `APP ¶125` “verbum invisible fiat palpable et germinabit ut radix” → let the invisible word become palpable, and it will sprout like a root *(ours)*
+- `APP ¶129` “ignis Philosophorum” → fire of the Philosophers *(ours)*
+
+## Threads
+
+- `APP ¶111` Aphorisms numbered (110)–(134), including (116-A); continues a numbered series begun before this chunk.
+- `APP ¶112` Cites 'Theos. Corresp., p. 359' and 'de St M.’s Reply, p. 364'.
+- `APP ¶115` Refers to de St Martin's reply to 'the particular enquiry of his friend', not reproduced here.
+- `APP ¶119` 'In that dream your mind was carried back into its ether' refers to a dream of the addressee not described in this chunk.
+- `APP ¶122` 'what you call aromal essences' refers to the addressee's own terminology, not given here.
+- `APP ¶126` 'as is described in the midnight sun seen by Apuleius when he was initiated by the Goddess Isis' points to an account outside this chunk.

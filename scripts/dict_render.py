@@ -1,6 +1,7 @@
 """Render dictionary entries.
   python3 scripts/dict_render.py check B001   -> validate work/dict/out/B001.json, write work/dict/out/B001.md (for quote_check_doc.py)
-  python3 scripts/dict_render.py all          -> src/22_Master_Lexicon_and_Concordance.md + work/dict/dictionary.json"""
+  python3 scripts/dict_render.py all          -> work/dict/dictionary.json (+ uncleaned render work/dict/22_raw.md)
+Since the 2026-10-11 cleanup src/22 is written by dict_clean.py, not here."""
 import json, sys, re, glob, unicodedata
 R = 'work/dict/'
 E = json.load(open(R + 'entries.json', encoding='utf-8')); byid = {e['id']: e for e in E}
@@ -24,7 +25,7 @@ if sys.argv[1] == 'check':
     ids = [e['id'] for e in E if e.get('batch') == b]
     miss = [i for i in ids if i not in w]; extra = [i for i in w if i not in ids]
     bad = [i for i in ids if i in w and not all(isinstance(w[i].get(k), t) for k, t in (('forms', list), ('summary', str), ('body', str)))]
-    open(R + f'out/{b}.md', 'w', encoding='utf-8').write('\n\n'.join(md(byid[i], w[i]) for i in ids if i in w and i not in bad))
+    open(R + f'out/{b}.md', 'w', encoding='utf-8', newline='\n').write('\n\n'.join(md(byid[i], w[i]) for i in ids if i in w and i not in bad))
     print(b, len(ids), 'missing', miss, 'extra', extra, 'malformed', bad); sys.exit(1 if miss or bad else 0)
 W = {}
 for f in sorted(glob.glob(R + 'out/B*.json')): W.update(json.load(open(f, encoding='utf-8')))
@@ -40,7 +41,7 @@ for e in E:
     l = letter(e['headword'])
     if l != cur: out += [f'## {l}', '']; cur = l
     out += [md(e, W.get(e['id'])), '']
-open('src/22_Master_Lexicon_and_Concordance.md', 'w', encoding='utf-8').write('\n'.join(out))
+open(R + '22_raw.md', 'w', encoding='utf-8', newline='\n').write('\n'.join(out))
 dic = [dict({k: e[k] for k in ('id', 'kind', 'headword', 'forms', 'equivalences', 'refs')}, **({'forms': W[e['id']]['forms'], 'summary': W[e['id']]['summary'], 'body': W[e['id']]['body']} if e['id'] in W else {'summary': 'Cited for reference only.', 'body': ''})) for e in E]
-json.dump(dic, open(R + 'dictionary.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+json.dump(dic, open(R + 'dictionary.json', 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
 print('rendered', len(E), 'entries')

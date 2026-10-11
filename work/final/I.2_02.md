@@ -1,0 +1,282 @@
+# I.2_02
+
+*Atwood sets aside the modern 'Odic Force' to describe the magi's Quintessence or Free Ether as the hidden, defiled subject of the Art, argues that the Art works by inverting nature's ordinary order (fixing the volatile, volatilizing the fixed, converting the 'elements of the Mercury' through sustained 'torture' and separation), and begins gathering the masters' descriptions of that First Matter as a water that is 'a stone and no stone'.*
+
+## Argument
+
+- Recent experiments and Mesmerism revive the idea of an Odic Force, but few believe; Atwood turns to the magi's Quintessence, presented as experimental, obtainable as a compact, tangible, unmixed essence, not only mingled in air or water. `I.2 ¶16` — ATWOOD
+- Pure, it is the Kabalists' Vehicle of Light and the Greeks' Free Ether, freed from gross matter and working by its own light; Zeno's plastic fire, Cicero's all-begetting igneous nature; Euripides calls the Ether Jove. `I.2 ¶16, I.2 ¶17` — QUOTED: Kabalists; the Greeks; Zeno; Cicero; Euripides
+- Distinguish airs: do not take a cloud for Juno. The goddess is mingled in nature, known only in action, and needs skilled human help; Lully: our argent vive is a water of another nature that nature alone cannot bring into action. `I.2 ¶18` — ATWOOD
+- The ethereal spirit never subsists separately but is hidden and defiled in what it sustains. Nature's ordinary manifestation contradicts her perfect law, so the contrary must be worked: fixed volatilized, volatile fixed, outer image constricted, central form developed. `I.2 ¶19, I.2 ¶20, I.2 ¶21` — ATWOOD
+- Imperfections are accidental, like colours water takes from the ground, and should be expelled; Arnold: understand the conversion of the elements. `I.2 ¶22` — QUOTED: unnamed ('it is said'); Arnold
+- Bacon, from Democritus (Proteus): matter tortured toward annihilation runs through all shapes and, the force continued, restores itself; extreme hold ('manacles and fetters') works fastest. `I.2 ¶23, I.2 n19` — QUOTED: Bacon, on Democritus
+- Bacon knew neither the Great Art nor its subject; his fire-digesters expel the prized nature, leaving ashes. Democritus' aim: reduce matter near annihilation, entrap the bare spirit, help it re-create itself by its own will. Escaping unpursued, it is recaptured and defiled. The contrariation exceeds ordinary art and nature. `I.2 ¶24` — ATWOOD
+- Paracelsus: a natural magic of rapid separation, the beginning of all generation; the truphat forms all. Arnold: reduction of natures to their first root. Ripley: separate and recombine Mercury's elements equally for the elixir. `I.2 ¶25` — QUOTED: Paracelsus; Arnold; Ripley
+- 'Elements' means not common elements or chemical gases but elements of the Mercury, properties of the universal spirit; Paracelsus: the visible is a receptacle, the true element an invisible spirit of life, First Matter of the elements. `I.2 ¶26` — ATWOOD
+- Deferring the subtle point of introversion, Atwood asks what nature the alchemists revolutionized: Proteus/Pan, the Orphic all-nature, taken as the masters found it, whole and unaltered. `I.2 ¶27, I.2 ¶28, I.2 ¶29` — ATWOOD
+- Descriptions of it: Albertus (permanent water, unctuous vapour, spirit of body); Atrephius (whitening silver-like fume, vegetable life); Lully (Hyle, clear water from air); Arnold (stone and no stone, volatile, then citrine, saltish, poisonous; water and not water; One Thing); Belus (permanent water is the stone, but not while water); a verse adds Red Lyon and red Sulfur. `I.2 ¶29, I.2 ¶30` — QUOTED: Albertus Magnus; Atrephius; Lully; Arnold; Belus; Lucerna Salis Phil.
+
+## Method
+
+- **subject** — “that elder Quintessence of the magi which they introduce, not as a being of speculation merely, but of experimental science” `I.2 ¶16` (ATWOOD)
+  - **Plain (stated):** The subject of the Art is a universal essence that the magi claim to have handled experimentally, obtained not as it ordinarily occurs mixed in air or water but as a compact, tangible, homogeneous substance.
+  - Basis: I.2 ¶16 continues: 'not perceptible only in mingled forms, in the common air or elementary water, but as an essence compact and tangible without heterogeneity'.
+  - Also: “but as an essence compact and tangible without heterogeneity” `I.2 ¶16`
+- **agent** — “the Greeks, the Free Ether, that is to say, freed from the prison of gross matter, and able to work of itself intimately by the virtue of its own included light” `I.2 ¶16` (QUOTED: the Greeks)
+  - **Plain (stated):** In its pure state the essence, once freed from gross matter, acts of itself by its own inner light.
+  - Basis: Gloss given in the text itself ('that is to say').
+  - Also: “Lumen Vestimenti, the Vehicle of Light” `I.2 ¶16`
+  - Also: “as a plastic fire, ever generating by rule” `I.2 ¶16`
+  - Also: “that most heavenly high ethereal igneous nature, which spontaneously begets all things” `I.2 ¶16`
+- **impediment** — “mistaking Olympus, embrace some cloud whilst the life-giving Juno is far away above all our idea and sight” `I.2 ¶18` (ATWOOD)
+  - **Plain (interpreted):** Danger of mistaking a common, perceptible 'air' for the true ethereal spirit, which is mingled in nature and known only by its action.
+  - Basis: I.2 ¶18 opens 'It is requisite, however, to distinguish airs here'; next sentence: 'the goddess is subtilely mingled in nature commonly observable in her action only'; I.2 ¶16 contrasts the pure essence with its presence 'in the common air'.
+  - Also: “calling that Jove which is not Jove” `I.2 ¶18`
+- **operator** — “she is of another birth, and cannot be brought to knowledge without sagacious handling and human help” `I.2 ¶18` (ATWOOD)
+  - **Plain (stated):** Nature alone does not bring the subject into action; skilled human operation is required.
+  - Basis: Stated directly, with Lully's Latin (I.2 ¶18, n17): it cannot come into action by nature without ingenuity and the work of human hands.
+  - Also: “cum in actionem venire non posit per naturam, absque adjutorio ingenii et humanarum manuum operationibus” `I.2 ¶18`
+- **subject** — “the ethereal spirit does not subsist of itself, separate or tangibly on earth; but, giving subsistence to other beings, is occultated even in their life, and defiled” `I.2 ¶20` (ATWOOD)
+  - **Plain (stated):** The sought spirit never exists free on its own; it is hidden and defiled inside the beings to which it gives subsistence.
+  - Basis: Atwood's answer ('Nowhere; for ...') to the Latin line I.2 ¶19.
+  - Also: “Hoc vere nulibi est quod quaerimus.” `I.2 ¶19`
+- **principle** — “nature operates her ordinary manifestation in direct contrariety to her perfect law” `I.2 ¶20` (ATWOOD)
+  - **Plain (stated):** Nature's ordinary course runs opposite to her perfect order; so the work must reverse the ordinary order to reach perfection.
+  - Basis: I.2 ¶20: 'neither sanity nor beauty can permanently supervene in bodies, unless the contrary be operated in them'; I.2 ¶27 restates it.
+  - Also: “neither sanity nor beauty can permanently supervene in bodies, unless the contrary be operated in them” `I.2 ¶20`
+  - Also: “the order of natural procedure ought to be introverted for a true and perfect manifestation” `I.2 ¶27`
+- **procedure** — “that which is fixed becoming volatile and the volatile nature fixed” `I.2 ¶20` (ATWOOD)
+  - **Plain (stated):** The inversion consists in volatilizing what is fixed and fixing what is volatile: dissolve, coagulate, fix.
+  - Basis: Given in I.2 ¶20 as the form the 'contrary' operation takes; the verse I.2 ¶21 repeats it.
+  - Also: “Si fixum solvas faciasqu volare solutum Et volucrem figas, facient te vivere tutum: Solve, Coagula, Fige.” `I.2 ¶21`
+  - Also: “to make light things heavy, and to make spirits no spirits” `I.2 ¶22`
+- **result** — “the adventitious or externally generated image may be constricted utterly, and the central form contrariwise developed into life and act” `I.2 ¶20` (ATWOOD)
+  - **Plain (stated):** The outcome of the inversion: the outward, externally imposed form is suppressed and the inner, central form is brought into active life.
+  - Basis: Stated as the purpose ('so that') of the fixed/volatile inversion, I.2 ¶20.
+- **principle** — “specie subsist in it adventitiously, as it were, by sufferance, and may be expelled, and ought to be for the attainment of perfection” `I.2 ¶22` (QUOTED: unnamed ('it is said'))
+  - **Plain (stated):** Imperfections and particular forms are accidental additions to the universal source, like colour taken by water from the ground under it; they can and should be removed.
+  - Basis: I.2 ¶22: the Art 'has proved imperfections to be accidental to nature, and introduced to her from without', with the water-on-coloured-earth analogy.
+  - Also: “by a real experimental inversion, the Hermetic Art has proved imperfections to be accidental to nature, and introduced to her from without” `I.2 ¶22`
+- **procedure** — “our operation is nothing else than a mutation of natures, and the method of conversion in our Argent vive is the reduction of natures to their first root” `I.2 ¶25` (QUOTED: Arnold)
+  - **Plain (stated):** 'Converting the elements' means a mutation of natures, reducing natures in the argent vive back to their first root; whoever understands this conversion 'shall not work in a strange thing'.
+  - Basis: Arnold glosses his own maxim 'Convert the elements' (I.2 ¶25; Latin at I.2 ¶22).
+  - Also: “Converte elementa et quod quaeris invenies” `I.2 ¶22`
+  - Also: “let him understand the conversion of the elements, to make light things heavy, and to make spirits no spirits, then he shall not work in a strange thing” `I.2 ¶22`
+- **procedure** — “torture and vex it in order to its annihilation” `I.2 ¶23` (QUOTED: Bacon, on Democritus (endorsed by Atwood in I.2 ¶24))
+  - **Plain (stated):** Matter is deliberately forced toward destruction; being indestructible save by the Creator, it passes through a series of shapes and, if the force is kept up, completes the cycle and restores itself.
+  - Basis: I.2 ¶23 states the sequence; I.2 ¶24 repeats it of 'the spirit'. Source is Bacon's fable of Proteus (n19), from Democritus.
+  - Also: “running through the whole circle of transformations, and completing its period, it in some degree restores itself, if the force be continued” `I.2 ¶23`
+  - Also: “torture and vex the spirit in order to its annihilation, it, being brought under this necessity, transforms and presently restores itself, the force being continued” `I.2 ¶24`
+- **procedure** — “which makes use of manacles and fetters; i.e., lays hold and works upon matter in the extremist degree” `I.2 ¶23` (QUOTED: Bacon, on Democritus)
+  - **Plain (stated):** The fastest method grips and works the matter to the utmost degree.
+  - Basis: Glossed in the text ('i.e.').
+- **impediment** — “Such instruments do, in fact, expel the very nature which the ancients prized; leaving us without all recompense in the dead ashes of her consuming vesture” `I.2 ¶24` (ATWOOD)
+  - **Plain (stated):** Mechanical dissolution by heat (Bacon's 'digesters applied to the fire') drives off the very spirit sought and leaves only dead residue.
+  - Basis: I.2 ¶24 refers to Bacon's 'particular digesters applied to the fire' and dissolution attempted 'mechanically'.
+  - Also: “particular digesters applied to the fire” `I.2 ¶24`
+- **procedure** — “to reduce the matter, with her false forms, to the verge of annihilation, but to entrap the bare spirit and help her on from thence to operate her own intrinsical freed will” `I.2 ¶24` (ATWOOD)
+  - **Plain (stated):** The true procedure: break down matter and its false forms almost completely, capture the freed spirit at that point, and assist it to act by its own will, so that it re-forms itself.
+  - Basis: Atwood's own statement of Democritus' proposal, I.2 ¶24.
+  - Also: “wrapping herself spontaneously about it, even to a recreation” `I.2 ¶24`
+- **impediment** — “if she is suffered to depart invisibly without pursuit or amendment, which is the common catastrophe, then she is caught up by other external compellants, and becoming defiled, is imprisoned by them” `I.2 ¶24` (ATWOOD)
+  - **Plain (stated):** If the released spirit escapes uncaptured, it is seized again by other external influences and is as impure as before; this is the usual failure.
+  - Basis: Stated directly, I.2 ¶24.
+- **operator** — “The contrariation proposed by the proposed by the alchemists, indeed, is not the power of ordinary art, any more than of nature herself” `I.2 ¶24` (ATWOOD)
+  - **Plain (stated):** The inversion the alchemists propose cannot be achieved by ordinary art or by nature unaided.
+  - Basis: Stated directly, I.2 ¶24; the following clause is ambiguous (see ambiguities).
+- **procedure** — “very excellent for quickness of separation, the like whereof nature can neither give nor express” `I.2 ¶25` (QUOTED: Paracelsus)
+  - **Plain (stated):** The 'magic' of the Art is natural, not a special divine act, and consists in an extremely rapid separation that splits things into their elements and simple essence.
+  - Basis: I.2 ¶25: 'the Deity doth not make himself especially operative herein: if that magic then were natural'; 'all things fall apart into their elements, breaking forth into their act and simple essence'.
+  - Also: “that magic, says Paracelsus, is the most singular secret that directed such an entrance into nature” `I.2 ¶25`
+  - Also: “all things fall apart into their elements, breaking forth into their act and simple essence” `I.2 ¶25`
+- **principle** — “The greatest miracle of all in philosophy is separation: separation was the principle and beginning of all generation.” `I.2 ¶25` (QUOTED: Paracelsus)
+  - **Plain (stated):** Separation is the root operation of all generation, and the same holds in the 'lesser' mystery as in the 'great'; this chunk does not define the two mysteries.
+  - Basis: Stated directly, I.2 ¶25. See ambiguities for 'great mystery' / 'lesser'.
+  - Also: “And as it was in the great mystery, so it is in the lesser.” `I.2 ¶25`
+- **agent** — “The truphat, or matter of the metals, brings everything into its due form” `I.2 ¶25` (QUOTED: Paracelsus)
+  - **Plain (stated):** The 'truphat' is the matter of the metals, and it is what gives things their proper form.
+  - Basis: Identity given in the text ('or').
+- **procedure** — “The elements of Mercury being separated, says Ripley, and again commixed by equal weight or proportion, make the elixir complete” `I.2 ¶25` (QUOTED: Ripley)
+  - **Plain (stated):** Two stages: separate the elements of the Mercury, then recombine them in equal proportion; the result is the elixir.
+  - Basis: Stated directly, I.2 ¶25.
+- **subject** — “the elements they speak of, as being introverted and transformed are the elements of the Mercury, properties of the universal spirit” `I.2 ¶26` (ATWOOD)
+  - **Plain (stated):** When alchemists speak of converting 'elements' they do not mean fire, air, water or chemical gases, but properties of the one universal spirit; the Stone is made in and by that spirit alone.
+  - Basis: Atwood's explicit gloss, I.2 ¶26.
+  - Also: “in which, and by which alone, they profess to have operated the perfective miracle of their Stone” `I.2 ¶26`
+- **subject** — “That which we see is only the receptacle; the true element is a spirit of life, and grows in all things, as the soul in the body of man.” `I.2 ¶26` (QUOTED: Paracelsus (endorsed by Atwood))
+  - **Plain (stated):** Visible substances are only containers; the true element is an invisible life-spirit present in everything, called the First Matter of the elements, the very life creatures have.
+  - Basis: I.2 ¶26: 'This is the First Matter of the elements, which can neither be seen nor felt'; 'nothing else but that life which the creatures have'.
+  - Also: “the first matter of the elements of the elements is nothing else but that life which the creatures have” `I.2 ¶26`
+  - Also: “it is these magical elements which are of such an excellent and quick activity that nothing besides can be found or imagined like them” `I.2 ¶26`
+- **subject** — “Qui Proteum non novit, adeum Pana.” `I.2 ¶27` (ATWOOD)
+  - **Plain (interpreted):** Proteus and Pan stand for the universal nature the alchemists worked on, here to be taken as the masters found it, whole and unaltered before their art acted on it.
+  - Basis: Line follows Atwood's aim 'to consider especially what that nature was, which the alchemists profess to have revolutionized' (I.2 ¶27); the Pan hymn (I.2 ¶28) is followed by 'let us invoke the most Ancient Nature ... as he was discovered by the Hermetic masters' (I.2 ¶29); Proteus is the fable behind the torture passage (I.2 n19).
+  - Also: “whole, and singularly, and before any alteration had been induced in his uniform substance by their art” `I.2 ¶29`
+- **subject** — “the mercury of the wise to be a watery element, cold and moist, a permanent water, an unctuous vapor, and the spirit of body” `I.2 ¶29` (QUOTED: Albertus Magnus)
+  - **Plain (stated):** Albertus' description of the raw subject: a cold, moist, oily, persistent water or vapour that is the spirit of body; the first matter of metals is an oily humidity bound to a fine earthy part.
+  - Basis: Given as Albertus' definition, I.2 ¶29, n27.
+  - Also: “the first material of the metals is an unctuous subtle humidity, forcibly incorporated with a subtle terrestreity” `I.2 ¶29`
+- **sign** — “a white fume, in substance like to pure silver, resolving bodies into their original whiteness” `I.2 ¶29` (QUOTED: Atrephius)
+  - **Plain (stated):** Atrephius: the subject appears as a white, silver-like fume that returns bodies to their original whiteness, and acts as a growth-giving life.
+  - Basis: Atrephius' description, I.2 ¶29, n28.
+  - Also: “a vegetable life making all things to grow, multiply and resuscitate” `I.2 ¶29`
+- **subject** — “calls Hyle, saying, that it is a clear compounded water, most like in substance to argent vive” `I.2 ¶29` (QUOTED: Lully)
+  - **Plain (stated):** Lully names the same subject Hyle: a clear compounded water most like argent vive, found flowing on earth, generated in every compound from the substance of the air, and extremely heavy.
+  - Basis: I.2 ¶29, n29; introduced as Lully 'not dissimilarly viewing' the same thing Atrephius describes.
+  - Also: “it is found flowing upon earth, and is generated in every compound out of the substance of the air, therefore the moisture is extremely heavy” `I.2 ¶29`
+- **subject** — “it is a stone and no stone, in which the whole Art consists, spirit, soul and body” `I.2 ¶29` (QUOTED: Arnold)
+  - **Plain (stated):** Arnold's argent vive is the entire subject of the Art, comprising spirit, soul and body; it takes whatever state the operator imposes (coagulated or volatile). It is one single thing with nothing added; the many descriptions should not mislead.
+  - Basis: I.2 ¶29, n30: 'which if thou coagulatest, it will be coagulated'; 'it is One Thing to which nothing extraneous is added'.
+  - Also: “which if thou coagulatest, it will be coagulated; an if thou makest it fly, it will fly; for it is volatile, and clear as a tear” `I.2 ¶29`
+  - Also: “Be not therefore deceived with manifold descriptions and operations, for it is One Thing to which nothing extraneous is added” `I.2 ¶29`
+  - Also: “It is a stone and no stone, In which the whole art consists;” `I.2 ¶30`
+- **stage** — “it is made citrine, then saltish, but without crystals; and no man may touch it with his tongue, for it is a deadly poison” `I.2 ¶29` (QUOTED: Arnold)
+  - **Plain (stated):** After its clear volatile state the matter is made citrine, then saltish without crystals; it is a deadly poison not to be touched with the tongue. This chunk does not explain these stages further.
+  - Basis: Sequence stated by Arnold ('afterwards'), I.2 ¶29.
+- **subject** — “this very permanent water is the stone, but whilst it is water it is no stone” `I.2 ¶29` (QUOTED: Belus)
+  - **Plain (stated):** Decodes 'stone and no stone': this permanent water is the stone, yet while it remains water it is no stone; hence it is truly called both water and not water.
+  - Basis: Belus' explanation, I.2 ¶29, n31; Arnold's 'if thou say it is water, thou dost say truth; and if thou sayest it is not water, thou dost lie' (I.2 ¶29).
+  - Also: “if thou say it is water, thou dost say truth; and if thou sayest it is not water, thou dost lie” `I.2 ¶29`
+  - Also: “who will believe that water can be made a stone, or a stone water” `I.2 ¶29`
+- **subject** — “Nature has made it such, But has not yet brought it to perfection.” `I.2 ¶30` (QUOTED: Lucerna Salis Phil.)
+  - **Plain (stated):** The subject is a natural product left unfinished by nature; art must complete it. The verse places its growth 'in the caverns of the mountains', not on earth; this chunk does not explain that image.
+  - Basis: I.2 ¶30 verse; the need for art is consistent with I.2 ¶18.
+  - Also: “You will not find it on earth, since there it has no growth; It grows only in the caverns of the mountains.” `I.2 ¶30`
+- **result** — “For he who has the vapor of this thing, Has the gilded splendor of the Red Lyon, The pure and clear Mercury.” `I.2 ¶30` (QUOTED: Lucerna Salis Phil.)
+  - **Plain (stated):** Possessing the vapour of the subject gives the 'Red Lyon' and pure Mercury; knowing the red Sulfur it contains gives 'the whole foundation'. This chunk does not explain Red Lyon or red Sulfur.
+  - Basis: Verse I.2 ¶30; no gloss in this chunk.
+  - Also: “And he who knows the red Sulfur which it contains, Has within his power the whole foundation” `I.2 ¶30`
+
+## Terms
+
+- **Quintessence** — The magi's universal essence, held to be an object of experimental science, obtainable as a compact, tangible, homogeneous essence rather than only mixed in air or water. (ATWOOD)
+  - = Lumen Vestimenti, the Vehicle of Light: “in which pure estate, the Kabalists, also describing, call it, Lumen Vestimenti, the Vehicle of Light” `I.2 ¶16`
+  - = Free Ether: “and the Greeks, the Free Ether, that is to say, freed from the prison of gross matter” `I.2 ¶16`
+  - “that elder Quintessence of the magi which they introduce, not as a being of speculation merely, but of experimental science” `I.2 ¶16`
+- **Free Ether** (also: Ether) — The essence freed from gross matter, working by its own included light; in Euripides' verse, the all-nourishing Ether embracing the earth. (QUOTED: the Greeks; Euripides)
+  - = Jove: “The viewless Ether in his genial arms Clasping the earth; Him call thou Lord and Jove” `I.2 ¶17`
+  - “freed from the prison of gross matter, and able to work of itself intimately by the virtue of its own included light” `I.2 ¶16`
+- **Odic Force** — A supposed 'New Imponderable' suggested by recent experiments and Mesmerism; few believe in it and Atwood does not assume it here. (ATWOOD)
+  - = New Imponderable: “the supposition of a New Imponderable, or Odic Force” `I.2 ¶16`
+- **ethereal spirit** — The sought spirit, which never subsists separately on earth but is hidden and defiled within the beings it sustains. (ATWOOD)
+  - “the ethereal spirit does not subsist of itself, separate or tangibly on earth” `I.2 ¶20`
+- **Argent vive** (also: argentums vivum nostrum, argent vive, our Argent vive) — The subject of the Art: a water of another nature (Lully); a stone and no stone, spirit, soul and body, volatile and clear, One Thing (Arnold); the thing in which the conversion of natures is carried out. (QUOTED: Lully; Arnold)
+  - = aqua alterius naturae (water of another nature): “argentums vivum nostrum est aqua alterius naturae” `I.2 ¶18`
+  - “the method of conversion in our Argent vive is the reduction of natures to their first root” `I.2 ¶25`
+  - “it is a stone and no stone, in which the whole Art consists, spirit, soul and body” `I.2 ¶29`
+- **fixed / volatile** (also: fixum, volucrem) — The two states the work inverts: the fixed is to be made volatile and the volatile fixed. (ATWOOD)
+  - “that which is fixed becoming volatile and the volatile nature fixed” `I.2 ¶20`
+- **Solve, Coagula, Fige** — Formula closing the verse on the fixed and volatile; the chunk ties it to the inversion of fixed and volatile. (UNCLEAR)
+  - “Solve, Coagula, Fige.” `I.2 ¶21`
+- **adventitious image / central form** — The externally generated form imposed on a body, to be constricted, versus its inner central form, to be developed into life and act. (ATWOOD)
+  - “the adventitious or externally generated image may be constricted utterly, and the central form contrariwise developed into life and act” `I.2 ¶20`
+- **inversion** (also: contrariation, introverted, contrary) — Reversal of nature's ordinary order of procedure, required for perfect manifestation; beyond ordinary art and nature. (ATWOOD)
+  - “by a real experimental inversion” `I.2 ¶22`
+  - “the order of natural procedure ought to be introverted for a true and perfect manifestation” `I.2 ¶27`
+- **conversion of the elements** (also: Converte elementa, Convert the elements) — Making light things heavy and spirits no spirits; a mutation of natures reducing them to their first root. (QUOTED: Arnold)
+  - = mutation of natures: “our operation is nothing else than a mutation of natures” `I.2 ¶25`
+  - “let him understand the conversion of the elements, to make light things heavy, and to make spirits no spirits” `I.2 ¶22`
+- **manacles and fetters** — Figure for laying hold of and working matter to the utmost degree. (QUOTED: Bacon, on Democritus)
+  - = working upon matter in the extremist degree: “manacles and fetters; i.e., lays hold and works upon matter in the extremist degree” `I.2 ¶23`
+- **magic** (also: magical elements) — In Paracelsus, the natural (not specially divine) secret that gives entrance into nature by unmatched quickness of separation. (QUOTED: Paracelsus)
+  - “if that magic then were natural, certainly it was most wonderful, very excellent for quickness of separation” `I.2 ¶25`
+- **separation** — The greatest miracle in philosophy and the beginning of all generation; the first half of Ripley's procedure before recombination. (QUOTED: Paracelsus)
+  - “separation was the principle and beginning of all generation” `I.2 ¶25`
+- **truphat** — The matter of the metals, which brings everything into its due form. (QUOTED: Paracelsus)
+  - = matter of the metals: “The truphat, or matter of the metals” `I.2 ¶25`
+- **elixir** — Result of separating the elements of Mercury and recombining them in equal proportion. (QUOTED: Ripley)
+  - “again commixed by equal weight or proportion, make the elixir complete” `I.2 ¶25`
+- **elements** (also: true element, magical elements) — In Hermetic usage not the common elements or chemical simples, but the elements of the Mercury, properties of the universal spirit; the true element is an invisible spirit of life, the visible being only its receptacle. (ATWOOD)
+  - = elements of the Mercury, properties of the universal spirit: “the elements they speak of, as being introverted and transformed are the elements of the Mercury, properties of the universal spirit” `I.2 ¶26`
+  - = spirit of life: “the true element is a spirit of life, and grows in all things” `I.2 ¶26`
+  - “We must not limit, says Paracelsus, an element to a bodily substance or quality.” `I.2 ¶26`
+- **First Matter of the elements** (also: first matter of the elements of the elements) — The invisible, intangible spirit of life in all things; the life creatures have. (QUOTED: Paracelsus)
+  - = that life which the creatures have: “the first matter of the elements of the elements is nothing else but that life which the creatures have” `I.2 ¶26`
+  - “This is the First Matter of the elements, which can neither be seen nor felt, and yet is in all things” `I.2 ¶26`
+- **Universal Being** (also: universal spirit) — The occult being in nature on whose assumption all Hermetic theory and practice proceeds. (ATWOOD)
+  - “the whole of the Hermetic theory and practice proceeds upon the assumption of a certain Universal Being in nature, which is occult” `I.2 ¶26`
+- **Stone** (also: stone) — The perfective product of the Art, made in and by the universal spirit; the permanent water is the stone, though not a stone while still water. (ATWOOD)
+  - = permanent water: “this very permanent water is the stone, but whilst it is water it is no stone” `I.2 ¶29`
+  - “the perfective miracle of their Stone” `I.2 ¶26`
+- **mercury of the wise** (also: Mercury, Mercurius Sapeintum) — The subject as found by the masters: a cold, moist watery element, permanent water, unctuous vapour, spirit of body. (QUOTED: Albertus Magnus)
+  - = permanent water: “the mercury of the wise to be a watery element, cold and moist, a permanent water, an unctuous vapor, and the spirit of body” `I.2 ¶29`
+  - = Hyle: “Which Lully, not dissimilarly viewing, calls Hyle” `I.2 ¶29`
+- **first material of the metals** — An unctuous subtle humidity forcibly incorporated with a subtle earthy part. (QUOTED: Albertus Magnus)
+  - “the first material of the metals is an unctuous subtle humidity, forcibly incorporated with a subtle terrestreity” `I.2 ¶29`
+- **Hyle** — Lully's name for the subject: a clear compounded water like argent vive, flowing on earth, generated in every compound from the substance of the air, extremely heavy. (QUOTED: Lully)
+  - “it is a clear compounded water, most like in substance to argent vive” `I.2 ¶29`
+- **Pan** (also: Pana) — In the Orphic hymn, the strong subtle whole that is all fire, air, earth or water, beginning and end of all; Atwood then speaks of 'the most Ancient Nature' as 'he', to be taken as the Hermetic masters found it. (QUOTED: Orpheus)
+  - “Fortis subtilis Pan, integer et generalis; Et totus ignis, aura, terra, sive aqua,” `I.2 ¶28`
+  - “Yet not in his elementary immanifest diffusion let us invoke the most Ancient Nature” `I.2 ¶29`
+- **Red Lyon** — Possessed, with the pure and clear Mercury, by whoever has the vapour of the subject; not otherwise explained here. (QUOTED: Lucerna Salis Phil.)
+  - “Has the gilded splendor of the Red Lyon, The pure and clear Mercury.” `I.2 ¶30`
+- **red Sulfur** — Contained in the subject; knowing it gives the whole foundation. Not otherwise explained here. (QUOTED: Lucerna Salis Phil.)
+  - “And he who knows the red Sulfur which it contains, Has within his power the whole foundation” `I.2 ¶30`
+- **Great Art** (also: Hermetic Art, Art) — The ancients' art, unknown to Bacon together with its subject. (ATWOOD)
+  - “he knew nothing of their Great Art, or of its subject even, and naturally mistook their hidden ground” `I.2 ¶24`
+
+## Sources cited
+
+- **Mesmerism** `I.2 ¶16` — Contrasts: its phenomena revive belief in an Odic Force, which Atwood does not assume here.
+- **the Kabalists** — “Lumen Vestimenti, the Vehicle of Light” `I.2 ¶16` — Supports: a name for the pure Quintessence.
+- **the Greeks** — “the Free Ether” `I.2 ¶16` — Supports: name for the essence freed from gross matter.
+- **Zeno** — “Ignem esse artificiosum, ad gignendum progredientem via” `I.2 ¶16` — Supports: the ether as plastic, generating fire.
+- **Cicero**, *De Nat. Deor., lib. ii* — “coelestis alstissima aethereaque natura” `I.2 ¶16, I.2 n15` — Supports: the ether as igneous nature begetting all things.
+- **Euripides** — “The viewless Ether in his genial arms Clasping the earth; Him call thou Lord and Jove” `I.2 ¶17, I.2 n16` — Illustrates: Ether as all-nourishing, called Jove.
+- **Blackwells’s Letters on Mythology**, *Letters on Mythology* `I.2 n16` — Reference only (for the Euripides verse).
+- **Lully**, *Lullii Theorica et Practica in Theat. Chem., vol. iv; R. Lullii Theorica et Practica, cap. iii. De Forma Minori* — “Imo argentums vivum nostrum est aqua alterius naturae” `I.2 ¶18, I.2 ¶29, I.2 n17, I.2 n25, I.2 n29` — Supports: the subject is of another nature and needs human art; describes it as Hyle, a clear compounded water.
+- **Arnold**, *Arnoldi Speculum, Octava Dispositio; Speculum Alchimiae, Octava Dispositio* — “Converte elementa et quod quaeris invenies” `I.2 ¶22, I.2 ¶25, I.2 ¶29, I.2 n18, I.2 n22, I.2 n30` — Supports: conversion of elements as reduction of natures to first root; describes argent vive as stone and no stone, One Thing.
+- **Lord Bacon**, *De Sapientia Veterum, Fable of Proteus* — “torture and vex it in order to its annihilation” `I.2 ¶23, I.2 ¶24, I.2 n19` — Supports (via Democritus) the torture-and-restoration principle; criticized for proposing mechanical dissolution and for not knowing the Great Art or its subject.
+- **Lord Bacon**, *Sylva Sylvarum; History of Rarity and Density* — “particular digesters applied to the fire” `I.2 ¶24, I.2 n20` — Is criticized: such instruments expel the prized nature.
+- **Democritus** `I.2 ¶24` — Supports: his proposal (as reported by Bacon) to reduce matter near annihilation and free the spirit; endorsed by Atwood.
+- **Paracelsus**, *To the Athenians, book i, text 9; book ii, text 2 and 5* — “The greatest miracle of all in philosophy is separation” `I.2 ¶25, I.2 ¶26, I.2 n21, I.2 n24` — Supports: natural magic of separation; true element as spirit of life and First Matter of the elements.
+- **Ripley**, *Medulla Alchimiae, cap. i* — “The elements of Mercury being separated” `I.2 ¶25, I.2 n23` — Supports: separation and recombination of Mercury's elements make the elixir.
+- **Tractatus Aureus**, *Tractatus Aureus, cap. i, prop. 4* `I.2 n25` — Reference only; its marker (25) does not appear in the text.
+- **Orpheus**, *Orpheus Hymni* — “Fortis subtilis Pan, integer et generalis” `I.2 ¶28, I.2 n26` — Illustrates: Pan as the whole of nature.
+- **Albertus Magnus**, *De Mineralibus, cap. ii; Breve Compendium in That. Chem. vol. ii* — “a watery element, cold and moist, a permanent water” `I.2 ¶29, I.2 n27` — Supports: definition of the mercury of the wise and first material of metals.
+- **Atrephius**, *Liber Secretissimus Artefii* — “a white fume, in substance like to pure silver” `I.2 ¶29, I.2 n28` — Supports: description of the subject.
+- **Belus**, *Turba Philosophoru, Sermo Vigesima (the classic synod of Aristaeus)* — “this very permanent water is the stone, but whilst it is water it is no stone” `I.2 ¶29, I.2 n31` — Supports: explains 'stone and no stone'.
+- **Lucerna Salis Phil.**, *Lucerna Salis Phil.* — “It is a stone and no stone, In which the whole art consists;” `I.2 ¶30, I.2 n32` — Supports/illustrates: verse on the stone, its growth, Red Lyon and red Sulfur.
+- **adepts** `I.2 ¶18, I.2 ¶20` — Supports: doctrine that nature's ordinary manifestation contradicts her perfect law; the goddess known only in action.
+
+## Ambiguities
+
+- “but she passes through death from one form into another, as in the chemic vessels, without self-discovery, being instigated by a most forcible excentric will, which she has no power but to obey” `I.2 ¶24`
+  - Reading: Describes what happens under ordinary art and nature: the spirit is driven blindly from form to form by an external will, without reaching itself; this is contrasted with the alchemical contrariation.
+  - Reading: Describes the alchemical contrariation itself: the spirit is forced through death into new forms by the operator's overpowering will.
+  - Basis: Reading 1: the clause follows 'is not the power of ordinary art, any more than of nature herself; but', and 'excentric will' echoes 'other external compellants' just before; the following 'yet, as the passage runs' then gives the contrasting case of 'another force'. Reading 2: the subject of the sentence is 'The contrariation proposed by ... the alchemists', and ¶23 also has the matter forced through many shapes.
+- “And as it was in the great mystery, so it is in the lesser.” `I.2 ¶25`
+  - Reading: Great mystery = original generation of all things; lesser = the Art.
+  - Reading: The terms refer to something this chunk does not define.
+  - Basis: Preceding clause: 'separation was the principle and beginning of all generation'; neither mystery is named in this chunk.
+- “quae reperiri non potest supra terram” `I.2 ¶18`
+  - Reading: The subject is not found on earth in its own pure state, though present there mingled (consistent with ¶20 and ¶30).
+  - Reading: Inconsistency between sources: Lully in ¶29 says it 'is found flowing upon earth'.
+  - Basis: I.2 ¶20: 'does not subsist of itself, separate or tangibly on earth'; I.2 ¶29 (Lully): 'it is found flowing upon earth'; I.2 ¶30: 'You will not find it on earth, since there it has no growth'.
+- “calling that Jove which is not Jove; and mistaking Olympus, embrace some cloud whilst the life-giving Juno is far away” `I.2 ¶18`
+  - Reading: Jove and Juno both stand for the true ethereal spirit, set against a 'cloud' (common air).
+  - Reading: Jove (the Ether of the verse) and Juno ('the goddess') are distinct figures; the chunk does not relate them.
+  - Basis: I.2 ¶17 calls the Ether 'Lord and Jove'; I.2 ¶18 continues 'For the goddess is subtilely mingled in nature' and then moves to Lully's argent vive.
+
+## Translations
+
+- `I.2 ¶16` “Ignem esse artificiosum, ad gignendum progredientem via” → as a plastic fire, ever generating by rule *(book)*
+- `I.2 ¶16` “coelestis alstissima aethereaque natura, id est ignea aquae per se omnia gignat” → that most heavenly high ethereal igneous nature, which spontaneously begets all things *(book)*
+- `I.2 ¶18` “Imo argentums vivum nostrum est aqua alterius naturae, quae reperiri non potest supra terram, cum in actionem venire non posit per naturam, absque adjutorio ingenii et humanarum manuum operationibus” → Indeed our argent vive is a water of another nature, which cannot be found above the earth, since it cannot come into action through nature without the aid of ingenuity and the operations of human hands. *(ours)*
+- `I.2 ¶19` “Hoc vere nulibi est quod quaerimus.” → This which we seek is truly nowhere. *(ours)*
+- `I.2 ¶21` “Si fixum solvas faciasqu volare solutum Et volucrem figas, facient te vivere tutum: Solve, Coagula, Fige.” → If you dissolve the fixed and make the dissolved fly, and fix the flying, they will make you live safe: Dissolve, Coagulate, Fix. *(ours)*
+- `I.2 ¶22` “Converte elementa et quod quaeris invenies” → Convert the elements, and you will find what you seek (the book's own rendering, given at I.2 ¶25). *(book)*
+- `I.2 ¶27` “Qui Proteum non novit, adeum Pana.” → Let him who has not known Proteus go to Pan. (Reading 'adeum' as a form of 'to go to'; the word as printed is irregular.) *(ours)*
+- `I.2 ¶28` “Fortis subtilis Pan, integer et generalis; Et totus ignis, aura, terra, sive aqua, Qui resides solio cum tempore semper eodem Medio, supreme et infimo regno tuo. Concipiens, generans, producens, omnia servans, Exordium rerumque finis omnium” → Strong subtle Pan, whole and universal; all fire, air, earth or water; who sits enthroned, with time, ever the same, in the middle, highest and lowest of your kingdom; conceiving, generating, producing, preserving all things; beginning and end of all things. *(ours)*
+- `I.2 n27` “Mercurius Sapeintum est elementum...” → The Mercury of the Wise is an element... (cf. the book's English at I.2 ¶29) *(ours)*
+- `I.2 n30` “Lapis est et non lapis...” → It is a stone and no stone... (the book's English at I.2 ¶29) *(book)*
+- `I.2 n31` “Ecce dita in hoc despecto...” → Behold, [things] given in this despised... (fragment; text appears corrupt, rendering uncertain) *(ours)*
+
+## Threads
+
+- `I.2 ¶16` 'Neither are we desirous absolutely to assume it here' — 'it' refers back to something in the preceding chunk, not identified in this chunk.
+- `I.2 ¶26` 'as we are taught from the beginning' — points back to the earlier statement that Hermetic theory and practice assume an occult Universal Being in nature.
+- `I.2 ¶27` The point that natural procedure must be introverted 'may be more easily apprehended hereafter on more intimate ground' — promised fuller treatment later.
+- `I.2 ¶27` Atwood gathers definitions of the whole nature now 'that ... we may be better able afterwards to conceive the particulars' — particulars deferred.
+- `I.2 n25` Footnote 25 (Tractatus Aureus, cap. i, prop. 4; Lullii Theorica et Practica, c. iii) has no marker in the text; by order it falls between ¶26 (n24) and ¶28 (n26), probably attaching to the Proteus/Pan line in ¶27.
+- `I.2 ¶29` 'Again: ---' introduces the verse in ¶30 (n32); the descriptions of the First Matter likely continue into the next chunk.

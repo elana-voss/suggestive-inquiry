@@ -1,0 +1,320 @@
+# IV.1_03
+
+*Atwood applies the rule of inquiry (trace back to the first Medium in one's power) to the Hermetic work, names Will as the chief purgative, and gives figures of the guiding Power and Motive, hand and Fire (Cheiron, Vulcan). She then concludes her instruction on the 'hyper-physical Gross Work': its crux, the 'Gordian Knot', is the Second Work, the Solution of the Philosophic Salt ('the voluntary bond'), described through Vaughan and Khunrath; it cannot be forced by hands or intellect, is revealed by God alone, and requires an operator purified of self-will (her gloss on Basil Valentine's purification of Antimony) and befriended with Fire (Vulcan).*
+
+## Argument
+
+- Inquiry reasons back from the end, Medium by Medium, to the first Medium in one's power; there the work begins. Last in analysis is first in generation; few are chosen to proceed. `IV.1 ¶31` — ATWOOD
+- Philosophers sought purification and perfecting of life; the Divine Will conciliated, Wisdom fulfils it. Will is the greatest power of purgation. What is efficacious from the first returns into its proper Efficient. `IV.1 ¶31` — ATWOOD
+- Cheiron, Power and Motive in alliance, educates the Heroic Fire and rectifies the Armed Magnet; the Intellect, secure in its Ether, follows as by beacon until, center meeting center, consciousness transcends in Light. `IV.1 ¶32, IV.1 ¶33` — ATWOOD
+- The hand expresses what mind premeditated (Dactyli Idaei). Pallas is born from Jove by Vulcan: without Motion the Fabricate Intellect is not born. `IV.1 ¶34, IV.1 n26` — ATWOOD
+- Pluto's Palace with Minerva's Artifice, or Vulcan with her at the Altar, is ominous. `IV.1 ¶34` — QUOTED: the wise Adept
+- Latin verse on life-bearing Fire and a Centre. `IV.1 ¶35, IV.1 n27` — QUOTED: Oracula Chaldeor
+- Concluding on the hyper-physical Gross Work: its Second part, per Vaughan among the subtlest, Agrippa never knew. The Second Work is the Solution of the Philosophic Salt, 'the voluntary bond'. `IV.1 ¶36` — ATWOOD
+- Lully first followed the tedious common process; Ripley alternated heat and cold on his Red Salt; Lully later performed the Solution in nine days, the secret from God. `IV.1 ¶36, IV.1 n28` — UNCLEAR
+- First act: hands and Fire relax Adrop's (Saturn's) coagulation; Green Duenech and Vitriol of Venus appear; the Green Lion's blood is collected; mud earth (First Matter) and black Wine appear; the soul–body bond dissolves; fixed volatilizes; the body becomes precious Ashes. `IV.1 ¶36, IV.1 n29` — QUOTED: Khunrath
+- Latin verse on 'Vitifer Ignis' and a Centre. `IV.1 ¶36, IV.1 n29` — QUOTED: Khunrath
+- Writing to stimulate the already enlightened, not instruct the ignorant, she concludes on the hyper-physical Gross Work: its Second part, per Vaughan among the subtlest, Agrippa did not rightly know. The Second Work is the Solution of the Philosophic Salt, 'the voluntary bond'. `IV.1 ¶37, IV.1 ¶38` — ATWOOD
+- Hands and intellect fail; the truth was never written: God alone reveals it (Lully). `IV.1 ¶39` — ATWOOD
+- Only one loosed from bonds and virtuous approaches the mine of Sontes; the loosening is a specific virtue, not Corrosives. `IV.1 ¶39, IV.1 n30` — QUOTED: Van helmont
+- Clean hands and a pure heart ascend. Man labors but cannot compel the Divine Blessing; God, propitiated by prayer and charitable works, gives the increase. Desire reaches its object by faith, or via just works, hope and ecstasy. `IV.1 ¶39, IV.1 ¶40, IV.1 n31, IV.1 n32` — ATWOOD
+- Fixed Antimony roots out fixed disease, once its venom is wholly removed. `IV.1 ¶40, IV.1 n34` — QUOTED: Basil Valentine
+- Gloss: self-will, sensuality, folly, avarice and wavering must leave the mind of one entering 'the radical dissolution of Life'; the weapons are not carnal. `IV.1 ¶40, IV.1 n33` — ATWOOD
+- Fire alone separates good from evil; another Vulcan in the Lesser World perfects what the Greater leaves crude; only Vulcan's friend, with the Fiery bath of Love, can show it. `IV.1 ¶40, IV.1 n34` — QUOTED: the monk (continuing Basil Valentine)
+
+## Method
+
+- **procedure** — “That Medium, therefore, which is last in the analysis is first in generation being proved able to the accomplishment” `IV.1 ¶31` (ATWOOD)
+  - **Plain (stated):** Reason backward from the intended end through intermediate means until you reach a means that is immediately in your own power. Inquiry stops there and the actual work starts from that point.
+  - Basis: IV.1 ¶31 describes the procedure directly: investigate Medium after Medium 'till he discovers the first Medium which is immediately in his power'.
+  - Also: “the first Medium which is immediately in his power, in the discovery of which inquiry terminates, and the work, beginning from thence, passes into accomplishment” `IV.1 ¶31`
+- **operator** — “of the many called to the consultation of means few are chosen to proceed with the Philosophic Work” `IV.1 ¶31` (ATWOOD)
+  - **Plain (stated):** Many inquire into the means; only a few go on to the actual work.
+  - Basis: IV.1 ¶31, direct statement.
+- **agent** — “Will is the greatest power of purgation” `IV.1 ¶31` (ATWOOD)
+  - **Plain (stated):** The will is the chief purifying power. The work aims at purification and the perfecting of life; when the Divine Will is conciliated, Wisdom brings the aim about, and one's deeds and words assist.
+  - Basis: IV.1 ¶31, direct statement.
+  - Also: “they inquired about such things as tend to purification and the method of perfecting life” `IV.1 ¶31`
+  - Also: “the Divine Will being conciliated, Wisdom runs lovingly by her own rule to fulfill it” `IV.1 ¶31`
+  - Also: “hence our deeds and discourses extend their Hands, as it were, to assist us in our assent” `IV.1 ¶31`
+- **agent** — “This is he who, in his double capacity of Power and Motive in alliance, corrects and educates the Heroic Fire, tames and directs its illimitable virtue, and rectifies the Armed Magnet by an infallible rule.” `IV.1 ¶33` (ATWOOD)
+  - **Plain (stated):** Cheiron (from the Latin verse) stands for Power and Motive joined together, which disciplines and directs the boundless 'Heroic Fire' and corrects the 'Armed Magnet'. This chunk does not say what the Heroic Fire or the Armed Magnet are.
+  - Basis: IV.1 ¶33 'This is he who' refers back to the Cheiron of the IV.1 ¶32 verse and names his role.
+  - Also: “Ille pius Cheiron justissimus omnes Inter Nubigenas et Magni Doctor Achillis.” `IV.1 ¶32`
+- **result** — “center meeting center, the consciousness transcends in revolutionary Light” `IV.1 ¶33` (ATWOOD)
+  - **Plain (interpreted):** Guided as by a beacon, the Intellect passes through the realm of the senses, protected by its Ether, until it is 'integrally related'; then consciousness passes beyond itself into Light. What the two centers are is not stated.
+  - Basis: IV.1 ¶33: the Intellect 'rides through the abyss of sensual monarchy, secure in its Ether' and 'follows until integrally related'; 'center meeting center' is read as that union.
+  - Also: “that Intellect rides through the abyss of sensual monarchy, secure in its Ether” `IV.1 ¶33`
+  - Also: “as a ship upon the stormy seas is directed by the beacon-light, it follows until integrally related” `IV.1 ¶33`
+- **procedure** — “in Hermetic works, the hand is found best able to express and impart what the mind has well premeditated” `IV.1 ¶34` (ATWOOD)
+  - **Plain (stated):** In the work, manual action carries out what the mind has first thought through; thought takes effect by voluntary motion. The Dactyli Idaei ('Fingers'), exhibiting metallic veins by fiery artifice, are given as an example.
+  - Basis: IV.1 ¶34 states it directly and offers the Dactyli Idaei as an example ('Such were').
+  - Also: “thought carries itself by voluntary motion into effect” `IV.1 ¶34`
+  - Also: “to exhibit by their incessant fiery artifice the metallic veins therein imbedded” `IV.1 ¶34`
+- **agent** — “without the instrumentality of Motion, which the lame god personates, the Fabricate Intellect is not born” `IV.1 ¶34` (ATWOOD)
+  - **Plain (stated):** Vulcan stands for Motion. Without Motion the 'Fabricate Intellect' does not come into being; the fable of Pallas brought forth from Jove by Vulcan's help figures this.
+  - Basis: IV.1 ¶34 states that the lame god (Vulcan, named in the same sentence) personates Motion; the 'for' links the Pallas fable to the Fabricate Intellect.
+  - Also: “So Pallas is fabled, by the help of Vulcan, to have been brought forth from Jove” `IV.1 ¶34`
+- **impediment** — “if Vulcan stands together with her at the Altar there, the Association is ominous” `IV.1 ¶34` (QUOTED: the wise Adept)
+  - **Plain (interpreted):** A warning: Pluto's Palace exposed together with Minerva's Artifice, or Vulcan standing with her at the Altar, is a bad sign. This chunk does not explain it (see ambiguities).
+  - Basis: IV.1 ¶34 calls the Association 'ominous' without gloss.
+  - Also: “Pluto’s Palace should be exposed to any one together with Minerva’s Artifice” `IV.1 ¶34`
+- **stage** — “By the Second Work we are to understand, therefore, the Solution of the Philosophic Salt (i.e., the voluntary bond)” `IV.1 ¶36` (ATWOOD)
+  - **Plain (stated):** The Gross Work has a First Preparation and a Second part. The Second part is the dissolving of the 'Philosophic Salt', which Atwood glosses as the voluntary bond. It is among the hardest parts of the Art. This chunk does not describe the First Preparation.
+  - Basis: IV.1 ¶36 gives the identification explicitly.
+  - Also: “The Second part of the Gross Work is described by Vaughan as one of the greatest subtleties of the Art” `IV.1 ¶36`
+  - Also: “Cornelius Agrippa, he observes, knew the First Preparation, and has clearly discovered it” `IV.1 ¶36`
+- **impediment** — “in his first practices, he followed the common tedious process which after all is scarcely profitable” `IV.1 ¶36` (UNCLEAR)
+  - **Plain (interpreted):** Wrong approaches to the Solution: the ordinary laborious process (Lully's early practice) and odd methods such as Ripley's exposing his Red Salt to alternate heat and cold. Both are presented as drudging, unprofitable or singular.
+  - Basis: IV.1 ¶36: 'a drudgery almost invincible'; Ripley 'is singular'; Lully became a master only later, with the secret from God.
+  - Also: “his Art was to expose it to alternate fits of heat and cold, but in this he is singular” `IV.1 ¶36`
+- **principle** — “He who knows the Salt and its solution, knows the secret of the Ancient Sages.” `IV.1 ¶37` (ATWOOD)
+  - **Plain (stated):** Knowing the Salt and how to dissolve it is the central secret of the art, its 'Gordian Knot'.
+  - Basis: IV.1 ¶37, direct statement.
+  - Also: “Here then liest the Gordian Knot of the Hermetic Mystery” `IV.1 ¶37`
+- **agent** — “but this Light shining everywhere in Darkness, how hardly should it be comprehensible without Itself?” `IV.1 ¶37` (ATWOOD)
+  - **Plain (interpreted):** The one who can untie the knot has 'already' been named, openly; it is a Light that can hardly be understood except by means of itself. Who is meant is not stated in this chunk (see ambiguities).
+  - Basis: IV.1 ¶37: 'We have already named him, and openly' answers 'who', followed by the Light clause.
+  - Also: “We have already named him, and openly” `IV.1 ¶37`
+- **subject** — “from Adrop (which in its proper tongue is called Saturn, i.e., the lead of the Wise), our heart of Saturn, the bonds of coagulation being dexterously relaxed” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** The first act starts from 'Adrop', which is Saturn, the lead of the Wise. Its coagulation is loosened by instruments, labor, hands and Fire.
+  - Basis: IV.1 ¶36 (Khunrath) glosses Adrop as Saturn, the lead of the Wise.
+  - Also: “by diverse instruments and labors and the various artifice of the Hands and of Fire” `IV.1 ¶36`
+- **subject** — “the Green Duenech and the Vitriol of Venus, which are the true matters of the Blessed Stone will appear” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** When the bonds of coagulation are relaxed, 'Green Duenech' and 'Vitriol of Venus' appear; these are the true material of the Stone. Their nature is not further explained.
+  - Basis: IV.1 ¶36 (Khunrath) asserts the identity.
+- **procedure** — “The Green Lion, lurking and concealed, is drawn forth from the Cavern of his Saturnine Hill by attractions and allurements suitable to his nature.” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (interpreted):** Something hidden in the Saturnine matter is drawn out by means suited to its nature, then pierced and its 'blood' carefully collected. This chunk does not otherwise explain the Green Lion or 'ule and lili'.
+  - Basis: IV.1 ¶36: 'Saturnine Hill' links the Lion to the Adrop/Saturn just named; the image sits in the first act; no gloss is given.
+  - Also: “All the blood copiously flowing from his wounds, by the acute lance transfixed, is diligently collected ule and lili” `IV.1 ¶36`
+- **subject** — “the mud earth, wet, humid, stagnant, impure, partaking of Adam, the First Matter of the creation of the Greater World of our very selves and of our potent Stone, is made manifest” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** A wet, impure 'mud earth' partaking of Adam appears; Khunrath calls it the First Matter of the Greater World 'of our very selves' and of the Stone. (Whether this names the human being as the subject is left open; see ambiguities.)
+  - Basis: IV.1 ¶36 (Khunrath) states the identity mud earth = First Matter.
+- **sign** — “the Wine which the Wise have called the Blood of the Earth, which likewise is the Red of Lully” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** A thick, dense, deep-black substance appears in the first act. It is called Wine, Blood of the Earth and Red of Lully; 'Red' is named for its tincture, 'the color of its virtue'. Lully's Latin also speaks of 'that first blackness' (translation ours).
+  - Basis: IV.1 ¶36 (Khunrath) states the equivalences and the reason for 'Red'.
+  - Also: “thick, dense, and black, blacker than black” `IV.1 ¶36`
+  - Also: “so name on account of its tincture which is the color of its virtue” `IV.1 ¶36`
+  - Also: “de prima illa nigedine a paucis cognita ebnigmum Spiritum extrahere affectantes” `IV.1 ¶36`
+- **stage** — “the bond by which the soul is tied to the body and united together with it into one substance is relaxed and dissolved” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** The tie between soul and body loosens. Spirit and Soul gradually separate from the body; the fixed becomes volatile; the impure body is consumed, dies, blackens and turns to ashes.
+  - Basis: IV.1 ¶36 (Khunrath) states it in sequence.
+  - Also: “The Spirit and the Soul by degrees depart from the body and are separated step by step; whilst this takes place the fixed is made volatile” `IV.1 ¶36`
+  - Also: “the impure body (of the Spirit) from day to day is consumed, is destroyed, dies, blackens, and goes to Ashes” `IV.1 ¶36`
+- **result** — “These Ashes, my Son, deem not of little worth; they are the diadem of thy body; in them lies our pigmy, conquering and subduing giants.” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (interpreted):** The ashes left after the impure body is destroyed are precious and hold something small but overcoming. The 'pigmy' and 'giants' are not explained here.
+  - Basis: IV.1 ¶36: follows directly on the body going 'to Ashes'; no gloss of pigmy or giants.
+- **procedure** — “rot of themselves and without manual cooperation, by the sole labors of nature, are dissolved, conjoined, and reunited” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** In the Second Operation, body, spirit and soul, first washed, purged and recompounded with great labor, are held in one vessel and one furnace under one fire; there they decompose and reunite by nature alone, without the hand. This contrasts with the first act, done by hands and Fire.
+  - Basis: IV.1 ¶36 (Khunrath) states it directly; the first act is 'by diverse instruments and labors and the various artifice of the Hands and of Fire'.
+  - Also: “In the Second Operation, which takes place in one circular crystalline vessel justly proportioned to the quality of its contents, also in one theosophic cabalistically sealed furnace of Athanor, and by one fire” `IV.1 ¶36`
+  - Also: “externally washed and cleansed and purged with the most accurate diligence and Herculean labors, and again compounded” `IV.1 ¶36`
+- **result** — “hence the World arises renovated and new” `IV.1 ¶36` (QUOTED: Khunrath)
+  - **Plain (stated):** The three principles, wholly volatilized, then coagulate of themselves, take on various colors, calcine and fix; the outcome is a renewed 'World'.
+  - Basis: IV.1 ¶36 (Khunrath) states it directly.
+  - Also: “these three principles also are of themselves coagulated, diversifiedly colored, calcined, and fixed” `IV.1 ¶36`
+- **impediment** — “since hands and intellect are here alike incapable” `IV.1 ¶39` (ATWOOD)
+  - **Plain (stated):** At the Solution neither manual work nor reasoning can force the result; the door is shut to them.
+  - Basis: IV.1 ¶39 directly; IV.1 ¶38 verse 'your Hands cannot break apart the iron' (translation ours).
+  - Also: “Vestrae namque Manus nequeunt diffingere ferru.” `IV.1 ¶38`
+- **principle** — “it is proper alone, as Lully says, to God to reveal it” `IV.1 ¶39` (ATWOOD)
+  - **Plain (stated):** The secret of the Solution has never been written down; only God reveals it, and no one can pass it to another without the Divine Will. Lully's mastery (the Solution in nine days) is said to have come from God.
+  - Basis: IV.1 ¶39 directly; IV.1 ¶36 on Lully.
+  - Also: “the truth of this discovery was never yet put to paper” `IV.1 ¶39`
+  - Also: “he performed the Solution in nine days, and this secret he had from God himself” `IV.1 ¶36`
+- **operator** — “he alone, who, being loosed from his bonds, has known the wars, being fitted forhis journey, a friend to the places and who has virtue” `IV.1 ¶39` (QUOTED: Van helmont)
+  - **Plain (stated):** Only someone freed from his bonds, experienced in the struggle, prepared, familiar with the 'places' and virtuous can approach the 'mine of Sontes'. Atwood adds the Scriptural requirement of clean hands and a pure heart, which she calls apt.
+  - Basis: IV.1 ¶39 (Van helmont), then the Scriptural verse; IV.1 ¶40 'it is apt'.
+  - Also: “He that hath clean hands and a pure heart, who hath not given up his soul unto vanity nor sworn deceitfully.” `IV.1 ¶39`
+- **agent** — “there is a virtue of loosing the bars and bolts of Tartar” `IV.1 ¶39` (QUOTED: Van helmont)
+  - **Plain (stated):** The dissolving is done by a specific virtue acting on its proper object, not by corrosive force or general 'Second qualities'; the Ostrich digests iron without corrosion. Van helmont says this virtue is to be meditated on.
+  - Basis: IV.1 ¶39 (Van helmont), direct statements.
+  - Also: “They err, therefore, who ascribe this single combat only to Corrosives” `IV.1 ¶39`
+  - Also: “For the Ostrich does not digest iron or little birds flints, through an emulous quality of corrosion” `IV.1 ¶39`
+  - Also: “It is convenient to meditate about this virtue” `IV.1 ¶39`
+- **principle** — “man indeed may experiment, plough, plant, and irrigate, but cannot of himself (or in alliance, unless he dare a deadly sin), compel the Divine Blessing without its free accord” `IV.1 ¶40` (ATWOOD)
+  - **Plain (stated):** The operator can prepare and labor, but success depends on a Divine Blessing that cannot be forced; wisdom is not won by care or study. God must be propitiated by prayer and also by faithful, charitable works.
+  - Basis: IV.1 ¶40 directly.
+  - Also: “He therefore must be propitiated, not by prayer and supplication alone, but by faithful and charitable works preparing the way before Him” `IV.1 ¶40`
+  - Also: “Wisdom was with thee, says the Hermetic Master; it was not gotten by thy care, or, if it be freed from redness, by thy study” `IV.1 ¶40`
+- **procedure** — “Desire leads into its object by fait immediately; but mediately, by just works, that hope is engendered which, kindling into faith immediately; by ecstacy, penetrates to its First Source.” `IV.1 ¶40` (ATWOOD)
+  - **Plain (stated):** Two routes: direct, desire reaches its object by faith; indirect, just works produce hope, which kindles into faith and, by ecstasy, reaches its First Source.
+  - Basis: IV.1 ¶40 directly.
+- **operator** — “all venomous impurity is totally to be taken away from Antimony, before it can either be called a medicine truly or administered with safety” `IV.1 ¶40` (ATWOOD)
+  - **Plain (stated):** Atwood decodes this herself: purifying the Antimony means removing self-will, sensuality, folly, avarice and wavering purpose from the operator's mind, leaving only the single will to rectify and perfect, before he enters the 'radical dissolution of Life'. The warfare is spiritual, not carnal.
+  - Basis: IV.1 ¶40: 'in other words' introduces Atwood's gloss of Basil Valentine's sentence; the Apostle's 'weapons of this warfare are not carnal' follows.
+  - Also: “all arrogant self-will, sensuality, folly, avarice, and variability of purpose, all but the one voluntary faith to rectify and perfect, be removed from the mind of him who is to enter into the radical dissolution of Life” `IV.1 ¶40`
+- **agent** — “Our Antimony, says Basil Valentine, which is fixed, searcheth out fixed diseases and eradicates them; which purgers, not fixed, cannot do” `IV.1 ¶40` (QUOTED: Basil Valentine)
+  - **Plain (interpreted):** A fixed (purified) agent reaches the inmost root or center of a deep-seated disorder; unfixed purgers only remove some of it from the surface.
+  - Basis: IV.1 ¶40: fixed remedies 'strike at the very inmost root'; unfixed ones are like water driven through a street. Atwood's gloss places Antimony's purification in the operator's mind, but she does not explicitly apply the fixed/unfixed contrast.
+  - Also: “they strike at the very inmost root of the disease, not contented with a certain superficial expulsion of filths” `IV.1 ¶40`
+  - Also: “or they may be compared to water which, driven by force through a street, penetrates not the earth itself” `IV.1 ¶40`
+- **agent** — “Fire only can effect that, and Vulcan is the sole and only master of all these” `IV.1 ¶40` (QUOTED: the monk (continuing Basil Valentine))
+  - **Plain (interpreted):** Only Fire (Vulcan) separates good from evil, fixed from unfixed, medicine from venom. What the Vulcan of the Greater Orb leaves crude, 'a certain other Vulcan' in the Lesser World ripens, cooks by heat and purifies; the colors that come from the Fire show this.
+  - Basis: IV.1 ¶40 (the monk) states the separation and the two Vulcans; IV.1 ¶34 identifies Vulcan with Motion. The chunk does not say what the Lesser World's Vulcan is (see ambiguities).
+  - Also: “the good must be separated from the evil, the fixed from the unfixed, the medicine from the venom, with accurate diligence” `IV.1 ¶40`
+  - Also: “Whatsoever the Vulcan in the Greater Orb leaves crude and perfects not, that in the Lesser World must be amended by a certain other Vulcan” `IV.1 ¶40`
+  - Also: “it very apparent in the corporeal aspect of colors which proceed from the Fire” `IV.1 ¶40`
+- **operator** — “unless he who hath firmly contracted friendship with Vulcan, and instituted the Fiery bath of Love” `IV.1 ¶40` (QUOTED: the monk (continuing Basil Valentine))
+  - **Plain (stated):** Only someone who has befriended the Fire (Vulcan) and set up a 'Fiery bath of Love' can truly demonstrate the separation of venom from the Medicine. The Fiery bath of Love is not explained.
+  - Basis: IV.1 ¶40, literal content of the sentence.
+
+## Terms
+
+- **Medium** — A means toward an end. Inquiry traces media back to the first one immediately in the operator's power, where inquiry ends and the work begins. (ATWOOD)
+  - “That Medium, therefore, which is last in the analysis is first in generation” `IV.1 ¶31`
+- **Philosophic Work** — The actual work, to which few of those who consult on the means are chosen to proceed. (ATWOOD)
+  - “few are chosen to proceed with the Philosophic Work” `IV.1 ¶31`
+- **Will** — The greatest power of purgation. The Divine Will must be conciliated, and must be with anyone who communicates the secret. (ATWOOD)
+  - “Will is the greatest power of purgation” `IV.1 ¶31`
+  - “no mortal can communicate it to another unless the Divine Will be with him” `IV.1 ¶39`
+- **Power and Motive in alliance** — The double capacity Cheiron figures; it educates the Heroic Fire and rectifies the Armed Magnet. (ATWOOD)
+  - “in his double capacity of Power and Motive in alliance” `IV.1 ¶33`
+- **Heroic Fire** — Something of 'illimitable virtue' that Power and Motive corrects, educates, tames and directs. Not further explained. (ATWOOD)
+  - “corrects and educates the Heroic Fire, tames and directs its illimitable virtue” `IV.1 ¶33`
+- **Armed Magnet** — Rectified by Power and Motive 'by an infallible rule'. Not explained. (ATWOOD)
+  - “rectifies the Armed Magnet by an infallible rule” `IV.1 ¶33`
+- **Ether** — That in which the Intellect is secure as it rides through the abyss of sensual monarchy. (ATWOOD)
+  - “that Intellect rides through the abyss of sensual monarchy, secure in its Ether” `IV.1 ¶33`
+- **Fabricate Intellect** — Not born without the instrumentality of Motion (Vulcan); figured by Pallas brought forth from Jove with Vulcan's help. (ATWOOD)
+  - “without the instrumentality of Motion, which the lame god personates, the Fabricate Intellect is not born” `IV.1 ¶34`
+- **Vulcan** — Personates Motion (Atwood, ¶34). In the monk's words (¶40), Fire's master, sole separator of good from evil and pure from impure; a Vulcan acts in the Greater Orb and 'a certain other Vulcan' in the Lesser World. (ATWOOD)
+  - = Motion: “Motion, which the lame god personates” `IV.1 ¶34`
+  - “Fire only can effect that, and Vulcan is the sole and only master of all these” `IV.1 ¶40`
+- **Gross Work** — Called 'hyper-physical' here. It has a First Preparation and a Second part, the Second being one of the Art's greatest subtleties. (ATWOOD)
+  - “this said hyper-physical Gross Work” `IV.1 ¶36`
+- **First Preparation** — The first part of the Gross Work, which Agrippa knew and made clear. Not described here. (QUOTED: Vaughan)
+  - “knew the First Preparation, and has clearly discovered it” `IV.1 ¶36`
+- **Second Work** (also: Second part of the Gross Work, the Second) — One of the Art's greatest subtleties; it is the Solution of the Philosophic Salt. (ATWOOD)
+  - = Solution of the Philosophic Salt: “By the Second Work we are to understand, therefore, the Solution of the Philosophic Salt” `IV.1 ¶36`
+- **Philosophic Salt** (also: Salt) — Glossed as the voluntary bond. Its solution is the Second Work; knowing it and its solution is the secret of the Ancient Sages. (ATWOOD)
+  - = the voluntary bond: “the Solution of the Philosophic Salt (i.e., the voluntary bond)” `IV.1 ¶36`
+  - “He who knows the Salt and its solution, knows the secret of the Ancient Sages.” `IV.1 ¶37`
+- **Solution** (also: solution) — The dissolving of the Philosophic Salt; Lully performed it in nine days. (ATWOOD)
+  - “he performed the Solution in nine days” `IV.1 ¶36`
+- **Red Salt** — What Ripley tried to putrefy by alternate heat and cold; he called it his Gold. (UNCLEAR)
+  - = Gold (Ripley's name): “this Red Salt which he enviously calls his Gold” `IV.1 ¶36`
+- **Gordian Knot** — The central difficulty of the Hermetic Mystery: knowing the Salt and its solution. (ATWOOD)
+  - “Here then liest the Gordian Knot of the Hermetic Mystery” `IV.1 ¶37`
+- **Adrop** — The starting matter of the first act, whose bonds of coagulation are relaxed; 'our heart of Saturn'. (QUOTED: Khunrath)
+  - = Saturn: “Adrop (which in its proper tongue is called Saturn, i.e., the lead of the Wise)” `IV.1 ¶36`
+  - = lead of the Wise: “called Saturn, i.e., the lead of the Wise” `IV.1 ¶36`
+  - “our heart of Saturn” `IV.1 ¶36`
+- **Green Duenech** — Appears with the Vitriol of Venus when the bonds of coagulation are relaxed; together they are the true matters of the Blessed Stone. (QUOTED: Khunrath)
+  - = true matters of the Blessed Stone (with the Vitriol of Venus): “the Green Duenech and the Vitriol of Venus, which are the true matters of the Blessed Stone” `IV.1 ¶36`
+- **Vitriol of Venus** — With the Green Duenech, the true matters of the Blessed Stone. (QUOTED: Khunrath)
+  - = true matters of the Blessed Stone (with the Green Duenech): “the Green Duenech and the Vitriol of Venus, which are the true matters of the Blessed Stone” `IV.1 ¶36`
+- **Green Lion** — Hidden in the Cavern of his Saturnine Hill; drawn out by allurements suited to his nature, pierced with a lance, his blood collected. Not otherwise explained. (QUOTED: Khunrath)
+  - “The Green Lion, lurking and concealed, is drawn forth from the Cavern of his Saturnine Hill” `IV.1 ¶36`
+- **First Matter** — Made manifest in the first act as a wet, impure 'mud earth' partaking of Adam; First Matter of the Greater World 'of our very selves' and of the Stone. (QUOTED: Khunrath)
+  - = mud earth: “the mud earth, wet, humid, stagnant, impure, partaking of Adam, the First Matter” `IV.1 ¶36`
+  - “the First Matter of the creation of the Greater World of our very selves and of our potent Stone” `IV.1 ¶36`
+- **Wine** — A thick, dense substance, 'blacker than black', appearing in the first act; called Red for its tincture, the color of its virtue. (QUOTED: Khunrath)
+  - = Blood of the Earth: “the Wine which the Wise have called the Blood of the Earth” `IV.1 ¶36`
+  - = Red of Lully: “which likewise is the Red of Lully” `IV.1 ¶36`
+  - “thick, dense, and black, blacker than black” `IV.1 ¶36`
+- **Ashes** — What the impure body becomes when consumed and blackened; of great worth, holding 'our pigmy'. (QUOTED: Khunrath)
+  - = the diadem of thy body: “they are the diadem of thy body” `IV.1 ¶36`
+  - “in them lies our pigmy, conquering and subduing giants” `IV.1 ¶36`
+- **Second Operation** — Khunrath's second stage after the first act: in one vessel, one furnace, one fire, body, spirit and soul dissolve and reunite by nature alone, without manual cooperation. (QUOTED: Khunrath)
+  - “rot of themselves and without manual cooperation, by the sole labors of nature” `IV.1 ¶36`
+- **Athanor** — The one theosophic, cabalistically sealed furnace of the Second Operation. (QUOTED: Khunrath)
+  - “one theosophic cabalistically sealed furnace of Athanor” `IV.1 ¶36`
+- **fixed / volatile** (also: fixed, volatile, unfixed) — In the dissolution the fixed is made volatile, and in the Second Operation 'wholly'. Fixed Antimony reaches fixed disease; the fixed must be separated from the unfixed. (UNCLEAR)
+  - “the fixed is made volatile” `IV.1 ¶36`
+  - “the fixed from the unfixed” `IV.1 ¶40`
+- **Corrosives** (also: corrosion) — Agents relied on through 'Second qualities'; wrongly credited with the 'single combat'. The real agent is a specific virtue of loosening. (QUOTED: Van helmont)
+  - “They err, therefore, who ascribe this single combat only to Corrosives” `IV.1 ¶39`
+- **Second qualities / specifical qualities** (also: Second qualities, specifical qualities) — Those who trust second qualities and neglect specific (appropriated) ones, which act only on their proper object, go astray. (QUOTED: Van helmont)
+  - = appropriated ones (for specifical qualities): “specifical qualities, also appropriated ones (which are only extended on their proper object)” `IV.1 ¶39`
+  - “they too much trusting to Second qualities, as being ill secure, do sleep thereupon” `IV.1 ¶39`
+- **Tartar** — That whose 'bars and bolts' a specific virtue looses. (QUOTED: Van helmont)
+  - “a virtue of loosing the bars and bolts of Tartar” `IV.1 ¶39`
+- **Divine Ground** — Where the Scriptural phrase is 'seen and proved'; there man may experiment, plough, plant and irrigate but cannot compel the Divine Blessing. (ATWOOD)
+  - “as seen and proved on the Divine Ground” `IV.1 ¶40`
+- **Antimony** — A fixed medicine that reaches the root of fixed disease, but only after all venomous impurity is removed. Atwood glosses that removal as purging the operator's mind of self-will and other vices. (QUOTED: Basil Valentine)
+  - “Our Antimony, says Basil Valentine, which is fixed, searcheth out fixed diseases and eradicates them” `IV.1 ¶40`
+- **radical dissolution of Life** — What the operator enters once self-will and the other vices are removed from his mind. (ATWOOD)
+  - “be removed from the mind of him who is to enter into the radical dissolution of Life” `IV.1 ¶40`
+- **Greater Orb / Lesser World** (also: Greater Orb, Lesser World) — Two domains, each with its Vulcan; the Vulcan of the Lesser World amends what that of the Greater Orb leaves crude. (QUOTED: the monk (continuing Basil Valentine))
+  - “Whatsoever the Vulcan in the Greater Orb leaves crude and perfects not, that in the Lesser World must be amended by a certain other Vulcan” `IV.1 ¶40`
+- **Fiery bath of Love** — Instituted by one who has contracted friendship with Vulcan; only he can demonstrate the separation of venom from the Medicine. Not explained. (QUOTED: the monk (continuing Basil Valentine))
+  - “firmly contracted friendship with Vulcan, and instituted the Fiery bath of Love” `IV.1 ¶40`
+
+## Sources cited
+
+- **Cheiron (Latin verse, unattributed)** — “Ille pius Cheiron justissimus omnes Inter Nubigenas et Magni Doctor Achillis.” `IV.1 ¶32, IV.1 ¶33` — Illustrates: Atwood identifies Cheiron as Power and Motive in alliance, educating the Heroic Fire.
+- **Dactyli Idaei (fable)** — “Such were those Dactyli Idaei, literally the Fingers of Mount Ida” `IV.1 ¶34` — Illustrates: hand and fiery artifice exhibiting the metallic veins, as the hand expresses premeditated thought.
+- **Bell**, *Pantheon* `IV.1 n26` — Reference only (for the Dactyli Idaei).
+- **the wise Adept** — “the Association is ominous” `IV.1 ¶34` — Warns that Pluto's Palace exposed with Minerva's Artifice, or Vulcan with her at the Altar, is ominous.
+- **Oracula Chaldeor**, *Mundus, Anima, Natura* — “Vitifer Ignis” `IV.1 ¶35, IV.1 n27` — Illustrates: Latin verse on 'Vitifer Ignis' and a Centre.
+- **Vaughan**, *Preface to the Fame and Confession of the R.C.* — “one of the greatest subtleties of the Art” `IV.1 ¶36, IV.1 n28` — Supports: the Second part of the Gross Work is among the hardest; reports Agrippa's failure and, apparently continuing, Lully's and Ripley's. n28 cites the Lully Latin passage as quoted in his Preface.
+- **Cornelius Agrippa**, *Occult Philosophy (first book)* `IV.1 ¶36` — Contrasts: knew the First Preparation but not the Solution of the Salt, as shown by his practice at Malines; confessed he could not increase the transmutative virtue.
+- **Natalius** `IV.1 ¶36` — Would not teach Agrippa despite his entreaties.
+- **his disciple (Agrippa's)** — “This was it, adds his disciple, that made his necessities so vigorous and his purse so weak” `IV.1 ¶36` — Illustrates Agrippa's poverty resulting from his failure.
+- **Raymond Lully** — “Nos, says he, de prima illa nigedine a paucis cognita ebnigmum Spiritum extrahere affectantes” `IV.1 ¶36, IV.1 ¶39, IV.1 n28` — Example: first followed the tedious common process, later performed the Solution in nine days with the secret from God; also cited (¶39) that only God can reveal it.
+- **Arnold** `IV.1 ¶36` — Lully did not receive the mystery from him.
+- **Ripley** `IV.1 ¶36` — Contrasts: tried to putrefy his Red Salt by alternate heat and cold, a 'singular' method.
+- **Faber** — “Faber is so wise that he will not understand him” `IV.1 ¶36` — Aside on Ripley's method.
+- **Khunrath**, *Ampith. Sap. Isag.* — “In the first act of the physico-chemical works, explains Khunrath” `IV.1 ¶36, IV.1 n29` — Supports: detailed account of the first act and the Second Operation.
+- **the philosopher** — “who is he that is bale to untie it, enquires the philosopher?” `IV.1 ¶37` — Frames the question of who can untie the Gordian Knot.
+- **Latin verse (unattributed)** — “Janua clausa est, vah quae lamentabilis haec vox;” `IV.1 ¶38` — Illustrates: the door is shut and hands cannot force it.
+- **Van helmont**, *Oreatrike, cap. 6* — “Not every messenger, says Van helmont, approacheth to the mine of Sontes” `IV.1 ¶39, IV.1 n30` — Supports: requirements of the operator; the dissolving virtue is specific, not corrosive.
+- **Scripture ('the Scriptural phrase', unnamed)** — “He that hath clean hands and a pure heart” `IV.1 ¶39, IV.1 ¶40` — Supports: purity is required; Atwood says she quotes it because it is apt, 'proved on the Divine Ground', not because it is popular.
+- **the Hermetic Master**, *Tract. Aur., cap. 4* — “Wisdom was with thee, says the Hermetic Master; it was not gotten by thy care” `IV.1 ¶40, IV.1 n31` — Supports: wisdom is not gotten by human care or study.
+- **1 Corinth.**, *cap. 3, v. 7* — “neither he that watereth, but God, that giveth the increase” `IV.1 ¶40, IV.1 n32` — Supports: God gives the increase.
+- **the Apostle**, *2 Corinth. 10:4, 5* — “the weapons of this warfare are not carnal, as the Apostle teaches” `IV.1 ¶40, IV.1 n33` — Supports: the purification of the operator is a spiritual, not carnal, warfare.
+- **Basil Valentine ('the monk')**, *Triumph. Char. of Antim.* — “Our Antimony, says Basil Valentine, which is fixed, searcheth out fixed diseases” `IV.1 ¶40, IV.1 n34` — Supports: Antimony must be freed of venom (glossed by Atwood as purging self-will from the mind); separation by Fire, Vulcan as sole master.
+- **Kirchringius** `IV.1 n34` — Reference only.
+
+## Ambiguities
+
+- “that Pluto’s Palace should be exposed to any one together with Minerva’s Artifice, or if Vulcan stands together with her at the Altar there, the Association is ominous” `IV.1 ¶34`
+  - Reading: A warning against joining Motion/Fire (Vulcan) with the Fabricate Intellect (Pallas/Minerva) wrongly, or mixing the underworld (Pluto's Palace) with them.
+  - Reading: A warning against revealing the hidden ('Pluto's Palace') together with the art to just anyone.
+  - Reading: A sign of danger or failure at some stage of the work.
+  - Basis: Reading 1: IV.1 ¶34 has just made Vulcan = Motion and Pallas born by his help. Reading 2: 'exposed to any one'. Reading 3: 'ominous'. No gloss of Pluto's Palace or the Altar is given.
+- “This was it, adds his disciple, that made his necessities so vigorous and his purse so weak, that I can seldom find him at full fortune.” `IV.1 ¶36`
+  - Reading: 'his disciple' is Vaughan, the speaker, as Agrippa's disciple; the following report on Lully and Ripley continues Vaughan's voice.
+  - Reading: The disciple is another, unnamed person, and the voice of what follows is unclear.
+  - Basis: The sentence follows Vaughan's report on Agrippa ('he observes') with no new name and shifts to first person ('I'); n28 refers to Vaughan's Preface.
+- “the Solution of the Philosophic Salt (i.e., the voluntary bond)” `IV.1 ¶36`
+  - Reading: The 'voluntary bond' is the same as Khunrath's 'bond by which the soul is tied to the body', so the Solution is the loosening of that bond.
+  - Reading: The 'voluntary bond' is a bond of the will, whose solution corresponds to removing self-will, leaving 'the one voluntary faith to rectify and perfect'.
+  - Reading: The two bonds are distinct; the text does not identify them.
+  - Basis: Reading 1: both appear in IV.1 ¶36 within the account of the Solution, and the soul–body bond 'is relaxed and dissolved'. Reading 2: IV.1 ¶31 'Will is the greatest power of purgation'; IV.1 ¶40 self-will to be removed before 'the radical dissolution of Life'. Reading 3: Atwood asserts neither identity.
+- “the First Matter of the creation of the Greater World of our very selves and of our potent Stone” `IV.1 ¶36`
+  - Reading: The First Matter is that of ourselves, pointing to the human being as the subject of the work.
+  - Reading: A list: the First Matter is common to the Greater World, to ourselves, and to the Stone, without making the human being specifically the subject.
+  - Basis: The wording 'of our very selves' (IV.1 ¶36) supports reading 1; the run-on genitive phrasing permits reading 2. Not glossed.
+- “We have already named him, and openly; but this Light shining everywhere in Darkness, how hardly should it be comprehensible without Itself?” `IV.1 ¶37`
+  - Reading: The one who unties the knot is the Light itself, understood only through itself.
+  - Reading: He is a figure named earlier in this chunk: Cheiron / Power and Motive in alliance (¶33) or Vulcan / Motion (¶34).
+  - Reading: He is God, who alone reveals the secret.
+  - Reading: He is someone named earlier in the book, outside this chunk.
+  - Basis: IV.1 ¶37 juxtaposes 'named him' with 'this Light ... without Itself'; IV.1 ¶33–34 name Cheiron and Vulcan; IV.1 ¶36 Lully had the secret 'from God himself' and IV.1 ¶39 only God reveals it; 'already' may point outside the chunk.
+- “nor would it be thought astonishing, perhaps, if Antimony should cause a sudden transpiration, or that an Iron Key should help to unlock a treasury of fine Gold” `IV.1 ¶40`
+  - Reading: Figures for faithful and charitable works as aids that can unexpectedly open access to the Divine Blessing.
+  - Reading: A forward allusion to Basil Valentine's Antimony (which purges 'by expelling sweat') and the purifying separation that follows.
+  - Basis: Reading 1: it directly follows 'faithful and charitable works preparing the way before Him'. Reading 2: Antimony is discussed immediately after, with 'expelling sweat', and glossed as the operator's mind.
+- “or, if it be freed from redness, by thy study” `IV.1 ¶40`
+  - Reading: Wisdom is not gotten by study even once 'redness' is removed.
+  - Reading: The clause is obscure as printed; 'redness' is unexplained.
+  - Basis: IV.1 ¶40, no gloss.
+- “that in the Lesser World must be amended by a certain other Vulcan” `IV.1 ¶40`
+  - Reading: The fire or motion within the operator (the Lesser World) that ripens and purifies.
+  - Reading: The artificial fire of the art, as opposed to nature's fire in the Greater Orb.
+  - Basis: Reading 1: Atwood's gloss of Antimony as the operator's mind and IV.1 ¶34 Vulcan = Motion. Reading 2: the text speaks of 'cocting the crude by heat' and of colors 'which proceed from the Fire'.
+
+## Translations
+
+- `IV.1 ¶32` “Ille pius Cheiron justissimus omnes Inter Nubigenas et Magni Doctor Achillis.” → That pious Cheiron, most just of all among the Cloud-born, and teacher of great Achilles. *(ours)*
+- `IV.1 ¶35` “Coexistunt namque naturalia opera splendore, Vitifer Ignis, Cnetro incitans seipsum lumine resonante. Fontanum alium, qui Empyreum mudum ducit, Centrum quo omnes, usque quo forte equales fuerint” → For natural works coexist with splendor, 'Vitifer' Fire [vine-bearing, or perhaps life-bearing], stirring itself at the center [reading 'Cnetro' as 'Centro'] with resounding light. Another, fontal one, which leads the Empyrean world [reading 'mudum' as 'mundum'], the Center into which all things go, until perhaps they shall have become equal. (Text appears garbled; rendering tentative.) *(ours)*
+- `IV.1 ¶36` “de prima illa nigedine a paucis cognita ebnigmum Spiritum extrahere affectantes, pugnam ignis vincentum, et nos victum, licet sensibus corporis multoties palpavimus, et oculis propriis illum vidimus” → [We,] striving to draw out the enigmatic [?'ebnigmum'] Spirit from that first blackness known to few, have many times felt with the senses of the body the battle of the conquering fire, and ourselves conquered, and have seen it with our own eyes. (Latin appears garbled; rendering tentative.) *(ours)*
+- `IV.1 ¶38` “Janua clausa est, vah quae lamentabilis haec vox; Orcina sed frustra pulsabitis ostia pugnis; Vestrae namque Manus nequeunt diffingere ferru.” → The door is shut — ah, what a lamentable cry is this! But in vain will you beat the doors of Orcus with your fists, for your Hands cannot break apart the iron. *(ours)*
+
+## Threads
+
+- `IV.1 ¶31` 'Even so' compares the Hermetic Inquiry to a preceding account of how one who consults investigates means toward an end, not given in this chunk.
+- `IV.1 ¶36` 'we conclude with such instruction as may be finally needful concerning this said hyper-physical Gross Work': closing instruction on the Gross Work, which was discussed before ('said').
+- `IV.1 ¶37` 'We have already named him, and openly': the one able to untie the Gordian Knot was named earlier; the name is not given in this chunk.

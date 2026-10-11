@@ -1,0 +1,297 @@
+# APP_06
+
+*A run of Atwood's numbered aphorisms (135-163) on the inward Hermetic work as regeneration: the mind setting the spirit in motion, fermentation of the petrified life, return in consciousness to the First Matter (Proteus), the single aim of the will against idolatry, and the signs and results of regeneration (causal center, aurific seed, White Light), with Virgil, Homer and Scripture read as Hermetic allegory.*
+
+## Argument
+
+- First step: create motion in the spirit; the mind is the motive agent, Vulcan or Faber its instrument. The freed spirit then works by its own law. `APP ¶130, APP ¶131` — ATWOOD
+- Life is petrified like a stone; 'take that stone' means ferment life by another life, both dissolving and reproduced in a third. Fermentation, unlike ordinary generation, rises in its result. `APP ¶132` — ATWOOD
+- Whatever the will enters becomes realized, so it must aim singly at the highest good. Creating itself into a being is the evil: Lucifer's stirred central fire burned the ether which was Heaven. `APP ¶133` — ATWOOD
+- Seeking first the Kingdom of God is the shortest road. The perfected Corner Stone is regenerate life raised into head-consciousness; life now wastes itself downward, and the Efficient must be related to mind, not the generative life. `APP ¶134` — ATWOOD
+- Stopping in any gift before the Universal is idolatry. `APP ¶135` — ATWOOD
+- Nature strives through man to escape vacuity into entity. `APP ¶136` — ATWOOD
+- Self-knowledge is consciousness's first contact with life's ground. The First Matter is reached by going back in consciousness; Plotinus gives only its metaphysic. `APP ¶137` — ATWOOD
+- The Hermetic Process is an inquisition into life; all descriptions of the Matter concern one universal life before individuality, Proteus. `APP ¶138` — ATWOOD
+- A spirit-man within moves the Ether; when the metal bond breaks, the Elias spirit prepares something higher. Heart, brain, hand and eye serve the head's direction. `APP ¶139, APP ¶140` — ATWOOD
+- The First Matter's attributes transmute into one another, hence seeming contradictions (Virgil's Proteus). `APP ¶141` — ATWOOD
+- Opened consciousness meets good or evil beings according to the vital spirit in the blood. `APP ¶142` — ATWOOD
+- The outward Bible is to the inner as nature to God; 'the letter killeth': the law's living letter is too strong a test for man's spirit. `APP ¶143, APP ¶144` — ATWOOD
+- Past the phantasmagoric region lies the world's dissolved essence, mercury of the Philosophers, Proteus; Aristaeus's lost bees are the soul's faculties. `APP ¶144` — ATWOOD
+- Nature reduced to her monad rallies into new life before the seer. The mystery is an art revealed to regenerating men. `APP ¶145, APP ¶146` — ATWOOD
+- The anima media comes only with its law of regeneration. When the light of life is lodged in its causal center, evil is precipitated outward and the threefold life ascends. `APP ¶147, APP ¶150` — ATWOOD
+- Regeneration's freedom of volition is surrendered to the Father's Will. `APP ¶151` — ATWOOD
+- The Light found at the punctum saliens is the aurific seed, Aeneas's Golden Bough. `APP ¶152` — ATWOOD
+- In the inner war of self-will and Divine Will the rational intellect acts last and dies; it recurs beyond this world. `APP ¶153, APP ¶154` — ATWOOD
+- Alchemy advances nature beyond her created state. The Hermetic is the only true key to the old myths, Homer and Virgil. `APP ¶155, APP ¶157` — ATWOOD
+- When the Divine presence arises, the alien melts, the Holy Spirit flows in and the White Light appears: variety merged into first unity. `APP ¶157` — ATWOOD
+- Power is drawn up through the feet like breathing; offered the world's riches, the seeker gives them up. `APP ¶158` — ATWOOD
+
+## Method
+
+- **procedure** — “The first step in this Philosophy is to create motion in the spirit.” `APP ¶130` (ATWOOD)
+  - **Plain (stated):** The work begins by setting the spirit in motion.
+  - Basis: APP ¶130 states it directly.
+- **agent** — “The Vulcan or Faber is the instrument of the motive agent --- the mind.” `APP ¶130` (ATWOOD)
+  - **Plain (stated):** The mind is the moving agent; 'Vulcan' or 'Faber' names its instrument.
+  - Basis: APP ¶130 identifies the motive agent as the mind and Vulcan/Faber as its instrument.
+- **principle** — “The spirit freed works by itself, by its own law, ignis et Azoth tibi sufficient” `APP ¶131` (ATWOOD)
+  - **Plain (stated):** Once freed, the spirit operates autonomously by its own law; the wonder is to see it working. 'Ignis' and 'Azoth' are not explained in this chunk (see ambiguities).
+  - Basis: APP ¶131: 'works by itself, by its own law'; 'the wonder must be to see it working its miracle'.
+  - Also: “the wonder must be to see it working its miracle.” `APP ¶131`
+- **subject** — “they say "take that stone", meaning take life as it is and ferment it” `APP ¶132` (ATWOOD)
+  - **Plain (stated):** The 'stone' is one's own life in its present petrified state; that is what is worked on.
+  - Basis: APP ¶132 glosses 'take that stone' as 'take life as it is', after saying life in each is as a stone.
+  - Also: “We are all compacted in a certain petrification, i.e., life in each is as a stone in this first being” `APP ¶132`
+- **procedure** — “ferment it, that is by another life, which will dissolve and kill it as well as itself; both will be reproduced in a third.” `APP ¶132` (ATWOOD)
+  - **Plain (stated):** Fermentation means bringing one's life together with another life; both are dissolved ('killed') and a third, new life arises from them. What the 'other life' is, this chunk does not say.
+  - Basis: APP ¶132 glosses 'ferment' directly ('that is by another life').
+- **principle** — “by fermentation of its own light it keeps on rising, until it reaches the perfection of its law. It is an ascending, not a descending, process.” `APP ¶132` (ATWOOD)
+  - **Plain (stated):** Unlike ordinary generation (offspring level with parent), spiritual generation yields something higher each time and keeps rising until complete.
+  - Basis: APP ¶132 contrasts fermentation with ordinary generation: 'the one is exalted in its result, the other keeps level'.
+  - Also: “Every manifestation contains the promise of another superior to it, the germ or seed, as it were” `APP ¶148`
+- **impediment** — “the will should aim singly at the highest good lest it create for itself idols” `APP ¶133` (ATWOOD)
+  - **Plain (stated):** The work presents many states and gifts; whatever the will fixes on becomes real, so stopping at any intermediate gift or finite aim is idolatry. The will must stay fixed on the highest good.
+  - Basis: APP ¶133 ('whatever the will enters into or draws to, becomes realized'); APP ¶135 ('you may stop in any of them; if you do, you commit idolatry').
+  - Also: “you may stop in any of them; if you do, you commit idolatry.” `APP ¶135`
+  - Also: “steal the first fruits of the spirit’s offering” `APP ¶135`
+- **impediment** — “the stirring up of the central fire in his will would inflame the vehicle of his life, and burn up the ether which was Heaven.” `APP ¶133` (ATWOOD)
+  - **Plain (stated):** The cardinal error is the will making itself into a separate being; Lucifer, stirring the central fire in his will, inflamed his own life's vehicle and burned up the ether which was Heaven.
+  - Basis: APP ¶133: 'The creating itself into a being is the evil. This is what Lucifer did'.
+  - Also: “The creating itself into a being is the evil.” `APP ¶133`
+- **operator** — “"Seek ye first the Kingdom of God and His righteousness and all these things shall be added unto you"” `APP ¶134` (ATWOOD)
+  - **Plain (stated):** The seeker must aim first at the Universal (the Kingdom of God), not at a finite result; this is the shortest and truest road. Finite ends sought first must be given up at every stage.
+  - Basis: APP ¶134 applies the saying to the Hermetic Art; APP ¶135 equates the Kingdom of God with 'the Universal'.
+  - Also: “If you seek a finite end first, i.e., before you seek the Universal --- the Kingdom of God” `APP ¶135`
+- **result** — “Everything is in the perfected Corner Stone, when the whole force of life regenerate is brought up into the head-consciousness” `APP ¶134` (ATWOOD)
+  - **Plain (stated):** The perfected Stone is the state in which the whole regenerated life-force has been raised into head-consciousness.
+  - Basis: APP ¶134 defines the perfected Corner Stone by this condition. For 'what they call in the north' see ambiguities.
+  - Also: “just as the Stone is the analogue of the Chief Corner Stone.” `APP ¶139`
+- **procedure** — “The Efficient must be regained. That is, it is to be related to mind and not to the generative life.” `APP ¶134` (ATWOOD)
+  - **Plain (stated):** Life-force now runs down into the generative life and is wasted; the work reverses this, relating the active power to mind.
+  - Basis: APP ¶134: 'The life is dislocated now; what ought to be up is down; it wastes itself', followed by the gloss 'That is...'.
+  - Also: “The life is dislocated now; what ought to be up is down; it wastes itself.” `APP ¶134`
+- **procedure** — “Self-knowledge is the first contact of consciousness in the ground of life.” `APP ¶137` (ATWOOD)
+  - **Plain (stated):** Self-knowledge is where consciousness first touches the root of life.
+  - Basis: APP ¶137 states it directly.
+- **subject** — “The First Matter is not to be found on earth, as the philosophers say; you must go back into the original of life from which it springs; go back in consciousness.” `APP ¶137` (ATWOOD)
+  - **Plain (stated):** The First Matter is reached not externally but by turning consciousness back toward its own origin; it lies just before the first act of consciousness.
+  - Basis: APP ¶137: 'go back in consciousness'; 'It is immediately antecedent to the first consciousness.'
+  - Also: “It is immediately antecedent to the first consciousness.” `APP ¶137`
+- **principle** — “a recessure of reason behind itself into the indefinite intermediate between reason and the Absolute” `APP ¶137` (QUOTED: Plotinus (praised, but qualified by Atwood as merely metaphysical))
+  - **Plain (stated):** Plotinus's account of the generation of the First Matter: reason withdrawing behind itself into what lies between reason and the Absolute. Atwood calls this 'merely the metaphysic of it': intelligible to the highest reason, never realized so.
+  - Basis: APP ¶137 attributes the description to Plotinus and qualifies it: 'This is merely the metaphysic of it. It is never realized so'.
+  - Also: “this First Matter thus presents itself as the extreme of bound and definiteness reverting to non- being.” `APP ¶137`
+- **procedure** — “The Hermetic Process is a regular inquisition into life. There is motion present with interrogation.” `APP ¶138` (ATWOOD)
+  - **Plain (stated):** The process is a systematic questioning of life itself, questioning joined with motion; the Matter is described as it appears to the eye of mind regarding its own first sense.
+  - Basis: APP ¶138 states it; 'the eye of mind regardant of its own first sense' in the same paragraph.
+  - Also: “the eye of mind regardant of its own first sense” `APP ¶138`
+- **subject** — “the one universal entity of life, the omnia in omnibus before manifestation and individuality, the thing of which you may assert everything; Proteus.” `APP ¶138` (ATWOOD)
+  - **Plain (stated):** All descriptions of the Matter refer to undifferentiated universal life before it becomes individual; 'Proteus' names it. Its dissolved essence is the mercury of the Philosophers.
+  - Basis: APP ¶138 relates the Matter's descriptions to this entity and names it Proteus; APP ¶144 equates the dissolved essence, mercury of the Philosophers and Proteus.
+  - Also: “its dissolved essence which is the mercury of the Philosophers, Proteus.” `APP ¶144`
+- **agent** — “There is a spirit-man within the natural man and his work is to move the Ether.” `APP ¶139` (ATWOOD)
+  - **Plain (stated):** An inner spiritual person within the natural man is what moves the Ether.
+  - Basis: APP ¶139 states it directly; 'Ether' is not further defined there.
+- **stage** — “When the metal bond is broken, the Elias spirit is born and his work is to prepare for something higher.” `APP ¶139` (ATWOOD)
+  - **Plain (interpreted):** A binding (the 'metal bond') is broken and a preparatory spirit arises that readies a higher stage. This chunk does not say what the metal bond is.
+  - Basis: APP ¶139 gives only the sequence and calls it 'the analogue of the Work revealed in Holy Scripture'; reading kept to what is said (breaking, birth, preparation).
+- **operator** — “as the heart and brain are its vessels, so are the hand and eye its instruments and vessels also, the eye particularly.” `APP ¶140` (ATWOOD)
+  - **Plain (stated):** The whole bodily organism takes part: heart and brain as vessels, hand and eye (above all the eye) as instruments, all serving the direction given by the head.
+  - Basis: APP ¶140: the Art 'is mechanical as well as alchemical and uses instruments as well as vessels'.
+  - Also: “Every member is in short working for the end proposed to fulfill the law of the head, the direction, I mean, given by the head” `APP ¶140`
+- **sign** — “the things said of it are transmutable adjective forms, which may become one another, and what they are at one moment they change from at another.” `APP ¶141` (ATWOOD)
+  - **Plain (stated):** The First Matter shows changing, mutually convertible appearances, which is why descriptions of it seem contradictory. Virgil's advice on arresting and binding Proteus alludes to this; this chunk does not explain the binding.
+  - Basis: APP ¶141 gives this as the reason for 'so many seeming contradictions'.
+  - Also: “the mode in which he should arrest and bind Proteus” `APP ¶141`
+- **sign** — “beings of good or evil character according to the state in which the vital spirit is within the blood.” `APP ¶142` (ATWOOD)
+  - **Plain (stated):** When consciousness opens to the spiritual spheres, whether it meets good or evil beings depends on the state of the vital spirit in the blood; the variety of the inner world astonishes the newcomer.
+  - Basis: APP ¶142 states it directly.
+- **stage** — “after they have passed the phantasmagoric region and so far unriddled the sphinx of this world as to enter into its solution” `APP ¶144` (ATWOOD)
+  - **Plain (stated):** A 'phantasmagoric region' (not explained further) is passed first; then one enters the world's 'solution', i.e. its dissolved essence (mercury of the Philosophers, Proteus). From there the inner vision is the same for all.
+  - Basis: APP ¶144 glosses 'its solution, i.e., in its dissolved essence which is the mercury of the Philosophers, Proteus'.
+- **impediment** — “after he had lost all his bees, all the faculties of his soul, with the generative life.” `APP ¶144` (ATWOOD)
+  - **Plain (stated):** Aristaeus's lost bees are the soul's faculties; having lost them, he goes to Proteus (the dissolved essence) to learn how to proceed. How the generative life is involved is unclear (see ambiguities).
+  - Basis: APP ¶144 glosses the bees as 'all the faculties of his soul'.
+- **stage** — “Nature reduced to the extremity of her last unit or monad turns upon her axis and rallies up into a new life” `APP ¶145` (ATWOOD)
+  - **Plain (stated):** When nature is reduced to its ultimate unit, it reverses and rises into new life, displaying all the powers of its center; all colors, forms and possibilities then appear to the seer.
+  - Basis: APP ¶145 states it directly.
+  - Also: “All colors, all forms, all possibilities of being, are then brought before the seer.” `APP ¶145`
+- **principle** — “The mystery is an art revealed to regenerating men, to advance them on to perfection” `APP ¶146` (ATWOOD)
+  - **Plain (stated):** The Art exists because there is art in the Divine world; it is revealed to those undergoing regeneration to carry them to perfection. The text leaves open by whom it is revealed.
+  - Basis: APP ¶146: 'If there were no art in the Divine world there would be none in this'; 'it is revealed, but by whom, whence, where?'
+  - Also: “If there were no art in the Divine world there would be none in this.” `APP ¶146`
+- **principle** — “You can ’t get the medial center, the anima media, either of man or nature without its law, and that law is an impulse towards rectification and regeneration.” `APP ¶147` (ATWOOD)
+  - **Plain (stated):** The middle soul of man or nature is reached only together with its law, a drive toward correction and regeneration; spirit grows from spirit-seed as a natural thing from its seed.
+  - Basis: APP ¶147 states the law; seed analogy and St Paul's 'sown in corruption' in the same paragraph.
+  - Also: “As the seed of a natural object to its nature, so is the seed of spirit to spirit.” `APP ¶147`
+- **result** — “when the individual light of life is lodged in its causal center, the whole of the evil nature adhering is precipitated to the extremities” `APP ¶150` (ATWOOD)
+  - **Plain (stated):** When the individual's life-light is set in its causal center, adhering evil is thrown out to the periphery, the downward pull is overcome, and the threefold life is free to ascend. Atwood says this 'requires working out'.
+  - Basis: APP ¶150 continues: 'destroying the downward gravitating attraction or rather overcoming it, and leaving all the threefold life freedom of ascent'.
+  - Also: “That which relates us to the lower principle is cast out with the consciousness of the self-evolved power” `APP ¶150`
+- **stage** — “In the Regeneration there is a wonderful birth of freedom to act every and realize every volition” `APP ¶151` (ATWOOD)
+  - **Plain (stated):** Regeneration brings power to realize every act of will; in the higher Christ-life this self-will is surrendered to the Father's Will.
+  - Basis: APP ¶151 states both the freedom and its surrender.
+- **result** — “The Light which springs up in that alliance is the Divine aurific seed and true form of gold. That was the Golden Bough which Aeneas carried” `APP ¶152` (ATWOOD)
+  - **Plain (stated):** When reason traces causes to the higher Cause (punctum saliens) and consciously finds its roots there, a Light arises; this Light is the gold-making seed, the 'true form of gold', figured as Aeneas's Golden Bough.
+  - Basis: APP ¶152 identifies the Light with the aurific seed, true form of gold and Golden Bough.
+- **stage** — “This war is the war between two principles of the self-will and the Divine Will.” `APP ¶154` (ATWOOD)
+  - **Plain (stated):** The inner combat of ¶153 (powers sent out successively by the universal and the self center, the rational intellect acting last and going forth to die) is the conflict of self-will against Divine Will; it recurs and is not concluded in this world. Which side's rational light is captured is unclear (see ambiguities).
+  - Basis: APP ¶154 names the war; APP ¶153 describes it.
+  - Also: “the process, however, goes on over and over again; it is not concluded in this world.” `APP ¶153`
+  - Also: “the rational light keeping back to the last, and never aroused into action until deprived of its understanding essence” `APP ¶153`
+- **principle** — “Alchemy goes beyond nature; it takes her up and advances her beyond her created it and in this world.” `APP ¶155` (ATWOOD)
+  - **Plain (stated):** The Art takes nature as given and carries it beyond its created state, making 'a twofold work' out of one. The sentence end is garbled in the text.
+  - Basis: APP ¶155 and the couplet in APP ¶156.
+  - Also: “Art, then, what nature left in hand doth take, And out of one a twofold work doth make.” `APP ¶156`
+- **principle** — “the Georgic’s are an allegory all through, an analogical instruction in celestial and spiritual agriculture” `APP ¶157` (ATWOOD)
+  - **Plain (stated):** Atwood reads the old myths, Homer and Virgil as veiled accounts of the Hermetic work: the Georgics as instruction in 'spiritual agriculture', the Aeneid (especially Book 6) as the same truths in another form.
+  - Basis: APP ¶157: 'the Hermetic is the only true key to the old myths'.
+  - Also: “I am perfectly sure that the Hermetic is the only true key to the old myths” `APP ¶157`
+- **sign** — “there is revealed that wonderful White Light which Van Helmont speaks of, though in a very superficial way, as the Quellem” `APP ¶157` (ATWOOD)
+  - **Plain (stated):** When the Divine presence arises: the alien is dispelled, imprisoned life is freed, the circumferential etherical sphere is shaken, the Holy Spirit flows in abundantly, and a White Light (the primeval Light) is revealed. The whole is a merging of life's variety into its first unity.
+  - Basis: APP ¶157 gives the sequence and ends: 'This action is a merging of the whole of the variety of Life into its first unity.'
+  - Also: “all that is alien and contrary is dispelled "as wax before the fire"” `APP ¶157`
+  - Also: “This action is a merging of the whole of the variety of Life into its first unity.” `APP ¶157`
+- **procedure** — “there is a drawing of power and life up through the feet which may be called breathing, pumping up of the rich essences of the spirit” `APP ¶158` (ATWOOD)
+  - **Plain (stated):** In regeneration, power and life are drawn upward through the feet, like breathing or pumping; this light-substance may become operative and visible through the body if permitted, or be returned to its fountain for a higher purpose.
+  - Basis: APP ¶158: 'becomes through our organization into operation and visibility if permitted, or unless returned for a higher purpose to its fountain'. What 'fold' means is unclear (see ambiguities).
+- **operator** — “man at that moment craving the riches of the whole world set before him, gives them up.” `APP ¶158` (ATWOOD)
+  - **Plain (stated):** At that point the seeker, offered all riches, renounces them, as people in ordinary life give up wealth for science, poetry or duty.
+  - Basis: APP ¶158, with the saying and the worldly comparison.
+  - Also: “"The ransom of a man’s life are his riches"” `APP ¶158`
+
+## Terms
+
+- **Vulcan** — The instrument of the motive agent, the mind. (ATWOOD)
+  - = Faber: “The Vulcan or Faber is the instrument of the motive agent --- the mind.” `APP ¶130`
+- **Azoth** — Named with fire as sufficient for the freed spirit; not explained in this chunk. (ATWOOD)
+  - “ignis et Azoth tibi sufficient” `APP ¶131`
+- **stone** (also: Stone) — Life in each person in its petrified first state, which is to be taken and fermented; the Stone is the analogue of the Chief Corner Stone. (ATWOOD)
+  - = life as it is: “"take that stone", meaning take life as it is and ferment it” `APP ¶132`
+  - “life in each is as a stone in this first being” `APP ¶132`
+  - “just as the Stone is the analogue of the Chief Corner Stone.” `APP ¶139`
+- **fermentation** (also: ferment, fermentative law) — Working one life by another so both dissolve and are reproduced in a third; unlike ordinary generation, exalted in its result; the law of spiritual generation, an ascending process. (ATWOOD)
+  - “spiritual generation is according to the fermentative law” `APP ¶132`
+- **Corner Stone** (also: perfected Corner Stone, Chief Corner Stone) — The perfected state in which the whole regenerate life-force is brought up into head-consciousness; the (Hermetic) Stone is the analogue of the Chief Corner Stone. (ATWOOD)
+  - “Everything is in the perfected Corner Stone” `APP ¶134`
+- **head-consciousness** — Where the whole force of regenerate life is brought up in the perfected Corner Stone. (ATWOOD)
+  - “brought up into the head-consciousness, what they call in the north” `APP ¶134`
+- **Efficient** — The active life-power, now dislocated downward; to be regained and related to mind, not to the generative life. (ATWOOD)
+  - “The Efficient must be regained. That is, it is to be related to mind and not to the generative life.” `APP ¶134`
+- **generative life** — The life into which the life-force is now wasted, instead of being related to mind; Aristaeus's bees are lost 'with' it. (ATWOOD)
+  - “it is to be related to mind and not to the generative life” `APP ¶134`
+  - “all the faculties of his soul, with the generative life” `APP ¶144`
+- **central fire** — A fire in the will whose stirring up by Lucifer inflamed the vehicle of his life and burned up the ether. (ATWOOD)
+  - “the stirring up of the central fire in his will” `APP ¶133`
+- **ether** (also: Ether, etherical) — What the spirit-man moves; in Lucifer's case the ether 'which was Heaven'; nature rallied from her monad displays her center's powers 'as light does in ether'; the circumferential etherical sphere is shaken when the Divine presence arises. (ATWOOD)
+  - = Heaven: “burn up the ether which was Heaven.” `APP ¶133`
+  - “There is a spirit-man within the natural man and his work is to move the Ether.” `APP ¶139`
+- **idolatry** (also: idols) — Stopping in any gift or finite end the work offers instead of seeking the Universal; the will creating idols for itself. (ATWOOD)
+  - “you may stop in any of them; if you do, you commit idolatry.” `APP ¶135`
+- **Universal** — What must be sought first, before any finite end. (ATWOOD)
+  - = Kingdom of God: “before you seek the Universal --- the Kingdom of God” `APP ¶135`
+- **self-knowledge** — The first contact of consciousness in the ground of life. (ATWOOD)
+  - “Self-knowledge is the first contact of consciousness in the ground of life.” `APP ¶137`
+- **First Matter** (also: First matte) — Not found on earth; reached by going back in consciousness to the original of life; immediately antecedent to the first consciousness; presents itself (to the highest reason) as the extreme of bound and definiteness reverting to non-being; its attributes are transmutable forms, hence seeming contradictions. (ATWOOD)
+  - “It is immediately antecedent to the first consciousness.” `APP ¶137`
+  - “this First Matter thus presents itself as the extreme of bound and definiteness reverting to non- being.” `APP ¶137`
+- **Hermetic Process** — A regular inquisition into life; motion present with interrogation. (ATWOOD)
+  - “The Hermetic Process is a regular inquisition into life.” `APP ¶138`
+- **Proteus** — The one universal entity of life before manifestation and individuality, to which all descriptions of the Matter relate; mechanical as well as alchemical, using instruments and vessels; the world's dissolved essence, the mercury of the Philosophers. (ATWOOD)
+  - = one universal entity of life: “the one universal entity of life, the omnia in omnibus before manifestation and individuality, the thing of which you may assert everything; Proteus.” `APP ¶138`
+  - = omnia in omnibus: “the one universal entity of life, the omnia in omnibus before manifestation and individuality, the thing of which you may assert everything; Proteus.” `APP ¶138`
+  - = mercury of the Philosophers: “its dissolved essence which is the mercury of the Philosophers, Proteus.” `APP ¶144`
+- **spirit-man** — The spiritual man within the natural man, whose work is to move the Ether. (ATWOOD)
+  - “There is a spirit-man within the natural man” `APP ¶139`
+- **metal bond** — Something whose breaking precedes the birth of the Elias spirit; not explained in this chunk. (ATWOOD)
+  - “When the metal bond is broken” `APP ¶139`
+- **Elias spirit** — Born when the metal bond is broken; its work is to prepare for something higher. (ATWOOD)
+  - “the Elias spirit is born and his work is to prepare for something higher.” `APP ¶139`
+- **Divine Art** — Evolves various states of life offering allurements to the will; works in and with the Universal Spirit; uses instruments as well as vessels. (ATWOOD)
+  - “As the Divine Art works in and with the Universal Spirit” `APP ¶140`
+- **phantasmagoric region** — A region passed before entering the world's solution, after which the inner vision is the same for all; not further explained. (ATWOOD)
+  - “after they have passed the phantasmagoric region” `APP ¶144`
+- **solution** — The world's dissolved essence, entered after passing the phantasmagoric region. (ATWOOD)
+  - = dissolved essence: “enter into its solution, i.e., in its dissolved essence” `APP ¶144`
+- **anima media** (also: medial center) — The middle soul or center of man or nature, obtainable only with its law, an impulse towards rectification and regeneration. (ATWOOD)
+  - = medial center: “the medial center, the anima media” `APP ¶147`
+- **causal center** — Where the individual light of life is to be lodged, precipitating adhering evil to the extremities and freeing the threefold life to ascend. (ATWOOD)
+  - “when the individual light of life is lodged in its causal center” `APP ¶150`
+- **Regeneration** (also: regeneration, Hermetic regeneration, regenerating) — The process the Art serves, advancing regenerating men to perfection; brings freedom to realize every volition, later surrendered to the Father's Will; involves drawing power up through the feet. (ATWOOD)
+  - “The mystery is an art revealed to regenerating men, to advance them on to perfection” `APP ¶146`
+  - “In the process of the Hermetic regeneration there is a drawing of power and life up through the feet” `APP ¶158`
+- **punctum saliens** — The higher Cause of life, reached by Reason through secondary causes, where it finds its roots consciously. (ATWOOD)
+  - = higher Cause: “the higher Cause, the punctum saliens of life” `APP ¶152`
+- **aurific seed** — The Light springing from reason's conscious alliance with the higher Cause. (ATWOOD)
+  - = true form of gold: “is the Divine aurific seed and true form of gold.” `APP ¶152`
+  - = Golden Bough: “That was the Golden Bough which Aeneas carried” `APP ¶152`
+- **rational light** (also: rational intellect) — The last power to act in the inner combat; deprived of its understanding essence, it goes forth to avenge it and die. (ATWOOD)
+  - “the rational intellect goes forth to avenge it and die” `APP ¶153`
+- **self-will** — The principle we are born into, at war with the Divine Will. (ATWOOD)
+  - “This war is the war between two principles of the self-will and the Divine Will.” `APP ¶154`
+- **Alchemy** — Goes beyond nature, taking her up and advancing her beyond her created state. (ATWOOD)
+  - “Alchemy goes beyond nature” `APP ¶155`
+- **White Light** — Revealed beneath the influx of the Holy Spirit when the Divine presence arises. (ATWOOD)
+  - = Quellem: “that wonderful White Light which Van Helmont speaks of, though in a very superficial way, as the Quellem” `APP ¶157`
+  - = primeval Light: “as belonging to the Ancient of Days, i.e., the primeval Light.” `APP ¶157`
+
+## Sources cited
+
+- **our Lord** — “Seek ye first the Kingdom of God and His righteousness and all these things shall be added unto you” `APP ¶134` — Supports: seeking the Universal first is the shortest and truest road in the Hermetic Art.
+- **1st and 2nd Commandments** `APP ¶135` — Supports: stopping in finite gifts is idolatry.
+- **the philosophers** — “The First Matter is not to be found on earth, as the philosophers say” `APP ¶137` — Supports: the First Matter is sought inwardly, not on earth.
+- **Plotinus** — “a recessure of reason behind itself into the indefinite intermediate between reason and the Absolute” `APP ¶137` — Praised but qualified: gives only the metaphysic of the First Matter's generation, never realized so.
+- **Holy Scripture** `APP ¶139` — The Work revealed there is the analogue of the Hermetic Work; the Stone is the analogue of the Chief Corner Stone.
+- **Virgil**, *Georgic’s; Aeneid (6 th Book)* `APP ¶141, APP ¶144, APP ¶152, APP ¶157` — Illustrates: advice to Aristaeus on binding Proteus alludes to the First Matter's changing forms; Aristaeus's lost bees are the soul's faculties; Aeneas's Golden Bough is the aurific seed; Virgil wrote on initiated ground, the Georgics an allegory of celestial and spiritual agriculture, the Aeneid (6th Book markedly) the same truths.
+- **Vaughan**, *Aula Lucis, pp. 15-16* `APP ¶141` — Reference only (cf. for Virgil's Aristaeus and Proteus).
+- **St Paul** — “the letter killeth” `APP ¶143` — Interpreted by Atwood: the living letter of the law is too powerful a test for man's spirit.
+- **St Paul** — “It is sown in corruption, it is raised in incorruption” `APP ¶147` — Supports: seed of spirit grows to spirit; the law of regeneration of the anima media.
+- **unattributed Latin verse** — “Felix qui potuit rerum cognoscere causas” `APP ¶148, APP ¶149, APP ¶150` — Called 'a grand declaration of a deep Hermetic truth': the light of life lodged in its causal center frees the threefold life.
+- **Behmen** — “the bitter anguish of the driving wheel of existence” `APP ¶154` — Illustrates the bitterness of self-life from which nature shields us.
+- **unattributed couplet** — “Art, then, what nature left in hand doth take, And out of one a twofold work doth make.” `APP ¶156` — Supports: Alchemy advances nature beyond her created state.
+- **Homer**, *Iliad and Odyssey* `APP ¶157` — The Hermetic is the only true key to them.
+- **Proclus** `APP ¶157` — Supports: develops the ontological basis of the Iliad.
+- **David**, *68 th Psalm* — “as wax before the fire” `APP ¶157` — Illustrates the dispelling of the alien when the Divine presence arises.
+- **Van Helmont** `APP ¶157` — Speaks of the White Light as the Quellem, 'in a very superficial way' (qualified).
+- **the Kabalists** `APP ¶157` — Celebrate the White Light as belonging to the Ancient of Days, the primeval Light.
+- **unattributed saying** — “The ransom of a man’s life are his riches” `APP ¶158` — Supports: the seeker gives up the riches set before him.
+
+## Ambiguities
+
+- “ignis et Azoth tibi sufficient” `APP ¶131`
+  - Reading: Fire and Azoth are the only means the freed spirit (or operator) needs
+  - Reading: Fire and Azoth are names for the freed spirit itself
+  - Basis: APP ¶131 sets the phrase directly after 'works by itself, by its own law' without gloss.
+- “brought up into the head-consciousness, what they call in the north” `APP ¶134`
+  - Reading: 'the north' is a name some unnamed 'they' use for the head-consciousness
+  - Reading: a reference to what a northern people or tradition calls it
+  - Basis: APP ¶134 gives no antecedent for 'they' and no further gloss.
+- “The Law of Eternal Justice cannot be met by the Mediatorial Sacrifice from which the new spirit arise.” `APP ¶143`
+  - Reading: As printed: the Mediatorial Sacrifice cannot meet Eternal Justice
+  - Reading: Possibly a slip for 'cannot be met but by': only the Mediatorial Sacrifice meets it
+  - Basis: Follows the claim that the law is too powerful a test for man's spirit; APP ¶144 speaks of 'the Christian Love which reconciles'; the text as printed says 'cannot be met by'.
+- “all his bees, all the faculties of his soul, with the generative life” `APP ¶144`
+  - Reading: The faculties were lost through or along with the generative life (cf. APP ¶134, life wasted in the generative life)
+  - Reading: The faculties and the generative life were both lost
+  - Basis: Syntax of APP ¶144 is unclear; APP ¶134 links the waste of life to the generative life.
+- “not being able to subsist without this, the rational intellect goes forth to avenge it and die” `APP ¶153`
+  - Reading: The self-center's rational light loses its understanding essence to the universal side and dies avenging it (self-surrender as the predestined outcome)
+  - Reading: The reverse or a symmetric assignment of sides
+  - Basis: APP ¶153 does not name which side's rational light is captured; APP ¶154 names the sides as self-will and Divine Will.
+- “the essential fold which is of the substance of light” `APP ¶158`
+  - Reading: 'fold' as printed: an enfolded essence of light
+  - Reading: a misprint, e.g. for 'gold'
+  - Basis: 'fold' is unexplained in APP ¶158; APP ¶152 calls the Light the 'true form of gold'.
+
+## Translations
+
+- `APP ¶131` “ignis et Azoth tibi sufficient” → fire and Azoth will suffice for you *(ours)*
+- `APP ¶138` “omnia in omnibus” → all in all *(ours)*
+- `APP ¶147` “anima media” → middle soul (glossed in the text as 'the medial center') *(ours)*
+- `APP ¶148` “Felix qui potuit rerum cognoscere causas” → Happy he who could know the causes of things *(ours)*
+- `APP ¶149` “Atque metus omnes et inexorabile fatum Subjecit pedibus, etc.” → and has put all fears and inexorable fate beneath his feet, etc. *(ours)*
+- `APP ¶152` “punctum saliens” → leaping (springing) point *(ours)*
+
+## Threads
+
+- `APP ¶141` Points to Vaughan's Aula Lucis, pp. 15-16, for Virgil's advice to Aristaeus on binding Proteus.

@@ -1,0 +1,241 @@
+# I.1_06
+
+*Continuing the public history of alchemy, Atwood surveys Flamel's writings, the Isaacs, Basil Valentine, Norton, Ashmole's collection, Ripley, Ficinus, Picus, Agrippa and Paracelsus, judging which texts are candid or misleading, stressing the adepts' secrecy and the need for experience, and closing with the mercenary pretenders and Ripley's catalogue of erroneous experiments.*
+
+## Argument
+
+- Chronicles to 1740 report evidence of Flamel's charities and 'the symbols of the art' remaining at the cemetery of the Holy Innocents, St James, the Marivaux door and St Genevieve; the relation comes from his Hieroglyphics and Testament. `I.1 ¶58, I.1 n62` — UNCLEAR
+- Other Flamel writings: La Sommaire Philosophique (French verse, in the Theatrum Chemicum), Le Desir desiree, Le Grand Eclaircissement. `I.1 ¶58` — ATWOOD
+- The Isaacs, Dutch adepts, reportedly succeeded; Boorhaave lauds them and seems versed in occult science. `I.1 ¶58, I.1 n63` — ATWOOD
+- Basil Valentine, 'the star' of the 15th century, of mysterious identity, is credited with a new, easier method of working the Red Elixir, hitherto laborious and rare. `I.1 ¶59` — ATWOOD
+- Norton: many patient wise men, truly taught, won the White Stone by labor; scarcely one in fifteen kingdoms has the Red Stone, which is vainly sought before the white medicine is fully wrought; Albertus and Bacon did not understand its multiplication. `I.1 ¶60, I.1 n64` — QUOTED: Norton
+- Valentine's Hamburg edition is best; English translations are poor except that from Kirchringius' Latin. `I.1 ¶61, I.1 n65` — ATWOOD
+- Ashmole's preface and notes expose principles of magic and allude to the manual artifice with little disguise. `I.1 ¶62` — ATWOOD
+- Ashmole knows enough to hold his tongue, not to speak; the 'real' and 'miraculous fruits' of his inquiry command silence, and, not wholly experienced, he will not speak without attestations of practice, like those Ripley mentions who prate of Robin Hood's unshot bow. `I.1 ¶62, I.1 ¶63, I.1 n66` — QUOTED: Ashmole
+- Norton's Ordinal presents the process candidly, except the Subject Matter and preliminaries, always concealed. `I.1 ¶64` — ATWOOD
+- Ripley's Twelve Gates are disorderly, edify few 'without the Lodge', and were reportedly scrambled by the cabalistic method; Ripley Revived leads on the initiated but disgusts beginners. `I.1 ¶64, I.1 n67` — ATWOOD
+- Ficinus translated Hermes' works into Latin; Picus connected Alchemy with profound metaphysics. `I.1 ¶64, I.1 n68, I.1 n69` — ATWOOD
+- Agrippa received the principles from Trithemius and proved them himself; his Occult Philosophy predates full experience and the stone. The later discovery produced the Vanity of the Sciences, a consummation, not a recantation. `I.1 ¶64` — ATWOOD
+- Proving the Mystery gave him a faith above ordinary science; from the top of Celsus' ladder the particular sciences appear inferior. `I.1 ¶64` — ATWOOD
+- The Vanity's subject had great capabilities, but Agrippa, fettered by oaths and somewhat conscience-stricken, did not treat it in his usual masterly style; the monks promulgated it as a recantation endorsing their doctrine. `I.1 ¶64, I.1 n70` — QUOTED: Cornelius Agrippa
+- Paracelsus, scoffed at when offering the secret openly, left the world unenlightened with sophistical writings. Citing Ashmole, Atwood adds that incredulity was given as a punishment, and men suffer in ignorance through indefinite, selfish desires. `I.1 ¶64` — ATWOOD
+- Paracelsus, scoffed at when offering the secret openly, left the world unenlightened with sophistical writings; men suffer in ignorance through indefinite, selfish desires. `I.1 ¶64` — ATWOOD
+- Paracelsus' early death is variously explained, including intemperance fatal to one taking a potent spiritual medicine. `I.1 ¶64, I.1 n71` — UNCLEAR
+- Worthy disciples (Van Helmont, Crollius, Fludd, Helvetius, Faber) were outnumbered by mountebanks whose receipts for lucre spread error and crime. `I.1 ¶64` — ATWOOD
+- Erasmus and Chaucer's Chanon's Yeoman illustrate the age's mania for pretenders who could only talk mysteriously. `I.1 ¶64` — ATWOOD
+- Ripley worked vainly on metals, salts, vitriol, urine, blood and corrosives, deceived by false books, making untrue tinctures: a bad beginning, fraud in conclusion. `I.1 ¶64, I.1 ¶65, I.1 n72` — QUOTED: Ripley
+
+## Method
+
+- **stage** — “Wheom to seeke it availeth right noughte, Till the white medicine be fully wrought;” `I.1 ¶60` (QUOTED: Norton)
+  - **Plain (stated):** The white work must be completed before the red can usefully be sought: the White Stone is an earlier stage, the Red Stone a later one.
+  - Also: “Found our White Stone with exercise;” `I.1 ¶60`
+- **result** — “discovered a new method of working the Red Elixir, and facilitated the process materially, which had been hitherto laborious and a rare effect” `I.1 ¶59` (QUOTED: his brethren ("as they say"), reported by Atwood)
+  - **Plain (stated):** The red completion was the hard and rarely achieved part of the work; Basil Valentine is credited (by the adepts) with an easier method for it. The chunk does not describe the method.
+  - Also: “But few (saith he) or scarcely one; In fifteen kingdoms hath our Red Stone.” `I.1 ¶60`
+- **operator** — “After that they were trewly taught, With great labor, that stone they caught,” `I.1 ¶60` (QUOTED: Norton)
+  - **Plain (stated):** Even the White Stone was gained only by patient, wise men after true instruction and great labor.
+  - Also: “How that manie men patient and wise,” `I.1 ¶60`
+- **stage** — “Him to increase in multiplication” `I.1 ¶60` (QUOTED: Norton)
+  - **Plain (interpreted):** A further operation by which the Red Stone is increased; Norton says even Albertus Magnus and Friar Bacon lacked understanding of it. This chunk does not explain it.
+  - Basis: I.1 ¶60: the line follows 'Had not of our Res Stone consideration', i.e. the multiplication is of the Red Stone; no further gloss in the chunk.
+- **procedure** — “alludes to the manual artifice without much disguise” `I.1 ¶62` (ATWOOD)
+  - **Plain (interpreted):** There is a practical, hands-on technique to the work, to which Ashmole's preface and notes allude fairly openly; this chunk does not say what it is.
+  - Basis: I.1 ¶62: Atwood cites this as proof Ashmole was not ignorant of the subject; 'manual' marks it as practical operation; no further description given.
+  - Also: “he exposes certain principles of magic” `I.1 ¶62`
+- **operator** — “without the confident attestations of practice” `I.1 ¶62` (QUOTED: Ashmole (cited by Atwood as evidence of his knowledge))
+  - **Plain (stated):** One who is not fully experienced should not teach the art: understanding must be confirmed by actual practice before it is spoken.
+  - Also: “I know enough to hold my tongue, but not enough to speak” `I.1 ¶62`
+  - Also: “Of Robin Hood, and of his Bow, Whych never shot therin I trowe” `I.1 ¶63`
+- **subject** — “with the exception of the Subject Matter and certain preliminaries, which are constantly concealed” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Even the most candid text (Norton) hides what the work is done on and the preliminary steps; the rest of the process may be set out openly.
+- **impediment** — “spoliation and displacement from the order in which they were originally written, according to the mischievous cabalistic method in vogue at that time” `I.1 ¶64` (ATWOOD (reporting what 'is said'))
+  - **Plain (stated):** Some texts were deliberately scrambled out of their original order, so a reader cannot follow them in sequence.
+  - Also: “Added also to his own willful misguidance” `I.1 ¶64`
+- **impediment** — “may serve to lead on the initiated, yet will appear infamously sophistical and inevitably disgust a beginner” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Some commentaries are practically informative only to those already initiated; to a beginner they read as sophistry.
+  - Also: “those Twelve Gates have, we conceive, little edified any without the Lodge” `I.1 ¶64`
+- **principle** — “connects Alchemy with the most profound metaphysical science” `I.1 ¶64` (ATWOOD (reporting Picus))
+  - **Plain (stated):** Alchemy is tied to the deepest metaphysics, not merely to chemistry (Picus's treatise, as Atwood reports it).
+- **operator** — “having possessed himself of the means and principles of the Occult Science from his friend, the wary and learned Abbot Trithemius, set to work” `I.1 ¶64` (ATWOOD)
+  - **Plain (interpreted):** The means and principles were received from a teacher and then tested by the student's own work.
+  - Basis: I.1 ¶64: the sentence continues 'proving them in a self-sufficient order', i.e. testing what was received; cf. Norton's 'trewly taught' (I.1 ¶60).
+  - Also: “proving them in a self-sufficient order” `I.1 ¶64`
+- **operator** — “he had not, when he wrote them, arrived at a full experience, nor was he able to make the philosophers’ stone” `I.1 ¶64` (QUOTED: Cornelius Agrippa ("as he declares"), reported by Atwood)
+  - **Plain (stated):** Writings made before full experience of the work are incomplete; Agrippa's early books predate his making the stone.
+- **result** — “that final and convictive faith, which is as much above ordinary science as the vulgar credulity of mankind is below it” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Discovering the stone brought Agrippa a settled conviction ranking above ordinary knowledge, reached by investigating and testing the Mystery, not by despair of knowledge.
+  - Also: “It was by searching and proving the magnitude of the Mystery that he arrived at that final and convictive faith” `I.1 ¶64`
+- **stage** — “as it were from the top of Celsus’ ladder, looking down upon the steps by which he had climbed, and whereon he had successively rested” `I.1 ¶64` (ATWOOD)
+  - **Plain (interpreted):** Knowledge is climbed in successive steps; from the summit (universal truth) the earlier steps, the particular sciences, are seen to be inferior.
+  - Basis: I.1 ¶64: the preceding sentence says 'The vanity of particular and temporal sciences is discovered by comparison only in the broad day light of universal truth'.
+- **principle** — “the ground of the whole Hermetic philosophy laid out, and the relative vanity of worldly science to that, which is universal, rational, and divine” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Hermetic philosophy is presented as universal, rational and divine knowledge, beside which worldly sciences are relatively vain.
+- **principle** — “this silence is so constantly and religiously observed of the ancient philosophers, that there is bound no faithful writer of approved authority that hath openly described this art” `I.1 ¶64` (QUOTED: Cornelius Agrippa (Atwood endorses: 'he was fettered by oaths'))
+  - **Plain (stated):** Adepts are bound by oath to silence; no reliable authority has described the art openly.
+  - Also: “I could tell many tings of this art, if I had not sworn to keep silence” `I.1 ¶64`
+- **subject** — “of the one blessed stone alone, besides which there is no other thing, the subject of the most holy stone of the philosophers” `I.1 ¶64` (QUOTED: Cornelius Agrippa)
+  - **Plain (interpreted):** The subject of the stone is a single thing, beside which there is no other, and too sacred to speak of rashly. The chunk does not name it.
+  - Basis: I.1 ¶64: the phrase is in apposition, 'the one blessed stone ... the subject of the most holy stone'; 'to speak rashly, would be a sacrilege'. See ambiguities.
+- **impediment** — “a potent spiritual medicine, which would heighten the spiritual consequences of depravity and habitual excess, and accelerate dissolution in the conflict of opposite principles” `I.1 ¶64` (UNCLEAR)
+  - **Plain (interpreted):** The elixir acts as a spiritual medicine; in someone living intemperately it intensifies the effects of vice and hastens death. The operator's way of life thus matters.
+  - Basis: I.1 ¶64: same sentence links 'the elixir he boasts' with 'one who was in the habit of taking a potent spiritual medicine'; presented as a view that 'has also been considered'.
+- **impediment** — “on account mainly of the indefiniteness and selfishness of their desires” `I.1 ¶64` (UNCLEAR)
+  - **Plain (stated):** Men have failed and stayed in ignorance chiefly because their aims were vague and self-serving.
+- **impediment** — “leading them far away, through alluring sophisms, from the straight way of truth” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Some adepts' writings (most of Paracelsus's) deliberately mislead readers.
+  - Also: “all the revenge he indulged in was to leave it unenlightened” `I.1 ¶64`
+- **impediment** — “wrote and practiced for lucre, leading mankind into error and the commitment even of egregious crimes by their receipts” `I.1 ¶64` (ATWOOD)
+  - **Plain (stated):** Mercenary pretenders with recipes and mysterious talk spread error; with the truth hidden, ignorance spread.
+  - Also: “who had acquired the tact only to write and talk mysteriously” `I.1 ¶64`
+  - Also: “for this bushel being placed over the light, the darkness of it invited ignorance abroad” `I.1 ¶64`
+- **impediment** — “Also I wrought in sulphur and in vitriall, Which folys doe call the Grene Lyon, In arsenicke, in orpemint, fowle mot them fall;” `I.1 ¶65` (QUOTED: Ripley)
+  - **Plain (interpreted):** Working on common substances (metals, salts, sulphur, vitriol, arsenic, orpiment, urine, eggs, hair, blood, corrosive waters and the like) yields nothing; the true work is not done on these.
+  - Basis: I.1 ¶65: Ripley says of all these 'profytt found I right none therein' and 'all such experiments avaylyd me nought'; Atwood presents it (I.1 ¶64) as an example of 'the boastings, bereavements, and surpassing beliefs of ignorance'.
+  - Also: “I proved uryns, eggs, here, and blod,” `I.1 ¶65`
+  - Also: “But profytt found I right none therein.” `I.1 ¶65`
+- **sign** — “Of which gey tinctures I made to shew, Both red and white which were untrew.” `I.1 ¶65` (QUOTED: Ripley)
+  - **Plain (interpreted):** Red and white colours obtained from vulgar materials are false appearances, not genuine signs of the work.
+  - Basis: I.1 ¶65: the tinctures come from the listed common substances and are called 'untrew'; contrast Norton's White and Red Stone (I.1 ¶60).
+- **principle** — “In delibi principio was myne inception: Therefore was frawde in fine the conclusion:” `I.1 ¶65` (QUOTED: Ripley)
+  - **Plain (interpreted):** A faulty starting point necessarily produces a false result: the beginning determines the end.
+  - Basis: I.1 ¶65: 'Therefore' makes the fraudulent conclusion follow from the beginning; the Latin is rendered only by our translation (see translations), so the reading of 'delibi' is uncertain.
+- **impediment** — “And oft times I was dysceivyd with many falce books” `I.1 ¶65` (QUOTED: Ripley)
+  - **Plain (stated):** Following books literally led to failure; many books are false or misleading.
+  - Also: “After my bokes yet wrought I well; Which evermore untrew I provyd,” `I.1 ¶65`
+  - Also: “Thus I rostyd and boyled as one of Geber’s cooks,” `I.1 ¶65`
+
+## Terms
+
+- **Red Elixir** — What Basil Valentine reportedly found a new method of working; its process had been laborious and rarely achieved. (ATWOOD)
+  - “a new method of working the Red Elixir” `I.1 ¶59`
+- **Red Stone** (also: Res Stone) — Per Norton: possessed by scarcely one in fifteen kingdoms; not to be sought until the white medicine is fully wrought; can be increased in multiplication. Atwood cites these lines as evidence about the Red Elixir. (QUOTED: Norton)
+  - “In fifteen kingdoms hath our Red Stone.” `I.1 ¶60`
+  - “Had not of our Res Stone consideration” `I.1 ¶60`
+- **White Stone** — Found by many patient wise men with labor after true teaching; the lines also require 'the white medicine' to be fully wrought before the Red is sought. (QUOTED: Norton)
+  - “Found our White Stone with exercise;” `I.1 ¶60`
+  - “Till the white medicine be fully wrought;” `I.1 ¶60`
+- **multiplication** — Increase of the Red Stone; not explained in this chunk. (QUOTED: Norton)
+  - “Him to increase in multiplication” `I.1 ¶60`
+- **philosophers’ stone** (also: philosophers; stone, most holy stone of the philosophers) — The goal of the art; Agrippa could not make it when writing Occult Philosophy but discovered it later in life; Ripley sought it in vain with common substances. (ATWOOD)
+  - “nor was he able to make the philosophers’ stone” `I.1 ¶64`
+  - “Wenying so tomake the philosophers; stone;” `I.1 ¶65`
+- **one blessed stone** — In Agrippa's words, a single thing beside which there is no other, which is the subject of the stone; to speak rashly of it is sacrilege. (QUOTED: Cornelius Agrippa)
+  - = subject of the most holy stone of the philosophers: “of the one blessed stone alone, besides which there is no other thing, the subject of the most holy stone of the philosophers” `I.1 ¶64`
+  - “of the one blessed stone alone, besides which there is no other thing” `I.1 ¶64`
+- **Subject Matter** — What the work is performed on; constantly concealed even in candid texts such as Norton's Ordinal. (ATWOOD)
+  - “with the exception of the Subject Matter and certain preliminaries, which are constantly concealed” `I.1 ¶64`
+- **manual artifice** — A practical technique of the work, alluded to in Ashmole's notes; not described here. (ATWOOD)
+  - “alludes to the manual artifice without much disguise” `I.1 ¶62`
+- **elixir** — What Paracelsus boasted of possessing; the surrounding sentence speaks of 'a potent spiritual medicine' whose effects worsen with depravity. (UNCLEAR)
+  - “the elixir he boasts” `I.1 ¶64`
+  - “one who was in the habit of taking a potent spiritual medicine” `I.1 ¶64`
+- **Occult Science** (also: occult science) — Has 'means and principles' that Agrippa received from Trithemius; Ashmole and Boorhaave are said to be acquainted with it. (ATWOOD)
+  - “the means and principles of the Occult Science” `I.1 ¶64`
+- **Hermetic Art** (also: Hermetic art, genuine Hermetic art) — The art studied by Valentine's admirers, Ficinus and others; contrasted with the follies of pretenders. (ATWOOD)
+  - “speaking of the genuine Hermetic art” `I.1 ¶64`
+- **Hermetic philosophy** — Knowledge described as universal, rational and divine, beside which worldly science is relatively vain. (ATWOOD)
+  - “the ground of the whole Hermetic philosophy laid out” `I.1 ¶64`
+- **Mystery** — The object of Agrippa's search, whose magnitude, once proved, led him to final conviction. (ATWOOD)
+  - “searching and proving the magnitude of the Mystery” `I.1 ¶64`
+- **magic** (also: magician) — Ashmole exposes 'certain principles of magic'; Agrippa is called 'the magician'. (ATWOOD)
+  - “he exposes certain principles of magic” `I.1 ¶62`
+  - “there stood the magician at last” `I.1 ¶64`
+- **Lodge** — Used of those for whom Ripley's Twelve Gates were edifying; apparently an inner circle of the initiated (see ambiguities). (ATWOOD)
+  - “little edified any without the Lodge” `I.1 ¶64`
+- **cabalistic method** — A practice of displacing verses from their original order, 'in vogue at that time'. (ATWOOD)
+  - “according to the mischievous cabalistic method in vogue at that time” `I.1 ¶64`
+- **adept** (also: adepts) — A successful practitioner of the art (the Isaacs, Ripley 'reputed a good adept', 'a modern adept'). (ATWOOD)
+  - “though reputed a good adept” `I.1 ¶64`
+- **Grene Lyon** — A name that, per Ripley, 'folys' give to vitriol (possibly also sulphur); the chunk does not say what the true Green Lion is. (QUOTED: Ripley)
+  - = vitriall (as named by fools): “vitriall, Which folys doe call the Grene Lyon” `I.1 ¶65`
+  - “Which folys doe call the Grene Lyon” `I.1 ¶65`
+- **receipts** — The recipes of mercenary pretenders, which led people into error and crime. (ATWOOD)
+  - “the commitment even of egregious crimes by their receipts” `I.1 ¶64`
+
+## Sources cited
+
+- **Flamel**, *Hieroglyphics; Testament* `I.1 ¶58` — Sources of the preceding Flamel relation.
+- **chronicle** — “the evidence of his charitable deeds remained and the symbols of the art” `I.1 ¶58` — Supports the lasting visibility of Flamel's charities and symbols in Paris as late as 1740.
+- **Flamel**, *La Sommaire Philosophique; Le Desir desiree; Le Grand Eclaircissement* `I.1 ¶58` — Listed among Flamel's writings; the Sommaire is in French verse, translated in the Theatrum Chemicum.
+- **Theatrum Chemicum**, *Theatrum Chemicum* `I.1 ¶58, I.1 n69` — Called 'an esteemed work'; contains a translation of the Sommaire with important annotations; also cited for Picus' de Auro.
+- **Histoire Hermetique; Lives of the Adepts; Les Hieroglyphiques de N. Flammel**, *Histoire Hermetique, vol. 1; Lives of the Adepts; Les Hieroglyphiques de N. Flammel* `I.1 n62` — Reference only.
+- **The Isaacs (J. I. Hollandus, I. Hollandus)**, *de Lapide Philosophico; Opera Universalia* `I.1 ¶58, I.1 n63` — Dutch adepts, father and son, said to have worked successfully; works given as reference.
+- **Boorhaave** `I.1 ¶58` — Supports the Isaacs' reputation; he lauds them and seems acquainted with occult science.
+- **Basil Valentine**, *Chimische Schriften (Hamburg edition, 1717); Triumphal Chariot of Antimony; Stone of Fire; Twelve keys* `I.1 ¶59, I.1 ¶61, I.1 n65` — Praised as the star of the 15th century, credited with a new method for the Red Elixir; editions and translations assessed.
+- **Kirchringius** `I.1 ¶61` — His Latin version with 'admirable commentary' is the basis of the only good English translation of Valentine.
+- **Bibliotheque des Philosophes Chimiques**, *Bibliotheque des Philosophes Chimiques, second edition* `I.1 ¶61` — Contains the Twelve Keys.
+- **Norton**, *Ordinal* — “Till the white medicine be fully wrought;” `I.1 ¶59, I.1 ¶60, I.1 ¶64, I.1 n64` — Supports the rarity of the Red Stone and the order white-before-red; the Ordinal is praised as candid and orderly except for the concealed Subject Matter.
+- **Albertus Magnus, the Black Freere** `I.1 ¶60` — Named in Norton's verse as lacking understanding of multiplying the Red Stone.
+- **Freer Bacon** `I.1 ¶60, I.1 ¶64` — Named in Norton's verse with Albertus; also 'Friar Bacon', whose example Agrippa followed in proving principles.
+- **Elias Ashmole**, *Theatrum Chemicum Britanicum (London 1652)* — “I know enough to hold my tongue, but not enough to speak” `I.1 ¶62, I.1 ¶64, I.1 n66` — His collection praised; his preface cited to show secrecy and the need for practical experience; also cited on incredulity as a punishment.
+- **Ripley**, *Twelve Gates* `I.1 ¶62, I.1 ¶63, I.1 ¶64` — The Twelve Gates criticized as disorderly and misleading. Separately, Ripley is cited (via Ashmole) for verses against those who prate 'Of Robin Hood, and of his Bow' without practice; the chunk does not name the work.
+- **Ripley**, *Erroneous Experiments (An Admonition of Erroneous Experiments, Theat. Chem. Brit., p. 189)* — “But profytt found I right none therein.” `I.1 ¶64, I.1 ¶65, I.1 n72` — Illustrates the failures of ignorant practice on vulgar substances.
+- **Eirenaeus Philalethes**, *Ripley Revived (London 1678)* `I.1 ¶64, I.1 n67` — Criticized: practically explanatory for the initiated but sophistical to beginners.
+- **Pierce, the Black Monke**, *Fragment* `I.1 ¶64` — Among the most instructive pieces in Ashmole's collection.
+- **Bloomfield**, *Bloomfield’s Blossoms* `I.1 ¶64` — Among the most instructive pieces in Ashmole's collection.
+- **Philosophy and Experience**, *Philosophy and Experience* `I.1 ¶64` — Among the most instructive pieces in Ashmole's collection.
+- **Ficinus**, *Liber de Arte Chemica (Marsilii Ficini Florent.)* `I.1 ¶64, I.1 n68` — Translator of Plato and of the works imputed to Hermes; explained the art theoretically.
+- **Plato** `I.1 ¶64` — Mentioned only as translated by Ficinus.
+- **Hermes**, *the works imputed to Hermes* `I.1 ¶64` — Translated from Greek into Latin by Ficinus.
+- **Picus, prince di Mirandola**, *de Auro; Opus Aureum de Auro* `I.1 ¶64, I.1 n69` — Supports the link of Alchemy with profound metaphysical science.
+- **Cornelius Agrippa**, *three books of Occult Philosophy; Vanity of the Sciences (De Vanitate Scientiarum)* — “I could tell many tings of this art, if I had not sworn to keep silence” `I.1 ¶64, I.1 n70` — Supports the oath of secrecy and the singleness of the subject; Atwood argues the Vanity is a consummation, not a recantation.
+- **Abbot Trithemius** `I.1 ¶64` — Agrippa's source for the means and principles of Occult Science.
+- **Celsus** `I.1 ¶64` — 'Celsus’ ladder' used as an image of ascending knowledge.
+- **the monks** `I.1 ¶64` — Criticized for promulgating Agrippa's Vanity as a recantation.
+- **Theophrastus Paracelsus**, *three Addresses to the Athenians; Aurora* `I.1 ¶64` — Criticized for deliberately misleading writings; best works named; his death discussed.
+- **J. Crollius**, *The Philosophy of J. Crollius* `I.1 ¶64` — Disciple of Paracelsus; his book carries the Addresses to the Athenians in English; named among worthy disciples.
+- **J. Grasseus**, *Water Stone of the Wise Men* `I.1 ¶64` — Published with the Aurora.
+- **Lives of the Alchemists**, *Lives of the Alchemists, p. 52* `I.1 n71` — Reference only (on Paracelsus' death).
+- **Van Helmont, Crollius, Fludd, Helvetius, Faber** `I.1 ¶64` — Named as intelligent, worthy disciples of Paracelsus.
+- **a modern adept** — “this bushel being placed over the light, the darkness of it invited ignorance abroad” `I.1 ¶64` — Supports the claim that hiding the truth let ignorance spread.
+- **Erasmus** `I.1 ¶64` — His burlesques illustrate the alchemical mania of the age.
+- **Chaucer**, *the tale of the Chanon’s Yeoman* `I.1 ¶64` — Illustrates the boastings and beliefs of ignorance.
+- **Geber** — “as one of Geber’s cooks” `I.1 ¶65` — Named in Ripley's verse; failed practitioners as 'Geber’s cooks'.
+
+## Ambiguities
+
+- “of the one blessed stone alone, besides which there is no other thing, the subject of the most holy stone of the philosophers” `I.1 ¶64`
+  - Reading: The subject of the stone is one single thing, and nothing else will serve.
+  - Reading: The 'one blessed stone' is itself the subject of the 'most holy stone': the stone is made from a stone-like subject of the same nature.
+  - Reading: 'besides which there is no other thing' means the subject is all-comprehending.
+  - Basis: The phrases stand in apposition without a verb; 'alone' and 'one' support A; the repeated 'stone' supports B; 'no other thing' could support C.
+- “little edified any without the Lodge” `I.1 ¶64`
+  - Reading: Outside an organized fraternity of adepts.
+  - Reading: Anyone not already instructed or initiated, without implying an organization.
+  - Basis: Capitalized 'Lodge' suggests a body; the same paragraph says Ripley Revived 'may serve to lead on the initiated'.
+- “Which folys doe call the Grene Lyon” `I.1 ¶65`
+  - Reading: Fools wrongly take common vitriol for the Green Lion, implying the true Green Lion is something else.
+  - Reading: 'Which' refers to both sulphur and vitriol.
+  - Reading: A plain report of usage without implying a true Green Lion.
+  - Basis: The line follows 'sulphur and in vitriall'; 'folys' marks the naming as mistaken; no other mention in the chunk.
+- “accelerate dissolution in the conflict of opposite principles” `I.1 ¶64`
+  - Reading: Bodily death, hastened by the clash of the spiritual medicine with depravity.
+  - Reading: A more general breaking-up of the person through the conflict between the medicine and vice.
+  - Basis: The sentence discusses Paracelsus' 'early death'; 'opposite principles' is not defined.
+- “a new method of working the Red Elixir” `I.1 ¶59`
+  - Reading: The Red Elixir is the same as Norton's Red Stone.
+  - Reading: They are related but distinct products.
+  - Basis: Atwood supports the Red Elixir's rarity with Norton's lines on the Red Stone ('as appears from those lines of Norton'), but does not state an identity.
+- “In delibi principio was myne inception” `I.1 ¶65`
+  - Reading: 'In a weak (debili) beginning', i.e. a faulty starting point.
+  - Reading: A corrupted Latin phrase of uncertain sense.
+  - Basis: 'delibi' is not standard Latin; the following line ('Therefore was frawde in fine the conclusion') implies a faulty beginning.
+
+## Translations
+
+- `I.1 ¶60` “How that manie men patient and wise, Found our White Stone with exercise; After that they were trewly taught, With great labor, that stone they caught, But few (saith he) or scarcely one; In fifteen kingdoms hath our Red Stone. Wheom to seeke it availeth right noughte, Till the white medicine be fully wrought; Neither Albertus Magnus, the Black Freere, Neither Freer Bacon his compeere, Had not of our Res Stone consideration Him to increase in multiplication” → How many patient and wise men found our White Stone by practice; after they were truly taught, they obtained that stone with great labor. But few (he says), or scarcely one in fifteen kingdoms, has our Red Stone. To seek it avails nothing at all until the white medicine is fully made. Neither Albertus Magnus, the Black Friar, nor Friar Bacon his companion, understood how to increase our Red Stone by multiplication. *(ours)*
+- `I.1 ¶63` “Of Robin Hood, and of his Bow, Whych never shot therin I trowe” → (who prate with wondering) of Robin Hood and his bow, who never shot with it, I believe. *(ours)*
+- `I.1 ¶65` “Of spyrytts, ferments, salts, yerne and steele; Wenying so tomake the philosophers; stone; But finally I lost eche dele, After my bokes yet wrought I well; Which evermore untrew I provyd, That made me oft full sore agrevyd.” → (I made many solutions) of spirits, ferments, salts, iron and steel, thinking thus to make the philosophers' stone; but in the end I lost every bit. Yet I worked carefully according to my books, which I always proved untrue, and that often grieved me sorely. *(ours)*
+- `I.1 ¶65` “Waters corrosive and water ardent, With which I wrought in divers wyse, Many one I made but all was shent; Egg shells I calcenyd twyse or thryse, Oylys fro calcys I made up ryse; And every element fro other I did twye But profytt found I right none therein.” → Corrosive waters and burning water, with which I worked in various ways; I made many, but all was ruined. I calcined eggshells two or three times, made oils rise from calces, and separated every element from the others, but found no profit at all in it. *(ours)*
+- `I.1 ¶65` “Also I wrought in sulphur and in vitriall, Which folys doe call the Grene Lyon, In arsenicke, in orpemint, fowle mot them fall; In delibi principio was myne inception: Therefore was frawde in fine the conclusion: And I blew my thrift at the cole, My clothes were bawdy, my stomache was never hole.” → I also worked in sulphur and in vitriol, which fools call the Green Lion, in arsenic and orpiment, ill befall them. My start was in a weak (?) beginning, therefore fraud was the conclusion in the end; I blew away my savings at the coals, my clothes were dirty, my stomach never sound. *(ours)*
+- `I.1 ¶65` “I proved uryns, eggs, here, and blod, The scalys of yern which smthys do off smyte. Oes, ust, and crokefer which dyd me never good: The sowle of Saturn and also marchisyte, Lythage and antimony not worth a mite: Of which gey tinctures I made to shew, Both red and white which were untrew.” → I tried urines, eggs, hair and blood, the scales of iron that smiths strike off, 'oes ust' and 'crokefer', which never did me good; the soul of Saturn and also marcasite, litharge and antimony, not worth a mite; from which I made showy tinctures, both red and white, which were untrue. *(ours)*
+- `I.1 ¶65` “Oyle of Lune and water with labor great, I made calcynyng yt with salt precipitate, And by hytself with vyolent heatt Grindyng with vinegar tyll I was fatygate: And also with a quantitye if syces acuate; Upon a marble which stode me oft in cost And oyles with corrosives I made; but all was lost.” → With great labor I made oil and water of Lune, calcining it with precipitated salt, and by itself with violent heat, grinding with vinegar until I was exhausted, and also with a quantity of sharpened 'syces' (unclear), upon a marble that often cost me dear; and I made oils with corrosives, but all was lost. *(ours)*
+- `I.1 ¶65` “Thus I rostyd and boyled as one of Geber’s cooks, And oft times I was dysceivyd with many falce books Whereby untrue, thus truly I wrought: But all such experiments avaylyd me nought; But brought me in danger and cumbraunce, By loss of goods and other grievaunce” → Thus I roasted and boiled like one of Geber's cooks, and was often deceived by many false books; following untrue ones, I worked faithfully, but all such experiments availed me nothing and brought me into danger and trouble through loss of goods and other grievance. *(ours)*
+
+## Threads
+
+- `I.1 ¶58` 'Part of this relation' refers back to the Flamel narrative of the preceding chunk; the quoted chronicle passage closing here opens before this chunk.
+- `I.1 ¶58` 'besides those already quoted from' points to Flamel writings quoted earlier.
+- `I.1 ¶64` 'the works imputed to Hermes, before mentioned' points to an earlier mention of the Hermetic writings.
+- `I.1 ¶64` 'this Hermetic Theater opens' refers to Ashmole's Theatrum Chemicum Britanicum (I.1 ¶62, n66), whose first piece is Norton's Ordinal.

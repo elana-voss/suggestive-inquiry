@@ -1,0 +1,273 @@
+# III.2_04
+
+*Atwood argues that the ancients (Plato, Aristotle, Empedocles, Pythagoras, Zeno) veiled under cosmology, logic and number one ethereal or psychical Quintessence that art separates; she then begins a summary from Plotinus and Porphyry (with Iamblichus) establishing a pure, divine Matter as the persisting subject of bodies, shown by analysis and made manifest by the Theurgic Art.*
+
+## Argument
+
+- Latin verse: above these, the liquid, weightless Aether, free of earthly dregs. `III.2 ¶37, III.2 n33` — QUOTED: Ovidii Metam.
+- Plato's One Whole, perfect and free from age and disease, alludes to the Etheral Quintessence; Aristotle's 'one alone and perfect' world cannot be this world. Both mean the ethereal, which art taught them to segregate on the ruins of mortal existence. `III.2 ¶38, III.2 n34` — ATWOOD
+- Empedocles: the sensible is an image of the intelligible exemplar; elements subsist at the source as qualitative virtues, multiplying into distributive powers whose remote subjects are the sensible elements. `III.2 ¶38` — ATWOOD
+- Verse: love unites, strife divides; the One is formed from the many; mortals endure through change like a sphere round its center. `III.2 ¶39, III.2 n35` — QUOTED: Empedocles
+- Anaxagoras: matter is the progeny of mind; the Alexandrians explained its descent. Such subtleties, hard to word and kept from the vulgar, were veiled in fables, symbols and poetry; Aristotle used abstruse diction, saying only his pupils would understand his Acaomatic Ethics. `III.2 ¶40, III.2 n36` — ATWOOD
+- Aristotle's strictures apply narrowly (Taylor showed them misunderstood): he shares his predecessors' grounds and conclusion, differing in method, and faults their inconsistent language. `III.2 ¶40` — ATWOOD
+- Metaphysics: Parmenides touched the One by Reason, Melissus by Matter; Xenophanes said the One is God. `III.2 ¶40, III.2 n37` — QUOTED: Aristotle
+- He opposed their letter, not spirit, asserting mind's causality; his categories were to fix experiment and channel the birth of the Divine Intellect into manifestation, the syllogism sought. Losing that ground, the Organon decayed into scholastic dispute, as Bacon saw. `III.2 ¶41, III.2 ¶42` — ATWOOD
+- Numbers only beget numbers, producing nothing substantive without 'the Efficient which is in all'; so the ancients meant something else by numbers as causes. `III.2 ¶43, III.2 ¶44` — ATWOOD
+- Pythagoras' hecatomb and theorem, and Thales' circle, symbolize discovery of the Psychical Quintessence (Tincture of the Sapphiric Mine): threefold, equal to the whole dissolute compound, casting off superfluity and the old nature. Expiation is required, but sacrificed beasts avail nothing while their Prototypes fatten in the Philosophic Field. `III.2 ¶44` — ATWOOD
+- Number yields substance only if the unit is absolute; Zeno of Elea: demonstrating the philosopher's Unit unfolds Being. The One, Fountain of being, is in all its multitude; like loadstone fragment or spark, each portion contains the Great Whole proportionally. `III.2 ¶45` — ATWOOD
+- Greeks who knew the Whole in self-knowledge call it simple, known by contact and intuition, and hold with the Alchemist a universal pure matter, origin of life and body, manifestable to sense. The Mysteries forbade disclosure; Neoplatonists spoke of Principles, not Practice. A Plotinus–Porphyry summary follows. `III.2 ¶46` — ATWOOD
+- Mutation proves a Subject of bodies that receives and reflects forms and remains. Corruption (especially artificial), Induction and Analysis show things composite: an iron pot resolved into gold, gold into incorruptible water. `III.2 ¶47, III.2 ¶48` — QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood
+- This is the mystical analysis, internal and external: the iron spirit in the blood is cleansed and aurified (illuminated); a metal's radical moisture, by fermentive virtue, passes into a more perfect Form. Albertus: Light, formal essence, most in gold, appears in every thing's ultimate analysis; metals reduce to water, their first pure matter. `III.2 n38` — ATWOOD
+- Elements being corruptible, a vital, formless, immortal Nature underlies them; indefinite matter is worthy when applied to divine exemplaries. A pure divine Matter between causes and gross effects, manifested by the Theurgic Art in visions, is the foundation for participating superior Being; the ancients extend matter even to the gods. `III.2 ¶49` — QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood
+- Iamblichus: this Matter, connascent with the gods, is a fit receptacle for Divinity; the highest causes' power is present with material natures immanifestly. `III.2 ¶49, III.2 n39` — QUOTED: Iamblichus
+
+## Method
+
+- **subject** — “One Whole from wholes, in all things perfect and free from old age and disease” `III.2 ¶38` (ATWOOD)
+  - **Plain (stated):** Atwood reads Plato's perfect, ageless Whole, and Aristotle's 'one alone and perfect' world, as the Etheral Quintessence, not the visible world.
+  - Basis: III.2 ¶38: 'Plato yet more plainly alluding to the Etheral Quintessence'; Aristotle 'cannot mean this world'; 'what other, therefore, should they either mean but the ethereal'.
+  - Also: “the world, being composed from all sensible matter, is one alone and perfect” `III.2 ¶38`
+  - Also: “liquidam et gravitate carentem, Aethera, non quicquam terrenae faecis habentum” `III.2 ¶37`
+- **procedure** — “which art once taught them to segregate, and establish upon the ruins of this mortal and dislocated existence” `III.2 ¶38` (ATWOOD)
+  - **Plain (stated):** The art separates the ethereal principle out of ordinary mortal, composite existence and establishes it upon the ruins of this mortal and dislocated existence.
+  - Basis: III.2 ¶38 says directly that art taught them to segregate the ethereal; how is not described here.
+- **principle** — “a twofold order of natural procedure --- the one intelligible, and the other sensible” `III.2 ¶38` (ATWOOD)
+  - **Plain (stated):** Sensible things are images of an intelligible exemplar; elements exist first as qualitative virtues at the source and only remotely as sensible elements; one can trace back from effect to cause.
+  - Basis: III.2 ¶38: 'deriving the latter as an image from the former as an exemplar'; 'qualitative virtues, which, multiplying into being, become distributive powers'.
+  - Also: “receding from effect to cause, he shows how the universal frame is borne along in perpetual interchange” `III.2 ¶38`
+- **principle** — “All things in union now thro’ love conspire, And now thro’ strife divulsed are borne along” `III.2 ¶39` (QUOTED: Empedocles)
+  - **Plain (interpreted):** The elements are alternately united and separated; the One appears as formed from the many; mortals endure through change. This chunk does not apply the verse to the work directly (see ambiguities).
+  - Basis: III.2 ¶38 introduces the verse as showing 'perpetual interchange'; III.2 ¶39.
+  - Also: “Hence, when again emerging into light, The One is seen, ‘t is from the many formed.” `III.2 ¶39`
+  - Also: “Like a sphere rolling round its center firm” `III.2 ¶39`
+- **principle** — “matter likewise is the progeny of mind” `III.2 ¶40` (QUOTED: Anaxagoras and the Alexandrians; endorsed by Atwood)
+  - **Plain (interpreted):** Matter descends from mind; the Alexandrians described this descent as if they knew the universe's structure by analogy with their own.
+  - Basis: III.2 ¶40; 'through their own' is elliptical (see ambiguities); ¶46 links knowledge of the Whole to self-knowledge.
+  - Also: “by analogy, through their own, the structure of the universe” `III.2 ¶40`
+- **principle** — “Many, therefore, adopted fables, symbols, similitudes, enigmas, and the license of poetry they also called in aid” `III.2 ¶40` (ATWOOD)
+  - **Plain (stated):** The doctrine was deliberately veiled, in fables and poetry or (Aristotle) in abstruse diction, because it was hard to put in words and to hide it from the vulgar; it must be read for its spirit, not its letter.
+  - Basis: III.2 ¶40 gives both reasons: 'extremely difficult to delineate by words' and 'to veil their meaning from vulgar misprision and debate'; ¶41 letter vs spirit.
+  - Also: “Aristotle preferred an abstruse style of diction to every other disguise, that he might be comprehensible to the profound only” `III.2 ¶40`
+  - Also: “his opposition is uniformly directed to the letter rather than to the spirit of their doctrine” `III.2 ¶41`
+- **principle** — “by means of the categories, as by a congenial channel, the birth of the Divine Intellect into life and manifestation” `III.2 ¶41` (ATWOOD)
+  - **Plain (interpreted):** Atwood holds that Aristotle's logic, in its original intent, served to fix experiment and unfold the bringing of the Divine Intellect into living manifestation; that is the 'syllogism' worth seeking. What the 'birth' consists of is not explained here.
+  - Basis: III.2 ¶41 ('valuable to fix experiment and assist in defining and unfolding'); III.2 ¶42 ('That was the syllogism so important to be sought after'). See ambiguities.
+  - Also: “That was the syllogism so important to be sought after, which also is according to Aristotle the true object of philosophy” `III.2 ¶42`
+- **impediment** — “losing this substantial ground and aim therefore, the Organon began to work upon itself” `III.2 ¶42` (ATWOOD)
+  - **Plain (stated):** Logic cut off from its experimental ground becomes self-referential and degenerates into empty scholastic dispute.
+  - Basis: III.2 ¶42: it 'wore out gradually' into 'scholastic subtlety and aimless dispute'.
+- **agent** — “nothing solid, long, short, or square, not the smallest grain of sand without the Efficient which is in all” `III.2 ¶43` (ATWOOD)
+  - **Plain (stated):** Number and figure can only represent things; actual production of substance requires an efficient cause present in all things. Numbers were causes for the ancients only because allied to something better.
+  - Basis: III.2 ¶43: numbers 'cannot produce themselves, or anything else, into substantive appearance'; 'allied in idea to something better than themselves'.
+  - Also: “those mathematics which had all their original keystone in the Arch of Heaven” `III.2 ¶43`
+- **result** — “that miraculous Psychical Quintessence, known to the wise as the Tincture of the Sapphiric Mine” `III.2 ¶44` (ATWOOD)
+  - **Plain (stated):** The thing discovered is a psychical quintessence, called by the wise the Tincture of the Sapphiric Mine, separated out of a dissolved compound, threefold in essence and equal to the whole it came from. 'Threefold' and 'Sapphiric Mine' are not explained here.
+  - Basis: III.2 ¶44: 'the hecatomb, and the theorem separately symbolical, and alike relating to the discovery of' it.
+  - Also: “being in its own threefold segregated essentiality equal to the whole dissolute compound whence it arises” `III.2 ¶44`
+- **principle** — “the subtendent of a right-angled triangle is equivalent to those parts which contain it” `III.2 ¶44` (ATWOOD)
+  - **Plain (interpreted):** The theorem symbolizes that the separated essence is equal to the whole compound from which it is drawn.
+  - Basis: III.2 ¶44 calls the theorem symbolical of the Quintessence and in the same sentence describes it as 'equal to the whole dissolute compound whence it arises'.
+- **procedure** — “cast off the superfluity, sacrificing the old nature to begin anew” `III.2 ¶44` (ATWOOD)
+  - **Plain (interpreted):** The separated essence throws off what is superfluous; the old nature of the compound is sacrificed so that it begins anew. The hecatomb symbolizes this.
+  - Basis: III.2 ¶44: the Quintessence 'cast off the superfluity, sacrificing the old nature to begin anew' is stated; linking the hecatomb specifically to this sacrifice is inferred from the text calling the hecatomb symbolical of the Quintessence's discovery.
+  - Also: “are not rather the hecatomb, and the theorem separately symbolical” `III.2 ¶44`
+- **impediment** — “the vicarious dedication of huge beasts will not avail whilst their Prototypes remain feeding and fattening in the Philosophic Field” `III.2 ¶44` (ATWOOD)
+  - **Plain (interpreted):** Approaching the highest secrets requires expiation; an outward substitute sacrifice is useless while the originals the beasts stand for are left untouched. What the Prototypes and the Field are is not stated (see ambiguities).
+  - Basis: III.2 ¶44: 'neither are the secrets of the highest causes approached without a mean of expiation'; 'vicarious' contrasted with 'Prototypes'; ties to 'sacrificing the old nature'.
+  - Also: “Charon does not ply the Stygian Lake without a recompense” `III.2 ¶44`
+  - Also: “neither are the secrets of the highest causes approached without a mean of expiation” `III.2 ¶44`
+- **principle** — “it is necessary that the point or unit should be established as something absolute” `III.2 ¶45` (ATWOOD)
+  - **Plain (stated):** To derive anything substantive, the unit must first be established as absolute, the One that is the Fountain of all being, so that everything derived is essentialized in it; to demonstrate it is to unfold Being.
+  - Basis: III.2 ¶45, with Zeno's saying and 'the One of these philosophers is the Fountain of all being'.
+  - Also: “if any one should undertake to demonstrate the philosopher’s Unit, he would unfold Being” `III.2 ¶45`
+  - Also: “the One of these philosophers is the Fountain of all being” `III.2 ¶45`
+- **principle** — “every portion of existence to be continent and comprehended proportionally of the Great Whole” `III.2 ¶45` (ATWOOD)
+  - **Plain (stated):** Every part contains the whole in proportion, as a loadstone fragment keeps both poles and a spark holds the principle of all fire.
+  - Basis: III.2 ¶45 gives the loadstone and spark analogies.
+  - Also: “each particular spark of fire contains the principle and developing force of the entire kindred element” `III.2 ¶45`
+- **operator** — “an experimental conception of its reality in the self-knowledge” `III.2 ¶46` (ATWOOD)
+  - **Plain (stated):** The Whole is known by direct experience within self-knowledge; it is simple and grasped by contact and intuition rather than reasoning.
+  - Basis: III.2 ¶46.
+  - Also: “not so much therefore an object of reason as of contact and intuition” `III.2 ¶46`
+- **subject** — “a certain pure matter subsisting about Intelligibles which is universal, and the proved origin of every vital and corporeal existence” `III.2 ¶46` (ATWOOD)
+  - **Plain (stated):** The Greeks and the Alchemist agree on one universal pure matter, origin of all living and bodily things; though hidden, it can be made perceptible to the senses and shown in divine and practical effects; it stands between the causes and their gross effects.
+  - Basis: III.2 ¶46 states each attribute; III.2 ¶49 its mediate position.
+  - Also: “though occult in nature, it can be made manifest to sense even, and exhibited in divine and practical effects” `III.2 ¶46`
+  - Also: “a certain pure and divine Matter mediately subsisting between primary and secondary causes and their gross effect” `III.2 ¶49`
+- **principle** — “forbearing direct allusion to the Practice, they feared less to speak of Principles and the procedure of mind” `III.2 ¶46` (ATWOOD)
+  - **Plain (stated):** The Mysteries forbade revealing it; modern Alchemists hide the metaphysics; the Neoplatonists speak of principles and mental procedure but not the practice, so they are the source for the theory.
+  - Basis: III.2 ¶46.
+  - Also: “it was forbidden by the mandate of the Mysteries that their revelation should be communicated to the profane” `III.2 ¶46`
+- **operator** — “images are admirably adapted to stimulate that faith, dormant as we now are in the corporeal darkness” `III.2 ¶46` (ATWOOD)
+  - **Plain (stated):** In our present state we are asleep in bodily darkness, yet an inner faith still responds to truth; the Neoplatonic writings and images serve to arouse it and aid perception.
+  - Basis: III.2 ¶46: their writings are 'auxiliaries to the perception'; the faith 'glows notwithstanding responsive to the truth within'.
+- **subject** — “the subject-matter however --- that which receives the forms and reflects them --- always remains the same” `III.2 ¶47` (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - **Plain (stated):** Beneath changing qualities there is one persistent subject, distinct from bodies, which takes on and reflects forms and is never destroyed.
+  - Basis: III.2 ¶47: 'nothing that is transmuted is entirely destroyed'.
+  - Also: “a certain Subject of bodies which is different from them” `III.2 ¶47`
+- **procedure** — “This therefore Corruption manifests (especially the artificial)” `III.2 ¶48` (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - **Plain (interpreted):** Corruption, above all artificially induced corruption, shows that things are composites of matter and form and so points to the underlying subject.
+  - Basis: III.2 ¶48: 'corruption is of that which is composite'; reading 'the artificial' as part of the art rests on n38's 'mystical analysis'. The chunk does not describe the artificial corruption.
+- **procedure** — “an iron pot should be resolved into gold, but gold into water; and the water, being incorruptible, will require no analogous process” `III.2 ¶48` (QUOTED: Plotinus; glossed by Atwood)
+  - **Plain (stated):** Atwood says this is the mystical (alchemical) analysis: a base thing is reduced to gold, and gold to an incorruptible water, the end-point of reduction.
+  - Basis: III.2 n38: 'Here Plotinus doubtless makes an allusion to the mystical analysis'; 'by no other analysis either is a pot resolved into gold, or gold into a water which is indissoluble'.
+  - Also: “Here Plotinus doubtless makes an allusion to the mystical analysis” `III.2 n38`
+- **procedure** — “by a reducation of the iron spirit in the blood, it becomes cleansed from its foreign oxide and aurified --- that is, illuminated by contrariation of its Form” `III.2 n38` (ATWOOD)
+  - **Plain (stated):** In the internal sense, the 'iron spirit' in the blood is purged of what is foreign to it and 'aurified', which the text glosses as illuminated, through a reversal of its Form.
+  - Basis: III.2 n38 gives 'aurified --- that is, illuminated' and says the doctrine holds 'both in an internal and in an external sense'. 'Contrariation of its Form' is not further explained.
+- **procedure** — “The radical moisture of the metal likewise, obeying the fermentive virtue of such a test when applied, may be made to pass away, as the tradition runs, from its own Form into that which is more integral and perfect” `III.2 n38` (ATWOOD)
+  - **Plain (stated):** In the external sense, a metal's radical moisture, acted on by a fermenting agent, passes into a more perfect form.
+  - Basis: III.2 n38, presented as the counterpart to the internal sense.
+- **result** — “Light, which is the formal essence of all things, and most abundant in gold, is found in the ultimate alchemical analysis of every existing thing” `III.2 n38` (QUOTED: Albertus Magnus (via Becher); endorsed by Atwood)
+  - **Plain (stated):** Everything can be reduced to 'gold' because the final analysis of anything yields Light, its formal essence, which gold has most of.
+  - Basis: III.2 n38: 'All things may be reduced to gold according to this doctrine'.
+  - Also: “All things may be reduced to gold according to this doctrine” `III.2 n38`
+- **subject** — “all metals, likewise, may be reduced into water, that is, into their first pure matter” `III.2 n38` (ATWOOD)
+  - **Plain (stated):** The 'water' to which metals are reduced is their first pure matter.
+  - Basis: III.2 n38 'that is'; attributed to Plato and Aristotle.
+- **subject** — “a Nature primarily vital which is also formless, indestructible and immortal, as being the principle of other things” `III.2 ¶49` (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - **Plain (stated):** Beneath the corruptible elements there is a living, formless, indestructible principle of all things.
+  - Basis: III.2 ¶49: the elements are 'composite and therefore corruptible', yet 'a certain subsistence remains'.
+- **principle** — “This Indefinite is not therefore everywhere to be despised” `III.2 ¶49` (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - **Plain (stated):** Formless matter is valuable when turned toward what is prior, glossed as the divine exemplaries and the most excellent life.
+  - Basis: III.2 ¶49: 'if it applies itself to things prior, i.e., to the divine exemplaries, and the most excellent life'.
+- **procedure** — “by means of the Theurgic Art it is made manifest and imparted through arcane and blessed visions” `III.2 ¶49` (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - **Plain (stated):** The pure divine Matter is made manifest and communicated through the Theurgic Art, by way of secret visions. The chunk does not describe the art's procedure.
+  - Basis: III.2 ¶49.
+- **principle** — “unless a foundation of this kind be first established” `III.2 ¶49` (UNCLEAR)
+  - **Plain (stated):** Establishing this pure Matter is the precondition for any human participation in superior Being.
+  - Basis: III.2 ¶49: 'no otherwise according to them can a participation of superior Being be effected by men who dwell on earth'. Who 'them' (the ancients) speaks through is unclear (see ambiguities).
+- **result** — “an entire and fit receptacle for the manifestation of Divinity” `III.2 ¶49` (QUOTED: Iamblichus)
+  - **Plain (stated):** This Matter, born together with the gods who impart it, becomes a complete vessel in which the divine manifests.
+  - Basis: III.2 ¶49: 'being connascent with the gods by whom it is imparted'.
+- **agent** — “an exuberance of power is always present with the highest causes” `III.2 ¶49` (QUOTED: Iamblichus)
+  - **Plain (stated):** The highest causes have a surplus power that, while transcending everything, is present in all, including material things, in a hidden way.
+  - Basis: III.2 ¶49: 'present with all in unimpaired energy'; 'present with material natures immanifestly'.
+  - Also: “the first illuminate the last of things” `III.2 ¶49`
+  - Also: “it is nevertheless present with material natures immanifestly” `III.2 ¶49`
+
+## Terms
+
+- **Aether** (also: Aethera) — In the Latin verse: liquid, weightless, without earthly dregs, set above 'these'. (QUOTED: Ovidii Metam.)
+  - “liquidam et gravitate carentem, Aethera, non quicquam terrenae faecis habentum” `III.2 ¶37`
+- **Etheral Quintessence** (also: ethereal) — What Plato alludes to as the One Whole, perfect and free from age and disease, and what Aristotle's perfect world means; the ethereal which art segregates from mortal existence. (ATWOOD)
+  - = One Whole from wholes (Plato): “Plato yet more plainly alluding to the Etheral Quintessence, in Timaeus, says, that of four elements the Demiurgus assumed One Whole from wholes” `III.2 ¶38`
+  - “what other, therefore, should they either mean but the ethereal” `III.2 ¶38`
+- **intelligible / sensible** (also: Intelligibles) — Empedocles' twofold natural procedure: the sensible derived as image from the intelligible as exemplar. (ATWOOD)
+  - “deriving the latter as an image from the former as an exemplar” `III.2 ¶38`
+- **qualitative virtues** — The elements as they subsist at their source, which multiply into distributive powers whose remote subjects are the sensible elements. (ATWOOD)
+  - “making elements there to subsist as qualitative virtues, which, multiplying into being, become distributive powers” `III.2 ¶38`
+- **syllogism** — In a special sense: the true object of philosophy, implicating every science, sought through the categories as a channel for the birth of the Divine Intellect into manifestation. (ATWOOD)
+  - “That was the syllogism so important to be sought after, which also is according to Aristotle the true object of philosophy” `III.2 ¶42`
+- **Efficient** — The active cause present in all things, without which numbers and figures produce nothing substantive. (ATWOOD)
+  - “not the smallest grain of sand without the Efficient which is in all” `III.2 ¶43`
+- **Psychical Quintessence** — Threefold segregated essence equal to the whole dissolved compound it arises from; casts off superfluity; its discovery is symbolized by the hecatomb and the theorem. (ATWOOD)
+  - = Tincture of the Sapphiric Mine: “that miraculous Psychical Quintessence, known to the wise as the Tincture of the Sapphiric Mine” `III.2 ¶44`
+  - “being in its own threefold segregated essentiality equal to the whole dissolute compound whence it arises” `III.2 ¶44`
+- **expiation** — A required means of approaching the secrets of the highest causes, compared to Charon's fee. (ATWOOD)
+  - “neither are the secrets of the highest causes approached without a mean of expiation” `III.2 ¶44`
+- **Philosophic Field** — Where the Prototypes of the sacrificial beasts feed and fatten; not explained in this chunk. (ATWOOD)
+  - “whilst their Prototypes remain feeding and fattening in the Philosophic Field” `III.2 ¶44`
+- **One** (also: Unit, unit, unity) — The absolute unit of the philosophers, Fountain of all being, implied in every multitude and each part. (ATWOOD)
+  - = Fountain of all being: “the One of these philosophers is the Fountain of all being” `III.2 ¶45`
+  - = God (according to Xenophanes, as reported by Aristotle): “looking to the whole heaven, he says, the One is God” `III.2 ¶40`
+  - “if any one should undertake to demonstrate the philosopher’s Unit, he would unfold Being” `III.2 ¶45`
+- **Great Whole** (also: Whole) — The totality contained proportionally in every portion of existence; simple; known by contact and intuition in self-knowledge. (ATWOOD)
+  - “every portion of existence to be continent and comprehended proportionally of the Great Whole” `III.2 ¶45`
+  - “it is simple, and not so much therefore an object of reason as of contact and intuition” `III.2 ¶46`
+- **self-knowledge** — Where the Greeks arrived at an experimental conception of the Whole's reality. (ATWOOD)
+  - “an experimental conception of its reality in the self-knowledge” `III.2 ¶46`
+- **pure Matter** (also: pure matter, pure Mater, pure and divine Matter, Matter) — Universal matter subsisting about Intelligibles, origin of all vital and corporeal existence; occult but manifestable to sense; mediates between causes and gross effects; made manifest by the Theurgic Art; connascent with the gods and a receptacle of Divinity. (ATWOOD)
+  - “a certain pure matter subsisting about Intelligibles which is universal” `III.2 ¶46`
+  - “a certain pure and divine Matter mediately subsisting between primary and secondary causes and their gross effect” `III.2 ¶49`
+- **Subject of bodies** (also: subject-matter, subject) — What persists through all change of bodies, distinct from them; receives and reflects forms; matter subsists according to it. (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - = matter: “matter according to the subject which is indefinite, because it is note form” `III.2 ¶49`
+  - “that which receives the forms and reflects them --- always remains the same” `III.2 ¶47`
+- **Corruption** (also: corruption, corruptible) — Dissolution, which belongs only to composites; especially artificial corruption manifests the underlying subject. (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - “This therefore Corruption manifests (especially the artificial), for corruption is of that which is composite” `III.2 ¶48`
+- **mystical analysis** (also: Analysis, analysis, ultimate alchemical analysis) — The only analysis by which a pot is resolved into gold and gold into an indissoluble water; conformable to hermetic doctrine in internal and external senses; its ultimate stage yields Light. (ATWOOD)
+  - “For by no other analysis either is a pot resolved into gold, or gold into a water which is indissoluble.” `III.2 n38`
+- **aurified** — Glossed as illuminated, by contrariation of its Form. (ATWOOD)
+  - = illuminated: “aurified --- that is, illuminated by contrariation of its Form” `III.2 n38`
+- **radical moisture** — Of a metal: what, under a fermentive test, passes from its own Form into a more perfect one. (ATWOOD)
+  - “The radical moisture of the metal likewise, obeying the fermentive virtue of such a test when applied” `III.2 n38`
+- **Light** — The formal essence of all things, most abundant in gold, found in the ultimate alchemical analysis. (QUOTED: Albertus Magnus (via Becher))
+  - = formal essence of all things: “Light, which is the formal essence of all things, and most abundant in gold” `III.2 n38`
+- **water** — In the analysis, the incorruptible, indissoluble end-product into which gold and metals are reduced; the first pure matter of metals. (ATWOOD)
+  - = first pure matter: “all metals, likewise, may be reduced into water, that is, into their first pure matter” `III.2 n38`
+  - “the water, being incorruptible, will require no analogous process” `III.2 ¶48`
+- **Indefinite** (also: indefinite) — Matter as the formless subject, opposed to form; not to be despised when it applies itself to things prior, i.e. the divine exemplaries and the most excellent life. (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - “This Indefinite is not therefore everywhere to be despised” `III.2 ¶49`
+- **Theurgic Art** — The art by which the pure divine Matter is made manifest and imparted through arcane and blessed visions. (QUOTED: Plotinus (summary gathered from Plotinus and Porphyry); endorsed by Atwood)
+  - “by means of the Theurgic Art it is made manifest and imparted through arcane and blessed visions” `III.2 ¶49`
+
+## Sources cited
+
+- **Ovidii**, *Metam., lib. 1:67* — “Haec super imposuit liquidam et gravitate carentem, Aethera” `III.2 ¶37, III.2 n33` — supports: verse placing the dreg-free Aether above the rest, introducing the Etheral Quintessence.
+- **Plato**, *Timaeus* — “the Demiurgus assumed One Whole from wholes, in all things perfect and free from old age and disease” `III.2 ¶38, III.2 ¶40, III.2 n38` — supports: read as alluding to the Etheral Quintessence; reported as criticized by Aristotle for explaining essence by Ideas; cited (n38) for metals reducible to water.
+- **Proclus**, *on the Theology of Plato, Book 5, p. 365* `III.2 n34` — reference only (for the Timaeus passage).
+- **Aristotle (the Stagyrite)**, *Metaphysics; Acaomatic Ethics; Organon; Meteors* — “Parmenides appears to have touched upon the One according to Reason; but Melissus, according to Matter” `III.2 ¶38, III.2 ¶40, III.2 ¶41, III.2 ¶42, III.2 n37, III.2 n38` — supports: his perfect world read as the ethereal; his abstruse diction illustrates concealment; his criticisms of predecessors qualified as aimed at letter not spirit; his logic praised in its original intent, later degraded; cited (n38) for metals reducible to water.
+- **Empedocles**, *Physics, cap.1* — “All things in union now thro’ love conspire, And now thro’ strife divulsed are borne along” `III.2 ¶38, III.2 ¶39, III.2 n35` — supports: twofold intelligible/sensible order; perpetual interchange; the One formed from the many.
+- **Anaxagoras** `III.2 ¶40` — supports: matter is the progeny of mind.
+- **the Alexandrians** `III.2 ¶40` — supports: explained the descent and efflux of matter, as if knowing the universe by analogy through their own.
+- **Alexander** `III.2 ¶40` — illustrates: recipient of Aristotle's avowal that only his pupils would understand the Acaomatic Ethics.
+- **Simplicius**, *Commentary ... in Plutarch’s Life of Aristotle* `III.2 n36` — reference only (Aristotle's letter to Alexander).
+- **Thomas Taylor**, *Dissertation; Translation of the Timaeus; Select Works of Plotinus* `III.2 ¶40, III.2 n36, III.2 n38` — supports: 'most erudite translator' who showed Aristotle's strictures misunderstood; bibliographic references.
+- **Pythagoras** `III.2 ¶40, III.2 ¶43, III.2 ¶44` — reported as criticized by Aristotle for explaining essence in number; his hecatomb for the right-angle theorem read as symbolical of discovering the Psychical Quintessence.
+- **Parmenides** `III.2 ¶40` — reported via Aristotle: touched the One according to Reason; saw more than Xenophanes and Melissus.
+- **Melissus** `III.2 ¶40` — reported via Aristotle: the One according to Matter; dismissed as rustic.
+- **Xenophanes** — “the One is God” `III.2 ¶40` — reported via Aristotle: first to introduce the doctrine; dismissed as rustic.
+- **Bacon** `III.2 ¶42` — illustrates: observed the Organon becoming worse than useless.
+- **Thales** `III.2 ¶44` — illustrates: his deed about the inscription of the circle read as symbolical, not a flat demonstration.
+- **Zeno (of Elea, not the stoic)** — “if any one should undertake to demonstrate the philosopher’s Unit, he would unfold Being” `III.2 ¶45` — supports: the absolute unit as ground of Being.
+- **the Mysteries** `III.2 ¶46` — illustrates: their mandate forbade communicating the revelation to the profane.
+- **the Alchemist / modern Alchemists** `III.2 ¶46` — supports: agree with the Greeks on a universal pure matter; contrasts: modern Alchemists mostly silent on the metaphysics of their Art.
+- **the Neoplatonists** `III.2 ¶46` — supports: spoke of Principles and the procedure of mind while avoiding the Practice; their images stimulate inward faith.
+- **Plotinus**, *Select Works (of Matter, and of the Impassivity of Incorporeal Natures; p. 38, note)* — “there should be a Nature primarily vital which is also formless, indestructible and immortal” `III.2 ¶46, III.2 ¶47, III.2 ¶48, III.2 ¶49, III.2 n38, III.2 n39` — supports: source (with Porphyry) of the summary on the Subject of bodies, analysis and pure divine Matter; n38 says he alludes to the mystical analysis.
+- **Porphyry** `III.2 ¶46` — supports: co-source of the summary on pure Matter.
+- **Iamblichus**, *on the Mysteries, chap. 23, sect. 5* — “being connascent with the gods by whom it is imparted, will doubtless be an entire and fit receptacle for the manifestation of Divinity” `III.2 ¶49, III.2 n39` — supports: pure Matter as receptacle of Divinity; power of the highest causes present in all.
+- **Albertus Magnus**, *De Minerabilis* — “Light, which is the formal essence of all things, and most abundant in gold, is found in the ultimate alchemical analysis of every existing thing” `III.2 n38` — supports: all things may be reduced to gold.
+- **Becher**, *Physica Subterranea, p. 319* `III.2 n38` — reference only (cites Albertus Magnus).
+- **Select Works**, *Select Works, p. 294* `III.2 n40` — reference only (footnote 40; no marker for it in this chunk's text).
+
+## Ambiguities
+
+- “Hence, when again emerging into light, The One is seen, ‘t is from the many formed.” `III.2 ¶39`
+  - Reading: A cosmological statement about the cycle of love and strife only.
+  - Reading: Also an allusion to the art's separation of the One from the composite.
+  - Basis: Reading 1: Empedocles' verse context (¶38–39). Reading 2: ¶38 'which art once taught them to segregate' shortly precedes.
+- “by analogy, through their own, the structure of the universe” `III.2 ¶40`
+  - Reading: Through their own structure or nature (inner constitution) they knew the universe's structure.
+  - Reading: Through their own knowledge or doctrine they described the universe.
+  - Basis: The noun after 'their own' is omitted; the parallel with 'structure' and ¶46's 'self-knowledge' favour reading 1 but do not decide it.
+- “That was the syllogism so important to be sought after” `III.2 ¶42`
+  - Reading: The syllogism is the unfolding of the birth of the Divine Intellect into manifestation (¶41), an experimental attainment.
+  - Reading: The syllogism is Aristotle's logic used in its original, grounded intention, as an aid to fixing experiment and defining.
+  - Basis: 'That' follows directly on ¶41's 'birth of the Divine Intellect into life and manifestation'; ¶41 also calls the logic 'valuable to fix experiment and assist in defining and unfolding'.
+- “the vicarious dedication of huge beasts will not avail whilst their Prototypes remain feeding and fattening in the Philosophic Field” `III.2 ¶44`
+  - Reading: The Prototypes are the gross 'old nature' or 'superfluity' of the compound in the work, which must itself be sacrificed.
+  - Reading: The Prototypes are the operator's own unpurified nature, which outward rites cannot expiate.
+  - Basis: Reading 1: same paragraph, 'cast off the superfluity, sacrificing the old nature'. Reading 2: the 'mean of expiation' needed to approach 'the secrets of the highest causes' (¶44), the Quintessence called 'Psychical' (¶44), and knowledge 'in the self-knowledge' (¶46). The chunk names neither.
+- “by a reducation of the iron spirit in the blood” `III.2 n38`
+  - Reading: 'reducation' as reduction.
+  - Reading: 'reducation' as re-education.
+  - Basis: Reading 1: n38 elsewhere uses 'reduced into water' and 'reduced to gold'. Reading 2 rests only on the irregular spelling.
+- “So far do the ancients likewise extend matter even to be gods themselves” `III.2 ¶49`
+  - Reading: Continuation of the Plotinus/Porphyry summary.
+  - Reading: Atwood's own comment between Plotinus and Iamblichus.
+  - Basis: ¶49 opens 'continues Plotinus' and later 'as Iamblichus relates'; the sentences in between have no attribution.
+- “Hence, the first illuminate the last of things, it is nevertheless present with material natures immanifestly” `III.2 ¶49`
+  - Reading: The highest (first) causes illuminate the lowest (last) things, their power being unmanifestly present in matter.
+  - Reading: A garbled sentence repeating the previous clause; meaning limited to the presence of power in material natures.
+  - Basis: Preceding sentence on the exuberance of power 'present with all in unimpaired energy'; this sentence's grammar is broken.
+
+## Translations
+
+- `III.2 ¶37` “Haec super imposuit liquidam et gravitate carentem, Aethera, non quicquam terrenae faecis habentum” → Above these he placed the liquid and weightless Aether, having nothing of earthly dregs. *(ours)*
+
+## Threads
+
+- `III.2 ¶37` 'Haec' (these) and the verse begin mid-citation; what 'these' refers to lies before this chunk.
+- `III.2 ¶38` 'Plato yet more plainly alluding to the Etheral Quintessence' compares Plato with the preceding citation (the Ovid verse and whatever precedes it).
+- `III.2 ¶46` Atwood poses questions on pure Matter (whether it is, what it is, how conceived, what its perception resembles, its relation to the reasoning power, how it comes forth out of the Causal fountain) and announces a summary from Plotinus and Porphyry; ¶47–49 begin it and it likely continues past this chunk.
+- `III.2 n40` Footnote 40 ('Select Works, p. 294') has no marker in this chunk's text; it presumably attaches to text in the following chunk.

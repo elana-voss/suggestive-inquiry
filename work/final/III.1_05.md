@@ -1,0 +1,328 @@
+# III.1_05
+
+*Atwood describes the dark middle stage of the work: the dissolution, putrefaction and mortification of the natural-born life. In it the ethereal hypostasis splits into soul, spirit and body (sulfur, mercury, salt), and a wrathful self-willed fire (Typhon, Green Lion, dragon) eclipses the Divine Light (Osiris). She argues that this impure agent is nevertheless necessary, and that the connate spirit (Isis, the Lunar Vulcan) finally subdues it and reconciles the opposites. Job's Leviathan closes the chunk without comment.*
+
+## Argument
+
+- Vaughan's italics mark latent meanings in the process. Verses from the Aquarium Sapientum follow. `III.1 ¶51` — ATWOOD
+- Spirit washes the soul by art. The three abide in one seat until the body dissolves and putrefies, and spirit and soul rejoin in the last heat. `III.1 ¶52, III.1 n57` — QUOTED: Aquarium Sapientum
+- The rule of regeneration: the sense-born spirit is dissolved, then sublimed by an artificial affinity into its prototypic form. Nature moves by rational experiment and the light of faith. `III.1 ¶53` — ATWOOD
+- The entering light meets the self-willed Identity and is arrested. Good and evil contend, 'the later' prevails for a period, and the light is eclipsed and dissolved. `III.1 ¶53` — ATWOOD
+- As Typhon scattered Osiris, the ethereal hypostasis divides into soul, spirit, body; paternal, maternal, proceeding; sulfur, mercury, salt. `III.1 ¶53` — ATWOOD
+- Sulfur (soul, golden ferment) floats on the ethereal waters, which soften the sensual dominant. The rising light keeps a fermental odor of the body so the soul is not lost. `III.1 ¶53` — ATWOOD
+- Hermes: drown the flying bird, cleanse it, so that it lives by forbearing to fly. `III.1 ¶53, III.1 n58` — QUOTED: Hermes
+- During the severation come flood, eclipse and confusion as the principles prevail by turns. They neither die nor live (Prosopopoeia of the Stone). `III.1 ¶53, III.1 ¶54, III.1 n59` — ATWOOD
+- Care is needed lest an element escape, or too strong a fire sever Spirit from body (Lully). `III.1 ¶55, III.1 n60` — ATWOOD
+- Atwood seeks only to understand the Practice. The entry into dissolution is 'the greatest poison': a natural fire and a fire against Nature prey on each other. `III.1 ¶56` — ATWOOD
+- The fire is left to grow until ripe for mortification. It is called Green Lion, Typhon, Firedrake, and Black Toad. The Efficient reduces Osiris (Light) to vapor, the Four Winds, which drips down the vessel. `III.1 ¶56, III.1 n61` — ATWOOD
+- Sendivogius: Sal wounds Sulfur and white milk flows. Ripley: the sun is obscured and the flood passes. `III.1 ¶56, III.1 ¶57, III.1 n62, III.1 n63` — QUOTED: Sendivogius; Ripley
+- This is the Gate of Putrefaction, caused apparently by vital heat stirred artificially in the blood. `III.1 ¶58` — ATWOOD
+- The French adept's two dragons become a Fifth Essence. Eirenaeus: the Sun sets in a bright Water. `III.1 ¶58, III.1 ¶59, III.1 n64` — QUOTED: French adept; Eirenaeus
+- As darkness lay upon the Abyss, the Infernal motive wheel eclipses the Divine Light. Original Sin appears, met only by humiliation of the Selfhood under Christ's cross. `III.1 ¶60, III.1 n65` — ATWOOD
+- The one unclean thing in the Stone is the Instrument moving the gold to putrefy (Typhon, Satan). It is evil but necessary, and once returned through the natural Alembic it constitutes the work's perfection. `III.1 ¶61` — ATWOOD
+- The Adept: without Salt none attains the Science. `III.1 ¶61, III.1 n66` — QUOTED: the Adept
+- Hermes: dissolution removes the Dragon's blackness from the threefold nature. Maria: the root-poison, resolved into subtle water, coagulates our Mercury into silver. `III.1 ¶61, III.1 n67, III.1 n68` — QUOTED: Hermes; Maria
+- Unresolved, in its natural evil state, the poison does no good. `III.1 ¶61` — ATWOOD
+- The stone passes from purgatory to a white Elixir. Gold melts to mineral water by heat and moisture 'by Crafte occasionate'. `III.1 ¶62, III.1 n69` — QUOTED: Ripley
+- 'By craft': the connate spirit's attractive grace subdues the self-willed agent to self-mortification. With Sol eclipsed, the Lunar Vulcan acts as Isis (Athena). Typhon's names Seth and Bebo (Plutarch) import the restraint Osiris suffers. Isis reconciles the opposites in equilibrium. `III.1 ¶63` — ATWOOD
+- Job's Leviathan passage follows without comment. `III.1 ¶63, III.1 n70, III.1 n71` — QUOTED: Job
+
+## Method
+
+- **stage** — “Until the noble body is dissolved, and putrefy and separate from them;” `III.1 ¶52` (QUOTED: Aquarium Sapientum)
+  - **Plain (interpreted):** The verse sets out a sequence. Spirit is joined to the body and washes the soul. Spirit, soul and body abide together until the body is dissolved and putrefies. Then spirit and soul come together again in the last heat, and the work is perfected.
+  - Basis: III.1 ¶52 gives the order. In III.1 ¶53 Atwood calls it 'the constant doctrine and rule of the regeneration of light out of darkness'. The reading only sets out the verse's own sequence.
+  - Also: “Then after some time the spirit and soul come together In the extreme or last heat” `III.1 ¶52`
+- **principle** — “the regeneration of light out of darkness, of life from death” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The governing rule of the work: the spirit as born into the senses is dissolved, then raised into its original, prototypic form by an affinity that art supplies.
+  - Basis: III.1 ¶53 glosses the phrase immediately with 'the solution of the sense-born spirit and its subsequent sublimation...'.
+  - Also: “the solution of the sense-born spirit and its subsequent sublimation, by a preponderant affinity artificially endowed, into the transparent glory of its prototypic form” `III.1 ¶53`
+- **procedure** — “rational experiment and the light of faith” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** Nature is moved by reasoned experiment together with the light of faith, not by theory alone or by mechanical art. The adepts did not test nature at random.
+  - Basis: III.1 ¶53: 'nature was not proved by them at random; for neither does she move by theory only or mere mechanic art'.
+- **stage** — “the contest of good and evil commences in the soul” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The light of faith enters the natural-born life and tries to convert it, as if by a pure conscience. It meets the self-willed Identity within and is halted, and good and evil struggle in the soul. For a period, by necessity, the opposing side prevails, so the light is eclipsed and its body dissolved.
+  - Basis: III.1 ¶53 describes this sequence directly, including '(such being the necessitous decree)'. Which side 'the later' denotes is discussed under ambiguities.
+  - Also: “moving at length penetrating to meet the self-willed Identity within, is arrested” `III.1 ¶53`
+  - Also: “an eclipsation of the light takes place, and a dissolution of its body” `III.1 ¶53`
+- **stage** — “the ethereal hypostasis is divided against itself and brought to a separation even as these three” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** In the dissolution, the one ethereal life-substance splits into three principles. These are named as soul, spirit and body; as paternal, maternal and proceeding substance; and as sulfur, mercury and salt. The fable of Typhon killing Osiris and scattering his members is the image of this split. Isis hiding the members in a chest is not explained here.
+  - Basis: III.1 ¶53 joins the fable to the separation with 'just so'. How the three lists correspond item by item is discussed under ambiguities.
+  - Also: “Typhon killed Osiris, his uterine brother, and scattered his members to the four winds, and usurped his rightful throne; but Isis, recollecting, hides them in a chest” `III.1 ¶53`
+- **stage** — “is carried aloft to float upon the ethereal waters” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The oppressive self-will displaces the soul (sulfur), which rises and floats. Meanwhile the ethereal waters break down and soften the dominant sensual life, which readies it for returning reason. Driven to an extremity, it comes to feel the lack of the light it rejected.
+  - Basis: III.1 ¶53: 'The sulfur, which is the soul and golden ferment, being dislocated in its purpose by the oppressive will' and 'these continue to tear, decoct, and soften the sensual dominant and make it more fit for the returning reason'.
+  - Also: “made to feel the want of the light it had rejected” `III.1 ¶53`
+- **principle** — “a fermental odor of the body” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The rising light carries a trace of the body with it. The Art arranges this so that the soul does not leave altogether and is lost.
+  - Basis: III.1 ¶53: 'which by the divine Art also is so contrived in order that the soul may not depart altogether into the region of nonentity'.
+- **procedure** — “Take, my son, the flying bird and drown it flying” `III.1 ¶53` (QUOTED: Hermes)
+  - **Plain (interpreted):** The volatile, rising part has to be caught while it rises, then divided and cleansed of impurity. It is fixed so that it stays and answers instead of escaping.
+  - Basis: Introduced by 'Thus Hermes' right after the statement that the soul must not depart altogether (III.1 ¶53). The quotation ends 'not by flying away indeed but truly by forbearing to fly'. The chunk does not name the bird.
+  - Also: “not by flying away indeed but truly by forbearing to fly” `III.1 ¶53`
+- **sign** — “the earth is overflown with waters, the two great lights are eclipsed, the air is darkened” `III.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The signs of the severation are flood, darkness and confusion. They arise because the vital principles keep overpowering one another in turn.
+  - Basis: III.1 ¶53: 'by reason of the successive passion and prevalence of the vital principles one over another'. Ripley's verse in III.1 ¶56–57 repeats the images of an obscured sun and a passing flood.
+  - Also: “For first the sun in hys uprising obscurate” `III.1 ¶56`
+  - Also: “Ryght so on our waters, as wise men understode, Shall pass” `III.1 ¶57`
+- **sign** — “I am not dead although my spirit’s gone,” `III.1 ¶53` (QUOTED: Prosopopoeia of the Stone)
+  - **Plain (stated):** The principles are held in a balance in which they can be said neither to die nor to live. The Stone's life seems to come and go.
+  - Basis: III.1 ¶53: 'the balance is so maintained that they can neither be said properly to die or live according to that descriptive Prosopopoeia of the Stone'.
+  - Also: “Now I have life, now I have none;” `III.1 ¶54`
+  - Also: “Three souls I had, and all my own; but two Are fled; the third had almost left me too” `III.1 ¶54`
+- **impediment** — “by force of too strong a fire” `III.1 ¶55` (ATWOOD)
+  - **Plain (stated):** This is a critical point. Too much heat would cut the Spirit, still indifferent between life and death, off from the body, and the soul would then leave for her own sphere. A dissolved element escaping its proper attraction is also a danger. Constant care is required.
+  - Basis: III.1 ¶55, Atwood's statement, citing Lully ('as Lully explains').
+  - Also: “Unremitting care and attention are enjoined at this critical juncture” `III.1 ¶55`
+  - Also: “lest either of the dissolute elements should escape from its legitimate attraction” `III.1 ¶55`
+- **agent** — “Let the heavenly power or agent be such in the place of generation, or mutation, that it may alter the humidity from its earthly complexion to a fine transparent form or species” `III.1 ¶55` (QUOTED: Lully)
+  - **Plain (interpreted):** The agent at work in the place of change must be measured so that it transforms the moisture from an earthly state into a transparent one without driving it off.
+  - Basis: III.1 ¶55 introduces it with 'And therefore' right after the warning against too strong a fire, so it reads as a rule of measure. The chunk does not identify the 'heavenly power'.
+- **agent** — “the greatest poison” `III.1 ¶56` (ATWOOD)
+  - **Plain (stated):** What enters for the dissolution sets loose the contrary will of the dissolving life. Two fires meet, one natural and one against Nature. Being of equal origin, they burn more fiercely than ordinary fire and feed on each other without being consumed.
+  - Basis: III.1 ¶56. What 'it' refers to is discussed under ambiguities.
+  - Also: “the one being natural and the other a fire against Nature” `III.1 ¶56`
+  - Also: “being of equal origin, they prey upon each other incombustibly” `III.1 ¶56`
+- **procedure** — “this fire is suffered to grow profusely” `III.1 ¶56` (ATWOOD)
+  - **Plain (stated):** The fiery agent is deliberately allowed to grow and show itself fully, and it is mortified only when the time is ripe. The image is the fable of the Egyptian monarch's hair growing in Ethiopia. The chunk does not name the monarch.
+  - Basis: III.1 ¶56: 'shooting forth all his Satanic radiance in personality and act, until the time for his mortification is ripe and ready at hand'.
+  - Also: “his hair was suffered to grow whilst yet he tarried in Ethiopia” `III.1 ¶56`
+- **agent** — “Adepts call him the Green Lion, Typhon, Firedrake; or during the mortification, he is their venomous Black Toad” `III.1 ¶56` (ATWOOD)
+  - **Plain (stated):** These are the adepts' names for the newly roused, wrathful fire, the Efficient of the dissolution. During mortification it is called the Black Toad.
+  - Basis: III.1 ¶56: 'him' is the fire just described, and the next clause reads 'for the newly roused Efficient is exceeding wrathful'.
+  - Also: “the newly roused Efficient is exceeding wrathful” `III.1 ¶56`
+- **stage** — “the Four Winds” `III.1 ¶56` (ATWOOD)
+  - **Plain (stated):** The Efficient reduces the body of Light (Osiris) to a vapor. The vapor condenses as drops at the top of the vessel and runs down continually.
+  - Basis: III.1 ¶56: 'reducing the foreign body of Light, which is Osiris, to a mere vapor, called by the philosophers, on account of its origin, the Four Winds'.
+  - Also: “condensing together at the top of the vessel in the form of drops, runs down continually, day and night, without ceasing” `III.1 ¶56`
+- **stage** — “Sal gave Sulfur a mortal wound, out of which, instead of blood, came forth, as it were, most white milk” `III.1 ¶56` (QUOTED: Sendivogius)
+  - **Plain (interpreted):** An image of the dissolving fight between principles, which yields a white fluid instead of blood. The chunk does not explain it beyond placing it here.
+  - Basis: Introduced by 'So Sendivogius' right after the wrathful Efficient and the descending vapor (III.1 ¶56). No gloss is given.
+  - Also: “most white milk, and it became to be a great river” `III.1 ¶56`
+- **stage** — “the Gate of Putrefaction” `III.1 ¶58` (ATWOOD)
+  - **Plain (stated):** The common name for this stage. It is experienced as darkness, winding confusion and continual terror of the Spirit.
+  - Basis: III.1 ¶58: 'This is commonly called the Gate of Putrefaction, and its entrance is described as dark, with Cimmerian windings, and continual terrification of the Spirit'.
+  - Also: “the powers of the Philosophic Heaven are so wonderfully shaken and defiled” `III.1 ¶58`
+- **agent** — “the action of the vital heat stirred up artificially within the blood” `III.1 ¶58` (ATWOOD)
+  - **Plain (stated):** The dissolution appears to be caused by vital heat that art rouses inside the blood. Worked continuously, it ignites, opens a passage for itself, and tries to absorb the circulating light.
+  - Basis: III.1 ¶58: 'the cause of the dissolution appears to proceed from' it. Note Atwood's hedge 'appears'.
+  - Also: “ignites and opens for itself a passage, endeavoring forthwith to absorb the circulating light” `III.1 ¶58`
+- **stage** — “the two dragons do bite one another very cruelly” `III.1 ¶58` (QUOTED: French adept)
+  - **Plain (interpreted):** The two contending principles destroy each other until they become 'gory blood'. Fully decocted in their own venom, they become a Fifth Essence.
+  - Basis: III.1 ¶58 places the image in the period when the Philosophic Heaven is 'shaken and defiled'. It matches the two fires that 'prey upon each other' in III.1 ¶56. The chunk does not name the dragons.
+  - Also: “being decocted totally in their own venom, are turned into a Fifth Essence” `III.1 ¶58`
+- **sign** — “In which the Sun doth set and lose his light” `III.1 ¶59` (ATWOOD)
+  - **Plain (stated):** Atwood reads the verse as the eclipse of the Divine Light, which happens when the faster 'Infernal' motion overpowers it in the circulation. She compares this to the darkness upon the Abyss when the Divine Spirit moved on the waters. Saturn, Mars and the bright Water are not explained.
+  - Basis: III.1 ¶60: 'There is a profound mystery couched in these light word; for as there was darkness upon the Abyss ... so in the hyperphysical work is it seen to be, when the swifter current of the Infernal motive wheel surmounts and eclipses the Divine Light in the circulation'.
+  - Also: “To Saturn, Mars with bond of love is tied,” `III.1 ¶58`
+  - Also: “From whence doth flow a Water wondrous bright” `III.1 ¶59`
+  - Also: “the swifter current of the Infernal motive wheel surmounts and eclipses the Divine Light in the circulation” `III.1 ¶60`
+- **operator** — “voluntary sacrifice and humiliation of the Selfhood under the exemplary cross of Christ” `III.1 ¶60` (ATWOOD)
+  - **Plain (interpreted):** In this dark stage the tempter Evil and original Sin show themselves in full. They are met only by willing sacrifice and humbling of the Selfhood under Christ's cross. Whose Selfhood (the operator's or the subject's) is not stated.
+  - Basis: III.1 ¶60: 'there is the tempter Evil of the Son of Man made manifest, and in all its reality the original Sin with a more appalling possibility, to be met only by' this sacrifice. Tagged operator by inference; the text does not name who sacrifices.
+- **agent** — “the Instrument moving the gold to putrefy” `III.1 ¶61` (ATWOOD)
+  - **Plain (stated):** The one unclean thing that enters the Stone is the agent that drives the gold to putrefy, the grave of the rational light. It is evil at first but necessary. Brought through the natural Alembic and returned, it supplies the force and completeness of the finished work.
+  - Basis: III.1 ¶61: 'though impure in the beginning, and manifestly evil, it is nevertheless a necessary ingredient', and 'it constitutes the force and integral perfection of the Divine Superstructure'. Atwood endorses the Alchemists' saying and explains it 'at length' because they are obscure.
+  - Also: “it is called by them Typhon, Satan, Aquafoetida, Ignis Gehanna, Mortis Immundities, etc.” `III.1 ¶61`
+  - Also: “though impure in the beginning, and manifestly evil, it is nevertheless a necessary ingredient” `III.1 ¶61`
+- **subject** — “yet without Salt no man can attain to this Sacred Science” `III.1 ¶61` (QUOTED: the Adept)
+  - **Plain (interpreted):** Salt is indispensable even when Sulfur and Mercury are already known. Whether Salt here is the impure Instrument just discussed is not stated; see ambiguities.
+  - Basis: III.1 ¶61 places the Adept's saying directly after the necessary impure ingredient. III.1 ¶53 lists salt in third place with 'the body principle'.
+- **procedure** — “take away the cloud from the water, the blackness from the sulfur, and by dissolution thou shalt obtain a triumphant gift” `III.1 ¶61` (QUOTED: Hermes)
+  - **Plain (interpreted):** The Dragon lives in all three natures, its houses being their darkness, and while it remains they are not immortal. Removing that darkness through dissolution yields the gift by which its possessors live.
+  - Basis: The quotation itself (III.1 ¶61) says 'his houses are the darkness and blackness that is in them; and while this fume remains they are not immortal'. Atwood introduces it with 'Hermes, alluding to the same'. 'Cloud' and 'water' are not explained further.
+  - Also: “The Dragon dwells in all the threefold nature, and his houses are the darkness and blackness that is in them” `III.1 ¶61`
+- **result** — “when this poison is resolved into a subtle water, it coagulates our Mercury into most pure silver” `III.1 ¶61` (QUOTED: Maria)
+  - **Plain (stated):** The deadly poison at the root of the Science, once dissolved into a subtle water, fixes 'our Mercury' into pure silver. While it stays in its natural, evil state, nothing good comes of it.
+  - Basis: III.1 ¶61: 'the root of this Science is a deadly poison'. Atwood then adds 'whilst it remains in the natural state, in the evil of its original conception, no good can come'.
+  - Also: “no good can come until it is overtaken and resolved” `III.1 ¶61`
+- **result** — “pass fro’ the darknes of purgatory to lyght Of Paradyce, in whytenes Elixir of great might” `III.1 ¶62` (QUOTED: Ripley)
+  - **Plain (interpreted):** After its dark purgation, the stone is purged and its elements are joined without conflict, and it reaches whiteness as a powerful Elixir.
+  - Basis: This restates the verse in III.1 ¶62 ('Soshall our stone after hys farknes in purgatory Be purged, and joined in elements without stryfe'). 'Purgatory' and 'his wife' are not glossed.
+  - Also: “Rejoicing in the beauty and whytenes of his wife” `III.1 ¶62`
+- **procedure** — “Ryght so to water minerall reduced ys our gold” `III.1 ¶62` (QUOTED: Ripley)
+  - **Plain (stated):** As ice melts in sunlight, the gold is dissolved into a mineral water. This is done by heat and moisture that art brings about, with congelation of the Spirit.
+  - Basis: III.1 ¶62 verse: 'Wyth heat and moisture by Crafte occasionate Wyth congelation of the Spyrite'.
+  - Also: “Wyth heat and moisture by Crafte occasionate Wyth congelation of the Spyrite” `III.1 ¶62`
+- **agent** — “By crafte occasionate” `III.1 ¶63` (ATWOOD)
+  - **Plain (stated):** Atwood glosses 'by craft': the inborn (connate) spirit, through its attractive grace, finally subdues the self-willed agent and brings it to mortify itself, as a contrite conscience would.
+  - Basis: III.1 ¶63: 'By crafte occasionate, he says, because, it is by the attractive grace of the connate spirit that the self-willed agent is finally seen to be subdued and betrayed to self-mortification'.
+  - Also: “the attractive grace of the connate spirit” `III.1 ¶63`
+  - Also: “by a conscience moving contrite in the Law of her Light” `III.1 ¶63`
+- **agent** — “the Lunar Vulcan acts a principal part, as Isis in the Mysteries” `III.1 ¶63` (ATWOOD)
+  - **Plain (interpreted):** With the solar light eclipsed, a lunar fire takes the leading part. This appears to be the connate spirit, which has self-motion and intelligence and is therefore figured as Isis, also called Athena.
+  - Basis: In III.1 ¶63 Athena expresses 'that self-motion and intelligence with which this Spirit is endowed'. 'This Spirit' follows 'the connate spirit' in the same paragraph, and 'here, therefore' links the two clauses.
+- **impediment** — “importing a certain violent, forcible restraint, contrariety, and subversion” `III.1 ¶63` (ATWOOD)
+  - **Plain (stated):** Typhon's names in this stage, Seth and Bebo, stand for the violent restraint, opposition and overturning that the Divine Light (Osiris) suffers as it passes through the will during regeneration.
+  - Basis: III.1 ¶63: 'as Plutarch explains', followed by 'all which Osiris, i.e., the Divine Light, suffers in passing through the voluntary axle in the regeneration'.
+  - Also: “all which Osiris, i.e., the Divine Light, suffers in passing through the voluntary axle in the regeneration” `III.1 ¶63`
+- **result** — “the opposive principles are, through her artful intercession, finally reconciled, and remain together, circulating with her in equilibriate accord” `III.1 ¶63` (ATWOOD)
+  - **Plain (stated):** Under Isis's moderating action, Typhon is gradually mastered. The opposed principles end reconciled, staying together in a balanced circulation.
+  - Basis: III.1 ¶63: 'tempered by the benign offices of Isis, he, Typhon, is likewise gradually enthralled'.
+  - Also: “tempered by the benign offices of Isis, he, Typhon, is likewise gradually enthralled” `III.1 ¶63`
+
+## Terms
+
+- **Sulfur** (also: sulfur) — One of the three principles into which the ethereal hypostasis separates; it is the soul and golden ferment. In the dissolution the oppressive will dislocates it, and it floats on the ethereal waters. In Sendivogius's fable Sal mortally wounds Sulfur. (ATWOOD)
+  - = soul: “The sulfur, which is the soul and golden ferment” `III.1 ¶53`
+  - = golden ferment: “The sulfur, which is the soul and golden ferment” `III.1 ¶53`
+  - “the soul, the spirit, and the body principle; the paternal, maternal, and proceeding substance of life; sulfur, mercury, salt” `III.1 ¶53`
+  - “the blackness from the sulfur” `III.1 ¶61`
+- **Mercury** (also: mercury) — One of the three principles, listed second in the series of III.1 ¶53, in the same position as spirit and the maternal substance; whether these correspond is not stated (see ambiguities). Maria says the resolved poison coagulates 'our Mercury' into pure silver. (ATWOOD)
+  - “it coagulates our Mercury into most pure silver o all tests” `III.1 ¶61`
+- **Salt** (also: salt, Sal) — One of the three principles, listed third in the series of III.1 ¶53, in the same position as the body principle and the proceeding substance (see ambiguities). The Adept says no one attains the Science without it. In Sendivogius's fable Sal mortally wounds Sulfur. (ATWOOD)
+  - “yet without Salt no man can attain to this Sacred Science” `III.1 ¶61`
+  - “Sal gave Sulfur a mortal wound” `III.1 ¶56`
+- **ethereal hypostasis** — The one life-substance that, in the dissolution, is divided against itself into three principles. (ATWOOD)
+  - “the ethereal hypostasis is divided against itself and brought to a separation even as these three” `III.1 ¶53`
+- **ethereal waters** — The waters the displaced sulfur floats on. They tear, decoct and soften the sensual dominant. (ATWOOD)
+  - “to float upon the ethereal waters, whilst these continue to tear, decoct, and soften the sensual dominant” `III.1 ¶53`
+- **sensual dominant** — The dominant sense-life. The ethereal waters soften it so that it is fit for returning reason and understanding to work on. (ATWOOD)
+  - “make it more fit for the returning reason and understanding to work upon” `III.1 ¶53`
+- **ferment** (also: fermental) — Sulfur is called the 'golden ferment'. The rising light carries a 'fermental odor of the body' so that the soul does not depart altogether. (ATWOOD)
+  - “a fermental odor of the body” `III.1 ¶53`
+- **self-willed Identity** (also: self-willed agent, Selfhood) — The inner self-will that arrests the entering light. It must be humbled by voluntary sacrifice, and the connate spirit finally subdues it to self-mortification. (ATWOOD)
+  - “penetrating to meet the self-willed Identity within, is arrested” `III.1 ¶53`
+  - “humiliation of the Selfhood under the exemplary cross of Christ” `III.1 ¶60`
+- **dissolution** (also: solution, dissolute) — The breaking-up of the body of the light and of the natural-born life, in which the three principles separate. Its cause appears to be vital heat artificially stirred in the blood. (ATWOOD)
+  - “an eclipsation of the light takes place, and a dissolution of its body” `III.1 ¶53`
+- **severation** — The period of the principles' separation, during which a coction goes on amid flood, eclipse and confusion. (ATWOOD)
+  - “during this period of the severation, a wonderful coction is described as going on” `III.1 ¶53`
+- **coction** (also: decoct, decocted) — The cooking or digesting that goes on during the severation. The waters 'decoct' the sensual dominant, and the dragons are 'decocted' in their own venom. (ATWOOD)
+  - “a wonderful coction is described as going on” `III.1 ¶53`
+- **metaphysical Embryo** — That which undergoes the abyssal regeneration and contest in the intermediate stages, before it is born into sense perception. (ATWOOD)
+  - “the abyssal regeneration and contest of the metaphysical Embryo before it is born into the perception by the eye of sense” `III.1 ¶56`
+- **Practice** — The operative procedure, which Atwood says she is not yet setting out but only seeking to understand. (ATWOOD)
+  - “But we are not yet proposing to exhibit the Practice, but only to understand it” `III.1 ¶56`
+- **poison** (also: greatest poison, deadly poison) — The adepts describe what is entered for the dissolution as 'the greatest poison', and the root of the Science is called 'a deadly poison'. The text does not say whether these are the same thing. Resolved into a subtle water, the poison coagulates our Mercury into silver. (ATWOOD)
+  - = root of this Science: “because the root of this Science is a deadly poison” `III.1 ¶61`
+  - “adepts describe it indeed as the greatest poison” `III.1 ¶56`
+- **Typhon** — In the fable, Osiris's uterine brother, who killed and scattered him. Applied to the work, Typhon is the wrathful fire or Efficient of the dissolution, and also a name of the unclean Instrument that moves the gold to putrefy. He is called Seth and Bebo, names that import violent restraint, contrariety and subversion. Isis gradually enthrals him. (ATWOOD)
+  - = Green Lion, Firedrake: “Adepts call him the Green Lion, Typhon, Firedrake” `III.1 ¶56`
+  - = Black Toad (during the mortification): “or during the mortification, he is their venomous Black Toad” `III.1 ¶56`
+  - = the Instrument moving the gold to putrefy; Satan, Aquafoetida, Ignis Gehanna, Mortis Immundities: “it is called by them Typhon, Satan, Aquafoetida, Ignis Gehanna, Mortis Immundities, etc.” `III.1 ¶61`
+  - = Seth, Bebo: “they gave to Typhon, in this predicament, the name of Seth, Bebo” `III.1 ¶63`
+  - “importing a certain violent, forcible restraint, contrariety, and subversion” `III.1 ¶63`
+- **Efficient** — The newly roused, wrathful active agent of the dissolution. It reduces the body of Light (Osiris) to vapor. (ATWOOD)
+  - “the newly roused Efficient is exceeding wrathful” `III.1 ¶56`
+- **mortification** (also: self-mortification) — The putting to death of the fiery self-willed agent once it has grown to the full and the time is ripe. The connate spirit finally brings the agent to it as self-mortification. (ATWOOD)
+  - “until the time for his mortification is ripe and ready at hand” `III.1 ¶56`
+- **Osiris** — In the fable, the brother whom Typhon kills and scatters. Applied to the work, Osiris is the Divine Light, the 'foreign body of Light'. The Efficient reduces it to vapor, and it suffers restraint in passing through the voluntary axle. (ATWOOD)
+  - = foreign body of Light: “the foreign body of Light, which is Osiris” `III.1 ¶56`
+  - = Divine Light: “Osiris, i.e., the Divine Light” `III.1 ¶63`
+- **Four Winds** (also: four winds) — The philosophers' name, given 'on account of its origin', for the vapor into which the body of Light is reduced. It condenses at the top of the vessel and runs down continually. In the fable, Typhon scatters Osiris's members 'to the four winds'. (ATWOOD)
+  - “a mere vapor, called by the philosophers, on account of its origin, the Four Winds” `III.1 ¶56`
+- **Gate of Putrefaction** — The common name for this stage of dissolution: a dark entrance with Cimmerian windings and continual terror of the Spirit. (ATWOOD)
+  - “This is commonly called the Gate of Putrefaction” `III.1 ¶58`
+- **Philosophic Heaven** — The realm whose powers are shaken and defiled during the putrefaction. (ATWOOD)
+  - “the powers of the Philosophic Heaven are so wonderfully shaken and defiled” `III.1 ¶58`
+- **Dragon** (also: dragons) — In Hermes, a principle that dwells in all the threefold nature, with their darkness and blackness as its houses. In the French adept, two dragons that bite each other until they become a Fifth Essence. (QUOTED: Hermes)
+  - “The Dragon dwells in all the threefold nature, and his houses are the darkness and blackness that is in them” `III.1 ¶61`
+- **Fifth Essence** — What the two warring dragons become once they are decocted totally in their own venom. (QUOTED: French adept)
+  - “being decocted totally in their own venom, are turned into a Fifth Essence” `III.1 ¶58`
+- **Infernal motive wheel** — The swifter contrary current in the circulation, which surmounts and eclipses the Divine Light. (ATWOOD)
+  - “the swifter current of the Infernal motive wheel surmounts and eclipses the Divine Light in the circulation” `III.1 ¶60`
+- **Instrument** — The one unclean thing that enters the Stone, moving the gold to putrefy; it is 'the very grave of the rational light'. It is evil at first but necessary, and once returned through the natural Alembic it constitutes the work's force and perfection. (ATWOOD)
+  - = Typhon, Satan, Aquafoetida, Ignis Gehanna, Mortis Immundities: “it is called by them Typhon, Satan, Aquafoetida, Ignis Gehanna, Mortis Immundities, etc.” `III.1 ¶61`
+  - “except One thing, which is the Instrument moving the gold to putrefy” `III.1 ¶61`
+  - “it is the very grave of the rational light” `III.1 ¶61`
+- **natural Alembic** — That through which the impure Instrument is brought and returned. Because a phrase is repeated, the printed text may also say that the Instrument constitutes it (see ambiguities). (ATWOOD)
+  - “when finally brought through the natural Alembic, and returned, it constitutes the natural Alembic” `III.1 ¶61`
+- **Divine Superstructure** — The completed work, whose force and integral perfection the returned Instrument constitutes. (ATWOOD)
+  - “the force and integral perfection of the Divine Superstructure” `III.1 ¶61`
+- **Stone** (also: stone) — The object of the work. Only one unclean thing enters its composition. After its darkness in purgatory it is purged and becomes a white Elixir. (ATWOOD)
+  - “nothing of an unclean nature that enters into the composition of the Stone, except One thing” `III.1 ¶61`
+- **Elixir** — What the purged stone becomes in whiteness. (QUOTED: Ripley)
+  - “in whytenes Elixir of great might” `III.1 ¶62`
+- **connate spirit** — The inborn spirit whose attractive grace subdues the self-willed agent and brings it to self-mortification. 'This Spirit' (very probably the connate spirit) has self-motion and intelligence. (ATWOOD)
+  - “it is by the attractive grace of the connate spirit” `III.1 ¶63`
+- **Lunar Vulcan** — The agent that takes the principal part when Sol is eclipsed. It acts as Isis does in the Mysteries. (ATWOOD)
+  - = Isis (acts her part): “the Lunar Vulcan acts a principal part, as Isis in the Mysteries” `III.1 ¶63`
+  - “Sol being eclipsed, the Lunar Vulcan acts a principal part” `III.1 ¶63`
+- **Isis** — In the fable, she gathers Osiris's members and hides them in a chest. In the work, the Lunar Vulcan plays her part: she tempers Typhon and reconciles the opposed principles, which then circulate with her in equilibrium. She is also called Athena, to express this Spirit's self-motion and intelligence. (ATWOOD)
+  - = Athena: “as Isis in the Mysteries, where she is also called Athena” `III.1 ¶63`
+  - “but Isis, recollecting, hides them in a chest” `III.1 ¶53`
+  - “to express that self-motion and intelligence with which this Spirit is endowed” `III.1 ¶63`
+- **voluntary axle** — What Osiris (the Divine Light) passes through in the regeneration, suffering Typhon's restraint, contrariety and subversion. (ATWOOD)
+  - “suffers in passing through the voluntary axle in the regeneration” `III.1 ¶63`
+
+## Sources cited
+
+- **Vaughan** `III.1 ¶51` — Supports: his italics, in the passage quoted before this chunk, mark latent meanings and analogies throughout the process.
+- **Aquarium Sapientum**, *Aquarium Sapientum, in Mus. Herm., The Enigma* — “The Spirit is given to the body for a time,” `III.1 ¶51, III.1 ¶52, III.1 n57` — Illustrates and supports, in translated verses: spirit, soul and body in one seat, then dissolution, then reunion in the last heat. Atwood calls this 'the constant doctrine and rule of the regeneration'.
+- **the fable (Typhon, Osiris, Isis; the Egyptian monarch)** — “Typhon killed Osiris, his uterine brother, and scattered his members to the four winds” `III.1 ¶53, III.1 ¶56, III.1 ¶63` — Illustrates the threefold division of the ethereal hypostasis, the fire allowed to grow (the hair grown in Ethiopia), and Isis's reconciling of the opposites.
+- **Hermes**, *Tract. Aur., cap. 2* — “Take, my son, the flying bird and drown it flying” `III.1 ¶53, III.1 ¶61, III.1 n58, III.1 n67` — Supports two points: the volatile must be held and cleansed so that it does not depart, and the Dragon dwelling in the threefold nature is removed by dissolution. Atwood notes that Hermes 'does not speak of it openly'.
+- **Prosopopoeia of the Stone**, *Theatr. Chem., Tome 3, p. 764; Processus Chiica, Carmen Elegans; Vaughan’s magia Adamica* — “I am not dead although my spirit’s gone,” `III.1 ¶53, III.1 ¶54, III.1 n59` — Illustrates the balanced state in which the principles neither die nor live during the severation.
+- **Lully**, *Theoria et Practica; the Testament* — “Let the heavenly power or agent be such in the place of generation, or mutation” `III.1 ¶55, III.1 n60` — Supports the warning against too strong a fire and the right measure of the agent.
+- **Sal Lumen** `III.1 n60` — Reference only.
+- **Nuysement** `III.1 n60` — Reference only (p. 133).
+- **Ripley**, *Second Gate, of Solution; Ripley Revived; Fifth Gate, Of the Putrefaction* — “Ryght so to water minerall reduced ys our gold” `III.1 ¶56, III.1 ¶57, III.1 ¶62, III.1 n61, III.1 n63, III.1 n69` — Supports and illustrates three points: the vapor running down in the vessel (n61); the sun obscured and the waters passing like Noah's flood (n63); and the purgation to a white Elixir, with gold reduced to mineral water 'by Crafte occasionate', a phrase Atwood glosses (n69).
+- **Sendivogius**, *New Light of Alch.; Discourse of Sulfur; New Light, Discourse of the Three Principles* — “Sal gave Sulfur a mortal wound” `III.1 ¶56, III.1 ¶61, III.1 n62, III.1 n66` — Illustrates the fight of Sal and Sulfur, which yields white milk (n62). Per n66 he is also the source of 'the Adept's' saying that without Salt no man attains the Science.
+- **David** — “Abierunt in sicco flumina” `III.1 ¶57` — Cited within Ripley's verse on the waters passing away.
+- **the French adept** — “the two dragons do bite one another very cruelly” `III.1 ¶58` — Illustrates the two principles destroying each other and turning into a Fifth Essence.
+- **Eirenaeus**, *Marrow of Alchemy, Book 3, v. 35* — “To Saturn, Mars with bond of love is tied,” `III.1 ¶58, III.1 ¶59, III.1 n64` — Illustrates. Atwood finds 'a profound mystery' in it: the eclipse of the Divine Light in the circulation.
+- **darkness upon the Abyss (unattributed in the text)** — “as there was darkness upon the Abyss when the Divine Spirit moved upon the Water’s face” `III.1 ¶60` — Analogy for the eclipse of the Divine Light in the hyperphysical work.
+- **Isaiah**, *Isaiah, Chap. 8, verse 8* — “He shall overflow the channels, and go over all the banks” `III.1 ¶60, III.1 n65` — Illustrates the overflowing of the dark power in this stage.
+- **book of Jehior**, *the book of Jehior of the Fire and its Mystery, chap. 11* `III.1 n65` — Reference only.
+- **the Alchemists** — “nothing of an unclean nature that enters into the composition of the Stone, except One thing” `III.1 ¶61` — Supports. Atwood endorses the saying and explains at length that the unclean Instrument is necessary, because the philosophers are obscure about it.
+- **Maria**, *Practica, circa finem* — “when this poison is resolved into a subtle water, it coagulates our Mercury into most pure silver” `III.1 ¶61, III.1 n68` — Supports: the deadly poison, once resolved, is productive.
+- **Albert, Raymond and Arnolde** `III.1 ¶62` — Named in Ripley's verse as writing plainly of gold reduced to mineral water.
+- **Plutarch** `III.1 ¶63` — Supports: explains that Typhon's names Seth and Bebo import violent restraint, contrariety and subversion.
+- **the Mysteries** `III.1 ¶63` — Isis is called Athena in the Mysteries, to express the Spirit's self-motion and intelligence.
+- **Maier**, *Atalanta Fugiens, Emblem 11* `III.1 ¶63, III.1 n70` — Reference only. The footnote marker sits within the Leviathan passage.
+- **Job**, *Job 41* — “Canst thou draw out Leviathan with an hook?” `III.1 ¶63, III.1 n71` — Quoted at length after the account of Typhon's subjugation, with no commentary.
+
+## Ambiguities
+
+- “the soul, the spirit, and the body principle; the paternal, maternal, and proceeding substance of life; sulfur, mercury, salt” `III.1 ¶53`
+  - Reading: Term-by-term correspondence: soul = paternal = sulfur; spirit = maternal = mercury; body = proceeding = salt.
+  - Reading: Three parallel names for the same triad, with no strict one-to-one mapping stated beyond sulfur = soul.
+  - Basis: The next sentence confirms sulfur = soul ('The sulfur, which is the soul and golden ferment'), which supports the positional reading. The text never states the mercury and salt correspondences, or which of the three is paternal.
+- “until the later prevailing for a period” `III.1 ¶53`
+  - Reading: 'later' = 'latter': evil, the second of 'good and evil', prevails for a time.
+  - Reading: Temporal sense: whatever prevails afterward.
+  - Basis: The words follow 'the contest of good and evil commences in the soul, each striving for the ascendant'. The eclipse of the light that follows fits the first reading.
+- “Three souls I had, and all my own; but two Are fled; the third had almost left me too” `III.1 ¶54`
+  - Reading: The three principles of III.1 ¶53, two of which seem to depart in the dissolution.
+  - Reading: A poetic expression of the in-between state, not a numbered doctrine.
+  - Basis: III.1 ¶53 lists three principles. Atwood introduces the verse only as describing a balance in which they 'can neither be said properly to die or live'.
+- “Entering it for the dissolution, adepts describe it indeed as the greatest poison” `III.1 ¶56`
+  - Reading: 'it' is the agent or fire that enters the subject for the dissolution.
+  - Reading: 'it' is the abyssal regeneration or contest of the metaphysical Embryo just mentioned.
+  - Basis: The preceding sentence ends on 'the metaphysical Embryo'. The rest of III.1 ¶56 describes something by which 'the contrary will of the whole dissolving life is loosened', i.e. an agent, and then speaks of 'this fire'.
+- “Adepts call him the Green Lion, Typhon, Firedrake” `III.1 ¶56`
+  - Reading: The fire or Efficient of III.1 ¶56 and the unclean Instrument of III.1 ¶61 are the same principle, since both are called Typhon.
+  - Reading: They are related but distinct aspects of the work.
+  - Basis: Both are called 'Typhon' (III.1 ¶56, ¶61) and both are poisons that bring on putrefaction. The text does not state the identity outright.
+- “when finally brought through the natural Alembic, and returned, it constitutes the natural Alembic, and returned, it constitutes the force and integral perfection of the Divine Superstructure” `III.1 ¶61`
+  - Reading: A textual duplication: the returned Instrument constitutes the force and perfection of the work.
+  - Reading: As printed: the Instrument also constitutes the natural Alembic itself.
+  - Basis: The repeated words 'and returned, it constitutes' suggest duplication, but as printed the text says it 'constitutes the natural Alembic'.
+- “yet without Salt no man can attain to this Sacred Science” `III.1 ¶61`
+  - Reading: Salt is the necessary impure Instrument under discussion.
+  - Reading: Salt is the body principle of III.1 ¶53, cited only to stress that all three principles are needed.
+  - Basis: The saying sits within the discussion of the necessary unclean ingredient. In III.1 ¶56 Sal mortally wounds Sulfur. III.1 ¶53 places salt in the same position as the body principle.
+- “Hermes, alluding to the same, says” `III.1 ¶61`
+  - Reading: 'the same' is Salt, from the sentence just before.
+  - Reading: 'the same' is the unclean but necessary principle or poison discussed throughout III.1 ¶61.
+  - Basis: Salt is the closest antecedent. Hermes's Dragon and Maria's poison (introduced with 'does not speak of it openly') fit the impure principle.
+- “Canst thou draw out Leviathan with an hook?” `III.1 ¶63`
+  - Reading: Leviathan figures Typhon, the self-willed agent, which force cannot master.
+  - Reading: Leviathan figures the reconciled, invincible power that results.
+  - Basis: It comes directly after Typhon's enthralment by Isis, with no gloss. The passage stresses that force fails ('the hope of him is in vain') and has fire imagery ('Out of his mouth go burning lamps'), yet it ends 'sorrow is turned into joy before him' and 'he is a king over all the children of Pride'.
+
+## Translations
+
+- `III.1 ¶56` “For first the sun in hys uprising obscurate” → For first the sun in its rising shall be obscured, *(ours)*
+- `III.1 ¶57` “Shall be, and passé the waters of Noa’s flude, On erth which were a hundred days continueate And fifty, away or all thys waters yode, Ryght so on our waters, as wise men understode, Shall pass: that thou, with David, may say” → and [it shall] pass the waters of Noah's flood, which continued on earth a hundred and fifty days before all these waters went away; just so, on our waters, as wise men understood, it shall pass, so that you may say with David *(ours)*
+- `III.1 ¶57` “Abierunt in sicco flumina” → The rivers went away on dry ground. *(ours)*
+- `III.1 ¶61` “Aquafoetida, Ignis Gehanna, Mortis Immundities” → Fetid water, fire of Gehenna, uncleannesses of death. *(ours)*
+- `III.1 ¶62` “Then lyke as sowles after paynes of purgatory Be brought into Paradyce, where ys joyful lyfe, Soshall our stone after hys farknes in purgatory Be purged, and joined in elements without stryfe Rejoicing in the beauty and whytenes of his wife, And pass fro’ the darknes of purgatory to lyght Of Paradyce, in whytenes Elixir of great might.” → Then as souls after the pains of purgatory are brought into Paradise, where there is joyful life, so shall our stone after its darkness in purgatory be purged, and joined in its elements without strife, rejoicing in the beauty and whiteness of his wife, and pass from the darkness of purgatory to the light of Paradise, in whiteness an Elixir of great might. *(ours)*
+- `III.1 ¶62` “And like as yse to water doth relent, Whereof congealed it was by violence of greate cold, When Phoebus yt smyteth hys beams influent, Ryght so to water minerall reduced ys our gold, As wryteth plainly Albert, Raymond and Arnolde Wyth heat and moisture by Crafte occasionate Wyth congelation of the Spyrite” → And as ice melts back to the water from which great cold congealed it, when Phoebus strikes it with his flowing beams, just so our gold is reduced to mineral water, as Albert, Raymond and Arnold write plainly, with heat and moisture brought about by craft, with congelation of the Spirit. *(ours)*
+
+## Threads
+
+- `III.1 ¶51` 'Thus Vaughan: the italics, copied from the original' refers back to a Vaughan passage quoted just before this chunk.
+- `III.1 ¶53` 'an eclipsation of the light takes place, and a dissolution of its body, as was before shown' points back to an earlier account of the eclipse and dissolution.
+- `III.1 ¶56` 'But we are not yet proposing to exhibit the Practice, but only to understand it' defers the Practice. 'Previous, therefore, to the birth and fruits of spiritual increase' anticipates a later treatment of the birth and its fruits; only the intermediate stages are treated here.
+- `III.1 ¶56` 'the newly roused Efficient is exceeding wrathful, as we before hinted' points back to an earlier hint about the Efficient's wrath.

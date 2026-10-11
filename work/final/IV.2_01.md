@@ -1,0 +1,314 @@
+# IV.2_01
+
+*Opening the chapter on the Philosophic or Subtle Work, Atwood says the Work has three operations (degrees through which the Spirit passes from conception to manifestation), which the Adepts concealed, and lists what the practice requires. She then gives the practice in veiled form: the Isis–Osiris fable, Aristotle's four causes, three fires and a Fourth, three vessels, Elias the artist, and a chain of quotations on dissolution, the King's revival and the refining fire, mostly left unexplained.*
+
+## Argument
+
+- Epigraph: Khunrath's enigma of first, second, third. `IV.2 ¶2` — QUOTED: Khunrath
+- As Nature has three reigns, the Work has three operations, degrees of the Spirit from conception to manifestation, hidden by the Adepts under 'the Master Key of their Dilemma'. Atwood keeps that reserve: readers must find the Art of Life 'by a theoretic conduct'. `IV.2 ¶3` — ATWOOD
+- Preliminary-practice accounts are shifting tracks in sand; steer by the Star each sees himself. Many with the preliminary work, true Matter and means of purification faltered for lack of the ultimate theory. `IV.2 ¶4` — ATWOOD
+- Eudoxus: the Art is hard to learn from books, not to operate; 'play of children', yet needing profound knowledge of Nature in the Three Kinds. Norton: one must know 'first filosophie'. `IV.2 ¶4, IV.2 ¶5` — QUOTED: Eudoxus; Norton (endorsed)
+- Requirements: find the True Matter among countless names; discern the secret Fire, sole agent disposing Nature to sacrifice her last life, and the Divine Law reanimating her; congeal the Quintessence or mercurial water into a fixed unguent. `IV.2 ¶6` — UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph')
+- The Triumph: convert the Elements, separate and reunite the Three Principles, make white and citrine Mercury, fix it and feed it its own blood into fixed Sulphur, the Stone. These principles are fixed; Atwood turns to subtler practice. `IV.2 ¶6` — QUOTED: author of The Triumph; ATWOOD
+- Fable: Typhon kills and scatters Osiris; Isis keeps his members in a chest on the Nile; he rises stronger. It conceals Intellect bringing itself into natural effect by begetting a supernatural offspring. `IV.2 ¶6, IV.2 ¶7` — ATWOOD
+- Four causes: essence, matter, source of motion, end (the Good of regeneration). In the Art the first Cause becomes efficient in the Third, passes by the Second into the Fourth: Thought, Will, Understanding, knowing itself its First Cause's Final Object. `IV.2 ¶7, IV.2 ¶8, IV.2 n1` — ATWOOD (applying Aristotle)
+- A Latin verse grades four principles against the senses. `IV.2 ¶9, IV.2 ¶10` — QUOTED: unattributed Latin verse
+- The Adept: natural, unnatural, supernatural Fires lit quickly lest one quench another; an aerial-fiery Fourth completes the work. Three vessels, each less opaque; the third holds the one to be born, triply covered like an embryo, as Horus after Typhon's defeat. Latin on Jehovah's triune essence. `IV.2 ¶11, IV.2 n2, IV.2 n3` — QUOTED: the Adept; UNCLEAR (vessels); ATWOOD
+- The Fourth in the Furnace is conceivable only 'from what is written'. Malachi promises Elijah; the Adepts say Elias the artist is born: forerunner baptizing with water, prior to the Divine Light. `IV.2 ¶12, IV.2 n4, IV.2 n5` — ATWOOD; QUOTED: the Adepts
+- Norton: seeking 'whom' is vain till the white medicine is made; both medicines share vessel and working till all quick things are dead. Hermes: fire and Azoth suffice. `IV.2 ¶13, IV.2 n6` — QUOTED: Norton; Hermes
+- Only Mind, a Master mason, by reflective energy embodies the ethereal Image in Light. `IV.2 ¶14` — ATWOOD
+- The Master: Water dissolving the composition is the Key of the Restoration; fire on the Foliated Sulphur admits the Final Cause, extracting mortal matter; the dead Son-King lives, tinctured, bearing the Philosophic Matter. `IV.2 ¶14, IV.2 n7` — QUOTED: the Master (Tractatus Aureus)
+- Uncommented: Enoch's metal mountains melt before the Elect One; Malachi's messenger is a Refiner's Fire. `IV.2 ¶14, IV.2 n8, IV.2 n9` — QUOTED: Book of Enoch; Malachi
+
+## Method
+
+- **stage** — “these three operations, which are in fact so many degrees through which the Spirit passes from conception to manifestation” `IV.2 ¶3` (ATWOOD)
+  - **Plain (stated):** The Work has three successive operations, linked as causes, which are degrees of the Spirit's passage from conception to manifestation, parallel to Nature's three kingdoms.
+  - Basis: IV.2 ¶3 states it directly.
+  - Also: “a threefold order of legitimate operation and a relation of Causal sequences” `IV.2 ¶3`
+- **impediment** — “reserved strictly under the Master Key of their Dilemma” `IV.2 ¶3` (ATWOOD)
+  - **Plain (stated):** The Adepts deliberately confused the three operations in their writings so the profane could not find them; Atwood keeps the same reserve.
+  - Basis: IV.2 ¶3: 'perplexed by the Adepts in their records' so that the mysteries 'might not be discovered to the profane'.
+  - Also: “The willful confusion of the Hermetic doctrine has doubtless checked many aspirants” `IV.2 ¶4`
+- **procedure** — “to discover, by a theoretic conduct, the ultimate Art of Life” `IV.2 ¶3` (ATWOOD)
+  - **Plain (interpreted):** Because Atwood withholds the final step, the reader must reach it by working out the theory.
+  - Basis: IV.2 ¶3: she declines to 'expose before all indiscriminately the Art'; IV.2 ¶4 names lack of 'the ultimate theory' as the cause of failure.
+- **operator** — “the right road, which the Star alone points out for all and each one by his proper sight beholding it” `IV.2 ¶4` (ATWOOD)
+  - **Plain (interpreted):** Steer by a guide each practitioner must see for himself, not by the conflicting accounts of earlier practitioners. This chunk does not say what the Star is.
+  - Basis: IV.2 ¶4 contrasts 'polar star-light' with 'footsteps' and the 'confusion of the tracks' left by 'many wayfarers'.
+  - Also: “we ought to conduct ourselves rather by the polar star-light than by any footsteps which are seen implanted there” `IV.2 ¶4`
+- **impediment** — “are said to have faltered in defect of the ultimate theory whereon to proceed” `IV.2 ¶4` (ATWOOD)
+  - **Plain (stated):** Some had the preliminary work, the true Matter and the means of purification, and still failed for lack of the theory of the final stage.
+  - Basis: IV.2 ¶4.
+- **principle** — “a recreation and play of children” `IV.2 ¶4` (QUOTED: Eudoxus)
+  - **Plain (stated):** The operation itself is called child's play; the difficulty lies in learning it clearly from the philosophers' books.
+  - Basis: IV.2 ¶4: 'not in regard to its operation, but in respect of the difficulties which are in it, to learn it distinctly fro the books of the philosophers'.
+- **operator** — “a profound knowledge of the principles and of the operations of Nature in the Three Kinds” `IV.2 ¶4` (QUOTED: Eudoxus; Norton (endorsed))
+  - **Plain (stated):** The operator must understand Nature's principles and workings in all three kingdoms.
+  - Basis: IV.2 ¶4 (Eudoxus); Norton concurs in IV.2 ¶5.
+  - Also: “Greate neede hath he to be a clerke” `IV.2 ¶5`
+  - Also: “He must know hys first filosophie,” `IV.2 ¶5`
+- **subject** — “the True Matter and proper Subject of this work” `IV.2 ¶6` (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - **Plain (stated):** Finding the material of the Work is the first great point; it hides under countless names and must be recognized by its proper idea and its properties. This chunk does not name it.
+  - Basis: IV.2 ¶6: 'a million of pseudonyms and abstruse appellations'.
+- **agent** — “the secret Fire of the Wise, which is the only agent granted by Art to purify and dispose Nature to a sacrifice of her last life” `IV.2 ¶6` (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - **Plain (stated):** One secret Fire is the only agent the Art uses; it purifies Nature and readies her to give up her present life. What the Fire is in itself is not explained here.
+  - Basis: IV.2 ¶6 defines its function.
+- **principle** — “the Divine Law that succeeds to animate her by a revolutionary course” `IV.2 ¶6` (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - **Plain (interpreted):** After that sacrifice, a law brings Nature back to life by a cyclical course or turning-over.
+  - Basis: IV.2 ¶6: 'succeeds' follows 'sacrifice of her last life'; the same paragraph speaks of 'the entire revolution of its body'.
+- **procedure** — “convert and congeal the new-born Quintessence or mercurial water into an incombustible fixed unguent” `IV.2 ¶6` (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - **Plain (stated):** Turn the newly produced fluid Quintessence (also called mercurial water) into a stable substance fire cannot destroy, and by turning its body over completely wake the hidden Light.
+  - Basis: IV.2 ¶6 gives the identity 'Quintessence or mercurial water' and the step.
+  - Also: “by the entire revolution of its body, to awaken the occult Light to Life” `IV.2 ¶6`
+- **procedure** — “you must make the conversion of the Elements, the separation and the reunion of the Three Principles” `IV.2 ¶6` (QUOTED: author of The Triumph (endorsed))
+  - **Plain (stated):** Transform the Elements, then separate the Three Principles and recombine them. This chunk does not name the Three Principles.
+  - Basis: IV.2 ¶6; Atwood endorses these as 'the fixed principles of the hermetic Art'.
+- **stage** — “a white Mercury and a citrine Mercury” `IV.2 ¶6` (QUOTED: author of The Triumph)
+  - **Plain (stated):** A white Mercury and a citrine Mercury are to be made from the Principles. Not explained further here.
+  - Basis: IV.2 ¶6.
+- **result** — “fix this Mercury and nourish it with its own blood, to the end that it may be converted into the fixed Sulphur, which is the Stone of Philosophers” `IV.2 ¶6` (QUOTED: author of The Triumph)
+  - **Plain (stated):** The Mercury is fixed and fed from its own substance until it becomes fixed Sulphur; the text identifies fixed Sulphur as the Philosophers' Stone.
+  - Basis: IV.2 ¶6 gives the identity. 'Its own blood' is not glossed.
+- **principle** — “the methodical art of the same subtle Antecedent to bring itself, by begetting a supernatural offspring, into natural effect” `IV.2 ¶7` (ATWOOD)
+  - **Plain (stated):** Atwood reads the Isis–Osiris fable (killing, scattering, preservation, resurrection stronger than before) as containing Intellect's originating action and its method of making itself effective in nature by producing a supernatural offspring. She does not map the episodes to stages (see ambiguities).
+  - Basis: IV.2 ¶7: 'in this fable ... is profoundly couched' this meaning.
+  - Also: “profoundly couched not only the principiating action of Intellect” `IV.2 ¶7`
+  - Also: “cut his body into pieces and scattered his members to the four winds” `IV.2 ¶6`
+  - Also: “preserved them in a chest which floated on the Nilotic waters in safety until the period arrived for a restitution” `IV.2 ¶6`
+  - Also: “came forth invulnerable from his ashes, and far more powerful than he was before” `IV.2 ¶6`
+- **principle** — “the speculative Motive of the first Cause is finally produced in reversionary order from the Third, in whom it becomes efficient, by the Second into the Fourth” `IV.2 ¶8` (ATWOOD)
+  - **Plain (interpreted):** In order of working: the originating essence (First cause) becomes active in the source of motion (Third), works through the matter or subject (Second), and arrives at the end, the Good (Fourth).
+  - Basis: Numbering from IV.2 ¶7: first = essence/'First Why', second = 'matter and that which subsists as a subject', third = 'whence the beginning of motion is derived', fourth = 'the Good which is the end of regeneration'.
+  - Also: “a triplicate Being of Thought, Will, and Understanding” `IV.2 ¶8`
+- **result** — “the Good which is the end of regeneration” `IV.2 ¶7` (ATWOOD)
+  - **Plain (stated):** The goal of the Work is the Good, reached when the generated Being perceives itself as the end its own First Cause aimed at.
+  - Basis: IV.2 ¶7; IV.2 ¶8.
+  - Also: “perceiving itself indeed to be the Final Object of its own First Cause, is good” `IV.2 ¶8`
+  - Also: “the end of spiritual generation” `IV.2 ¶8`
+- **stage** — “Primus dicatur in quo sensus dominatur.” `IV.2 ¶10` (QUOTED: unattributed Latin verse)
+  - **Plain (interpreted):** Four degrees ranked against the senses: one where sense rules, one matched to the senses, one that exceeds them and harms, one that destroys sense. Whether these are the fires or the principles generally is open (see ambiguities).
+  - Basis: Our translation of IV.2 ¶10. IV.2 ¶9 introduces it as 'the universal principles' and 'their several relations'; IV.2 ¶11 continues with 'the operation of the these, viz., of the natural, unnatural, and the supernatural Fires' and a Fourth.
+  - Also: “Destructor sensus nescit procedere Quarto.” `IV.2 ¶10`
+- **agent** — “the natural, unnatural, and the supernatural Fires” `IV.2 ¶11` (QUOTED: the Adept)
+  - **Plain (stated):** Three fires must be lit quickly so that none smothers another. The chunk does not say what each is.
+  - Basis: IV.2 ¶11 (the Adept, n2).
+  - Also: “lest one should put out the other, or that this should stifle that” `IV.2 ¶11`
+- **agent** — “over all which the Fourth, partaking of the aerial fiery element, supervenes for the accomplishment o the work” `IV.2 ¶11` (QUOTED: the Adept)
+  - **Plain (stated):** A fourth, airy-fiery agent comes over the three fires to complete the work.
+  - Basis: IV.2 ¶11.
+- **procedure** — “the First indeed may be considered to be opaque, the Second less so, and the Third still less so” `IV.2 ¶11` (UNCLEAR)
+  - **Plain (stated):** Three vessels, each less opaque; the third holds the one to be born, wrapped in three layers like an embryo in the womb. What the vessels physically are is not explained.
+  - Basis: IV.2 ¶11 makes the embryo comparison itself.
+  - Also: “This last containing truly Him who is to be born” `IV.2 ¶11`
+  - Also: “as the embryo in the mother is protected with a triple covering and sustained within until mature, even so is the metaphysical offspring said to be involved” `IV.2 ¶11`
+- **result** — “by the birth of Horus in the Egyptian fable, is accurately represented, when, Typhon being vanquished, the lawful empire is resumed” `IV.2 ¶11` (ATWOOD)
+  - **Plain (stated):** The metaphysical offspring born from the third vessel is pictured as Horus, born once Typhon is beaten and lawful rule restored.
+  - Basis: IV.2 ¶11.
+- **stage** — “of the form of the Fourth in that Burning Fiery Furnace, we may conceive only from what is written” `IV.2 ¶12` (ATWOOD)
+  - **Plain (interpreted):** The primary principles are familiar in their representation; the form of the Fourth in the Furnace can be conceived only from written (apparently scriptural) testimony, which she then quotes.
+  - Basis: IV.2 ¶12 contrasts 'primary principles ... in their representation familiar' with the Fourth and follows at once with Malachi. Which Fourth is meant is open (see ambiguities).
+- **sign** — “Natus est jam Elias Artista” `IV.2 ¶12` (QUOTED: the Adepts; elaboration UNCLEAR)
+  - **Plain (interpreted):** A forerunning manifestation appears to the wise before the Divine Light, linked with purifying by water, and foreshows everything. Its place in the work is not stated further.
+  - Basis: IV.2 ¶12: framed by the Malachi Elijah prophecy (n4); 'appointed a forerunner, baptizing with the water'; 'prior to the Divine Light'.
+  - Also: “this is he that was appointed a forerunner” `IV.2 ¶12`
+  - Also: “who has foreshown all things in his apparition to the wise” `IV.2 ¶12`
+  - Also: “whose birth is miraculous in the hypostatic transfiguration, and prior to the Divine Light” `IV.2 ¶12`
+- **stage** — “Whom to seeke it availeth right nought, Till the white medicine be fully wrought.” `IV.2 ¶13` (QUOTED: Norton)
+  - **Plain (interpreted):** Do not seek 'him' until the white medicine is complete.
+  - Basis: The verse follows straight after the Elias passage of IV.2 ¶12; the antecedent of 'Whom' is open (see ambiguities).
+- **procedure** — “Alsoe both medicines in their beginninge Have one manner of vessel and workinge,” `IV.2 ¶13` (QUOTED: Norton)
+  - **Plain (stated):** The White and Red medicines begin with the same vessel and method until everything living is made dead; then vessel and method change in matter, shape and degree.
+  - Basis: IV.2 ¶13.
+  - Also: “Till all quick things be made dead;” `IV.2 ¶13`
+  - Also: “When vessels and forme of operation Shall chaunge in matter, figure, and graduation.” `IV.2 ¶13`
+- **agent** — “Ignis et Azoth tibi sufficient” `IV.2 ¶13` (QUOTED: Hermes (via Norton))
+  - **Plain (interpreted):** Fire and Azoth are all that is needed. Azoth is not explained in this chunk.
+  - Basis: Translation ours. Attributed to Hermes inside Norton's verse, IV.2 ¶13.
+- **operator** — “It is the part of Mind alone to represent herself in this way by her own reflective energy, to embody the ethereal Image, and chisel it out in Light” `IV.2 ¶14` (ATWOOD)
+  - **Plain (stated):** Nature supplies the materials; the building is done by Mind alone through its own reflective power, and only a master can do it.
+  - Basis: IV.2 ¶14: 'The task is too onerous for inferior craftsmen'.
+  - Also: “it is the work only of a Master mason, of Grand Architects, as the Brethren have it, to erect structures in the air” `IV.2 ¶14`
+- **procedure** — “when by the power of the Water the composition is dissolved, it is the Key of the Restoration” `IV.2 ¶14` (QUOTED: the Master (Tractatus Aureus))
+  - **Plain (stated):** Dissolving the compound with the Water is the key to its restoration.
+  - Basis: IV.2 ¶14 (the Master, n7).
+  - Also: “O blessed watery Form! That dissolveth the Elements!” `IV.2 ¶14`
+- **procedure** — “with this watery soul to possess ourselves of a sulphurous Form, and to mingle the same with our Acetum” `IV.2 ¶14` (QUOTED: the Master (Tractatus Aureus))
+  - **Plain (stated):** Using the watery soul, take up a sulphurous form and mix it with 'our Acetum'. This chunk does not explain these terms.
+  - Basis: IV.2 ¶14; instruction only, no gloss.
+- **procedure** — “the boundary of hearts (i.e., the Final Cause) does enter in above it, and is washed in the same, and the mortal matter thereof is extracted” `IV.2 ¶14` (QUOTED: the Master; gloss UNCLEAR)
+  - **Plain (stated):** When fire is poured on the Foliated Sulphur, the Final Cause (the text's own gloss for 'boundary of hearts') enters over it and the mortal part is drawn out.
+  - Basis: IV.2 ¶14: the parenthesis glosses 'boundary of hearts'; Final Cause is developed in IV.2 ¶7–8. Who wrote the gloss is open (see ambiguities).
+  - Also: “when thou shalt pour forth thy Fire upon the Foliated Sulphur” `IV.2 ¶14`
+- **sign** — “darkness and the waters flee away. The Dragon shuns the sunbeams which dart through the crevices, our dead Son lives” `IV.2 ¶14` (QUOTED: the Master (Tractatus Aureus))
+  - **Plain (interpreted):** Signs of the change: darkness and the waters withdraw, light breaks through, what was dead revives. This chunk does not decode the Dragon.
+  - Basis: IV.2 ¶14 places these after the extraction of mortal matter and the transformation 'in his Tincture'.
+- **result** — “Our Son the King takes his Tincture from the fire and death even” `IV.2 ¶14` (QUOTED: the Master (Tractatus Aureus))
+  - **Plain (stated):** The outcome is the revived Son-King, tinctured through fire and death, united with his spouse, a warrior in the Fire; the text says this Son is the treasury and bears the Philosophic Matter.
+  - Basis: IV.2 ¶14.
+  - Also: “The King comes forth from the Fire, and rejoices with his spouse, and the occult treasury is laid open.” `IV.2 ¶14`
+  - Also: “become a warrior in the Fire, of tincture super-excellent” `IV.2 ¶14`
+  - Also: “For this Son is the treasury, bearing even (in his hand) the Philosophic Matter” `IV.2 ¶14`
+- **agent** — “For he is like a Refiner’s Fire, and like fuller’s soap” `IV.2 ¶14` (QUOTED: Malachi; Book of Enoch)
+  - **Plain (interpreted):** Scriptural images of a final refiner before whom lesser things (metals, 'antecedents') melt or are purged. Atwood sets them beside the alchemical passage without comment.
+  - Basis: IV.2 ¶14: placed directly after the Master's account; 'purge them as gold and silver'; Enoch's metal mountains become 'like a honeycomb' before the Elect One.
+  - Also: “he shall sit as a refiner and purifier of silver” `IV.2 ¶14`
+  - Also: “before whose feet all his antecedents fall away, and are consumed” `IV.2 ¶14`
+  - Also: “all these in the presence of the Elect One shall be like a honeycomb before the Fore” `IV.2 ¶14`
+
+## Terms
+
+- **Philosophic Work** — The Work treated in this chapter, with a threefold order of operation the Adepts concealed; distinct from the preliminary practice. Norton's verse calls it 'this Subtill Werke'. (ATWOOD)
+  - = Subtle Work: “Of the Philosophic or Subtle Work” `IV.2 ¶1`
+  - “in the Philosophic Work, preceding her, there is a threefold order of legitimate operation” `IV.2 ¶3`
+- **Master Key** — The concealment under which the Adepts kept the three operations. (ATWOOD)
+  - “reserved strictly under the Master Key of their Dilemma” `IV.2 ¶3`
+- **Art of Life** — The ultimate Art, which Atwood will not fully expose; to be discovered 'by a theoretic conduct'. (ATWOOD)
+  - “by a theoretic conduct, the ultimate Art of Life” `IV.2 ¶3`
+- **preliminary practice** (also: preliminary work) — The earlier practice, handed down inconsistently; knowing it is not enough without the ultimate theory. (ATWOOD)
+  - “many even with a perfect knowledge of the preliminary work, and having the true Matter in Hand also and means of purification” `IV.2 ¶4`
+- **Three Kinds** — The domains of Nature whose principles and operations the seeker must know. Compare the 'three reigns' of Nature in ¶3. (QUOTED: Eudoxus)
+  - “the operations of Nature in the Three Kinds” `IV.2 ¶4`
+- **first filosophie** — Foundational knowledge required of anyone hoping 'to come by Lakimie'. (QUOTED: Norton)
+  - “He must know hys first filosophie,” `IV.2 ¶5`
+- **True Matter** (also: true Matter) — The material and subject of the Work, hidden under countless names. Not named in this chunk. (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - = proper Subject of this work: “the True Matter and proper Subject of this work” `IV.2 ¶6`
+  - “It is a great point to find out the True Matter and proper Subject of this work” `IV.2 ¶6`
+- **secret Fire of the Wise** — The only agent the Art grants for purifying Nature and disposing her to sacrifice her last life. (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - “the secret Fire of the Wise, which is the only agent granted by Art to purify and dispose Nature to a sacrifice of her last life” `IV.2 ¶6`
+- **Quintessence** — Newly born and fluid; to be converted and congealed into an incombustible fixed unguent. (UNCLEAR (Atwood, or continuing a cited author: next sentence says 'adds our author of The Triumph'))
+  - = mercurial water: “the new-born Quintessence or mercurial water” `IV.2 ¶6`
+  - “convert and congeal the new-born Quintessence or mercurial water into an incombustible fixed unguent” `IV.2 ¶6`
+- **Elements** — To be converted; dissolved by the watery Form. (QUOTED: author of The Triumph; the Master)
+  - “you must make the conversion of the Elements” `IV.2 ¶6`
+  - “O blessed watery Form! That dissolveth the Elements!” `IV.2 ¶14`
+- **Three Principles** — Separated and then reunited in the work. Not named in this chunk. (QUOTED: author of The Triumph)
+  - “the separation and the reunion of the Three Principles” `IV.2 ¶6`
+- **Mercury** — Made white, then citrine; then fixed and fed with its own blood until it becomes fixed Sulphur. (QUOTED: author of The Triumph)
+  - “a white Mercury and a citrine Mercury” `IV.2 ¶6`
+  - “you must fix this Mercury and nourish it with its own blood” `IV.2 ¶6`
+- **fixed Sulphur** — What the fixed and nourished Mercury becomes; identified with the Philosophers' Stone. (QUOTED: author of The Triumph)
+  - = Stone of Philosophers: “the fixed Sulphur, which is the Stone of Philosophers” `IV.2 ¶6`
+- **Intellect** — The principle whose originating action and method of bringing itself into natural effect, by begetting a supernatural offspring, the fable conceals. (ATWOOD)
+  - = subtle Antecedent: “the principiating action of Intellect but the methodical art of the same subtle Antecedent” `IV.2 ¶7`
+- **Causes** (also: causes) — Four: essence (principle, 'First Why'); matter or subject; that whence motion begins; and that for the sake of which, the Good which is the end of regeneration. In the Art the First becomes efficient in the Third and passes by the Second into the Fourth. (ATWOOD)
+  - “That for the sake of which the inquiry subsists, and the Good which is the end of regeneration” `IV.2 ¶7`
+- **First Cause** (also: first Cause) — Essence, the subsisting as a particular thing; its 'speculative Motive' becomes efficient in the Third and passes by the Second into the Fourth. (ATWOOD)
+  - = First Why: “cause and principle form the First Why” `IV.2 ¶7`
+  - “the speculative Motive of the first Cause is finally produced in reversionary order from the Third” `IV.2 ¶8`
+- **Final Cause** — Glossed in ¶14 as 'the boundary of hearts'; it enters above the Foliated Sulphur when fire is poured on it. Compare ¶8: the generated Being perceives itself 'the Final Object of its own First Cause'. (QUOTED: the Master; gloss UNCLEAR)
+  - = boundary of hearts: “the boundary of hearts (i.e., the Final Cause)” `IV.2 ¶14`
+  - “perceiving itself indeed to be the Final Object of its own First Cause, is good” `IV.2 ¶8`
+- **Fires** — Natural, unnatural and supernatural, to be lit quickly so that none puts out another; a Fourth supervenes over them. (QUOTED: the Adept)
+  - “the natural, unnatural, and the supernatural Fires” `IV.2 ¶11`
+- **the Fourth** (also: Fourth) — In ¶11, a fourth agent 'partaking of the aerial fiery element' that completes the work over the three fires. In ¶12, 'the form of the Fourth in that Burning Fiery Furnace' is conceivable only 'from what is written'; the chunk does not say these are the same, and ¶7–8 also have a Fourth cause (see ambiguities). (QUOTED: the Adept; ATWOOD)
+  - “the Fourth, partaking of the aerial fiery element, supervenes for the accomplishment o the work” `IV.2 ¶11`
+  - “the form of the Fourth in that Burning Fiery Furnace” `IV.2 ¶12`
+- **Vessels** (also: vessel, vessels) — Three vessels of decreasing opacity; the third holds the one to be born, compared to an embryo's triple covering. In Norton, both medicines share one vessel until all quick things are dead, then vessels change. (UNCLEAR; QUOTED: Norton)
+  - “the First indeed may be considered to be opaque, the Second less so, and the Third still less so” `IV.2 ¶11`
+- **metaphysical offspring** — The one to be born in the third vessel, triply covered; represented by the birth of Horus. Compare the 'supernatural offspring' Intellect begets (¶7). (ATWOOD)
+  - “even so is the metaphysical offspring said to be involved” `IV.2 ¶11`
+- **Divine Monarchy** — Said to consist and be established 'hence', following the triune essence passage; its primary principles are those 'here announced'. (ATWOOD)
+  - “Hence the Divine Monarchy consists, and is established” `IV.2 ¶12`
+- **Elias Artista** (also: Elias, the artist) — Said by the Adepts to be born already; a forerunner baptizing with water, who foreshows all things to the wise, born miraculously and prior to the Divine Light. (QUOTED: the Adepts)
+  - “Natus est jam Elias Artista (5); Elias, the artist, is born already” `IV.2 ¶12`
+- **white medicine** (also: White) — One of two medicines, White and Red, which share one vessel and working at first. Seeking 'whom' is useless until it is fully made. (QUOTED: Norton)
+  - “Till the white medicine be fully wrought.” `IV.2 ¶13`
+- **Azoth** — With fire, said to suffice. Not explained here. (QUOTED: Hermes (via Norton))
+  - “Ignis et Azoth tibi sufficient” `IV.2 ¶13`
+- **Master mason** — The only one able 'to erect structures in the air', in context Mind working by its own reflective energy; too onerous for inferior craftsmen. (ATWOOD)
+  - = Grand Architects: “a Master mason, of Grand Architects, as the Brethren have it” `IV.2 ¶14`
+  - “it is the work only of a Master mason, of Grand Architects, as the Brethren have it, to erect structures in the air” `IV.2 ¶14`
+- **watery Form** — Dissolves the Elements; with it a sulphurous Form is to be taken up and mixed with Acetum. (QUOTED: the Master)
+  - = watery soul: “with this watery soul” `IV.2 ¶14`
+  - “O blessed watery Form! That dissolveth the Elements!” `IV.2 ¶14`
+- **Key of the Restoration** — The dissolution of the composition by the power of the Water. (QUOTED: the Master)
+  - “when by the power of the Water the composition is dissolved, it is the Key of the Restoration” `IV.2 ¶14`
+- **Acetum** — 'Our Acetum', with which the sulphurous Form is mingled. Not explained. (QUOTED: the Master)
+  - “to mingle the same with our Acetum” `IV.2 ¶14`
+- **Foliated Sulphur** — Fire is poured on it; the Final Cause enters above it and its mortal matter is extracted. (QUOTED: the Master)
+  - “when thou shalt pour forth thy Fire upon the Foliated Sulphur” `IV.2 ¶14`
+- **Tincture** (also: tincture) — What the Son-King is transformed in and takes from the fire and death; he becomes 'of tincture super-excellent'. (QUOTED: the Master)
+  - “Then is he transformed in his Tincture.” `IV.2 ¶14`
+- **Son** — Dead, then living; takes his Tincture from fire and death, comes forth from the Fire, rejoices with his spouse, becomes a warrior in the Fire, and bears the Philosophic Matter. (QUOTED: the Master)
+  - = King: “Our Son the King” `IV.2 ¶14`
+  - = treasury: “For this Son is the treasury” `IV.2 ¶14`
+  - “The Dragon shuns the sunbeams which dart through the crevices, our dead Son lives.” `IV.2 ¶14`
+- **Philosophic Matter** — Borne (in his hand) by the vivified Son. (QUOTED: the Master)
+  - “For this Son is the treasury, bearing even (in his hand) the Philosophic Matter” `IV.2 ¶14`
+
+## Sources cited
+
+- **Khunrath**, *Amph. Sap.* — “Omnia in omnibus primum, omni Tertio traditit” `IV.2 ¶2` — Chapter epigraph ('Enigma') on a first-second-third transmission; introduces the threefold order.
+- **the Adepts** — “Natus est jam Elias Artista” `IV.2 ¶3, IV.2 ¶7, IV.2 ¶12` — Concealed the three operations (¶3); witnesses with Plutarch to the fable's meaning (¶7); their saying that Elias the artist is born (¶12).
+- **Eudoxus**, *introduction to the Six Keys* — “the practice of our Art is the most difficult thing in the world, not in regard to its operation” `IV.2 ¶4` — Supports: the difficulty lies in learning the Art from books; the seeker needs profound knowledge of Nature.
+- **Norton**, *Norton's Ordinal, cap. 5* — “Greate neede hath he to be a clerke” `IV.2 ¶4, IV.2 ¶5, IV.2 ¶13, IV.2 n6` — Supports the need for learning (¶5); gives the white medicine, the shared vessel and the change of operation, and cites Hermes (¶13).
+- **our author of The Triumph**, *The Triumph* — “you must make the conversion of the Elements” `IV.2 ¶6` — Supports: lists the fixed principles (Elements, Three Principles, white and citrine Mercury, fixed Sulphur as the Stone).
+- **Egyptian Fable of Isis and Osiris** `IV.2 ¶6, IV.2 ¶7, IV.2 ¶11` — Illustrates Intellect bringing itself into natural effect by begetting a supernatural offspring; Horus's birth represents the metaphysical offspring.
+- **Plutarch** `IV.2 ¶7` — Cited, with the Adepts, as witness to the fable's meaning.
+- **Aristotle**, *metaphysics, book 1* `IV.2 ¶7, IV.2 n1` — Reference (n1) for the fourfold doctrine of causes ('ancient Metaphysics'), applied to the Art.
+- **the Stagyrite** — “is good, according to the words of the Stagyrite, and the end of spiritual generation” `IV.2 ¶8` — Supports: the self-perceiving final object is good and the end of spiritual generation; within the 'Peripathetic scheme'.
+- **unattributed Latin verse** — “Primus dicatur in quo sensus dominatur.” `IV.2 ¶10` — Illustrates the four principles and their relations, graded against the senses.
+- **the Adept**, *Maieri Symbola Aureae Mensae, p. 256* — “they should be quickly lighted” `IV.2 ¶11, IV.2 n2` — Supports: the three fires lit quickly, the Fourth supervening.
+- **Aquarium Sepientum**, *Aquarium Sepientum in Mus. Herm., p. 112* — “Triuna universalis essentia, quae Jehovah appellatur” `IV.2 ¶11, IV.2 n3` — Illustrates the triune and fivefold divine-human essence, placed after the birth of Horus.
+- **Malachi**, *Malachi 4: 5,6; Malachi 3: 1-4* — “Behold I will send you Elijah, the prophet” `IV.2 ¶12, IV.2 ¶14, IV.2 n4, IV.2 n9` — The Elijah prophecy frames Elias the artist (¶12); the Refiner's-Fire messenger closes the chunk without comment (¶14).
+- **Introit. Apertus**, *Introit. Apertus, cap. 13* `IV.2 n5` — Reference for the Elias Artista saying.
+- **Hermes** — “Ignis et Azoth tibi sufficient” `IV.2 ¶13` — Cited inside Norton's verse: fire and Azoth suffice.
+- **the Brethren** — “Master mason, of Grand Architects” `IV.2 ¶14` — Their phrase for the only builders who 'erect structures in the air'.
+- **the Master**, *Tractatus Aureus, cap. 2* — “O blessed watery Form! That dissolveth the Elements!” `IV.2 ¶14, IV.2 n7` — Supports: dissolution by Water, fire on the Foliated Sulphur, the King's Tincture and revival.
+- **Book of Enoch**, *Book of Enoch, 109* — “ye that are capable to comprehend the Elect One” `IV.2 ¶14, IV.2 n8` — Rain and dew; metal mountains melting before the Elect One. Given without comment.
+
+## Ambiguities
+
+- “in the Philosophic Work, preceding her, there is a threefold order” `IV.2 ¶3`
+  - Reading: 'her' is Nature: the Philosophic Work precedes Nature (causally or in order).
+  - Reading: 'her' refers to the kingdoms or reigns just mentioned.
+  - Basis: IV.2 ¶3: the nearest feminine antecedent is 'Nature'; the sentence compares the reigns of Nature with the Work.
+- “having the Final Purpose also in mind, which their predecessors had dug in the midway between them and the fulfillment of their destined course” `IV.2 ¶4`
+  - Reading: Some failed even with the Final Purpose in view, because of an obstacle (a pit) their predecessors had dug midway.
+  - Reading: The sentence is corrupt or incomplete and the intended claim cannot be recovered.
+  - Basis: The clause has no main verb, and 'which' could refer to the Final Purpose or to an implied obstacle.
+- “And to effect this, moreover, adds our author of The Triumph” `IV.2 ¶6`
+  - Reading: The preceding requirements (True Matter, secret Fire, Quintessence) are Atwood's own words.
+  - Reading: They are already quoted or paraphrased from the author of The Triumph (or Eudoxus), whom 'adds' continues.
+  - Basis: IV.2 ¶6: 'adds' implies a prior statement by the same author, but no quotation marks or attribution precede it; IV.2 ¶4–5 quote Eudoxus and Norton.
+- “Typhon, who in a malignant and envious spirit killed Osiris, cut his body into pieces and scattered his members to the four winds” `IV.2 ¶6`
+  - Reading: The episodes stand for stages of the work (dissolution, collection, restitution), parallel to the death and revival of the Son in ¶14.
+  - Reading: Atwood intends only the general meaning she states (Intellect's art of bringing itself into effect) and does not map the episodes.
+  - Basis: IV.2 ¶7 gives only the general meaning; ¶11 ties Horus's birth to the offspring 'when, Typhon being vanquished'; ¶14 describes the dead Son living and the King coming forth from the Fire.
+- “Primus dicatur in quo sensus dominatur.” `IV.2 ¶10`
+  - Reading: The four lines grade the four Fires (natural, unnatural, supernatural, and the Fourth).
+  - Reading: They grade the four causes or 'universal principles' in general.
+  - Basis: IV.2 ¶9 introduces the verse as 'the universal principles ... and these are their several relations' after the four causes (¶7–8); ¶11 continues 'the operation of the these, viz., of the natural, unnatural, and the supernatural Fires' and a Fourth.
+- “the form of the Fourth in that Burning Fiery Furnace” `IV.2 ¶12`
+  - Reading: The fourth, aerial-fiery agent of ¶11.
+  - Reading: The Fourth cause, the final Good of ¶7–8.
+  - Reading: A figure seen in the 'Burning Fiery Furnace' of scripture ('what is written').
+  - Basis: IV.2 ¶11 names a Fourth over the fires; ¶7–8 name a Fourth cause; ¶12 sets the Fourth 'in that Burning Fiery Furnace' and refers it to 'what is written'.
+- “Whom to seeke it availeth right nought,” `IV.2 ¶13`
+  - Reading: 'Whom' is Elias the artist, the forerunner of ¶12.
+  - Reading: 'Whom' is the Fourth in the Furnace or the one 'to be born' (¶11–12).
+  - Reading: 'Whom' refers to something in Norton's original context that Atwood does not quote.
+  - Basis: The verse directly follows the Elias passage and begins mid-thought; the chunk does not show its original antecedent.
+- “the boundary of hearts (i.e., the Final Cause)” `IV.2 ¶14`
+  - Reading: The parenthetical gloss is Atwood's insertion into the quotation.
+  - Reading: It is part of the quoted Master's text.
+  - Basis: IV.2 ¶14: the gloss sits in parentheses inside a quotation marked 'continues the Master'; its term matches Atwood's own four-cause scheme in ¶7–8.
+
+## Translations
+
+- `IV.2 ¶2` “Omnia in omnibus primum, omni Tertio traditit (ex omni primo secundo) omnia in omnibus primum secundum, ut inde omnia in omnibus, et omnia, catholice, agnosceret, cognosceret ac possideret.” → The first All-in-all handed over to every Third (out of every first [and] second) the first [and] second All-in-all, so that from there he might acknowledge, know and possess all in all, and all things, universally. [Latin appears corrupt; rendering tentative] *(ours)*
+- `IV.2 ¶5` “Greate neede hath he to be a clerke That would discerne this Subtill Werke: He must know hys first filosophie, If he trust to come by Lakimie.” → He who would discern this subtle work has great need to be a scholar: he must know his first philosophy if he hopes to attain 'Lakimie'. *(ours)*
+- `IV.2 ¶10` “Primus dicatur in quo sensus dominatur. Sensibus awquato gaudet natura Secundo. Tertius excedit, cujus tolerantia laedit. Destructor sensus nescit procedere Quarto.” → Let that be called the First in which sense rules. Nature delights in the Second, which is matched to the senses. The Third exceeds, and enduring it does harm. The destroyer of sense cannot go on to a Fourth (or: the Fourth, destroyer of sense, does not proceed). ['awquato' read as 'aequato'] *(ours)*
+- `IV.2 ¶11` “Triuna universalis essentia, quae Jehovah appellatur et ex Uno, divina essentia, dein ex Dubus, Deo et homine. Ex Tribus, personis et una Divina Essentia, quem-admonum etiam ex Quinque tribus personis, et duabus Essentiis nimirum, divinus et simul humanus est” → The triune universal essence, which is called Jehovah: from One, the divine essence; then from Two, God and man; from Three, the persons and one Divine Essence; just as also from Five, namely three persons and two Essences, he is divine and at the same time human. *(ours)*
+- `IV.2 ¶12` “Natus est jam Elias Artista” → Elias, the artist, is born already *(book)*
+- `IV.2 ¶13` “Whom to seeke it availeth right nought, Till the white medicine be fully wrought. Alsoe both medicines in their beginninge Have one manner of vessel and workinge, As well for the White as for the Red, Till all quick things be made dead; When vessels and forme of operation Shall chaunge in matter, figure, and graduation. But my herte quaketh, my hand in tremblinge, When I write of this most selcouth thinge.” → It is no use at all to seek him until the white medicine is fully made. Also both medicines at their beginning have one kind of vessel and working, for the White as for the Red, until all living things are made dead; then vessels and form of operation shall change in matter, shape and degree. But my heart quakes and my hand trembles when I write of this most strange (rare) thing. *(ours)*
+- `IV.2 ¶13` “Ignis et Azoth tibi sufficient” → Fire and Azoth suffice for you. *(ours)*
+
+## Threads
+
+- `IV.2 ¶3` 'who have hitherto presumed so far ... as to break the preliminary signets and unloose so may covertures of occult learning': refers to Atwood's own earlier disclosures in the book.
+- `IV.2 ¶4` Cites Eudoxus's 'introduction of his to the Six Keys'.
+- `IV.2 ¶6` 'which, having already discussed, we proceed to redeem our promise of a more subtle application to practice': the discovery of the fixed principles was discussed earlier, and a subtler treatment of practice was promised earlier.
+- `IV.2 ¶7` 'in this fable, already explained in part': the Isis–Osiris fable was partly explained earlier.
+- `IV.2 ¶14` 'It will be unnecessary now to remind the attentive reader of what has been before explained': an unspecified earlier explanation.

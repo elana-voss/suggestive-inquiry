@@ -1,0 +1,316 @@
+# III.1_01
+
+*Opening Part III, Atwood identifies the hidden subject of the Hermetic art, the alchemists' first matter, with a substantial life known by inward experiment: the Ether, or in man the Phantastic Spirit, figured as the Sphinx guarding the inner light. She treats mesmerism as only a first key and sets out governing principles: inward rather than inductive method, theory before practice, the operator healed first, fermentation and 'grafting' of the Vital Spirit, and the Paracelsian purging of the 'fire of life' (Antimony) bound in man.*
+
+## Argument
+
+- Motto: imitate Nature in art; tentatively, outer fire only excites, an inner ethereal agent perfects. `III.1 ¶1` — QUOTED: Tractatus Aureus --- Scholium
+- Greek philosophy substantializes life: mind apart from its organs is not abstract, as in modern metaphysics, but 'absolute substratal matter'. `III.1 ¶2` — ATWOOD
+- Alchemists give their first matter what the Greeks gave the ethereal hypostasis. A few claim to have seen occult nature's whole procedure in developing their own inner being. Common sense rejects this, yet all Hermetic philosophy depends on it, so this Initial Principle must be examined. `III.1 ¶3` — ATWOOD
+- After the natural Spirit's imperfection and the Mysteries' vital alteration, she examines the Method of the Vital Experiment, principles before practice: true Chemistry's Light let Oedipus vanquish the 'Metaphysical Monster'. `III.1 ¶4` — ATWOOD
+- The Sphinx stood in the vestibule of Isis (Minerva, Wisdom). The natural intelligent Spirit is to man what Ether is to the universe. The Phantastic Spirit is the vestibule of Reason, temple of Illumination from the Divinity within; Ether, vestibule of the world-soul, is 'the Sphinx of the Universe'. `III.1 ¶5` — ATWOOD
+- She is passively what the inner light is impassively; her animal-human form marks instinct's summit and reason's basis; her 'winds' image imagination's elevating power. Alchemy targets this Door-keeper's source. `III.1 ¶6, III.1 n1` — ATWOOD
+- Verse: the material of the Magistry is an invisible nature, an insensible substance. `III.1 ¶7` — QUOTED: unattributed verse (adopted by Atwood)
+- They worked this material unmanifest, self to self. Mesmerists do likewise but cannot amend 'the Thing'; mesmerism is a first key, showing only life's labyrinth. `III.1 ¶8, III.1 n2` — ATWOOD
+- Had the ancients taken dreams for revelation and insensibility for the good, leaving Nature dreaming, they would be servants like us; instead the Sphinx yielded to them. `III.1 ¶8` — ATWOOD
+- Outward fact-gathering, as in Vital Magnetism, is long and doubtful; facts contradict and theories keep yielding. Spiritual causes are known only on their own ground; shell-lickers know only effects. `III.1 ¶8, III.1 n3` — ATWOOD
+- Induction having failed reason, philosophy should return to the overgrown a priori ground. Paradise, Havilah and Job 28 (Wisdom hidden from all living; for man, the fear of the Lord) illustrate. First step: 'to set the mind a-going'. `III.1 ¶8, III.1 n4, III.1 n5` — ATWOOD
+- As the Mysteries were scientific, theory precedes practice: the Spirit must conceive pure effects before yielding them (Vaughan). The sequel will explain why, and why healing miracles are absent. `III.1 ¶9, III.1 n6` — ATWOOD
+- A healer must first be healed. Common lives imparted give common results; the mesmeric recipient partly perceives this. `III.1 ¶9, III.1 n7` — ATWOOD
+- Moderns neither exploit the Vital Spirit's spontaneous fermentation, which changes the Passive Subject, nor understand the ancients' grafting and transplanting, which sublimed the Spirit to a fifth degree in as many vessels or forms. `III.1 ¶9` — ATWOOD
+- Paracelsians: the true medicine is bound in man like milk in a nut. The fire of life, 'Antimony', is useless immured; purged like metal from ore, it flows forth as panacea. `III.1 ¶10` — QUOTED: the Paracelsians (endorsed by Atwood)
+- Crollius: physic is tried by fire; the inbred chemist frees the medicine from impure envelopes; the physician must be born of grace. `III.1 ¶10, III.1 n8` — QUOTED: Crollius (endorsed by Atwood)
+- Then one no longer asks what it is; it feels itself move with conscious virtue from its own source, an efflux of living light. `III.1 ¶10` — ATWOOD
+
+## Method
+
+- **subject** — “claiming like extreme attributes and miraculous origin for their first matter, as do the Greeks, for that ethereal hypostasis we were before discussing” `III.1 ¶3` (ATWOOD)
+  - **Plain (interpreted):** The alchemists' first matter has the same standing as the Greek ethereal hypostasis: mind or life treated as a real underlying substance of existence, not an abstraction.
+  - Basis: ¶3 opens 'In just such a foundation', referring back to ¶2, where Greek philosophy makes mind 'an absolute substratal matter also of existence'. The text draws a parallel, not a strict identity. Whether 'Initial Principle' names the first matter is open (see ambiguities).
+- **procedure** — “to have observed in the experimental development of their own internal being, the whole procedure of the occult nature into evidence” `III.1 ¶3` (QUOTED: "A few" alchemists (Atwood grants the means are unknown to outsiders but treats the claim as the foundation of Hermetic philosophy))
+  - **Plain (stated):** The experiment is carried out on, and observed within, the practitioner's own inner being, where hidden nature and her universal agent become evident by the Light of Wisdom.
+  - Basis: ¶3 states the claim directly. ¶8 ('entering in upon the proper ground of their experience') reinforces it.
+  - Also: “with her universal efficient by the Light of Wisdom thenceforth revealed” `III.1 ¶3`
+- **principle** — “the vital alteration that was deemed necessary and operated in the Mysteries upon those who were desirous of wisdom and immortality” `III.1 ¶4` (ATWOOD)
+  - **Plain (stated):** The method is a 'Vital Experiment': an alteration of the seeker's own life, continuous with what the Mysteries worked on those seeking wisdom and immortality.
+  - Basis: ¶4 links the earlier account of the Mysteries directly to 'the Method of this Vital Experiment'.
+  - Also: “Let us examine yet further into the Method of this Vital Experiment” `III.1 ¶4`
+- **operator** — “that deformed and limping Oedipus for example; so that he was able to vanquish the Metaphysical Monster” `III.1 ¶4` (ATWOOD)
+  - **Plain (interpreted):** Oedipus is an example of an ancient whom the Light of true Chemistry enabled to master the monster and reach the Temple of Truth. The ancients likewise mastered the Sphinx.
+  - Basis: ¶4 credits the victory to 'that Light and virtue of true Chemistry'. ¶8: the Sphinx yielded to the ancients. ¶4 does not name the monster (see ambiguities).
+  - Also: “the Sphinx had never owned her mastery or yielded to theirs her wary wit” `III.1 ¶8`
+- **principle** — “for what the natural intelligent Spirit is in man, that Ether is in the universe” `III.1 ¶5` (ATWOOD)
+  - **Plain (stated):** Man's natural intelligent spirit and the universal Ether correspond. Each is an outer vehicle or vestibule around a hidden inner light: Reason and the Divinity within in man, the world-soul in the universe.
+  - Basis: ¶5 states the analogy and develops it in parallel: vestibule of Reason / vestibule of the world-soul.
+  - Also: “the commonly diffused Ether is as a vestibule or vehicle in respect of the universal soul of the world” `III.1 ¶5`
+- **subject** — “In our vestibule, therefore, the Phantastic Spirit, which is the natural vehicle of our life, is situated” `III.1 ¶5` (ATWOOD)
+  - **Plain (interpreted):** In man the subject is the phantastic spirit: the imaginative, outward-drawn intelligence that carries our natural life and is the antechamber to Reason.
+  - Basis: ¶5 defines it as 'the natural vehicle of our life' and calls this phantasic intelligence 'the vestibule of Reason'; that it is the subject of the work is inferred from ¶6, where Alchemy is 'directed upon the same enigmatical source' as the Sphinx.
+  - Also: “this intelligence, phantasic as it is and drawn without, may be called the vestibule of Reason” `III.1 ¶5`
+- **subject** — “so is that Ether then the Sphinx of the Universe” `III.1 ¶5` (ATWOOD)
+  - **Plain (stated):** The Sphinx stands for the Ether (and, in man, the phantastic spirit): the outer guardian of the inner light and door-keeper of the Mysteries. Alchemy works on this same source.
+  - Basis: ¶5 asserts the identity. ¶6 calls her 'the Door-keeper of the Egyptian Mysteries' and says Alchemy is directed upon the same source.
+  - Also: “Such was the Door-keeper of the Egyptian Mysteries; agreeable also do we find the art of Alchemy directed upon the same enigmatical source.” `III.1 ¶6`
+- **result** — “that Intellectual Ilumination which proceeds, when the conditions are duly offered, from the Divinity within” `III.1 ¶5` (ATWOOD)
+  - **Plain (stated):** The goal is intellectual illumination from the divinity within, which comes only when the right conditions are provided.
+  - Basis: ¶5 states it. ¶6 speaks of 'returning within and upward to a region of vivid intellection everywhere resplendent with light'.
+  - Also: “returning within and upward to a region of vivid intellection everywhere resplendent with light” `III.1 ¶6`
+- **principle** — “And she is all things passively which the internal light is impassively.” `III.1 ¶6` (ATWOOD)
+  - **Plain (interpreted):** The Ether/phantastic spirit holds receptively everything the inner light is actively and unchangeably: it is the receptive medium of the work.
+  - Basis: The passive/impassive contrast is the text's own (¶6). ¶5 calls Ether 'an outward shadow, guarding the Light within'. ¶9 names a 'Passive Subject' changed by fermentation.
+- **subject** — “she is the summit of the irrational mind relying on instinct, and the basis whereon o build the rational and transcend opinion in indivisible science” `III.1 ¶6` (ATWOOD)
+  - **Plain (stated):** This spirit is double, as the Sphinx's animal body with human face shows: the highest point of instinctive mind and the base on which rational, unified knowledge beyond opinion is built.
+  - Basis: ¶6: 'By her animal form, combined with the human face and summit, is indicated the twofold capability and diffusion of such a life'.
+- **agent** — “Her winds are images of the elevating power which the imagination possesses, by which likewise she is rendered capable of divine assimilation” `III.1 ¶6` (ATWOOD)
+  - **Plain (stated):** The imagination has a lifting power, through which the phantastic spirit can be assimilated to the divine and return inward and upward into illuminated understanding.
+  - Basis: ¶6 gives the gloss. On 'winds' see ambiguities.
+- **subject** — “Material of our Magistry a substance insensible.” `III.1 ¶7` (QUOTED: unattributed verse (adopted by Atwood))
+  - **Plain (stated):** The material of the work is invisible and imperceptible to the senses: a 'nature' that has to be searched out.
+  - Basis: ¶7 verse. ¶8 continues 'This Material, whilst yet immanifest'.
+  - Also: “A nature to search out which is invisible,” `III.1 ¶7`
+- **procedure** — “This Material, whilst yet immanifest, they worked, and worked with by itself alone; joining self to self” `III.1 ¶8` (ATWOOD)
+  - **Plain (interpreted):** The material is worked while still unmanifest, with nothing foreign added: life acts on life, nature on nature.
+  - Basis: ¶8 states the working and cites the Latin advice (our translation: 'life conceives life; nature conquers nature'). Whether this occurs within one being or between persons is open (see ambiguities).
+  - Also: “vita vitam concipit, natura naturam vincit ac superat, patefacit, gignit et renovat” `III.1 ¶8`
+- **procedure** — “This Mesmerism, in respect of our Mystery then, may be regarded as a first key which, opening into the vestibule, affords a view within the sense’s prison, but of the labyrinth of life only” `III.1 ¶8` (ATWOOD)
+  - **Plain (stated):** Mesmerism is a first, partial entry of the same kind: it opens onto the vestibule (the phantastic spirit) and shows inner life beyond the senses, but only its maze. Mesmerists lack the knowledge of how to change and improve what they reach.
+  - Basis: ¶8 states both; the vestibule is defined in ¶5.
+  - Also: “mesmerizing one another but without the important knowledge how to alter and amend the Thing” `III.1 ¶8`
+- **impediment** — “if they had mistaken dreams for revelations, instinct for intellectual vision, and insensibility for the highest good” `III.1 ¶8` (ATWOOD)
+  - **Plain (stated):** Errors to avoid in work on the inner life: taking dreams for revelation, instinct for real insight, unconsciousness for the goal, and leaving the spirit passive instead of actively probing and furthering it.
+  - Basis: ¶8 lists these as what the ancients avoided, and contrasts them with their mastery of the Sphinx.
+  - Also: “left Nature to dream on and take her rest without exerting a thought to probe or prosper her ability” `III.1 ¶8`
+- **principle** — “How then can we hope for an understanding of spiritual causes without entering in upon the proper ground of their experience?” `III.1 ¶8` (ATWOOD)
+  - **Plain (stated):** Spiritual causes can be known only by direct experience of them, not by reasoning back from outward effects.
+  - Basis: ¶8: judging 'of spiritual causes from remote effects' is likened to valuing an unseen treasure; the adept (n3) says outward study yields only 'outward effects and motions'.
+  - Also: “as long as men continue to lick the shell after their fashion, presuming to judge of hidden celestial things which are shut up in the closet of the matter” `III.1 ¶8`
+  - Also: “Is not experience the basis of true knowledge, and rational experiment the proper road to attain it?” `III.1 ¶8`
+- **principle** — “return with her instruments to work as formerly on the a priori ground” `III.1 ¶8` (ATWOOD)
+  - **Plain (interpreted):** The ancients' method works from first principles and inward experiment, in contrast to modern inductive gathering of external facts.
+  - Basis: ¶8 sets the 'a priori ground' against 'the inductive sciences' and gathering 'facts from without', and requires 'entering in upon the proper ground of their experience'.
+- **procedure** — “the first step of philosophy is to set the mind a-going” `III.1 ¶8` (QUOTED: unnamed ("he ... who said"), endorsed by Atwood)
+  - **Plain (stated):** The search for Wisdom starts by putting the mind into active motion.
+  - Basis: ¶8 quotes it with approval ('believe that he spoke well and summarily'). ¶9 continues with 'employ thy mind as well as thy hands'.
+- **principle** — “in the Hermetic art, theory ought to precede practice” `III.1 ¶9` (QUOTED: philosophers (endorsed by Atwood))
+  - **Plain (stated):** The operator must understand the right way and aim of the work before practising, and must use reason, not manual practice alone.
+  - Basis: ¶9, with 'the right way and object of investigation being well understood' and Vaughan's advice (n6).
+  - Also: “be sure to add reason to thy experience, and to employ thy mind as well as thy hands” `III.1 ¶9`
+- **procedure** — “before the Spirit can be expected to yield any rational or pure effects, she must be made to conceive them” `III.1 ¶9` (QUOTED: philosophers (endorsed by Atwood))
+  - **Plain (interpreted):** The Spirit must be made to conceive the intended effects before it can produce them. How this is done is not explained here.
+  - Basis: ¶9 places it right after 'theory ought to precede practice' and ties it to 'the right way and object of investigation being well understood'.
+- **operator** — “that he would heal others, or hope to impart any superior efficacy, should first of all heal or be healed himself” `III.1 ¶9` (ATWOOD)
+  - **Plain (stated):** The operator must first be healed and transformed before passing any higher power to others. The order 'prepare, then build' is cited but not glossed.
+  - Basis: ¶9 states it outright and backs it with scripture (n7).
+  - Also: “Physician, heal thyself” `III.1 ¶9`
+  - Also: “Prepare thy work without, and make it fit for thyself in thy field; and afterwards build thy house” `III.1 ¶9`
+- **principle** — “That much depends on the quality of life imparted, general observation teaches” `III.1 ¶9` (ATWOOD)
+  - **Plain (stated):** What passes from operator to subject is life itself, and its quality decides the result: ordinary life gives ordinary effects.
+  - Basis: ¶9 states it, after 'throw our common lives to common lives, what wonder we have only common results?'
+  - Also: “If, ten, we go out at once to throw our common lives to common lives, what wonder we have only common results?” `III.1 ¶9`
+- **sign** — “with what sure corresponding consequences the moral heaven is attended may be understood, in a degree, by the recipient in the mesmeric trance” `III.1 ¶9` (ATWOOD)
+  - **Plain (interpreted):** In mesmeric trance the recipient partly perceives that the moral state of the life imparted has corresponding effects.
+  - Basis: ¶9 places it right after 'much depends on the quality of life imparted'. 'moral heaven' is not explained.
+- **stage** — “the spontaneous fermentation which the Vital Spirit undergoes, and the change that is thereby effected in the Passive Subject” `III.1 ¶9` (ATWOOD)
+  - **Plain (stated):** The Vital Spirit ferments of its own accord, and this changes the passive subject. Modern practice neither exploits it nor pushes it 'to the uttermost'. The chunk does not describe the fermentation further.
+  - Basis: ¶9 states the process and its neglect. The chapter title names 'Fermentation of the Philosophic Subject' (¶1). On 'Passive Subject' see ambiguities.
+- **procedure** — “that exact art of grafting and transplanting which the ancients practiced, and by means of which a growth and sublimation of the Spirit was effected” `III.1 ¶9` (ATWOOD)
+  - **Plain (interpreted):** An exact ancient art by which the Spirit was grown and refined by degrees (up to a fifth) into more concentrated essence, in as many vessels or forms, apparently by passing it from one to the next. How it was done is not explained here.
+  - Basis: ¶9 states the effect and the degrees; 'passing it on' is inferred from 'grafting and transplanting'. What the vessels are is open (see ambiguities).
+  - Also: “even to a third, fourth, and fifth degree of concentrated essentiality in as many representative vessels or forms” `III.1 ¶9`
+- **subject** — “The true medicine, according to the Paracelsians, is bound in man” `III.1 ¶10` (QUOTED: the Paracelsians (endorsed by Atwood))
+  - **Plain (stated):** The medicine is not an outside substance: it is inside man, locked in like milk in a hard nut.
+  - Basis: ¶10 states it, with the nut image.
+  - Also: “shut up as it may be milk, within the hard and solid nut” `III.1 ¶10`
+- **agent** — “our fire of life (called Antimony by adepts, can effect nothing comparatively excellent whilst it is immured” `III.1 ¶10` (QUOTED: the Paracelsians (endorsed by Atwood))
+  - **Plain (stated):** Adepts' 'Antimony' means the fire of life in man. Like unlit fuel, it does nothing excellent while enclosed and must be freed or kindled.
+  - Basis: ¶10 gives the naming and the comparison with fire hidden in fuel.
+  - Also: “as fire which lies hidden in fuel, unless it be ignited, is good for nothing” `III.1 ¶10`
+- **procedure** — “by a due purgation, the pure life is separated, as metal from the dark and sordid ore” `III.1 ¶10` (QUOTED: the Paracelsians (endorsed by Atwood))
+  - **Plain (stated):** Purgation separates the pure life from its impure surroundings, like metal refined from ore; once freed it flows out as a universal remedy.
+  - Basis: ¶10: 'it will flow forth, as is declared, "a pure panacea from the god of Light"'.
+  - Also: “a pure panacea from the god of Light” `III.1 ¶10`
+- **procedure** — “the natural inbred chemist teaches to segregate every mystery into its own reservacle, and to free the medicine from those scurvy envelopes wherein naturally it is wrapped” `III.1 ¶10` (QUOTED: Crollius (endorsed by Atwood))
+  - **Plain (interpreted):** The separation is a trial by fire, guided by a 'natural inbred chemist' that sorts each hidden virtue into its receptacle and strips the medicine of impure external elements, so that 'pure crystalline matter' can be administered. What the inbred chemist is, is not stated.
+  - Basis: ¶10, from Crollius (n8): 'physic and pyrotechny ... cannot be separated'. 'natural inbred' may mean an inner agent or Nature personified (see ambiguities).
+  - Also: “physic and pyrotechny, says Crollius, cannot be separated” `III.1 ¶10`
+  - Also: “that the pure crystalline matter may be administered to our bodies” `III.1 ¶10`
+- **operator** — “a physician should be born of the light of grace and spirit of the invisible divinity” `III.1 ¶10` (QUOTED: Crollius (endorsed by Atwood))
+  - **Plain (stated):** The true healer must be inwardly reborn from divine light and spirit.
+  - Basis: ¶10, Crollius's conclusion (n8). It matches ¶9's 'Physician, heal thyself'.
+- **sign** — “For it feels itself move in conscious virtue from its own source being allied, as an efflux of that living light which can move mountains to its faith.” `III.1 ¶10` (ATWOOD)
+  - **Plain (interpreted):** Direct, self-aware certainty: the power is felt moving from its own source as an efflux of living light, and questions like 'What is it?' cease. Treating this as a sign of attainment is inferred.
+  - Basis: ¶10: 'Wherewith a man no longer asks, What is it? How can this be?' follows the physician 'born of the light of grace'; the text does not call it a sign.
+- **agent** — “Hanc massam exterio tentum calor excitat ignis; Aethereo interior sed perfecit omnia fot.” `III.1 ¶1` (QUOTED: Tractatus Aureus --- Scholium)
+  - **Plain (interpreted):** On our rendering only: outer fire's heat merely stirs the mass; an inner ethereal agent completes everything. The Latin is corrupt as printed; nothing should rest on this rendering alone.
+  - Basis: Rests solely on our translation of the ¶1 motto, which the chunk does not gloss. It fits ¶10's inner 'fire of life' versus outward impurities.
+  - Also: “Naturam in primisimitabere in arte, magister.” `III.1 ¶1`
+
+## Terms
+
+- **first matter** — The alchemists' foundational substance; they claim for it extreme attributes and a miraculous origin, as the Greeks do for the ethereal hypostasis. (ATWOOD)
+  - “claiming like extreme attributes and miraculous origin for their first matter” `III.1 ¶3`
+- **Initial Principle** — The principle on which the whole Hermetic philosophy and every tradition of occult science depend. Atwood will examine it and 'how possibly it became known in its first arcane descent and emanation'. Its antecedent is ambiguous (see ambiguities). (ATWOOD)
+  - “it will be requisite to consider this, their Initial Principle, more particularly” `III.1 ¶3`
+- **ethereal hypostasis** — The Greek counterpart of the alchemists' first matter, discussed earlier in the book. (ATWOOD)
+  - “that ethereal hypostasis we were before discussing” `III.1 ¶3`
+- **Ether** — Is in the universe what the natural intelligent Spirit is in man: the commonly diffused vestibule or vehicle of the universal soul of the world, an outward shadow guarding the Light within. (ATWOOD)
+  - = Sphinx of the Universe: “so is that Ether then the Sphinx of the Universe” `III.1 ¶5`
+  - “for what the natural intelligent Spirit is in man, that Ether is in the universe” `III.1 ¶5`
+  - “the commonly diffused Ether is as a vestibule or vehicle in respect of the universal soul of the world” `III.1 ¶5`
+- **Sphinx** — Placed by the Egyptians in the vestibule of Isis; Door-keeper of the Egyptian Mysteries. Stands for the Ether. Passively all that the inner light is impassively; animal form with human face shows a twofold life; her 'winds' image imagination's elevating power. The ancients mastered her. (ATWOOD)
+  - = Ether: “so is that Ether then the Sphinx of the Universe” `III.1 ¶5`
+  - = Door-keeper of the Egyptian Mysteries: “Such was the Door-keeper of the Egyptian Mysteries” `III.1 ¶6`
+  - “And she is all things passively which the internal light is impassively.” `III.1 ¶6`
+- **Phantastic Spirit** (also: phantasic) — The natural vehicle of our life, situated in the 'vestibule'; the intelligence that is 'phantasic ... and drawn without', the vestibule of Reason. (ATWOOD)
+  - = natural vehicle of our life: “the Phantastic Spirit, which is the natural vehicle of our life” `III.1 ¶5`
+  - = natural intelligent Spirit: “for what the natural intelligent Spirit is in man, that Ether is in the universe; and this intelligence, phantasic as it is and drawn without, may be called the vestibule of Reason” `III.1 ¶5`
+  - “the Phantastic Spirit, which is the natural vehicle of our life” `III.1 ¶5`
+- **natural intelligent Spirit** (also: natural Spirit) — In man, the counterpart of Ether in the universe; called 'phantasic' and the vestibule of Reason. Earlier chapters showed the natural Spirit's imperfection and the occultation of its Light. (ATWOOD)
+  - “for what the natural intelligent Spirit is in man, that Ether is in the universe” `III.1 ¶5`
+  - “showing the imperfection of the natural Spirit in his world, the occultation of its Light” `III.1 ¶4`
+- **vestibule** — What stands before a 'temple' in ¶5. In man, the phantasic intelligence before Reason; in the universe, the Ether before the world-soul. Mesmerism opens into it. (ATWOOD)
+  - “may be called the vestibule of Reason” `III.1 ¶5`
+  - “opening into the vestibule” `III.1 ¶8`
+- **Reason** — The 'temple' of Intellectual Illumination, entered through the phantasic vestibule. (ATWOOD)
+  - “Reason, which is, as it were, the temple of that Intellectual Ilumination” `III.1 ¶5`
+- **Intellectual Ilumination** — Illumination that proceeds from the Divinity within when the conditions are duly offered; Reason is its temple. (ATWOOD)
+  - “Intellectual Ilumination which proceeds, when the conditions are duly offered, from the Divinity within” `III.1 ¶5`
+- **universal soul of the world** — Occultly suspended in Nature and called her temple; the Ether is its vestibule or vehicle. (ATWOOD)
+  - = Nature's temple: “the universal soul of the world, which is occultly suspended in Nature, and may be called her temple” `III.1 ¶5`
+  - “the universal soul of the world, which is occultly suspended in Nature, and may be called her temple” `III.1 ¶5`
+- **Isis** — The goddess in whose vestibule the Sphinx stood; the same with Minerva and with the Wisdom under investigation. (ATWOOD)
+  - = Minerva: “the vestibule of Isis, who is the same with Minerva and that Wisdom we are investigating” `III.1 ¶5`
+  - = Wisdom: “the vestibule of Isis, who is the same with Minerva and that Wisdom we are investigating” `III.1 ¶5`
+- **Wisdom** — The object of the inquiry. By its Light occult nature's universal efficient is revealed. In the Job passage its place is hidden from all living and God understands its way; for man, the fear of the Lord is Wisdom. (ATWOOD)
+  - = Isis / Minerva: “the vestibule of Isis, who is the same with Minerva and that Wisdom we are investigating” `III.1 ¶5`
+  - = the fear of the Lord: “Behold, the fear of the Lord, that is Wisdom; and to depart from evil is understanding” `III.1 ¶8`
+  - “with her universal efficient by the Light of Wisdom thenceforth revealed” `III.1 ¶3`
+- **imagination** — Possesses an elevating power, imaged by the Sphinx's 'winds', through which the phantastic spirit becomes capable of divine assimilation. (ATWOOD)
+  - “the elevating power which the imagination possesses” `III.1 ¶6`
+- **Vital Experiment** — The ancient experimental work on life (the vital alteration of the Mysteries); this chapter examines its Method and Principles before the practice. (ATWOOD)
+  - “Let us examine yet further into the Method of this Vital Experiment” `III.1 ¶4`
+- **true Chemistry** — The genuine art, to be told apart from 'clouds of sophistry'; its Light and virtue assisted the ancients. (ATWOOD)
+  - “that Light and virtue of true Chemistry, by which the ancients were assisted” `III.1 ¶4`
+- **Mysteries** — The ancient rites, which operated a vital alteration on those desirous of wisdom and immortality; their conduct was 'uniform and entirely scientific'. (ATWOOD)
+  - “the conduct of the Mysteries was uniform and entirely scientific” `III.1 ¶9`
+- **Free masonry** — What the alchemists establish on the same substantial foundation as Greek philosophy; the chunk does not explain the term further. (ATWOOD)
+  - “In just such a foundation do the Alchemists establish their Free masonry” `III.1 ¶3`
+- **Magistry** — The work; its material is an invisible, insensible substance. (QUOTED: unattributed verse)
+  - “Material of our Magistry a substance insensible.” `III.1 ¶7`
+- **Mesmerism** (also: mesmerizing, mesmeric) — Modern practice of 'mesmerizing one another', done without knowing how to amend 'the Thing'; a first key that opens only into the vestibule and shows the labyrinth of life. (ATWOOD)
+  - “This Mesmerism, in respect of our Mystery then, may be regarded as a first key” `III.1 ¶8`
+- **Vital Magnetism** — A young discovery, not yet grown into a science, pursued by patiently gathering outward facts. (ATWOOD)
+  - “the discovery of Vital Magnetism is young, and has had no time to grow up into a science” `III.1 ¶8`
+- **the Thing** — Capitalized; what mesmerists reach but do not know how to alter and amend. Not further defined. (ATWOOD)
+  - “without the important knowledge how to alter and amend the Thing” `III.1 ¶8`
+- **a priori ground** — The ancients' philosophical method, contrasted with modern inductive science; long uncultivated, and Atwood wants philosophy to return to it. (ATWOOD)
+  - “return with her instruments to work as formerly on the a priori ground” `III.1 ¶8`
+- **Vital Spirit** — The spirit that ferments spontaneously and so changes the Passive Subject; by grafting and transplanting it could be grown and sublimed by degrees. (ATWOOD)
+  - “the spontaneous fermentation which the Vital Spirit undergoes” `III.1 ¶9`
+- **fermentation** — A spontaneous process the Vital Spirit undergoes, changing the Passive Subject; not exploited or 'pushed to the uttermost' in modern practice. Named in the chapter title. (ATWOOD)
+  - “the spontaneous fermentation which the Vital Spirit undergoes, and the change that is thereby effected in the Passive Subject” `III.1 ¶9`
+- **Passive Subject** — What the Vital Spirit's fermentation changes. Not further defined (see ambiguities). (ATWOOD)
+  - “the change that is thereby effected in the Passive Subject” `III.1 ¶9`
+- **grafting and transplanting** — The ancients' exact art for growing and subliming the Spirit to a third, fourth and fifth degree of concentrated essentiality, in as many representative vessels or forms. (ATWOOD)
+  - “that exact art of grafting and transplanting which the ancients practiced” `III.1 ¶9`
+- **sublimation** — The growth and raising of the Spirit through degrees of 'concentrated essentiality', effected by grafting and transplanting. (ATWOOD)
+  - “a growth and sublimation of the Spirit was effected, even to a third, fourth, and fifth degree of concentrated essentiality” `III.1 ¶9`
+- **true medicine** (also: medicine) — Bound in man like milk in a hard nut; must be freed from its impure envelopes to become pure crystalline matter. (QUOTED: the Paracelsians)
+  - “The true medicine, according to the Paracelsians, is bound in man” `III.1 ¶10`
+- **fire of life** — The life-fire in man; does nothing excellent while immured, as fuel does nothing unlit; after purgation the pure life flows forth as panacea. (QUOTED: the Paracelsians)
+  - = Antimony: “our fire of life (called Antimony by adepts” `III.1 ¶10`
+  - “our fire of life (called Antimony by adepts, can effect nothing comparatively excellent whilst it is immured” `III.1 ¶10`
+- **Antimony** — The adepts' name for the fire of life. (QUOTED: the Paracelsians)
+  - = fire of life: “our fire of life (called Antimony by adepts” `III.1 ¶10`
+- **purgation** — The separation of the pure life from impurity, as metal from ore. (QUOTED: the Paracelsians)
+  - “by a due purgation, the pure life is separated, as metal from the dark and sordid ore” `III.1 ¶10`
+- **panacea** — What the purged pure life flows forth as. (QUOTED: unattributed ("as is declared"))
+  - “a pure panacea from the god of Light” `III.1 ¶10`
+- **physic** — Its knowledge is to be tried by fire; according to Crollius inseparable from pyrotechny; practised by the 'physician'. (QUOTED: Crollius)
+  - “the trial of the knowledge of physic is to be made by fire” `III.1 ¶10`
+- **pyrotechny** — According to Crollius inseparable from physic, in the context of trial by fire. (QUOTED: Crollius)
+  - “physic and pyrotechny, says Crollius, cannot be separated” `III.1 ¶10`
+- **natural inbred chemist** — The agent that teaches to segregate every mystery into its own receptacle and to free the medicine from impure external elements. Not defined further (see ambiguities). (QUOTED: Crollius)
+  - “the natural inbred chemist teaches to segregate every mystery into its own reservacle” `III.1 ¶10`
+- **pure crystalline matter** — The separated, purified medicine, to be administered to our bodies. (QUOTED: Crollius)
+  - “that the pure crystalline matter may be administered to our bodies” `III.1 ¶10`
+- **adept** (also: adepts) — A master of the art; used for the author of the shell-licking and reason-to-experience sayings (n3, n6: Vaughan), and for those who call the fire of life Antimony. (ATWOOD)
+  - “Verily, says the adept” `III.1 ¶8`
+
+## Sources cited
+
+- **Tractatus Aureus**, *Tractatus Aureus --- Scholium, cap. 1* — “Naturam in primisimitabere in arte, magister.” `III.1 ¶1` — Chapter motto: imitate Nature in the art; on our tentative reading of the corrupt Latin, outer fire only excites, an inner ethereal agent perfects all.
+- **the Greeks / Greek philosophy** `III.1 ¶2, III.1 ¶3` — Supports: they substantialize mind as substratal matter of existence; their ethereal hypostasis parallels the alchemists' first matter.
+- **modern metaphysics** `III.1 ¶2` — Contrasts: treats mind as abstract or inferential only.
+- **Oedipus** `III.1 ¶4` — Illustrates: aided by the Light of true Chemistry to vanquish the Metaphysical Monster and enter the Temple of Truth.
+- **the Egyptians** `III.1 ¶5` — Illustrates: they placed the Sphinx in the vestibule of Isis, read as Ether guarding Wisdom.
+- **Taylor**, *notes to his Pausanius, vol. 3* `III.1 n1` — Reference for the Sphinx interpretation in ¶6.
+- **Laus Hermonaeus** `III.1 n1` — Reference: 'an admirable extract' concerning the Sphinx, found in Taylor's notes; cited at the end of the ¶6 Sphinx reading.
+- **unattributed verse** — “A nature to search out which is invisible,” `III.1 ¶7` — Supports: the material of the Magistry is invisible and insensible.
+- **Arnboldi**, *Rosarium* `III.1 ¶8, III.1 n2` — Reference (with the other n2 sources) for the Latin advice 'vita vitam concipit...': work the material by itself, self to self.
+- **Democritus**, *in Turba Philosophorum* `III.1 n2` — Reference for the same Latin advice.
+- **Turba Philosophorum**, *Turba Philosophorum* `III.1 n2` — Reference for the same Latin advice.
+- **De Lapide Physici Condit.**, *De Lapide Physici Condit., cap. 3* `III.1 n2` — Reference for the same Latin advice.
+- **Vaughan ("the adept")**, *Anima Magia Abscondita* — “as long as men continue to lick the shell after their fashion” `III.1 ¶8, III.1 n3` — Supports: outward study cannot know hidden things substantially, only their outward effects.
+- **Vaughan ("the adept")**, *Lumen de Lumine* — “be sure to add reason to thy experience, and to employ thy mind as well as thy hands” `III.1 ¶9, III.1 n6` — Supports: theory precedes practice. The text says 'So wrote Vaughan in 1650'.
+- **inductive sciences / modern method of experimenting** `III.1 ¶8` — Criticized: facts accumulated for ages have failed to yield the satisfaction reason requires.
+- **Genesis**, *Genesis 2: 10* — “that land of Havilah where good gold is” `III.1 ¶8, III.1 n4` — Illustrates the hidden riches of Wisdom on the a priori ground.
+- **Job**, *Job 28* — “Behold, the fear of the Lord, that is Wisdom; and to depart from evil is understanding” `III.1 ¶8, III.1 n5` — Illustrates, quoted at length: precious things hidden in the earth are brought to light, but Wisdom's place is hidden from all living and known to God; for man, it is the fear of the Lord.
+- **unnamed ("he ... who said")** — “the first step of philosophy is to set the mind a-going” `III.1 ¶8` — Supports: the search for Wisdom begins by setting the mind in motion.
+- **the saints and apostles** `III.1 ¶9` — Contrasts: their gift of healing is absent today; the reason is promised in the sequel.
+- **scripture ("is it not written")**, *Wisdom of Solomon, and Proverbs 24* — “Prepare thy work without, and make it fit for thyself in thy field; and afterwards build thy house” `III.1 ¶9, III.1 n7` — Supports: the healer must first heal or be healed. The beam-and-mote saying and 'Physician, heal thyself' are also cited.
+- **the Paracelsians / Paracelsian Alchemists** — “The true medicine, according to the Paracelsians, is bound in man” `III.1 ¶1, III.1 ¶10` — Supports: the medicine and fire of life ('Antimony') are in man and freed by purgation. Named in the chapter title.
+- **unattributed ("as is declared")** — “a pure panacea from the god of Light” `III.1 ¶10` — Supports: the purged life flows forth as panacea.
+- **Crollius**, *Philosophy, The True Physic, chap.1* — “physic and pyrotechny, says Crollius, cannot be separated” `III.1 ¶10, III.1 n8` — Supports: trial by fire, the natural inbred chemist's separation, the physician born of the light of grace.
+- **B. Valentine**, *Chariot of Antimony* `III.1 n8` — Reference only (n8, alongside Crollius).
+
+## Ambiguities
+
+- “Hanc massam exterio tentum calor excitat ignis; Aethereo interior sed perfecit omnia fot.” `III.1 ¶1`
+  - Reading: 'exterio tentum' read as 'exterior tantum' and 'fot' as a truncated word for heat or fire: outer fire only excites, inner ethereal fire perfects all.
+  - Reading: The corrupt words leave the agent of 'perfecit' uncertain.
+  - Basis: The printed Latin is garbled. The contrast exterio[r] / interior is clear; the exact agent is not.
+- “this, their Initial Principle” `III.1 ¶3`
+  - Reading: The first matter.
+  - Reading: The claimed inner observation of occult nature, with her universal efficient revealed by the Light of Wisdom.
+  - Basis: The first matter is named earlier in ¶3; the nearer antecedent is the claim on which 'the whole of the Hermetic philosophy ... depend immediately therefrom'.
+- “so that he was able to vanquish the Metaphysical Monster” `III.1 ¶4`
+  - Reading: The Sphinx (Ether/phantastic spirit), whom the ancients mastered.
+  - Reading: A more general monster of metaphysical error, left unspecified.
+  - Basis: ¶5–6 go straight on to the Sphinx, and ¶8 says the Sphinx 'yielded to theirs her wary wit'. ¶4 itself does not name her.
+- “Her winds are images of the elevating power which the imagination possesses” `III.1 ¶6`
+  - Reading: 'winds' is a slip for 'wings': the Sphinx's wings image the imagination's lifting power.
+  - Reading: 'winds' as printed: airy motions image that power.
+  - Basis: The sentence follows the description of the Sphinx's bodily form and speaks of 'elevating', which suits wings; the chunk has other evident typos ('o build', 'ten'). The printed text reads 'winds'.
+- “joining self to self” `III.1 ¶8`
+  - Reading: Within one being: the subject's life works on its own life with nothing foreign added.
+  - Reading: Between beings: one life acts on another, as in 'mesmerizing one another'.
+  - Basis: 'worked with by itself alone' supports the first. The comparison 'as men also now prove, mesmerizing one another' and ¶9 'throw our common lives to common lives' / 'quality of life imparted' support the second.
+- “the change that is thereby effected in the Passive Subject” `III.1 ¶9`
+  - Reading: The person receiving the life (the recipient in the mesmeric trance).
+  - Reading: The philosophic subject in general, as in the chapter title's 'Fermentation of the Philosophic Subject'.
+  - Basis: The preceding sentence mentions 'the recipient in the mesmeric trance'; ¶1's title speaks of the Philosophic Subject.
+- “in as many representative vessels or forms” `III.1 ¶9`
+  - Reading: Physical or laboratory vessels.
+  - Reading: Living persons or bodies to which the Spirit is successively grafted and transplanted.
+  - Reading: Vessels in an unexplained symbolic sense.
+  - Basis: 'vessels' supports the first. 'grafting and transplanting', 'growth', 'forms' and the surrounding talk of life imparted between persons support the second. The chunk does not decide.
+- “the natural inbred chemist teaches to segregate every mystery into its own reservacle” `III.1 ¶10`
+  - Reading: An inner natural agent (the life or fire within man) that does the separating.
+  - Reading: Nature personified as a chemist, whose way the physician follows.
+  - Basis: 'inbred' and the medicine 'bound in man' favour the first; 'natural' and 'teaches' permit the second. The text does not define it.
+
+## Translations
+
+- `III.1 ¶1` “Naturam in primisimitabere in arte, magister.” → Master, in the art you shall imitate Nature first of all. ('primisimitabere' read as 'primis imitabere'.) *(ours)*
+- `III.1 ¶1` “Hanc massam exterio tentum calor excitat ignis; Aethereo interior sed perfecit omnia fot.” → The heat of outer fire only stirs up this mass; but the inner [agent], ethereal, perfects all things. (Latin corrupt as printed: 'tentum' read as 'tantum', 'fot' unclear; tentative.) *(ours)*
+- `III.1 ¶8` “vita vitam concipit, natura naturam vincit ac superat, patefacit, gignit et renovat; item natura natura laetatur et emendetur” → Life conceives life; nature conquers and surpasses nature, discloses, begets and renews it; likewise nature rejoices in nature and is amended [by it]. *(ours)*
+
+## Threads
+
+- `III.1 ¶3` 'that ethereal hypostasis we were before discussing' points back to an earlier discussion of the Greek ethereal hypostasis.
+- `III.1 ¶3` Promises to consider the Initial Principle 'more particularly, and how possibly it became known in its first arcane descent and emanation'.
+- `III.1 ¶4` 'We have already endeavored to prepare a way in part' points back to earlier treatment of the imperfection of the natural Spirit, the occultation of its Light, and the vital alteration operated in the Mysteries.
+- `III.1 ¶4` 'before proceeding to infold the Art in actual practice' points forward to a later treatment of the practice.
+- `III.1 ¶8` 'as will one day be perceived': the ancients' superiority will become evident; no location given.
+- `III.1 ¶9` 'in the sequel of this inquiry, we may understand Why' promises a later explanation of why theory must precede practice and why healing miracles like the saints' and apostles' no longer occur.

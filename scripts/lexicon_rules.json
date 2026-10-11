@@ -1,0 +1,1265 @@
+{
+ "_note": "Editorial rules for scripts/dict_clean.py and scripts/dict_worldbook_v2.py. Edit and re-run both scripts to regenerate the drafts.",
+ "spelling": {
+  "sulfur": "sulphur",
+  "Sulfur": "Sulphur",
+  "centre": "center",
+  "Centre": "Center"
+ },
+ "keep_article": [
+  "E0053",
+  "E1750",
+  "E0636",
+  "E1167",
+  "E1375",
+  "E0344",
+  "E0773",
+  "E1789",
+  "E1401",
+  "E1402",
+  "E0375",
+  "E0535",
+  "E1944"
+ ],
+ "rename": {
+  "E0014": [
+   "Actives and passives",
+   ""
+  ],
+  "E0015": [
+   "Acts of Parliament and Pope’s Bulls",
+   ""
+  ],
+  "E0023": [
+   "Adventitious image and central form",
+   ""
+  ],
+  "E0037": [
+   "Alain de l’Isle",
+   ""
+  ],
+  "E0040": [
+   "Modern Alchemists",
+   ""
+  ],
+  "E0051": [
+   "Aliphili",
+   "the Arabian"
+  ],
+  "E0059": [
+   "Ambrose and Phillip Mueller",
+   ""
+  ],
+  "E0080": [
+   "Author of the Tractatus Aureus",
+   "anonymous"
+  ],
+  "E0114": [
+   "Archytas",
+   "the Pythagorean"
+  ],
+  "E0116": [
+   "Argo and Apollo",
+   "classical allusion"
+  ],
+  "E0178": [
+   "Best Greek authors",
+   "historical and philosophic"
+  ],
+  "E0183": [
+   "Bishop of Oxford",
+   "Wilberforce"
+  ],
+  "E0219": [
+   "Dead and revived god",
+   "Cadmillus, Atys, Adonis, Osiris"
+  ],
+  "E0220": [
+   "Heroes of the ordeal",
+   "Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus"
+  ],
+  "E0254": [
+   "Center and circumference",
+   ""
+  ],
+  "E0271": [
+   "Cheiron",
+   "Latin verse, unattributed"
+  ],
+  "E0353": [
+   "D. Fabianus de Monte",
+   "S. Severin"
+  ],
+  "E0354": [
+   "Dactyli Idaei",
+   "fable"
+  ],
+  "E0356": [
+   "Dark Aleph and light Aleph",
+   ""
+  ],
+  "E0359": [
+   "Darkness upon the Abyss",
+   "unattributed in the text"
+  ],
+  "E0362": [
+   "Pioneers of Mesmerism",
+   "De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet"
+  ],
+  "E0366": [
+   "Dr Dee",
+   ""
+  ],
+  "E0374": [
+   "Des Septchenes",
+   ""
+  ],
+  "E0445": [
+   "Early Christians and the wisest Ethnics",
+   ""
+  ],
+  "E0447": [
+   "Interior of the earth",
+   ""
+  ],
+  "E0450": [
+   "Eastern temples and the priests at Eleusis",
+   ""
+  ],
+  "E0470": [
+   "Eleusian Mysteries",
+   "accounts of"
+  ],
+  "E0528": [
+   "Author of the Aquarium Sapientum",
+   ""
+  ],
+  "E0551": [
+   "Heroic fables",
+   "Theseus, Ariadne, Jason, Medea, Hercules, Eurystheus, Achilles, Ulysses, Minerva, Aeneas, the Sybil"
+  ],
+  "E0559": [
+   "Faraday Society",
+   "opening meeting address, 1846"
+  ],
+  "E0566": [
+   "Festina lente and Ne quid nimis",
+   "sayings"
+  ],
+  "E0608": [
+   "Fixed and volatile",
+   ""
+  ],
+  "E0639": [
+   "Franck",
+   ""
+  ],
+  "E0662": [
+   "Generation and dissolution",
+   ""
+  ],
+  "E0701": [
+   "Greater Orb and Lesser World",
+   ""
+  ],
+  "E0703": [
+   "Grecian fables",
+   "Midas"
+  ],
+  "E0704": [
+   "Greek and Alexandrian Platonists",
+   "with the mystics of the middle ages and the Fathers of the Church"
+  ],
+  "E0708": [
+   "Greek fable",
+   "Cadmus, Jason, Orpheus, Aeneas"
+  ],
+  "E0711": [
+   "Greek temples",
+   "to Ceres, Minerva, Apollo, Bacchus"
+  ],
+  "E0713": [
+   "Greeks and eastern sages",
+   "Stoics, Pythagoreans, Platonists, Peripatetics"
+  ],
+  "E0720": [
+   "H. O’Brien",
+   "author of the Round Towers"
+  ],
+  "E0741": [
+   "Hebrew Kabalists",
+   "Rabbis"
+  ],
+  "E0749": [
+   "Herman Fichtuld",
+   ""
+  ],
+  "E0751": [
+   "Hermes’ Bird",
+   ""
+  ],
+  "E0789": [
+   "Biographer of Pythagoras",
+   ""
+  ],
+  "E0790": [
+   "Disciple of Cornelius Agrippa",
+   "not named"
+  ],
+  "E0791": [
+   "Histoire Hermetique",
+   "with Lives of the Adepts and Les Hieroglyphiques de N. Flammel"
+  ],
+  "E0793": [
+   "Holy Writ",
+   "Pentateuch, Old Testament"
+  ],
+  "E0797": [
+   "Hone soit qui mal y pense",
+   "unattributed"
+  ],
+  "E0803": [
+   "Hymn to Mercury",
+   "source not stated"
+  ],
+  "E0843": [
+   "Indeterminate and determinate instruments",
+   ""
+  ],
+  "E0844": [
+   "Indeterminate agents and determinate one",
+   ""
+  ],
+  "E0845": [
+   "Renowned philosophers of various ages and nations",
+   ""
+  ],
+  "E0847": [
+   "Inductive sciences",
+   "modern method of experimenting"
+  ],
+  "E0859": [
+   "Initiated",
+   "who celebrated her Mysteries in the Eleusian fane"
+  ],
+  "E0880": [
+   "Intelligible and sensible",
+   ""
+  ],
+  "E0885": [
+   "Introitus Apertus",
+   ""
+  ],
+  "E0895": [
+   "Isaacs",
+   "J. I. Hollandus, I. Hollandus"
+  ],
+  "E0909": [
+   "John Andre",
+   "J. Andraeas"
+  ],
+  "E0910": [
+   "John Cremer",
+   "Abbot of Westminster"
+  ],
+  "E0915": [
+   "Kabalistic commentators",
+   "mystics of the middle ages; the Rabbis"
+  ],
+  "E0919": [
+   "Sir Edward Kelly",
+   ""
+  ],
+  "E0954": [
+   "Ben Jochai",
+   "the learned Rassbi; his disciples"
+  ],
+  "E1014": [
+   "Malden",
+   "Philalethean Lion Hunt"
+  ],
+  "E1023": [
+   "Palingenius",
+   "Manzoli"
+  ],
+  "E1045": [
+   "Physician, heal thyself",
+   "maxim"
+  ],
+  "E1068": [
+   "Merlin",
+   "St Ambrose"
+  ],
+  "E1082": [
+   "Metaphysicians",
+   "inductively arguing"
+  ],
+  "E1089": [
+   "Microcosm and macrocosm",
+   ""
+  ],
+  "E1109": [
+   "Modern interpreters",
+   "unnamed"
+  ],
+  "E1112": [
+   "Moderns",
+   "empirical chemists"
+  ],
+  "E1130": [
+   "Mosaic",
+   "Scripture"
+  ],
+  "E1147": [
+   "Museum Hermeticum",
+   ""
+  ],
+  "E1149": [
+   "Norton’s Master",
+   "my good Master"
+  ],
+  "E1188": [
+   "Night of Hippocrates and Day of Orpheus",
+   ""
+  ],
+  "E1193": [
+   "Noble Master",
+   "of the poem’s narrator"
+  ],
+  "E1201": [
+   "Number, weight and measure",
+   ""
+  ],
+  "E1216": [
+   "Old analogy",
+   "Troy, Apollo, Mercury"
+  ],
+  "E1218": [
+   "Oldradus",
+   ""
+  ],
+  "E1231": [
+   "Oracle of Apollo",
+   "from Eusebius"
+  ],
+  "E1232": [
+   "Oracle to Amelius",
+   ""
+  ],
+  "E1261": [
+   "Ours",
+   "living gold and silver"
+  ],
+  "E1267": [
+   "Paracelsians",
+   ""
+  ],
+  "E1270": [
+   "Paradise Lost",
+   "author not named"
+  ],
+  "E1271": [
+   "Paris",
+   "Venus, Juno, Minerva"
+  ],
+  "E1273": [
+   "Particular Spirit and Universal",
+   ""
+  ],
+  "E1298": [
+   "Labouring heroes",
+   "Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason"
+  ],
+  "E1301": [
+   "Petris",
+   "the Persian"
+  ],
+  "E1307": [
+   "Pharisees, Katharoi, Devotes and Puritans",
+   ""
+  ],
+  "E1309": [
+   "Philo",
+   "the Jew Philo"
+  ],
+  "E1313": [
+   "Authorities in Norton",
+   "Philosophers, Astrologers, Auctors"
+  ],
+  "E1315": [
+   "Philosophers of tyme old",
+   "olde Fathers"
+  ],
+  "E1342": [
+   "Pierce the Black Monk",
+   ""
+  ],
+  "E1406": [
+   "Prometheus, Vulcan and Minerva",
+   ""
+  ],
+  "E1501": [
+   "Alchemical book titles",
+   "Revelations, Open Entrances, New Lights, Auroras, Keys, Guides and the like"
+  ],
+  "E1531": [
+   "Sainte Croix",
+   ""
+  ],
+  "E1538": [
+   "Salt of the Sages",
+   ""
+  ],
+  "E1539": [
+   "Salt, Sulphur and Mercury",
+   ""
+  ],
+  "E1544": [
+   "Saturn, Jupiter, Venus and Lune",
+   ""
+  ],
+  "E1561": [
+   "Second qualities",
+   "specifical qualities"
+  ],
+  "E1600": [
+   "Servius",
+   "commenting on Virgil"
+  ],
+  "E1611": [
+   "Sir William Jones",
+   "translator of an Indian record"
+  ],
+  "E1698": [
+   "Superiors and inferiors",
+   ""
+  ],
+  "E1741": [
+   "Greeks",
+   "these Greeks, these philosophers"
+  ],
+  "E1760": [
+   "Three principles",
+   "attraction, repulsion, circulation"
+  ],
+  "E1774": [
+   "Tradition",
+   "mythological antique devices"
+  ],
+  "E1872": [
+   "Urbigeranus",
+   "author of the Hermetic Secret"
+  ],
+  "E1875": [
+   "Van Helmonts",
+   "father and son"
+  ],
+  "E1908": [
+   "Voice at our Lord’s baptism",
+   "and our Lord’s prayer"
+  ],
+  "E1929": [
+   "White and Red",
+   ""
+  ],
+  "E1949": [
+   "Wise poet",
+   "in his Georgics"
+  ],
+  "E1959": [
+   "Zeno of Elea",
+   "not the Stoic"
+  ],
+  "E0019": [
+   "Adepts",
+   "cited voice"
+  ],
+  "E1310": [
+   "Philosopher",
+   "unnamed voice"
+  ],
+  "E1032": [
+   "Master",
+   "author of the Tractatus Aureus"
+  ],
+  "E1036": [
+   "Material",
+   ""
+  ],
+  "E0487": [
+   "Enigma",
+   "a work"
+  ],
+  "E0212": [
+   "Brethren",
+   "group voice"
+  ],
+  "E0100": [
+   "Arabian",
+   "Aristotele Arabus in the Rosarium"
+  ],
+  "E1355": [
+   "Poet",
+   "unnamed voice"
+  ],
+  "E1345": [
+   "Platonic Successor",
+   ""
+  ],
+  "E1627": [
+   "Son of Dirach",
+   ""
+  ],
+  "E1499": [
+   "Book of Revelation",
+   ""
+  ]
+ },
+ "merge": {
+  "E0019": [
+   "E1945",
+   "E1946",
+   "E1947"
+  ],
+  "E0120": [
+   "E0121"
+  ],
+  "E0263": [
+   "E0262"
+  ],
+  "E0416": [
+   "E0417"
+  ],
+  "E0522": [
+   "E0521"
+  ],
+  "E0556": [
+   "E0555"
+  ],
+  "E0897": [
+   "E0899",
+   "E0548"
+  ],
+  "E0459": [
+   "E0460",
+   "E0898",
+   "E0550"
+  ],
+  "E1069": [
+   "E1070"
+  ],
+  "E1114": [
+   "E1115"
+  ],
+  "E1154": [
+   "E1155",
+   "E1156"
+  ],
+  "E1639": [
+   "E1640"
+  ],
+  "E1746": [
+   "E1747"
+  ],
+  "E1664": [
+   "E0692"
+  ],
+  "E1311": [
+   "E1312"
+  ],
+  "E1817": [
+   "E0081",
+   "E0901",
+   "E0942",
+   "E1227",
+   "E1251",
+   "E1541",
+   "E1818",
+   "E1819",
+   "E1820",
+   "E1821",
+   "E1822",
+   "E1823",
+   "E1824",
+   "E1825",
+   "E1826",
+   "E1827",
+   "E1828",
+   "E1829",
+   "E1830",
+   "E1868",
+   "E1869",
+   "E1870"
+  ]
+ },
+ "merge_headword": {
+  "E0459": [
+   "Fable of Isis and Osiris",
+   ""
+  ],
+  "E1817": [
+   "Unattributed sayings",
+   "quotations, verses and maxims Atwood gives without a named source"
+  ]
+ },
+ "merge_summary": {
+  "E1817": "Sayings, verses and maxims that Atwood quotes or reports without naming their source, gathered here under the phrase that introduces each."
+ },
+ "worldbook_exclude": [],
+ "thin": {
+  "min_chars": 250,
+  "minor_name_max_chars": 250,
+  "no_explanation_pattern": "(?i)mentioned only|named only|cited only|only (named|mentioned|cited)|not (further )?(explained|defined|described)|does not (explain|define|describe)|no further explanation|referent is unclear|is unclear from the record",
+  "max_key_words": 6,
+  "enabled": false
+ },
+ "tier2_words": [
+  "will",
+  "wills",
+  "mind",
+  "minds",
+  "matter",
+  "matters",
+  "material",
+  "life",
+  "lives",
+  "light",
+  "lights",
+  "body",
+  "bodies",
+  "work",
+  "works",
+  "art",
+  "arts",
+  "nature",
+  "natures",
+  "center",
+  "centers",
+  "centre",
+  "identity",
+  "agent",
+  "agents",
+  "patient",
+  "patients",
+  "solution",
+  "one",
+  "all",
+  "thing",
+  "things",
+  "name",
+  "power",
+  "powers",
+  "red",
+  "white",
+  "black",
+  "fourth",
+  "being",
+  "principle",
+  "principles",
+  "universal",
+  "universals",
+  "reason",
+  "ours",
+  "others",
+  "earth",
+  "form",
+  "forms",
+  "order",
+  "word",
+  "time",
+  "man",
+  "men",
+  "world",
+  "good",
+  "end",
+  "way",
+  "place",
+  "head",
+  "heart",
+  "moderns",
+  "ancients",
+  "experienced",
+  "desirable",
+  "wise",
+  "authorities",
+  "expounders",
+  "mathematician",
+  "medium",
+  "experiment",
+  "subject",
+  "union",
+  "unity",
+  "unit",
+  "law",
+  "image",
+  "sense",
+  "senses",
+  "night",
+  "day",
+  "virtue",
+  "pure",
+  "true",
+  "first",
+  "second",
+  "third"
+ ],
+ "context_keys": [
+  "god",
+  "divine",
+  "holy",
+  "sacred",
+  "heaven",
+  "angel",
+  "prayer",
+  "soul",
+  "spirit",
+  "spiritual",
+  "faith",
+  "grace",
+  "church",
+  "temple",
+  "ritual",
+  "myth",
+  "mystery",
+  "mysteries",
+  "wisdom",
+  "enlightenment",
+  "meditation",
+  "magic",
+  "symbol",
+  "occult",
+  "/mystic\\w*/i",
+  "esoteric",
+  "/theurg\\w*/i",
+  "/[kcq]ab+al\\w*/i",
+  "/(neo)?platon\\w*/i",
+  "gnostic",
+  "rosicrucian",
+  "/initiat\\w*/i",
+  "/regenerat\\w*/i",
+  "arcanum",
+  "arcana",
+  "/alchem\\w*/i",
+  "/hermetic\\w*/i",
+  "hermes",
+  "/adepts?/i",
+  "/philosoph\\w*/i",
+  "stone",
+  "mercury",
+  "/sul(ph|f)ur\\w*/i",
+  "salt",
+  "fire",
+  "water",
+  "gold",
+  "elixir",
+  "/tinct\\w*/i",
+  "/transmut\\w*/i",
+  "quintessence",
+  "/a?ether\\w*/i",
+  "vessel",
+  "furnace",
+  "conjunction",
+  "/sublimat\\w*/i",
+  "/putref\\w*/i",
+  "/distil\\w*/i",
+  "atwood"
+ ],
+ "worldbook_overrides": {
+  "_note": "Per lexicon id. keys = replace all keys; add_keys / remove_keys adjust; secondary + logic (0 = AND ANY, 2 = NOT ANY) replace the tier rule.",
+  "E1499": {
+   "add_keys": [
+    "Revelation",
+    "St John",
+    "St. John",
+    "Apocalypse"
+   ],
+   "remove_keys": [
+    "Revel"
+   ]
+  },
+  "E0179": {
+   "remove_keys": [
+    "Revelation"
+   ]
+  },
+  "E1232": {
+   "keys": [
+    "oracle",
+    "oracles"
+   ],
+   "secondary": [
+    "Amelius"
+   ],
+   "logic": 0
+  },
+  "E1233": {
+   "secondary": [
+    "Amelius",
+    "Apollo"
+   ],
+   "logic": 2
+  },
+  "E0157": {
+   "add_keys": [
+    "Antiquity Unveiled"
+   ]
+  },
+  "E0158": {
+   "add_keys": [
+    "Filum Ariadne"
+   ]
+  },
+  "E1253": {
+   "keys": [
+    "The Triumph"
+   ]
+  },
+  "E0787": {
+   "add_keys": [
+    "Mystics"
+   ]
+  },
+  "E0712": {
+   "remove_keys": [
+    "philosophers"
+   ]
+  },
+  "E1311": {
+   "remove_keys": [
+    "nations"
+   ]
+  },
+  "E1197": {
+   "remove_keys": [
+    "Philosophers",
+    "Astrologers",
+    "Auctors"
+   ]
+  },
+  "E1773": {
+   "remove_keys": [
+    "Master"
+   ]
+  },
+  "E1349": {
+   "remove_keys": [
+    "mystics of the middle ages",
+    "enlightened Fathers of the Christian Church"
+   ]
+  },
+  "E0917": {
+   "remove_keys": [
+    "Kabalistic commentators",
+    "Kabalistic Interpreter"
+   ]
+  },
+  "E0097": {
+   "remove_keys": [
+    "author of the Aquarium"
+   ]
+  },
+  "E0708": {
+   "remove_keys": [
+    "Heroes of the ordeal"
+   ]
+  },
+  "E1446": {
+   "remove_keys": [
+    "learned Rassbi"
+   ]
+  },
+  "E0064": {
+   "keys": [
+    "Secret Spirit of Nature"
+   ]
+  },
+  "E0439": {
+   "keys": [
+    "dry water"
+   ]
+  },
+  "E0686": {
+   "keys": [
+    "life of Christ"
+   ]
+  },
+  "E0706": {
+   "keys": [
+    "St John's day"
+   ]
+  },
+  "E1022": {
+   "keys": [
+    "eulogy"
+   ]
+  },
+  "E1817": {
+   "keys": [
+    "maxim",
+    "maxims",
+    "proverb",
+    "proverbs",
+    "Latin verse",
+    "unattributed"
+   ]
+  }
+ },
+ "worldbook_fold": {
+  "_note": "Worldbook only. target id: name, members (lexicon ids folded into the target's worldbook entry), add_keys. The lexicon keeps all entries separate and gets See also links between them.",
+  "E0917": {
+   "name": "Kabalists",
+   "members": [
+    "E1625",
+    "E0741",
+    "E0915",
+    "E0916"
+   ],
+   "add_keys": [
+    "Kabalist",
+    "Kabalists",
+    "Kabbalist",
+    "Kabbalists",
+    "Cabalist",
+    "Cabalists",
+    "Cabbalist",
+    "Cabbalists",
+    "Qabalist",
+    "Qabalists"
+   ]
+  },
+  "E0914": {
+   "name": "Kabalah",
+   "members": [
+    "E0218",
+    "E0216"
+   ],
+   "add_keys": [
+    "Kabalah",
+    "Kabbalah",
+    "Kabala",
+    "Kabbala",
+    "Cabala",
+    "Cabbala",
+    "Cabbalah",
+    "Qabalah",
+    "Qabbalah",
+    "Kabbale",
+    "Kabalistic",
+    "Kabbalistic",
+    "Cabalistic",
+    "Cabbalistic",
+    "Qabalistic"
+   ]
+  },
+  "E0041": {
+   "name": "Alchemists",
+   "members": [
+    "E0040",
+    "E1215",
+    "E0042",
+    "E0066"
+   ],
+   "add_keys": [
+    "Alchemist",
+    "Alchemists"
+   ]
+  },
+  "E0018": {
+   "name": "Adepts",
+   "members": [
+    "E0645",
+    "E1108",
+    "E1125",
+    "E1190",
+    "E1191",
+    "E0537",
+    "E1158"
+   ],
+   "add_keys": [
+    "adeptist",
+    "adeptists"
+   ]
+  },
+  "E1233": {
+   "name": "Oracles",
+   "members": [
+    "E1808",
+    "E0416"
+   ],
+   "add_keys": []
+  },
+  "E1245": {
+   "name": "Orphic oracles, fragment and poet",
+   "members": [
+    "E1244",
+    "E1246"
+   ],
+   "add_keys": [
+    "Orphic"
+   ]
+  },
+  "E1515": {
+   "name": "Rosicrucians",
+   "members": [
+    "E0213"
+   ],
+   "add_keys": [
+    "Rosicrucian",
+    "Rosicrucians",
+    "Rosy Cross"
+   ]
+  },
+  "E1349": {
+   "name": "Platonists",
+   "members": [
+    "E0704",
+    "E1345"
+   ],
+   "add_keys": [
+    "Platonist",
+    "Platonists",
+    "Platonic"
+   ]
+  },
+  "E1257": {
+   "name": "Metaphysicians",
+   "members": [
+    "E1110"
+   ],
+   "add_keys": [
+    "metaphysician",
+    "metaphysicians"
+   ]
+  },
+  "E1069": {
+   "name": "Mesmerism",
+   "members": [
+    "E0362"
+   ],
+   "add_keys": [
+    "mesmerist",
+    "mesmerists",
+    "mesmeric"
+   ]
+  },
+  "E1031": {
+   "name": "Masons",
+   "members": [
+    "E0640",
+    "E1034"
+   ],
+   "add_keys": [
+    "Mason",
+    "Masons",
+    "Freemason",
+    "Freemasons",
+    "Freemasonry",
+    "Free masonry",
+    "Masonry"
+   ]
+  },
+  "E0775": {
+   "name": "Hermeticists",
+   "members": [
+    "E0764",
+    "E0760"
+   ],
+   "add_keys": [
+    "Hermeticist",
+    "Hermeticists"
+   ]
+  },
+  "E1435": {
+   "name": "Pythagoreans",
+   "members": [
+    "E1436"
+   ],
+   "add_keys": [
+    "Pythagorean",
+    "Pythagoreans",
+    "Pythagoric"
+   ]
+  },
+  "E1434": {
+   "name": "Pythagoras",
+   "members": [
+    "E0789"
+   ],
+   "add_keys": []
+  },
+  "E1311": {
+   "name": "Philosophers",
+   "members": [
+    "E1740",
+    "E0845",
+    "E1315"
+   ],
+   "add_keys": []
+  },
+  "E1356": {
+   "name": "Poets",
+   "members": [
+    "E1357",
+    "E1949",
+    "E0858"
+   ],
+   "add_keys": [
+    "poet",
+    "poets"
+   ]
+  },
+  "E0712": {
+   "name": "Greeks",
+   "members": [
+    "E0713"
+   ],
+   "add_keys": []
+  },
+  "E0522": {
+   "name": "Ethnics",
+   "members": [
+    "E0445"
+   ],
+   "add_keys": []
+  },
+  "E0462": {
+   "name": "Egyptians",
+   "members": [
+    "E0461"
+   ],
+   "add_keys": [
+    "Egyptian"
+   ]
+  },
+  "E0708": {
+   "name": "Greek fables",
+   "members": [
+    "E0703",
+    "E0551",
+    "E1298",
+    "E0220"
+   ],
+   "add_keys": [
+    "Greek fables",
+    "Grecian fables",
+    "Greek myth",
+    "Greek myths",
+    "Greek mythology"
+   ]
+  },
+  "E1639": {
+   "name": "Sphinx",
+   "members": [
+    "E1641"
+   ],
+   "add_keys": []
+  },
+  "E1197": {
+   "name": "Norton",
+   "members": [
+    "E1313",
+    "E1149"
+   ],
+   "add_keys": []
+  },
+  "E0033": {
+   "name": "Agrippa",
+   "members": [
+    "E0790"
+   ],
+   "add_keys": []
+  },
+  "E0366": {
+   "name": "Dr Dee",
+   "members": [
+    "E1649"
+   ],
+   "add_keys": [
+    "Dee",
+    "John Dee"
+   ]
+  },
+  "E1960": {
+   "name": "Zohar",
+   "members": [
+    "E1447"
+   ],
+   "add_keys": []
+  },
+  "E1446": {
+   "name": "Rabbi Ben Jochai",
+   "members": [
+    "E0954"
+   ],
+   "add_keys": [
+    "Ben Jochai"
+   ]
+  },
+  "E0200": {
+   "name": "Book of Enoch",
+   "members": [
+    "E1530"
+   ],
+   "add_keys": []
+  },
+  "E1352": {
+   "name": "Plutarch",
+   "members": [
+    "E0524"
+   ],
+   "add_keys": []
+  },
+  "E1773": {
+   "name": "Tractatus Aureus",
+   "members": [
+    "E0080",
+    "E1032"
+   ],
+   "add_keys": []
+  },
+  "E0097": {
+   "name": "Aquarium Sapientum",
+   "members": [
+    "E0528"
+   ],
+   "add_keys": [
+    "Water Stone"
+   ]
+  },
+  "E0987": {
+   "name": "Lucerna Salis",
+   "members": [
+    "E0159"
+   ],
+   "add_keys": [
+    "Lucerna Salis"
+   ]
+  },
+  "E0991": {
+   "name": "Lumen de Lumine",
+   "members": [
+    "E0160"
+   ],
+   "add_keys": [
+    "Lumen de Lumine"
+   ]
+  },
+  "E0161": {
+   "name": "Author of the Rosarium",
+   "members": [
+    "E1119"
+   ],
+   "add_keys": [
+    "Rosarium",
+    "Rosary"
+   ]
+  },
+  "E0075": {
+   "name": "Animal Magnetism",
+   "members": [
+    "E1955"
+   ],
+   "add_keys": []
+  }
+ }
+}

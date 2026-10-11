@@ -79,9 +79,9 @@ if cur: batches.append(cur)
 for b, items in enumerate(batches, 1):
     name = f'B{b:03d}'
     for e, _ in items: e['batch'] = name
-    open(R + f'packets/{name}.md', 'w', encoding='utf-8').write(f'# PACKETS {name} ({len(items)} entries)\n\n' + '\n\n'.join(p for _, p in items) + '\n')
+    open(R + f'packets/{name}.md', 'w', encoding='utf-8', newline='\n').write(f'# PACKETS {name} ({len(items)} entries)\n\n' + '\n\n'.join(p for _, p in items) + '\n')
 for e in entries: e['live'] = len(e['live'])
-json.dump(entries, open(R + 'entries.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+json.dump(entries, open(R + 'entries.json', 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=0)
 print('entries', len(entries), 'script-only', sum(1 for e in entries if not e['batch']), 'batches', len(batches),
       'kinds', dict(collections.Counter(e['kind'] for e in entries)),
       'packet chars', sum(len(p) for b in batches for _, p in b))

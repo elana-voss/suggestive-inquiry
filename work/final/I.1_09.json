@@ -1,0 +1,604 @@
+{
+  "chunk": "I.1_09",
+  "gist": "Atwood gathers adepts' warnings that their writings are veiled and must not be read literally or put into practice before the meaning is understood, blames the failures of literal 'chemists' and impostors (not the adepts) for Alchemy's public discredit, and announces a preliminary inquiry into the theoretic ground of transmutation.",
+  "notes": [
+    {
+      "point": "Artephius: the art is cabalistic; reading the philosophers by the letter loses Ariadne's clue.",
+      "refs": [
+        "I.1 ¶84"
+      ],
+      "voice": "QUOTED: Artephius"
+    },
+    {
+      "point": "Sendivogius: read from the possibility of nature, not the words; the Art is for the wise; montebanks' 'Whites and Reds' deceived the world.",
+      "refs": [
+        "I.1 ¶84"
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "point": "Sendivogius: he teaches indirectly, by reasons and examples; contradictions are customary and needed.",
+      "refs": [
+        "I.1 ¶84"
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "point": "Ripley: a plain art is veiled in horrid metaphors against thieves, villains and fools' disdain.",
+      "refs": [
+        "I.1 ¶85"
+      ],
+      "voice": "QUOTED: Ripley"
+    },
+    {
+      "point": "Bacon: leave off experiments; operate 'according to the blood', i.e. understanding; apprehend the meaning.",
+      "refs": [
+        "I.1 ¶86"
+      ],
+      "voice": "QUOTED: Roger Bacon"
+    },
+    {
+      "point": "Basil Valentine, Eiranaeus and most adepts forbid practice before full understanding of the matter.",
+      "refs": [
+        "I.1 ¶86"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Literal readers of Geber's, Basil's and Glauber's receipts used furnaces and salt, sulfur, mercury, antimony to sublime the Spirit of Nature or extract the Form of gold; their failure is their own and sophists' fault, not the adepts'.",
+      "refs": [
+        "I.1 ¶86"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Public disbelief, provoked by pretenders, was wise if no deeper search was wanted, but proves nothing: the world is as ignorant of the Art as the impostors. The philosophers' words remain, claiming power over all nature, unconfirmed by modern science. Atwood will first examine the theoretic ground and matter of transmutation.",
+      "refs": [
+        "I.1 ¶86"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "principle",
+      "veiled": "he that takes the philosophers’ saying according to the outward sense and signification has already lost the clue to Ariadne, and wanders up and down the labyrinth",
+      "ref": "I.1 ¶84",
+      "plain": "The adepts' writings are not to be read literally; a literal reading leaves the reader lost.",
+      "status": "stated",
+      "basis": "I.1 ¶84: the passage itself contrasts the 'outward sense' with the true sense and calls the art 'cabalistic, and full of mysteries'. Atwood cites it approvingly as one of a series of like warnings.",
+      "voice": "QUOTED: Artephius",
+      "also": [
+        {
+          "text": "you, fool, believe we teach the secret of secrets openly, and understand our words according to the letter",
+          "ref": "I.1 ¶84"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "understand my writings, not so much from the outside of my words as from the possibility of nature",
+      "ref": "I.1 ¶84",
+      "plain": "Interpret the texts by what nature makes possible, not by the surface of the words.",
+      "status": "interpreted",
+      "basis": "I.1 ¶84 opposes 'outside of my words' to 'possibility of nature'; the Epilogue passage in the same ¶ says the aim is that 'thou might have nature, her light and shadow, discovered to thee'. Atwood in ¶86 calls the literal receipts 'at variance with all common-sense probability'.",
+      "voice": "QUOTED: Sendivogius",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "we are willing to guide into the knowledge of nature indirectly, by reasons and examples",
+      "ref": "I.1 ¶84",
+      "plain": "The adepts deliberately teach by indirect reasoning and illustration rather than plain statement, so that the reader comes to know what the thing sought really is and how nature works.",
+      "status": "stated",
+      "basis": "I.1 ¶84: 'All things indeed ... might have been comprehended in a few lines' but they chose indirection 'that thou may knowest what the thing truly is thou shouldst seek after'.",
+      "voice": "QUOTED: Sendivogius",
+      "also": [
+        {
+          "text": "that thou might have nature, her light and shadow, discovered to thee",
+          "ref": "I.1 ¶84"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Be not displeased if thou meetest sometimes with contradictions in my treatises, it being the custom of philosophers to use them; thou hast need of them",
+      "ref": "I.1 ¶84",
+      "plain": "Contradictions in the texts are deliberate, customary, and useful to the reader; they are not errors.",
+      "status": "stated",
+      "basis": "I.1 ¶84, explicit statement.",
+      "voice": "QUOTED: Sendivogius",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "In horrid metaphors veiled are an art most plain",
+      "ref": "I.1 ¶85",
+      "plain": "The art itself is simple; the frightening metaphors are a protective veil to keep it from the unworthy and to keep fools from despising it once known.",
+      "status": "stated",
+      "basis": "I.1 ¶85: the verse gives the reasons — 'Lest wretched caitiffs shulde the treasure steal', lest villains maintain their villainies by it, 'Lest each fool knowing yt shulde yt when known disdayne'.",
+      "voice": "QUOTED: Ripley",
+      "also": [
+        {
+          "text": "Each artist striving yt howtoconceal",
+          "ref": "I.1 ¶85"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "this Art is for the wise, not for the ignorant",
+      "ref": "I.1 ¶84",
+      "plain": "The work requires wisdom/understanding in the practitioner; the ignorant, scoffers, the vicious and charlatans are excluded.",
+      "status": "stated",
+      "basis": "I.1 ¶84: Sendivogius lists those who cannot understand: 'vaporizing Thrasoes', 'letter learned scoffers', the 'vicious, against their own consciences', 'ignorant montebanks'.",
+      "voice": "QUOTED: Sendivogius",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "operate according to the blood; i.e., according to the understanding",
+      "ref": "I.1 ¶86",
+      "plain": "'The blood' here means the understanding: one is to act on comprehension of the meaning, not on the literal instructions ('take this, and this').",
+      "status": "stated",
+      "basis": "I.1 ¶86: the text glosses 'blood' as 'the understanding' directly, and opposes it to 'though I say, take this, and this, believe me not'.",
+      "voice": "QUOTED: Roger Bacon",
+      "also": [
+        {
+          "text": "though I say, take this, and this, believe me not",
+          "ref": "I.1 ¶86"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "leave off experiments, apprehend my meaning",
+      "ref": "I.1 ¶86",
+      "plain": "Understanding must come before any practical trial; experimenting first is to be abandoned until the theory is grasped.",
+      "status": "stated",
+      "basis": "I.1 ¶86: Atwood's own framing 'leave off experiments until the ground of wisdom is properly conceived'; and adepts 'warn their readers against running into the practice upon vague premises'.",
+      "voice": "QUOTED: Roger Bacon (endorsed by Atwood)",
+      "also": [
+        {
+          "text": "leave off experiments until the ground of wisdom is properly conceived",
+          "ref": "I.1 ¶86"
+        },
+        {
+          "text": "warn their readers against running into the practice upon vague premises, and before they have attained to a full understanding of the matter to be taken in hand",
+          "ref": "I.1 ¶86"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "the matter to be taken in hand",
+      "ref": "I.1 ¶86",
+      "plain": "There is a specific matter on which the work is done; it must be fully understood before practice. This chunk does not identify it.",
+      "status": "interpreted",
+      "basis": "I.1 ¶86 only says full understanding of it is required first; Atwood promises to investigate the 'theoretic ground and matter' of transmutation.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "surrounding many a literal soul with stills, coals, and furnaces, in hope by such lifeless instruments to sublime the Spirit of Nature",
+      "ref": "I.1 ¶86",
+      "plain": "Atwood holds that ordinary laboratory apparatus, being 'lifeless', cannot achieve the aim; those who used it were misled by literal reading of recipes.",
+      "status": "interpreted",
+      "basis": "I.1 ¶86: 'literal soul', 'lifeless instruments', and receipts 'at variance with all common-sense probability'; the error is attributed to 'their own misunderstanding'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "or by salt, sulfur and mercury, or the three combined with antimony, to extract the Form of gold",
+          "ref": "I.1 ¶86"
+        },
+        {
+          "text": "Geber’s receipts, Basil’s and Glauber’s, though at variance with all common-sense probability",
+          "ref": "I.1 ¶86"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "they who have thus fallen to practice, without the true Light or heeding their injunctions",
+      "ref": "I.1 ¶86",
+      "plain": "Practice requires 'the true Light', which the failed chemists lacked. This chunk does not explain what the true Light is.",
+      "status": "interpreted",
+      "basis": "I.1 ¶86 pairs lacking 'the true Light' with not heeding the adepts' injunctions to understand first; cf. Bacon's 'being a lighted candle' in the same ¶.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "more frequently owing to the deceit of sophists than to the genuine tradition of Hermetic science",
+      "ref": "I.1 ¶86",
+      "plain": "Fraudulent writers and pretenders, more numerous than true adepts in later times, are a main source of error and corrupted literature.",
+      "status": "stated",
+      "basis": "I.1 ¶86: 'the pretenders to the Art were in latter times far more numerous than the true adepts, and the literature has suffered in consequence grievous disgrace and spoliation'.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "ignorant montebanks, who, most unworthily defaming the most commendable art of Alchemy, have with their Whites and Reds deceived almost the whole world",
+          "ref": "I.1 ¶84"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "the powers they professed, not in the advancement of the mineral kingdom only, but over all nature",
+      "ref": "I.1 ¶86",
+      "plain": "The claimed result of the art is not limited to perfecting metals but extends to power over all of nature.",
+      "status": "stated",
+      "basis": "I.1 ¶86, explicit statement of what the philosophers professed.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "they unanimously recommend a studious examination, in order to conceive rightly of the promises held out, before atemnpting to judge them",
+      "ref": "I.1 ¶86",
+      "plain": "Theory first: Atwood adopts the adepts' rule and will examine the theoretical basis of transmutation before anything else.",
+      "status": "stated",
+      "basis": "I.1 ¶86: 'we propose to investigate preliminarily the theoretic ground and matter on which the physical possibility of transmutation rests'.",
+      "voice": "ATWOOD",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "Art",
+      "variants": [
+        "our art",
+        "this Art",
+        "the Art",
+        "art of Alchemy",
+        "Art of Wisdom",
+        "rare art"
+      ],
+      "meaning": "The Hermetic/alchemical art; described as cabalistic, full of mysteries, for the wise, plain in itself but veiled in metaphor.",
+      "equivalences": [
+        {
+          "with": "Alchemy",
+          "quote": "the most commendable art of Alchemy",
+          "ref": "I.1 ¶84"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "For is not our art cabalistic",
+          "ref": "I.1 ¶84"
+        },
+        {
+          "text": "The world is fully as ignorant of the genuine doctrine and Art of Wisdom as were the imposters whomit repudiated",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "cabalistic",
+      "variants": [],
+      "meaning": "Said of the art: full of mysteries, not taught openly, not to be understood according to the letter.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "For is not our art cabalistic",
+          "ref": "I.1 ¶84"
+        }
+      ],
+      "voice": "QUOTED: Artephius"
+    },
+    {
+      "term": "secret of secrets",
+      "variants": [],
+      "meaning": "What the art teaches; not taught openly.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "you, fool, believe we teach the secret of secrets openly",
+          "ref": "I.1 ¶84"
+        }
+      ],
+      "voice": "QUOTED: Artephius"
+    },
+    {
+      "term": "blood",
+      "variants": [],
+      "meaning": "In Bacon's phrase, the understanding.",
+      "equivalences": [
+        {
+          "with": "understanding",
+          "quote": "operate according to the blood; i.e., according to the understanding",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "quotes": [],
+      "voice": "QUOTED: Roger Bacon"
+    },
+    {
+      "term": "Whites and Reds",
+      "variants": [],
+      "meaning": "Something with which ignorant montebanks deceived the world; not explained in this chunk.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "have with their Whites and Reds deceived almost the whole world",
+          "ref": "I.1 ¶84"
+        }
+      ],
+      "voice": "QUOTED: Sendivogius"
+    },
+    {
+      "term": "Spirit of Nature",
+      "variants": [],
+      "meaning": "What literal chemists hoped to 'sublime' with stills and furnaces; Atwood implies lifeless instruments cannot do so. Not otherwise defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "in hope by such lifeless instruments to sublime the Spirit of Nature",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Form of gold",
+      "variants": [],
+      "meaning": "What chemists sought to extract with salt, sulfur, mercury and antimony; not defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "to extract the Form of gold",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "salt, sulfur and mercury",
+      "variants": [],
+      "meaning": "Substances which, with antimony, literal chemists used in failed attempts to extract the Form of gold; not otherwise explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by salt, sulfur and mercury, or the three combined with antimony",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "true Light",
+      "variants": [],
+      "meaning": "Something required before practice, lacked by those who failed; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "without the true Light or heeding their injunctions",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "ground of wisdom",
+      "variants": [],
+      "meaning": "The understanding that must be properly conceived before experiments are undertaken.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "leave off experiments until the ground of wisdom is properly conceived",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hermetic mystery",
+      "variants": [
+        "Hermetic science"
+      ],
+      "meaning": "The subject of the book; a genuine tradition distinct from the deceits of sophists, not disproved by public disbelief.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the genuine tradition of Hermetic science",
+          "ref": "I.1 ¶86"
+        },
+        {
+          "text": "are no proofs in philosophy, even if it were without so many witnesses, that the Hermetic mystery is groundless",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "transmutation",
+      "variants": [],
+      "meaning": "The physical change whose possibility rests on a theoretic ground and matter Atwood will investigate next.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the theoretic ground and matter on which the physical possibility of transmutation rests",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "adept",
+      "variants": [
+        "adepts",
+        "true adepts"
+      ],
+      "meaning": "Genuine masters of the art, as opposed to pretenders, sophists, montebanks; used of Sendivogius.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the pretenders to the Art were in latter times far more numerous than the true adepts",
+          "ref": "I.1 ¶86"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Artephius",
+      "work": "Phil. Antiquis. Tract. Secret.",
+      "quote": "he that takes the philosophers’ saying according to the outward sense and signification has already lost the clue to Ariadne",
+      "use": "Supports: the art is cabalistic and must not be read literally.",
+      "refs": [
+        "I.1 ¶84",
+        "I.1 n108"
+      ]
+    },
+    {
+      "name": "Sendivogius",
+      "work": "Preface of the Twelve Treatises (n109: New Light of Alchemy, preface)",
+      "quote": "this Art is for the wise, not for the ignorant",
+      "use": "Supports: read from the possibility of nature, not the words; the art is for the wise; montebanks deceived the world.",
+      "refs": [
+        "I.1 ¶84",
+        "I.1 n109"
+      ]
+    },
+    {
+      "name": "Sendivogius",
+      "work": "Epilogue to the Twelve Treatises",
+      "quote": "it being the custom of philosophers to use them; thou hast need of them",
+      "use": "Supports: indirect teaching by reasons and examples; deliberate contradictions.",
+      "refs": [
+        "I.1 ¶84",
+        "I.1 n110"
+      ]
+    },
+    {
+      "name": "Ripley",
+      "work": "Fifth Gate",
+      "quote": "In horrid metaphors veiled are an art most plain",
+      "use": "Supports: a plain art concealed in metaphor to protect it from the unworthy.",
+      "refs": [
+        "I.1 ¶85",
+        "I.1 n111"
+      ]
+    },
+    {
+      "name": "Roger Bacon",
+      "work": "De Arte Alchemica, p. 345, etc.",
+      "quote": "operate according to the blood; i.e., according to the understanding",
+      "use": "Supports: leave off experiments until understanding is attained.",
+      "refs": [
+        "I.1 ¶86",
+        "I.1 n112"
+      ]
+    },
+    {
+      "name": "Basil Valentine",
+      "work": null,
+      "quote": null,
+      "use": "Cited among adepts who warn against practice before full understanding; 'Basil's' receipts also named among those that misled literal readers.",
+      "refs": [
+        "I.1 ¶86"
+      ]
+    },
+    {
+      "name": "Eiranaeus",
+      "work": null,
+      "quote": null,
+      "use": "Cited among adepts who warn against practice before full understanding.",
+      "refs": [
+        "I.1 ¶86"
+      ]
+    },
+    {
+      "name": "Geber",
+      "work": null,
+      "quote": null,
+      "use": "His receipts, read literally, misled seekers into laboratory practice.",
+      "refs": [
+        "I.1 ¶86"
+      ]
+    },
+    {
+      "name": "Glauber",
+      "work": null,
+      "quote": null,
+      "use": "His receipts, read literally, misled seekers into laboratory practice.",
+      "refs": [
+        "I.1 ¶86"
+      ]
+    },
+    {
+      "name": "Dufresnoy",
+      "work": "Hist. Herm., vol. iii.",
+      "quote": null,
+      "use": "Reference only; no marker for n1742 appears in the chunk text.",
+      "refs": [
+        "I.1 n1742"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "if thou understandest them, thou shalt not find a rose without prickles",
+      "ref": "I.1 ¶84",
+      "readings": [
+        "The truth (rose) always comes with difficulties (prickles) such as the contradictions, and an understanding reader expects this.",
+        "Understanding the contradictions reveals that the obscurities (prickles) belong to and accompany the truth (rose)."
+      ],
+      "basis": "I.1 ¶84: the image directly follows the statement that contradictions are customary and needed; the text does not gloss the image."
+    },
+    {
+      "quote": "apprehend my meaning, and you will find, believe me, being a lighted candle",
+      "ref": "I.1 ¶86",
+      "readings": [
+        "The reader, once he apprehends the meaning, becomes or has 'a lighted candle', i.e. illumination.",
+        "Bacon's meaning/word is itself the lighted candle that lets the reader find."
+      ],
+      "basis": "I.1 ¶86: the grammar leaves the subject of 'being' open; Atwood later in ¶86 speaks of practising 'without the true Light', which fits either reading."
+    },
+    {
+      "quote": "In horrid metaphors veiled are an art most plain",
+      "ref": "I.1 ¶85",
+      "readings": [
+        "The art, which is most plain, is veiled in horrid metaphors.",
+        "Veiling in metaphor is itself an art, practised plainly by the artists."
+      ],
+      "basis": "I.1 ¶85: the verse syntax is inverted; the surrounding lines ('Each artist striving yt howtoconceal') support concealment of the art as the main sense."
+    },
+    {
+      "quote": "with their Whites and Reds deceived almost the whole world",
+      "ref": "I.1 ¶84",
+      "readings": [
+        "Spurious white and red products with which montebanks deceived people.",
+        "Talk of white and red (colours or stages) misused by montebanks."
+      ],
+      "basis": "I.1 ¶84 gives no explanation; capitalization marks it as a term of art."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.1 ¶85",
+      "original": "Each artist striving yt howtoconceal Lest wretched caitiffs shulde the treasure steal. Nor villains shulde their vyllanyes maintain By this rare art; which danger they to heal In horrid metaphors veiled are an art most plain, Lest each fool knowing yt shulde yt when known disdayne",
+      "translation": "Each artist strives to conceal it, lest wretched wretches should steal the treasure, or villains sustain their villainies by this rare art; to remedy which danger, a most plain art is veiled in horrid metaphors, lest every fool, knowing it, should despise it once known.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶86",
+      "original": "credenda",
+      "translation": "things to be believed",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.1 ¶86",
+      "note": "Announces the next step: 'we propose to investigate preliminarily the theoretic ground and matter on which the physical possibility of transmutation rests'."
+    },
+    {
+      "ref": "I.1 n1742",
+      "note": "Footnote 'See Dufresnoy, Hist. Herm., vol. iii.' has no corresponding marker in this chunk's text; its anchor lies elsewhere."
+    }
+  ]
+}

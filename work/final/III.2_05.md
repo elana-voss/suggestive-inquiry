@@ -1,0 +1,276 @@
+# III.2_05
+
+*Atwood argues, through Proclus, Plotinus, Plato, Aristotle and Porphyry, that the Material Principle (First Matter) is reached not by ordinary reasoning but by assimilation: the mind passes through reason into a 'Night of Matter', an obscure oblivion that is the Original of Life, recoils from that nonentity into true Being, and so witnesses Light born from the abyssal Darkness God brings forth as First Matter. Self-active striving drives it away; receptive stillness and presence with one's own essence admit it.*
+
+## Argument
+
+- All things sympathize through Being, but natural consciousness is separated from the antecedent essentiality: we perceive nothing of our true selves, and ordinary reasoning cannot conceive true Being. The ancients call this life a diminution of existence. `III.2 ¶50` — ATWOOD
+- To discover the One Principle one must first be assimilated to it, rising to what is most united in nature, its flower, through which it is Deity. `III.2 ¶50` — QUOTED: Proclus (endorsed by Atwood)
+- Plotinus investigated himself, reality being testified by reminiscence: real beings subsist not as sensibles in place but abide in themselves without mutation or corruption. Roused from body and retiring into his essence, he perceives an admirable beauty and becomes the same with a Divine nature; falling back into discursive reason, he doubts how the soul joined body. `III.2 ¶50, III.2 n41` — QUOTED: Plotinus
+- The soul holds a middle order bordering on sense; rising alternately, it carries back experience of its fall: evil clarifies good. `III.2 ¶50` — QUOTED: Plotinus
+- Atwood turns to the Material Principle the Divine experience imparts, to compare these philosophers' definitions with the Hermetic adepts'. `III.2 ¶51` — ATWOOD
+- The Greeks call this Matter one yet all (no sensible thing), one so far as one (excluding multitude, reflective contemplation, coacervation), everywhere yet nowhere: contrary predicates gather the mind into neutrality and purge external notions. Not absurd: every center bears radii. `III.2 ¶52` — ATWOOD
+- The ethereal element is described only negatively, a certain Infinity. Plotinus: if like knows like, the Indefinite is grasped by the Indefinite, and reason passes into a void, a deprivation of intellect. `III.2 ¶53` — QUOTED: Plotinus
+- Plato: Matter is apprehended by ablative reasoning. Aristotle: Matter is none of Being's predicates, manifest only by negation; contact with it is a kind of ignorance. `III.2 ¶53, III.2 n42` — QUOTED: Plato; Aristotle
+- Since Matter is real, one must pass through reason to the ultimate ignorance which is the Infinity of Life. As the lightless eye becomes one with darkness, the objectless mental eye becomes the obscure oblivion which is the Original of Life, related to true Being as night to day. `III.2 ¶54` — ATWOOD
+- This darkness is the lower extreme of the magnetic chain, opposite infinite light: the ladder of Celsus and Zoroaster. Analytic descent stops at a last effect, proved in the experience, reversing the First Cause's attributes. `III.2 ¶54` — ATWOOD
+- In the Night of Matter the mind receives the formless. Intellect, having analyzed Being, is dismayed, sinks into the Abyssal Subject, feels but no longer understands, until, pained by the void, the soul retracts about her last Unit and becomes into true Being. So Death is the way of Life. `III.2 ¶55` — UNCLEAR
+- Self-knowledge requires deprivation of all other knowledge; selfhood is obliterated in the attraction into the First Cause. At the new birth Light springs from the abyssal Darkness, which God brings forth as a First Matter; so the motto. `III.2 ¶56` — ATWOOD
+- The First Matter flies from whoever intently beholds it: bounding thought eludes the Infinite, desire opposes presence; it is probably present but unperceived by self-active striving. Actaeon, intruding, was hunted by his own thoughts; sleeping Endymion received the goddess. A Latin couplet agrees. `III.2 ¶57, III.2 ¶58` — ATWOOD
+- Porphyry: adding place or relation to the Eternal Essence diminishes and veils it. Established in one's own Essence one is assimilated to the Intelligible; additions from non-being (subjective selfhood) bring poverty; presence with one's rational part is presence with true Being. `III.2 ¶59, III.2 n44` — QUOTED: Prophyry / Porphyry (cited in support)
+- Footnote: Trismegistus likens the Mind of Divinity to a torrent escaping understanding; Vaughan, as eye-witness, describes 'the same Matter' as a pearl-bright, spermatic mineral nature, the First Matter, falling silently, an oil of watery complexion; Sendivogius calls it the water of our sea, not wetting the hands. `III.2 n43` — QUOTED: Trismegistus; Vaughan; Sendivogius (adduced by Atwood)
+
+## Method
+
+- **operator** — “if any one wish to discover the One Principle he must become first assimilated to it” `III.2 ¶50` (QUOTED: Proclus (endorsed by Atwood))
+  - **Plain (stated):** The principle is not known by reasoning about it from outside; the seeker must become like it, rising to what is most unified in nature.
+  - Also: “he must raise himself to that which is most united in nature, and to its flower and that through which it is Deity” `III.2 ¶50`
+  - Also: “If, however, you are unable to keep pace with it, and to become assimilated to the whole Intelligible Nature, you should not investigate anything pertaining to real Being” `III.2 ¶59`
+- **impediment** — “consciousness in this natural life of ours is separated off from the antecedent essentiality, so that we perceive in reality nothing of our true selves” `III.2 ¶50` (ATWOOD)
+  - **Plain (stated):** Ordinary waking consciousness is cut off from the underlying essence, so it neither perceives the true self nor can reach true Being by ordinary reasoning.
+  - Also: “by no ordinary process of rational contemplation is the mind able to conceive of this nature or the infinitude of true Being” `III.2 ¶50`
+- **procedure** — “I am roused from body and converted to myself, and being separated from externals, retire into the depths of my essence” `III.2 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** An inward withdrawal by 'an intellectual energy': out of bodily awareness, turned toward oneself, detached from externals, into the depths of one's own essence.
+  - Also: “I have also, says Plotinus, investigated myself, as one among the order of beings, and the reality is testified by reminiscence” `III.2 ¶50`
+- **result** — “I energize according to the best life and become the same with a nature truly Divine” `III.2 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** The withdrawal ends in perceiving 'an admirable beauty', identity with a divine nature, and rest.
+  - Also: “I then perceive an admirable beauty” `III.2 ¶50`
+  - Also: “fix myself in this sublime eminence as in an ineffable harbour of repose” `III.2 ¶50`
+- **impediment** — “falling off from Intellect into the discursive energy of reason” `III.2 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** The state is temporary: it is lost when the mind lapses back into ordinary step-by-step reasoning, which then doubts the soul's connection with body.
+- **principle** — “For the experience of evil produces a clearer knowledge of good” `III.2 ¶50` (QUOTED: Plotinus)
+  - **Plain (stated):** The soul's descent into the sensible is not wasted: rising alternately, it carries back experience of its fallen state, which by contrast clarifies the superior state.
+  - Also: “our souls are able alternately to rise from hence, carrying back with them an experience of what they have known and suffered in their fallen state” `III.2 ¶50`
+- **subject** — “the Material Principle which, according to these philosophers, the Divine experience imparts” `III.2 ¶51` (ATWOOD)
+  - **Plain (stated):** The Matter under study is something given within the divine experience just described; Atwood will compare the Greek account of it with the Hermetic one.
+- **subject** — “when they assert that it is one, immediately add that it is all things, by which they signify that it is not some one of the things with which sense brings us acquainted” `III.2 ¶52` (QUOTED: These Greeks (endorsed by Atwood))
+  - **Plain (stated):** Calling the Matter both one and all means it is not any sensible object; the Identity of every Being is uncompounded, so it is not to be grasped as a multitude or by dual, reflective thought.
+  - Also: “they say it is one so far as one; depriving the idea of multitude and dual, i.e., reflective, contemplation” `III.2 ¶52`
+- **procedure** — “on endeavoring by means of contrary peculiarities to gather the mind up into a neutrality about itself” `III.2 ¶52` (QUOTED: These Greeks (endorsed by Atwood))
+  - **Plain (stated):** Paired contradictory descriptions (one and all, everywhere and nowhere) are a deliberate device to strip away externally derived notions and ordinary reasoning, leaving the mind collected and neutral.
+  - Also: “in order to exterminate from the apprehension those notions which are externally derived” `III.2 ¶52`
+- **subject** — “neither form, nor quality, nor corporeal, nor reason, nor bound; but a certain Infinity” `III.2 ¶53` (QUOTED: they (the Greek philosophers))
+  - **Plain (stated):** The subject (here 'the ethereal element') has no positive attributes; it can be described only by negations, as an infinite.
+  - Also: “I mean, he says, by Matter, that which of itself is neither essence nor quantity, nor any one of those things, by which Being is defined” `III.2 ¶53`
+  - Also: “Matter, being the last of things (extant without identity), has neither essence nor quantity nor anything else in its perception” `III.2 ¶53`
+- **principle** — “if the similar is perceived by the similar, the Indefinite also will be apprehended by the Indefinite” `III.2 ¶53` (QUOTED: Plotinus)
+  - **Plain (stated):** Since like knows like, the knower must itself become indefinite to grasp the Indefinite; reason then passes out of itself into an undefined void of thought.
+  - Also: “will pass out from itself into an undefined void of thought” `III.2 ¶53`
+- **procedure** — “by a sort of defective or ablative reasoning” `III.2 ¶53` (QUOTED: Plato; Aristotle)
+  - **Plain (stated):** Matter is known by subtraction: by negating every predicate of Being, so that contact with it is itself a kind of not-knowing.
+  - Also: “Matter, therefore, concludes the logician, is made veritably manifest only be negation and in defect of true Being; so that, to pass into contact with it, is to be in a certain respect ignorant” `III.2 ¶53`
+- **procedure** — “not slighting reason indeed, but passing through it, beyond every bound and finite probability in order to conceive that kind of ultimate ignorance, which is the Infinity of Life” `III.2 ¶54` (ATWOOD)
+  - **Plain (stated):** Reason is used and then gone beyond, not discarded; the goal is a state of 'ultimate ignorance' identified with the Infinity of Life.
+- **stage** — “that obscure oblivion which is the Original of Life” `III.2 ¶54` (ATWOOD)
+  - **Plain (stated):** When the mind has no object and all thought and reflection are submerged, and it does not bound what remains, it becomes one with a darkness, as the eye without light becomes one with darkness; this darkness is the origin of life.
+  - Also: “so the mental eye, observant of no attracting object, thought, reflection, and all that in sensibles resembles light being submerged” `III.2 ¶54`
+  - Also: “shall we suppose it to be like darkness to the eye, obscurity being the ground of every visible colour?” `III.2 ¶54`
+  - Also: “a crass, obscure vacuity --- as the Descent Virgil describes it --- vast, endless, horrible” `III.2 ¶54`
+  - Also: “as silence to sound, as night to day, or as body rude or misshapen bears to any artificial form with which it may afterwards become endued” `III.2 ¶54`
+- **principle** — “this darkness, therefore, to be conceived at the opposite extreme of the magnetic chain, which is extended a non gradu ad non gradum” `III.2 ¶54` (ATWOOD)
+  - **Plain (stated):** Being is one continuous chain: infinite pure light above all intelligence at one end, this darkness at the other; the text calls it the ladder of Celsus and Zoroaster from Tartarus to Heaven.
+  - Also: “this is that ladder of Celsus and of Zoroaster which reaches from Tartarus to the highest Heaven” `III.2 ¶54`
+- **subject** — “the last and lowest effect, in which all the attributes of the First Cause are not only deficient but reversed” `III.2 ¶54` (ATWOOD)
+  - **Plain (stated):** Analytic descent through causes must stop at a lowest term, the inverse of the First Cause; the text says this is 'proved, in the experience'.
+  - Also: “the estate of Being verging to annihilation” `III.2 ¶54`
+- **stage** — “When therefore the mind is in the Night of Matter” `III.2 ¶55` (UNCLEAR)
+  - **Plain (stated):** The mind's state when beholding Matter: not blank unconsciousness, but a passive reception of the formless, perceived as obscure, vast and infinite; the intellect feels but no longer understands its intellection.
+  - Also: “when she beholds Matter she suffers such a passion as when she receives the being of that which is formless” `III.2 ¶55`
+  - Also: “sinking into the Abyssal Subject, feels, but understands not her intellection any more” `III.2 ¶55`
+- **sign** — “Intellect, having already analyzed and separated the component parts of Being, becomes dismayed about the sensation of her extreme life” `III.2 ¶55` (UNCLEAR)
+  - **Plain (stated):** Signs of the extreme of the descent, which comes after analysis has separated Being into its parts: dismay, obscure understanding, pain at the void, fear of being out of the order of things.
+  - Also: “pained with the void of the retreating infinitude (such being the divine decree), and as if afraid of being placed out of the order of things” `III.2 ¶55`
+- **stage** — “the soul retracts, rallying about her last deserted Unit, and not enduring any longer to stop at nonentity, becomes into true Being” `III.2 ¶55` (UNCLEAR)
+  - **Plain (stated):** The turning point: the soul recoils from the void, gathers itself around its last remaining unity, and so passes from nonentity into true Being, 'such being the divine decree'.
+- **principle** — “Death is the way of Life” `III.2 ¶55` (ATWOOD)
+  - **Plain (interpreted):** The descent into the Night of Matter and nonentity is the route by which the soul comes into true Being.
+  - Basis: III.2 ¶55: introduced by 'So true is it, that' immediately after the soul passes from nonentity into true Being; III.2 ¶54 calls the oblivion 'the Original of Life'. A wider reading is noted in ambiguities.
+  - Also: “the fear of God is the beginning of Wisdom” `III.2 ¶55`
+- **principle** — “For Self-knowledge is impossible unless every other knowledge is deprived” `III.2 ¶56` (ATWOOD)
+  - **Plain (stated):** Knowing oneself requires emptying out all other knowledge; then the self too is effaced as it is drawn up into the First Cause.
+  - Also: “as this selfhood likewise is obliterated in the overwhelming attraction, which raises it into the First Cuase” `III.2 ¶56`
+- **stage** — “extremes are said to be present at the new birth, when Light springs forth to manifestation out of the abyssal Darkness” `III.2 ¶56` (ATWOOD)
+  - **Plain (stated):** The 'new birth' is the meeting of highest and lowest: light emerging out of the dark abyss. That Darkness is what God brings forth as a First Matter, to give contrast to His revelation and understanding to His Act.
+  - Also: “the abyssal Darkness, which is then alone before its Creator; and is brought forth by Him for a First Matter to give contrasting substance to his revelation, andunderstanding to His Act” `III.2 ¶56`
+- **impediment** — “the desire it, in this instance, diametrically opposed to the presence of the thing desired” `III.2 ¶57` (ATWOOD)
+  - **Plain (stated):** Intent effort defeats itself: thought bounds and so misses the Infinite; the First Matter, though probably present, goes unperceived by one who strives actively to grasp it.
+  - Also: “flies from him, indeed, who wishes intently to behold; for the thought, as circumscribing boundary, eludes the Infinite” `III.2 ¶57`
+  - Also: “it is rather probably present, but is not perceived by him who strives self-actively to comprehend it” `III.2 ¶57`
+- **operator** — “to the sleeping Endymion she vouchsafed her willing presence, and the vast benefits of her love” `III.2 ¶57` (ATWOOD)
+  - **Plain (interpreted):** The required attitude is non-striving receptivity: presumptuous intrusion (Actaeon) is punished by being hunted by one's own distracted thoughts, while the sleeping Endymion receives the presence. The goddess stands for what is sought; this chunk does not name her.
+  - Basis: III.2 ¶57: 'this the poets signify' follows directly on the First Matter being present but not perceived by self-active striving, so intrusion/sleep maps onto striving/non-striving; the III.2 ¶58 couplet makes the same point.
+  - Also: “this the poets signify in the story of Actaeon, who for his presumptuous intrusion was disgraced by the goddess and hunted thereafter by his own distracted thoughts” `III.2 ¶57`
+  - Also: “Quaeres multum et non invenies; Fortasse invneies cumnon quaeres.” `III.2 ¶58`
+- **impediment** — “you separate yourself from the perception of it, by receiving as a veil the phantasy which runs under your conjectural apprehension of it” `III.2 ¶59` (QUOTED: Prophyry / Porphyry)
+  - **Plain (stated):** Imagining the Eternal Essence as located or related to something diminishes it and puts a mental image between the seeker and it.
+  - Also: “to this essence, if you add a subsistence in place, or a relation to a certain thing, at the same time you diminish this essence” `III.2 ¶59`
+- **procedure** — “being established in yourself and in your own Essence, you will be assimilated to the Intelligible Universe” `III.2 ¶59` (QUOTED: Prophyry / Porphyry (cited in support))
+  - **Plain (stated):** Investigating nothing else and resting in one's own essence brings assimilation to the intelligible whole; dropping the idea of being greater, one becomes universal as one was before.
+  - Also: “omitting this idea of greatness, you will become universal, as you were universal prior to this” `III.2 ¶59`
+- **impediment** — “When, therefore, anything is added from non-n\being (i.e., from the subjective selfhood) a place is afforded to poverty as an associate” `III.2 ¶59` (QUOTED: Prophyry / Porphyry (gloss possibly Atwood's; see ambiguities))
+  - **Plain (stated):** 'Non-being' is glossed as the subjective selfhood; whatever it adds makes one lesser and needy, whereas dismissing it restores sufficiency.
+  - Also: “Hence, dismissing non-being, you will then become sufficient” `III.2 ¶59`
+- **principle** — “to be present with that which is present with himself, that is to say, with his rational part, and to be absent from that which is external to him” `III.2 ¶59` (QUOTED: Prophyry / Porphyry)
+  - **Plain (stated):** Being present to oneself, defined as one's rational part, and absent from externals, is being present with true Being; withdrawing from oneself is receding from it.
+  - Also: “when any one is present with that which is present in himself, then he is present with true Being, which is everywhere” `III.2 ¶59`
+- **principle** — “is most like unto a torrent running with a violent and swift stream from a high rock, whereby it glides away also from the understanding of such as are either hearers or dealers in it” `III.2 n43` (QUOTED: Trismegistus)
+  - **Plain (stated):** The Mind of Divinity, which becomes known 'by the Divine Intention in the understanding', escapes the grasp of those who hear of or deal in it; footnoted to Porphyry's image of a perpetually flowing fountain.
+  - Also: “For it is much more sufficient than any perpetually flowing fountain can be conceived to be” `III.2 ¶59`
+- **sign** — “A fat mineral nature it was, he says, bright like pearls, and transparent like crystal” `III.2 n43` (QUOTED: Vaughan (adduced by Atwood))
+  - **Plain (stated):** Vaughan's eye-witness description of the First Matter: fat, pearl-bright, crystal-clear, then spermatic; a stream larger than any river falling in dead silence, snow-like, not common water but an oil of watery complexion. Atwood offers it as describing 'the same Matter'; the chunk does not decode these images further.
+  - Also: “herupon I became informed that it was the First Matter and very natural true sperm of the greater world” `III.2 n43`
+  - Also: “they came down with a dead silence like the still soft air” `III.2 n43`
+  - Also: “it was not common water but a certain kind of oil of a watery complexion” `III.2 n43`
+- **impediment** — “It is invisible in nature and therefore there are few that find it” `III.2 n43` (QUOTED: Vaughan)
+  - **Plain (stated):** The First Matter is hidden in nature, so few find it and many think it cannot be found: the world is made of many contrary qualities, and the first unity is concealed in its generation.
+  - Also: “the first unity is occultated in its generation and does not appear” `III.2 n43`
+- **subject** — “the water of our sea, the water of life, not wetting the hands” `III.2 n43` (QUOTED: Sendivogius)
+  - **Plain (stated):** Sendivogius names this same Matter 'the water of our sea' and 'the water of life', a water that does not wet the hands and is white as snow. Not further explained here.
+  - Also: “that water was as white as snow” `III.2 n43`
+
+## Terms
+
+- **Being** (also: true Being, real Being, real being, truly subsisting Being) — That which is referred to all things and through which they sympathize; not conceivable by ordinary rational contemplation; the soul becomes into it after the descent to nonentity; one is present with it by being present with oneself. (ATWOOD)
+  - “it becomes necessary simply to refer Being to all things, and all things sympathize thereby internally with each other” `III.2 ¶50`
+  - “then he is present with true Being, which is everywhere” `III.2 ¶59`
+- **One Principle** — The principle discoverable only by becoming assimilated to it; the most united in nature, through which it is Deity, uniting the universe in sympathetic consent. (QUOTED: Proclus)
+  - “if any one wish to discover the One Principle he must become first assimilated to it” `III.2 ¶50`
+- **Intelligible** (also: intelligible, Intelligible world, Intelligible Nature, Intelligible Universe) — The higher of the twofold nature (intelligible and sensible); better for the soul to abide in; one is assimilated to it by being established in one's own essence. (QUOTED: Plotinus; Porphyry)
+  - “And since there is a twofold nature, one intelligible and the other sensible, it is better indeed for the soul to abide in the intelligible world” `III.2 ¶50`
+- **discursive energy of reason** — Ordinary reasoning, into which the soul falls back from Intellect after the divine state. (QUOTED: Plotinus)
+  - “falling off from Intellect into the discursive energy of reason” `III.2 ¶50`
+- **Matter** (also: Material Principle, Materiality, subject-matter) — The principle the Divine experience imparts; one and all, everywhere and nowhere; uncompounded; described only by negations, an Infinity; apprehended by ablative reasoning and negation; the last and lowest effect, inverse of the First Cause; yet held to be real. (ATWOOD)
+  - “the Material Principle which, according to these philosophers, the Divine experience imparts” `III.2 ¶51`
+  - “I mean, he says, by Matter, that which of itself is neither essence nor quantity, nor any one of those things, by which Being is defined” `III.2 ¶53`
+  - “they assert this subject-matter to be somewhat; and real, notwithstanding all its inverse and irrational characteristics” `III.2 ¶54`
+- **coacervation** — An error the mind is to avoid: taking the Identity of Being as heaped up or compounded rather than uncompounded. (ATWOOD)
+  - “that the Identity of every Being is something uncompounded, and that the mind should not fall into the error of coacervation” `III.2 ¶52`
+- **dual contemplation** — Reflective contemplation; excluded, with multitude, when Matter is called 'one so far as one'. (ATWOOD)
+  - = reflective contemplation: “depriving the idea of multitude and dual, i.e., reflective, contemplation” `III.2 ¶52`
+- **ethereal element** — Used in ¶53 for the subject described by negations (neither form, quality, body, reason nor bound, but a certain Infinity), in continuing the discussion of Matter; identity with Matter is not stated (see ambiguities). (ATWOOD)
+  - “But since the ethereal element is described by so many ablative characteristics” `III.2 ¶53`
+- **Indefinite** (also: indefiniteness) — The character of the Matter; by the principle that like knows like, apprehended only by the Indefinite, reason passing out into an undefined void of thought. (QUOTED: Plotinus)
+  - “the Indefinite also will be apprehended by the Indefinite” `III.2 ¶53`
+- **Infinite** (also: Infinity, infinite, infinitude) — What the Matter is ('a certain Infinity'); eluded by thought as a circumscribing boundary. (ATWOOD)
+  - “but a certain Infinity” `III.2 ¶53`
+  - “for the thought, as circumscribing boundary, eludes the Infinite” `III.2 ¶57`
+- **ablative reasoning** (also: ablative characteristics) — Defective reasoning by negation, the means by which Matter is apprehended; describing it only by what it is not. (QUOTED: Plato)
+  - “Matter is indeed to be apprehended, and that by a sort of defective or ablative reasoning” `III.2 ¶53`
+- **essence** (also: Essence, essentiality) — In the Aristotle passage: separate subsistence as a particular thing, implying composition of subject and object; Matter is not essence. In Porphyry: one's own Essence, in which one is to be established. (QUOTED: Aristotle; Porphyry)
+  - “a separate subsistence as this or that particular thing especially belongs to what we call essence, (that is to say, composition of subject and object is necessarily implied in the idea of true intelligence)” `III.2 ¶53`
+  - “being established in yourself and in your own Essence” `III.2 ¶59`
+- **ultimate ignorance** — The state reached by passing through reason beyond every bound. (ATWOOD)
+  - = Infinity of Life: “that kind of ultimate ignorance, which is the Infinity of Life” `III.2 ¶54`
+- **obscure oblivion** (also: oblivion) — What the objectless mental eye becomes when all thought is submerged, as the eye becomes one with darkness; a crass, obscure vacuity; related to true Being as night to day. (ATWOOD)
+  - = Original of Life: “that obscure oblivion which is the Original of Life” `III.2 ¶54`
+  - “a crass, obscure vacuity” `III.2 ¶54`
+- **nonentity** — The initial nothingness of all, shown by Parmenides and the rest; the soul does not endure to stop at it and becomes into true Being. (ATWOOD)
+  - “Parmenides and the rest cited to prove the same initial nonentity of all” `III.2 ¶54`
+  - “not enduring any longer to stop at nonentity, becomes into true Being” `III.2 ¶55`
+- **magnetic chain** — The continuum extended from infinite pure light above all intelligence down to the darkness of Matter at the opposite extreme. (ATWOOD)
+  - = ladder of Celsus and of Zoroaster: “this is that ladder of Celsus and of Zoroaster which reaches from Tartarus to the highest Heaven” `III.2 ¶54`
+  - “the opposite extreme of the magnetic chain, which is extended a non gradu ad non gradum” `III.2 ¶54`
+- **First Cause** (also: First Cuase) — The top of the ascending series of causes (the 'Final Cause of all'); the lowest effect reverses its attributes; selfhood is raised into it. (ATWOOD)
+  - “the last and lowest effect, in which all the attributes of the First Cause are not only deficient but reversed” `III.2 ¶54`
+- **Night of Matter** — The condition of the mind beholding Matter: suffering the reception of the formless, perceiving obscurely, vastly, infinitely; feeling without understanding. (UNCLEAR)
+  - “When therefore the mind is in the Night of Matter” `III.2 ¶55`
+- **Formless Subject** — Matter as perceived in the Night of Matter; obscure, vast and infinite. Also called, in the same passage, the Abyssal Subject into which the intellect sinks (no identity asserted outright). (UNCLEAR)
+  - “her perception of the Formless Subject is obscure, and vast, and infinite” `III.2 ¶55`
+  - “sinking into the Abyssal Subject” `III.2 ¶55`
+- **Mysteries** — Into whose 'bosom' Intellect descends when it perceives the Formless Subject. (UNCLEAR)
+  - “descending into the bosom of the Mysteries” `III.2 ¶55`
+- **Unit** — The soul's last remaining unity, about which it rallies when it retracts from nonentity. (UNCLEAR)
+  - “rallying about her last deserted Unit” `III.2 ¶55`
+- **Self-knowledge** — Possible only when every other knowledge is removed. (ATWOOD)
+  - “Self-knowledge is impossible unless every other knowledge is deprived” `III.2 ¶56`
+- **selfhood** (also: subjective selfhood) — The self that is obliterated in the attraction into the First Cause; in ¶59 'non-being' is glossed as the subjective selfhood, whose additions bring poverty. (UNCLEAR)
+  - = non-being: “anything is added from non-n\being (i.e., from the subjective selfhood)” `III.2 ¶59`
+  - “as this selfhood likewise is obliterated in the overwhelming attraction, which raises it into the First Cuase” `III.2 ¶56`
+- **new birth** — The moment when extremes are present and Light springs forth out of the abyssal Darkness. (ATWOOD)
+  - “extremes are said to be present at the new birth, when Light springs forth to manifestation out of the abyssal Darkness” `III.2 ¶56`
+- **First Matter** (also: primam materiam) — The abyssal Darkness brought forth by God to give contrasting substance to His revelation; the one substance God created in the beginning; without affirmation, not known in energy, fleeing one who intently beholds it; unknown or known as nothing; present but unperceived by self-active striving. (ATWOOD)
+  - = abyssal Darkness: “the abyssal Darkness, which is then alone before its Creator; and is brought forth by Him for a First Matter” `III.2 ¶56`
+  - = unam substantiam (one substance created by God): “Creavit unam substantiam, Hanc primam materiam nominamus.” `III.2 ¶56`
+  - = very natural true sperm of the greater world: “it was the First Matter and very natural true sperm of the greater world” `III.2 n43`
+  - = water of our sea; water of life: “This same, Sendivogius in his New Light, calls the water of our sea, the water of life, not wetting the hands” `III.2 n43`
+  - “the First Matter, which cannot either receive the appellation of Being, since it is not known in energy, but flies from him, indeed, who wishes intently to behold” `III.2 ¶57`
+- **hypostasis** — Used of the First Matter (in the beginning without all affirmation) and of the Eternal Essence perceived intellectually. (ATWOOD)
+  - “such an hypostasis is in the beginning without all affirmation” `III.2 ¶57`
+  - “begin to perceive intellectually an hypostasis unwearied, untamed, and never failing” `III.2 ¶59`
+- **Eternal Essence** — An essence infinite in power, self-established, self-sufficient, seeking nothing but itself; nothing can be added to it, and adding place or relation diminishes it. (QUOTED: Prophyry / Porphyry)
+  - “When you have assumed to yourself an Eternal Essence, says Prophyry, infinite in itself according to power” `III.2 ¶59`
+  - “it is much more sufficient than any perpetually flowing fountain can be conceived to be” `III.2 ¶59`
+- **rational part** — That which is present with a man himself; presence with it, and absence from the external, is presence with true Being. (QUOTED: Prophyry / Porphyry)
+  - = that which is present with himself: “to be present with that which is present with himself, that is to say, with his rational part” `III.2 ¶59`
+
+## Sources cited
+
+- **the ancients** `III.2 ¶50, III.2 ¶54` — Supports: this life is a diminution of existence (¶50); the 'wise ancients' compared the estate of Being verging to annihilation to darkness for the eye (¶54).
+- **Proclus**, *sixth book, on the Parmenides of Plato* — “he must raise himself to that which is most united in nature, and to its flower” `III.2 ¶50` — Supports: one must be assimilated to the One Principle to discover it.
+- **Plotinus** — “the reality is testified by reminiscence” `III.2 ¶50, III.2 ¶53` — Supports: real beings abide in themselves, known by self-investigation and reminiscence (¶50; marker (30) has no footnote in this chunk); in ¶53 asks how the infinite is conceived: the Indefinite by the Indefinite.
+- **Plotinus**, *treatise concerning the Descent of the Soul* — “Often when by an intellectual energy, I am roused from body and converted to myself” `III.2 ¶50, III.2 n41` — Supports: inward withdrawal, union with Divine nature, the soul's middle order and the value of its fall.
+- **T. Taylor** `III.2 n41` — Reference only: n41 says the Descent of the Soul is the last of five Plotinus treatises 'rendered by T. Taylor'.
+- **These Greeks / these philosophers** `III.2 ¶51, III.2 ¶52` — Their contrary predicates for Matter (one/all, everywhere/nowhere) are expounded and defended by Atwood, for comparison with the Hermetic adepts.
+- **Plato**, *Timaeus* — “Matter is indeed to be apprehended, and that by a sort of defective or ablative reasoning” `III.2 ¶53` — Supports: Matter apprehended by negative reasoning.
+- **Aristotle**, *Metaphysics (n42: Metaph., Book 9, p. 221; Book 9, p. 237)* — “I mean, he says, by Matter, that which of itself is neither essence nor quantity” `III.2 ¶53, III.2 n42` — Supports: Matter is manifest only by negation; contact with it is a kind of ignorance. Called 'the logician'.
+- **Virgil**, *the Descent* — “vast, endless, horrible” `III.2 ¶54` — Illustrates the crass, obscure vacuity of the Original of Life.
+- **Parmenides** `III.2 ¶54` — Cited with 'the rest' to prove the initial nonentity of all.
+- **Celsus** — “that ladder of Celsus and of Zoroaster which reaches from Tartarus to the highest Heaven” `III.2 ¶54` — Illustrates: the ladder is identified with the magnetic chain.
+- **Zoroaster** — “that ladder of Celsus and of Zoroaster which reaches from Tartarus to the highest Heaven” `III.2 ¶54` — Illustrates: the ladder is identified with the magnetic chain.
+- **the philosopher** — “By no means, says the philosopher” `III.2 ¶55` — Supports: in the Night of Matter the mind receives the formless rather than understanding nothing. Not named (see ambiguities).
+- **the motto** — “Deus, cum solus fuisset in principio, Creavit unam substantiam, Hanc primam materiam nominamus.” `III.2 ¶56` — Supports: the First Matter as the one substance God created in the beginning.
+- **the Platonist and the Kabalist** `III.2 ¶57` — Supports: the First Matter is unknown, or known as nothing.
+- **the poets**, *story of Actaeon (and Endymion)* — “to the sleeping Endymion she vouchsafed her willing presence” `III.2 ¶57` — Illustrates: presumptuous striving repels; sleeping receptivity receives the presence.
+- **unattributed Latin couplet** — “Quaeres multum et non invenies; Fortasse invneies cumnon quaeres.” `III.2 ¶58` — Illustrates: finding comes without seeking.
+- **Prophyry / Porphyry**, *Auxil. to the Perception of Intelligibles, sec.3* — “being established in yourself and in your own Essence, you will be assimilated to the Intelligible Universe” `III.2 ¶59, III.2 n44` — Supports: adding place or relation veils the Eternal Essence; self-presence assimilates to the Intelligible; additions from selfhood impoverish.
+- **Trismegistus**, *Asclepius, cap. 1 end* — “is most like unto a torrent running with a violent and swift stream from a high rock” `III.2 n43` — Illustrates: the Mind of Divinity eludes understanding (footnote to Porphyry's fountain image).
+- **Vaughan**, *Lumen de Lumine, pp. 7, 8* — “A fat mineral nature it was, he says, bright like pearls, and transparent like crystal” `III.2 n43` — Supports: eye-witness description of 'the same Matter', identified as the First Matter.
+- **Sendivogius**, *New Light* — “the water of our sea, the water of life, not wetting the hands” `III.2 n43` — Supports: another name and eye-witness description of the same Matter.
+
+## Ambiguities
+
+- “hence the ancients have declared this life to belittle better than a diminution of existence” `III.2 ¶50`
+  - Reading: 'to be little better than' a diminution of existence (misprint).
+  - Reading: 'to belittle' as a verb: disparage this life as a diminution.
+  - Basis: The sentence requires a comparison ('better than'); the joined word looks like a misprint.
+- “But since the ethereal element is described by so many ablative characteristics” `III.2 ¶53`
+  - Reading: 'The ethereal element' is another name for the Matter/Material Principle of ¶51-52.
+  - Reading: It names a distinct element sharing the same negative description.
+  - Basis: ¶53 continues directly from ¶52's account of 'this Matter' and returns to 'Matter' via Plato and Aristotle; no identity is stated.
+- “By no means, says the philosopher” `III.2 ¶55`
+  - Reading: The unnamed philosopher is Plotinus, the last philosopher shown asking questions about the Indefinite (¶53).
+  - Reading: Another of those cited, e.g. Aristotle, called 'the logician' at the end of ¶53.
+  - Basis: ¶55 does not name him; both are cited in ¶53.
+- “as we have shown” `III.2 ¶55`
+  - Reading: The philosopher's words end early (after 'formless'), and the rest of ¶55, including 'So true is it', is Atwood's.
+  - Reading: The philosopher speaks through the soul's retraction into true Being, and only the closing maxim is Atwood's.
+  - Basis: No quotation marks; 'as we have shown' suggests Atwood's voice resumes, but the boundary is unmarked.
+- “Death is the way of Life” `III.2 ¶55`
+  - Reading: The descent into the Night of Matter/nonentity is the way to true Being (narrow reading).
+  - Reading: Also the obliteration of selfhood in the attraction into the First Cause (¶56).
+  - Basis: ¶55 places it right after the soul passes from nonentity into true Being; ¶56 begins 'For' and speaks of selfhood obliterated, which may extend the point.
+- “to the sleeping Endymion she vouchsafed her willing presence” `III.2 ¶57`
+  - Reading: 'Sleeping' means non-striving receptivity in general.
+  - Reading: 'Sleeping' refers to a sleep-like state in which thought is submerged.
+  - Basis: ¶57 contrasts it with one who 'strives self-actively'; ¶54 describes the mental eye with thought and reflection 'submerged'. The text does not say which.
+- “(i.e., from the subjective selfhood)” `III.2 ¶59`
+  - Reading: Atwood's interpolated gloss inside the Porphyry passage.
+  - Reading: Part of the quoted Porphyry text.
+  - Basis: Parenthetical glosses elsewhere in the chunk (¶52 'i.e., reflective'; ¶53 '(that is to say ...)') occur in Atwood's paraphrases; no quotation marks mark the boundary.
+- “the artist describes the same Matter as if he had been an eye-witness of the whole supernal procedure from its source” `III.2 n43`
+  - Reading: 'The same Matter' is the Mind of Divinity likened to a torrent (Trismegistus), and through it Porphyry's ever-flowing Eternal Essence; Vaughan's great silent stream would then picture that same thing.
+  - Reading: 'The same Matter' is the First Matter / Material Principle of the chapter generally.
+  - Basis: n43 is attached to Porphyry's 'perpetually flowing fountain' and follows the torrent image; Vaughan's stream 'more large than any river' with its 'height and violence of the fall' echoes the torrent; Vaughan himself names it 'the First Matter'. The note does not state which antecedent is meant.
+
+## Translations
+
+- `III.2 ¶54` “a non gradu ad non gradum” → from no degree to no degree *(ours)*
+- `III.2 ¶56` “Deus, cum solus fuisset in principio, Creavit unam substantiam, Hanc primam materiam nominamus.” → God, when he was alone in the beginning, created one substance; this we name the first matter. *(ours)*
+- `III.2 ¶58` “Quaeres multum et non invenies; Fortasse invneies cumnon quaeres.” → You will seek much and not find; perhaps you will find when you do not seek. *(ours)*
+
+## Threads
+
+- `III.2 ¶50` Footnote marker (30) after the first Plotinus quote refers to a footnote not contained in this chunk.
+- `III.2 ¶51` 'the foregoing Hermetic philosophers and adepts': the Greek definitions of the Material Principle are to be compared with Hermetic definitions given earlier.
+- `III.2 ¶55` 'as we have shown': the obscure, vast, infinite perception of the Formless Subject refers back to the preceding argument (¶53-54 or earlier).
+- `III.2 ¶56` 'As the motto simply expresses it': the definite article suggests a motto known from elsewhere; this chunk does not identify it.

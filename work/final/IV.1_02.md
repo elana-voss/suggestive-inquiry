@@ -1,0 +1,341 @@
+# IV.1_02
+
+*Through Norton’s Ordinal, Basil, Hermes, Eirenaeus and Khunrath, Atwood insists that the Gross Work be slow, gentle, laborious and costly, lest the internal agent wake too soon and divide the Chaos; she then argues that the working theory comes only through practice, grace and a reflexive rational analysis reaching the Light within, identifies the Lunar Vulcan as the first prepared Subject, and closes with Aristotle's rule of deliberating about means, not ends.*
+
+## Argument
+
+- Feed the matter evenly and leisurely (Avicen, Rasis, the prophet); the work needs watching, pains and costly food, so poor men beware (Arnolde); haste fails; cleansing is unsuspectedly long; half a quarter hour's excess may destroy all; simmer, not boil. `IV.1 ¶12, IV.1 n14` — QUOTED: Norton’s Ordinal
+- Haste is warned against lest centers stir before circumferences can conceive them. Lame Oedipus signifies not hastening the Sphinx's riddle; Festina Lente applies especially to trituration of the Philosophic Subject: slow, gentle, continuous. `IV.1 ¶13, IV.1 ¶14` — ATWOOD
+- Too great excitation may wake the internal agent, dissever the Chaos, and set the two Principles against each other before mastery is secure. `IV.1 ¶15` — ATWOOD
+- Wing the Matter, but let Mercury accustom it to flight gradually; bind it lest, like Icarus, it nears the Sun and falls; loose it after due time. `IV.1 ¶15, IV.1 n15` — QUOTED: Basil
+- Drown the flying bird flying; separate the redness holding it in death so it lives by forbearing to fly; withdraw the watery corrupted redness until pure; governed by Reason and the days, it becomes a companion making one an honoured Lord. `IV.1 ¶15, IV.1 n16` — QUOTED: Hermes
+- Avoid things wild and vicious; spare neither labor nor purse; who daily craves the end is furthest behind; three years for the Gross Work would be blessed. `IV.1 ¶16, IV.1 n17` — QUOTED: Norton’s Ordinal
+- This refers chiefly to the Second Operation; periods are often metaphorical for discovering the philosophic Salt. Faulty beginnings, indisposed patients, ignorant agents and perplexing records protract them. Eirenaeus had the Arcanum in two and a half years. `IV.1 ¶17, IV.1 n18` — ATWOOD
+- Theory helps, but books give only general principles; the working theory comes through practice, by rational inquisition of the Light within. The Art springs from involved thought; speculation follows action. `IV.1 ¶18` — ATWOOD
+- It is obtained by grace, not reading, idleness or will. `IV.1 ¶19, IV.1 n19` — QUOTED: Kelly
+- Seek grace and Truth within the Spirit's life: the analyzer must be analyzed, resolving the separable Selfhood until the inseparable Unit of Truth; this is rational permeation into Nature's Causal Light. `IV.1 ¶20` — ATWOOD
+- The self-moved Phoeacian ships and Alcinous' court signify the dominion of Intellect; Taylor read the Odyssey allegorically. `IV.1 ¶20, IV.1 ¶21, IV.1 ¶22, IV.1 n20` — ATWOOD
+- Moderate study or instinct cannot judge the Mystery; walls and a vast sea precede the royal coast. Beyond the first barriers come Herculean labors for whoever, nearing the Nether confines, chooses Light; wisdom rewards arduous research. `IV.1 ¶23, IV.1 ¶24, IV.1 ¶25, IV.1 n21` — ATWOOD
+- The Gross Work is foul and perilous; all err; once ended it need never be repeated. It is handicraft with a hundred faults, needing experience, uniformity, one vessel, no commixtion, able ministers. `IV.1 ¶25, IV.1 ¶26, IV.1 ¶27, IV.1 ¶28, IV.1 n22, IV.1 n23` — QUOTED: Norton’s Ordinal
+- Flamel learned discretion; Eirenaeus promises a guide. `IV.1 ¶29` — ATWOOD
+- He worked at his own cost, learned from error, read book against book, kept notes, meditated constantly. `IV.1 ¶29, IV.1 n24` — QUOTED: Khunrath
+- The Stone, a pure petrification of the Spirit, is prepared with the Lunar Vulcan: the first prepared Subject, Diana, the Adepts' interior Fire, roused by exterior excitation. Ethereal humidity nourishes the Solar Light: the Nemean Lion. `IV.1 ¶29` — ATWOOD
+- Inquire about means, not Ends, holding right intention; Aristotle: deliberation traces media back to the first Cause, found last, like analyzing a diagram. `IV.1 ¶30, IV.1 n25` — ATWOOD
+
+## Method
+
+- **procedure** — “the trituration of the Philosophic Subject, which ought to be slow, gentle, and continuous” `IV.1 ¶13` (ATWOOD)
+  - **Plain (stated):** The working of the subject must proceed slowly, gently and without interruption; haste is to be avoided.
+  - Basis: IV.1 ¶13 states it directly after 'Festina Lente --- Make not too much haste'.
+  - Also: “Festina Lente --- Make not too much haste” `IV.1 ¶13`
+  - Also: “Gutta cavat lapidem non vi sed saepe cadendo.” `IV.1 ¶14`
+  - Also: “And so with long leisure it will waste And not with bubbling made in haste” `IV.1 ¶12`
+  - Also: “Let not your matters eate over hastily.” `IV.1 ¶12`
+- **procedure** — “Eat as it drinketh and drink as it doth eate” `IV.1 ¶12` (QUOTED: Norton’s Ordinal)
+  - **Plain (interpreted):** The matter is 'fed' in balance, its eating and drinking matched, and leisurely, with a 'sweate' in the meantime. This chunk does not say what the food and drink are.
+  - Basis: IV.1 ¶12: the verse renders Avicen's 'Comedas ut bibas'; Rasis 'set the dietary' ('wisely consume their foode leisurlie'); the prophet's verse on watering the earth is applied 'to this intention'; the food is 'full costly meate'.
+  - Also: “But wisely consume their foode leisurlie.” `IV.1 ¶12`
+  - Also: “Visitasti terram et inebriasti eam,” `IV.1 ¶12`
+  - Also: “And in the meane season, take it a perfect sweate.” `IV.1 ¶12`
+- **sign** — “To know the simperings of our Stone, Till it may no more simper do, nor cease,” `IV.1 ¶12` (QUOTED: Norton’s Ordinal)
+  - **Plain (interpreted):** The operator must recognize the Stone's gentle simmering and keep it at a simmer, not a boil. The verse adds that long continuance brings no increase; the exact sign is not further explained here.
+  - Basis: IV.1 ¶12: the closing lines contrast water that 'will bubble and boyle' with butter and oil that 'must simmer', wasting 'with long leisure' not 'with bubbling made in haste'.
+  - Also: “Remember that water will bubble and boyle, But butter must simmer and also oyle;” `IV.1 ¶12`
+  - Also: “And yet long continuance may not cause increase.” `IV.1 ¶12`
+- **impediment** — “Excess of one half quarter of an hour May destroy all” `IV.1 ¶12` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** Timing is critical: a very small overrun can ruin the whole work.
+  - Basis: Literal statement in IV.1 ¶12.
+- **stage** — “The length of clensing matters infected Deceiveth much people for that is unsuspected.” `IV.1 ¶12` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** The cleansing of the impure matter takes far longer than people expect, and many are misled by this.
+  - Basis: Literal statement in IV.1 ¶12.
+- **operator** — “Men must wake when they desire to winke; For it is labor of watch and paines greate,” `IV.1 ¶12` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** The operator needs vigilance, patience and sustained toil; impatience for the result puts one furthest behind.
+  - Basis: IV.1 ¶12; IV.1 ¶16; IV.1 ¶25 'No one may hope, without toil and perseverance, to obtain it'.
+  - Also: “Esto longanimus et suavis, said he, For hasty men th’ end shall never see.” `IV.1 ¶12`
+  - Also: “And in the Gross Worke he is furthest behind, That dayly desireth the end thereof to find.” `IV.1 ¶16`
+  - Also: “No one may hope, without toil and perseverance, to obtain it.” `IV.1 ¶25`
+  - Also: “Wisdom is the reward of voluntary and arduous research.” `IV.1 ¶25`
+- **operator** — “For this Art ‘longeth to greate men of the worlde.” `IV.1 ¶12` (QUOTED: Arnolde (in Norton’s Ordinal))
+  - **Plain (stated):** The work is costly, so poor men are warned off; the operator must spare neither labor nor purse. Whether the cost is literal or figurative is not said.
+  - Basis: IV.1 ¶12 gives the reason: 'Also the foode is full costly meate. Therefore all poore men beware, says Arnolde'; IV.1 ¶16 on the purse; Khunrath worked 'with no small expense' (IV.1 ¶29).
+  - Also: “Also the foode is full costly meate.” `IV.1 ¶12`
+  - Also: “Neither yet his purse, though he make it full bare;” `IV.1 ¶16`
+- **impediment** — “lest by too great excitation the internal agent awakening should cause a disseveration in the Chaos, and the two Principles stand up one against the other, before the intended mastery is secure” `IV.1 ¶15` (ATWOOD)
+  - **Plain (interpreted):** Over-stimulating the subject wakes its inner agent too early; the Chaos then divides and its two Principles turn against each other before the operator has control. The same danger is put as stirring the centers before the circumferences can conceive them. This chunk names neither the Principles nor the centers.
+  - Basis: IV.1 ¶15 gives this as the reason for the Adepts' cautions; IV.1 ¶13 gives the parallel reason for warnings against haste. 'Chaos', 'centers' and 'circumferences' are not defined here (see ambiguities).
+  - Also: “lest the centers should be stirred up before the circumferences are ready to conceive them” `IV.1 ¶13`
+- **principle** — “Oedipus, he who of yore overcame the Sphinx, was lame and impotent in his feet” `IV.1 ¶13` (ATWOOD)
+  - **Plain (stated):** The lameness means one must not hurry to solve the riddle, lest it reveal itself before one properly understands it.
+  - Basis: IV.1 ¶13: 'signifying by this (amongst other abstruse allusions) that we should not make too much haste to the solution of her riddle'.
+  - Also: “lest she should expound herself without a proper understanding unawares” `IV.1 ¶13`
+- **procedure** — “permit it not to fly suddenly, rather deliver it to Mercury, to be instructed by him gradually to accustom itself to flying” `IV.1 ¶15` (QUOTED: Basil)
+  - **Plain (interpreted):** Once the Matter is given 'wings' (made able to rise), it must be accustomed to this gradually under Mercury and held back, lest it rise too soon and be lost; only after its due time are its bonds loosed, which is the goal all practitioners aim at. Juno, Bacchus, Vulcan and Mercury are not explained in this chunk.
+  - Basis: IV.1 ¶15: 'Cause, therefore, wings to be prepared for the Matter'; 'bind it with a cord'; the Icarus image ('approach too near the Sun'); 'after you have detained it for its due time, loose its bonds towards which all sons of Art aim to arrive'; placed among the warnings against haste (IV.1 ¶13–15).
+  - Also: “Cause, therefore, wings to be prepared for the Matter by Juno, Bacchus, and Vulcan” `IV.1 ¶15`
+  - Also: “yea, bind it with a cord” `IV.1 ¶15`
+  - Also: “after you have detained it for its due time, loose its bonds” `IV.1 ¶15`
+- **procedure** — “Take the flying bird, says Hermes, and drown it flying” `IV.1 ¶15` (QUOTED: Hermes)
+  - **Plain (interpreted):** The volatile part is to be held down while still volatile, so that it 'lives' by not flying away.
+  - Basis: IV.1 ¶15: 'that it may live and answer thee not by flying away indeed to the region above, but truly by forbearing to fly'.
+  - Also: “not by flying away indeed to the region above, but truly by forbearing to fly” `IV.1 ¶15`
+- **procedure** — “divide and separate it from its redness, which holds it in death” `IV.1 ¶15` (QUOTED: Hermes)
+  - **Plain (interpreted):** A corrupt, watery 'redness' that holds the bird in death, and a shadow that darkens its ray, are drawn off repeatedly until the redness is pure. What the redness and the ray are is not explained.
+  - Basis: IV.1 ¶15: 'this watery corrupted redness, which is, as a live coal holding the fire, which if thou shalt withdraw so often until the redness is made pure'; 'Extract from the ray its shadow and its obscurity'.
+  - Also: “Take, my son, this watery corrupted redness, which is, as a live coal holding the fire” `IV.1 ¶15`
+  - Also: “Extract from the ray its shadow and its obscurity, by which the clouds hang over it and corrupt, and keep away the light” `IV.1 ¶15`
+- **result** — “then it will become a companion to thee, and by it thou shalt become an honoured Lord” `IV.1 ¶15` (QUOTED: Hermes)
+  - **Plain (interpreted):** Once released and governed by reason and the proper timing, the purified volatile stays with the operator and gives him mastery.
+  - Basis: IV.1 ¶15: 'thou shalt govern it according to Reason and according to the days specified'; 'then it will associate with thee, by who it was cherished and in who it rests'.
+  - Also: “then it will associate with thee, by who it was cherished and in who it rests” `IV.1 ¶15`
+- **operator** — “He that would seek tincture most specious, Must needly avoid all things wild and vicious;” `IV.1 ¶16` (QUOTED: Norton’s Ordinal)
+  - **Plain (interpreted):** The seeker must avoid wild and vicious things; each of the many means has its own property and may help or hinder. Whether this is moral or material is not said.
+  - Basis: IV.1 ¶16: 'Of manifold means each hath his property'; 'Some that will help, and some that would let.'
+  - Also: “Some that will help, and some that would let.” `IV.1 ¶16`
+- **stage** — “the periods are often to be understood metaphorically with respect to the discovery of the philosophic Salt” `IV.1 ¶17` (ATWOOD)
+  - **Plain (stated):** Stated durations such as the Ordinal's 'three years' refer chiefly to the Second Operation and often figuratively measure progress toward finding the philosophic Salt; actual time varies by person.
+  - Basis: IV.1 ¶17 glosses the three years of IV.1 ¶16: 'This is meant chiefly in reference to the Second Operation'; 'Some have met the Light sooner, some later'.
+  - Also: “If the Grosse worke with all his circumstance Were done in three years it were a blessed chance” `IV.1 ¶16`
+  - Also: “This is meant chiefly in reference to the Second Operation” `IV.1 ¶17`
+  - Also: “Some have met the Light sooner, some later” `IV.1 ¶17`
+- **impediment** — “the natural periods are protracted by faulty conditions from the commencement, by the indisposition of patients, as by the ignorance of agents” `IV.1 ¶17` (ATWOOD)
+  - **Plain (interpreted):** The work is prolonged by a bad start, by unfit 'patients', by ignorant 'agents', and by the confusion of the written records; to some it is never granted.
+  - Basis: IV.1 ¶17; 'the perplexity of the records have added to the natural difficulty'. What 'patients' and 'agents' denote is uncertain (see ambiguities).
+  - Also: “the perplexity of the records have added to the natural difficulty, and to others it has never been vouchsafed” `IV.1 ¶17`
+- **principle** — “The working theory, as we long ago suggested, can be obtained through the practice only; for the way develops itself I the practice by rational inquisition of the Light within.” `IV.1 ¶18` (ATWOOD)
+  - **Plain (stated):** A sound theoretical foundation helps, but books give only general principles; the actual method is learned by doing it, guided by rational inquiry into an inner Light.
+  - Basis: IV.1 ¶18: 'the better foundation there is laid in theory from the commencement ... the surer, easier, and more rapid would be the result'; 'from books, general principles only can be gathered'.
+  - Also: “from books, general principles only can be gathered, and instruction from particular experience” `IV.1 ¶18`
+  - Also: “Ab actionibus procedit speculatio” `IV.1 ¶18`
+  - Also: “Without experience ye may not do well.” `IV.1 ¶28`
+- **principle** — “the Hermetic Art is not so much the offspring of natural intelligence as of involved thought” `IV.1 ¶18` (ATWOOD)
+  - **Plain (stated):** Success depends less on native cleverness than on sustained, developing thought, each discovery opening a further inquiry; Atwood presents this as encouraging to students facing the Adepts' disguises.
+  - Basis: IV.1 ¶18: 'this may be a matter of gratulation to students'; 'each discovery opens into a new field of inquiry'.
+  - Also: “each discovery opens into a new field of inquiry” `IV.1 ¶18`
+- **operator** — “But, as I said, by grace it is obtained:” `IV.1 ¶19` (QUOTED: Kelly)
+  - **Plain (stated):** The Art is obtained by grace, not by reading, sitting still, fancy or will alone; Atwood takes this up: 'seek grace'.
+  - Basis: IV.1 ¶19; IV.1 ¶20 opens 'See k grace'.
+  - Also: “Not all by reading, nor by long sitting still;” `IV.1 ¶19`
+  - Also: “See k grace; and, by importunity of reason, seek for the clue of Truth within the Spirit’s life” `IV.1 ¶20`
+- **procedure** — “That which analyzes even must be analyzed; that, returning analytically, it may resolve the separable Selfhood and reiterate the same by alternation until it arrives at the inseparable Unit of Truth.” `IV.1 ¶20` (ATWOOD)
+  - **Plain (interpreted):** The analyzing faculty turns its analysis back on itself and repeats this, alternately, dissolving whatever in the self is separable, until it reaches an indivisible unity of truth; Atwood calls this rational penetration, through understanding Nature, into her causal Light.
+  - Basis: IV.1 ¶20, introduced by 'by importunity of reason, seek for the clue of Truth within the Spirit’s life' and summed up as 'the way of rational permeation ... into her Causal Light'.
+  - Also: “seek for the clue of Truth within the Spirit’s life” `IV.1 ¶20`
+  - Also: “And this is the way of rational permeation, by the Understanding of Nature, into her Causal Light.” `IV.1 ¶20`
+- **result** — “that court of King Alcinous, to which Ulysses became admitted, is the dominion of Intellect” `IV.1 ¶22` (ATWOOD)
+  - **Plain (stated):** The realm reached is the dominion of Intellect; the self-moving, mind-filled, pilotless Phoeacian ships, by which 'the realms assign’d' are reached, signify the same.
+  - Basis: IV.1 ¶22: 'which, in the description of these Phoeacian ships, also, is admirably signified'; the verse follows the account of rational permeation (IV.1 ¶20).
+  - Also: “In wondrous ships self-moved, instinct with mind;” `IV.1 ¶21`
+  - Also: “So shalt thou instant reach the realms assign’d” `IV.1 ¶20`
+- **impediment** — “brazen walls and adamantine are between, and all the breadth of that vast sea to be passed over before we can hope to set foot upon the royal coast” `IV.1 ¶23` (ATWOOD)
+  - **Plain (interpreted):** Great barriers separate the seeker from the goal; moderate study, a few spontaneous revelations or natural instinct are not enough to judge the Mystery.
+  - Basis: IV.1 ¶23: 'it is not from a moderate study or a few spontaneous revelations of the Spirit’s virtue, or natural instinct, that we should presume to judge of the Hermetic Mystery'.
+  - Also: “Huge, horrid, vast --- where scarce in safety sails The best built ship, tho’ Jove inspires the gales” `IV.1 ¶24`
+- **stage** — “after the first floodgates and barriers are overpast, greater obstacles await him, and Herculean labors, who dares, approaching to the Nether confines, to make choice of Light” `IV.1 ¶25` (ATWOOD)
+  - **Plain (interpreted):** Passing the first barriers leads to harder trials for one who approaches the 'Nether confines' to choose Light; only voluntary, persistent labor wins wisdom, as the heroes labored before Ariadne or Medea aided them. The Nether confines are not explained.
+  - Basis: IV.1 ¶25: 'Wisdom is the reward of voluntary and arduous research'; Perseus, Theseus, Jason and others as examples.
+  - Also: “before Medea led him to the Field of Mars” `IV.1 ¶25`
+  - Also: “For the Gross Worke is foule in her kinde,” `IV.1 ¶25`
+- **result** — “He shall end it once for certaine” `IV.1 ¶27` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** Whoever once completes the Gross Work will never have to repeat it.
+  - Basis: IV.1 ¶27–28, continued by 'Shall never have neede to begin againe'.
+  - Also: “Shall never have neede to begin againe.” `IV.1 ¶28`
+- **principle** — “For in this worke find ye nothing shall, But handie crafte, called Art mechanical,” `IV.1 ¶28` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** The Gross Work is manual craft with a hundred ways to err; no one is skilled at first, so it cannot be done well without experience.
+  - Basis: IV.1 ¶28; IV.1 ¶26 'No man’s wit can hi so avile But that sometimes he shall make a faile'.
+  - Also: “Wherein a hundred ways and moe, Ye may commit a fault as ye therein goe” `IV.1 ¶28`
+  - Also: “Nemo prima fronte reperitur discretus” `IV.1 ¶26`
+- **procedure** — “Use one manner of vessel in matter and in shape, Beware of Commixtion that nothing miscape.” `IV.1 ¶28` (QUOTED: Norton’s Ordinal)
+  - **Plain (stated):** Keep all conditions uniform, use one kind of vessel in material and shape, and avoid mixing in anything; the vessel is not specified here.
+  - Basis: Literal instruction in IV.1 ¶28.
+  - Also: “To keep Uniformity of all things requisite;” `IV.1 ¶28`
+- **operator** — “If your ministers be witty and trew, Such shall not need your workes to renew” `IV.1 ¶28` (QUOTED: Norton’s Ordinal)
+  - **Plain (interpreted):** Capable, honest helpers spare the operator from redoing the work; Atwood follows with the guide Eirenaeus promises. Who the ministers or the guide are is not said.
+  - Basis: IV.1 ¶28; IV.1 ¶29 'Eirenaeus promises a guide, and describes him too in his Ripley Revived'; Khunrath worked 'now in companionship, and now not'.
+  - Also: “Eirenaeus promises a guide” `IV.1 ¶29`
+- **operator** — “What was wrong taught me what was right, from day to day one book throwing light upon another, I was enabled to interpret them.” `IV.1 ¶29` (QUOTED: Khunrath)
+  - **Plain (stated):** The operator learns by persistent trial and error, by reading books against each other, by recording conversations, experiments and ideas, and by constant meditation, letting nature teach through the art.
+  - Basis: IV.1 ¶29, Khunrath's own account.
+  - Also: “I observed what nature taught me by the ministry of art.” `IV.1 ¶29`
+  - Also: “carefully keeping note of conversations, experiments, and conceptions of my own as well as others” `IV.1 ¶29`
+  - Also: “But how should he do well who never has done amiss?” `IV.1 ¶29`
+- **subject** — “the Lunar Vulcan, as we long ago suggested, is meant the first prepared Subject, which is also called Diana, and the secret natural interior Fire of Adepts” `IV.1 ¶29` (ATWOOD)
+  - **Plain (stated):** 'Lunar Vulcan', the aid by which the Stone is prepared, means the first prepared Subject, also called Diana and the Adepts' secret natural inner fire; as 'Lunar Caustic' it becomes active through an exterior stimulus.
+  - Basis: IV.1 ¶29: 'with the assistance of the Lunar Vulcan'; 'this same Lunar Caustic is brought into act by an exterior excitation'.
+  - Also: “this same Lunar Caustic is brought into act by an exterior excitation” `IV.1 ¶29`
+- **result** — “the Stone of Philosophers, which is a pure petrification of the Spirit” `IV.1 ¶29` (ATWOOD)
+  - **Plain (stated):** The Philosophers' Stone is a pure petrification of the Spirit: the Spirit turned to stone.
+  - Basis: Direct identification in IV.1 ¶29, reported from the Hermetical Triumph and endorsed.
+- **principle** — “The ethereal humidity nourishes the Solar Light and educates it; and this is that Nemean Lion said to be born of her foam.” `IV.1 ¶29` (ATWOOD)
+  - **Plain (interpreted):** A lunar, moist ethereal principle feeds and develops the solar light or heat; the Nemean Lion names this. Its exact referent is unclear (see ambiguities).
+  - Basis: IV.1 ¶29: 'Sol est Fons totius caloris, Luna autem Domina Humiditatis' sets Sun as heat and Moon as humidity just before.
+  - Also: “Sol est Fons totius caloris, Luna autem Domina Humiditatis.” `IV.1 ¶29`
+- **principle** — “neither is it said to be expedient to inquire about Ends so much as about things pertaining to ends, the Artist holding his right intention from the beginning” `IV.1 ¶30` (ATWOOD)
+  - **Plain (stated):** Fix the right aim at the outset, then investigate only the means, choosing the easiest and best and tracing each back to its own means until the first cause is reached, which is discovered last, as in analyzing a diagram.
+  - Basis: IV.1 ¶30, Aristotle's argument as given: 'they consider how and by what Medium it may be obtained ... until they arrive at the first Cause which is discovered in the last place'.
+  - Also: “until they arrive at the first Cause which is discovered in the last place” `IV.1 ¶30`
+  - Also: “as if her were investigating and analyzing a diagram” `IV.1 ¶30`
+
+## Terms
+
+- **Gross Work** (also: Gross Worke, Grosse worke, gross worke) — A long phase of the practice (three years would be a blessed chance): foul, perilous, costly, a handicraft full of possible faults; once completed it need not be begun again. (QUOTED: Norton’s Ordinal)
+  - “For the Gross Worke is foule in her kinde,” `IV.1 ¶25`
+  - “But handie crafte, called Art mechanical,” `IV.1 ¶28`
+- **Art mechanical** — Handicraft; what the Gross Work consists of. (QUOTED: Norton’s Ordinal)
+  - = handie crafte: “But handie crafte, called Art mechanical,” `IV.1 ¶28`
+- **Second Operation** — The operation to which, according to Atwood, the Ordinal's period of years chiefly refers; linked to the discovery of the philosophic Salt. Its relation to the Gross Work is not stated. (ATWOOD)
+  - “This is meant chiefly in reference to the Second Operation” `IV.1 ¶17`
+- **philosophic Salt** — Something discovered in the work; the stated periods of the work are often metaphorical for the time it takes to discover it. (ATWOOD)
+  - “the periods are often to be understood metaphorically with respect to the discovery of the philosophic Salt” `IV.1 ¶17`
+- **Preparation** — A phase of the work on which some have spent years. (ATWOOD)
+  - “Years have been employed by some in the Preparation” `IV.1 ¶17`
+- **Philosophic Subject** — That on which trituration is performed; must be worked slowly, gently, continuously. (ATWOOD)
+  - “the trituration of the Philosophic Subject, which ought to be slow, gentle, and continuous” `IV.1 ¶13`
+- **trituration** — The working of the Philosophic Subject, which should be slow, gentle and continuous. (ATWOOD)
+  - “especially to the trituration of the Philosophic Subject” `IV.1 ¶13`
+- **Matter** (also: matters) — What is worked on: to be fed leisurely, cleansed, given wings but restrained. (UNCLEAR)
+  - “Cause, therefore, wings to be prepared for the Matter” `IV.1 ¶15`
+  - “The length of clensing matters infected” `IV.1 ¶12`
+- **first prepared Subject** — The subject in its first prepared state; what is meant by the Lunar Vulcan. (ATWOOD)
+  - = Lunar Vulcan: “the Lunar Vulcan, as we long ago suggested, is meant the first prepared Subject” `IV.1 ¶29`
+  - = Diana: “the first prepared Subject, which is also called Diana” `IV.1 ¶29`
+  - = secret natural interior Fire of Adepts: “which is also called Diana, and the secret natural interior Fire of Adepts” `IV.1 ¶29`
+- **Lunar Vulcan** — The assistance with which those who trace nature prepare the Stone; means the first prepared Subject, Diana, the Adepts' secret interior Fire; as 'Lunar Caustic' brought into act by exterior excitation. (ATWOOD)
+  - = first prepared Subject: “the Lunar Vulcan, as we long ago suggested, is meant the first prepared Subject” `IV.1 ¶29`
+  - = Lunar Caustic: “this same Lunar Caustic is brought into act by an exterior excitation” `IV.1 ¶29`
+  - “prepared by those who trace nature with the assistance of the Lunar Vulcan” `IV.1 ¶29`
+- **Stone of Philosophers** (also: our Stone) — The goal of the work; a pure petrification of the Spirit, prepared with the Lunar Vulcan; its 'simperings' must be known. (ATWOOD)
+  - = pure petrification of the Spirit: “the Stone of Philosophers, which is a pure petrification of the Spirit” `IV.1 ¶29`
+  - “To know the simperings of our Stone” `IV.1 ¶12`
+- **simperings** (also: simper) — Something of the Stone that must be known, until it can 'no more simper'; the verse sets simmering against boiling (sense inferred). (QUOTED: Norton’s Ordinal)
+  - “To know the simperings of our Stone, Till it may no more simper do, nor cease,” `IV.1 ¶12`
+- **internal agent** — An inner agent which, awakened by too great excitation, can cause disseveration in the Chaos. (ATWOOD)
+  - “lest by too great excitation the internal agent awakening should cause a disseveration in the Chaos” `IV.1 ¶15`
+- **Chaos** — That in which disseveration may occur if the internal agent wakes too soon; it holds the two Principles. (ATWOOD)
+  - “a disseveration in the Chaos, and the two Principles stand up one against the other” `IV.1 ¶15`
+- **two Principles** — Two principles that stand against each other if the Chaos is prematurely dissevered; not named in this chunk. (ATWOOD)
+  - “the two Principles stand up one against the other, before the intended mastery is secure” `IV.1 ¶15`
+- **centers and circumferences** (also: centers, circumferences) — Paired terms: the centers must not be stirred before the circumferences are ready to conceive them; not further explained. (ATWOOD)
+  - “lest the centers should be stirred up before the circumferences are ready to conceive them” `IV.1 ¶13`
+- **patients and agents** (also: patients, agents) — Their 'indisposition' and 'ignorance' respectively protract the work; not defined further. (ATWOOD)
+  - “by the indisposition of patients, as by the ignorance of agents” `IV.1 ¶17`
+- **sons of Art** — Practitioners of the Art, who aim at the 'harbor' reached when the Matter's bonds are loosed after its due time. (QUOTED: Basil)
+  - “loose its bonds towards which all sons of Art aim to arrive as to their long-desired and sought for harbor” `IV.1 ¶15`
+- **tincture** — What the seeker seeks; requires avoiding things wild and vicious. (QUOTED: Norton’s Ordinal)
+  - “He that would seek tincture most specious” `IV.1 ¶16`
+- **Arcanum** — The whole secret of the work, revealed to Eirenaeus in two and a half years. (ATWOOD)
+  - “the whole Arcanum was revealed to him” `IV.1 ¶17`
+- **Encheiresis** — The handling of the work, which has 'particular turnings' in which Eirenaeus often erred. (QUOTED: Eirenaeus)
+  - “in some particular turnings of the Encheiresis I erred often” `IV.1 ¶17`
+- **Adept** (also: Adepts, adepts) — A master of the Art; Adepts caution against excitation and are abstruse and envious in their disguises. (ATWOOD)
+  - “whilst adepts are so very abstruse and envious in their disguises” `IV.1 ¶18`
+  - “of a vulgar ignoramus I became a true Adept” `IV.1 ¶17`
+- **Light** (also: Light within) — What is met sooner or later in the work; the practice develops by rational inquisition of the Light within; one 'makes choice of Light'. (ATWOOD)
+  - “Some have met the Light sooner, some later” `IV.1 ¶17`
+  - “by rational inquisition of the Light within” `IV.1 ¶18`
+  - “to make choice of Light” `IV.1 ¶25`
+- **Causal Light** — Nature's Causal Light, reached by rational permeation through the Understanding of Nature. (ATWOOD)
+  - “by the Understanding of Nature, into her Causal Light” `IV.1 ¶20`
+- **rational permeation** — The way, by reflexive analysis of the analyzer, of penetrating through the Understanding of Nature into her Causal Light. (ATWOOD)
+  - “this is the way of rational permeation, by the Understanding of Nature, into her Causal Light” `IV.1 ¶20`
+- **Selfhood** — The 'separable Selfhood', which reiterated reflexive analysis resolves. (ATWOOD)
+  - “it may resolve the separable Selfhood” `IV.1 ¶20`
+- **Unit of Truth** — The inseparable unity at which the reiterated analysis arrives. (ATWOOD)
+  - “until it arrives at the inseparable Unit of Truth” `IV.1 ¶20`
+- **grace** — That by which the Art is obtained, rather than by reading, sitting still, fancy or will; to be sought. (QUOTED: Kelly)
+  - “But, as I said, by grace it is obtained:” `IV.1 ¶19`
+- **Intellect** — Its dominion is the court of Alcinous and is signified by the Phoeacian ships. (ATWOOD)
+  - = court of King Alcinous: “that court of King Alcinous, to which Ulysses became admitted, is the dominion of Intellect” `IV.1 ¶22`
+- **Nether confines** — A region approached after the first barriers, where one must choose Light; not explained. (ATWOOD)
+  - “approaching to the Nether confines, to make choice of Light” `IV.1 ¶25`
+- **Commixtion** — Mixing in of something; to be avoided. (QUOTED: Norton’s Ordinal)
+  - “Beware of Commixtion that nothing miscape.” `IV.1 ¶28`
+- **vessel** — Container of the work; one kind in material and shape must be used. (QUOTED: Norton’s Ordinal)
+  - “Use one manner of vessel in matter and in shape” `IV.1 ¶28`
+- **ethereal humidity** — Moisture that nourishes and educates the Solar Light; set beside Luna as 'Domina Humiditatis'. (ATWOOD)
+  - “The ethereal humidity nourishes the Solar Light and educates it” `IV.1 ¶29`
+- **Solar Light** — Light nourished and educated by the ethereal humidity; set beside Sol as source of all heat. (ATWOOD)
+  - “nourishes the Solar Light and educates it” `IV.1 ¶29`
+- **Nemean Lion** — Said to be born of 'her foam'; identified with what the preceding sentence describes (exact referent unclear; see ambiguities). (ATWOOD)
+  - “and this is that Nemean Lion said to be born of her foam” `IV.1 ¶29`
+- **Medium** (also: media, medium) — The means by which a proposed end is obtained; deliberation weighs media and traces them back to the first Cause. (QUOTED: Aristotle)
+  - “they consider how and by what Medium it may be obtained” `IV.1 ¶30`
+- **first Cause** — In deliberation, the cause reached last by working back from the proposed end through its media. (QUOTED: Aristotle)
+  - “until they arrive at the first Cause which is discovered in the last place” `IV.1 ¶30`
+
+## Sources cited
+
+- **Norton’s Ordinal**, *Ordinal, chap. 4 (n14); Norton’s Ordinal, cap. 4 (n17); Ordinal, cap. 4 (n22, n23)* — “Excess of one half quarter of an hour May destroy all” `IV.1 ¶12, IV.1 ¶16, IV.1 ¶25, IV.1 ¶26, IV.1 ¶27, IV.1 ¶28, IV.1 n14, IV.1 n17, IV.1 n22, IV.1 n23` — Supports: main verse authority for balanced unhasty feeding, cost, patience, simmering, the three-year Gross Work, and the Gross Work as foul, perilous handicraft needing experience, uniformity and able ministers.
+- **Avicen**, *Porta* — “Comedas ut bibas, et bibas ut comeda;” `IV.1 ¶12` — Cited within the Ordinal for balanced feeding of the matter.
+- **Rasis** — “Non tamen comedat res festinanter,” `IV.1 ¶12` — Cited within the Ordinal: 'set the dietary'; the matter must not eat hastily.
+- **the prophet** — “Visitasti terram et inebriasti eam,” `IV.1 ¶12` — Cited within the Ordinal as wondrous mention of the feeding of the matter, 'If ye apply it to this intention'.
+- **Arnolde** — “Esto longanimus et suavis” `IV.1 ¶12` — Cited within the Ordinal: the Art belongs to great men, so poor men beware; be patient and gentle.
+- **Oedipus** `IV.1 ¶13` — Illustrates: his lameness signifies not hastening to solve the Sphinx's riddle.
+- **Alciatus** — “Festina Lente” `IV.1 ¶13` — Illustrates: emblem of a dolphin wreathed about an anchor, applied to slow trituration.
+- **Basil**, *Kirchringius in Basilio, Latin, 12 mo., p. 160* — “permit it not to fly suddenly” `IV.1 ¶15, IV.1 n15` — Supports: the winged Matter must be accustomed to flying gradually under Mercury and bound, lest like Icarus it fly too near the Sun.
+- **Hermes**, *Tract. Aur., cap. 2* — “Take the flying bird, says Hermes, and drown it flying” `IV.1 ¶15, IV.1 n16` — Supports: drowning the flying bird so it lives by forbearing to fly, and repeatedly withdrawing its corrupt redness.
+- **Eirenaeus**, *Ripley Revived, p. 87* — “of a vulgar ignoramus I became a true Adept” `IV.1 ¶17, IV.1 n18, IV.1 ¶29` — Illustrates a favored case: the Arcanum revealed in two and a half years; also cited as promising and describing a guide.
+- **Aristotle**, *Ethics (¶30); Nichomachean Ethics, book 3, cap. 3 (n25)* — “Ab actionibus procedit speculatio” `IV.1 ¶18, IV.1 ¶30, IV.1 n25` — Supports: speculation proceeds from action (¶18); one deliberates about means, not ends, analyzing back to the first Cause as with a diagram (¶30).
+- **Kelly**, *Kelly’s Verses in Ashmole’sTheatrum* — “by grace it is obtained” `IV.1 ¶19, IV.1 n19` — Supports: the Art is obtained by grace, not reading or will.
+- **Pope’s Homer’s Odyssey**, *Pope’s Homer’s Odyssey, lib. 8:55* — “In wondrous ships self-moved, instinct with mind;” `IV.1 ¶20, IV.1 ¶21, IV.1 ¶22, IV.1 ¶24, IV.1 n20, IV.1 n21` — Illustrates: the Phoeacian ships and Alcinous' court as the dominion of Intellect; the vast sea as the barrier before the goal.
+- **Taylor**, *Dissertation* `IV.1 ¶22` — Supports: has shown the whole Odyssey to be an allegory of latent meaning and the recondite Wisdom of antiquity.
+- **Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason** `IV.1 ¶25` — Illustrates: heroes' labors before reward, as the toil required for Wisdom.
+- **Anaxagoras** — “Nemo prima fronte reperitur discretus” `IV.1 ¶26` — Cited within the Ordinal: no one is discreet at first.
+- **Flamel**, *Second Book* `IV.1 ¶29` — Illustrates: learned discretion from his Second Book.
+- **Khunrath**, *Amph. Sap. Etern.* — “What was wrong taught me what was right” `IV.1 ¶29, IV.1 n24` — Supports: indefatigable labor at own expense, learning from error, book interpreting book, note-keeping, constant meditation.
+- **Hermetical Triumph**, *Hermetical Triumph* — “the Stone of Philosophers, which is a pure petrification of the Spirit” `IV.1 ¶29` — Supports: the Stone is prepared with the Lunar Vulcan, which Atwood glosses as the first prepared Subject.
+
+## Ambiguities
+
+- “This is meant chiefly in reference to the Second Operation” `IV.1 ¶17`
+  - Reading: The Ordinal's three-year period, stated of the Gross Work, applies chiefly to the Second Operation, so the two are distinguished.
+  - Reading: 'This' covers the preceding warnings about duration and labor generally, and the Gross Work and Second Operation may overlap.
+  - Basis: IV.1 ¶16 ends with the three-years line about 'the Grosse worke'; IV.1 ¶17 then speaks of 'the Second Operation' and 'the periods' without stating how the two relate.
+- “by the indisposition of patients, as by the ignorance of agents” `IV.1 ¶17`
+  - Reading: 'Patients' are the subject or matter worked on; 'agents' are the operators.
+  - Reading: Both are persons: those acted upon and those operating.
+  - Reading: A generic pairing of passive and active factors.
+  - Basis: IV.1 ¶17 pairs the terms without defining them; 'indisposition' suits matter or person.
+- “and this is that Nemean Lion said to be born of her foam” `IV.1 ¶29`
+  - Reading: The Nemean Lion is the Solar Light as nourished and educated by the ethereal humidity.
+  - Reading: It is the nourishing ethereal humidity itself, or the whole process just described.
+  - Basis: IV.1 ¶29: 'this' follows 'The ethereal humidity nourishes the Solar Light and educates it'; 'her' may point to Luna 'Domina Humiditatis', the humidity, or Diana named earlier in the paragraph.
+- “lest the centers should be stirred up before the circumferences are ready to conceive them” `IV.1 ¶13`
+  - Reading: Centers are the inner principle or agent of the subject; circumferences its outer, receptive part that must contain it.
+  - Reading: The terms name levels or stages of the process not otherwise identified.
+  - Basis: IV.1 ¶15 speaks of an 'internal agent awakening', which may parallel 'centers' stirred up; the chunk gives no definition.
+- “Liber librum explicit” `IV.1 ¶20`
+  - Reading: Reading texts against each other, one book explaining another.
+  - Reading: Within the reflexive analysis just described, one stage of analysis unfolding the next.
+  - Basis: IV.1 ¶20 places the maxim between the self-analysis sentence and 'this is the way of rational permeation'; IV.1 ¶29 Khunrath: 'one book throwing light upon another'.
+- “In primo pro quo et ultimum pro quo non” `IV.1 ¶12`
+  - Reading: A rule about what to watch for first and last (the 'simperings' of the Stone).
+  - Reading: Corrupted Latin whose sense cannot be fixed from this chunk.
+  - Basis: IV.1 ¶12: introduced as 'chief succour' against excess and followed by 'To know the simperings of our Stone'.
+- “Much I might writeof the Nature of Mynes Which in the gross worke be but engines;” `IV.1 ¶28`
+  - Reading: 'Mynes' are materials that serve only as instruments ('engines') in the Gross Work.
+  - Reading: Sense not determinable from the text.
+  - Basis: IV.1 ¶28: the next lines call the work only 'handie crafte, called Art mechanical'.
+
+## Translations
+
+- `IV.1 ¶12` “Comedas ut bibas, et bibas ut comeda;” → Eat as it drinketh and drink as it doth eate *(book)*
+- `IV.1 ¶12` “Non tamen comedat res festinanter,” → Let not your matters eate over hastily. *(book)*
+- `IV.1 ¶12` “Visitasti terram et inebriasti eam, Multiplicasti locupletare eam, Terram fructiferam in salsuginem Et terram sine aqua in exitus aquaram.” → Thou hast visited the earth and made it drunken; thou hast multiplied to enrich it; a fruitful land into saltness, and a land without water into outflowings of waters. *(ours)*
+- `IV.1 ¶12` “Esto longanimus et suavis” → Be long-suffering and gentle. *(ours)*
+- `IV.1 ¶12` “In primo pro quo et ultimum pro quo non” → In the first, for which; and the last, for which not (sense uncertain). *(ours)*
+- `IV.1 ¶13` “Festina Lente” → Make not too much haste *(book)*
+- `IV.1 ¶14` “Gutta cavat lapidem non vi sed saepe cadendo.” → The drop hollows the stone not by force but by often falling. *(ours)*
+- `IV.1 ¶18` “Ab actionibus procedit speculatio” → Speculation proceeds from actions. *(ours)*
+- `IV.1 ¶20` “Liber librum explicit” → Book unfolds (explains) book. *(ours)*
+- `IV.1 ¶26` “No man’s wit can hi so avile” → No man's wit can so avail him *(ours)*
+- `IV.1 ¶26` “Nemo prima fronte reperitur discretus” → No one is found discerning at first sight. *(ours)*
+- `IV.1 ¶29` “Sol est Fons totius caloris, Luna autem Domina Humiditatis.” → The Sun is the source of all heat, but the Moon the mistress of moisture. *(ours)*
+
+## Threads
+
+- `IV.1 ¶17` Refers the Ordinal's period to 'the Second Operation', a division of the work not defined here; its relation to the Gross Work is left open.
+- `IV.1 ¶18` 'as we long ago suggested': earlier statement that the working theory can be obtained through practice only.
+- `IV.1 ¶22` Taylor's Dissertation is said to show the whole Odyssey an allegory; not further cited here.
+- `IV.1 ¶29` Flamel's 'Second Book' and the guide Eirenaeus 'promises' and 'describes ... in his Ripley Revived' are pointed to without detail.
+- `IV.1 ¶29` 'as we long ago suggested': earlier identification of the Lunar Vulcan with the first prepared Subject.
+- `IV.1 ¶30` 'having opened thus much': further remarks on the rule of Investigation follow beyond this chunk.

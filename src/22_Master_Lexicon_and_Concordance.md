@@ -1,6 +1,8 @@
 # Master Lexicon and Concordance
 
-Terms, persons, works and voices of *A Suggestive Inquiry into the Hermetic Mystery* (1850), drawn only from the book. Quotes are verbatim; references point to chapter paragraphs (¶) and footnotes (n). Refs beginning `APP` are the Appendix (Table Talk, begun 1860), a later layer. "Identified with" lists only identities the text itself asserts; the many other names for one thing are kept as separate entries.
+Terms, persons, works and voices of *A Suggestive Inquiry into the Hermetic Mystery* (1850), drawn only from the book. Quotes are verbatim; references point to chapter paragraphs (¶) and footnotes (n). Refs beginning `APP` are the Appendix (Table Talk, begun 1860), a later layer.
+
+**Conventions.** Headwords start with a capital letter; inside a headword, a word is capitalised only where the book itself mostly capitalises it. A leading “the” is dropped unless it belongs to a title or the term needs it. Spelling follows the book’s majority use (*Sulphur*, *center*); other spellings and word forms found in the text are listed after the kind. A note in italics after the kind tells homonyms apart. “Identified with” lists only identities the text itself asserts; “See also” links related entries editorially (shared names or forms, or a compound and its head word) and asserts no identity.
 
 ## #
 
@@ -20,9 +22,21 @@ Cited by Atwood, with the reference cap. 3, v. 7 given in the footnote, in suppo
 
 Cited for reference only.
 
+**See also:** [King](#e0928)
+
 **References:** II.3 n40
 
 ## A
+
+<a id="e0932"></a>
+### A. Kircher
+*person* · Kircher, Kircheri
+
+**Cited for alchemy's antiquity, for a Latin rendering of the Smaragdine Table from Arabic and Greek copies, and for a transmutation story.**
+
+Atwood cites A. Kircher (*Oedipus Aegyptiacus*; *de Lapide Philos. Dissert.*) in support of alchemy's antiquity, and as the source of the Latin rendering of the Smaragdine Table from Arabic and Greek copies [I.1 ¶3; I.1 n2; I.1 ¶7]. His *Mundus Subterraneus* supplies an explicit transmutation story [I.1 ¶77].
+
+**References:** I.1 n2, I.1 n29, I.1 ¶3, I.1 ¶7, I.1 ¶77
 
 <a id="e0003"></a>
 ### Abbot Panorimitanus
@@ -45,7 +59,7 @@ Mentioned only as the person to whom Aquinas' *Thesaurus Alchimiae* is addressed
 **References:** I.1 n49, I.1 n51, I.1 ¶42
 
 <a id="e0005"></a>
-### ablative reasoning
+### Ablative reasoning
 *term*
 
 **In a view attributed to Plato, the defective reasoning by negation through which Matter is apprehended, describing it only by what it is not.**
@@ -71,6 +85,8 @@ Atwood cites the *Sepher Jezirah* (*Liber de Creatione, Authore Abraham*, cap. 1
 **Mentioned as the one who indicated the fire and the furnace to Flamel.**
 
 Mentioned by Atwood as the one who indicated the fire and furnace to Flamel [III.1 ¶37].
+
+**See also:** [Jew](#e0906)
 
 **References:** III.1 ¶37
 
@@ -100,21 +116,25 @@ Atwood's term for the ultimate ground of knowledge. She notes that “philosophe
 
 In Atwood's account, the hypostasis that bounds abstract reason, when met by the inquiring light within, proves to be Absolute Identity, “which, before all duality of consciousness, is the fortitude and life of all” [III.2 ¶31]. She also speaks of the “incomprehensible nature of the objective contact in Identity” [III.2 ¶33].
 
+**See also:** [Identity](#e0822), [True Identity of nature](#e1795)
+
 **References:** III.2 ¶31, III.2 ¶33
 
 <a id="e0011"></a>
-### Abyss of Being
+### Abyss of being
 *term*
 
 **In a quoted account, the abyss where the parts of the world lay mingled and formless before the spirit's breath agitated the mass.**
 
 From a passage attributed to the metropolitan of Memphis: before the spirit's breath agitated the mass, the parts of the world “lay mingled and inform, brooding overwhelmed in the Abyss of Being” [III.3 ¶46].
 
+**See also:** [Being](#e0173)
+
 **References:** III.3 ¶46
 
 <a id="e0012"></a>
 ### Abysse
-*term* · Abyss, abyss
+*term* · Abyss
 
 **That which is without ground, fathomless or void (Boehme); for Atwood also the Kabalists' name for the Matter, called by them Unknown, Void, Nothing, Infinite.**
 
@@ -126,7 +146,7 @@ Quoting Boehme, the text defines it: “the Abysse, that is without ground, or f
 
 <a id="e0013"></a>
 ### Acetum
-*term* · acetum
+*term*
 
 **A name connected with dissolution, identified by Atwood with the vitriolic solvent; in Hermes and the Master, ‘our Acetum’ with which the soul or sulphurous Form is mingled.**
 
@@ -137,7 +157,7 @@ Atwood names it alongside the solvent: something “becomes their vitriolic solv
 **References:** I.2 ¶40, I.3 ¶27, IV.2 ¶14
 
 <a id="e0014"></a>
-### actives / passives
+### Actives and passives
 *term* · actives, passives
 
 **Paired principles that, by action and reaction, raise one another successively until spiritual ability is complete.**
@@ -147,7 +167,7 @@ Atwood describes the work as “raising successively actives by passives, and, v
 **References:** IV.1 ¶41
 
 <a id="e0015"></a>
-### acts of Parliament; Pope’s Bull’s
+### Acts of Parliament and Pope’s Bulls
 *collective voice* · acts of Parliament, Pope’s Bull’s
 
 **Legal measures Atwood cites to illustrate the suppression of transmutation, which only drove its pursuit into secrecy.**
@@ -157,7 +177,7 @@ Cited by Atwood to illustrate the legal suppression of transmutation, which in h
 **References:** I.1 n61, I.1 ¶55
 
 <a id="e0016"></a>
-### Adamic Soil
+### Adamic soil
 *term*
 
 **A mystical soil whose glories the prophet describes, spoken of with the winds, clouds, snow and wooden receptacles.**
@@ -167,7 +187,7 @@ Atwood speaks of “that mystical Adamic Soil” [III.2 ¶12], whose glories the
 **References:** III.2 ¶12
 
 <a id="e0017"></a>
-### adaptation
+### Adaptation
 *term* · adaptations
 
 **In the Smaragdine Table of Hermes, the manner by which all things arose from the One Thing.**
@@ -177,8 +197,8 @@ A term of the Smaragdine Table (Hermes, quoted): “so all things arose from thi
 **References:** I.1 ¶9, IV.2 ¶44
 
 <a id="e0018"></a>
-### adept
-*term* · Adept, adepts, Adepts, true adepts, adeptest
+### Adept
+*term* · adepts, true adepts, adeptest
 
 **A true master of the Art, one who has accomplished it, sharply distinguished by Atwood from pretenders; in quoted authorities, the initiate whom the Lord illuminates and seals.**
 
@@ -192,11 +212,13 @@ In the Appendix (Table Talk, a later layer) Atwood ties the word to discovery: �
 
 **Identified with:** the seeker [APP ¶23]
 
-**References:** APP ¶23, I.1 ¶16, I.1 ¶20, I.1 ¶33, I.1 ¶41, I.1 ¶53, I.1 ¶64, I.1 ¶66, I.1 ¶70, I.1 ¶82, I.1 ¶86, II.2 ¶5, III.1 ¶8, IV.1 ¶17, IV.1 ¶18, IV.2 ¶16, IV.3 ¶26
+**See also:** [Adepts (cited voice)](#e0019), [Experimental adeptist](#e0537), [French adept](#e0645), [Modern adept](#e1108), [More modern class of adepts](#e1125), [Mysterious adeptest](#e1158), [No less experienced adept](#e1190), [No less subtle than experienced adept](#e1191), [Sage](#e1529)
 
-<a id="e0019"></a>
-### the adept
-*collective voice* · the Adept, the adepts, the Adepts, The adepts, adepts, Adepts, the adept (unnamed)
+**References:** I.1 ¶16, I.1 ¶20, I.1 ¶33, I.1 ¶41, I.1 ¶53, I.1 ¶64, I.1 ¶66, I.1 ¶70, I.1 ¶82, I.1 ¶86, II.2 ¶5, III.1 ¶8, IV.1 ¶17, IV.1 ¶18, IV.2 ¶16, IV.3 ¶26, APP ¶23
+
+<a id="e0019"></a><a id="e1945"></a><a id="e1946"></a><a id="e1947"></a>
+### Adepts
+*collective voice* — *cited voice* · the adept, the wise, the wise Adept, the wise Adepts
 
 **The anonymous ‘adept’ or ‘adepts’ whose sayings Atwood cites throughout, almost always in support and sometimes explicitly endorsed, on the matter, the fire, the stages of the work and its spiritual end.**
 
@@ -210,7 +232,15 @@ Atwood frequently quotes an unnamed ‘adept’, sometimes identified only by a 
 
 In the Appendix (Table Talk, later layer) the Adepts call the Art “Holy Alchemy” [APP ¶29], and reducing their ground to physical science is dismissed as twaddle [APP ¶30].
 
-**References:** APP ¶29, APP ¶30, I.1 ¶53, I.2 n43, I.2 ¶18, I.2 ¶20, I.2 ¶44, I.2 ¶48, I.3 n22, I.3 n29, I.3 n30, I.3 n41, I.3 n51, I.3 n63, I.3 n70, II.1 ¶25, II.2 n16, II.2 ¶18, II.3 n37, II.3 n44, II.3 ¶30, II.3 ¶37, II.3 ¶41, II.3 ¶52, III.1 ¶64, III.1 ¶66, III.2 n22, III.2 n45, III.2 ¶22, III.2 ¶61, III.3 n7, III.3 ¶10, III.3 ¶15, III.3 ¶17, III.3 ¶20, III.3 ¶62, III.4 ¶42, IV.1 ¶10, IV.2 n16, IV.2 n19, IV.2 n2, IV.2 ¶11, IV.2 ¶12, IV.2 ¶18, IV.2 ¶3, IV.2 ¶30, IV.2 ¶7, IV.4 ¶25, IV.4 ¶4
+*Wise and adepts.* Atwood endorses their declarations that none attain the Art without right intention and God's blessing and that the pursuit is dangerous to the ill-informed: “As the adepts indeed foretold, their records have proved like a curious two-edged instrument” [III.4 ¶11, III.4 ¶16].
+
+*Wise Adept.* Cited by Atwood: when Pluto's Palace is exposed with Minerva's Artifice, or Vulcan stands with her at the Altar, “the Association is ominous” [IV.1 ¶34].
+
+*Wise Adepts.* Atwood, with approval, says their enigmas, fables, parables and maxims all tend to one discovery and are to be studied with the Key [IV.4 ¶32].
+
+**See also:** [Adept](#e0018), [Sage](#e1529), [The Wise](#e1944)
+
+**References:** I.1 ¶53, I.2 n43, I.2 ¶18, I.2 ¶20, I.2 ¶44, I.2 ¶48, I.3 n22, I.3 n29, I.3 n30, I.3 n41, I.3 n51, I.3 n63, I.3 n70, II.1 ¶25, II.2 n16, II.2 ¶18, II.3 n37, II.3 n44, II.3 ¶30, II.3 ¶37, II.3 ¶41, II.3 ¶52, III.1 ¶64, III.1 ¶66, III.2 n22, III.2 n45, III.2 ¶22, III.2 ¶61, III.3 n7, III.3 ¶10, III.3 ¶15, III.3 ¶17, III.3 ¶20, III.3 ¶62, III.4 ¶11, III.4 ¶16, III.4 ¶42, IV.1 ¶10, IV.1 ¶34, IV.2 n16, IV.2 n19, IV.2 n2, IV.2 ¶11, IV.2 ¶12, IV.2 ¶18, IV.2 ¶3, IV.2 ¶30, IV.2 ¶7, IV.4 ¶25, IV.4 ¶32, IV.4 ¶4, APP ¶29, APP ¶30
 
 <a id="e0020"></a>
 ### Adfar
@@ -224,7 +254,7 @@ Named by Atwood as a solitary adept of Alexandria and Morienus's master [I.1 ¶3
 
 <a id="e0021"></a>
 ### Adoration
-*term* · adoration
+*term*
 
 **Bound up with sacrifice and prayer; its three terms contain all the Divine measures, and its end is where rational inquiry rests and true love is found.**
 
@@ -245,12 +275,14 @@ From Khunrath (quoted): the matter of the first act, whose bonds of coagulation 
 **References:** IV.1 ¶36
 
 <a id="e0023"></a>
-### adventitious image / central form
+### Adventitious image and central form
 *term* · adventitious image, central form
 
 **The externally generated form imposed on a body, to be constricted, set against the body's inner central form, to be developed into life and act.**
 
 Atwood contrasts two forms in a body: “the adventitious or externally generated image may be constricted utterly, and the central form contrariwise developed into life and act” [I.2 ¶20]. The work, on this account, suppresses the outward image and brings forth the inner form.
+
+**See also:** [Form](#e0627)
 
 **References:** I.2 ¶20
 
@@ -265,12 +297,14 @@ Atwood uses the image of “the Aspirant entering into the interior to behold th
 **References:** III.2 ¶66, III.3 ¶3
 
 <a id="e0025"></a>
-### Adytum of Life
+### Adytum of life
 *term*
 
 **In Proclus, the soul's innermost recess, where with closed eye she perceives the genus of the gods.**
 
 Quoted from Proclus: the soul withdraws “into her interior recesses and into the Adytum of Life” [II.4 ¶29], where with closed eye she perceives the genus of the gods.
+
+**See also:** [Life](#e0960)
 
 **References:** II.4 ¶29
 
@@ -294,10 +328,10 @@ Atwood quotes Book 6 in Latin to illustrate the inner journey. The apparitions: 
 
 In the Appendix (Table Talk, later layer), where the author is not named, the drawn sword illustrates the light of reason confronting and dispersing the images in the vital chaos: “Strictamqu Aeneas aciem venientibus offert” [APP ¶165] (ours: Aeneas offers the drawn blade to those coming); Aeneas, the Golden Bough, Tartarus and Elysium are read as stages of the work [APP ¶166; APP ¶168; APP ¶171].
 
-**References:** APP ¶165, APP ¶166, APP ¶168, APP ¶171, II.3 n16, II.3 n28, II.3 n37, II.3 n39, II.3 ¶21, II.3 ¶26, II.4 n14, II.4 ¶21, II.4 ¶22
+**References:** II.3 n16, II.3 n28, II.3 n37, II.3 n39, II.3 ¶21, II.3 ¶26, II.4 n14, II.4 ¶21, II.4 ¶22, APP ¶165, APP ¶166, APP ¶168, APP ¶171
 
 <a id="e0028"></a>
-### aerial moisture
+### Aerial moisture
 *term*
 
 **The incombustible moisture in which, according to the Alchemists, the thick fire of life is imprisoned; unpurified, it is Hades.**
@@ -327,24 +361,28 @@ In the Appendix (Table Talk, later layer), Atwood speaks of “the wisdom impart
 **References:** APP ¶41
 
 <a id="e0031"></a>
-### agent
+### Agent
 *term* · agents
 
 **The spirit, which vivifies and holds together the particles of the matter and is superior to the body in operation; paired with the patient.**
 
 Atwood calls the spirit “the agent, because it vivifies and holds the particles of the matter together” [I.3 n37], superior to the body in operation. Elsewhere she warns “lest the sin of the agent be multiplied in the patient” [IV.3 ¶56], where the agent is not further defined. See agent and patient.
 
+**See also:** [Spiritual agent and spiritual patient](#e1652)
+
 **References:** I.3 n37, IV.3 ¶56
 
 <a id="e0032"></a>
-### agent and patient
+### Agent and patient
 *term* · patients and agents, patient, patients
 
 **The active and receptive parties of the work, which act and react on one another progressively and, after Hermetic dissolution, are one identity.**
 
 Atwood: after Hermetic dissolution “the agent and the patient are one identity” [I.2 ¶48]. The work is progressive action and reaction between them: “The whole work is an action of agent on patient, and the reaction of patient, advancing, on agent.” [APP ¶111] (Appendix, Table Talk, later layer). The work may be protracted “by the indisposition of patients, as by the ignorance of agents” [IV.1 ¶17], terms not further defined there. Compare actives / passives.
 
-**References:** APP ¶111, I.2 ¶48, IV.1 ¶17
+**See also:** [Patient](#e1289), [Spiritual agent and spiritual patient](#e1652)
+
+**References:** I.2 ¶48, IV.1 ¶17, APP ¶111
 
 <a id="e0033"></a>
 ### Agrippa
@@ -359,6 +397,8 @@ From the *Occult Philosophy* (Book 3): the soul freed from the senses comprehend
 Other uses: Scripture is no longer read “under the Bark of the Law” [III.3 ¶59]; Scripture is obscure and mystical yet significant (“Clausum est Armarium”) [IV.3 ¶46]; the two natures to be joined (“Pinge duos Angues”) [III.1 ¶50]; within Vaughan's lessons, a heavenly life as condition of communion with superiors [III.4 ¶44]; and his mature conviction that “to know Nothing was the most happy life” [IV.4 ¶27].
 
 Atwood also qualifies him: he knew the First Preparation but not the Solution of the Salt, as his practice at Malines shows, and confessed he could not increase the transmutative virtue [IV.1 ¶36].
+
+**See also:** [Disciple of Cornelius Agrippa (not named)](#e0790)
 
 **References:** I.1 n70, I.1 n94, I.1 ¶39, I.1 ¶64, I.1 ¶74, II.1 n26, II.1 n4, II.1 ¶26, II.1 ¶9, II.3 n19, II.3 ¶24, II.4 n13, II.4 n31, II.4 ¶19, III.1 n29, III.1 ¶50, III.2 n47, III.2 ¶64, III.3 ¶59, III.4 ¶42, III.4 ¶44, IV.1 ¶36, IV.3 ¶46, IV.4 ¶27
 
@@ -395,8 +435,8 @@ Invoked as an illustration: such works vanish before celestial light like “Ala
 **References:** II.3 ¶36
 
 <a id="e0037"></a>
-### Alain de l’Isle (Alani Philosophi; Alanai de Insulis)
-*person* · Alain de l’Isle, Alani Philosophi, Alanai de Insulis
+### Alain de l’Isle
+*person* · Alani Philosophi, Alanai de Insulis
 
 **Alain de l’Isle, author of the Dicta de Lapide and a commentary on Merlin's Prophecies, said to have obtained the Elixir; cited as a case of editors suppressing alchemical testimony.**
 
@@ -422,6 +462,16 @@ In quoted verse: Ripley names “Albert, Raymond and Arnolde” as writing plain
 
 **References:** I.1 n45, I.1 n46, I.1 ¶32, I.1 ¶39, I.1 ¶41, I.1 ¶60, I.2 n27, I.2 ¶29, II.1 ¶12, II.1 ¶8, II.2 n15, II.2 ¶16, II.3 n2, III.1 n30, III.1 ¶62, III.2 n38, III.2 ¶60, III.4 ¶31, IV.1 n2, IV.1 ¶4
 
+<a id="e1501"></a>
+### Alchemical book titles
+*collective voice* — *Revelations, Open Entrances, New Lights, Auroras, Keys, Guides and the like* · Revelations, Open Entrances, New Lights and True Lights, Sunshine and Moonshine, Auroras, Dawns, Manuals, Introductory Lexicons, Triumphal Chariots, Banners, Gates, Keys, Guides
+
+**Atwood's list of generic alchemical book titles, all pointing to the Royal Road once it is found but useless to most modern readers.**
+
+Atwood lists these generic titles of alchemical books — Revelations, Open Entrances, New Lights and True Lights, Sunshine and Moonshine, Auroras, Dawns, Manuals, Introductory Lexicons, Triumphal Chariots, Banners, Gates, Keys, Guides — to show that all direct to the Royal Road once it is found, yet are useless to most modern readers [III.4 ¶15].
+
+**References:** III.4 ¶15
+
 <a id="e0039"></a>
 ### Alchemical solution
 *term*
@@ -432,21 +482,13 @@ In the Appendix (Table Talk, a later layer), Atwood states: “The throwing down
 
 **Identified with:** throwing down of the Walls [APP ¶50]
 
+**See also:** [Solution](#e1623)
+
 **References:** APP ¶50
 
-<a id="e0040"></a>
-### the Alchemist / modern Alchemists
-*collective voice* · the Alchemist, modern Alchemists
-
-**The Alchemist as agreeing with the Greeks on a universal pure matter, contrasted with modern Alchemists who are mostly silent on their Art's metaphysics.**
-
-Atwood says the Alchemist agrees with the Greeks on a universal pure matter, while modern Alchemists are mostly silent on the metaphysics of their Art [III.2 ¶46].
-
-**References:** III.2 ¶46
-
 <a id="e0041"></a>
-### the Alchemists
-*collective voice* · Alchemists, the older masters, the Alchemists aforesaid
+### Alchemists
+*collective voice* · the older masters, the Alchemists aforesaid
 
 **The Alchemists as a collective voice Atwood draws on for the Matter, solution, the unclean Instrument, the threefold Law's periods, and the stirring of Motion.**
 
@@ -461,21 +503,25 @@ Atwood treats the Alchemists as a body of witness, generally supporting her read
 
 In the Appendix (Table Talk, a later layer): their Vulcan is decoded as Motion [APP ¶129]; and the older masters' “when Vulcan appears in the same altar with Minerva the conjunction is ominous” marks the point of passivity at which the Artist must stir up the Motion, which Atwood glosses as the stirred Wisdom-life being taken by self-will [APP ¶82].
 
-**References:** APP ¶129, APP ¶82, I.3 n27, II.2 ¶16, II.2 ¶18, II.3 n2, II.3 ¶11, II.3 ¶18, II.3 ¶29, III.1 ¶61, III.2 ¶60, III.3 ¶72
+**See also:** [Alchemists and Greek physicians](#e0042), [Ancient physiologists and alchemists](#e0066), [Modern Alchemists](#e0040), [Old Alchemists](#e1215)
+
+**References:** I.3 n27, II.2 ¶16, II.2 ¶18, II.3 n2, II.3 ¶11, II.3 ¶18, II.3 ¶29, III.1 ¶61, III.2 ¶60, III.3 ¶72, APP ¶129, APP ¶82
 
 <a id="e0042"></a>
-### the Alchemists and Greek physicians
+### Alchemists and Greek physicians
 *collective voice*
 
 **Joint witnesses asserting an immutable Being pre-existent to sensibles, provable in intellect and confirmed in phenomena.**
 
 Cited in support: the Alchemists and Greek physicians assert an immutable Being pre-existent to sensibles, provable in intellect and confirmed in phenomena [IV.4 ¶13].
 
+**See also:** [Alchemists](#e0041)
+
 **References:** IV.4 ¶13
 
 <a id="e0043"></a>
 ### Alchemy
-*term* · alchemy, Alchemical, Alchimia, Alchimica, Alchimiam, Alchimiae, Alkimy, Holy Alkimy, holi Alkimy
+*term* · Alchemical, Alchimia, Alchimica, Alchimiam, Alchimiae, Alkimy, Holy Alkimy, holi Alkimy
 
 **The Hermetic art: in Atwood's account an antique sacred science of vital chemistry, fermenting and purifying the human spirit by its own Light into regenerated life and relation with God.**
 
@@ -489,9 +535,9 @@ Norton (quoted) calls it “most profounde philosophye This subtill science of h
 
 Asserted identities: = Divine Chemistry, “the transmutation of Life” [APP ¶25]; = Holy Alchemy, “called by the Adepts Holy Alchemy” [APP ¶29]; = philosophy: “Alchemy is philosophy; it is the philosophy, the seeking of The Sophia in the mind.” [APP ¶183], fully understood only by those working the process.
 
-**Identified with:** Divine Chemistry [APP ¶25]; Holy Alchemy [APP ¶29]; [philosophy](#e1333) [APP ¶183]; most profounde philosophye [I.1 ¶52]
+**Identified with:** Divine Chemistry [APP ¶25]; Holy Alchemy [APP ¶29]; [Philosophy](#e1333) [APP ¶183]; most profounde philosophye [I.1 ¶52]
 
-**References:** APP ¶155, APP ¶183, APP ¶25, APP ¶27, APP ¶29, APP ¶6, APP ¶68, I.1 ¶10, I.1 ¶3, I.1 ¶39, I.1 ¶5, I.1 ¶52, I.1 ¶53, I.1 ¶76, II.1 ¶10, II.1 ¶5, III.4 ¶10, III.4 ¶14, III.4 ¶16, III.4 ¶9
+**References:** I.1 ¶10, I.1 ¶3, I.1 ¶39, I.1 ¶5, I.1 ¶52, I.1 ¶53, I.1 ¶76, II.1 ¶10, II.1 ¶5, III.4 ¶10, III.4 ¶14, III.4 ¶16, III.4 ¶9, APP ¶155, APP ¶183, APP ¶25, APP ¶27, APP ¶29, APP ¶6, APP ¶68
 
 <a id="e0044"></a>
 ### Alciatus
@@ -549,11 +595,13 @@ Cited for the *Open Entrance* (*Introitus Apertus ad Occlusum Regis Palationem*,
 
 Cited in support: initiation to the Paternal abode opens all divine paths [II.4 ¶23].
 
+**See also:** [Platonists](#e1349)
+
 **References:** II.4 ¶23
 
 <a id="e0050"></a>
 ### Alexandrians
-*collective voice* · the Alexandrians
+*collective voice*
 
 **The Alexandrians, cited for their enthusiasm for the Mysteries and their account of the descent and efflux of matter.**
 
@@ -562,8 +610,8 @@ Their enthusiasm for the Mysteries is cited as evidence of their high regard [II
 **References:** II.2 ¶3, III.2 ¶40
 
 <a id="e0051"></a>
-### Aliphili (the Arabian)
-*person* · Aliphili
+### Aliphili
+*person* — *the Arabian*
 
 **'The Arabian', cited from the Centrum Naturae Concentratum for man as producer of the true fiery water.**
 
@@ -572,7 +620,7 @@ Cited from *Centrum Naturae Concentratum* in support of man producing the true f
 **References:** II.1 n12, II.1 ¶14
 
 <a id="e0052"></a>
-### alkahest
+### Alkahest
 *term* · Alcahest
 
 **Radical dissolvent of the metals, per Eudoxus a true permanent water staying united with what it dissolves; elsewhere named only among alchemists' goals.**
@@ -584,7 +632,7 @@ Named without explanation in a quoted Faraday Society address listing alchemists
 **References:** I.1 ¶33, IV.3 ¶10
 
 <a id="e0053"></a>
-### the All
+### The All
 *term*
 
 **What, per Atwood, he possesses who knows Nothing: composed of the whole, he can discern, make and effect the whole.**
@@ -594,22 +642,26 @@ Atwood says he who knows Nothing has the All: “being composed of the whole, he
 **References:** IV.4 ¶27
 
 <a id="e0054"></a>
-### all artists
+### All artists
 *collective voice*
 
 **Collective witness that knowledge of the Magistery comes rather by Inspiration of Heaven.**
 
 Cited in support that knowledge of the Magistery comes rather by Inspiration of Heaven: “This truth is acknowledged by all artists” [IV.3 ¶16].
 
+**See also:** [Artist](#e0135)
+
 **References:** IV.3 ¶16
 
 <a id="e0055"></a>
-### all these philosophers
+### All these philosophers
 *collective voice*
 
 **The philosophers just cited, whose combined evidence Atwood says yields the definition of the stone as purified Ethereality.**
 
 Atwood draws from their combined evidence the definition of the stone as purified Ethereality [I.2 ¶44].
+
+**See also:** [Philosophers](#e1311)
 
 **References:** I.2 ¶44
 
@@ -646,8 +698,8 @@ Atwood names Altitude, with Latitude and Profundity, as the Alchemists' three pe
 **References:** III.3 ¶72
 
 <a id="e0059"></a>
-### Ambrose and Phillip Mueller (Muller)
-*collective voice* · Ambrose and Phillip Mueller, Muller, Mueller
+### Ambrose and Phillip Mueller
+*collective voice* · Muller, Mueller
 
 **Ambrose and Phillip Muller, German writers listed among persecuted adepts.**
 
@@ -666,7 +718,7 @@ Cited as illustration: he admitted an ass daily to his lectures, alongside Orige
 **References:** III.2 ¶64
 
 <a id="e0061"></a>
-### anagogic impulse
+### Anagogic impulse
 *term*
 
 **In a quoted Platonic Successor, the impulse toward the First, which the passions impede.**
@@ -676,7 +728,7 @@ Quoted from the Platonic Successor: “the passions alone, which impede our anag
 **References:** II.4 ¶41
 
 <a id="e0062"></a>
-### anagogic vision
+### Anagogic vision
 *term* · anagogic, intellectual sight
 
 **Augustine's third mode of vision, as Atwood reports it: drawn above, beholding intelligible species by pure infusion of light into the understanding.**
@@ -699,8 +751,18 @@ Celebrated as an alchemist, author of the *boke of Conversions Naturall*, praise
 
 **References:** I.1 ¶14, I.1 ¶15, I.1 ¶16, II.3 ¶41, II.3 ¶54, III.1 n27, III.1 ¶21, III.1 ¶22, III.1 ¶23, III.1 ¶32, III.2 ¶33, III.2 ¶35, III.2 ¶40, IV.1 ¶26
 
+<a id="e1252"></a>
+### Ancestors
+*collective voice* · our ancestors
+
+**Earlier masters who, Hermes says, veiled the secret in figures, which he claims he will now open.**
+
+Hermes, as quoted, says the secrets “are given by our ancestors in figures and types” [I.3 ¶50]. He claims to open them.
+
+**References:** I.3 ¶50
+
 <a id="e0064"></a>
-### ancient author of the Apocalypse of the Secret Spirit of Nature
+### Ancient author of the Apocalypse of the Secret Spirit of Nature
 *collective voice*
 
 **An unnamed ancient author of the Apocalypse of the Secret Spirit of Nature, cited through Khunrath on the divine water.**
@@ -710,32 +772,38 @@ Khunrath cites this author of the *Apocalypse of the Secret Spirit of Nature* on
 **References:** I.1 ¶20
 
 <a id="e0065"></a>
-### Ancient Experiment
+### Ancient experiment
 *term*
 
 **Atwood's name for the experiment of nature that the Inquiry sets out to recover in its causal light.**
 
 Atwood states the aim of her Inquiry as an attempt to “recover the Ancient Experiment of nature into her Causal Light” [III.4 ¶2]. The record does not define the term any further. The context suggests it names the practical work the book reconstructs, but the text does not say so here.
 
+**See also:** [Experiment](#e0536)
+
 **References:** III.4 ¶2
 
 <a id="e0066"></a>
-### ancient physiologists and alchemists
+### Ancient physiologists and alchemists
 *collective voice*
 
 **A group voice that, Atwood says, agrees with the metaphysician by proving the Universal Identity of Nature through experiment.**
 
 Atwood says the ancient physiologists and alchemists agree with the metaphysician because they prove the Universal Identity of Nature by experiment [II.4 ¶16]. She cites them as support.
 
+**See also:** [Alchemists](#e0041)
+
 **References:** II.4 ¶16
 
 <a id="e0067"></a>
-### the ancient prophets
+### Ancient prophets
 *collective voice*
 
 **A group voice cited as having condemned both inner and material idolatry.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), the ancient prophets are cited as having condemned both inner and material idolatry [APP ¶100].
+
+**See also:** [Prophet](#e1409)
 
 **References:** APP ¶100
 
@@ -750,8 +818,8 @@ Atwood contrasts the meaning the Ancient Schools of Divinity gave to metempsycho
 **References:** IV.2 ¶18
 
 <a id="e0069"></a>
-### the ancients
-*collective voice* · the Ancients
+### Ancients
+*collective voice*
 
 **Atwood's most frequent group authority, cited throughout as support for the reality, experimental basis and discipline of the Hermetic wisdom and the Mysteries.**
 
@@ -776,12 +844,14 @@ Libavius appears in a list of authors, and footnote n85 gives his *Opera Omnia M
 **References:** I.1 n85, I.1 ¶70
 
 <a id="e0071"></a>
-### angelical spirit
+### Angelical spirit
 *term*
 
 **In a quoted adept's words, the subtle spirit conceived when the quintessential nature is opened. It holds the divine act and is a direct beam of Wisdom from God.**
 
 This is the language of a quoted adept, not Atwood's own words. When the quintessential nature is opened, what is conceived is “the subtle altereity of the angelical spirit in which is the divine act, and immediate beam or Wisdom from God” [II.3 ¶52]. The record gives no plainer meaning.
+
+**See also:** [Spirit](#e1644)
 
 **References:** II.3 ¶52
 
@@ -796,7 +866,7 @@ Footnote n27 cites *Anima Magia Abscond.*, p. 27, as the source of the Latin seq
 **References:** III.4 n35, IV.2 n27, IV.2 ¶41
 
 <a id="e0073"></a>
-### anima media
+### Anima media
 *term*
 
 **Atwood's term for the middle soul or center of man or of nature, which she identifies with the medial center.**
@@ -827,15 +897,19 @@ Atwood presents Animal Magnetism as a modern discovery that produces Trance and 
 
 **Identified with:** [Mesmerism](#e1069) [II.2 ¶6]; [Vital Magnetism](#e1896) [II.2 ¶6]
 
+**See also:** [Writers on Animal Magnetism](#e1955)
+
 **References:** II.2 ¶6
 
 <a id="e0076"></a>
-### animated Mercury of the wise
+### Animated Mercury of the wise
 *term*
 
 **In Eudoxus's account, the Mercury obtained once the King's bath is prepared with the blood of the Innocents. It never loses its virtue if kept well sealed.**
 
 Eudoxus is the speaker, quoted by Atwood. Once the King's bath has been prepared with the blood of the Innocents, “you will have the animated Mercury of the wise, which never loses its virtue” as long as it is kept in a well-closed vessel [IV.3 ¶10]. The record does not give a plain meaning for these figures.
+
+**See also:** [The Wise](#e1944)
 
 **References:** IV.3 ¶10
 
@@ -850,7 +924,7 @@ In the Appendix (Table Talk, begun 1860, a later layer), Anne Bronte is said to 
 **References:** APP ¶175
 
 <a id="e0078"></a>
-### annihilate condition
+### Annihilate condition
 *term*
 
 **The state into which the artist brings all by pressing out the waters of nature's extreme life, after which nature reacts.**
@@ -860,7 +934,7 @@ In Atwood's account, the artist presses out “the waters of her extreme life”
 **References:** I.2 ¶36
 
 <a id="e0079"></a>
-### annihilation
+### Annihilation
 *term*
 
 **Atwood's term for the end of Wisdom, a so-called annihilation that leads back into the Nothing that is before all things.**
@@ -869,43 +943,27 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood places the end o
 
 **References:** APP ¶90
 
-<a id="e0080"></a>
-### the anonymous author of the Tractatus Aureus
-*collective voice*
-
-**The unnamed author of the Tractatus Aureus, cited as having carefully prepared the magic Key that opens the door into the Hermetic garden.**
-
-In the Appendix (Table Talk, begun 1860, a later layer), this author of the *Tractatus Aureus* (Museum Hermeticum, edit. 1649, p. 45) is cited with approval as having carefully prepared the magic Key that opens the door into the Hermetic garden [APP ¶100].
-
-**References:** APP ¶100
-
-<a id="e0081"></a>
-### another (unnamed)
-*collective voice*
-
-**An unnamed authority quoted as showing the same matter to be the source of blessed waters.**
-
-An unnamed authority is quoted on the same matter as the source of blessed waters: “Ex mari meo oriuntur nebulae” [II.3 ¶18]. (Our translation: From my sea the mists arise.)
-
-**References:** II.3 ¶18
-
 <a id="e0082"></a>
-### Antecedent Cause
+### Antecedent cause
 *term*
 
 **In Aristotle's view as Atwood reports it, the cause that the human Understanding is brought into contact with through mystical exercises and preparations.**
 
 This is Aristotle's view as Atwood reports it. Through mystical exercises and preparations, “the human Understanding Medium is made to pass into contact with its Antecedent Cause” [II.1 ¶37]. The record does not define the term further.
 
+**See also:** [Causes](#e0244)
+
 **References:** II.1 ¶37
 
 <a id="e0083"></a>
-### antecedent life
+### Antecedent life
 *term*
 
 **Atwood's term for the life that comes before outward experience and underlies it. Experience could reveal it if perception were turned inward and the obstacles removed.**
 
 Atwood argues that if the outward-looking faculty were turned inward and its obstacles removed, “experience might then reveal to us the antecedent life” [II.2 ¶21]. This makes the inward turning of perception a condition of the method. According to the record, the antecedent life is the life prior to and underlying outward experience.
+
+**See also:** [Life](#e0960)
 
 **References:** II.2 ¶21
 
@@ -918,18 +976,20 @@ Cited for reference only.
 **References:** I.3 n22, I.3 n30
 
 <a id="e0085"></a>
-### Antimonial Spirit
+### Antimonial spirit
 *term*
 
 **The Alchemists' Antimonial Spirit, rectified by Art and balanced between attraction and repulsion. It alone withstands life's drift toward dissolution.**
 
 This is the Alchemists' term, cited via Bohme. Their “Antimonial Spirit rectified by Art” [II.1 ¶20] is described as balanced between attraction and repulsion. It is the only thing that resists life's drift toward dissolution.
 
+**See also:** [Spirit](#e1644)
+
 **References:** II.1 ¶20
 
 <a id="e0086"></a>
 ### Antimony
-*term* · antimony
+*term*
 
 **The adepts' name for the matter of the tincture and for the fire of life. It is not the ordinary mineral, and Basil Valentine calls its preparation the key of Alchemy.**
 
@@ -940,17 +1000,19 @@ Antimony appears only in quoted voices, mostly Basil Valentine's. Atwood adds a 
 - **Key of Alchemy.** Basil Valentine says “in the preparation of Antimony consists the Key of Alchemy”. It is matured with the corporeal fire of the microcosm [III.1 ¶37]. **Identity:** = stone of Fire: “our stone of Fire (which is Antimony)” [III.1 ¶37].
 - **Fixed medicine.** “Our Antimony, says Basil Valentine, which is fixed, searcheth out fixed diseases and eradicates them”, but only after all its venomous impurity has been removed [IV.1 ¶40]. Atwood explains this removal as the purging of self-will and other vices from the operator's mind. This reading is hers, and it ties the substance to the operator's own purification.
 
-**Identified with:** [fire of life](#e0576) [III.1 ¶10]; [the Stone of Fire](#e1671) [III.1 ¶37]
+**Identified with:** [Fire of life](#e0576) [III.1 ¶10]; [Stone of Fire](#e1671) [III.1 ¶37]
 
 **References:** II.1 ¶25, III.1 ¶10, III.1 ¶37, IV.1 ¶40
 
 <a id="e0087"></a>
-### Antimony of the Wise
+### Antimony of the wise
 *term*
 
 **Named by Atwood among the dark presences at the conjunction. The text does not define it.**
 
 Atwood names it among the dark presences at the conjunction: “Night, Saturn and the Antimony of the Wise will be present” [III.3 ¶13]. The record does not define it. Compare Antimony.
+
+**See also:** [The Wise](#e1944)
 
 **References:** III.3 ¶13
 
@@ -982,6 +1044,8 @@ Atwood describes this place of descent as having air “destitute of elasticity,
 
 Atwood says the truth is so wrapped up that it “might puzzle Apollo himself to explicate the whole Enigma” [IV.4 ¶2]. She uses Apollo only as a figure of speech.
 
+**See also:** [Argo and Apollo (classical allusion)](#e0116)
+
 **References:** IV.4 ¶2
 
 <a id="e0091"></a>
@@ -1005,8 +1069,8 @@ Two footnotes cite Apollonius Rhodius (Argonaut., Lib. 2; Fawkes’ Apollonius R
 **References:** III.1 n32, III.1 n35
 
 <a id="e0093"></a>
-### the Apostle
-*collective voice* · the apostle
+### Apostle
+*collective voice*
 
 **The Apostle's scriptural words, which Atwood cites repeatedly to support the nearness of being, transformation, resurrection and the spiritual purification of the operator.**
 
@@ -1022,7 +1086,7 @@ Atwood cites the Apostle as scriptural support, always with approval:
 **References:** II.1 n24, II.1 ¶26, II.4 ¶19, III.3 n13, III.3 n17, III.3 n38, III.3 ¶23, III.3 ¶24, III.3 ¶59, IV.1 n33, IV.1 n41, IV.1 ¶40, IV.1 ¶46
 
 <a id="e0094"></a>
-### apotheosis
+### Apotheosis
 *term*
 
 **Atwood's term for the final stage of the church's mysteries, which was kept most secret.**
@@ -1043,7 +1107,7 @@ From the *Metamorphoses*, book 11, she draws: the bough connected with the Mercu
 
 He is listed with Plotinus, Philo-Judaeus, Proclus, Porphyry, Jamblicus and Julian among the Alexandrian revival figures professing Theurgic and Hermetic knowledge [I.1 ¶27]; he is called to witness by Agrippa [II.1 ¶26]; and Reuchlin's passage cites him to excuse an obscure phrase: “you must pardon, as Apuleius says, the strange expression” [III.2 ¶24]. In I.1 ¶11 he appears as the hypothetical forger of the prophecy, a theory Atwood rejects.
 
-**References:** APP ¶126, I.1 ¶11, I.1 ¶27, II.1 ¶26, II.3 n54, II.3 n6, II.3 ¶11, II.3 ¶50, II.3 ¶54, II.4 n10, II.4 n11, II.4 n31, II.4 n9, II.4 ¶16, II.4 ¶17, II.4 ¶18, II.4 ¶19, III.2 ¶24
+**References:** I.1 ¶11, I.1 ¶27, II.1 ¶26, II.3 n54, II.3 n6, II.3 ¶11, II.3 ¶50, II.3 ¶54, II.4 n10, II.4 n11, II.4 n31, II.4 n9, II.4 ¶16, II.4 ¶17, II.4 ¶18, II.4 ¶19, III.2 ¶24, APP ¶126
 
 <a id="e0096"></a>
 ### Apuleius of Megara
@@ -1064,6 +1128,8 @@ Atwood cites the *Metapmorphoses, or Golden Ass* of Apuleius of Megara to illust
 Atwood quotes translated verses from the *Aquarium Sapientum* (in Mus. Herm., 'The Enigma'): spirit, soul and body in one seat, then dissolution, then reunion in the last heat — “The Spirit is given to the body for a time,” [III.1 ¶51, III.1 ¶52, III.1 n57]. She endorses this as 'the constant doctrine and rule of the regeneration'.
 
 Under the spelling *Aquarium Sepientum* (Mus. Herm., p. 112) it is cited after the birth of Horus to illustrate the triune and fivefold divine-human essence: “Triuna universalis essentia, quae Jehovah appellatur” [IV.2 ¶11, IV.2 n3].
+
+**See also:** [Author of the Aquarium Sapientum](#e0528)
 
 **References:** I.3 n37, II.2 n16, III.1 n57, III.1 ¶51, III.1 ¶52, IV.2 n3, IV.2 ¶11
 
@@ -1090,12 +1156,14 @@ From the *Roasrium Abbrev.* (Tract. iii and v) she takes the doctrine that Mercu
 **References:** I.1 n49, I.1 n50, I.1 n51, I.1 ¶39, I.1 ¶41, I.1 ¶42, I.2 n13, I.2 ¶11, I.3 n15
 
 <a id="e0100"></a>
-### the Arabian
-*collective voice*
+### Arabian
+*collective voice* — *Aristotele Arabus in the Rosarium*
 
 **An Arabian authority (given in the Rosarium as Aristotele Arabus) cited on the Stone: nothing is added, separation only removes superfluities.**
 
 Via the *Rosarium* (Aristotele Arabus), 'the Arabian' supports the claim that nothing is added in the work: “to which we add nothing different or extract, only in the separation removing superfluities” [I.2 ¶43, I.2 n42]. His 'subtle phrase' on the Stone known and proven is also cited: “Sumatur lais in capitulis notus” [III.2 ¶7].
+
+**See also:** [Arabians](#e0104)
 
 **References:** I.2 n42, I.2 ¶43, III.2 ¶7
 
@@ -1119,6 +1187,8 @@ Quoting Vaughan, Atwood records that the philosophers reduced their medicine by 
 
 **Identified with:** dust (the reduced medicine) [IV.3 ¶22]
 
+**See also:** [Elixir](#e0473)
+
 **References:** IV.3 ¶22
 
 <a id="e0103"></a>
@@ -1132,18 +1202,20 @@ Atwood invokes the *Arabian Nights* to illustrate the 'entertaining' style of th
 **References:** II.3 ¶34
 
 <a id="e0104"></a>
-### the Arabians
+### Arabians
 *collective voice*
 
 **Group voice cited for a name of the Matter: Flower of White Salt.**
 
 The Arabians are cited for a name of the Matter: “Flos Salis Albi” (Flower of White Salt) [III.2 ¶8].
 
+**See also:** [Arabian (Aristotele Arabus in the Rosarium)](#e0100)
+
 **References:** III.2 ¶8
 
 <a id="e0105"></a>
-### the Arcadia
-*treatise* · Arcadia
+### Arcadia
+*treatise*
 
 **Cited within a Vaughan passage to show that the work does not occupy the operator's attention.**
 
@@ -1183,6 +1255,8 @@ The chapter epigraph of IV.1 comes from *Arcanum Ignis Aquae* (Resp. 6): “Dii 
 
 Atwood cites the *Arcanum Liquaris Alkahest* (Resp. 876, 78) in Latin on transmuting the salt of blood: “sanquinis salem per urinaceum fermentum sic transmutari debere” [II.1 ¶21, II.1 n18] — that the salt of blood ought thus to be transmuted by a urinous ferment (translation ours).
 
+**See also:** [Alkahest](#e0052)
+
 **References:** II.1 n18, II.1 ¶21
 
 <a id="e0109"></a>
@@ -1195,21 +1269,23 @@ In the Appendix (Table Talk, a later layer) Atwood sets the term in apposition t
 
 **Identified with:** solar plexus [APP ¶32]
 
-**References:** APP ¶32, III.2 ¶17, III.3 ¶71
+**References:** III.2 ¶17, III.3 ¶71, APP ¶32
 
 <a id="e0110"></a>
-### Archetypal Law of Light
+### Archetypal Law of light
 *term*
 
 **The order in which all things are causally ranged as originally distributed, seen 'as in a glass' by one who has the Principle.**
 
 Atwood speaks of “the great Archetypal Law of Light, in which are all things causally ranged” [III.3 ¶39]: the order of things as originally distributed, which the one who possesses the Principle beholds 'as in a glass'. See also Archetype, whose creative mind orders all things by this Law.
 
+**See also:** [Light](#e0962)
+
 **References:** III.3 ¶39
 
 <a id="e0111"></a>
-### archetypal Light
-*term* · Archetypal Light
+### Archetypal light
+*term*
 
 **The original Light before which the understanding stands to perfect its new-born attributes; perceived, it burns up prior images and is identified with Truth.**
 
@@ -1217,7 +1293,9 @@ In the main text, Atwood describes “the understanding vehicle now standing in 
 
 **Identified with:** [Truth](#e1807) [APP ¶106]
 
-**References:** APP ¶106, II.4 ¶16
+**See also:** [Light](#e0962)
+
+**References:** II.4 ¶16, APP ¶106
 
 <a id="e0112"></a>
 ### Archetypal Wisdom
@@ -1228,6 +1306,8 @@ In the main text, Atwood describes “the understanding vehicle now standing in 
 Atwood speaks of “that Archetypal Wisdom which the ancients celebrated as the occult essence of that Law” [II.1 ¶35] — the Intellectual Law, of which ordinary reason gives only an embryo image. Archetypal Wisdom = the occult essence of the Intellectual Law.
 
 **Identified with:** occult essence of the Intellectual Law [II.1 ¶35]
+
+**See also:** [Wisdom](#e1943)
 
 **References:** II.1 ¶35
 
@@ -1244,8 +1324,8 @@ In Hermes' account, Poemander asks: “hast thou seen that Archetypal Form, whic
 **References:** III.2 ¶61, III.2 ¶66, III.3 n27, III.3 ¶39, III.3 ¶56
 
 <a id="e0114"></a>
-### Archytas (the Pythagorean)
-*person* · Archytas
+### Archytas
+*person* — *the Pythagorean*
 
 **Pythagorean whose fragments Atwood cites on Wisdom as contemplation of first Principles and on right method of investigation as the key to discovery.**
 
@@ -1255,7 +1335,7 @@ From a fragment given by Taylor in his Iamblichus’ Life of Pythagorus, Archyta
 
 <a id="e0115"></a>
 ### Argent vive
-*term* · Argent Vive, Argent vives, argent vive, our Argent vive, argentums vivum nostrum
+*term* · Argent vives, our Argent vive, argentums vivum nostrum
 
 **The philosophic Mercury, the subject of the Art: a water of another nature, a stone and no stone, gold essential but unripe, cleansed and coagulated by its own sulfur.**
 
@@ -1270,12 +1350,14 @@ The Adept, with Atwood, describes its course: “this Argent vive was at first g
 **References:** I.2 ¶18, I.2 ¶25, I.2 ¶29, I.3 n9, I.3 ¶32, I.3 ¶9, III.1 ¶43, III.1 ¶69, IV.1 ¶10, IV.1 ¶11, IV.2 ¶35, IV.3 ¶25, IV.3 ¶9
 
 <a id="e0116"></a>
-### Argo / Apollo (classical allusion)
-*collective voice* · Argo, Apollo
+### Argo and Apollo
+*collective voice* — *classical allusion* · Argo, Apollo
 
 **Classical allusion used to say the philosophic vessels 'speak for themselves'.**
 
 Atwood illustrates that the philosophic vessels speak for themselves: they, “like the planks of Argo, on occasion, are still oracular” [III.4 ¶32].
+
+**See also:** [Apollo](#e0090)
 
 **References:** III.4 ¶32
 
@@ -1299,7 +1381,7 @@ From *In Ramis*, Act 1, Atwood cites the chorus to illustrate the privileged lig
 
 <a id="e0119"></a>
 ### Aristotle
-*person* · the Stagyrite, Aristotle (the Stagyrite), the Aristotle
+*person* · the Stagyrite
 
 **Authority (the Stagyrite) cited widely on Wisdom, Intellect, Matter and reduction of metals; Atwood qualifies charges of envy against him but declines to call him a Hermetic philosopher.**
 
@@ -1311,7 +1393,7 @@ On Matter, 'the logician': “I mean, he says, by Matter, that which of itself i
 
 **References:** I.1 n22, I.1 ¶15, I.1 ¶16, I.1 ¶17, I.2 n6, I.2 ¶5, I.2 ¶6, II.1 n30, II.1 n31, II.1 n32, II.1 ¶34, II.1 ¶37, II.1 ¶44, II.2 ¶17, III.1 n30, III.1 ¶23, III.2 n32, III.2 n37, III.2 n38, III.2 n42, III.2 ¶33, III.2 ¶36, III.2 ¶38, III.2 ¶40, III.2 ¶41, III.2 ¶42, III.2 ¶53, III.3 n18, III.3 ¶27, IV.1 n25, IV.1 ¶18, IV.1 ¶30, IV.2 n1, IV.2 ¶7, IV.2 ¶8
 
-<a id="e0120"></a>
+<a id="e0120"></a><a id="e0121"></a>
 ### Arkite Mysteries
 *term*
 
@@ -1319,25 +1401,21 @@ On Matter, 'the logician': “I mean, he says, by Matter, that which of itself i
 
 Atwood states that “the Arkite Mysteries have reference to the physical secret of the regeneration” [III.3 ¶69]; the god dead and revived is principal in them.
 
-**References:** III.3 ¶69
+*Arkite Mysteries.* Cited by Atwood in support of the claim that these mysteries refer to the physical secret of regeneration [III.3 ¶69]. See the term entry Arkite Mysteries.
 
-<a id="e0121"></a>
-### Arkite Mysteries
-*collective voice*
-
-**Cited as rites referring to the physical secret of regeneration.**
-
-Cited by Atwood in support of the claim that these mysteries refer to the physical secret of regeneration [III.3 ¶69]. See the term entry Arkite Mysteries.
+**See also:** [Mysteries](#e1154)
 
 **References:** III.3 ¶69
 
 <a id="e0122"></a>
-### Armed Magnet
+### Armed magnet
 *term*
 
 **Something rectified by Power and Motive 'by an infallible rule'; the text does not explain it.**
 
 Atwood speaks of Power and Motive that “rectifies the Armed Magnet by an infallible rule” [IV.1 ¶33]. The expression is not explained.
+
+**See also:** [Magnet](#e1009)
 
 **References:** IV.1 ¶33
 
@@ -1366,12 +1444,14 @@ With Hermes he witnesses that the art must be entrusted by one to another [II.1 
 **References:** I.1 n100, I.1 ¶39, I.1 ¶43, I.1 ¶48, I.1 ¶76, I.2 n18, I.2 n22, I.2 n3, I.2 n30, I.2 n4, I.2 ¶2, I.2 ¶22, I.2 ¶25, I.2 ¶29, I.2 ¶5, I.3 n13, I.3 n17, I.3 n23, I.3 n5, II.1 ¶25, III.1 n2, III.1 n25, III.1 ¶21, III.1 ¶62, III.1 ¶8, III.2 ¶5, III.4 n19, III.4 ¶20, IV.1 n6, IV.1 ¶12, IV.1 ¶36, IV.1 ¶7
 
 <a id="e0125"></a>
-### aromal essences
+### Aromal essences
 *term* · aromal emanations
 
 **The addressee's term for what Nature wraps herself in to realize her imaginings (Appendix).**
 
 In the Appendix (Table Talk, a later layer), Atwood uses the term as the addressee's own ('what you call'): “She wraps herself about with what you call aromal essences, aromal emanations” [APP ¶122] — Nature clothing herself to realize her imaginings.
+
+**See also:** [Essence](#e0503)
 
 **References:** APP ¶122
 
@@ -1395,20 +1475,24 @@ A term from Norton's Ordinal, quoted by Atwood: handicraft, “But handie crafte
 
 Atwood writes that “The Art of Alchemy is of all Arts distinguished as holt” [IV.4 ¶25] (the spelling is the book's), because it aids devout minds. She adds that “the Art is said to be a remedy of imperfect souls, and offers the means of assimilation” [IV.4 ¶25]. She also holds that the Art is not itself the cause of salvation [IV.4 ¶25].
 
+**See also:** [Alchemy](#e0043), [Hermetic art](#e0754)
+
 **References:** IV.4 ¶25
 
 <a id="e0128"></a>
-### Art of Life
+### Art of life
 *term*
 
 **The ultimate Art, which Atwood says she will not fully expose and which is to be discovered by a theoretic conduct.**
 
 Atwood speaks of discovering, “by a theoretic conduct, the ultimate Art of Life” [IV.2 ¶3]. She does not fully expose this Art; it is to be discovered by a theoretic conduct.
 
+**See also:** [Life](#e0960)
+
 **References:** IV.2 ¶3
 
 <a id="e0129"></a>
-### art of vital administration
+### Art of vital administration
 *term*
 
 **A concealed practical art which, with the vessel, the ancients are said to have hidden; Atwood names it without explaining it.**
@@ -1418,12 +1502,14 @@ Atwood mentions “the concealed vessel or art of vital administration” [II.1 
 **References:** II.1 ¶8
 
 <a id="e0130"></a>
-### art of Vulcan
+### Art of Vulcan
 *term*
 
 **The art said by unnamed others to have been first practised in Egypt by Cham, from whom some derive both the name and the art of alchemy.**
 
 Reporting what others say (not her own claim), Atwood records that in Egypt “it was there that the art of Vulcan was first practiced by Cham, one of the sons of the Patriarch” [I.1 ¶5]; some derive both the name and the art of alchemy from Cham.
+
+**See also:** [Vulcan](#e1914)
 
 **References:** I.1 ¶5
 
@@ -1434,6 +1520,8 @@ Reporting what others say (not her own claim), Atwood records that in Egypt “i
 **Atwood's name for the Art as long called holy, with nothing impure or impious in it.**
 
 Atwood writes: “These is nothing impure, or of itself impious, in this Art of Wisdom, long distinguished as holy.” [IV.4 ¶24] (wording as in the book). Compare Art of Alchemy, called holy in the next paragraph [IV.4 ¶25].
+
+**See also:** [Hermetic art](#e0754), [Wisdom](#e1943)
 
 **References:** IV.4 ¶24
 
@@ -1452,7 +1540,7 @@ With Arnold and Lully he is said to agree with the *Lucerna Salis* description o
 **References:** I.1 n108, I.1 n42, I.1 ¶27, I.1 ¶36, I.1 ¶37, I.1 ¶84, I.2 n28, I.2 ¶29, III.2 ¶5, IV.3 ¶7
 
 <a id="e0133"></a>
-### artificial destruction
+### Artificial destruction
 *term*
 
 **In Geber, a dissolution according to the course of nature; men's ignorance of it made them think gold-making impossible.**
@@ -1462,7 +1550,7 @@ Quoted from Geber: “the artificial destruction according to the course of natu
 **References:** II.1 ¶47
 
 <a id="e0134"></a>
-### artificial method
+### Artificial method
 *term*
 
 **The method of the Art, which Atwood says Palingenius divulges in a few lines of verse.**
@@ -1481,7 +1569,9 @@ In the Appendix (Table Talk, a later layer) Atwood describes the practitioner: �
 
 A theosophist she quotes sets limits on the human operator: “the Artist is not to attempt it --- he cannot do it” [IV.3 ¶38]. The Artist only prepares the way and the matter, and must have understanding and faith [IV.3 ¶38]. The two records differ in emphasis: the Artist as active experimenter, and the Artist as one who cannot do the work alone.
 
-**References:** APP ¶17, IV.3 ¶38
+**See also:** [Wise artist](#e1948)
+
+**References:** IV.3 ¶38, APP ¶17
 
 <a id="e0136"></a>
 ### Ascelpius Trallianus
@@ -1494,7 +1584,7 @@ Cited in support of deriving Wisdom from clearness and light: “it is a certain
 **References:** II.4 ¶26
 
 <a id="e0137"></a>
-### ascendant
+### Ascendant
 *term*
 
 **In Norton, the astrological ascendant, which should be direct and fiery and, with its Lord, made fortunate for the operation; a common sign suits the work's many repetitions.**
@@ -1523,7 +1613,7 @@ Atwood describes the Asclepian Dialogue of Hermes as a theosophic Hermetic book.
 
 In the Appendix (Table Talk, a later layer) she cites the Dialogue, “so called, the 2 nd Book of Hermes, ch. 9”, to support her view that the magicians first drew their power from the Divine Source and later fell into debasement and idolatry [APP ¶5]. See also Asclepian prophecy.
 
-**References:** APP ¶5, I.1 n11, I.1 ¶10, I.1 ¶7
+**References:** I.1 n11, I.1 ¶10, I.1 ¶7, APP ¶5
 
 <a id="e0140"></a>
 ### Ashes
@@ -1552,7 +1642,7 @@ From the *Theatrum* (p. 336, *Experience and Philosophy*) she quotes a verse Tab
 **References:** I.1 n21, I.1 n66, I.1 ¶62, I.1 ¶64, I.1 ¶66, III.3 n49, III.3 ¶75, III.3 ¶76, III.4 n23, III.4 n8
 
 <a id="e0142"></a>
-### assent
+### Assent
 *term*
 
 **In Synesius, the soul's consent to its purification; without it the soul lacks every purifying machine, assent being the greatest pledge of reconciliation.**
@@ -1562,7 +1652,7 @@ Quoted from Synesius: “the soul is deprived of every purifying machine because
 **References:** II.2 ¶13
 
 <a id="e0143"></a>
-### astral birth
+### Astral birth
 *term*
 
 **In Boehme, what the new man looks into, equated with the geniture; not further explained.**
@@ -1574,8 +1664,8 @@ Quoted from Boehme: the new man looks into “the astral birth or geniture” [I
 **References:** III.2 ¶16
 
 <a id="e0144"></a>
-### astral fire
-*term* · Astral Fire
+### Astral fire
+*term*
 
 **A fire said to conquer all things and assimilate them to itself; Paracelsus places it in the tincture, and Eudoxus says the Stone is an Astral Fire.**
 
@@ -1585,10 +1675,12 @@ Eudoxus identifies the Stone with it: “Our stone is an Astral Fire” [IV.3 ¶
 
 **Identified with:** Our stone [IV.3 ¶16]
 
+**See also:** [Fire](#e0575)
+
 **References:** I.1 ¶76, IV.3 ¶16
 
 <a id="e0145"></a>
-### Astrum Solis
+### Astrum solis
 *term*
 
 **Atwood's name for the internal spiritual Sun gotten and conceived through the work, which she identifies with a series of traditional images.**
@@ -1654,7 +1746,7 @@ Cited for reference only.
 **References:** I.2 n48
 
 <a id="e0150"></a>
-### aura
+### Aura
 *term*
 
 **In Vaughan, the material efflux of the soul, which differs from the aerial spirit in constitution only, not in nature.**
@@ -1666,17 +1758,19 @@ Quoted from Vaughan: “the aura or material efflux of the soul” [III.3 ¶27].
 **References:** III.3 ¶27
 
 <a id="e0151"></a>
-### Aurific Light
+### Aurific light
 *term*
 
 **The gold-making light of the ferment, into whose substance the ferment transmutes everything.**
 
 Atwood says the ferment “transmutes all into the substance of its own Aurific Light” [III.1 ¶24].
 
+**See also:** [Light](#e0962)
+
 **References:** III.1 ¶24
 
 <a id="e0152"></a>
-### aurific principle
+### Aurific principle
 *term*
 
 **In Albertus Magnus, the gold-making principle, identified with fire in the life of all things and strongest in man.**
@@ -1685,10 +1779,12 @@ Quoted from Albertus Magnus: “fire, which is the true aurific principle in the
 
 **Identified with:** [Fire](#e0575) [II.1 ¶12]
 
+**See also:** [Principles](#e1399)
+
 **References:** II.1 ¶12
 
 <a id="e0153"></a>
-### aurific seed
+### Aurific seed
 *term*
 
 **A living gold-producing seed, the Light that springs from reason's conscious alliance with the higher Cause; the true form of gold, which the covetous spirit cannot quicken.**
@@ -1697,9 +1793,11 @@ Atwood says the seed must be quickened in life, unlike dead metal. The covetous 
 
 In the Appendix (Table Talk, a later layer) she calls it the Light springing from reason's conscious alliance with the higher Cause, which “is the Divine aurific seed and true form of gold.” [APP ¶152]. She also identifies it with the Golden Bough: “That was the Golden Bough which Aeneas carried” [APP ¶152].
 
-**Identified with:** [true Form of Gold](#e1793) [APP ¶152]; [Golden Bough](#e0679) [APP ¶152]
+**Identified with:** [True form of gold](#e1793) [APP ¶152]; [Golden Bough](#e0679) [APP ¶152]
 
-**References:** APP ¶152, III.4 ¶11
+**See also:** [Seed](#e1568)
+
+**References:** III.4 ¶11, APP ¶152
 
 <a id="e0154"></a>
 ### Aurific substance of life
@@ -1709,10 +1807,12 @@ In the Appendix (Table Talk, a later layer) she calls it the Light springing fro
 
 In the Appendix (Table Talk, a later layer) Atwood says the will fails “for want of returning the aurific substance of life into its source and living there” [APP ¶159]. On her account the will should return this substance to its source, not possess it.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶159
 
 <a id="e0155"></a>
-### aurified
+### Aurified
 *term*
 
 **Atwood's gloss: illuminated, by contrariation of its Form.**
@@ -1725,7 +1825,7 @@ Atwood glosses the word herself: “aurified --- that is, illuminated by contrar
 
 <a id="e0156"></a>
 ### Auripigment
-*term* · auripigment, auripigments
+*term* · auripigments
 
 **A kind of sulphur, drawn dry from the fountain by the crowned king; Atwood takes it as the multiplicative virtue of the philosophers' stone and a name for the luminous vital principle.**
 
@@ -1740,7 +1840,7 @@ Atwood reads it as “that auripigment of philosophers which is the multiplicati
 **References:** I.3 n22, I.3 ¶18, I.3 ¶20, III.3 ¶17
 
 <a id="e0157"></a>
-### the author of Antiquity Unveiled
+### Author of Antiquity Unveiled
 *collective voice*
 
 **Writer of L’Antiquitie devoilee par ses Usages, cited by Atwood critically for treating the Mysteries as a depository of the religious melancholy of the first men.**
@@ -1749,8 +1849,20 @@ Atwood cites the author of *L’Antiquitie devoilee par ses Usages, etc.* only t
 
 **References:** II.2 n4, II.2 ¶4
 
+<a id="e0528"></a>
+### Author of the Aquarium Sapientum
+*collective voice* · the excellent author of the Aquarium Sapientum, or Water Stone, the pious author of the Aquarium, author of the Aquarium
+
+**The author of the Aquarium Sapientum, or Water Stone, cited by Atwood for the spirit-soul-body cycle and for the warning that pride or covetousness makes the art vanish.**
+
+Atwood cites this author from the Aquarium Sapientum (in the Musaeum Hermeticum) for a Latin enigma illustrating the separation, putrefaction and reunion of spirit, soul and body: “Spiritus ipse datur pro tempore corpori” [I.3 n21] (our rendering: the spirit itself is given to the body for a time). Elsewhere, as “the pious author of the Aquarium”, he supports her point that pride or covetousness after possession makes the art disappear: “this art will vanish from under thy hands” [III.4 ¶7; III.4 n4]. Atwood endorses this warning.
+
+**See also:** [Aquarium Sapientum](#e0097)
+
+**References:** I.3 n21, III.4 n4, III.4 ¶7
+
 <a id="e0158"></a>
-### the author of the Filum Ariadne
+### Author of the Filum Ariadne
 *collective voice*
 
 **Writer of Le Filet d’Aridane, cited in support of the point that the dissolution needs hands, which Nature lacks.**
@@ -1760,8 +1872,8 @@ Cited (work: *Le Filet d’Aridane*) in support of Atwood’s point that the dis
 **References:** IV.1 n3, IV.1 ¶5
 
 <a id="e0159"></a>
-### author of the Lucerna Salis
-*collective voice* · the author of Lucerna Salis, Author of Lucerna Salis
+### Author of the Lucerna Salis
+*collective voice* · the author of Lucerna Salis
 
 **Writer of the Lucerna Salis (cited in Digby’s translation), repeatedly used by Atwood in support of points on the white work, prayer and labour, the gold of the Wise, and fermentation.**
 
@@ -1772,20 +1884,24 @@ Atwood cites the *Lucerna Salis* (footnoted as Digby’s translation / Digby’s
 - **Gold of the Wise**: from the Latin verse *Aurum Sapientum*, the gold of the Wise as pure water, its dissolution and reunion into One inseparable Thing; it declares “the gold of the Wise to be by no means vulgar gold” [III.3 ¶32; III.3 n22].
 - **Fermentation and multiplication** (cap. 8): fermenting with pure gold or silver before projection, purifying the metals, and tenfold multiplication by dissolving and coagulating; “one drachm of gold is sufficient for the fermentation in the red” [IV.3 ¶24; IV.3 n5].
 
+**See also:** [Lucerna Salis Phil.](#e0987)
+
 **References:** III.2 n7, III.2 ¶5, III.2 ¶6, III.3 n22, III.3 ¶32, III.4 n16, III.4 n21, III.4 ¶20, IV.3 n5, IV.3 ¶24
 
 <a id="e0160"></a>
-### author of the Lumen de Lumine
+### Author of the Lumen de Lumine
 *collective voice*
 
 **Writer of the Lumen de Lumine, cited from its chapter on Matter in support of Atwood’s account of Tenebrae activae beneath sense and imagination.**
 
 Cited from the chapter on Matter in *Lumen de Lumine* in support of Atwood’s account of the *Tenebrae activae* lying beneath sense and imagination, described as “a certain horrible, inexpressible chasm” [III.2 ¶13; III.2 n13].
 
+**See also:** [Lumen de Lumine](#e0991)
+
 **References:** III.2 n13, III.2 ¶13
 
 <a id="e0161"></a>
-### the author of the Rosarium
+### Author of the Rosarium
 *collective voice* · the wise author of the Rosarium, Author of the Rosary
 
 **Writer of the Rosarium, cited by Atwood in support of solution, dissolution and patient repetition, and among testimonies to inexhaustible abundance she says are not literally true.**
@@ -1798,10 +1914,34 @@ The “wise author of the Rosarium” (cap. 3) is cited for grinding, cooking an
 
 As “Author of the Rosary” he is cited for an inexhaustible abundance won by industry, patience and one’s own labour, in a passage that continues with Eirenaeus and is footnoted to *Introitus Apertus* cap. 35; Atwood then says this testimony is not literally true [IV.3 ¶26; IV.3 n7].
 
+**See also:** [Monk in his Rosary](#e1119)
+
 **References:** I.2 n2, I.2 ¶5, II.3 n2, IV.1 n7, IV.1 ¶7, IV.3 n7, IV.3 ¶26
 
+<a id="e0080"></a>
+### Author of the Tractatus Aureus
+*collective voice* — *anonymous* · the anonymous author of the Tractatus Aureus
+
+**The unnamed author of the Tractatus Aureus, cited as having carefully prepared the magic Key that opens the door into the Hermetic garden.**
+
+In the Appendix (Table Talk, begun 1860, a later layer), this author of the *Tractatus Aureus* (Museum Hermeticum, edit. 1649, p. 45) is cited with approval as having carefully prepared the magic Key that opens the door into the Hermetic garden [APP ¶100].
+
+**See also:** [Tractatus Aureus](#e1773)
+
+**References:** APP ¶100
+
+<a id="e1253"></a>
+### Author of The Triumph
+*collective voice* · our author of The Triumph, The Triumph
+
+**The author of The Triumph, cited for listing the fixed principles: the Elements, the Three Principles, white and citrine Mercury, and fixed Sulphur as the Stone.**
+
+This author is cited for a list of the fixed principles: the Elements, the Three Principles, white and citrine Mercury, and fixed Sulphur as the Stone. The list begins: “you must make the conversion of the Elements” [IV.2 ¶6].
+
+**References:** IV.2 ¶6
+
 <a id="e0162"></a>
-### the authorities
+### Authorities
 *collective voice*
 
 **Unnamed authorities cited in support of the claim that the three terms of adoration contain all the Divine measures.**
@@ -1809,6 +1949,18 @@ As “Author of the Rosary” he is cited for an inexhaustible abundance won by 
 Cited, unnamed, in support of the statement that the three terms of adoration contain all the Divine measures [III.4 ¶25].
 
 **References:** III.4 ¶25
+
+<a id="e1313"></a>
+### Authorities in Norton
+*collective voice* — *Philosophers, Astrologers, Auctors* · Philosophers, Astrologers, Auctors
+
+**Authorities cited within Norton's verse on working 'within locks nyne' and on the importance of a fitting place.**
+
+These authorities speak inside Norton's verse, which Atwood quotes: “Philosophers said, by their engine, How it should be wrought within locks nyne” [III.4 ¶41]. The passage also stresses how much a fitting place matters for the work.
+
+**See also:** [Norton](#e1197), [Philosopher (unnamed voice)](#e1310), [Philosophers](#e1311)
+
+**References:** III.4 ¶41
 
 <a id="e0163"></a>
 ### Avarice
@@ -1844,7 +1996,7 @@ In Norton’s verse “Avicen” is named among masters who wrote obscurely: “
 
 <a id="e0166"></a>
 ### Azoth
-*term* · azoth
+*term*
 
 **Name for the Universal Mercury and the Stone’s active principle, which with fire suffices for the work, reducing bodies to First Matter and reanimating them.**
 
@@ -1856,9 +2008,9 @@ In IV.3 a cited voice (“continues he”) makes it the Stone’s active princip
 
 Asserted identities: = Universal Mercury [I.1 ¶81]; = The Universal [III.3 ¶9]; = vivific Ens [IV.3 ¶29].
 
-**Identified with:** Universal Mercury [I.1 ¶81]; [Universal](#e1841) [III.3 ¶9]; [vivific Ens](#e1907) [IV.3 ¶29]
+**Identified with:** Universal Mercury [I.1 ¶81]; [Universal](#e1841) [III.3 ¶9]; [Vivific ens](#e1907) [IV.3 ¶29]
 
-**References:** APP ¶131, I.1 ¶81, III.3 ¶9, IV.2 ¶13, IV.3 ¶28, IV.3 ¶29
+**References:** I.1 ¶81, III.3 ¶9, IV.2 ¶13, IV.3 ¶28, IV.3 ¶29, APP ¶131
 
 ## B
 
@@ -1872,7 +2024,7 @@ In Norton’s verse Bacon is named among masters who wrote obscurely: “Wrote u
 
 In the Appendix (Table Talk, later layer) Atwood uses his lucid style to show that clear language seems mystical when turned to the a priori ground [APP ¶111]. She accepts his dictum “Man is the servant and interpreter of Nature” only for outward seeking and qualifies it: turned within, man can be Nature’s revealer and master [APP ¶120].
 
-**References:** APP ¶111, APP ¶120, I.1 ¶15, III.1 ¶21, III.2 ¶42
+**References:** I.1 ¶15, III.1 ¶21, III.2 ¶42, APP ¶111, APP ¶120
 
 <a id="e0168"></a>
 ### Balaam
@@ -1885,7 +2037,7 @@ Used as an illustration: Balaam’s ass was clear-sighted and spoke [III.2 ¶64]
 **References:** III.2 ¶64
 
 <a id="e0169"></a>
-### the bards and hallowed sages of Asia Minor
+### Bards and hallowed sages of Asia Minor
 *collective voice*
 
 **Ancient sages contrasted with moderns: they knew their Creator under the same sun under which moderns remain blind.**
@@ -1896,7 +2048,7 @@ Atwood contrasts them with moderns: they knew their Creator under the same sun, 
 
 <a id="e0170"></a>
 ### Basil Valentine
-*person* · B. Valentine, Basil, the Monk Basil, Basil (the monk), the Benedict Valentine
+*person* · B. Valentine, Basil, the Monk Basil, the Benedict Valentine
 
 **Adept called “the monk”, praised by Atwood as the star of his century and among her most-cited authorities on First Matter, Antimony, extraction, and experience before practice.**
 
@@ -1910,11 +2062,11 @@ Atwood praises Basil Valentine as the star of the fifteenth century, credited wi
 
 He also teaches that exterior spirits are intelligent and deceive the unwary, being “endowed with senses and understanding, know Arts, and have in themselves an occult operative life” [II.3 ¶23; II.3 n18]. In the Appendix (later layer) his *Keys* are called the best illustration of the Art as a fermentative process [APP ¶29].
 
-**References:** APP ¶29, I.1 n36, I.1 n65, I.1 ¶27, I.1 ¶49, I.1 ¶59, I.1 ¶61, I.1 ¶86, I.2 n33, I.2 ¶31, I.2 ¶32, I.2 ¶42, I.3 n23, I.3 n66, II.1 n8, II.1 ¶11, II.1 ¶25, II.3 n18, II.3 ¶23, III.1 n10, III.1 n14, III.1 n15, III.1 n42, III.1 n8, III.1 ¶13, III.1 ¶37, III.2 n20, III.2 ¶19, III.2 ¶20, III.2 ¶60, III.4 n24, IV.1 n1, IV.1 n15, IV.1 n34, IV.1 ¶15, IV.1 ¶2, IV.1 ¶40
+**References:** I.1 n36, I.1 n65, I.1 ¶27, I.1 ¶49, I.1 ¶59, I.1 ¶61, I.1 ¶86, I.2 n33, I.2 ¶31, I.2 ¶32, I.2 ¶42, I.3 n23, I.3 n66, II.1 n8, II.1 ¶11, II.1 ¶25, II.3 n18, II.3 ¶23, III.1 n10, III.1 n14, III.1 n15, III.1 n42, III.1 n8, III.1 ¶13, III.1 ¶37, III.2 n20, III.2 ¶19, III.2 ¶20, III.2 ¶60, III.4 n24, IV.1 n1, IV.1 n15, IV.1 n34, IV.1 ¶15, IV.1 ¶2, IV.1 ¶40, APP ¶29
 
 <a id="e0171"></a>
 ### Bath
-*term* · bath, bath of the King, royal bath
+*term* · bath of the King, royal bath
 
 **In Eudoxus’ words, the spirits of the bodies, where Sun and Moon wash; the King’s bath, prepared with the blood of the Innocents, in which he is made young.**
 
@@ -1932,15 +2084,19 @@ Eudoxus (quoted) identifies the bath with the spirits of the bodies: “the spir
 
 Atwood: “So the Bath of Diana is prepared out of the blood of many battles” [III.1 ¶68]; it precedes the rising of the Identical Spirit [III.1 ¶68].
 
+**See also:** [Diana](#e0380)
+
 **References:** III.1 ¶68
 
 <a id="e0173"></a>
 ### Being
-*term* · true Being, real Being, real being, truly subsisting Being
+*term* · true Being, real Being, truly subsisting Being
 
 **That which is referred to all things and through which they sympathize, inconceivable by ordinary reason, which the soul enters after descent to nonentity.**
 
 Atwood: Being cannot be conceived by ordinary rational contemplation; “it becomes necessary simply to refer Being to all things, and all things sympathize thereby internally with each other” [III.2 ¶50]. The soul becomes into it after its descent to nonentity, and one is present with it by being present with oneself: “then he is present with true Being, which is everywhere” [III.2 ¶59].
+
+**See also:** [True being](#e1790)
 
 **References:** III.2 ¶50, III.2 ¶59
 
@@ -1962,8 +2118,20 @@ Cited from the *Turba Philosophoru*, Sermo Vigesima (the classic synod of Arista
 
 **References:** I.2 n31, I.2 ¶29
 
+<a id="e0954"></a>
+### Ben Jochai
+*collective voice* — *the learned Rassbi; his disciples* · the learned Rassbi, the Rabbi, Ben Jochai and his disciples
+
+**Rabbinical voices cited by Atwood, with endorsement as Hermetic, for creation from nothing understood as from the primitive non-Being, Wisdom.**
+
+Atwood cites the learned Rassbi (the Rabbi), Ben Jochai and his disciples in support of creation from nothing as from the primitive non-Being, which is Wisdom: “by non-Being they mean that which is neither conceivable as cause nor as essence, but yet is in fact the Cause of causes” [III.2 ¶31; III.2 ¶32]. She endorses the view as Hermetic. A footnote marker (29) at this point has no footnote in the chunk.
+
+**See also:** [Hebrew Kabalists (Rabbis)](#e0741), [Kabalistic commentators (mystics of the middle ages; the Rabbis)](#e0915), [Rabbi Ben Jochai](#e1446)
+
+**References:** III.2 ¶31, III.2 ¶32
+
 <a id="e0176"></a>
-### benedicta viriditas
+### Benedicta viriditas
 *term*
 
 **Phrase of the masters which Atwood applies to the matter’s ripened Life; it is unclear whether it names the green or the purple colour.**
@@ -1973,18 +2141,20 @@ In the Appendix (Table Talk, later layer) Atwood writes: “The purple color is 
 **References:** APP ¶119
 
 <a id="e0177"></a>
-### the Benedictine Monk
+### Benedictine Monk
 *collective voice*
 
 **Voice cited via Vaughan’s Coelum Terrae in support of solve et coagula, the gross body as vessel, heavenly fire, and work without tools.**
 
 Cited (footnoted to Mehung in Vaughan’s *Coelum Terrae*, p. 122) in support of solve et coagula, the gross body as the vessel, the heavenly fire, and work without tools: “For I have my heavenly fire, which excites and stirs up the elemental one” [III.3 ¶24; III.3 n14].
 
+**See also:** [Monks](#e1120)
+
 **References:** III.3 n14, III.3 ¶24
 
 <a id="e0178"></a>
-### the best Greek Authors, historical and philosophic
-*collective voice*
+### Best Greek authors
+*collective voice* — *historical and philosophic* · the best Greek Authors, historical and philosophic
 
 **Greek historical and philosophic writers whom Atwood invokes as giving collateral probability to alchemy’s antiquity.**
 
@@ -1993,12 +2163,14 @@ Invoked as providing collateral probability for the antiquity of alchemy [I.1 ¶
 **References:** I.1 ¶3
 
 <a id="e0179"></a>
-### the Bible
+### Bible
 *treatise* · Revelation
 
 **Cited in the Appendix: its protest against idolatry applied to self-made specificating, and Revelation said to rectify man and Nature.**
 
 Both references are in the Appendix (Table Talk, later layer). Atwood applies the Bible’s protest against idolatry to unlawful specificating from one’s own mind [APP ¶37]. Revelation rectifies man and Nature; the question of science versus the Bible is left on its own ground [APP ¶161].
+
+**See also:** [Book of Revelation](#e1499), [Revelation](#e1500)
 
 **References:** APP ¶161, APP ¶37
 
@@ -2022,6 +2194,18 @@ Atwood: Nature reaches Monadic simplicity “through the rejection of the Binary
 
 **References:** IV.2 ¶18, IV.2 ¶20
 
+<a id="e0789"></a>
+### Biographer of Pythagoras
+*collective voice*
+
+**Unnamed biographer of Pythagoras, cited as reporting that Pythagoras healed and purified his followers' souls by divine arts.**
+
+Atwood cites Pythagoras' biographer as reporting that Pythagoras healed and purified the souls of his followers by divine arts [II.2 ¶11].
+
+**See also:** [Pythagoras](#e1434)
+
+**References:** II.2 ¶11
+
 <a id="e0182"></a>
 ### Bishop Berkeley
 *person*
@@ -2033,8 +2217,8 @@ Cited from *Siris* in support of a universal material called ether, the source o
 **References:** I.2 ¶14
 
 <a id="e0183"></a>
-### Bishop of Oxford (Wilberforce)
-*person* · Bishop of Oxford, Wilberforce
+### Bishop of Oxford
+*person* — *Wilberforce* · Wilberforce
 
 **Cited in the Appendix for Nature being as much God’s voice as Revelation; Atwood agrees, then qualifies that since the fall Nature distorts it.**
 
@@ -2043,7 +2227,7 @@ In the Appendix (Table Talk, later layer): “Nature, as the Bishop of Oxford (W
 **References:** APP ¶161
 
 <a id="e0184"></a>
-### Black Art
+### Black art
 *term*
 
 **Stigmatizing name given to alchemy, perhaps derived from Chemia meaning black matters.**
@@ -2062,10 +2246,12 @@ Atwood: “It is the Black Saturn of the adepts, and that appearing corruption t
 
 **Identified with:** lapis niger [II.3 ¶18]; Urinus Saturni [II.3 ¶18]
 
+**See also:** [Saturn](#e1543)
+
 **References:** II.3 ¶18
 
 <a id="e0186"></a>
-### Blackest Black
+### Blackest black
 *term*
 
 **In Eudoxus’ words, the source of the black, foul, stinking fume whose separation forms the white Stone.**
@@ -2091,8 +2277,8 @@ Cited for reference only.
 **References:** I.2 n16
 
 <a id="e0189"></a>
-### blood
-*term* · Blood
+### Blood
+*term*
 
 **Read variously by quoted authorities: in Roger Bacon’s phrase the understanding; in verse from Theat. Chem. Brit. the principal matter of all that increases; in Boehme the fire-and-water union whose warmth is life.**
 
@@ -2107,7 +2293,7 @@ The records give three quoted readings, not reconciled:
 **References:** I.1 ¶86, II.1 ¶15, III.3 ¶24
 
 <a id="e0190"></a>
-### blood of innocents
+### Blood of Innocents
 *term* · blood of the Innocents
 
 **In a passage quoted from Eudoxus, a veiled name for the spirits of the bodies, which feed the two Mercuries and prepare the King's bath.**
@@ -2119,7 +2305,7 @@ Quoted from Eudoxus, who explains the expression himself: “the blood of innoce
 **References:** IV.3 ¶10
 
 <a id="e0191"></a>
-### blood of the Lion
+### Blood of the Lion
 *term* · Lion's Blood, Lyons Blood, blood of the Greene Lyon
 
 **A name for the secret product of the work: Khunrath equates it with the gold of the philosophers; the Hunting of the Greene Lyon makes it the King's only food.**
@@ -2128,7 +2314,9 @@ Quoted from Eudoxus, who explains the expression himself: “the blood of innoce
 
 **The Hunting of the Greene Lyon** (quoted verse) describes it as the 'secret' drawn off after Lion, Sol and Luna unite and form a skin: “A right good secret withouten any nay: Wych must serve to doe thee good’ For yt ys the Lyons Blood:” [III.1 ¶65]. It is the King's only food, given after he rises from the dead: “And tis as strange that thys Kings food, Can be nothing but thys Lyons Blood;” [III.1 ¶65]; and it is worked with Luna or Sol to prepare the ferments [III.1 ¶65]. Asserted identity: = a right good secret [III.1 ¶65]. A reader noted that the same passage may also call it the King's Father and Mother; this is uncertain.
 
-**Identified with:** [philosophers’ gold](#e1314) [I.1 ¶81]; right good secret [III.1 ¶65]
+**Identified with:** [Philosophers’ gold](#e1314) [I.1 ¶81]; right good secret [III.1 ¶65]
+
+**See also:** [Lion](#e0973)
 
 **References:** I.1 ¶81, III.1 ¶65
 
@@ -2143,7 +2331,7 @@ Atwood counts **Bloomfield's Blossoms** among the most instructive pieces in Ash
 **References:** I.1 ¶64, I.1 ¶66, I.2 n38, I.2 ¶41, II.1 n43, II.1 ¶48, IV.2 n25, IV.2 ¶36
 
 <a id="e0193"></a>
-### bodily fermentation
+### Bodily fermentation
 *term*
 
 **In Vaughan's quoted account, the descent or incorporation of the finished Stone cast on molten gold, which abates the gold's strength to fix a projection ratio.**
@@ -2152,11 +2340,13 @@ Quoted from Vaughan: casting the finished Stone on molten gold so that the gold 
 
 **Identified with:** descent or incorporation [IV.3 ¶22]
 
+**See also:** [Fermentation](#e0564)
+
 **References:** IV.3 ¶22
 
 <a id="e0194"></a>
-### body
-*term* · Body, bodies
+### Body
+*term* · bodies
 
 **In quoted authorities, the hard, dry or dead part of the matter that imprisons the spirit or fire and must be dissolved, rotted and glorified.**
 
@@ -2173,7 +2363,7 @@ Asserted identities: = ethereal body [III.1 ¶14]; = Adam [IV.3 ¶7]; = the sens
 **References:** I.3 n38, III.1 ¶14, IV.3 ¶7
 
 <a id="e0195"></a>
-### body of brass
+### Body of brass
 *term*
 
 **Atwood's gloss in the Appendix: the impure natural-born vital spirit.**
@@ -2182,15 +2372,19 @@ Atwood, in the Appendix (Table Talk, a later layer): “The body of brass is the
 
 **Identified with:** impure natural-born vital spirit [APP ¶52]
 
+**See also:** [Brass](#e0208)
+
 **References:** APP ¶52
 
 <a id="e0196"></a>
-### body of Light
+### Body of light
 *term*
 
 **In the quoted Adept, the body which the Preparing Spirit dissolves and cleanses, and from which a tinging spirit is extracted.**
 
 Quoted from the Adept: the Preparing Spirit “dissolves the body of Light” [IV.1 ¶10], cleansing it, and a tinging spirit is then extracted from it.
+
+**See also:** [Light](#e0962)
 
 **References:** IV.1 ¶10
 
@@ -2206,15 +2400,17 @@ Atwood calls Jacob Boehme the plainest exponent of the mystery from experience, 
 
 **Appendix** (Table Talk, a later layer): he knew the mystery by experienced in-seeing whereby he became it [APP ¶117]; the deepest writer on ontological subjects, less scientific than the Platonists but more descriptive, awakening, suggestive [APP ¶62]; his three primary forms and doctrine of the Absolute Will read as expressions of conscious experience of the creative mystery [APP ¶65]; surpassing the Neo-Platonists on the Life Center [APP ¶122]. His Law of Divine Manifestation, the order the Hermetic Work imitates: “An Eternal Will arises in the No Thing to introduce the No Thing into Something, that the Will might feel and find and behold itself” [APP ¶73]; cited for the Sulphur, Salt and Mercury nomenclature [APP ¶81]; 'in the Experience' of the uncreated beyond the metaphysicians, though they surpassed him in scientific intuition [APP ¶96]. Also: the Third Principle as medium of perceiving the First, “the sidereal and elementary birth” [APP ¶27]; the Three-fold Life on will begetting a being out of its own image [APP ¶36]; his Mercurius, or spirit of the Sound, for the harmony freed from the lower life [APP ¶49]; Signatura Rerum on knowing things in their roots on entering the Signature, “through the principle in the sound with the voice” [APP ¶63]; with de St Martin, source of 'the Crown', and contrasted with Engelbrecht as penetrating surfaces, his body swallowed up with Light [APP ¶104; APP ¶105]; the bitterness of self-life from which nature shields us, “the bitter anguish of the driving wheel of existence” [APP ¶154].
 
-**References:** APP ¶104, APP ¶105, APP ¶117, APP ¶122, APP ¶154, APP ¶27, APP ¶36, APP ¶49, APP ¶62, APP ¶63, APP ¶65, APP ¶73, APP ¶81, APP ¶96, I.1 n77, I.1 ¶68, I.1 ¶70, II.1 n16, II.1 n17, II.1 n20, II.1 n23, II.1 ¶20, II.1 ¶21, II.1 ¶24, II.1 ¶25, II.1 ¶9, III.1 n43, III.1 n53, III.1 ¶39, III.1 ¶40, III.1 ¶48, III.1 ¶49, III.2 n15, III.2 n16, III.2 n17, III.2 ¶15, III.2 ¶16, III.2 ¶17, III.3 n16, III.3 ¶24, IV.3 ¶27
+**References:** I.1 n77, I.1 ¶68, I.1 ¶70, II.1 n16, II.1 n17, II.1 n20, II.1 n23, II.1 ¶20, II.1 ¶21, II.1 ¶24, II.1 ¶25, II.1 ¶9, III.1 n43, III.1 n53, III.1 ¶39, III.1 ¶40, III.1 ¶48, III.1 ¶49, III.2 n15, III.2 n16, III.2 n17, III.2 ¶15, III.2 ¶16, III.2 ¶17, III.3 n16, III.3 ¶24, IV.3 ¶27, APP ¶104, APP ¶105, APP ¶117, APP ¶122, APP ¶154, APP ¶27, APP ¶36, APP ¶49, APP ¶62, APP ¶63, APP ¶65, APP ¶73, APP ¶81, APP ¶96
 
 <a id="e0198"></a>
-### bond of coagulation
+### Bond of coagulation
 *term*
 
 **Atwood's term for the magical bond that everywhere shuts up Nature's Inner Light and principle of perfection, which Nature cannot loosen herself.**
 
 Atwood speaks of “the bond of coagulation by which her Inner Light and principle of perfection is everywhere shut up” [III.2 ¶61]. Nature cannot loosen this bond by herself [III.2 ¶61]; the context suggests that loosening it is the task of the art.
+
+**See also:** [Coagulation](#e0296)
 
 **References:** III.2 ¶61
 
@@ -2226,6 +2422,8 @@ Atwood speaks of “the bond of coagulation by which her Inner Light and princip
 
 Atwood reports that the adepts claimed the Bononian Enigma as referring to the occult material of the art [I.1 ¶20; I.1 ¶21]. It opens “Nec vir, nec mulier, nec androgyna,” [I.1 n29] (ours: 'Neither man, nor woman, nor androgyne').
 
+**See also:** [Enigma (a work)](#e0487)
+
 **References:** I.1 n29, I.1 ¶20, I.1 ¶21
 
 <a id="e0200"></a>
@@ -2236,10 +2434,12 @@ Atwood reports that the adepts claimed the Bononian Enigma as referring to the o
 
 Atwood uses the Book of Enoch for epigraph and illustration. Chapter xl.1 heads III.3: “Wisdom is poured forth like water, and glory faileth not before Him for ever.” [III.3 ¶2]. Chapters 46 and 41 illustrate whiteness, “the Ancient of Days, whose head was like wool” [III.2 ¶4; III.2 n6], and the seer's vision of the Radical Essence, winds, clouds and the cloud before creation [III.2 ¶12; III.2 n12]. Section 109, on rain, dew and metal mountains melting before the Elect One, is given without comment: “ye that are capable to comprehend the Elect One” [IV.2 ¶14; IV.2 n8].
 
+**See also:** [Sage in Enoch](#e1530)
+
 **References:** III.2 n12, III.2 n6, III.2 ¶12, III.2 ¶4, III.3 ¶2, IV.2 n8, IV.2 ¶14
 
 <a id="e0201"></a>
-### book of Jehior
+### Book of Jehior
 *treatise*
 
 Cited for reference only.
@@ -2247,7 +2447,7 @@ Cited for reference only.
 **References:** III.1 n65
 
 <a id="e0202"></a>
-### book of Jezirah
+### Book of Jezirah
 *treatise*
 
 **Book whose first chapter Atwood compares with the building of Solomon's Temple and the threefold completion of the Stone.**
@@ -2255,6 +2455,18 @@ Cited for reference only.
 Atwood quotes chapter 1, “with the Fiery Letters of the Law, He engraved the empty, and the void, and the obscure mind” [IV.2 ¶33; IV.2 n21], and compares it with the building of Solomon's Temple and the threefold completion of the Stone.
 
 **References:** IV.2 n21, IV.2 ¶33
+
+<a id="e1499"></a>
+### Book of Revelation
+*treatise* · Revel., the Revelation, the Apocalypse, Revelation of St.John
+
+**The Book of Revelation, which Atwood cites for the competent minister, the Stone with a new name, the white splendour, Wisdom's fruits and the marriage of man and God.**
+
+Atwood cites Revel. 3:7 for the qualifications of the competent minister: “he that hath the Key of David, he that openeth, and no man shutteth” [IV.3 ¶39; IV.3 n17]. Chapters 2–3 support the promises of material fruits with Wisdom: “To him that overcometh will I give to eat of the Tree of Life” [IV.3 n22]; the passages at [IV.3 ¶41–45] apparently come from these chapters (the footnote numbering is unclear). Chapters 1:14 and 2:17 illustrate the white appearance of the primeval splendour (the White Stone, the Son of Man): “whose hair was like wool, and white as snow” [III.2 ¶4; III.2 n5]. She also invokes the Stone of the Apocalypse and the Stone with the new name [II.3 ¶52, ¶54]. In the Appendix (Table Talk, a later layer) the Book of Revelation is said to hint at the marriage-union between man and God in Christ [APP ¶79].
+
+**See also:** [Bible](#e0179), [Revelation](#e1500)
+
+**References:** II.3 ¶52, II.3 ¶54, III.2 n5, III.2 ¶4, IV.3 n17, IV.3 n20, IV.3 n22, IV.3 ¶39, IV.3 ¶41, IV.3 ¶42, IV.3 ¶43, IV.3 ¶44, IV.3 ¶45, APP ¶79
 
 <a id="e0203"></a>
 ### Book of Wisdom
@@ -2264,10 +2476,12 @@ Atwood quotes chapter 1, “with the Fiery Letters of the Law, He engraved the e
 
 In the Appendix (Table Talk, a later layer) Atwood calls it the best description of Wisdom as man's exemplar [APP ¶90]. Cited together with the Poemander, chapter 11, verse 22 illustrates the whole world held before the divine vision, as before one who has the Principle: “The whole world is before thee, O God! As a little grain of the balance” [III.3 ¶39; III.3 n26].
 
-**References:** APP ¶90, III.3 n26, III.3 ¶39
+**See also:** [Wisdom](#e1943)
+
+**References:** III.3 n26, III.3 ¶39, APP ¶90
 
 <a id="e0204"></a>
-### the books of our fathers
+### Books of our fathers
 *collective voice*
 
 **Old sources whose unguents made from fats, hair and similar things are rejected in the passage citing them.**
@@ -2309,8 +2523,8 @@ Boyle is rumoured, uncertainly, to have been intimate with Philalethes [I.1 ¶73
 **References:** I.1 ¶73, I.2 ¶14, I.2 ¶15
 
 <a id="e0208"></a>
-### brass
-*term* · Brass, our brass, Fixed Brass
+### Brass
+*term* · our brass, Fixed Brass
 
 **A veiled name in quoted authorities: for Hermes the Art of the permanent water; for Albertus the occult Nature to be washed, dissolved and fixed.**
 
@@ -2322,20 +2536,24 @@ Asserted identities: = Art of this permanent water [I.3 ¶43]; = occult Nature [
 
 **Identified with:** Art of this permanent water [I.3 ¶43]; occult Nature [IV.1 ¶4]
 
+**See also:** [Fixed brass](#e0609)
+
 **References:** I.3 n53, I.3 ¶43, IV.1 ¶4
 
 <a id="e0209"></a>
-### Brazen Body
+### Brazen body
 *term*
 
 **In Hermes as quoted, the body to be burned with exceeding great fire, exemplified by Democritus drawing out the 'Fixed Brass'.**
 
 Quoted from Hermes: “Burn then the Brazen Body with an exceeding great fire” [I.3 ¶42]. Democritus, exemplifying this juncture, draws out the 'Fixed Brass' and works it on the coals [I.3 ¶42].
 
+**See also:** [Body](#e0194)
+
 **References:** I.3 ¶42
 
 <a id="e0210"></a>
-### Brazen Wall
+### Brazen wall
 *term*
 
 **Atwood's image of the barrier surrounding 'our Heaven' that must be scaled and passed before the equilibriate felicity of Being within is discerned.**
@@ -2345,22 +2563,26 @@ Atwood: “this is that Brazen Wall celebrated by Antiquity, which surrounds our
 **References:** IV.1 ¶4
 
 <a id="e0211"></a>
-### brethren
+### Brethren
 *term*
 
 **Atwood's gloss: the inferior degrees of illumination in the spirit, finally gathered into accord with its first source.**
 
 Atwood glosses the term: “by the brethren, the inferior degrees of illumination in the spirit” [I.3 n50], which are finally gathered into accord with the spirit's first source.
 
+**See also:** [Brethren (group voice)](#e0212)
+
 **References:** I.3 n50
 
 <a id="e0212"></a>
-### the Brethren
-*collective voice*
+### Brethren
+*collective voice* — *group voice*
 
 **A group voice whose phrase names the only builders who 'erect structures in the air'.**
 
 The phrase of the Brethren for the only builders who 'erect structures in the air': “Master mason, of Grand Architects” [IV.2 ¶14].
+
+**See also:** [Brethren](#e0211)
 
 **References:** IV.2 ¶14
 
@@ -2371,6 +2593,8 @@ The phrase of the Brethren for the only builders who 'erect structures in the ai
 **A fraternity which Atwood says agreed about the Matter and found it experimentally; she quotes their letter and the Matter's speeches.**
 
 Atwood says the Christian brotherhood of the Rosy Cross agreed concerning the Matter, searched Nature experimentally, found it and used it [III.2 ¶60]. A letter circulated under their name gives an allegory of the initiatory passage (mountain, beasts, night, guide, courage): “There is a mountain situated in the midst of the earth or center of the world” [II.3 ¶31; II.3 ¶32]. From the Latin original of the Fraternity, as given in Vaughan's Coelum Terrae, she quotes speeches of the Matter as Goddess (First Matter, Eagle and Lion, five gates) and as Dragon or Mercury: “I am a Goddess for beauty and extraction” [III.3 ¶62; III.3 n45].
+
+**See also:** [Cross](#e0347), [Rosicrucian Fraternity](#e1515)
 
 **References:** II.3 ¶31, II.3 ¶32, III.2 ¶60, III.3 n45, III.3 ¶62, III.3 ¶63, III.3 ¶64
 
@@ -2401,17 +2625,19 @@ Quoted from Boehme, who glosses it: “the Bysse, or ground or original foundati
 ## C
 
 <a id="e0216"></a>
-### cabalistic
+### Cabalistic
 *term*
 
 **Said of Lully's mind and of the art itself: veiled, full of mysteries, not to be understood according to the letter.**
 
 Atwood says one must “possess the key of his cabalistic mind” [I.1 ¶48] to understand Lully's obscure alchemical works. Artephius (quoted) applies it to the art: “For is not our art cabalistic” [I.1 ¶84], full of mysteries, not taught openly, not to be understood according to the letter.
 
+**See also:** [Kabalah](#e0914)
+
 **References:** I.1 ¶48, I.1 ¶84
 
 <a id="e0217"></a>
-### cabalistic method
+### Cabalistic method
 *term*
 
 **Atwood's name for a practice of the time of concealing truth by displacing order, inverting and dispersing repetitions.**
@@ -2421,37 +2647,19 @@ Atwood blames the displacement of verses from their original order on “the mis
 **References:** I.1 ¶64, I.1 ¶82
 
 <a id="e0218"></a>
-### cabalistic scriptures and schools of antique experience
+### Cabalistic scriptures and schools of antique experience
 *collective voice*
 
 **Ancient sources whose reported view grounds man's rank in a Divine Reason and latent Faculty of Wisdom; Atwood says it was once proved but is now beyond evidence.**
 
 Atwood reports their view that man's rank rests on a Divine Reason and a latent Faculty of Wisdom: “man, say they, is demonstrated to be a compendium of the whole created nature” [II.1 ¶32]. She says this was once proved but is now beyond present evidence [II.1 ¶32].
 
+**See also:** [Experience](#e0534), [Kabalah](#e0914)
+
 **References:** II.1 ¶32
 
-<a id="e0219"></a>
-### Cadmillus, Atys, Adonis, Osiris
-*collective voice* · Cadmillus, Atys, Adonis, Osiris
-
-**Figures Atwood names as the god dead and revived among the Cabiri, in Phrygia, in Lydia and among the Egyptians.**
-
-Atwood names Cadmillus, Atys, Adonis and Osiris as instances of the god dead and revived, among the Cabiri, in Phrygia, in Lydia and among the Egyptians [III.3 ¶69].
-
-**References:** III.3 ¶69
-
-<a id="e0220"></a>
-### Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus
-*collective voice* · Cadmus, Deucalion, Bacchus, Hercules, Orpheus
-
-**Heroes Atwood says passed the same ordeal, their adventures read as records of the soul's struggle with her inner enemies.**
-
-Atwood names Cadmus, Deucalion, Osiris, Bacchus, Hercules and Orpheus as heroes who passed the same ordeal, and reads their adventures as records of the soul's struggle with her inner enemies [III.3 ¶71].
-
-**References:** III.3 ¶71
-
 <a id="e0221"></a>
-### calcinations
+### Calcinations
 *term* · calcination, calcine
 
 **One of the preparations the vulgar Matter undergoes; Synesius makes calcination a name of the single operation, the same as extracting soul, spirit or body.**
@@ -2473,7 +2681,7 @@ Atwood cites Calid as a king who was initiated and converted and who wrote treat
 **References:** I.1 ¶35, III.2 ¶60
 
 <a id="e0223"></a>
-### caligo divina
+### Caligo divina
 *term*
 
 **Dionysius's name for the primordial cloud, obscure and humanly incomprehensible though visible; called Tenebrae activae by the author of the Lumen de Lumine.**
@@ -2533,8 +2741,8 @@ Cited for reference only.
 **References:** III.1 n34
 
 <a id="e0229"></a>
-### Caput Mortuum
-*term* · caput mortuum
+### Caput mortuum
+*term*
 
 **The ashes in which the principle of body is preserved and from which the whole life is restored; also an epithet of the Matter.**
 
@@ -2544,30 +2752,34 @@ In the main text, quoting Synesius and the New Light, caput mortuum is one of th
 
 **Identified with:** [Ashes](#e0140) [APP ¶26]; our pigmy / diadem of the body (Khunrath) [APP ¶26]; Duanach (Khunrath; tentative) [APP ¶26]; dead head; foeces of our sea [I.2 ¶33]
 
-**References:** APP ¶26, I.2 ¶33
+**References:** I.2 ¶33, APP ¶26
 
 <a id="e0230"></a>
-### Catholic Art of Reason
+### Catholic art of reason
 *term*
 
 **Atwood's hedged name for Reason investigating her First Source.**
 
 Atwood names the process she has described, with the hedge 'it would seem', “the Catholic Art of Reason investigating her First Source” [IV.2 ¶21].
 
+**See also:** [Reason](#e1469)
+
 **References:** IV.2 ¶21
 
 <a id="e0231"></a>
-### Catholic Effect of Life
+### Catholic effect of life
 *term*
 
 **What the Hermetic experiment arrives at, passing from either extreme of mind and matter, where external and internal worlds blend.**
 
 Atwood says the Hermetic experiment, “as passing from whither extreme of Mind and matter, to prove them, it arrives at the Catholic Effect of Life” [IV.4 ¶11]; there the external and internal worlds blend.
 
+**See also:** [Life](#e0960)
+
 **References:** IV.4 ¶11
 
 <a id="e0232"></a>
-### Catholic Embryo
+### Catholic embryo
 *term*
 
 **For some modern Kabalists, the universal germ before birth, seen as a nebulous cloud; a concentration of Divinity that gives birth to the primitive Ether.**
@@ -2577,7 +2789,7 @@ A view Atwood reports from some modern Kabalists: the universal germ before its 
 **References:** III.2 ¶13
 
 <a id="e0233"></a>
-### catholic germ
+### Catholic germ
 *term*
 
 **'That which is sown' in man: it contains all things and must die before it is quickened.**
@@ -2589,7 +2801,7 @@ Atwood glosses 'that which is sown' in man: “that which is sown (viz., the cat
 **References:** I.3 n8
 
 <a id="e0234"></a>
-### catholic nature
+### Catholic nature
 *term*
 
 **The universal nature that is the subject of the Art: precious when exalted, defiled and despised in the common world.**
@@ -2599,7 +2811,7 @@ Atwood: “The same catholic nature, which in its preternatural exaltation appea
 **References:** I.3 n40
 
 <a id="e0235"></a>
-### catholic torch
+### Catholic torch
 *term*
 
 **Something miraculously kindled that kindles the Light of Universal Nature, acting through the three kingdoms and rejoicing most in the Mind of Man.**
@@ -2609,17 +2821,19 @@ Atwood: “The catholic torch, miraculously kindled, kindles the Light of Univer
 **References:** IV.4 ¶32
 
 <a id="e0236"></a>
-### causal center
+### Causal center
 *term*
 
 **In the Table Talk, where the individual light of life is lodged, driving adhering evil to the extremities and freeing the threefold life to ascend.**
 
 In the Appendix (Table Talk, a later layer), Atwood speaks of the time “when the individual light of life is lodged in its causal center” [APP ¶150]: adhering evil is then precipitated to the extremities and the threefold life is freed to ascend.
 
+**See also:** [Center](#e0253)
+
 **References:** APP ¶150
 
 <a id="e0237"></a>
-### Causal Discovery
+### Causal discovery
 *term*
 
 **Knowledge of cause, the only thing that fulfils the Idea of Truth, superior to the exhibition of phenomena.**
@@ -2630,17 +2844,19 @@ Atwood holds that “neither can anything short of the Causal Discovery fulfill 
 
 <a id="e0238"></a>
 ### Causal fountain
-*term* · Causal Fountain
+*term*
 
 **The source of all things and of Wisdom, from which riches come and whose emanative splendour the true gods are.**
 
 Atwood speaks of “riches as from the Causal fountain of all things” [II.4 ¶19], and of the true gods “as an emanative splendour from the Causal Fountain, make manifest in energy its Intellectual Law” [II.4 ¶29]. It is also the source of Wisdom, to be approached by prayer as one applies to a master of an art: “the Causal Fountain for Wisdom, which is His alone and voluntarily to bestow” [III.4 ¶20].
 
+**See also:** [Fountain](#e0633)
+
 **References:** II.4 ¶19, II.4 ¶29, III.4 ¶20
 
 <a id="e0239"></a>
-### Causal Knowledge
-*term* · Causal knowledge
+### Causal knowledge
+*term*
 
 **Knowledge of causes, the worthiest part of knowledge, without which external science leaves us no wiser; withheld from the unworthy.**
 
@@ -2649,8 +2865,8 @@ Atwood insists the unworthy be kept from it, lest they handle 'the powerful mach
 **References:** I.3 n10, IV.4 ¶29, IV.4 ¶32
 
 <a id="e0240"></a>
-### Causal Light
-*term* · causal light, Causal light
+### Causal light
+*term*
 
 **The light within a person, which the Art draws forth, fixes and brings to manifestation; nature's Causal Light reached through the Understanding.**
 
@@ -2658,10 +2874,12 @@ Atwood identifies it with what is within: “That which is within, viz., the cau
 
 **Identified with:** that which is within [I.3 n8]
 
+**See also:** [Light](#e0962)
+
 **References:** I.3 n8, II.1 ¶17, III.4 ¶2, IV.1 ¶20, IV.4 ¶22
 
 <a id="e0241"></a>
-### Causal Nature
+### Causal nature
 *term*
 
 **In Hermes (Asclepius), something man can both find and effect.**
@@ -2671,28 +2889,32 @@ Quoting Hermes in the Asclepius: “man should be able not only to find the Caus
 **References:** III.1 ¶21
 
 <a id="e0242"></a>
-### Causal Source
+### Causal source
 *term*
 
 **The goal of the ancients' method of ascent, surveyed more or less immediately after gradual assimilation.**
 
 Atwood describes the ancients' ascent as proceeding by gradual assimilation “to a survey more or less immediate of the Causal Source” [III.2 ¶33].
 
+**See also:** [Identic source](#e0820)
+
 **References:** III.2 ¶33
 
 <a id="e0243"></a>
-### Causal Truth
+### Causal truth
 *term*
 
 **The truth of causes, as opposed to remote effects, beheld in the apperceptive vision granted to those proved and reproved.**
 
 Atwood contrasts it with remote effects, speaking of those “who have never glanced even in imagination toward the Causal Truth” [II.1 ¶49]; it is drawn from a deep well. It is what is beheld when Light meets Light, by those proved and reproved “previous to being admitted to the apperceptive vision of the Causal Truth which they describe” [III.2 ¶28].
 
+**See also:** [Truth](#e1807)
+
 **References:** II.1 ¶49, III.2 ¶28
 
 <a id="e0244"></a>
 ### Causes
-*term* · Cause, causes
+*term* · Cause
 
 **Four causes — essence, matter, origin of motion, and end — which in the Art pass into one another; cause is not mere antecedence in time.**
 
@@ -2710,10 +2932,12 @@ Atwood gives the Hermetic interpretation: “the Cave of Mercury, which, accordi
 
 **Identified with:** Taenerus, the most hidden vapor of life [III.1 ¶19]
 
+**See also:** [Mercury](#e1065)
+
 **References:** III.1 ¶19
 
 <a id="e0246"></a>
-### Celestial Elements
+### Celestial elements
 *term*
 
 **The prior Elements of Life the ancients actually investigated, as opposed to the common elements or abstractions.**
@@ -2722,35 +2946,43 @@ Atwood says the ancients investigated not the common elements or abstractions bu
 
 **Identified with:** prior Elements of Life [III.2 ¶36]
 
+**See also:** [Elements](#e0469)
+
 **References:** III.2 ¶36
 
 <a id="e0247"></a>
 ### Celestial life
-*term* · celestial life, Celestial
+*term* · Celestial
 
 **In the Table Talk, the emotional, receptive, instinctive life, representing the Vegetable Kingdom and seated in the epigastric region.**
 
 In the Appendix (Table Talk, a later layer), Atwood: “The Celestial is the emotional, receptive, instinctive life, and represents the Vegetable Kingdom.” [APP ¶32]. It resides in the epigastric region, its workshop the solar plexus; it is identified with the medial life, through which the third life must be born [APP ¶32]. Compare celestial medial life.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶32
 
 <a id="e0248"></a>
-### Celestial Light
+### Celestial light
 *term*
 
 **In Boehme, the light in which the Tincture is, containing a substance like water which is no water.**
 
 Quoting Boehme, the Tincture is in the Celestial Light: “And there is in the Celestial Light, continues the same author, a Substance like water which yet is no water” [III.2 ¶16].
 
+**See also:** [Light](#e0962)
+
 **References:** III.2 ¶16
 
 <a id="e0249"></a>
-### celestial medial life
+### Celestial medial life
 *term* · first medial life
 
 **The intermediate life preceding the heroic work, which must be cut off, shut up and buried; until it dissolves the Vital Spirit cannot be radically improved.**
 
 Atwood speaks of “the celestial medial life which, in the order of divine rites, precedes the heroic work” [III.1 ¶26]. It must be cut off in its prime, shut up and buried; until “this dissolution of the first medial life” [III.1 ¶28] takes place, the Vital Spirit cannot be radically improved. Compare Celestial life, which the Table Talk identifies with the medial life [APP ¶32].
+
+**See also:** [Life](#e0960)
 
 **References:** III.1 ¶26, III.1 ¶28
 
@@ -2765,8 +2997,8 @@ Atwood's image for the repeated purifying labour of the work, which serves “to
 **References:** IV.1 ¶9
 
 <a id="e0251"></a>
-### celestial prototype
-*term* · Celestial Prototype
+### Celestial prototype
+*term*
 
 **In Rabbi Ben Jochai, the form in man on which the world subsists and by which man is the image of God, distinguished from apparent man.**
 
@@ -2787,57 +3019,67 @@ Atwood invokes “Celsus’ ladder” as an image of ascending knowledge [I.1 ¶
 **References:** I.1 ¶64, III.2 ¶54
 
 <a id="e0253"></a>
-### center
+### Center
 *term* · true center
 
 **In the Table Talk, the center of substantial life which every creature seeks, which each person can find in himself at moments.**
 
 In the Appendix (Table Talk, a later layer), Atwood speaks of “the center of the substantial life which every creature is seeking” [APP ¶113]. She holds that “Every one can find in himself at moments the true center” [APP ¶115], apparently through deep thought, and that the same revelation is given to all who enter it [APP ¶115].
 
+**See also:** [Center and circumference](#e0254), [Centers and circumferences](#e0255)
+
 **References:** APP ¶113, APP ¶115
 
 <a id="e0254"></a>
-### center / circumference
-*term* · center, centers, circumference
+### Center and circumference
+*term* · center, circumference, centers
 
 **Atwood's paired terms for the universal centre, from which the sensible world is an outbirth, and the circumference, where being's equilibrium is broken for manifestation.**
 
 Atwood sets the universal centre, from which the sensible world is an outbirth, against the circumference, where “the equilibrium of being is broken everywhere at the circumference for manifestation” [II.4 ¶50]. In the illumination she describes, the light spreads outward, “diffusing itself from the freed center outwardly center outwardly until it moved the dark circumference of sense itself” [II.4 ¶54]. The context suggests the work frees the centre so that its light reaches and moves the outer, sensible life. See also centers and circumferences; circulation.
 
+**See also:** [Center](#e0253), [Centers and circumferences](#e0255), [Circumference](#e0283)
+
 **References:** II.4 ¶50, II.4 ¶54
 
 <a id="e0255"></a>
-### centers and circumferences
+### Centers and circumferences
 *term* · centers, circumferences
 
 **Paired terms Atwood uses in warning that the centers must not be stirred before the circumferences can conceive them.**
 
 Atwood warns against acting “lest the centers should be stirred up before the circumferences are ready to conceive them” [IV.1 ¶13]. The text does not explain the pair further here; compare center / circumference.
 
+**See also:** [Center](#e0253), [Center and circumference](#e0254), [Circumference](#e0283)
+
 **References:** IV.1 ¶13
 
 <a id="e0256"></a>
-### central Efficient
+### Central efficient
 *term*
 
 **That with which the Aqua Philosophica, once conjoined in consciousness, becomes all-powerful.**
 
 In a footnote Atwood says of the Aqua Philosophica that “being conjoined in consciousness with the central Efficient, it becomes all-powerful” [I.3 n36]. The term is not further defined.
 
+**See also:** [Efficient](#e0454)
+
 **References:** I.3 n36
 
 <a id="e0257"></a>
-### central fire
+### Central fire
 *term*
 
 **A fire within the will or nature: in the Table Talk, Lucifer's stirring of it burned up the ether; in Vaughan, it stands opposed to the moist natures.**
 
 Two voices use the term. Quoting Vaughan, the text says that when heat is excessive the moist natures “will stand up against the central fire, and the central fire against them” [III.4 ¶44], producing a division in the Chaos. In the Appendix (Table Talk, a later layer), Atwood speaks of Lucifer's fall as “the stirring up of the central fire in his will” [APP ¶133], which inflamed the vehicle of his life and burned up the ether. Both passages apparently treat the central fire as dangerous when wrongly roused.
 
-**References:** APP ¶133, III.4 ¶44
+**See also:** [Fire](#e0575)
+
+**References:** III.4 ¶44, APP ¶133
 
 <a id="e0258"></a>
-### central force
+### Central force
 *term*
 
 **The inner force of the Universal Spirit, which repeated operations draw wholly out until it acts forcibly at the circumference.**
@@ -2847,7 +3089,7 @@ Atwood describes repeated operations upon the Universal Spirit continued “unti
 **References:** IV.3 ¶29
 
 <a id="e0259"></a>
-### central magnet
+### Central magnet
 *term*
 
 **That whose whole voluntary force alone can arrest the imaginative flux of freed vitality and compel it to repose.**
@@ -2855,6 +3097,8 @@ Atwood describes repeated operations upon the Universal Spirit continued “unti
 Atwood says that to arrest the imaginative flux of the freed vitality “it need the whole voluntary force of the central magnet” [III.2 ¶24], and that “this alone, which is its proper reason, can compel it to repose” [III.2 ¶24]. The central magnet is thus apparently equated with “its proper reason”, though the referent of “its” is unclear from the passage.
 
 **Identified with:** its proper reason [III.2 ¶24]
+
+**See also:** [Magnet](#e1009)
 
 **References:** III.2 ¶24
 
@@ -2869,7 +3113,7 @@ Quoting the Moorish philosopher, the text speaks of one “who is able to draw t
 **References:** II.1 ¶9
 
 <a id="e0261"></a>
-### Central Source
+### Central source
 *term*
 
 **The goal towards which consciousness is translated, beneath the sensible medium, by obscuration.**
@@ -2878,13 +3122,15 @@ Atwood speaks of the need “to translate the consciousness underneath this medi
 
 **References:** II.3 ¶5
 
-<a id="e0262"></a>
-### the Chaldaic oracle
-*collective voice* · Chaldaic Oracle, Chaldaic oracle, the oracle (Chaldaic)
+<a id="e0263"></a><a id="e0262"></a>
+### Chaldaic Oracles
+*treatise* · Oracula Chaldaeorum, Oracula Chaldeor, the Chaldaic oracle
 
-**The voice of the Chaldaic oracles, which Atwood cites repeatedly in support of her account of the fire, the guide and light, and the threefold Art of Reason.**
+**A collection of oracles Atwood cites for Latin verse on the life-bearing fire and, in the Table Talk, for the soul as the place where the law of Light is manifested.**
 
-Atwood cites the Chaldaic oracle often, always in support:
+Atwood cites the Oracula Chaldeor for Latin verse on “Vitifer Ignis” and a Centre [IV.1 ¶35]. In the Appendix (Table Talk, a later layer) she uses the Chaldaic Oracles in support of the soul as the place where the law of Light is manifested: “There is room for the image also in the circumlucid place. Every way to the unfashioned soul stretch the reins of fire” [APP ¶96]. Elsewhere in the Table Talk they are only referred to for comparison on the solution (‘Article Hecate, etc.’) [APP ¶50]. See also the Chaldaic oracle.
+
+*Chaldaic oracle.* Atwood cites the Chaldaic oracle often, always in support:
 
 - That there are pure demons and that the products of evil matter are useful: “Natura suadet esse demonas puros, et malae materiae germina utilia et bona” [II.3 ¶24] (our translation: nature persuades that there are pure demons, and that the germs of evil matter are useful and good).
 - That the practitioner should not heed apparitions: “he apply not his mind to it, nor esteem the voice proceeding thence to be true” [II.3 ¶20].
@@ -2894,27 +3140,19 @@ Atwood cites the Chaldaic oracle often, always in support:
 
 See also Chaldaic Oracles.
 
-**References:** II.3 n25, II.3 n37, II.3 ¶20, II.3 ¶24, II.4 n24, II.4 ¶31, II.4 ¶32, II.4 ¶33, II.4 ¶34, II.4 ¶35, IV.2 n18, IV.2 ¶21, IV.2 ¶22, IV.2 ¶23, IV.2 ¶29
+**See also:** [Oracles](#e1233)
 
-<a id="e0263"></a>
-### Chaldaic Oracles
-*treatise* · Oracula Chaldaeorum, Oracula Chaldeor
-
-**A collection of oracles Atwood cites for Latin verse on the life-bearing fire and, in the Table Talk, for the soul as the place where the law of Light is manifested.**
-
-Atwood cites the Oracula Chaldeor for Latin verse on “Vitifer Ignis” and a Centre [IV.1 ¶35]. In the Appendix (Table Talk, a later layer) she uses the Chaldaic Oracles in support of the soul as the place where the law of Light is manifested: “There is room for the image also in the circumlucid place. Every way to the unfashioned soul stretch the reins of fire” [APP ¶96]. Elsewhere in the Table Talk they are only referred to for comparison on the solution (‘Article Hecate, etc.’) [APP ¶50]. See also the Chaldaic oracle.
-
-**References:** APP ¶50, APP ¶96, II.3 n15, IV.1 n27, IV.1 ¶35
+**References:** II.3 n15, II.3 n25, II.3 n37, II.3 ¶20, II.3 ¶24, II.4 n24, II.4 ¶31, II.4 ¶32, II.4 ¶33, II.4 ¶34, II.4 ¶35, IV.1 n27, IV.1 ¶35, IV.2 n18, IV.2 ¶21, IV.2 ¶22, IV.2 ¶23, IV.2 ¶29, APP ¶50, APP ¶96
 
 <a id="e0264"></a>
-### chalybs
+### Chalybs
 *term* · Chalybes
 
 **A quoted term glossed as ‘steel’: the means of extracting ‘our sea water’ and, in Cosmopolite, the partner that conceives with gold.**
 
 Quoted voices only. In the passage citing Synesius and the New Light, the text speaks of “our chalybs, or steel” [I.2 ¶33], the means by which ‘our sea water’ is extracted; it is otherwise unexplained. In Cosmopolite (quoted via Eudoxus), after gold couples with ‘it’, “the Chalybes conceives and begets a son more glorious than the Father” [IV.3 ¶10]. The text does not say what the chalybs plainly is, beyond the gloss ‘steel’.
 
-**Identified with:** [steel](#e1668) [I.2 ¶33]
+**Identified with:** [Steel](#e1668) [I.2 ¶33]
 
 **References:** I.2 ¶33, IV.3 ¶10
 
@@ -2989,8 +3227,8 @@ Atwood cites Chaucer’s tale of the Chanon’s Yeoman as illustrating the boast
 **References:** I.1 ¶64, I.3 n17
 
 <a id="e0271"></a>
-### Cheiron (Latin verse, unattributed)
-*collective voice* · Cheiron
+### Cheiron
+*collective voice* — *Latin verse, unattributed*
 
 **Unattributed Latin verse on Cheiron, teacher of Achilles, whom Atwood reads as Power and Motive in alliance educating the Heroic Fire.**
 
@@ -3011,7 +3249,7 @@ Reporting Plutarch, the text calls Egypt the art's “mother land, Cham; for so,
 **References:** I.1 n8, I.1 ¶5, I.2 ¶8
 
 <a id="e0273"></a>
-### chemistry
+### Chemistry
 *term* · chemical, chemists
 
 **Atwood's word for the art in its historical record: chemical books burned, the chemists' divine water, Roman knowledge shown by the lamps.**
@@ -3031,17 +3269,19 @@ In the Appendix (Table Talk, a later layer), Atwood describes fantastic forms th
 **References:** APP ¶171
 
 <a id="e0275"></a>
-### chloric ether
+### Chloric ether
 *term*
 
 **A murky enveloping medium through whose circumference the intellect penetrates to reach the lapsed soul; not further explained.**
 
 Atwood speaks of the intellect penetrating “the murky circumference of the chloric ether” [II.3 ¶11] to reach the lapsed soul. The term is not further explained.
 
+**See also:** [Ether](#e0508)
+
 **References:** II.3 ¶11
 
 <a id="e0276"></a>
-### chronicle
+### Chronicle
 *collective voice*
 
 **An unnamed chronicle Atwood cites for the lasting visibility in Paris, as late as 1740, of Flamel's charities and symbols of the art.**
@@ -3079,7 +3319,7 @@ Atwood cites Cicero, De Nat. Deor., lib. ii, in support of the ether as an igneo
 **References:** I.2 n15, I.2 ¶16, II.2 n6, II.2 ¶4
 
 <a id="e0280"></a>
-### circulation
+### Circulation
 *term* · circulations, ultimate circulation, rotary circulation
 
 **The movement of being and, in the work, the rising and falling of the life-principles between heaven and earth by which they are rectified and exalted; the Stone is completed in three.**
@@ -3088,10 +3328,12 @@ Atwood uses circulation in two related senses. Of being as a whole: “And all t
 
 In the practical work, circulation is the upward and downward movement of the life-principles between heaven and earth, which rectifies and exalts them: the operator proceeds “by carrying the circulation upward through a Third principle for reprobation” [IV.2 ¶20]; the matter is “Thus exalted by a rotary circulation” [IV.2 ¶32]; and the Stone is “completed in three successive circulations” [IV.2 ¶33].
 
+**See also:** [Three principles (attraction, repulsion, circulation)](#e1760)
+
 **References:** II.4 ¶50, IV.2 ¶20, IV.2 ¶32, IV.2 ¶33
 
 <a id="e0281"></a>
-### circulatory confine
+### Circulatory confine
 *term*
 
 **What encloses the hidden Reason; it must undergo resolution before the Reason can awaken.**
@@ -3101,38 +3343,44 @@ Atwood says the hidden Reason cannot awaken “without a resolution of the whole
 **References:** II.4 ¶39
 
 <a id="e0282"></a>
-### circulatory medium
+### Circulatory medium
 *term*
 
 **The medium by which the hypostatic unit is multiplied throughout life; not further defined.**
 
 Atwood says the hypostatic unit is multiplied “by the circulatory medium throughout life” [IV.2 ¶37]. The term is not further defined.
 
+**See also:** [Medium](#e1056)
+
 **References:** IV.2 ¶37
 
 <a id="e0283"></a>
-### circumference
+### Circumference
 *term*
 
 **Nature's outer level, where things appear varied and nothing homogeneous is seen, as opposed to the root.**
 
 Atwood uses *circumference* for nature's outer level, where things appear varied and nothing homogeneous is seen, in contrast to the root: “For nature at the circumference subsists in this way” [III.4 ¶8].
 
+**See also:** [Center and circumference](#e0254), [Centers and circumferences](#e0255)
+
 **References:** III.4 ¶8
 
 <a id="e0284"></a>
-### circumferential life
+### Circumferential life
 *term* · circumferential manifestations
 
 **The outward life of the spirit, terrified at first by the new light and contrasted with its 'central whole'.**
 
 In Atwood's notes, the *circumferential life* is the outward life of the spirit. The new light at first “causes a terrification of the whole circumferential life” [I.3 n69]. It is set against a central whole, into which the spirit is spoken of as “converting her circumferential manifestations into their central whole conditionedly” [I.3 n65]. The context suggests the outward manifestations are to be drawn back into the centre.
 
+**See also:** [Life](#e0960)
+
 **References:** I.3 n65, I.3 n69
 
 <a id="e0285"></a>
 ### Citrine
-*term* · citrine
+*term*
 
 **In a passage quoted from Hermes, a stage or substance extracted out of the Red, from which Botri is made.**
 
@@ -3141,32 +3389,38 @@ In the passage quoted from Hermes, Citrine is extracted out of the Red, and Botr
 **References:** I.3 ¶41
 
 <a id="e0286"></a>
-### citrine Mercury
+### Citrine Mercury
 *term*
 
 **According to Flammel, as reported through Eudoxus, the Mercury used for the Imbibition of the Red.**
 
 Eudoxus reports Flammel as saying that “one must make use of the citrine Mercury to make the Imbibition of the Red” [IV.3 ¶10]. The text does not explain it further.
 
+**See also:** [Mercury](#e1065)
+
 **References:** IV.3 ¶10
 
 <a id="e0287"></a>
-### clairvoyant life
+### Clairvoyant life
 *term*
 
 **In the Appendix, the intermediate state through which present life is led into the third life.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood describes the clairvoyant life as the intermediate state through which present life passes into the third life: “this present life may be led through the clairvoyant life into it” [APP ¶2]. Compare *common trance*, in which the third life is not known.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶2
 
 <a id="e0288"></a>
-### clarified hypostasis
+### Clarified hypostasis
 *term* · hypostasis
 
 **Atwood's term for the purified substance on which all Forms arise spontaneously, as the true Genesis of Light.**
 
 Atwood speaks of a purified substance on which all Forms arise spontaneously, as the true Genesis of Light: “this clarified hypostasis (shall we not believe in it?), is the stage of all Forms” [III.2 ¶26]. Elsewhere in the same chapter she uses *hypostasis* for the ground that bounds abstract reason; met by the inner light, that ground is the Absolute Identity [III.2 ¶31]. The text does not say that these two uses name the same thing, so both readings are open.
+
+**See also:** [Hypostasis](#e0806)
 
 **References:** III.2 ¶26
 
@@ -3211,27 +3465,31 @@ In the quoted poem *The Hunting of the Greene Lyon*, the *Clerke* is the learned
 **References:** III.1 ¶65
 
 <a id="e0293"></a>
-### clue of life
+### Clue of life
 *term*
 
 **Something the depraved 'entangled' and climbed by into self-sufficiency; not explained in the text.**
 
 Atwood says the depraved climbed into self-sufficiency “basely entangling the clue of life” [III.4 ¶4]. The text does not explain the expression further.
 
+**See also:** [Life](#e0960)
+
 **References:** III.4 ¶4
 
 <a id="e0294"></a>
-### co-nascent spirit
+### Co-nascent spirit
 *term*
 
 **A spirit born with us, whose use the initiated lose on seeing the Divine Nature; the vision in Hades is allied to it.**
 
 Atwood describes a spirit born with us, whose use the initiated lose when they see the Divine Nature: “For to this spirit the vision in Hades is allied” [II.4 ¶19].
 
+**See also:** [Spirit](#e1644)
+
 **References:** II.4 ¶19
 
 <a id="e0295"></a>
-### coacervation
+### Coacervation
 *term*
 
 **The error of treating the Identity of Being as heaped up or compounded instead of uncompounded.**
@@ -3241,7 +3499,7 @@ Atwood warns that “the Identity of every Being is something uncompounded, and 
 **References:** III.2 ¶52
 
 <a id="e0296"></a>
-### coagulation
+### Coagulation
 *term* · coagulated
 
 **Fixing or setting, alternated with dissolution; Albertus says the cleansed Argent vive is coagulated by its own internal sulfur.**
@@ -3251,7 +3509,7 @@ In the passage quoted from Albertus, coagulation is fixing or setting, alternate
 **References:** IV.1 ¶4
 
 <a id="e0297"></a>
-### coal
+### Coal
 *term* · extinct coal, live coal
 
 **In a passage from Hermes, a coal whose life is fire; extinct, it becomes a dead body and is returned to the water for thirty days.**
@@ -3261,7 +3519,7 @@ In the passage quoted from Hermes: “The life of the coal is fire, which being 
 **References:** I.3 n22
 
 <a id="e0298"></a>
-### coction
+### Coction
 *term* · decoction, decoct, decocted, decoctio
 
 **The cooking or maturing of the matter; Synesius says all the named operations are only names for this single operation.**
@@ -3288,7 +3546,7 @@ Cited for reference only.
 **References:** III.4 n35
 
 <a id="e0300"></a>
-### colcothar
+### Colcothar
 *term*
 
 **In a passage from Hermes, named as one of several substances that are also sulphur.**
@@ -3310,7 +3568,7 @@ Iamblicus, as quoted, calls the first class of prayer, belonging to the early in
 **References:** III.4 ¶24
 
 <a id="e0302"></a>
-### colour
+### Colour
 *term* · colours, colors, coloring
 
 **The stages of colour the work passes through; in Hermes' division of the Water, colour is a third part, a coagulating moisture.**
@@ -3332,7 +3590,7 @@ Norton's Ordinal warns: “Beware of Commixtion that nothing miscape.” [IV.1 �
 **References:** IV.1 ¶28
 
 <a id="e0304"></a>
-### Common Soul
+### Common soul
 *term*
 
 **For Atwood, the agent at work in present-day mesmerism and also the Alchemists' subject-matter: indifferent, present everywhere and converted to every will.**
@@ -3341,10 +3599,12 @@ Atwood identifies the Common Soul with “the identical agent which is spread ab
 
 **Identified with:** the agent of present-day mesmerizing / photogenic medium / New Imponderable [II.2 ¶18]; subject-matter of the Alchemists [II.2 ¶18]
 
+**See also:** [Soul](#e1632)
+
 **References:** II.2 ¶18
 
 <a id="e0305"></a>
-### common trance
+### Common trance
 *term* · common entranced life, entranced
 
 **In the Appendix, the entranced life of sleep-walkers, produced by fermenting present life by its similar; the third life is not known in it.**
@@ -3353,10 +3613,12 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood says that fermen
 
 **Identified with:** life of the sleep-walkers [APP ¶2]
 
+**See also:** [Trance](#e1775)
+
 **References:** APP ¶2, APP ¶3
 
 <a id="e0306"></a>
-### communion
+### Communion
 *term*
 
 **The connection the work requires; it is disturbed by air currents, and communion with superiors needs a heavenly way of life.**
@@ -3366,7 +3628,7 @@ Atwood says that “Strong currents of air are well known to disturb communion�
 **References:** III.4 ¶42, III.4 ¶44
 
 <a id="e0307"></a>
-### Communion of Operation
+### Communion of operation
 *term*
 
 **In Iamblicus, what the second class of prayer pertains to; it effects the bonds of concordant spirits.**
@@ -3376,7 +3638,7 @@ Iamblicus, as quoted, says that the second class of prayer pertains to a Communi
 **References:** III.4 ¶24
 
 <a id="e0308"></a>
-### complexions
+### Complexions
 *term*
 
 **In Vaughan, what is to be sought where extremes meet; not further defined.**
@@ -3386,7 +3648,7 @@ Vaughan, as quoted, advises: “where extremes meet, there look for complexions�
 **References:** III.4 ¶44
 
 <a id="e0309"></a>
-### compound of Art
+### Compound of art
 *term*
 
 **In Eudoxus, the compound the Wise man makes by secret union of the fixed with the volatile; Geber's mixture of Argent vive and Sulphur.**
@@ -3398,7 +3660,7 @@ Eudoxus says of the compound of Art: “it is the Wise man who makes it by the s
 **References:** IV.3 ¶9
 
 <a id="e0310"></a>
-### compound of Nature
+### Compound of nature
 *term*
 
 **In Eudoxus, the compound treated in the First Key, made by Nature in ways the Artist cannot understand; he only aids her by external things.**
@@ -3408,8 +3670,8 @@ Eudoxus says: “The first is the compound of Nature, whereof I have spoken in t
 **References:** IV.3 ¶9
 
 <a id="e0311"></a>
-### compound simple
-*term* · Compound Simple
+### Compound simple
+*term*
 
 **Atwood's term for the art's matter: one essence containing everything yet separated in each particular, the ground of the magians' elements.**
 
@@ -3420,7 +3682,7 @@ Atwood calls the art's matter “the compound simple of this art”. The hen's e
 **References:** I.3 n26, II.2 ¶19
 
 <a id="e0312"></a>
-### compounded
+### Compounded
 *term* · compound creature
 
 **Whatever is mixed or impure; it cannot approach the divine Fire, which destroys and separates it.**
@@ -3430,7 +3692,7 @@ In a passage drawing on Sendivogius, *compounded* means whatever is mixed or imp
 **References:** II.4 ¶39
 
 <a id="e0313"></a>
-### concauses
+### Concauses
 *term*
 
 **In Iamblichus, contributing causes: the soul's best dispositions and purity, which accompany the work without being its principal cause.**
@@ -3440,7 +3702,7 @@ Iamblichus, as quoted, names “all the best dispositions of the soul, and also 
 **References:** II.4 ¶31
 
 <a id="e0314"></a>
-### concentration
+### Concentration
 *term*
 
 **Degrees of concentration through which, Atwood says, the agent is promoted and fortified; she does not explain them further.**
@@ -3450,18 +3712,20 @@ Atwood speaks of the agent being fortified “when promoted through a second to 
 **References:** III.4 ¶9
 
 <a id="e0315"></a>
-### conceptive medium
+### Conceptive medium
 *term*
 
 **The receiving medium through which universal principles are conceived; Atwood says nature lacks a true one, and that truth depends on its purity.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood says: “There is no such thing as truth absolute in nature, because she has no true conceptive vehicle” [APP ¶43]. The receiving medium must be pure and simple if truth is to be conceived: “Thus everything depends on the purity of the receiving power.” [APP ¶43]. See also *conceptive vehicle*.
 
+**See also:** [Medium](#e1056)
+
 **References:** APP ¶43
 
 <a id="e0316"></a>
-### conceptive vehicle
-*term* · Conceptive vehicle
+### Conceptive vehicle
+*term*
 
 **The vehicle of conception; Atwood blames the ancients' obscure teaching about it for great error, and says the soul may dissolve its own, the parental bond.**
 
@@ -3469,11 +3733,13 @@ Atwood says that “the obscure instructions of the ancients concerning the natu
 
 **Identified with:** parental bond [II.3 ¶37]
 
+**See also:** [Vehicle](#e1879)
+
 **References:** II.1 ¶8, II.3 ¶37
 
 <a id="e0317"></a>
 ### Concord
-*term* · concord, Concordaunce
+*term* · Concordaunce
 
 **In Norton's verses, an agreement or fit between the art and its requisites, numbered as successive Concords (ministers, places, instrument).**
 
@@ -3492,7 +3758,7 @@ Atwood names Condillac only to criticize his sensual system, along with Locke's 
 **References:** II.1 ¶34
 
 <a id="e0319"></a>
-### conditionate
+### Conditionate
 *term*
 
 **What man can do in the work: prepare the conditions by patient, disciplined labour, without being able to compel the Divine blessing.**
@@ -3502,7 +3768,7 @@ Atwood: “Man may conditionate: --- ought, by patient labour disciplining, to p
 **References:** III.4 ¶20
 
 <a id="e0320"></a>
-### conditionating
+### Conditionating
 *term*
 
 **Placing oneself under conditions in obedience to the Divine Will, as opposed to searching in one's own will alone.**
@@ -3512,7 +3778,7 @@ Atwood contrasts searching in one's own will alone with proceeding “by conditi
 **References:** IV.4 ¶23
 
 <a id="e0321"></a>
-### confection
+### Confection
 *term*
 
 **The mixture or compound of the work; Hermes says the ferment whitens it, and Atwood warns that a premature permanent confection yields an offspring that does not abide.**
@@ -3522,7 +3788,7 @@ Hermes, quoted by Atwood, says “the ferment whitens the confection” [I.3 ¶5
 **References:** I.3 ¶58, IV.1 ¶48
 
 <a id="e0322"></a>
-### congenial Sight
+### Congenial sight
 *term*
 
 **A fitting faculty of sight without which, Atwood says, the research cannot be carried on; she does not define it.**
@@ -3532,8 +3798,8 @@ Atwood says of the research: “nor can it be prosecuted without a congenial Sig
 **References:** IV.4 ¶32
 
 <a id="e0323"></a>
-### conjunction
-*term* · Conjunction, conjunctions, Conjonction
+### Conjunction
+*term* · conjunctions, Conjonction
 
 **The union of the principles in the work, in stages, consummated in a final indissoluble Conjunction that generates a more perfect offspring; Atwood equates it with the circulated Form of Gold.**
 
@@ -3550,7 +3816,7 @@ In III.4 the agent goes on “further multiplying in the Conjunction” [III.4 �
 **References:** III.3 ¶13, III.3 ¶29, III.3 ¶30, III.3 ¶33, III.4 ¶10, III.4 ¶20, III.4 ¶9
 
 <a id="e0324"></a>
-### connate spirit
+### Connate spirit
 *term*
 
 **The inborn spirit of the soul, whose attractive grace subdues the self-willed agent; Julian says the deified soul strengthens it, making it the safety of the whole body.**
@@ -3561,7 +3827,9 @@ Julian, quoted by Atwood, says of the deified soul that “she transfuses a cert
 
 In the Appendix (Table Talk, a later layer), Atwood describes what happens “when the connate spirit is deprived of its understanding spirit” [APP ¶109]: its life flows away until it rallies from a new center by self-realization.
 
-**References:** APP ¶109, III.1 ¶63, IV.3 ¶30
+**See also:** [Spirit](#e1644)
+
+**References:** III.1 ¶63, IV.3 ¶30, APP ¶109
 
 <a id="e0325"></a>
 ### Conscience
@@ -3581,10 +3849,12 @@ Atwood urges inward search “until Conscience reveal to us those higher objects
 
 Atwood says Solomon knew the Living Light and the mysteries of creation “not by outward teaching or rational inference from effects, but by the Conscious Intuition” [III.3 ¶49].
 
+**See also:** [Intuition](#e0889)
+
 **References:** III.3 ¶49
 
 <a id="e0327"></a>
-### constellation
+### Constellation
 *term*
 
 **In Norton's verses, the celestial influence to which the Stone's elements are most obedient during its generation.**
@@ -3594,7 +3864,7 @@ Norton, quoted by Atwood, says the elements of the Stone during generation “Ha
 **References:** IV.2 ¶34
 
 <a id="e0328"></a>
-### consubstantial
+### Consubstantial
 *term*
 
 **Sharing one substance: Atwood says all things, however various, are consubstantial in their Cause.**
@@ -3604,27 +3874,31 @@ Atwood: “all things, however various in manifestation, are consubstantial in t
 **References:** III.2 ¶35
 
 <a id="e0329"></a>
-### Consuming Fire
+### Consuming fire
 *term*
 
 **The burning, wrathful state of the Prester below, which it ceases to be when placed in the supreme Ether.**
 
 Atwood describes the Prester placed in the supreme Ether as “not burning as below, or wrathful; but vital, calm, transmuting, recreating, and no longer a Consuming Fire” [II.3 ¶56]. ‘Consuming Fire’ thus names its lower, destructive state.
 
+**See also:** [Fire](#e0575)
+
 **References:** II.3 ¶56
 
 <a id="e0330"></a>
-### continental life
+### Continental life
 *term*
 
 **The containing life which must be preserved when the spirit's external forms are dissolved.**
 
 In a footnote Atwood describes the task as being “to dissolve without destroying the continental life” [I.3 n62]: the spirit's external forms are to be dissolved while the containing life is kept.
 
+**See also:** [Life](#e0960)
+
 **References:** I.3 n62
 
 <a id="e0331"></a>
-### contrition
+### Contrition
 *term* · contritions
 
 **The distress of the sensible nature in the conscience, the great darkness in which Light appears; in the Appendix, repeated contritions absorb the sensuous medium.**
@@ -3635,7 +3909,7 @@ In the Appendix (Table Talk, a later layer), contrition is stirred in the surrou
 
 **Identified with:** great darkness [III.3 ¶24]
 
-**References:** APP ¶78, III.3 ¶11, III.3 ¶24
+**References:** III.3 ¶11, III.3 ¶24, APP ¶78
 
 <a id="e0332"></a>
 ### Conversion
@@ -3648,7 +3922,7 @@ Porphyry, quoted by Atwood, describes the purified soul's turning toward its gen
 **References:** II.3 ¶43
 
 <a id="e0333"></a>
-### conversion of the elements
+### Conversion of the elements
 *term* · Converte elementa, Convert the elements
 
 **The reversal of natures, making light things heavy and active passive and the reverse; Atwood calls by this name all diversity proceeding from and returning to the One.**
@@ -3658,6 +3932,8 @@ Arnold, quoted by Atwood, tells the seeker to “understand the conversion of th
 Atwood gives her own account: “a conversion of the elements in this respect is just to make active passive and passive active” [III.3 ¶29], the occult manifest and the manifest occult. She widens the term to the whole cycle: “all diversities of things are seen to proceed from and return to this only One; which is called a conversion of the elements” [III.3 ¶29].
 
 **Identified with:** mutation of natures [I.2 ¶25]; procession from and return to the One [III.3 ¶29]
+
+**See also:** [Elements](#e0469)
 
 **References:** I.2 ¶22, I.2 ¶25, III.3 ¶29
 
@@ -3675,7 +3951,7 @@ Kirchringius, quoted by Atwood, defines it: “when you incline your mind to thi
 
 <a id="e0335"></a>
 ### Corner Stone
-*term* · Chief Corner Stone, perfected Corner Stone, ethereal corner stone, rejected Corner Stone, corner stone
+*term* · Chief Corner Stone, perfected Corner Stone, ethereal corner stone, rejected Corner Stone
 
 **The imperishable quintessential virtue of the New Life and first Material foundation of the Hermetic Art, rejected by ignorance and known only to those who have it in themselves.**
 
@@ -3687,10 +3963,12 @@ In the Appendix (Table Talk, a later layer), she says “Everything is in the pe
 
 **Identified with:** first Material foundation of the Hermetic Art [III.1 ¶66]; quintessential virtue of the New Life [III.1 ¶66]
 
-**References:** APP ¶134, II.1 ¶8, III.1 ¶66, IV.3 ¶37
+**See also:** [Stone](#e1670)
+
+**References:** II.1 ¶8, III.1 ¶66, IV.3 ¶37, APP ¶134
 
 <a id="e0336"></a>
-### corporeal
+### Corporeal
 *term*
 
 **The sensual principle, predominant in the mundane conception, which hides the divine original from consciousness.**
@@ -3714,7 +3992,7 @@ The text gives the Latin “Corpus solutum est aqua perennis congelans Mercurium
 **References:** III.3 ¶21
 
 <a id="e0338"></a>
-### correspondence
+### Correspondence
 *term*
 
 **A term Atwood borrows from the Swedenborgians for the relation of the brain to outward life and the spiritual head to the spirit.**
@@ -3735,7 +4013,7 @@ Van helmont, quoted by Atwood, rejects reliance on Corrosives acting through ‘
 
 <a id="e0340"></a>
 ### Corruption
-*term* · corruption, corruptible
+*term* · corruptible
 
 **Dissolution, which belongs only to composites; in a summary from Plotinus and Porphyry that Atwood endorses, artificial corruption especially manifests the underlying subject.**
 
@@ -3744,7 +4022,7 @@ In a summary drawn from Plotinus and Porphyry, which Atwood endorses: “This th
 **References:** III.2 ¶48
 
 <a id="e0341"></a>
-### coruscation
+### Coruscation
 *term* · coruscant
 
 **The sudden flashing of the released light; Atwood calls the life at the center of the lower life, Apollo, coruscant.**
@@ -3764,12 +4042,14 @@ Atwood cites Cosmopolite in support on reconciling fire and water: “All things
 **References:** IV.3 ¶10, IV.3 ¶7
 
 <a id="e0343"></a>
-### creative Essence
+### Creative essence
 *term*
 
 **That in and with which, Atwood says, the third life moves.**
 
 In the Appendix (Table Talk, a later layer), Atwood speaks of “that third life which moves in and with the creative Essence” [APP ¶3].
+
+**See also:** [Essence](#e0503)
 
 **References:** APP ¶3
 
@@ -3811,7 +4091,7 @@ She quotes him with approval on several points:
 
 <a id="e0347"></a>
 ### Cross
-*term* · cross
+*term*
 
 **The passage or condition under which the old life is crucified and a new one germinates: all is sown under it, and the soul must pass under it before regeneration.**
 
@@ -3823,11 +4103,11 @@ In the Appendix (Table Talk, a later layer), the soul passes under its Cross bef
 
 The context suggests that the Cross stands for a death of the ordinary, cerebral life. A new life, joined under another law, then comes out of it.
 
-**References:** APP ¶110, III.1 ¶48, III.1 ¶49, III.3 ¶13, III.3 ¶15
+**References:** III.1 ¶48, III.1 ¶49, III.3 ¶13, III.3 ¶15, APP ¶110
 
 <a id="e0348"></a>
 ### Crow
-*term* · crow
+*term*
 
 **In Hermes as glossed by Atwood, the chief principle of the art: the Spirit of life in an obscured, passive state early in the work; one with the vulture.**
 
@@ -3835,12 +4115,12 @@ In a passage of Hermes that Atwood glosses, the Crow is the chief principle of t
 
 It is identified with the vulture: “The vulture and the crow are interpreted to be one and the same thing, only differing somewhat in estate” [I.3 n12].
 
-**Identified with:** [vulture](#e1916) [I.3 n12]
+**Identified with:** [Vulture](#e1916) [I.3 n12]
 
 **References:** I.3 n12
 
 <a id="e0349"></a>
-### crowned king
+### Crowned king
 *term*
 
 **Atwood's gloss on Hermes: the first visible resplendence of the vital tincture, the king triumphing over death when the colours appear.**
@@ -3849,10 +4129,12 @@ Atwood explains the image directly: “By the crowned king, Hermes signifies the
 
 **Identified with:** first manifested resplendence of the vital tincture [I.3 n22]
 
+**See also:** [King](#e0928)
+
 **References:** I.3 n22
 
 <a id="e0350"></a>
-### crystalline diaphaneity
+### Crystalline diaphaneity
 *term*
 
 **The transparent state to which all things must be reduced before the Work truly begins.**
@@ -3862,7 +4144,7 @@ Atwood writes that, before the Work truly begins, “all things are reduced to a
 **References:** IV.1 ¶48
 
 <a id="e0351"></a>
-### curse
+### Curse
 *term* · original curse
 
 **The condition matter has lain under since the fall; the work aims to redeem matter from it.**
@@ -3884,8 +4166,8 @@ Atwood cites St Cyrillus as a Church Father who adopted the rites of the Mysteri
 ## D
 
 <a id="e0353"></a>
-### D. Fabianus de Monte, S. Severin
-*person*
+### D. Fabianus de Monte
+*person* — *S. Severin* · D. Fabianus de Monte, S. Severin
 
 **Author of *Tractatu de Emptione et Venditione* (Quest. 5), cited in a footnote for a definition of Alchemy.**
 
@@ -3894,8 +4176,8 @@ Atwood cites *Tractatu de Emptione et Venditione*, Quest. 5, in a footnote. The 
 **References:** I.1 n52
 
 <a id="e0354"></a>
-### Dactyli Idaei (fable)
-*collective voice* · Dactyli Idaei, Fingers of Mount Ida
+### Dactyli Idaei
+*collective voice* — *fable* · Fingers of Mount Ida
 
 **A fable Atwood uses to illustrate the hand and fiery art bringing the metallic veins to light, as the hand expresses a thought formed beforehand.**
 
@@ -3914,7 +4196,7 @@ In a sentence by Ricardus about study wiping away ignorance: “by these enigmas
 **References:** III.4 ¶20
 
 <a id="e0356"></a>
-### dark Aleph / light Aleph
+### Dark Aleph and light Aleph
 *term* · dark Aleph, light Aleph
 
 **In Reuchlin as quoted: dark Aleph is the hidden essence, which becomes light Aleph when it shows itself to exist in human apprehension.**
@@ -3924,7 +4206,7 @@ Atwood quotes Reuchlin. Dark Aleph is the hidden essence. It becomes light Aleph
 **References:** III.2 ¶10
 
 <a id="e0357"></a>
-### dark world
+### Dark world
 *term*
 
 **In Boehme's scheme of the Three Worlds, a procreation or outer birth: a substance expressed from the internal and spiritual worlds.**
@@ -3936,7 +4218,7 @@ In Boehme's Three Worlds, as Atwood gives them, the dark world is “a procreati
 **References:** III.2 ¶16
 
 <a id="e0358"></a>
-### darkness
+### Darkness
 *term*
 
 **In a passage of the Master, what the stone brings forth after Light: the clouds, called the mother of all things.**
@@ -3948,8 +4230,8 @@ In a passage of the Master that Atwood quotes, the stone after the Light “brin
 **References:** III.1 ¶49
 
 <a id="e0359"></a>
-### darkness upon the Abyss (unattributed in the text)
-*collective voice* · darkness upon the Abyss
+### Darkness upon the Abyss
+*collective voice* — *unattributed in the text*
 
 **An unattributed image Atwood uses as an analogy for the eclipse of the Divine Light in the hyperphysical work.**
 
@@ -3965,7 +4247,7 @@ Atwood uses the image, without naming a source, as an analogy for the eclipse of
 
 Atwood names David with Ezekiel, Moses, Zachariah and the Hebrew prophets in illustrating the Wheel of Fire, in which all things are transfigured [II.3 ¶54]. He is cited inside Ripley's verse about the waters passing away: “Abierunt in sicco flumina” [III.1 ¶57] (our rendering: the rivers went away into dry land). In the Appendix (Table Talk, a later layer), the 68th Psalm illustrates the alien being driven out when the Divine presence arises: “as wax before the fire” [APP ¶157].
 
-**References:** APP ¶157, II.3 ¶54, III.1 ¶57
+**References:** II.3 ¶54, III.1 ¶57, APP ¶157
 
 <a id="e0361"></a>
 ### De Lapide Physici Condit.
@@ -3975,19 +4257,9 @@ Cited for reference only.
 
 **References:** III.1 n2
 
-<a id="e0362"></a>
-### De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet
-*collective voice*
-
-**A group Atwood praises as faithful pioneers of Mesmerism; she says the science has gone backward since them.**
-
-Atwood praises De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend and Dupotet as faithful pioneers of Mesmerism. She says the science has gone backward since their time [II.2 ¶6].
-
-**References:** II.2 ¶6
-
 <a id="e0363"></a>
-### de St Martin
-*person* · De St Martin, St Martin, Se St Martin
+### De St Martin
+*person* · St Martin, Se St Martin
 
 **A writer cited throughout the Appendix with approval, on numbers, the divine names, regeneration, and the earth as crucible of souls.**
 
@@ -4000,6 +4272,18 @@ All citations fall in the Appendix (Table Talk, a later layer). Atwood praises h
 - **Law and inquiry.** From *Reply*, p. 364, he is cited on a perfect law that works by degrees. His answers to a friend's particular question illustrate universal truth exploding questions, like the Hermetic inquiry [APP ¶112] [APP ¶113] [APP ¶115].
 
 **References:** APP ¶104, APP ¶107, APP ¶110, APP ¶112, APP ¶113, APP ¶115, APP ¶78, APP ¶88, APP ¶89, APP ¶98
+
+<a id="e0219"></a>
+### Dead and revived god
+*collective voice* — *Cadmillus, Atys, Adonis, Osiris* · Cadmillus, Atys, Adonis, Osiris, Cadmillus, Atys, Adonis, Osiris
+
+**Figures Atwood names as the god dead and revived among the Cabiri, in Phrygia, in Lydia and among the Egyptians.**
+
+Atwood names Cadmillus, Atys, Adonis and Osiris as instances of the god dead and revived, among the Cabiri, in Phrygia, in Lydia and among the Egyptians [III.3 ¶69].
+
+**See also:** [Fable of Isis and Osiris](#e0459), [Gods](#e0674), [Osiris](#e1249)
+
+**References:** III.3 ¶69
 
 <a id="e0364"></a>
 ### Dead clay
@@ -4021,28 +4305,20 @@ A quoted adept, called “the mysterious adeptest”, speaks of Salt “whose nu
 
 **References:** III.3 ¶50
 
-<a id="e0366"></a>
-### Dee (Dr Dee)
-*person* · Dee, Dr Dee
-
-**Diarist whose diary Atwood cites as evidence of Kelly's projection and of Kelly possibly revealing the secret to him.**
-
-Atwood cites Dee's Diary (n74: Sept. 1586) as a source for Kelly's projection and for the possible discovery of the secret: “Master E. Kelly did open the great secret to me, God be thanked.” [I.1 ¶66] [I.1 ¶67] [I.1 n74].
-
-**References:** I.1 n74, I.1 ¶66, I.1 ¶67
-
 <a id="e0367"></a>
-### defunct philosophers
+### Defunct philosophers
 *collective voice*
 
 **The dead philosophers whose testimony, Atwood says, is the only evidence on which Alchemy can be imagined to be real.**
 
 Atwood says the testimony of defunct philosophers is the only evidence on which Alchemy may be imagined real [IV.4 ¶12].
 
+**See also:** [Philosophers](#e1311)
+
 **References:** IV.4 ¶12
 
 <a id="e0368"></a>
-### deification
+### Deification
 *term*
 
 **In Aristotle as reported by Atwood, the condition reached when the understanding touches its cause; only the duly initiated are capable of it.**
@@ -4052,7 +4328,7 @@ In Atwood's report of Aristotle, deification is attained by contact of the under
 **References:** II.1 ¶37
 
 <a id="e0369"></a>
-### Demiurgic Fire
+### Demiurgic fire
 *term*
 
 **The creative fire the gods manifest through Intellect in Light, borne by Minerva as Phosphor; hidden from man by sensual conception.**
@@ -4060,6 +4336,8 @@ In Atwood's report of Aristotle, deification is attained by contact of the under
 In Atwood's account, the gods manifest the Demiurgic Fire through Intellect in Light. “Minerva is sometimes called Phosphor, as being the bearer and measure of the Demiurgic Fire” [II.4 ¶26]. To Theurgists the gods show a self-visible Fire: “they exhibit to Theurgists a Fire which is itself, to itself, visible” [II.4 ¶29].
 
 It is the creative fire borne by Wisdom. Ordinary sense-bound thinking hides it, “that Fire which the sensual conception occultates, and so forcibly restricts, that man does not suspect it even” [III.3 ¶71]. The context suggests it is the hidden fire the method seeks to release.
+
+**See also:** [Fire](#e0575)
 
 **References:** II.4 ¶26, II.4 ¶29, III.3 ¶71
 
@@ -4070,6 +4348,8 @@ It is the creative fire borne by Wisdom. Ordinary sense-bound thinking hides it,
 **That with which Theurgic sacrifice seeks to be joined; not further defined.**
 
 Atwood says Theurgic sacrifice seeks “a conjunction with the Demiurgic Intellect” [III.4 ¶25]. She does not define it further.
+
+**See also:** [Intellect](#e0867)
 
 **References:** III.4 ¶25
 
@@ -4100,8 +4380,8 @@ Atwood uses the name in two linked passages (spelled two ways). First: “For it
 **References:** II.3 ¶30, II.3 ¶52
 
 <a id="e0373"></a>
-### demons
-*term* · Demon, Demons, revenging Demon
+### Demons
+*term* · Demon, revenging Demon
 
 **Apparitional beings arising from the enclosed vapour of imagination, children of matter at war with the truth-seeking soul; also Hermes' revenging Demon that torments the wicked.**
 
@@ -4112,7 +4392,7 @@ Atwood uses the name in two linked passages (spelled two ways). First: “For it
 **References:** II.3 ¶22, II.3 ¶24, III.3 ¶57
 
 <a id="e0374"></a>
-### Des Septchenes / De Septchenes
+### Des Septchenes
 *person* · De Septchenes
 
 Cited for reference only.
@@ -4120,7 +4400,7 @@ Cited for reference only.
 **References:** II.2 n8, II.2 n9, IV.2 n12
 
 <a id="e0375"></a>
-### the desirable
+### The desirable
 *term*
 
 **That toward which even Matter extends, identified with the Good.**
@@ -4133,7 +4413,7 @@ The text says even Matter is “extended to the desirable, i.e., to the Good” 
 
 <a id="e0376"></a>
 ### Desire
-*term* · desire
+*term*
 
 **For Atwood, the longing of the mind for its object, through which the research is ultimately made manifest and which prayer enlarges.**
 
@@ -4152,17 +4432,19 @@ Atwood cites Deuteronomy 4:15, “Take good heed unto yourselves, for ye saw no 
 **References:** II.3 n52, II.3 ¶48
 
 <a id="e0378"></a>
-### dew of Heaven
+### Dew of heaven
 *term*
 
 **In Eudoxus, what the wise make fall upon the earth so that it yields precious fruit; not further explained.**
 
 Spoken by Eudoxus (quoted): the wise make it fall upon the earth, “knowing how to make the dew of Heaven fall upon it” [IV.3 ¶12], so that it bears precious fruit. The text does not explain the expression further; its plain meaning in the method is unclear.
 
+**See also:** [Heaven](#e0735)
+
 **References:** IV.3 ¶12
 
 <a id="e0379"></a>
-### dew of light
+### Dew of light
 *term* · dew
 
 **In Rabbi Ben Jocahi, the dew shaken from the head of the hidden principle, which awakens the dead and nourishes the saints; identified with manna.**
@@ -4170,6 +4452,8 @@ Spoken by Eudoxus (quoted): the wise make it fall upon the earth, “knowing how
 Quoted from Rabbi Ben Jocahi: “Thy dew is the dew of light” [III.2 ¶3]. This dew falls from the head of the hidden principle, awakens the dead, nourishes the saints and is white as the diamond. It is identified with manna: “It is this which nourishes the most exalted saints, the manna which descends into the field of sacred fruits” [III.2 ¶3].
 
 **Identified with:** manna [III.2 ¶3]
+
+**See also:** [Light](#e0962)
 
 **References:** III.2 ¶3
 
@@ -4186,7 +4470,7 @@ Atwood presents Diana as the First Matter and the refulgent Light, personifying 
 **References:** III.1 ¶70
 
 <a id="e0381"></a>
-### dianoia
+### Dianoia
 *term*
 
 **A term in a Proclus passage, named alongside 'our individual reason'; not further defined.**
@@ -4216,7 +4500,7 @@ Named in a note on Sendivogius' *New Light of Alchemy*, London 1722: Digby trans
 **References:** I.1 n91, I.1 ¶71, I.3 n30, III.4 n21, IV.1 n10, IV.1 ¶7
 
 <a id="e0384"></a>
-### digestion
+### Digestion
 *term*
 
 **An operation by which the powder is multiplied, and a measured process required before perfect dissolution and before extraction of the Fixed Salt.**
@@ -4256,7 +4540,7 @@ Atwood cites Diotima in the *Banquet* in support of the idea that a wise mind ho
 **References:** II.1 ¶37
 
 <a id="e0388"></a>
-### disappointed chemists
+### Disappointed chemists
 *collective voice*
 
 **Critics of Alchemy whose 'learned cavils and clamours' Atwood dismisses.**
@@ -4266,7 +4550,7 @@ Atwood criticizes the disappointed chemists for their learned cavils and clamour
 **References:** IV.4 ¶12
 
 <a id="e0389"></a>
-### the disciple
+### Disciple
 *collective voice*
 
 **Anonymous voice, endorsed by Atwood, who treats material gifts as tokens of the Spirit's love.**
@@ -4275,30 +4559,44 @@ A quoted disciple says of the Spirit: “then he sends us these things as tokens
 
 **References:** IV.3 ¶46
 
+<a id="e0790"></a>
+### Disciple of Cornelius Agrippa
+*collective voice* — *not named*
+
+**An unnamed disciple of Cornelius Agrippa, cited for ‘more suggestive language’ on the work's sequence and for Agrippa's poverty after his failure.**
+
+Atwood cites Agrippa's unnamed “ingenious disciple” as expressing, in more suggestive language, the joining, siege and creature sequence of the work: “Take our two serpents, which are to be found everywhere on the face of the earth” [III.1 ¶50]. She cites him again on Agrippa's poverty resulting from his failure: “This was it, adds his disciple, that made his necessities so vigorous and his purse so weak” [IV.1 ¶36].
+
+**See also:** [Agrippa](#e0033)
+
+**References:** III.1 ¶50, IV.1 ¶36
+
 <a id="e0390"></a>
 ### Discovery of the Father
-*term* · discovery of the Father, discovery
+*term* · discovery
 
 **In Proclus, meeting, union with and direct sight of the Father; not opinion or science but Intellectual Vision; the Paternal Port.**
 
 Defined by Proclus (quoted): “For discovery is this, --- to meet with him, to be united to Him, and to see Him Himself” [II.4 ¶41]. It is not opinion and not science but Intellectual Vision of the Father or Maker. Proclus equates it with the Paternal Port: “This, then, is the Paternal Port and the discovery of the Father” [II.4 ¶41].
 
-**Identified with:** [Paternal Port](#e1286) [II.4 ¶41]
+**Identified with:** [Paternal port](#e1286) [II.4 ¶41]
 
 **References:** II.4 ¶41
 
 <a id="e0391"></a>
-### discursive energy of reason
+### Discursive energy of reason
 *term*
 
 **In Plotinus, the ordinary reasoning into which the soul falls back from Intellect after the divine state.**
 
 Plotinus (quoted) describes the soul after the divine state as “falling off from Intellect into the discursive energy of reason” [III.2 ¶50]. It names ordinary step-by-step reasoning, a lower condition than Intellect.
 
+**See also:** [Reason](#e1469)
+
 **References:** III.2 ¶50
 
 <a id="e0392"></a>
-### discursive faculty
+### Discursive faculty
 *term*
 
 **The reasoning faculty which, Atwood says, plays no part in discovering and assenting to universal propositions.**
@@ -4308,8 +4606,8 @@ Atwood says that in discovering universal propositions and assenting to them “
 **References:** II.1 ¶34
 
 <a id="e0393"></a>
-### dissolution
-*term* · Dissolution, dissolve, dissolved, solution
+### Dissolution
+*term* · dissolve, dissolved, solution
 
 **For Atwood, the core operation of the first work: an artificial loosening of the vital bond that dissolves the fixed sensual compact so the spirit can be renovated and perfected.**
 
@@ -4321,10 +4619,12 @@ In the process, “that which was fixed, viz., the sensual compact, is dissolved
 
 She also describes it as the breaking-up of the light's body and of the natural-born life, in which the three principles separate: “an eclipsation of the light takes place, and a dissolution of its body” [III.1 ¶53]. The context suggests its cause is vital heat artificially stirred in the blood [III.1 ¶53].
 
+**See also:** [Generation and dissolution](#e0662), [Solution](#e1623)
+
 **References:** I.3 n19, I.3 n64, I.3 ¶56, II.3 n2, II.3 ¶37, III.1 ¶53, IV.1 ¶4, IV.1 ¶7
 
 <a id="e0394"></a>
-### dividual
+### Dividual
 *term*
 
 **For Atwood, the divided condition reached by 'falling off', in which one ceases to be the Universe.**
@@ -4334,7 +4634,7 @@ Atwood writes that by falling off, “in becoming dividual, he ceases to be the 
 **References:** IV.4 ¶27
 
 <a id="e0395"></a>
-### Divine Art
+### Divine art
 *term*
 
 **Atwood's name for the Art in its higher purposes: working in and with the Universal Spirit, joined with universal theosophy, beyond its mineral uses.**
@@ -4343,15 +4643,17 @@ Atwood uses Divine Art as a name for the Art. Boehme gives the “principles of 
 
 In the Appendix (Table Talk, a later layer), “the Divine Art works in and with the Universal Spirit” [APP ¶140]. There it brings forth various states of life that offer allurements to the will, and it uses instruments as well as vessels [APP ¶140].
 
-**References:** APP ¶140, I.1 ¶42, I.1 ¶68, III.1 ¶64
+**References:** I.1 ¶42, I.1 ¶68, III.1 ¶64, APP ¶140
 
 <a id="e0396"></a>
-### Divine Art of separation
+### Divine art of separation
 *term*
 
 **For Atwood, the loosening of the bond between spirit and its bodily media, which Paracelsus speaks of and mesmerism imitates externally.**
 
 In the Appendix (Table Talk, a later layer), Atwood calls mesmeric practice “an imitation of the Divine Art of the separation of which Paracelsus speaks” [APP ¶73]. The Art apparently loosens the bond between spirit and its bodily media; mesmerism imitates it only outwardly.
+
+**See also:** [Separation](#e1594)
 
 **References:** APP ¶73
 
@@ -4363,10 +4665,12 @@ In the Appendix (Table Talk, a later layer), Atwood calls mesmeric practice “a
 
 Atwood writes that “as in the Divine conjunction, whilst it lasts, there are not two things as of subject and object in the consciousness” [III.2 ¶66]. In it, the life that understands and the light understood are one.
 
+**See also:** [Conjunction](#e0323)
+
 **References:** III.2 ¶66
 
 <a id="e0398"></a>
-### Divine Ecstasy
+### Divine ecstasy
 *term*
 
 **For Atwood, an ecstasy kindled in connection with its Source, which draws nature to its desire and works the whole miracle of the Hermetic Art.**
@@ -4376,7 +4680,7 @@ Atwood speaks of “that kindling of Divine Ecstasy, in connection with its Sour
 **References:** III.1 ¶70
 
 <a id="e0399"></a>
-### Divine Essentiality
+### Divine essentiality
 *term* · Essentiality
 
 **For Atwood, that with which the resigned Spirit is clothed; it qualifies the true Adept and is identified with the material of the Corner-Stone.**
@@ -4400,7 +4704,7 @@ The phrase is Atwood's gloss on Iamblicus (quoted): Wisdom is “conversant with
 **References:** II.1 ¶39
 
 <a id="e0401"></a>
-### Divine Experience
+### Divine experience
 *term*
 
 **Addressed by Atwood as the august Mother of all things; at the Substant Unity, Experience is present with Power.**
@@ -4409,10 +4713,12 @@ Atwood addresses it directly: “And thou august Mother of all things, Divine Ex
 
 **Identified with:** Mother of all things [III.3 ¶79]
 
+**See also:** [Experience](#e0534)
+
 **References:** III.3 ¶79
 
 <a id="e0402"></a>
-### divine eye
+### Divine eye
 *term*
 
 **For Atwood, the inner faculty of perception which, purified and strengthened, perceives the truth of all beings.**
@@ -4422,7 +4728,7 @@ Atwood, citing Plato, speaks of “that divine eye which, as Plato says, is bett
 **References:** II.2 ¶8
 
 <a id="e0403"></a>
-### Divine Fiat
+### Divine fiat
 *term*
 
 **For Atwood, the divine command that blesses the union of Soul and Passive Spirit, in which the sensual dominant is occultated and subdued.**
@@ -4432,17 +4738,19 @@ Atwood writes that “the Divine Fiat comes mercifully to bless the union” of 
 **References:** III.3 ¶10, III.3 ¶15
 
 <a id="e0404"></a>
-### Divine Fire
+### Divine fire
 *term*
 
 **In Iamblicus, what is received in perfect plenitude through the third class of prayer, the final seal of union.**
 
 Iamblicus (quoted) writes that “through the energy of the third, we receive a perfect plenitude of Divine Fire” [III.4 ¶24]. The third class of prayer is the final seal of union.
 
+**See also:** [Fire](#e0575)
+
 **References:** III.4 ¶24
 
 <a id="e0405"></a>
-### divine germ of humanity
+### Divine germ of humanity
 *term*
 
 **For Atwood, the divine seed in man, beheld in a deformed condition under the evils of its birth.**
@@ -4452,7 +4760,7 @@ Atwood refers to “the divine germ of humanity said to be beheld under the thou
 **References:** II.3 ¶30
 
 <a id="e0406"></a>
-### Divine Ground
+### Divine ground
 *term*
 
 **Atwood's term for the ground where the Scriptural phrase is seen and proved; there man may work but cannot compel the Divine Blessing.**
@@ -4462,34 +4770,38 @@ Atwood speaks of what is “as seen and proved on the Divine Ground” [IV.1 ¶4
 **References:** IV.1 ¶40
 
 <a id="e0407"></a>
-### Divine I Am
+### Divine I am
 *term*
 
 **The affirmation in which Life feels itself to Be; Atwood says the Kabalah uses it to signify the Substant Unity of all that is.**
 
 In Atwood's account, “Life springs forth with motion, feeling itself to Be.” [III.3 ¶79]. She identifies the Divine I Am with the Substant Unity: “in the Divine I Am, is by the Kabalah signified the Substant Unity of all that is” [III.3 ¶79].
 
-**Identified with:** [Substant Unity](#e1684) [III.3 ¶79]
+**Identified with:** [Substant unity](#e1684) [III.3 ¶79]
 
 **References:** III.3 ¶79
 
 <a id="e0408"></a>
-### Divine Idea
+### Divine idea
 *term*
 
 **What, according to Atwood, those who live profanely and without self-knowledge cannot attain, entertain or think self-actively.**
 
 Atwood says that those living profanely and without self-knowledge cannot “attain to the Divine Idea; either to entertain or think It self-actively is impossible” [III.3 ¶78].
 
+**See also:** [Ideas](#e0817)
+
 **References:** III.3 ¶78
 
 <a id="e0409"></a>
-### Divine Imagination
+### Divine imagination
 *term*
 
 **In Boehme as quoted, that through which all things arose from the Tincture.**
 
 Quoted from Boehme: “All things are thence arisen through the Divine Imagination” [III.2 ¶16]. The context ties this arising to the Tincture [III.2 ¶16].
+
+**See also:** [Imagination](#e0829)
 
 **References:** III.2 ¶16
 
@@ -4501,21 +4813,25 @@ Quoted from Boehme: “All things are thence arisen through the Divine Imaginati
 
 Atwood contrasts “the passive method of the Divine Intuition” [II.4 ¶40] with a self-active comprehension of Deity. In this mode the divine is received passively, and the soul is raised by love, hope and faith [II.4 ¶40].
 
+**See also:** [Intuition](#e0889)
+
 **References:** II.4 ¶40
 
 <a id="e0411"></a>
-### Divine Inversion
+### Divine inversion
 *term*
 
 **A term Atwood names as the subject of a Rabbi's advice and links to creation out of nothing, but does not define.**
 
 Atwood refers to advice “concerning the true nature of Divine Inversion” [III.2 ¶31] and connects it with creation out of nothing. The passage does not define the term.
 
+**See also:** [Inversion](#e0891)
+
 **References:** III.2 ¶31
 
 <a id="e0412"></a>
-### Divine Light
-*term* · Divine light
+### Divine light
+*term*
 
 **The formless divine light that the initiate sees; Atwood says it is held captive in this life and that it turns the Quintessence into living gold. In the Appendix she calls it the Essence of Gold.**
 
@@ -4527,10 +4843,12 @@ Atwood refers to advice “concerning the true nature of Divine Inversion” [II
 
 **Identified with:** Essence of Gold [APP ¶70]; Sacro Sancto [II.3 ¶46]
 
-**References:** APP ¶70, II.3 ¶46, II.3 ¶47, III.1 ¶38, III.1 ¶49, IV.3 ¶39, IV.4 ¶17
+**See also:** [Light](#e0962)
+
+**References:** II.3 ¶46, II.3 ¶47, III.1 ¶38, III.1 ¶49, IV.3 ¶39, IV.4 ¶17, APP ¶70
 
 <a id="e0413"></a>
-### Divine Light region
+### Divine light region
 *term*
 
 **In the Appendix, the highest sphere, above the pure Ether, where high Reason dwells, informed by Love and purified by humiliation.**
@@ -4540,7 +4858,7 @@ In the Appendix (Table Talk, a later layer), Atwood describes a scale of spheres
 **References:** APP ¶170
 
 <a id="e0414"></a>
-### divine Media
+### Divine media
 *term*
 
 **The real means by which, Atwood says, Theurgists are joined to the Divine nature, as opposed to a mental conception.**
@@ -4550,7 +4868,7 @@ Atwood insists that the Theurgists' union with the Divine nature is real: “it 
 **References:** II.4 ¶31
 
 <a id="e0415"></a>
-### Divine Monarchy
+### Divine monarchy
 *term*
 
 **Something Atwood says is established from the triune-essence principles she has just set out.**
@@ -4559,28 +4877,22 @@ After her passage on the triune essence, Atwood writes: “Hence the Divine Mona
 
 **References:** IV.2 ¶12
 
-<a id="e0416"></a>
-### the Divine Oracle
-*collective voice*
+<a id="e0416"></a><a id="e0417"></a>
+### Divine Oracle
+*collective voice* · divine oracles
 
 **An oracular voice Atwood cites as ratifying the Platonic instruction on how to apprehend the Intelligible.**
 
 Atwood cites the Divine Oracle in support of the Platonic teaching on how to apprehend the Intelligible: “There is something Intelligible which it behooves thee to understand with the Flower of thy mind.” [II.4 ¶42]. The citation continues across [II.4 ¶43–48]. She uses it approvingly.
 
-**References:** II.4 ¶42, II.4 ¶43, II.4 ¶44, II.4 ¶45, II.4 ¶46, II.4 ¶47, II.4 ¶48
+*Divine oracles.* In a footnote, Atwood cites the divine oracles in support: they teach that fire obliterates the strains from generation [II.3 n40].
 
-<a id="e0417"></a>
-### divine oracles
-*collective voice*
+**See also:** [Oracles](#e1233)
 
-**Oracles Atwood cites as teaching that fire obliterates the strains from generation.**
-
-In a footnote, Atwood cites the divine oracles in support: they teach that fire obliterates the strains from generation [II.3 n40].
-
-**References:** II.3 n40
+**References:** II.3 n40, II.4 ¶42, II.4 ¶43, II.4 ¶44, II.4 ¶45, II.4 ¶46, II.4 ¶47, II.4 ¶48
 
 <a id="e0418"></a>
-### Divine Original
+### Divine original
 *term*
 
 **The divine source in which contraries always coexist; Atwood says the common elements of Nature hide it and chemistry cannot identify it.**
@@ -4590,7 +4902,7 @@ Atwood says that “contraries are always consubsistent in the Divine Original�
 **References:** III.2 ¶60, IV.1 ¶47
 
 <a id="e0419"></a>
-### Divine Reason
+### Divine reason
 *term*
 
 **A principle said to have been originally resident in man's life, which ranked him high, reported from cabalistic scriptures and schools of antique experience.**
@@ -4599,10 +4911,12 @@ Reporting cabalistic scriptures and schools of antique experience, Atwood descri
 
 **Identified with:** occult principle of Causal Efficience [II.1 ¶32]
 
+**See also:** [Reason](#e1469)
+
 **References:** II.1 ¶32
 
 <a id="e0420"></a>
-### Divine Science
+### Divine science
 *term*
 
 **The knowledge whose temple, Atwood says, admits whoever knows the first entrance and the volatilizing.**
@@ -4612,17 +4926,19 @@ Atwood says that whoever knows the first entrance and the volatilizing “is alr
 **References:** IV.4 ¶32
 
 <a id="e0421"></a>
-### Divine Seed
+### Divine seed
 *term*
 
 **What the matter brought into the right condition attracts, and (in the Appendix) what the spirit that has died to all receives.**
 
 In the main text, the matter is brought into the right condition by action and reaction, so as “to supply the right condition for attracting the Divine Seed” [IV.1 ¶41]. In the Appendix (Table Talk, a later layer), the spirit dies to everything, even its own identity, and becomes “a simple receptacle and magnet for the Divine Seed” [APP ¶87]. Both passages describe a prepared receiver that draws in the Seed.
 
-**References:** APP ¶87, IV.1 ¶41
+**See also:** [Seed](#e1568)
+
+**References:** IV.1 ¶41, APP ¶87
 
 <a id="e0422"></a>
-### Divine Silence
+### Divine silence
 *term*
 
 **In Trismegistus as quoted, the knowledge of the First Cause: a rest of all the senses in which the soul is changed into the Essence of God.**
@@ -4632,7 +4948,7 @@ Atwood quotes Trismegistus on the First Cause: “the knowledge of it, says Tris
 **References:** IV.2 ¶33
 
 <a id="e0423"></a>
-### divine substantiality
+### Divine substantiality
 *term*
 
 **In the theosophist as quoted, the pure spirit that nourished the flame-like life of Adam before the fall.**
@@ -4652,7 +4968,7 @@ Atwood says the returned Instrument makes up “the force and integral perfectio
 **References:** III.1 ¶61
 
 <a id="e0425"></a>
-### the Divine Teacher
+### Divine Teacher
 *collective voice*
 
 **Cited from the Scriptures to support keeping the Causal Knowledge from the unworthy.**
@@ -4663,7 +4979,7 @@ Atwood cites the Divine Teacher of the Scriptures to justify withholding the Cau
 
 <a id="e0426"></a>
 ### Divine union
-*term* · Divine Union
+*term*
 
 **Union with the reality that images stand for. Julian, as quoted, says it is achieved only with the help of Divine Works.**
 
@@ -4671,10 +4987,12 @@ Atwood cites the Divine Teacher of the Scriptures to justify withholding the Cau
 
 **Atwood.** Divine Union joins the soul not to an image but to the reality that images represent. Afterwards, what was in the mind before returns heightened: “subsequent to the Divine Union, there recurs That also which was in the mind prior to the union, exalted and multiplied” [III.2 ¶66].
 
+**See also:** [Union](#e1838)
+
 **References:** II.1 ¶52, III.2 ¶66
 
 <a id="e0427"></a>
-### divine water
+### Divine water
 *term*
 
 **In Hermolaus Barbarus as quoted, the chemists' celestial water, an ethereal spirit from which potable gold and the philosophers' stone begin.**
@@ -4683,30 +5001,46 @@ Quoted from Hermolaus Barbarus: “There is a celestial, or rather a divine wate
 
 **Identified with:** Scythian latex [I.1 ¶20]; a spirit of the nature of the ether [I.1 ¶20]; praeter-perfect aqueous body [I.1 ¶20]
 
+**See also:** [Water](#e1920)
+
 **References:** I.1 ¶20
 
 <a id="e0428"></a>
-### Divine Works
+### Divine works
 *term*
 
 **In Synesius as quoted, the help without which the Divine union can neither be achieved nor understood.**
 
 Synesius, as cited, “bears witness to the efficacy of Divine Works” [II.1 ¶52]. Without this help the Divine union is neither effected nor understood [II.1 ¶52].
 
+**See also:** [Works](#e1953)
+
 **References:** II.1 ¶52
 
+<a id="e1254"></a>
+### Doctors
+*collective voice* · our doctors
+
+**Cited for the view that the Art is perfected by multiplying the Prester and placing him in the supreme Ether.**
+
+‘Our doctors’ are cited in support of the view that the Art's perfection lies in multiplying the Prester and placing him in the supreme Ether [II.3 ¶56].
+
+**References:** II.3 ¶56
+
 <a id="e0429"></a>
-### doctrine of Wisdom
+### Doctrine of Wisdom
 *term*
 
 **The Greeks' teaching, which Atwood praises as unequalled in its scientific explanation of the divine source.**
 
 Atwood praises the Greeks as unequalled in “their doctrine of Wisdom in perspicuity, grace of utterance, and scientific explication of the divine source” [I.1 ¶70].
 
+**See also:** [Wisdom](#e1943)
+
 **References:** I.1 ¶70
 
 <a id="e0430"></a>
-### double nativity
+### Double nativity
 *term*
 
 **In Vaughan as quoted, a twofold birth, visible and invisible, without which the Matter cannot be brought to its final purpose.**
@@ -4723,10 +5057,12 @@ Vaughan, as quoted, speaks “of a double nativity, visible and invisible” [IV
 
 Eirenaeus, as quoted, names “your signal the Doves of Diana” [III.1 ¶14]. The passage does not say what they are.
 
+**See also:** [Diana](#e0380)
+
 **References:** III.1 ¶14
 
 <a id="e0432"></a>
-### doves of Venus
+### Doves of Venus
 *term*
 
 **In the Appendix, Atwood's gloss for the maternal instinct, through which the light finds the Paternal Life.**
@@ -4735,10 +5071,12 @@ In the Appendix (Table Talk, a later layer), Atwood explains the term herself: t
 
 **Identified with:** maternal instinct [APP ¶167]
 
+**See also:** [Venus](#e1880)
+
 **References:** APP ¶167
 
 <a id="e0433"></a>
-### doxastic
+### Doxastic
 *term*
 
 **In Proclus as quoted, what belongs to opinion: uncertain, close to irrational life, and not true discovery.**
@@ -4746,6 +5084,18 @@ In the Appendix (Table Talk, a later layer), Atwood explains the term herself: t
 Quoting Proclus, Atwood separates true discovery from what is “not that which is doxastic, or pertaining to opinion” [II.4 ¶41]. Such opinion is uncertain and close to irrational life [II.4 ¶41].
 
 **References:** II.4 ¶41
+
+<a id="e0366"></a>
+### Dr Dee
+*person* · Dee
+
+**Diarist whose diary Atwood cites as evidence of Kelly's projection and of Kelly possibly revealing the secret to him.**
+
+Atwood cites Dee's Diary (n74: Sept. 1586) as a source for Kelly's projection and for the possible discovery of the secret: “Master E. Kelly did open the great secret to me, God be thanked.” [I.1 ¶66] [I.1 ¶67] [I.1 n74].
+
+**See also:** [Spirit to Dr Dee](#e1649)
+
+**References:** I.1 n74, I.1 ¶66, I.1 ¶67
 
 <a id="e0434"></a>
 ### Dr Everard
@@ -4759,7 +5109,7 @@ Atwood praises Dr Everard's English translation of the Hermetic books [I.1 ¶7].
 
 <a id="e0435"></a>
 ### Dragon
-*term* · dragon, dragons
+*term* · dragons
 
 **For Atwood, the self-willed spirit that came into nature with the fall into generation and appears as the matter's blackness; Hermes, Bloomfield and a French adept, as quoted, describe it differently.**
 
@@ -4776,7 +5126,7 @@ The sources don't agree on the details. Atwood treats the Dragon as the self-wil
 **References:** I.3 n31, I.3 n43, III.1 ¶61, IV.2 ¶36
 
 <a id="e0436"></a>
-### dry liquor
+### Dry liquor
 *term*
 
 **In Sendivogius, what the living metals are to be made into in Our Fire; the text does not explain it further.**
@@ -4786,17 +5136,19 @@ Quoted from Sendivogius: of the living metals “let there be made of them a dry
 **References:** IV.3 ¶21
 
 <a id="e0437"></a>
-### dry soul
+### Dry soul
 *term*
 
 **Atwood's term for the soul that has left nature and its moisture, turns to itself and radiates its own light; Heraclitus calls it the wisest.**
 
 Atwood describes the soul that has withdrawn from nature and its moisture: turning to itself, it radiates its own light — “then she becomes a dry splendor from exhalation” [II.3 ¶27]. She cites Heraclitus: “a dry soul is the wisest” [II.3 ¶27].
 
+**See also:** [Soul](#e1632)
+
 **References:** II.3 ¶27
 
 <a id="e0438"></a>
-### dry water
+### Dry water
 *term* · aqua sicca
 
 **A philosophers' name for the 'living water' that the Stone is; also one of the forms the subject takes in its changes.**
@@ -4805,15 +5157,19 @@ Quoted from Geber, dry water is the philosophers' name for the living water that
 
 **Identified with:** living water [I.2 ¶11]
 
+**See also:** [Water](#e1920)
+
 **References:** I.2 ¶11, I.2 ¶37
 
 <a id="e0439"></a>
-### dry water of the sea of the wise
+### Dry water of the sea of the wise
 *term*
 
 **In Eudoxus, that with which the extracted water is joined by a 'magical union', dissolving it into the viscous mercurial liquor.**
 
 Quoted from Eudoxus: the extracted water is dissolved into the viscous mercurial liquor “by a magical union of the dry water of the sea of the wise” [IV.3 ¶16]. The text does not explain the expression further.
+
+**See also:** [The Wise](#e1944)
 
 **References:** IV.3 ¶16
 
@@ -4838,7 +5194,7 @@ Atwood treats the Duad as the generating pair: “For if in the Duad the divine 
 **References:** IV.2 ¶20, IV.2 ¶22
 
 <a id="e0442"></a>
-### dual contemplation
+### Dual contemplation
 *term*
 
 **Reflective contemplation, which is excluded, together with multitude, when Matter is called 'one so far as one'.**
@@ -4851,7 +5207,7 @@ Atwood glosses dual contemplation as reflective contemplation (= reflective cont
 
 <a id="e0443"></a>
 ### Dufresnoy
-*person* · l’Englet Dufresnoy, L’Englet Dufresnoy
+*person* · l’Englet Dufresnoy
 
 **Author of the Histoire Hermetique, cited for a skeptic's praise of English Hermetic writers and for Lully material, yet criticized as ignorant of the subject.**
 
@@ -4863,7 +5219,7 @@ Atwood cites his Histoire Hermetique several times. As a skeptic's testimony to 
 
 <a id="e0444"></a>
 ### Eagle
-*term* · eagle
+*term*
 
 **In the quoted fraternity of the Rosy Cross, one of two mutually devouring yet loving creatures; tortured, it yields tears, and its 'embers' are obtained at the second gate.**
 
@@ -4872,17 +5228,19 @@ Quoted from the fraternity of the Rosy Cross: the Eagle is one of two creatures 
 **References:** III.3 ¶63
 
 <a id="e0445"></a>
-### early Christians; the wisest Ethnics
+### Early Christians and the wisest Ethnics
 *collective voice* · early Christians, the wisest Ethnics
 
 **Group voices cited together as agreeing that the Mysteries were instituted pure and for the noblest ends.**
 
 Atwood cites them in support of the original purity of the Mysteries: “early Christians concurring with the wisest Ethnics in declaring that they proposed the noblest ends” [II.4 ¶56].
 
+**See also:** [Ethnics](#e0522)
+
 **References:** II.4 ¶56
 
 <a id="e0446"></a>
-### earth
+### Earth
 *term* · our earth, Philosophic Earth
 
 **For Atwood, the crucible for souls as well as bodies; in Hermes, 'our earth', the body of spirit and soul, the feminine earth of the masculine.**
@@ -4891,24 +5249,14 @@ In the Appendix (Table Talk, a later layer), Atwood says “the earth is the cru
 
 In the quoted Hermes, 'our earth' has sulphur as its fatness; the earth begot between water (spirit) and redness (soul) is the body of both — “the earth begot betwixt them is the substance or body of both” [I.3 n21] (= substance or body of both); “the feminine is the earth of the masculine” [I.3 ¶22]; and Magnesia is sown in the Philosophic Earth. Earth is also identified with the residue: “the faeces or earth which remains below” [I.3 ¶23] (= faeces).
 
-**Identified with:** substance or body of both [I.3 n21]; [faeces](#e0554) [I.3 ¶23]
+**Identified with:** substance or body of both [I.3 n21]; [Faeces](#e0554) [I.3 ¶23]
 
-**References:** APP ¶110, I.3 n21, I.3 ¶22, I.3 ¶23
+**See also:** [Our earth](#e1255)
 
-<a id="e0447"></a>
-### earth (interior of the earth)
-*term* · interior of the earth, interiora terrae
-
-**In the sage's saying 'visit the interior of the earth', Atwood reads the earth as our chaotic sense-life, not soil.**
-
-Atwood interprets the sage's saying “Visit the interior of the earth rectifying” [II.3 ¶29]: the earth meant is “not the feculent dead soil, but our dark divulsed chaotic life from sense” [II.3 ¶29] (= our dark divulsed chaotic life from sense).
-
-**Identified with:** our dark divulsed chaotic life from sense [II.3 ¶29]
-
-**References:** II.3 ¶29
+**References:** I.3 n21, I.3 ¶22, I.3 ¶23, APP ¶110
 
 <a id="e0448"></a>
-### Earth of the Wise
+### Earth of the wise
 *term*
 
 **The Hermetists' earth, located within their heaven and named so to distinguish it from the 'feculent dead soil'.**
@@ -4917,10 +5265,12 @@ Atwood says the Hermetists place their earth within their heaven and “call it 
 
 **Identified with:** magical earth / Olympus / Our Earth [III.2 ¶36]
 
+**See also:** [The Wise](#e1944)
+
 **References:** III.2 ¶36
 
 <a id="e0449"></a>
-### earthly vessel
+### Earthly vessel
 *term*
 
 **In the Benedictine Monk, the vessel containing fire, air and water in the work, glossed as the gross body or composition.**
@@ -4929,10 +5279,12 @@ Quoted from the Benedictine Monk: fire, air and water are contained “in their 
 
 **Identified with:** gross body or composition [III.3 ¶24]
 
+**See also:** [Vessel](#e1882)
+
 **References:** III.3 ¶24
 
 <a id="e0450"></a>
-### Eastern temples / the priests at Eleusis
+### Eastern temples and the priests at Eleusis
 *collective voice* · Eastern temples, the priests at Eleusis
 
 **Named as the places and celebrants of the Hermetic purifications and Mysteries.**
@@ -4973,7 +5325,7 @@ In the Appendix (Table Talk, a later layer), Eckhartshausen is cited in support 
 
 <a id="e0454"></a>
 ### Efficient
-*term* · efficient, true efficient, Rational Efficient
+*term* · true efficient, Rational Efficient
 
 **Atwood's term for the active, working cause within the total essence, to be drawn forth, known in co-identity, and related to mind rather than generative life.**
 
@@ -4985,10 +5337,12 @@ In the Appendix (Table Talk, a later layer), Atwood says this life-power is now 
 
 **Identified with:** knowledge [III.1 ¶40]
 
-**References:** APP ¶134, II.3 ¶46, II.3 ¶5, III.1 ¶40, III.1 ¶47, III.1 ¶56, III.2 ¶43, III.2 ¶66, III.3 ¶26, IV.1 ¶48
+**See also:** [Voluntary efficient](#e1913)
+
+**References:** II.3 ¶46, II.3 ¶5, III.1 ¶40, III.1 ¶47, III.1 ¶56, III.2 ¶43, III.2 ¶66, III.3 ¶26, IV.1 ¶48, APP ¶134
 
 <a id="e0455"></a>
-### Efficient Power
+### Efficient power
 *term*
 
 **Atwood's name, in the Appendix, for Causality, of which we ordinarily have no experience; contact with universal power initiates regenerate life.**
@@ -4997,20 +5351,24 @@ In the Appendix (Table Talk, a later layer), Atwood equates it with Causality: �
 
 **Identified with:** Causality [APP ¶175]
 
+**See also:** [The Power](#e1375)
+
 **References:** APP ¶175
 
 <a id="e0456"></a>
-### efflorescent spirit
+### Efflorescent spirit
 *term*
 
 **In Khunrath, something in vegetables that the Stone increases; not further defined.**
 
 Quoted from Khunrath: the Stone acts on “vegetables, by an increase of their efflorescent spirit” [IV.3 ¶28]. Not further defined.
 
+**See also:** [Spirit](#e1644)
+
 **References:** IV.3 ¶28
 
 <a id="e0457"></a>
-### egg
+### Egg
 *term* · our egg
 
 **In Hermes, 'our egg' holds the one disposition sought; the hen's egg is the nearest natural analogue to the art's compound simple.**
@@ -5020,7 +5378,7 @@ Quoted from Hermes: 'our egg' holds the one disposition sought. The hen's egg, m
 **References:** I.3 n26
 
 <a id="e0458"></a>
-### egg of philosophers
+### Egg of philosophers
 *term*
 
 **Atwood's name for the subject when it is 'nothing': a formless, potential state amid its mutations.**
@@ -5029,27 +5387,9 @@ Atwood says the subject, among its mutations, is at one stage nothing “but a p
 
 **Identified with:** potential chaos [I.2 ¶37]
 
+**See also:** [Philosophers](#e1311)
+
 **References:** I.2 ¶37
-
-<a id="e0459"></a>
-### Egyptian Fable of Isis and Osiris
-*collective voice*
-
-**Cited to illustrate Intellect bringing itself into natural effect by begetting a supernatural offspring, represented by the birth of Horus.**
-
-Atwood uses the fable to illustrate Intellect bringing itself into natural effect by begetting a supernatural offspring; the birth of Horus represents the metaphysical offspring [IV.2 ¶6; IV.2 ¶7; IV.2 ¶11].
-
-**References:** IV.2 ¶11, IV.2 ¶6, IV.2 ¶7
-
-<a id="e0460"></a>
-### Egyptian Mythology of Isis and Osiris
-*collective voice*
-
-**The mythology Synesius is said to explain with the enigma of the two pairs of eyes.**
-
-Named as the mythology that Synesius is said to explain by the enigma of the two pairs of eyes [III.1 ¶45].
-
-**References:** III.1 ¶45
 
 <a id="e0461"></a>
 ### Egyptian relics
@@ -5059,20 +5399,24 @@ Named as the mythology that Synesius is said to explain by the enigma of the two
 
 Atwood cites Egyptian relics as depicting the rebellious Principle in human semblance, with emblems of grace and power, seated between his foes [III.1 ¶64].
 
+**See also:** [Egyptians](#e0462)
+
 **References:** III.1 ¶64
 
 <a id="e0462"></a>
-### the Egyptians
-*collective voice* · Egyptians
+### Egyptians
+*collective voice*
 
 **Cited approvingly for teaching self-knowledge and placing the Sphinx before Isis, but in the Appendix criticized as an example of self-willed magic.**
 
 Atwood cites the Egyptians in support of the precept “that Man should know himself” [II.1 ¶39], meant experimentally and ontologically. They placed the Sphinx in the vestibule of Isis, which she reads as Ether guarding Wisdom [III.1 ¶5]. In the Appendix (Table Talk, a later layer) they are criticized as an example of the magic of the self-will: their magicians' “enchantments” drew only on their own strength, and so Egypt fell [APP ¶2; APP ¶4; APP ¶5].
 
-**References:** APP ¶2, APP ¶4, APP ¶5, II.1 ¶39, III.1 ¶5
+**See also:** [Egyptian relics](#e0461)
+
+**References:** II.1 ¶39, III.1 ¶5, APP ¶2, APP ¶4, APP ¶5
 
 <a id="e0463"></a>
-### eighth sphere
+### Eighth sphere
 *term*
 
 **In Poemander's account given by Hermes, Intellect, reached when the ascending part is stripped of all operations; above it powers sing praises to God.**
@@ -5095,7 +5439,7 @@ On the agent: “This Form is Light, the source of central heat” [I.2 ¶45; I.
 
 On practice: “there is no work more tedious than our First Operation” [IV.1 ¶6; IV.1 n5], distinct from the Second, where Nature works alone [IV.1 ¶11]; two contrary works done apart then reconciled — “For what one doth concoct t’other will drive away;” [IV.1 ¶42; IV.1 n37]; a favored case — “of a vulgar ignoramus I became a true Adept” [IV.1 ¶17; IV.1 n18]. For multiplication and projection: “But one at last ting’d ninety thousand more” [IV.3 ¶25; IV.3 n6]; “you will no longer be able to calculate the strength of the medicine” [IV.3 ¶18; IV.3 ¶20; IV.3 n1] — the text attributes ¶18 to the Author of the Open Entrance and ¶20 to E. Philalethes' Introitus Apertus without stating they are one. He is cited for a universal medicine — “even one Adept, were he permitted, might impart health to the whole world” [IV.3 ¶26; IV.3 n7] — after which Atwood tells gold-seekers to disregard such testimony. Within the Adept's words he is cited for the menstruum in the sphere of Saturn that can calcine gold, identified with the Salt [IV.2 ¶30]. In the Appendix (Table Talk, a later layer), “Take that matter which is gold” [APP ¶89] is glossed as finding the magical earth at one's own center. Whether 'the Cosmopolite Eirenaeus' [III.1 ¶64] is a further source or a co-source of the Lion Hunt poem is unclear.
 
-**References:** APP ¶89, I.1 n67, I.1 ¶64, I.1 ¶73, I.1 ¶74, I.1 ¶86, I.2 n44, I.2 n50, I.2 ¶45, I.2 ¶50, I.3 n22, I.3 n39, II.2 n19, II.2 ¶25, II.2 ¶28, III.1 n64, III.1 n73, III.1 ¶13, III.1 ¶14, III.1 ¶58, III.1 ¶59, III.1 ¶64, III.1 ¶69, III.2 ¶7, III.3 n12, III.3 n42, III.3 n46, III.3 ¶22, III.3 ¶67, III.3 ¶68, III.4 n11, III.4 n32, III.4 ¶16, IV.1 n13, IV.1 n18, IV.1 n37, IV.1 n5, IV.1 ¶11, IV.1 ¶17, IV.1 ¶29, IV.1 ¶42, IV.1 ¶6, IV.2 ¶30, IV.3 n1, IV.3 n6, IV.3 n7, IV.3 ¶18, IV.3 ¶20, IV.3 ¶25, IV.3 ¶26
+**References:** I.1 n67, I.1 ¶64, I.1 ¶73, I.1 ¶74, I.1 ¶86, I.2 n44, I.2 n50, I.2 ¶45, I.2 ¶50, I.3 n22, I.3 n39, II.2 n19, II.2 ¶25, II.2 ¶28, III.1 n64, III.1 n73, III.1 ¶13, III.1 ¶14, III.1 ¶58, III.1 ¶59, III.1 ¶64, III.1 ¶69, III.2 ¶7, III.3 n12, III.3 n42, III.3 n46, III.3 ¶22, III.3 ¶67, III.3 ¶68, III.4 n11, III.4 n32, III.4 ¶16, IV.1 n13, IV.1 n18, IV.1 n37, IV.1 n5, IV.1 ¶11, IV.1 ¶17, IV.1 ¶29, IV.1 ¶42, IV.1 ¶6, IV.2 ¶30, IV.3 n1, IV.3 n6, IV.3 n7, IV.3 ¶18, IV.3 ¶20, IV.3 ¶25, IV.3 ¶26, APP ¶89
 
 <a id="e0465"></a>
 ### Election
@@ -5108,7 +5452,7 @@ Quoted from Norton: the Election is the chosen astrological arrangement for the 
 **References:** IV.2 ¶34
 
 <a id="e0466"></a>
-### Elective Attraction
+### Elective attraction
 *term*
 
 **The name given to chemical affinity, which a reader records as ruled by the three principles.**
@@ -5120,7 +5464,7 @@ The text identifies it with chemical affinity: “chemical affinity, called Elec
 **References:** II.1 ¶19
 
 <a id="e0467"></a>
-### elementary ignition
+### Elementary ignition
 *term*
 
 **Ordinary, sensible fire, which Atwood distinguishes from true fire as a mere effect of an antecedent potency.**
@@ -5130,7 +5474,7 @@ Atwood sets true fire apart from the fire of common experience, “distinct from
 **References:** I.2 ¶15
 
 <a id="e0468"></a>
-### elementary world
+### Elementary world
 *term*
 
 **The world over which the regenerate soul gains rule and through which it can pass.**
@@ -5140,8 +5484,8 @@ Atwood speaks of the soul attaining a state “wherein it can rule over the elem
 **References:** IV.4 ¶20
 
 <a id="e0469"></a>
-### elements
-*term* · Elements, element, four elements
+### Elements
+*term* · element, four elements
 
 **In Hermetic usage not common elements or chemical simples, but properties of the universal spirit in the Mercury; the true element is a spirit of life.**
 
@@ -5153,15 +5497,17 @@ Atwood speaks of the soul attaining a state “wherein it can rule over the elem
 
 **Identified with:** elements of the Mercury, properties of the universal spirit [I.2 ¶26]; spirit of life [I.2 ¶26]; four parts or hypostatic relations of the philosophic water [I.3 n5]; Nature ('Her') [III.3 ¶65]; four elements of the Universal Ether [APP ¶69]
 
-**References:** APP ¶69, I.2 ¶26, I.3 n4, I.3 n5, III.3 ¶65, III.3 ¶76, IV.2 ¶14, IV.2 ¶6, IV.3 ¶5
+**References:** I.2 ¶26, I.3 n4, I.3 n5, III.3 ¶65, III.3 ¶76, IV.2 ¶14, IV.2 ¶6, IV.3 ¶5, APP ¶69
 
 <a id="e0470"></a>
-### Eleusian Mysteries (accounts of)
-*collective voice*
+### Eleusian Mysteries
+*collective voice* — *accounts of*
 
 **Accounts of the Eleusian Mysteries, cited by Atwood in support of Wisdom as the offspring of a vital experiment into nature.**
 
 Atwood invokes accounts of the Eleusian Mysteries to support her view that Wisdom is the offspring of a vital experiment into nature [II.1 ¶52].
+
+**See also:** [Mysteries](#e1154)
 
 **References:** II.1 ¶52
 
@@ -5183,11 +5529,13 @@ Atwood reports the saying of the Adepts: “Natus est jam Elias Artista (5); Eli
 
 In the Appendix (Table Talk, a later layer), Atwood says that when the metal bond is broken “the Elias spirit is born and his work is to prepare for something higher.” [APP ¶139]
 
+**See also:** [Spirit](#e1644)
+
 **References:** APP ¶139
 
 <a id="e0473"></a>
 ### Elixir
-*term* · elixir
+*term*
 
 **The healing, life-prolonging and transmuting product of the Art, named in many reports of adepts and in quoted verse; also used of the soul's immortal fortification.**
 
@@ -5204,17 +5552,19 @@ In the Appendix (Table Talk, a later layer), Atwood says that when the metal bon
 **References:** I.1 ¶36, I.1 ¶45, I.1 ¶64, I.1 ¶66, I.1 ¶73, I.1 ¶74, I.2 ¶25, I.2 ¶41, II.3 ¶39, III.1 ¶62, IV.2 ¶34
 
 <a id="e0474"></a>
-### elixir and gold
+### Elixir and gold
 *term*
 
 **Intermediate fruits of the Vital Experiment, called vital products, whose exhibition without disclosure of source astonished common chemistry.**
 
 Atwood treats elixir and gold together as intermediate fruits of the Vital Experiment: “Both of which are vital products” [II.4 ¶58]. Exhibited without discovery of their source, they caused much astonishment to common chemistry [II.4 ¶58].
 
+**See also:** [Gold](#e1754)
+
 **References:** II.4 ¶58
 
 <a id="e0475"></a>
-### elixir of Light
+### Elixir of light
 *term*
 
 **Light set free from the central essence, said to prolong life and cure disease and moral and physical defects.**
@@ -5222,6 +5572,8 @@ Atwood treats elixir and gold together as intermediate fruits of the Vital Exper
 Atwood: “This is the elixir of Light from the central essence” [I.3 n18]. In the same note it is identified with the tincture of many dyes and with the union of the purified spirit with its course, and is said to prolong life and to cure disease and moral and physical defects [I.3 n18].
 
 **Identified with:** tincture of many dyes / union of the purified spirit with its course [I.3 n18]
+
+**See also:** [Light](#e0962)
 
 **References:** I.3 n18
 
@@ -5235,22 +5587,24 @@ For Atwood, Elysium is a state transcending corporeal life and generation, the g
 
 **Identities asserted:** the Islands of the Blessed — “is denominated the Islands of the Blessed; and these are the same with the Elysian Fields” [II.4 ¶3]; the enclosed garden of Solomon and the Terrestrial Paradise — “This is Elysium, the enclosed garden of Solomon, where God condescends to walk and drink of the sealed fountain; the true Terrestrial Paradise” [II.4 ¶9].
 
-**Identified with:** [Islands of the Blessed](#e0900) [II.4 ¶3]; enclosed garden of Solomon [II.4 ¶9]; Terrestrial Paradise [II.4 ¶9]
+**Identified with:** [Islands of the blessed](#e0900) [II.4 ¶3]; enclosed garden of Solomon [II.4 ¶9]; Terrestrial Paradise [II.4 ¶9]
 
 **References:** II.4 ¶15, II.4 ¶3, II.4 ¶9
 
 <a id="e0477"></a>
 ### Elysian light
-*term* · elysian light
+*term*
 
 **The light reached after passing through the dark region; the object of inquiry and the state into which the liberated soul passes.**
 
 Atwood says the dark region must be traversed “before inquiry can hope to meet its object in the Elysian light” [II.3 ¶5]. It is the state into which the liberated soul passes; she illustrates with Aeneas “going forth to meet his father in the Elysian fields” [II.4 ¶21], where he receives the Epopteia. See also Elysian Fields.
 
+**See also:** [Light](#e0962)
+
 **References:** II.3 ¶5, II.4 ¶21
 
 <a id="e0478"></a>
-### emanation
+### Emanation
 *term*
 
 **The doctrine by which the physical universe proceeds from the superstantial Light or will and is extended and corporified by multiplication of the unit.**
@@ -5259,9 +5613,9 @@ Atwood presents an essential emanation as Kabalistic doctrine: “according to t
 
 **Identity asserted:** darkness [APP ¶66].
 
-**Identified with:** [darkness](#e0358) [APP ¶66]
+**Identified with:** [Darkness](#e0358) [APP ¶66]
 
-**References:** APP ¶66, III.2 ¶3
+**References:** III.2 ¶3, APP ¶66
 
 <a id="e0479"></a>
 ### Emily Bronte
@@ -5274,7 +5628,7 @@ In the Appendix (Table Talk, later layer), Wuthering Heights is criticized as a 
 **References:** APP ¶175
 
 <a id="e0480"></a>
-### emotion
+### Emotion
 *term*
 
 **A mid-point between mind and matter, by which mind is moved into matter.**
@@ -5294,7 +5648,7 @@ Atwood cites Empedocles approvingly on several points. On our desertion of the b
 **References:** II.4 n16, II.4 ¶10, II.4 ¶26, II.4 ¶27, II.4 ¶28, II.4 ¶9, III.2 n35, III.2 ¶33, III.2 ¶34, III.2 ¶38, III.2 ¶39
 
 <a id="e0482"></a>
-### empirical
+### Empirical
 *term*
 
 **Used pejoratively of knowledge lacking the experience, gained only by observing remote effects.**
@@ -5304,7 +5658,7 @@ Atwood: “All our knowledge without the experience is empirical, the result onl
 **References:** IV.4 ¶12
 
 <a id="e0483"></a>
-### encaustic
+### Encaustic
 *term*
 
 **Something Hermes says is made from the golden matter; not explained in the text.**
@@ -5341,15 +5695,19 @@ In the Appendix (Table Talk, later layer), Engelbrecht is criticized as a vision
 
 The first class of prayer is described as “seeking a clue whereby it may enter the intelligible profundity of the Enigma” [III.4 ¶24]. Its solution arises from labour and desire, even from attempts “which were not the solution of the Enigma, the solution itself arose” [III.4 ¶22]; unfolding it opens the mystery of all things. The voice of these passages is unclear in the records.
 
+**See also:** [Enigma (a work)](#e0487)
+
 **References:** III.4 ¶22, III.4 ¶24
 
 <a id="e0487"></a>
-### the Enigma
-*treatise*
+### Enigma
+*treatise* — *a work*
 
 **A work cited by Atwood as celebrating the Laelia Aelia as comprehending all.**
 
 Atwood cites the Enigma as celebrating the Laelia Aelia as comprehending all [I.2 ¶34].
+
+**See also:** [Enigma](#e0486)
 
 **References:** I.2 ¶34
 
@@ -5365,6 +5723,8 @@ Atwood glosses the riddle plainly: “to solve the Enigma of the Sphinx; in othe
 
 **Identified with:** the darkened essence of his natural understanding (to be penetrated rationally) [IV.1 ¶48]
 
+**See also:** [Sphinx](#e1639)
+
 **References:** IV.1 ¶48
 
 <a id="e0489"></a>
@@ -5378,7 +5738,7 @@ Atwood cites the Enigma Philosophicum (Ashmole’s Theatrum, p. 423) in support 
 **References:** III.3 n24, III.3 ¶36
 
 <a id="e0490"></a>
-### ens
+### Ens
 *term* · last ens
 
 **An entity; in the Table Talk, such an ens is said to underlie the philosophic stone and to be the final term to which the sensual medium is brought.**
@@ -5388,17 +5748,19 @@ In the Appendix (Table Talk, later layer), Atwood says “such an ens was the ba
 **References:** APP ¶108, APP ¶110
 
 <a id="e0491"></a>
-### ens of light
-*term* · Ens of Light, ens of Light
+### Ens of light
+*term*
 
 **An entity of light, the purer conscious ens carried back to God; named with the rejected Corner Stone as what the wise raise.**
 
 In the Appendix (Table Talk, later layer), Atwood speaks of “the purer conscious ens of light” [APP ¶78] carried back to God, and per the reader's record relates it to the excruciated Philosophic Matter and the real Stone [APP ¶78]. In the main text the wise “raise their rejected Corner Stone and Ens of Light” [II.1 ¶8] in the living temple; it is not separately defined there.
 
-**References:** APP ¶78, II.1 ¶8
+**See also:** [Light](#e0962)
+
+**References:** II.1 ¶8, APP ¶78
 
 <a id="e0492"></a>
-### enthusiasm
+### Enthusiasm
 *term* · enthusiastic energy
 
 **The state of being agitated by the inspiring influence of divinity, contrary to phantasy; distinguished by the ancients from fanaticism.**
@@ -5408,18 +5770,20 @@ Olympiodorus, quoted: “when we are agitated by the inspiring influence of divi
 **References:** II.2 ¶12, II.4 ¶29
 
 <a id="e0493"></a>
-### entranced Subject
+### Entranced subject
 *term*
 
 **The person in trance, susceptible to imaginative impressions that linger in a place.**
 
 Atwood: “the entranced Subject is more or less susceptible of all imaginative impressures” [III.4 ¶42], including, per the reader's record, those lingering in the place.
 
+**See also:** [Subject](#e1675)
+
 **References:** III.4 ¶42
 
 <a id="e0494"></a>
-### envious
-*term* · envious (of the philosophers)
+### Envious
+*term*
 
 **Said of philosophers in a special sense: they withhold the truth only from the ignorant and vicious, not from the just or wise.**
 
@@ -5438,7 +5802,7 @@ Atwood cites Epictetus in support: the Mysteries become venerable when one belie
 **References:** II.4 ¶57
 
 <a id="e0496"></a>
-### the Epidaurian
+### Epidaurian
 *collective voice*
 
 **An initiate whose account, cited from Apuleius's Metamorphoses Book 11, Atwood uses to illustrate what was done in the Mysteries.**
@@ -5459,7 +5823,7 @@ Cited from the end of the *Epistle to Trithemius* (quoted voice) in support of t
 
 <a id="e0498"></a>
 ### Epopteia
-*term* · epopteia
+*term*
 
 **The final grade of initiation, following telete and muesis, in which initiates are fixed as spectators of the intelligible and shown the Universal Nature and the soul.**
 
@@ -5468,12 +5832,14 @@ In Atwood's account (ATWOOD voice), epopteia is the last of three grades of init
 **References:** II.4 ¶23
 
 <a id="e0499"></a>
-### equilibriate virtue
+### Equilibriate virtue
 *term*
 
 **In Khunrath's words, the Stone's balancing power by which it drives out suffering and disease of mind and body.**
 
 Quoted from Khunrath: the Stone “by its own equilibriate virtue expels suffering and every disease whether of mind or body” [IV.3 ¶28]. The context suggests a link with the health described nearby, from Julian, as a symmetry or equilibrium of nature [IV.3 ¶30]; the connection is the reader's comparison, not stated outright.
+
+**See also:** [Virtue](#e1886)
 
 **References:** IV.3 ¶28
 
@@ -5509,7 +5875,7 @@ Atwood quotes Esdras (Book 1, cap. 3) to illustrate that few attain the work: �
 
 <a id="e0503"></a>
 ### Essence
-*term* · essence
+*term*
 
 **In Eirenaeus, what gold and Mercury are recongealed into, healing all griefs; in Aristotle and Porphyry, separate particular subsistence and one's own Essence to be established in.**
 
@@ -5524,7 +5890,7 @@ These uses are not reconciled in the records.
 **References:** III.1 ¶69, III.2 ¶53, III.2 ¶59
 
 <a id="e0504"></a>
-### Essence of Light
+### Essence of light
 *term*
 
 **What the Stone is made manifest as; identified with the true Form or Idea of Gold (Appendix).**
@@ -5533,25 +5899,31 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood says the Stone i
 
 **Identified with:** true Form or Idea of Gold [APP ¶6]
 
+**See also:** [Light](#e0962)
+
 **References:** APP ¶6
 
 <a id="e0505"></a>
-### essential intellect
+### Essential Intellect
 *term*
 
 **In the Aristotle passage, the intellect to which human reason is subordinate.**
 
 Quoted from Aristotle: human reason is described as subordinate “on account of its subordination to essential intellect” [II.1 ¶34].
 
+**See also:** [Intellect](#e0867)
+
 **References:** II.1 ¶34
 
 <a id="e0506"></a>
-### Eternal Essence
+### Eternal essence
 *term*
 
 **In Porphyry, an essence infinite in power, self-established and self-sufficient, to which nothing can be added and which place or relation would diminish.**
 
 Atwood quotes Porphyry (spelled here “Prophyry”): “When you have assumed to yourself an Eternal Essence, says Prophyry, infinite in itself according to power” [III.2 ¶59]. Such an essence is self-established and self-sufficient, seeking nothing but itself; nothing can be added to it, and adding place or relation diminishes it; “it is much more sufficient than any perpetually flowing fountain can be conceived to be” [III.2 ¶59].
+
+**See also:** [Essence](#e0503)
 
 **References:** III.2 ¶59
 
@@ -5563,11 +5935,13 @@ Atwood quotes Porphyry (spelled here “Prophyry”): “When you have assumed t
 
 Quoted from the theosophist: in Adam's Paradisiacal innocency “The Eternal Word was his leader, and had dominion in him” [IV.3 ¶38].
 
+**See also:** [Word](#e1950)
+
 **References:** IV.3 ¶38
 
 <a id="e0508"></a>
 ### Ether
-*term* · ether, Free Ether, Universal Ether, pure Ether, Aether, Aethera, Ethe, most supreme Ether, passive Ether
+*term* · Free Ether, Universal Ether, pure Ether, Aether, Aethera, Ethe, most supreme Ether, passive Ether
 
 **Atwood's universal subtle medium: an all-pervading perfective essence, vehicle of the world-soul, which, separated and purified, is the matter of the Stone and rises into Light.**
 
@@ -5579,12 +5953,12 @@ Quoted from the theosophist: in Adam's Paradisiacal innocency “The Eternal Wor
 
 **Appendix (Table Talk, begun 1860, later layer).** “The Ether is two-fold: the mundane, which is full of the false forms; the pure, which is not of this world” [APP ¶64]; it is “a quintessence of those very four principles” and “the Quintessence of both worlds” [APP ¶69]; each has “a scrap of that ether shut in at our birth-conception”, “the omnia in omnibus of the Hermetic Riddle” [APP ¶119]; the spirit-man's work “is to move the Ether” [APP ¶139]; of Lucifer, ether is identified with Heaven: “burn up the ether which was Heaven.” [APP ¶133]; “The Ether is the universal extended Matter; the Divine posit everywhere; life.” [APP ¶179].
 
-**Identified with:** quintessence of the four principles called elements [APP ¶69]; Quintessence of both worlds [APP ¶69]; omnia in omnibus of the Hermetic Riddle [APP ¶119]; [heaven](#e0735) [APP ¶133]; universal extended Matter; life [APP ¶179]; pure invisible fire [I.2 ¶14]; mineral tree [II.3 ¶18]; Augean palace [II.3 ¶56]; Sphinx of the Universe [III.1 ¶5]; [Non-being](#e1195) [III.3 ¶15]; Jove [I.2 ¶17]
+**Identified with:** quintessence of the four principles called elements [APP ¶69]; Quintessence of both worlds [APP ¶69]; omnia in omnibus of the Hermetic Riddle [APP ¶119]; [Heaven](#e0735) [APP ¶133]; universal extended Matter; life [APP ¶179]; pure invisible fire [I.2 ¶14]; mineral tree [II.3 ¶18]; Augean palace [II.3 ¶56]; Sphinx of the Universe [III.1 ¶5]; [Non-being](#e1195) [III.3 ¶15]; Jove [I.2 ¶17]
 
-**References:** APP ¶119, APP ¶133, APP ¶139, APP ¶170, APP ¶179, APP ¶64, APP ¶69, I.1 ¶20, I.2 ¶12, I.2 ¶14, I.2 ¶16, I.2 ¶17, I.2 ¶46, II.1 ¶6, II.3 ¶18, II.3 ¶56, II.4 ¶29, II.4 ¶36, II.4 ¶40, III.1 ¶13, III.1 ¶21, III.1 ¶5, III.2 ¶16, III.2 ¶37, III.3 ¶10, III.3 ¶15, III.3 ¶9, III.4 ¶42, IV.1 ¶33, IV.1 ¶4, IV.4 ¶10, IV.4 ¶2, IV.4 ¶4
+**References:** I.1 ¶20, I.2 ¶12, I.2 ¶14, I.2 ¶16, I.2 ¶17, I.2 ¶46, II.1 ¶6, II.3 ¶18, II.3 ¶56, II.4 ¶29, II.4 ¶36, II.4 ¶40, III.1 ¶13, III.1 ¶21, III.1 ¶5, III.2 ¶16, III.2 ¶37, III.3 ¶10, III.3 ¶15, III.3 ¶9, III.4 ¶42, IV.1 ¶33, IV.1 ¶4, IV.4 ¶10, IV.4 ¶2, IV.4 ¶4, APP ¶119, APP ¶133, APP ¶139, APP ¶170, APP ¶179, APP ¶64, APP ¶69
 
 <a id="e0509"></a>
-### Ether Natural
+### Ether natural
 *term*
 
 **In the Appendix, the first Ether arising from nature, through which thoughts, images, passions and desires rise to their own sphere, beneath the pure Ether and the Divine Light.**
@@ -5594,7 +5968,7 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood says thoughts, i
 **References:** APP ¶170
 
 <a id="e0510"></a>
-### Etheral Quintessence
+### Etheral quintessence
 *term* · Ethereal Quintessences
 
 **The ethereal which art separates from mortal existence, read as Plato's One Whole and Aristotle's perfect world; its estates rise successively, figured in Hesiod's generations.**
@@ -5602,6 +5976,8 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood says thoughts, i
 Atwood (ATWOOD voice) reads Plato and Aristotle as pointing to it: “Plato yet more plainly alluding to the Etheral Quintessence, in Timaeus, says, that of four elements the Demiurgus assumed One Whole from wholes” — perfect and free from age and disease; of such descriptions she asks “what other, therefore, should they either mean but the ethereal” [III.2 ¶38]. In the plural, the Ethereal Quintessences are successive estates called forth by the light and heat of the superincumbent mind: “the several estates of the Ethereal Quintessences arising one above another”, figured in Hesiod's generations [III.3 ¶42].
 
 **Identified with:** One Whole from wholes (Plato) [III.2 ¶38]
+
+**See also:** [Quintessence](#e1442)
 
 **References:** III.2 ¶38, III.3 ¶42
 
@@ -5613,30 +5989,36 @@ Atwood (ATWOOD voice) reads Plato and Aristotle as pointing to it: “Plato yet 
 
 Atwood (ATWOOD voice) says the authors' various names (sulfur, mercury, earth, twofold or third matter) refer to “the magnetic relation, action, and passion of the Ethereal being in itself” [I.2 ¶42].
 
+**See also:** [Being](#e0173)
+
 **References:** I.2 ¶42
 
 <a id="e0512"></a>
-### ethereal element
+### Ethereal element
 *term*
 
 **The subject described by negations (no form, quality, body, reason or bound, but a certain Infinity) in Atwood's discussion of Matter.**
 
 Continuing her discussion of Matter, Atwood writes: “But since the ethereal element is described by so many ablative characteristics” [III.2 ¶53], namely that it is neither form, quality, body, reason nor bound, but a certain Infinity. The text does not state that the ethereal element is the same as Matter, though the context suggests a close link.
 
+**See also:** [Elements](#e0469)
+
 **References:** III.2 ¶53
 
 <a id="e0513"></a>
-### ethereal glass
+### Ethereal glass
 *term*
 
 **Something passive to intellect as a mirror is to images, subsisting without imagination, felt rather than known; the Passive Nature is said to be of this kind.**
 
 Atwood (ATWOOD voice) compares it to a mirror: “so is this ethereal glass to intellect, subsisting according to processure and in defect of all imagination” [III.2 ¶60]. It is felt, not known, and the Passive Nature is said to be a thing of this kind [III.2 ¶60].
 
+**See also:** [Glass](#e0671)
+
 **References:** III.2 ¶60
 
 <a id="e0514"></a>
-### ethereal humidity
+### Ethereal humidity
 *term*
 
 **The moisture that nourishes and educates the Solar Light, set beside Luna as 'Domina Humiditatis'.**
@@ -5646,12 +6028,14 @@ Atwood (ATWOOD voice): “The ethereal humidity nourishes the Solar Light and ed
 **References:** IV.1 ¶29
 
 <a id="e0515"></a>
-### ethereal hypostasis
-*term* · Ethereal Hypostasis
+### Ethereal hypostasis
+*term*
 
 **The Greek counterpart of the alchemists' first matter: the one life-substance divided into three principles in dissolution, which revolves in its First Cause when the Stone is confirmed.**
 
 Atwood (ATWOOD voice) treats it as the Greek counterpart of the alchemists' first matter: “that ethereal hypostasis we were before discussing” [III.1 ¶3]. In the dissolution, “the ethereal hypostasis is divided against itself and brought to a separation even as these three” principles [III.1 ¶53]. When the Stone is confirmed, rising in rational supremacy over sense and finite reflection, “the Ethereal Hypostasis revolves in its First Cause” [IV.3 ¶62]; that passage does not define it further. See also “filling the Ethereal Hypostasis with acme and power” [II.4 ¶29].
+
+**See also:** [Hypostasis](#e0806)
 
 **References:** III.1 ¶3, III.1 ¶53, IV.3 ¶62
 
@@ -5666,8 +6050,8 @@ Atwood (ATWOOD voice): in the Fifth Essence “the Ethereal Quadrangle becomes a
 **References:** III.3 ¶32
 
 <a id="e0517"></a>
-### ethereal spirit
-*term* · Ethereal Spirit, Etherial Spirit
+### Ethereal spirit
+*term* · Etherial Spirit
 
 **The sought spirit, never existing separately on earth but hidden in the beings it sustains; in Synesius, the intermediate nature joining divine and lowest, phantastic until purified by art.**
 
@@ -5675,30 +6059,36 @@ Atwood (ATWOOD voice): “the ethereal spirit does not subsist of itself, separa
 
 **Identified with:** [Sphinx](#e1639) [III.1 ¶20]; natural understanding essence [II.2 ¶10]
 
+**See also:** [Spirit](#e1644)
+
 **References:** I.2 ¶20, II.2 ¶10, III.1 ¶20
 
 <a id="e0518"></a>
-### ethereal vehicle
+### Ethereal vehicle
 *term*
 
 **The prepared medium in which the seed of gold is planted so as to bring forth its virtue in manifold increase.**
 
 Atwood (ATWOOD voice): the seed of gold must be “planted in its proper ethereal vehicle, well prepared and fallow” to bring forth its virtue in manifold increase [I.3 n40]. Elsewhere the divine unions “tried the ethereal vehicle to its utmost susceptibility” [II.4 ¶40].
 
+**See also:** [Vehicle](#e1879)
+
 **References:** I.3 n40
 
 <a id="e0519"></a>
-### ethereal waters
+### Ethereal waters
 *term*
 
 **The waters on which the displaced sulfur floats while they tear, decoct and soften the sensual dominant.**
 
 Atwood (ATWOOD voice): the displaced sulfur is made “to float upon the ethereal waters, whilst these continue to tear, decoct, and soften the sensual dominant” [III.1 ¶53].
 
+**See also:** [Water](#e1920)
+
 **References:** III.1 ¶53
 
 <a id="e0520"></a>
-### the Ethics
+### Ethics
 *treatise*
 
 **A work cited for Tartarus as the region next beyond Hades.**
@@ -5707,25 +6097,19 @@ Cited for Tartarus as the next region beyond Hades [II.3 ¶36].
 
 **References:** II.3 ¶36
 
-<a id="e0521"></a>
-### Ethnic
-*term*
-
-**Used in contrast to Christian; not further defined.**
-
-Used by Atwood in contrast to Christian, “both Ethnic and Christian” [II.2 ¶5]; the text does not define it further.
-
-**References:** II.2 ¶5
-
-<a id="e0522"></a>
-### the Ethnics
-*collective voice*
+<a id="e0522"></a><a id="e0521"></a>
+### Ethnics
+*collective voice* · Ethnic
 
 **A group whose Anima Mundi doctrine Atwood says agrees in substance with Hebrew doctrine.**
 
 Atwood says the Ethnics' doctrine of the Anima Mundi agrees in substance with Hebrew doctrine [I.2 ¶14].
 
-**References:** I.2 ¶14
+*Ethnic.* Used by Atwood in contrast to Christian, “both Ethnic and Christian” [II.2 ¶5]; the text does not define it further.
+
+**See also:** [Early Christians and the wisest Ethnics](#e0445)
+
+**References:** I.2 ¶14, II.2 ¶5
 
 <a id="e0523"></a>
 ### Eudoxus
@@ -5745,6 +6129,8 @@ Atwood cites Eudoxus's introduction to the Six Keys in support of the view that 
 
 Atwood cites Eudoxus in Plutarch, *De Iside et Osiride*, for the myth in which Isis frees Jupiter's grown-together feet; she reads it as an allegory of the Art. The interpretation quoted: “the mind and reason of the Supreme God, which in nature is invisible and dwelling in obscurity, by being put in motion becomes known” [III.1 ¶23; III.1 n28].
 
+**See also:** [Plutarch](#e1352)
+
 **References:** III.1 n28, III.1 ¶23
 
 <a id="e0525"></a>
@@ -5758,7 +6144,7 @@ Atwood quotes Euripides (quoted voice) in support of her account of Ether as all
 **References:** I.2 n16, I.2 ¶17, II.2 n8, II.2 ¶5, II.3 n48, II.3 ¶36, II.3 ¶43, II.3 ¶44
 
 <a id="e0526"></a>
-### evestrum
+### Evestrum
 *term* · Divine evestrum
 
 **Paracelsus's term, used by Atwood in the Appendix for the dream of its whole afterlife the soul brings into the body, its destiny; God's grace is the Divine evestrum relative to man.**
@@ -5768,7 +6154,7 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood takes up Paracel
 **References:** APP ¶57
 
 <a id="e0527"></a>
-### exalted energy
+### Exalted energy
 *term*
 
 **What the abusers of the art succeeded in inducing before denying the Light its fulfilment; not further defined.**
@@ -5777,18 +6163,8 @@ Atwood (her own voice) says the abusers of the work denied the Light its fulfilm
 
 **References:** III.4 ¶6
 
-<a id="e0528"></a>
-### the excellent author of the Aquarium Sapientum, or Water Stone
-*collective voice* · the pious author of the Aquarium, author of the Aquarium Sapientum, author of the Aquarium
-
-**The author of the Aquarium Sapientum, or Water Stone, cited by Atwood for the spirit-soul-body cycle and for the warning that pride or covetousness makes the art vanish.**
-
-Atwood cites this author from the Aquarium Sapientum (in the Musaeum Hermeticum) for a Latin enigma illustrating the separation, putrefaction and reunion of spirit, soul and body: “Spiritus ipse datur pro tempore corpori” [I.3 n21] (our rendering: the spirit itself is given to the body for a time). Elsewhere, as “the pious author of the Aquarium”, he supports her point that pride or covetousness after possession makes the art disappear: “this art will vanish from under thy hands” [III.4 ¶7; III.4 n4]. Atwood endorses this warning.
-
-**References:** I.3 n21, III.4 n4, III.4 ¶7
-
 <a id="e0529"></a>
-### excrements
+### Excrements
 *term*
 
 **In the verse Hunting of the Greene Lyon, the residue taken away once the matter has grown very dry, before the young Child is lodged in a bright bed.**
@@ -5805,25 +6181,31 @@ The word occurs in the quoted verse of The Hunting of the Greene Lyon: when the 
 
 Atwood speaks of the Substant Unity as “the fountain of Universal nature and her Exemplary Law” [III.3 ¶79]. The text gives no further definition.
 
+**See also:** [Law](#e0945)
+
 **References:** III.3 ¶79
 
 <a id="e0531"></a>
-### Exemplary Light
+### Exemplary light
 *term*
 
 **That without which, Atwood says, every plan of improvement is defective; not further defined.**
 
 Atwood judges “every plan defective without the Exemplary Light” [IV.4 ¶18]. The expression is not further defined in the records.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.4 ¶18
 
 <a id="e0532"></a>
-### exemplary Logos
+### Exemplary Logos
 *term*
 
 **In Atwood's words, the Logos hidden and slain from the foundation in the fiat of our Identity, occulted in two diametrically reverse poles or principles.**
 
 Atwood writes that “the exemplary Logos is hidden, --- slain from the foundation in the exterminating fiat of our Identity” [III.3 ¶79]; its occultation lies in two diametrically reverse poles or principles. The text does not define it further.
+
+**See also:** [Logos](#e0983)
 
 **References:** III.3 ¶79
 
@@ -5839,7 +6221,7 @@ The word appears in the heading of Part I: “An Exoteric View of the Progress a
 
 <a id="e0534"></a>
 ### Experience
-*term* · experience
+*term*
 
 **In the verse Tablet, a personified creative power that framed all things from nothing; in Atwood's prose, the resulting experience of life, third of the alchemical Three.**
 
@@ -5848,7 +6230,7 @@ The voice is unclear. In the verse rendering of the Tablet the speaker addresses
 **References:** III.3 ¶76, III.3 ¶77
 
 <a id="e0535"></a>
-### the experienced
+### The experienced
 *collective voice*
 
 **An unnamed authority Atwood relies on for man's connection to the fountain of Universal Nature.**
@@ -5859,7 +6241,7 @@ Atwood appeals to “the experienced” without naming them, on the point of our
 
 <a id="e0536"></a>
 ### Experiment
-*term* · experiment, experimental, Divine Experiment, vital experiment, this Experiment
+*term* · experimental, Divine Experiment, vital experiment, this Experiment
 
 **Atwood's word for the practical hermetic work itself, seldom attempted and more rarely completed, through which the ancients found their whole philosophy and the Fathers came into Experience.**
 
@@ -5867,23 +6249,27 @@ In Atwood's own voice the Experiment is the practical work: “That was the Expe
 
 The adjective “experimental” carries the same weight in Part I: Democritus is styled “the father of experimental philosophy” and “Pliny bears witness to the experimental fame of Democritus, and his skill in the occult sciences and practice of them” [I.1 ¶12]; Aristotle “led mankind astray from the path of true experiment” [I.1 ¶16]; the theosophic schools are “based on a similar experimental ground” [I.1 ¶17], where practical science is set against abstracts. Contrast Atwood's critical use of “experimental philosophy” for modern science [IV.4 ¶30].
 
-**Identified with:** [pyrotechnical induction](#e1432) [IV.4 ¶9]
+**Identified with:** [Pyrotechnical induction](#e1432) [IV.4 ¶9]
+
+**See also:** [Vital experiment](#e1894)
 
 **References:** I.1 ¶12, I.1 ¶16, I.1 ¶17, III.3 ¶61, III.4 ¶45, IV.4 ¶7, IV.4 ¶9
 
 <a id="e0537"></a>
-### the experimental adeptist
+### Experimental adeptist
 *collective voice*
 
 **The voice cited from the Philosophical Epitaph of W.C., cited for the reversal of death in the work.**
 
 Atwood cites the title page of the Philosophical Epitaph of W.C. to illustrate the overcoming of death in the work: “O death how art thou vanquished” [I.3 n43].
 
+**See also:** [Adept](#e0018)
+
 **References:** I.3 n43
 
 <a id="e0538"></a>
 ### Experimental knowledge
-*term* · experimental knowledge
+*term*
 
 **What the soul has not yet attained while she regards her image objectively and is 'in Hades'.**
 
@@ -5892,17 +6278,19 @@ Atwood describes the soul, while she regards her image objectively and is in Had
 **References:** II.3 ¶36
 
 <a id="e0539"></a>
-### experimental philosophy
+### Experimental philosophy
 *term*
 
 **Atwood's name for modern science following Lord Bacon's 'exterminating chase', which she says labours for selfish aggrandizement.**
 
 Atwood, in her own voice, criticizes modern science led by Lord Bacon's “exterminating chase”: “experimental philosophy labours for selfish aggrandizement” [IV.4 ¶30].
 
+**See also:** [Philosophy](#e1333)
+
 **References:** IV.4 ¶30
 
 <a id="e0540"></a>
-### experimental proof
+### Experimental proof
 *term*
 
 **The practical stage of the art, which follows study of the doctrine.**
@@ -5912,7 +6300,7 @@ Atwood distinguishes study of the doctrine from what “is afterwards needed for
 **References:** III.4 ¶15
 
 <a id="e0541"></a>
-### expiation
+### Expiation
 *term*
 
 **A required means of approaching the secrets of the highest causes, which Atwood compares to Charon's fee.**
@@ -5922,7 +6310,7 @@ Atwood states: “neither are the secrets of the highest causes approached witho
 **References:** III.2 ¶44
 
 <a id="e0542"></a>
-### the expounders
+### Expounders
 *collective voice*
 
 **Unnamed interpreters of the Mysteries whose narcotic explanation of initiatory transfiguration Atwood rejects.**
@@ -5932,7 +6320,7 @@ Atwood reports the expounders' view that “all this splendid delirium and trans
 **References:** II.4 ¶56
 
 <a id="e0543"></a>
-### exstasis
+### Exstasis
 *term*
 
 **In the Appendix, the means by which the desire of the lower life opens into the heart life.**
@@ -5942,7 +6330,7 @@ In the Appendix (Table Talk, a later layer), Atwood describes the desire of the 
 **References:** APP ¶97
 
 <a id="e0544"></a>
-### External and Internal Worlds
+### External and internal worlds
 *term*
 
 **Outer and inner reality, which at the completion of the work are seen to blend and confirm each other.**
@@ -5952,17 +6340,19 @@ Atwood writes that at the completion “the External and Internal Worlds were se
 **References:** III.3 ¶82
 
 <a id="e0545"></a>
-### external fire
+### External fire
 *term*
 
 **In Eirenaeus, the well-regulated outward heat that alone assists Nature in the Second operation.**
 
 Quoting Eirenaeus, Atwood gives the Second operation as performed by Nature “by the sole assistance of a well-regulated external fire” [IV.1 ¶11].
 
+**See also:** [Fire](#e0575)
+
 **References:** IV.1 ¶11
 
 <a id="e0546"></a>
-### external man
+### External man
 *term*
 
 **Boehme's term for the outward self, which could hardly grasp or express what he had seen inwardly.**
@@ -5983,45 +6373,35 @@ Faber is listed in a note with the work Opera Medico-Chimica [I.1 ¶70; I.1 n88]
 
 **References:** I.1 n88, I.1 ¶64, I.1 ¶70, III.1 ¶25, IV.1 ¶36
 
-<a id="e0548"></a>
-### fable of Isis
-*collective voice*
+<a id="e0459"></a><a id="e0460"></a><a id="e0898"></a><a id="e0550"></a>
+### Fable of Isis and Osiris
+*collective voice* · Egyptian Fable of Isis and Osiris, Egyptian Mythology of Isis and Osiris, Isis, Osiris
 
-**The fable of Isis feeding Horus with fire, cited to illustrate nourishing the son with fire.**
+**Cited to illustrate Intellect bringing itself into natural effect by begetting a supernatural offspring, represented by the birth of Horus.**
 
-Atwood cites the fable in which “she brought forth Horus, even feeding him with fire” [I.3 n41], to illustrate the nourishing of the son with fire.
+Atwood uses the fable to illustrate Intellect bringing itself into natural effect by begetting a supernatural offspring; the birth of Horus represents the metaphysical offspring [IV.2 ¶6; IV.2 ¶7; IV.2 ¶11].
 
-**References:** I.3 n41
+*Egyptian Mythology of Isis and Osiris.* Named as the mythology that Synesius is said to explain by the enigma of the two pairs of eyes [III.1 ¶45].
+
+*Isis and Osiris.* Atwood uses the pair as an image: reason constantly seeks her true Hypostasis “as Isis for Osiris” [II.3 ¶46].
+
+*Fable (Typhon, Osiris, Isis; the Egyptian monarch).* Atwood reads the fable that “Typhon killed Osiris, his uterine brother, and scattered his members to the four winds” [III.1 ¶53] as illustrating the threefold division of the ethereal hypostasis; the hair grown in Ethiopia figures the fire allowed to grow [III.1 ¶56]; and Isis figures the reconciling of the opposites [III.1 ¶63].
+
+**See also:** [Dead and revived god (Cadmillus, Atys, Adonis, Osiris)](#e0219), [Isis](#e0897), [Osiris](#e1249)
+
+**References:** II.3 ¶46, III.1 ¶45, III.1 ¶53, III.1 ¶56, III.1 ¶63, IV.2 ¶11, IV.2 ¶6, IV.2 ¶7
 
 <a id="e0549"></a>
-### fable of Mars and Venus taken together by Vulcan
+### Fable of Mars and Venus taken together by Vulcan
 *collective voice*
 
 **The fable cited to illustrate the need of the masculine tincture with Venus, with fuller explanation deferred.**
 
 Atwood cites the fable of Mars and Venus caught together by Vulcan to illustrate the need of the masculine tincture with Venus, promising to explain it later [I.3 n49].
 
+**See also:** [Vulcan](#e1914)
+
 **References:** I.3 n49
-
-<a id="e0550"></a>
-### the fable (Typhon, Osiris, Isis; the Egyptian monarch)
-*collective voice*
-
-**The Egyptian fable of Typhon, Osiris and Isis, read by Atwood as a figure of the threefold division of the ethereal hypostasis and the reconciling of opposites.**
-
-Atwood reads the fable that “Typhon killed Osiris, his uterine brother, and scattered his members to the four winds” [III.1 ¶53] as illustrating the threefold division of the ethereal hypostasis; the hair grown in Ethiopia figures the fire allowed to grow [III.1 ¶56]; and Isis figures the reconciling of the opposites [III.1 ¶63].
-
-**References:** III.1 ¶53, III.1 ¶56, III.1 ¶63
-
-<a id="e0551"></a>
-### the fables (Theseus, Ariadne, Jason, Medea, Hercules, Eurystheus, Achilles, Ulysses, Minerva, Aeneas, the Sybil)
-*collective voice*
-
-**The heroic fables Atwood cites to show that the hero never labours alone but is aided by wise counsel, as the Moon aids the seeking Reason.**
-
-Atwood draws on the fables of Theseus and Ariadne, Jason and Medea, Hercules and Eurystheus, Achilles, Ulysses and Minerva, Aeneas and the Sybil to show that the hero never labours alone but is aided by wise counsel, as the Moon or Passive Intelligence aids the seeking Reason [III.1 ¶40].
-
-**References:** III.1 ¶40
 
 <a id="e0552"></a>
 ### Fabricate Intellect
@@ -6030,6 +6410,8 @@ Atwood draws on the fables of Theseus and Ariadne, Jason and Medea, Hercules and
 **The intellect which, Atwood says, is not born without Motion, figured by Pallas brought forth from Jove with Vulcan's aid.**
 
 Atwood writes: “without the instrumentality of Motion, which the lame god personates, the Fabricate Intellect is not born” [IV.1 ¶34]. The figure is Pallas brought forth from Jove with Vulcan's help; Vulcan, the lame god, stands for Motion (stated).
+
+**See also:** [Intellect](#e0867)
 
 **References:** IV.1 ¶34
 
@@ -6043,10 +6425,12 @@ Reporting the cabalistic scriptures and schools of antique experience, Atwood sp
 
 **Identified with:** This Being [II.1 ¶32]
 
+**See also:** [Wisdom](#e1943)
+
 **References:** II.1 ¶32
 
 <a id="e0554"></a>
-### faeces
+### Faeces
 *term*
 
 **The earthy residue of the matter: in Hermes the third from two, from which death is removed; in Sendivogius cast away; in Eudoxus kept and washed, as hiding the Balm of Life.**
@@ -6055,19 +6439,9 @@ The records come from three quoted authorities, who differ on its handling. In a
 
 **References:** I.3 ¶23, III.3 ¶29, IV.3 ¶8
 
-<a id="e0555"></a>
+<a id="e0556"></a><a id="e0555"></a>
 ### Faith
 *term*
-
-**Cited for the soul's permanent union with the glorified body, as an analogy for the union of spirits and purified bodies in the work.**
-
-The doctrine of Faith is invoked as an analogy: as the soul is permanently united with the glorified body, so spirits and purified bodies are joined, and “there shall be no more separation or death” [IV.3 ¶10].
-
-**References:** IV.3 ¶10
-
-<a id="e0556"></a>
-### faith
-*term* · Faith
 
 **For Atwood, faith is a real ideal conception that leads experimental inquiry and grows into knowledge, not blind credulity; it is a common witness inferring a reality beyond experience, to be directed by reason.**
 
@@ -6075,9 +6449,11 @@ Atwood insists that “The faith we invite is no blind credulity” [III.3 ¶64]
 
 Later she presents faith as a witness common to all: “we have a witness which believes and infers, a reality beyond present experience” [IV.4 ¶15]. It draws the other faculties after it: “faith is the very attracting loadstone which hope pursues” [IV.4 ¶19], drawing hope, desire and reason. Faith must nevertheless be directed by reason [IV.4 ¶15–19].
 
+*Faith.* The doctrine of Faith is invoked as an analogy: as the soul is permanently united with the glorified body, so spirits and purified bodies are joined, and “there shall be no more separation or death” [IV.3 ¶10].
+
 **Identified with:** ideal conception [III.3 ¶64]
 
-**References:** III.3 ¶64, IV.4 ¶15, IV.4 ¶19
+**References:** III.3 ¶64, IV.3 ¶10, IV.4 ¶15, IV.4 ¶19
 
 <a id="e0557"></a>
 ### Fall
@@ -6090,18 +6466,32 @@ Both records come from the Appendix (Table Talk, a later layer). Atwood writes: 
 **References:** APP ¶121, APP ¶48
 
 <a id="e0558"></a>
-### false imagination
+### False imagination
 *term*
 
 **What remains of sense impressions even in trance, which must be destroyed before the understanding spirit can receive Divinity.**
 
 Atwood (II.2) describes the remnant of sense impressions that persists even in trance as “a false imagination, which it is requisite to destroy” [II.2 ¶10]. It must be destroyed before the understanding spirit can receive Divinity [II.2 ¶10].
 
+**See also:** [Imagination](#e0829)
+
 **References:** II.2 ¶10
 
+<a id="e1740"></a>
+### Famous Christian philosophers
+*collective voice* · these famous Christian philosophers
+
+**Unnamed philosophers who supply the mountain allegory. Atwood qualifies them: their promises of gold drew futile public searches.**
+
+Atwood gives their allegory of the mountain: wind, earthquake, fire, calm, then the tincture. It begins “When you have discovered the mountain, the first miracle that will appear is this” [II.3 ¶33]. She qualifies their use: their promises of gold drew the public into futile searches [II.3 ¶34].
+
+**See also:** [Philosophers](#e1311)
+
+**References:** II.3 ¶33, II.3 ¶34
+
 <a id="e0559"></a>
-### Faraday Society, opening meeting address (1846)
-*collective voice* · Faraday Society
+### Faraday Society
+*collective voice* — *opening meeting address, 1846*
 
 **An address at the Faraday Society's opening meeting, cited by Atwood as an example of the modern view of alchemists as deluded crucible-brooders, which she criticizes.**
 
@@ -6118,7 +6508,7 @@ Cited for reference only.
 **References:** III.1 n35
 
 <a id="e0561"></a>
-### feminine principle
+### Feminine principle
 *term* · feminine spirit, passive feminine principle
 
 **In the Table Talk, the feminine principle is that which is above, drawing the self-willed source upward by love; it is the cause of the Fall and, advanced, of restoration.**
@@ -6127,11 +6517,13 @@ Both points come from the Appendix (Table Talk, a later layer). Atwood identifie
 
 **Identified with:** Wisdom; the heart life [APP ¶98]
 
+**See also:** [Principles](#e1399)
+
 **References:** APP ¶98
 
 <a id="e0562"></a>
-### ferment
-*term* · Ferment, fermented, ferments, fermenting, fermented spirit, fermenting principle, fermental, Firment, brazen ferment
+### Ferment
+*term* · fermented, ferments, fermenting, fermented spirit, fermenting principle, fermental, Firment, brazen ferment
 
 **The active agent by which one life works on another (or a thing on itself), opening and dissolving it so that a higher life is freed and exalted; Hermes calls it the Key of the philosophers.**
 
@@ -6145,21 +6537,23 @@ Both points come from the Appendix (Table Talk, a later layer). Atwood identifie
 
 **Identified with:** elaborated [APP ¶101]
 
-**References:** APP ¶101, APP ¶111, APP ¶126, APP ¶42, APP ¶69, I.2 ¶4, I.2 ¶48, I.2 ¶8, I.3 n55, I.3 ¶58, II.3 n40, III.1 ¶19, III.1 ¶21, III.1 ¶53, III.1 ¶65, IV.1 ¶44, IV.1 ¶46
+**References:** I.2 ¶4, I.2 ¶48, I.2 ¶8, I.3 n55, I.3 ¶58, II.3 n40, III.1 ¶19, III.1 ¶21, III.1 ¶53, III.1 ¶65, IV.1 ¶44, IV.1 ¶46, APP ¶101, APP ¶111, APP ¶126, APP ¶42, APP ¶69
 
 <a id="e0563"></a>
-### ferment of philosophers
+### Ferment of philosophers
 *term*
 
 **In a passage quoted from Aristhenes, that into which the 'least' thing is to be drawn by artifice; the text does not define it.**
 
 Atwood quotes Aristhenes, who says to “draw it by artifice into the true ferment of philosophers” [II.2 ¶26]. The thing to be drawn in is the ‘least’ thing. The passage does not define the term further. See *ferment*.
 
+**See also:** [Philosophers](#e1311)
+
 **References:** II.2 ¶26
 
 <a id="e0564"></a>
-### fermentation
-*term* · Fermentation, fermentative process, fermentative law, fermental principle, Fermentacion, Firmentation
+### Fermentation
+*term* · fermentative process, fermentative law, fermental principle, Fermentacion, Firmentation
 
 **The core operation in which a life worked by a kindred life dissolves and passes into a higher state; Atwood's best image of the Divine Art and the final cementing of the Stone's union.**
 
@@ -6171,21 +6565,23 @@ Atwood quotes Aristhenes, who says to “draw it by artifice into the true ferme
 
 **Identified with:** the union of man, reduced to the simplicity of the Monad, with God (Kabalah) [IV.3 ¶27]
 
-**References:** APP ¶132, APP ¶27, I.2 ¶33, I.2 ¶37, III.1 ¶9, IV.3 ¶14, IV.3 ¶21, IV.3 ¶27
+**References:** I.2 ¶33, I.2 ¶37, III.1 ¶9, IV.3 ¶14, IV.3 ¶21, IV.3 ¶27, APP ¶132, APP ¶27
 
 <a id="e0565"></a>
-### fermentative virtue
+### Fermentative virtue
 *term*
 
 **The power of vital melioration that man possesses whole within himself, for the rectification of Nature's Law.**
 
 Atwood holds that man has within himself “the whole fermentative virtue, motive, and principle of vital melioration” for the rectification of Nature's Law [IV.4 ¶3].
 
+**See also:** [Virtue](#e1886)
+
 **References:** IV.4 ¶3
 
 <a id="e0566"></a>
-### Festina lente, Ne quid nimis (sayings)
-*collective voice* · Festina lente, Ne quid nimis
+### Festina lente and Ne quid nimis
+*collective voice* — *sayings* · Festina lente, Ne quid nimis
 
 **Proverbial sayings cited in the Table Talk in support of avoiding haste and excess in the work, higher or lower.**
 
@@ -6201,7 +6597,7 @@ In the Appendix (Table Talk, a later layer) Atwood cites “Festina lente, Ne qu
 
 In the main text Atwood groups Kant, Fichte and Schelling and criticizes their metaphysics. It ends in void non-entity and skepticism and falls short of objective realization, though she ranks Schelling above the other two [III.2 ¶31]. In the Appendix (Table Talk, a later layer) she says Fichte broke through into the Absolute ground, seeing it but without experiencing it [APP ¶96]. He appears again in the same list as one who ‘knew it’ [APP ¶117].
 
-**References:** APP ¶117, APP ¶96, III.2 ¶31
+**References:** III.2 ¶31, APP ¶117, APP ¶96
 
 <a id="e0568"></a>
 ### Ficinus
@@ -6214,7 +6610,7 @@ Atwood cites Ficinus's Latin version of the Asclepian Dialogues and the Poimande
 **References:** I.1 n11, I.1 n68, I.1 ¶39, I.1 ¶64, I.1 ¶7
 
 <a id="e0569"></a>
-### Fiery bath of Love
+### Fiery bath of love
 *term*
 
 **In a quoted monk's continuation of Basil Valentine, something instituted by one who has befriended Vulcan; the text does not explain it.**
@@ -6231,20 +6627,24 @@ The monk who continues Basil Valentine says that only one who has “firmly cont
 
 Atwood quotes Eirenaeus: “Take four parts of our Fiery Dragon, which bears in his belly the Magic Steel” [IV.1 ¶43]. The Fiery Dragon is to be conjoined to nine parts Lodestone [IV.1 ¶43]. The passage does not explain it.
 
+**See also:** [Dragon](#e0435)
+
 **References:** IV.1 ¶43
 
 <a id="e0571"></a>
-### Fiery Essence
+### Fiery essence
 *term*
 
 **In Eudoxus, what animates the Water once the faeces are washed free of blackness; it works all the wonders of the Art.**
 
 Eudoxus says that once the faeces are washed free of blackness, “your Water shall be animated with this Fiery Essence, which works all the wonders of our Art” [IV.3 ¶8].
 
+**See also:** [Essence](#e0503)
+
 **References:** IV.3 ¶8
 
 <a id="e0572"></a>
-### fiery ordeal
+### Fiery ordeal
 *term*
 
 **The trial that reason is artificially constrained not to escape.**
@@ -6254,18 +6654,20 @@ Atwood speaks of reason “being artificially constrained, lest it should escape
 **References:** I.3 n50
 
 <a id="e0573"></a>
-### Fifth Essence
+### Fifth essence
 *term*
 
 **What the two warring dragons become when decocted in their own venom; for Atwood, a state beyond the four degrees, neuter from all yet partaking of all.**
 
 A French adept quoted by Atwood says the two warring dragons, “being decocted totally in their own venom, are turned into a Fifth Essence” [III.1 ¶58]. Atwood describes it as made beyond the four precedent degrees of perfection: “neuter from all, yet partaking of all in perpetuity of union” [III.3 ¶32]. It is embodied but not subject to gross corporeity [III.3 ¶32].
 
+**See also:** [Essence](#e0503)
+
 **References:** III.1 ¶58, III.3 ¶32
 
 <a id="e0574"></a>
-### Final Cause
-*term* · Final Causes, final causes
+### Final cause
+*term* · Final Causes
 
 **The end or purpose into whose supernatural fixity Art brings the Matter; hidden in ordinary life but manifest in Alchemy.**
 
@@ -6275,11 +6677,13 @@ In IV.2 a passage of the Master carries a gloss whose voice is unclear: “the b
 
 **Identified with:** boundary of hearts [IV.2 ¶14]
 
+**See also:** [Causes](#e0244)
+
 **References:** III.2 ¶22, III.4 ¶6, III.4 ¶9, IV.2 ¶14, IV.2 ¶8
 
 <a id="e0575"></a>
 ### Fire
-*term* · fire, our fire, Our Fire, Fires, internal Fire, internal fire, philosophic fire
+*term* · our fire, Fires, internal Fire, philosophic fire
 
 **The secret, vital fire of the philosophers, distinct from common fire; variously identified with Intellect, the life of man, the essence of life, the sulfur and seed of gold.**
 
@@ -6289,10 +6693,12 @@ In IV.2 a passage of the Master carries a gloss whose voice is unclear: “the b
 
 **Identified with:** our chaotic will in potentiality [APP ¶97]; essence of life [I.3 n22]; temperate unguent [I.3 ¶24]; true sulfur of Gold [III.1 ¶14]; seed of gold [III.1 ¶14]; key of all the philosophers [III.1 ¶37]; [Intellect](#e0867) [III.2 ¶62]; the life of man [IV.4 ¶4]; the miracle of the world [I.3 n41]
 
-**References:** APP ¶97, I.3 n22, I.3 n41, I.3 ¶24, II.4 ¶39, III.1 ¶14, III.1 ¶37, III.2 ¶62, III.4 ¶38, IV.2 ¶11, IV.3 ¶21, IV.4 ¶4, IV.4 ¶8
+**See also:** [Internal fire](#e0883)
+
+**References:** I.3 n22, I.3 n41, I.3 ¶24, II.4 ¶39, III.1 ¶14, III.1 ¶37, III.2 ¶62, III.4 ¶38, IV.2 ¶11, IV.3 ¶21, IV.4 ¶4, IV.4 ¶8, APP ¶97
 
 <a id="e0576"></a>
-### fire of life
+### Fire of life
 *term*
 
 **In the Paracelsian passage Atwood quotes, the life-fire in man, called Antimony by adepts, which does nothing excellent while immured but flows forth as panacea after purgation.**
@@ -6301,11 +6707,13 @@ In a Paracelsian passage the fire of life is the life-fire in man: “our fire o
 
 **Identified with:** [Antimony](#e0086) [III.1 ¶10]
 
+**See also:** [Life](#e0960)
+
 **References:** III.1 ¶10
 
 <a id="e0577"></a>
-### fire of nature
-*term* · Fire of nature
+### Fire of nature
+*term*
 
 **A fire named in several contexts: what drew the Magians toward nature's central source, what besieges the bound serpents, and that by which the Matter brings forth Orus; it is not defined.**
 
@@ -6314,39 +6722,45 @@ Atwood says the Magians were “drawn about the fire of nature, as it were, into
 **References:** I.1 ¶39, III.1 ¶50, III.3 ¶62
 
 <a id="e0578"></a>
-### fire of putrefaction and generation
+### Fire of putrefaction and generation
 *term*
 
 **In Sendivogius, the fire of the second operation, different from that of the first.**
 
 Sendivogius directs the work to be set on “the fire of putrefaction and generation, not on such a one as thou didst in the first operation” [IV.3 ¶21].
 
+**See also:** [Generation](#e0661)
+
 **References:** IV.3 ¶21
 
 <a id="e0579"></a>
-### Fire of the Wise
+### Fire of the wise
 *term* · Secret Fire
 
 **In Eudoxus, the secret fire that is the only instrument of sublimation, dissolving the Stone gently into Water; no philosopher has openly revealed it.**
 
 Eudoxus calls it “the Fire of the Wise, which is the only instrument which can work this sublimation” [IV.3 ¶5]. It dissolves the Stone naturally and without violence into Water. It is the Secret Fire: “No philosopher has ever openly revealed this Secret Fire” [IV.3 ¶5]. It is also called “this Secret Fire, and this powerful agent, which works all the wonders of the Art” [IV.3 ¶5]. It is known by its described characters and by divine gift. Eudoxus also says “the whole compound, is made perfect by the action of our Fire” [IV.3 ¶7], but he does not assert that this is the Fire of the Wise.
 
-**Identified with:** [secret fire](#e1564) [IV.3 ¶5]; powerful agent [IV.3 ¶5]
+**Identified with:** [Secret fire](#e1564) [IV.3 ¶5]; powerful agent [IV.3 ¶5]
+
+**See also:** [The Wise](#e1944)
 
 **References:** IV.3 ¶5, IV.3 ¶7
 
 <a id="e0580"></a>
-### Fire Spirit
+### Fire spirit
 *term*
 
 **In a quoted adept, a spirit rooted in the spiritual fire earth, from which it is fed by a secret influx.**
 
 The adept Atwood quotes says the Fire Spirit is rooted in the spiritual fire earth and “receives from it a secret influx upon which it feeds” [II.3 ¶41].
 
+**See also:** [Spirit](#e1644)
+
 **References:** II.3 ¶41
 
 <a id="e0581"></a>
-### Fire World
+### Fire world
 *term*
 
 **The region consciousness enters after the middle region (Atwood) or after the Aquaster (a quoted adept), where invisible things are seen; the text does not define it further.**
@@ -6356,7 +6770,7 @@ Atwood says that after the middle region, at the dark descent, consciousness “
 **References:** II.3 ¶16, II.3 ¶41
 
 <a id="e0582"></a>
-### the First and Second Commandments
+### First and Second Commandments
 *treatise* · 1st and 2nd Commandments
 
 **Cited in the Table Talk, where Atwood reads graven images as the practical result of self-centering and stopping in finite gifts as idolatry.**
@@ -6366,8 +6780,8 @@ Both citations come from the Appendix (Table Talk, a later layer). Atwood interp
 **References:** APP ¶100, APP ¶135
 
 <a id="e0583"></a>
-### First Cause
-*term* · first Cause, First Cuase
+### First cause
+*term* · First Cuase
 
 **The cause of a being's existence, which each has in himself; the top of the ascending series of causes, into which Reason re-enters and the only proper object of seeking.**
 
@@ -6379,10 +6793,12 @@ In the Table Talk (APP, later layer) each being has the cause of its existence i
 
 **Identified with:** First Why [IV.2 ¶7]
 
-**References:** APP ¶6, II.1 ¶21, III.2 ¶54, IV.1 ¶30, IV.2 ¶18, IV.2 ¶33, IV.2 ¶7, IV.2 ¶8, IV.3 ¶62, IV.4 ¶32
+**See also:** [Causes](#e0244)
+
+**References:** II.1 ¶21, III.2 ¶54, IV.1 ¶30, IV.2 ¶18, IV.2 ¶33, IV.2 ¶7, IV.2 ¶8, IV.3 ¶62, IV.4 ¶32, APP ¶6
 
 <a id="e0584"></a>
-### first ens
+### First ens
 *term*
 
 **What the dissolving water reduces all metals into, glossed as water.**
@@ -6391,10 +6807,12 @@ Atwood says the dissolving water “reduces them into their first ens, or water�
 
 **Identified with:** [Water](#e1920) [I.3 n12]
 
+**See also:** [Ens](#e0490)
+
 **References:** I.3 n12
 
 <a id="e0585"></a>
-### first entrance
+### First entrance
 *term*
 
 **An initial step whose knowledge, together with volatilizing the fixed tincture, admits one to the temple of Divine Science; the text does not explain it.**
@@ -6404,7 +6822,7 @@ Atwood writes: “He who knows the first entrance” and how to volatilize the f
 **References:** IV.4 ¶32
 
 <a id="e0586"></a>
-### first filosophie
+### First filosophie
 *term*
 
 **In Norton's verse, the foundational knowledge required of anyone who hopes 'to come by Lakimie'.**
@@ -6414,7 +6832,7 @@ Norton, quoted by Atwood, requires of anyone hoping ‘to come by Lakimie’: �
 **References:** IV.2 ¶5
 
 <a id="e0587"></a>
-### first foundation
+### First foundation
 *term*
 
 **Basil Valentine's term for what nature holds concealed, to be sought with one's own eyes and hand as the basis for judging rightly.**
@@ -6431,20 +6849,24 @@ Spoken by Basil Valentine (“the monk”), as quoted by Atwood: “Learn and lo
 
 A view quoted from the Platonic Successor [II.4 ¶41]. The First God is celebrated first as unfolding the Intelligible Universe and only last as producing earth, heavens and souls. He is praised “as the God of all gods, the Unity of all unities, and beyond the First Adyta” and “as more ineffable than all silence, and more Unknown than all recondite essence” [II.4 ¶41].
 
+**See also:** [Gods](#e0674)
+
 **References:** II.4 ¶41
 
 <a id="e0589"></a>
-### first life
+### First life
 *term*
 
 **Atwood's term for the original life about whose penetralia consciousness is drawn in Hades, and from whose perpetual motion the nether darkness flows.**
 
 In Atwood's own voice: consciousness in Hades is drawn about the penetralia of the first life, and the nether darkness is described as “flowing out from the perpetual motion of the first life” [II.3 ¶18].
 
+**See also:** [Life](#e0960)
+
 **References:** II.3 ¶18
 
 <a id="e0590"></a>
-### First Light
+### First light
 *term*
 
 **In Plotinus as quoted, the light shining primarily in itself, at once illuminating and illuminated, and the foundation of every intellect.**
@@ -6453,10 +6875,12 @@ Quoted from Plotinus [III.2 ¶66]. The First Light shines primarily in itself an
 
 **Identified with:** the foundation of every intellect [III.2 ¶66]
 
+**See also:** [Light](#e0962)
+
 **References:** III.2 ¶66
 
 <a id="e0591"></a>
-### first material of the metals
+### First material of the metals
 *term*
 
 **Albertus Magnus's definition: an unctuous subtle humidity forcibly incorporated with a subtle earthy part.**
@@ -6466,8 +6890,8 @@ Quoted from Albertus Magnus: “the first material of the metals is an unctuous 
 **References:** I.2 ¶29
 
 <a id="e0592"></a>
-### First Matter
-*term* · first matter, first Matter, First Mater, prima material, primam materiam
+### First matter
+*term* · First Mater, prima material, primam materiam
 
 **The one subject of the Art: the common root substance of all natures, not found on earth or among sensible things, reached by going back in consciousness to the original of life.**
 
@@ -6479,12 +6903,14 @@ Quoted from Albertus Magnus: “the first material of the metals is an unctuous 
 
 **Appendix (Table Talk, later layer).** It is not found on earth but reached by going back in consciousness to the original of life. “It is immediately antecedent to the first consciousness” and presents itself “as the extreme of bound and definiteness reverting to non- being” [APP ¶137]; its attributes are transmutable forms, hence seeming contradictions. Elsewhere, “the First Mater which is humanly producible” may be unlawfully formed for a finite end [APP ¶37].
 
-**Identified with:** [Universal Subject](#e1863) [I.2 ¶7]; [universal matter](#e1852) [I.2 ¶3]; union of masculine and feminine spirits [I.2 ¶33]; mineral nature [II.3 ¶30]; [Diana](#e0380) [III.1 ¶70]; refulgent Light [III.1 ¶70]; one substance [III.2 ¶2]; this water containing all [III.2 ¶19]; abyssal Darkness [III.2 ¶56]; unam substantiam (one substance created by God) [III.2 ¶56]; very natural true sperm of the greater world [III.2 n43]; water of our sea; water of life [III.2 n43]; That which is prior to all things [III.2 ¶66]; Seed of Divine benediction [III.3 ¶63]; flying eagle (the name it bears at first sight) [III.3 ¶63]; mud earth [IV.1 ¶36]; Mercury / Our Old Man [IV.3 ¶10]; [first principles](#e0599) [I.1 ¶57]
+**Identified with:** [Universal subject](#e1863) [I.2 ¶7]; [Universal matter](#e1852) [I.2 ¶3]; union of masculine and feminine spirits [I.2 ¶33]; mineral nature [II.3 ¶30]; [Diana](#e0380) [III.1 ¶70]; refulgent Light [III.1 ¶70]; one substance [III.2 ¶2]; this water containing all [III.2 ¶19]; abyssal Darkness [III.2 ¶56]; unam substantiam (one substance created by God) [III.2 ¶56]; very natural true sperm of the greater world [III.2 n43]; water of our sea; water of life [III.2 n43]; That which is prior to all things [III.2 ¶66]; Seed of Divine benediction [III.3 ¶63]; flying eagle (the name it bears at first sight) [III.3 ¶63]; mud earth [IV.1 ¶36]; Mercury / Our Old Man [IV.3 ¶10]; [First principles](#e0599) [I.1 ¶57]
 
-**References:** APP ¶137, APP ¶37, I.1 ¶39, I.1 ¶57, I.1 ¶74, I.2 ¶3, I.2 ¶33, I.2 ¶34, I.2 ¶7, II.3 ¶30, III.1 ¶3, III.1 ¶70, III.2 n43, III.2 ¶19, III.2 ¶2, III.2 ¶56, III.2 ¶57, III.2 ¶66, III.3 ¶1, III.3 ¶63, III.4 ¶44, IV.1 ¶36, IV.1 ¶7, IV.3 ¶10, IV.3 ¶28
+**See also:** [Matter](#e1043)
+
+**References:** I.1 ¶39, I.1 ¶57, I.1 ¶74, I.2 ¶3, I.2 ¶33, I.2 ¶34, I.2 ¶7, II.3 ¶30, III.1 ¶3, III.1 ¶70, III.2 n43, III.2 ¶19, III.2 ¶2, III.2 ¶56, III.2 ¶57, III.2 ¶66, III.3 ¶1, III.3 ¶63, III.4 ¶44, IV.1 ¶36, IV.1 ¶7, IV.3 ¶10, IV.3 ¶28, APP ¶137, APP ¶37
 
 <a id="e0593"></a>
-### First Matter of the elements
+### First matter of the elements
 *term*
 
 **In Paracelsus as quoted, the invisible, intangible life present in all things — the life the creatures have.**
@@ -6492,6 +6918,8 @@ Quoted from Albertus Magnus: “the first material of the metals is an unctuous 
 Quoted from Paracelsus: “This is the First Matter of the elements, which can neither be seen nor felt, and yet is in all things” [I.2 ¶26]; it is “nothing else but that life which the creatures have” [I.2 ¶26].
 
 **Identified with:** that life which the creatures have [I.2 ¶26]
+
+**See also:** [Elements](#e0469)
 
 **References:** I.2 ¶26
 
@@ -6508,7 +6936,7 @@ Atwood asks who can “move One with the First Mover, and Be His Will, who is at
 **References:** III.3 ¶78
 
 <a id="e0595"></a>
-### First Operation
+### First operation
 *term*
 
 **In Eirenaeus as quoted, the laborious manual first stage of the work, disposing the matter as first found, contrasted with the Second where Nature works alone.**
@@ -6518,17 +6946,19 @@ Eirenaeus's term, as quoted: “there is no work more tedious than our First Ope
 **References:** IV.1 ¶11, IV.1 ¶6
 
 <a id="e0596"></a>
-### First Preparation
+### First preparation
 *term*
 
 **In Vaughan as quoted, the first part of the Gross Work, which Agrippa knew and made clear; not described further.**
 
 Vaughan says Agrippa “knew the First Preparation, and has clearly discovered it” [IV.1 ¶36]. The packet gives no description of the preparation itself.
 
+**See also:** [Preparation](#e1385)
+
 **References:** IV.1 ¶36
 
 <a id="e0597"></a>
-### first prepared Subject
+### First prepared subject
 *term*
 
 **Atwood's term for the subject in its first prepared state, which she says is meant by the Lunar Vulcan and is also called Diana.**
@@ -6537,20 +6967,24 @@ In Atwood's voice: by “the Lunar Vulcan, as we long ago suggested, is meant th
 
 **Identified with:** [Lunar Vulcan](#e0993) [IV.1 ¶29]; [Diana](#e0380) [IV.1 ¶29]; secret natural interior Fire of Adepts [IV.1 ¶29]
 
+**See also:** [Subject](#e1675)
+
 **References:** IV.1 ¶29
 
 <a id="e0598"></a>
-### First Principle
+### First principle
 *term*
 
 **What the theurgically prepared seeker rises to: the most united in nature, its Flower, through which it is Deity.**
 
 Atwood, following “the doctrine of the ancients”: “if any one wish to discover the First Principle, according to the doctrine of the ancients, he must be theurgically prepared” [III.3 ¶59]. It is described as the most united in nature, its Flower, that through which it is Deity, suspended from its fountain and holding the Universe in sympathetic consent with itself [III.3 ¶59].
 
+**See also:** [First principles](#e0599), [Principles](#e1399)
+
 **References:** III.3 ¶59
 
 <a id="e0599"></a>
-### first principles
+### First principles
 *term*
 
 **Lully's name for the chaotic, monster-shaped spirits, which Atwood explains by the Seed of Spirit found in their purified material extreme.**
@@ -6559,20 +6993,24 @@ Atwood reports: “But Lully, indeed, calls these chaotic forms first principles
 
 **Identified with:** fugitive spirits condensed in the air [II.3 ¶30]
 
+**See also:** [First principle](#e0598), [Principles](#e1399)
+
 **References:** II.3 ¶30
 
 <a id="e0600"></a>
-### first rotary wheel of life
+### First rotary wheel of life
 *term*
 
 **Atwood's phrase for the stage of life in which the true Light, as distinct from common light, becomes efficient.**
 
 Atwood speaks of the true Light, distinct from common light, as “that which in the first rotary wheel of life becomes efficient” [IV.3 ¶30]. Not further explained.
 
+**See also:** [Life](#e0960)
+
 **References:** IV.3 ¶30
 
 <a id="e0601"></a>
-### First Source
+### First source
 *term*
 
 **Atwood's term for the origin from which every advance in externals leads man further away.**
@@ -6582,17 +7020,19 @@ Atwood: “every advance we make in externals leads us further off from the Firs
 **References:** IV.4 ¶18
 
 <a id="e0602"></a>
-### First Truth
+### First truth
 *term*
 
 **In Atwood's words, what man may know really and experimentally — the highest privilege he can propose.**
 
 Atwood presents as man's highest privilege “to know the First Truth of things really and experimentally” [IV.4 ¶22].
 
+**See also:** [Truth](#e1807)
+
 **References:** IV.4 ¶22
 
 <a id="e0603"></a>
-### first unity
+### First unity
 *term*
 
 **What the sought insoluble, transmuting, uniting union requires; voice unclear.**
@@ -6602,7 +7042,7 @@ Voice unclear in the record: “such a tie cannot be without the first unity” 
 **References:** III.1 ¶50
 
 <a id="e0604"></a>
-### first vegetative life
+### First vegetative life
 *term*
 
 **In the Appendix, the green first stage of life, identified with hope as the first aspiration to progress, whose ripened Life is purple.**
@@ -6611,20 +7051,24 @@ From the Appendix (Table Talk, a later layer), in Atwood's voice: “The first v
 
 **Identified with:** hope [APP ¶119]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶119
 
 <a id="e0605"></a>
-### First Work
+### First work
 *term*
 
 **In Eirenaeus as quoted, the work accomplished by assiduity and industry, with the Divine blessing and a good principle to begin with.**
 
 Eirenaeus: “it is by assiduity and industry that we accomplish the First Work” [IV.1 ¶6], with the Divine blessing and a good principle to begin with.
 
+**See also:** [Works](#e1953)
+
 **References:** IV.1 ¶6
 
 <a id="e0606"></a>
-### first-fruits
+### First-fruits
 *term*
 
 **In the Appendix, the early results of the work: real but not permanent, to be sacrificed for the promise they contain.**
@@ -6634,7 +7078,7 @@ From the Appendix (Table Talk, a later layer), Atwood: “The first-fruits, toug
 **References:** APP ¶74
 
 <a id="e0607"></a>
-### fixation
+### Fixation
 *term*
 
 **In Atwood's account, the third operation: after calcinations, a reunion into a more permanent form of Being.**
@@ -6644,8 +7088,8 @@ Atwood describes fixation as the operation in which “after calcinations there 
 **References:** III.2 ¶64
 
 <a id="e0608"></a>
-### fixed / volatile
-*term* · fixed, volatile, volatile and fixed, fixed and volatile, Fixity, unfixed, fixum, volucrem
+### Fixed and volatile
+*term* · fixed, volatile, volatile and fixed, Fixity, unfixed, fixum, volucrem
 
 **The two contrary states the work inverts and unites: the fixed made volatile and the volatile fixed, until both reach perfect Fixity.**
 
@@ -6654,17 +7098,19 @@ Atwood describes the work as “that which is fixed becoming volatile and the vo
 **References:** I.2 ¶20, IV.1 ¶36, IV.1 ¶40, IV.3 ¶9
 
 <a id="e0609"></a>
-### fixed Brass
+### Fixed brass
 *term*
 
 **In the Democritus passage, material drawn out and worked on the coals until it appears Golden.**
 
 Quoted from Democritus: “Drawing the fixed Brass out bodily” [IV.1 ¶43], it is worked on the coals until it appears Golden.
 
+**See also:** [Brass](#e0208)
+
 **References:** IV.1 ¶43
 
 <a id="e0610"></a>
-### fixed metals
+### Fixed metals
 *term*
 
 **In the Author of the Open Entrance, silver (for the white) or gold (for the red), melted with the Stone in projection.**
@@ -6677,7 +7123,7 @@ The Author of the Open Entrance directs “four parts of one of the fixed metals
 
 <a id="e0611"></a>
 ### Fixed Salt
-*term* · fixed salt, fiery salt
+*term* · fiery salt
 
 **In Eudoxus as quoted, the salt extracted from the earth by washing it with its spirit, in which Mercury's whole energy consists; the Blood of our Stone.**
 
@@ -6685,11 +7131,13 @@ Eudoxus calls it “the Fixed Salt, which is the Blood of our Stone” [IV.3 ¶7
 
 **Identified with:** Blood of our Stone [IV.3 ¶7]
 
+**See also:** [Salt](#e1536)
+
 **References:** IV.3 ¶7, IV.3 ¶9
 
 <a id="e0612"></a>
-### fixed sulfur
-*term* · fixed Sulphur
+### Fixed sulphur
+*term*
 
 **The balsam of nature that preserves bodies (per the Scholiast), and the Philosophers' Stone into which fixed Mercury turns (per The Triumph).**
 
@@ -6697,20 +7145,24 @@ Atwood reports the Scholiast's view: “The fixed sulfur of adepts, according to
 
 **Identified with:** balsam of nature [I.3 n61]; [Stone](#e1670) [IV.2 ¶6]
 
+**See also:** [Sulphur](#e1690)
+
 **References:** I.3 n61, IV.2 ¶6
 
 <a id="e0613"></a>
-### fixed tincture of life
+### Fixed tincture of life
 *term*
 
 **Something fixed which must be rendered volatile and returned free; knowing how admits one to the temple of Divine Science.**
 
 Atwood speaks of knowing “how to render the fixed tincture of life volatile, and to return it, being free” [IV.4 ¶32] as admission to the temple of Divine Science. Not further explained.
 
+**See also:** [Life](#e0960)
+
 **References:** IV.4 ¶32
 
 <a id="e0614"></a>
-### Fixt, Variable, Fugitive
+### Fixt, Variable, fugitive
 *term* · Fixt, Variable, Fugitive
 
 **In Bloomfield as quoted, the three ‘persons’ to be joined in one until they taste death and live together.**
@@ -6729,7 +7181,7 @@ Atwood quotes Nicholas Flamel's own account at length as a remarkable, well-know
 
 Atwood uses him as an example: though he had matter, fire and furnace from Abraham the Jew, he still wandered three years [III.1 ¶37]. His Summula supports the alchemists' garden, “where the sun as well morning as evening remains with a most sweet dew” [II.4 ¶9, II.4 n4], and the nature of the fire — not coal or wood but “a bright shining fire like the Sun itself, whose heat must neither be excessive, but always of one and the same degree” [IV.1 ¶41, IV.1 n35]. His Second Book is cited for learned discretion [IV.1 ¶29]. He is cited alongside Artefius [IV.3 ¶7] and speaks “more particularly” on the two Mercuries: “one must make use of the citrine Mercury to make the Imbibition of the Red”, warning he was himself deceived until the Jew informed him [IV.3 ¶10]. In the Appendix (Table Talk, a later layer) he is compared for the macrocosm's image evolved before the mental eye in regeneration [APP ¶55].
 
-**References:** APP ¶55, I.1 n16, I.1 ¶12, I.1 ¶27, I.1 ¶49, I.1 ¶56, I.1 ¶57, I.1 ¶58, II.4 n4, II.4 ¶9, III.1 ¶37, IV.1 n35, IV.1 ¶29, IV.1 ¶41, IV.3 ¶10, IV.3 ¶7
+**References:** I.1 n16, I.1 ¶12, I.1 ¶27, I.1 ¶49, I.1 ¶56, I.1 ¶57, I.1 ¶58, II.4 n4, II.4 ¶9, III.1 ¶37, IV.1 n35, IV.1 ¶29, IV.1 ¶41, IV.3 ¶10, IV.3 ¶7, APP ¶55
 
 <a id="e0616"></a>
 ### Flos Salis Albi
@@ -6751,6 +7203,8 @@ In Atwood's voice, by this Arabian name “thus the substant hypothesis is said 
 
 Atwood speaks of the operation aiming “to make manifest the Flower of Intellect retrospectively to its Archetypal Source” [IV.2 ¶20]; apparently the fruit of the rectified circulation, directed back to its origin.
 
+**See also:** [Intellect](#e0867)
+
 **References:** IV.2 ¶20
 
 <a id="e0618"></a>
@@ -6760,6 +7214,8 @@ Atwood speaks of the operation aiming “to make manifest the Flower of Intellec
 **In the Divine Oracle Atwood quotes, the faculty with which the Intelligible must be understood.**
 
 Quoted from the Divine Oracle: “There is something Intelligible which it behooves thee to understand with the Flower of thy mind.” [II.4 ¶43]. The passage associates it with an empty mind and a pure turning eye; the text does not define it further.
+
+**See also:** [Mind](#e1099)
 
 **References:** II.4 ¶43
 
@@ -6774,7 +7230,7 @@ Atwood lists Fludd among the intelligent, worthy disciples of Paracelsus, alongs
 **References:** I.1 ¶64, II.3 n58
 
 <a id="e0620"></a>
-### flying volatile
+### Flying volatile
 *term*
 
 **In a Hermes passage, the volatile to be drowned while flying and separated from its rust; Atwood reads the images as about the freed spirit and its soul.**
@@ -6784,27 +7240,31 @@ Hermes, quoted: “Take the flying volatile and drown it flying” [I.3 ¶16], s
 **References:** I.3 ¶16
 
 <a id="e0621"></a>
-### Foliated Sulphur
+### Foliated sulphur
 *term*
 
 **In the Master's words, the substance on which the Fire is poured, so that the Final Cause enters above it and its mortal matter is extracted.**
 
 Quoted from the Master: “when thou shalt pour forth thy Fire upon the Foliated Sulphur” [IV.2 ¶14]. The Final Cause then enters above it and its mortal matter is extracted [IV.2 ¶14].
 
+**See also:** [Sulphur](#e1690)
+
 **References:** IV.2 ¶14
 
 <a id="e0622"></a>
-### Fontal Light
+### Fontal light
 *term*
 
 **The source-light in whose evolution the Universal Nature appears white, as all colours united.**
 
 Atwood: “just so is the Universal Nature, described as appearing in the evolution of her Fontal Light” [III.2 ¶5]. In that evolution the Universal Nature appears white, all colours united.
 
+**See also:** [Light](#e0962)
+
 **References:** III.2 ¶5
 
 <a id="e0623"></a>
-### Fontal Nature
+### Fontal nature
 *term*
 
 **The source-nature which the reflective faculty craves but cannot reach; those who know it by experience truly understand why God is to be feared.**
@@ -6814,17 +7274,19 @@ Atwood says that “they only who have become conversant by experience in the Fo
 **References:** I.3 n19, II.1 ¶33
 
 <a id="e0624"></a>
-### Fontal Reason
+### Fontal reason
 *term*
 
 **The source from which the individual springs as an outbirth; obscured by the sensual principle and rediscovered in regeneration.**
 
 Atwood describes the individual as an outbirth “from that Fontal Reason whence it springs” [III.3 ¶52]. The sensual principle obscures it; in regeneration it is discovered, rising through self-perceivance with creative attributes and powers [III.3 ¶52].
 
+**See also:** [Reason](#e1469)
+
 **References:** III.3 ¶52
 
 <a id="e0625"></a>
-### Fontal Source
+### Fontal source
 *term*
 
 **That whose emancipation produces the First Matter.**
@@ -6834,7 +7296,7 @@ Atwood calls the First Matter “an emancipation of the Fontal Source” [III.1 
 **References:** III.1 ¶70
 
 <a id="e0626"></a>
-### fontal Spirit of nature
+### Fontal spirit of nature
 *term*
 
 **Nature's source-spirit, distinct from its manifestation and from sensible fire, which is only its excitation or effect.**
@@ -6845,7 +7307,7 @@ Atwood distinguishes “the fontal Spirit of nature, apart from its manifestatio
 
 <a id="e0627"></a>
 ### Form
-*term* · form, Forms, forms
+*term* · Forms
 
 **The specifying, inward agent that matter lacks; joined to matter it begets a seed. Atwood identifies it with Light and with the sulfurs.**
 
@@ -6861,7 +7323,7 @@ In the practice, putrefaction makes the body “to corrupt and to lose its Form�
 
 <a id="e0628"></a>
 ### Form of gold
-*term* · Form of Gold
+*term*
 
 **The ray of motive Light, which Atwood calls the alone universal principle of increase and perfection: the transmutative ferment and Stone.**
 
@@ -6869,15 +7331,19 @@ Atwood says the chemists tried “to extract the Form of gold” with salt, sulf
 
 **Identified with:** ray of motive Light [IV.4 ¶9]; universal principle of increase and perfection [IV.4 ¶9]
 
+**See also:** [Gold](#e1754)
+
 **References:** I.1 ¶86, IV.4 ¶9
 
 <a id="e0629"></a>
-### Form of Light
+### Form of light
 *term*
 
 **The new, concentric, finally immortal form in which the subject is established when it is rectified at the end of the operations.**
 
 Atwood says sublimation ends the operations by “establishing her in a new and concentric Form of Light” [II.2 ¶27]. The philosophic matter is finally “rectified into a consummate and immortal Form of Light” [IV.1 ¶46].
+
+**See also:** [Light](#e0962)
 
 **References:** II.2 ¶27, IV.1 ¶46
 
@@ -6892,27 +7358,31 @@ Quoted: “The Form of man, says the Rabbi Ben Jochai, contains all that is in t
 **References:** II.1 ¶42
 
 <a id="e0631"></a>
-### Formal Agent
+### Formal agent
 *term*
 
 **What true generation would simply represent; Atwood says nothing in nature is generated so as to represent it alone.**
 
 Atwood: nothing in nature is generated “simply so as to represent the Formal Agent alone” [III.2 ¶61].
 
+**See also:** [Agent](#e0031)
+
 **References:** III.2 ¶61
 
 <a id="e0632"></a>
-### Formless Subject
+### Formless subject
 *term*
 
 **Matter as perceived in the Night of Matter: obscure, vast and infinite.**
 
 The passage reads: “her perception of the Formless Subject is obscure, and vast, and infinite” [III.2 ¶55]. In the same passage the intellect is “sinking into the Abyssal Subject” [III.2 ¶55]; the two may be the same, but no identity is asserted. Who is speaking is unclear.
 
+**See also:** [Subject](#e1675)
+
 **References:** III.2 ¶55
 
 <a id="e0633"></a>
-### fountain
+### Fountain
 *term* · crystal fountain
 
 **In Eirenaeus's verse, a fourfold distilling spring that washes the king and carries him up, also named May-dew and Eve; Atwood's notes speak of a well, not explicitly identified with it.**
@@ -6926,18 +7396,20 @@ Eirenaeus, quoted: “O crystal fountain! Which with fourfold spring Rubs down t
 **References:** I.3 n22, I.3 n36, III.1 ¶69
 
 <a id="e0634"></a>
-### four philosophic elements
+### Four philosophic elements
 *term*
 
 **In Maria's words, what the matter in which the science is most easily found contains most evidently.**
 
 Maria, quoted: the science is most easily found in “that matter which most evidently contains the four philosophic elements” [I.3 n48].
 
+**See also:** [Elements](#e0469)
+
 **References:** I.3 n48
 
 <a id="e0635"></a>
-### Four Winds
-*term* · four winds
+### Four winds
+*term*
 
 **The philosophers' name for the vapor into which the body of Light is reduced, which condenses at the top of the vessel and runs down continually.**
 
@@ -6946,8 +7418,8 @@ Atwood: the body of Light is reduced to “a mere vapor, called by the philosoph
 **References:** III.1 ¶56
 
 <a id="e0636"></a>
-### the Fourth
-*term* · Fourth
+### The Fourth
+*term*
 
 **A fourth agent, partaking of the aerial fiery element, that comes over the three fires to complete the work.**
 
@@ -6956,7 +7428,7 @@ In the Adept's account, “the Fourth, partaking of the aerial fiery element, su
 **References:** IV.2 ¶11, IV.2 ¶12
 
 <a id="e0637"></a>
-### Fourth Form
+### Fourth form
 *term*
 
 **Emanated by the Identity after a threefold growth of Light in the Understanding: truthful, godlike, the express image of its motive.**
@@ -6965,10 +7437,12 @@ Jacob Boehme, quoted: “enter I even to the cross in the Fourth Form, there you
 
 Atwood: after a threefold growth of Light in the Understanding, the Identity emanates the Fourth Form: “It emanates a Fourth Form, truthful, godlike” [IV.2 ¶18], the express image of its motive. Later she writes: “And the Fourth, as the artist, applies it to the work in the furtherance” [IV.2 ¶32]. The text does not say that this Fourth is the same as the Fourth Form, or as Boehme's.
 
+**See also:** [Form](#e0627)
+
 **References:** III.1 ¶48, IV.2 ¶18, IV.2 ¶32
 
 <a id="e0638"></a>
-### Fourth Monarchy
+### Fourth monarchy
 *term*
 
 **A prophesied coming age, the Intellectual reign of Truth and Peace, when the Mother of sciences comes forth and greater things are discovered.**
@@ -6980,8 +7454,8 @@ Atwood names the “Fourth Monarchy, which is the Intellectual reign of Truth an
 **References:** IV.3 ¶49
 
 <a id="e0639"></a>
-### Franck / Ad. Franck
-*person* · Franck, Ad. Franck, Frank
+### Franck
+*person* · Ad. Franck, Frank
 
 **Author of La Kabbale, ou Philosophie Religieuse des Hebreux, a history of the Kabalah Atwood recommends; her source for the Zohar translations she cites.**
 
@@ -6997,20 +7471,24 @@ Atwood recommends Franck's *La Kabbale, ou Philosophie Religieuse des Hebreux* a
 
 Atwood: “In just such a foundation do the Alchemists establish their Free masonry” [III.1 ¶3], meaning the same foundation as Greek philosophy. The term is not explained further.
 
+**See also:** [Masons](#e1031)
+
 **References:** III.1 ¶3
 
 <a id="e0641"></a>
-### Free Spirit
+### Free spirit
 *term*
 
 **The spirit released in trance, which can range through its sphere, reveal hidden things and philosophize, though its freedom does not guarantee truth.**
 
 Atwood speaks of “the intrinsic intelligence and power of the Free Spirit which can expatiate into the whole circumference of its sphere and reveal hidden things” [II.3 ¶4]. This is the spirit released in trance; it can philosophize, but she warns that its freedom does not guarantee truth [II.3 ¶4].
 
+**See also:** [Spirit](#e1644)
+
 **References:** II.3 ¶4
 
 <a id="e0642"></a>
-### free Will
+### Free will
 *term*
 
 **Not motiveless choice but the operative power freed from bondage, whose effects follow the will in full accord: the Almighty Magnet.**
@@ -7019,15 +7497,19 @@ Atwood: “That was free Will, not the motiveless chimera which human fancy has 
 
 **Identified with:** Almighty Magnet [III.3 ¶71]
 
+**See also:** [Will](#e1939)
+
 **References:** III.3 ¶71
 
 <a id="e0643"></a>
-### Freed Will
+### Freed will
 *term*
 
 **The liberty, in life, into which souls emerge from Lethe and Egyptian darkness.**
 
 Atwood speaks of souls emerging from Lethe and Egyptian darkness into “the glorious liberty of the Freed Will in life” [III.1 ¶70].
+
+**See also:** [Will](#e1939)
 
 **References:** III.1 ¶70
 
@@ -7042,12 +7524,14 @@ Atwood lists Freher among the Adepts who compare the work to the Christian Creed
 **References:** I.3 n49, I.3 n53, I.3 n67, I.3 n69, IV.3 n16, IV.3 ¶27
 
 <a id="e0645"></a>
-### the French adept
+### French adept
 *collective voice*
 
 **An anonymous adept Atwood cites for the two principles destroying each other and turning into a Fifth Essence.**
 
 Atwood quotes the French adept: “the two dragons do bite one another very cruelly” [III.1 ¶58]. She uses the image to show the two principles destroying each other and turning into a Fifth Essence.
+
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
 
 **References:** III.1 ¶58
 
@@ -7062,17 +7546,19 @@ Norton, quoted: “The harder stuffe is called Freton, Of clipping of other glas
 **References:** III.4 ¶31
 
 <a id="e0647"></a>
-### fugitive Ens
+### Fugitive ens
 *term*
 
 **In a passage given in Hermes' voice, the volatile element that flies away, which sulphurs and albuminous bodies hold and detain.**
 
 Quoted from Hermes: sulphurs and albuminous bodies are said to be those “which hold also and detain the fugitive Ens” [I.3 ¶21]. The context suggests the term means the volatile principle that tends to escape and must be fixed.
 
+**See also:** [Ens](#e0490)
+
 **References:** I.3 ¶21
 
 <a id="e0648"></a>
-### fumosities
+### Fumosities
 *term*
 
 **In Geber's account, what fills a fanciful soul so that it cannot receive the true intention of natural things.**
@@ -7083,7 +7569,7 @@ Geber, as quoted by Atwood among the impediments to the Art, says that a fancifu
 
 <a id="e0649"></a>
 ### Furnace
-*term* · furnace, furnaces, Furnaces
+*term* · furnaces
 
 **An instrument of the work; Atwood says the old writers devised furnaces for every part, many misleadingly, while the true furnace is a little simple shell.**
 
@@ -7094,7 +7580,7 @@ Atwood says the old writers devised a furnace for every part of the work, many o
 **References:** III.4 ¶38
 
 <a id="e0650"></a>
-### fusil salt
+### Fusil Salt
 *term* · fusil kind of salt
 
 **In a quoted adept's account, a transparent salt seen in the waters of the vessel, said to be no different from pumice stone.**
@@ -7102,6 +7588,8 @@ Atwood says the old writers devised a furnace for every part of the work, many o
 An ancient and much esteemed Adeptus (identified in n26 as Grasseus) describes the waters of the vessel as “full of a certain transparent salt” [III.2 ¶25], and judges “that fusil kind of salt to be not different from pumice stone” [III.2 ¶25]. So the text equates fusil salt with pumice stone. The plain meaning beyond this is not stated.
 
 **Identified with:** pumice stone [III.2 ¶25]
+
+**See also:** [Salt](#e1536)
 
 **References:** III.2 ¶25
 
@@ -7128,7 +7616,7 @@ Atwood says she would as soon have lived in Galileo's days as see the recovered 
 **References:** III.4 ¶12
 
 <a id="e0653"></a>
-### garden
+### Garden
 *term*
 
 **The alchemists' name for the meadow of Divine Ideas, a place of sweet dew where Ideas descending from above are conceived and incorporated.**
@@ -7140,39 +7628,43 @@ Atwood says of the meadow of Divine Ideas (the Pratum) that “the Alchemists in
 **References:** II.4 ¶9
 
 <a id="e0654"></a>
-### garment of Light
+### Garment of light
 *term*
 
 **Something that, in Atwood's account, must be dissected and shorn, in parallel with stripping the Orient Animal's skin.**
 
 Atwood writes that “the whole garment of Light must be dissected, shorn, and the signal of victory be heroically transferred” [III.1 ¶64], in parallel with the stripping of the Orient Animal's skin. Apparently an image for laying open the vital or luminous covering of the subject. The text does not state this meaning directly.
 
+**See also:** [Light](#e0962)
+
 **References:** III.1 ¶64
 
 <a id="e0655"></a>
-### Gate of Blackness
-*term* · happy gate of Blackness, happy gate of blackness
+### Gate of blackness
+*term* · happy gate of Blackness
 
 **The passage at the beginning of the work through which the great change happens, which Atwood ties to the soul's willed dissolution of her bond to the body.**
 
 Atwood quotes the adept's cry: “O happy gate of Blackness! Cries the adept, which art the passage to so glorious a change!” [II.3 ¶37]. She equates it with the “precious death” of the Hebrews and Academics: “That was the way to "precious death", spoken of by the Hebrews and Academics, this the "happy gate of blackness" celebrates by the old adepts” [II.3 ¶37]. She also equates it with the head of Hermes' crow: “the "happy gate of blackness" celebrates by the old adepts, the "head of Hermes’ crow", which is in the beginning of the work” [II.3 ¶37]. In her context it is the soul's willed dissolution of her bond to the body, at the opening of the work. That reading comes from the surrounding passage, not from a stated definition.
 
-**Identified with:** precious death [II.3 ¶37]; [head of Hermes’ crow](#e0728) [II.3 ¶37]
+**Identified with:** precious death [II.3 ¶37]; [Head of Hermes’ crow](#e0728) [II.3 ¶37]
 
 **References:** II.3 ¶37
 
 <a id="e0656"></a>
-### Gate of Putrefaction
+### Gate of putrefaction
 *term*
 
 **The common name, per Atwood, for a stage of dissolution in the work: a dark entrance with Cimmerian windings and continual terror of the Spirit.**
 
 Atwood describes a dark entrance with Cimmerian windings and continual terror of the Spirit, and adds: “This is commonly called the Gate of Putrefaction” [III.1 ¶58]. In context it names the stage of dissolution.
 
+**See also:** [Putrefaction](#e1431)
+
 **References:** III.1 ¶58
 
 <a id="e0657"></a>
-### gates
+### Gates
 *term* · gate
 
 **In the Rosy Cross fraternity's account, the five contested stages of the work, from knowledge of the true matter to projection.**
@@ -7215,7 +7707,7 @@ She reinterprets his “the thing which perfects in minerals, is the substance o
 **References:** I.1 n101, I.1 n102, I.1 n37, I.1 ¶15, I.1 ¶31, I.1 ¶32, I.1 ¶33, I.1 ¶65, I.1 ¶76, I.1 ¶86, I.2 n12, I.2 n39, I.2 n47, I.2 ¶11, I.2 ¶42, I.2 ¶49, I.3 n2, II.1 n43, II.1 n7, II.1 ¶11, II.1 ¶47, III.1 n25, III.1 ¶21, III.2 ¶60, III.4 n1, III.4 n14, III.4 ¶12, III.4 ¶15, III.4 ¶16, III.4 ¶18, III.4 ¶3, III.4 ¶38, III.4 ¶4, III.4 ¶6, IV.3 ¶9
 
 <a id="e0660"></a>
-### genealogical method of ascent
+### Genealogical method of ascent
 *term*
 
 **Atwood's name for the method of the work, indicated by the order of her exposition and identified with the artistic fabrication of the Promethean Fire.**
@@ -7227,8 +7719,8 @@ Atwood says the order of her exposition indirectly indicates “the genealogical
 **References:** IV.4 ¶8
 
 <a id="e0661"></a>
-### generation
-*term* · Generation
+### Generation
+*term*
 
 **Embodied, born mortal life, into which souls descend and from whose bond and strains they must be freed. It is also the process through which every creature is brought into life.**
 
@@ -7236,35 +7728,43 @@ Atwood says the order of her exposition indirectly indicates “the genealogical
 
 **Quoted voices.** Crito says Intellect is withheld from every mortal nature in this life, “this however is not deprived by God but by the essence of generation” [II.1 ¶38]. Iamblicus says prayer “expels whatever is prone to generation, and retains nothing of the dregs of mortality” [III.4 ¶24].
 
+**See also:** [Generation and dissolution](#e0662)
+
 **References:** II.1 ¶38, II.3 n40, II.3 ¶36, II.4 ¶3, II.4 ¶7, III.3 ¶52, III.4 ¶24
 
 <a id="e0662"></a>
-### generation / dissolution
-*term*
+### Generation and dissolution
+*term* · generation, dissolution
 
 **Atwood's principle that what generation binds, the inbred evil, only dissolution can unloose.**
 
 Atwood: “That which generation binds dissolution only can unloose” [IV.4 ¶17]. In context, what generation binds is the inbred evil. See also generation (E0661).
 
+**See also:** [Dissolution](#e0393), [Generation](#e0661)
+
 **References:** IV.4 ¶17
 
 <a id="e0663"></a>
-### generative life
+### Generative life
 *term*
 
 **In the later Appendix, the life into which the life-force is now wasted when it should be related to mind.**
 
 This comes from the Appendix (Table Talk, begun 1860), a later layer of the book. There Atwood says the life-force should be directed to mind: “it is to be related to mind and not to the generative life” [APP ¶134]. In the Aristaeus story, the bees are lost along with “all the faculties of his soul, with the generative life” [APP ¶144].
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶134, APP ¶144
 
 <a id="e0664"></a>
-### generative virtue
-*term* · Generative Virtue
+### Generative virtue
+*term*
 
 **A power which, drawn up into intellectual alliance with the medial life and light, marks the origin of matter for the Platonists. It is alienated and later reunited to mind.**
 
 Reporting the philosophers' view, the text speaks of the origin of matter “when the generative virtue is drawn up into intellectual alliance with the medial life and light” [III.2 ¶9]. In a later passage, whose speaker is unclear, the primary motion of the ebbing life brings it about that “the Generative Virtue, which was alienated, becomes re- united to mind” [III.2 ¶66]. Compare generative life (E0663).
+
+**See also:** [Virtue](#e1886)
 
 **References:** III.2 ¶66, III.2 ¶9
 
@@ -7279,12 +7779,14 @@ Atwood cites Genesis 2:10, “that land of Havilah where good gold is” [III.1 
 **References:** III.1 n4, III.1 ¶8, IV.2 n19, IV.2 ¶30
 
 <a id="e0666"></a>
-### Genesis of Light
+### Genesis of light
 *term*
 
 **Atwood's term for the real, not imaginary, production of Forms in the clarified hypostasis.**
 
 Atwood presents the production of Forms in the clarified hypostasis as real rather than imaginary: “but as the true Genesis of Light” [III.2 ¶26].
+
+**See also:** [Light](#e0962)
 
 **References:** III.2 ¶26
 
@@ -7319,7 +7821,7 @@ Atwood quotes the fourth book of the *Georgics* (no author named) on the binding
 **References:** I.2 n37, I.2 ¶38, I.3 n37, III.2 n21, III.2 n24, III.2 ¶21, III.2 ¶23
 
 <a id="e0670"></a>
-### gibberish
+### Gibberish
 *term*
 
 **A word that a quoted Faraday Society address derives from Geber's mysterious style. For Atwood, that style is deliberate veiling.**
@@ -7330,7 +7832,7 @@ Atwood quotes an address to the Faraday Society that names Geber as the one “f
 
 <a id="e0671"></a>
 ### Glass
-*term* · glass, glasse, glasses
+*term* · glasse, glasses
 
 **In Norton's verse, the vessel material that keeps spiritual matters from escaping, named as the vessel God gave. Vaughan adds that the glass is one.**
 
@@ -7361,7 +7863,7 @@ Proclus is quoted saying faith is “which is then better than every Gnostic ene
 **References:** II.4 ¶40
 
 <a id="e0674"></a>
-### gods
+### Gods
 *term*
 
 **For Atwood, manifestations of the Demiurgic Fire made distinct in Light through Intellect, and the unities of all being. They appear as simple light, not phantasms.**
@@ -7373,8 +7875,8 @@ Atwood asks: “what are all the gods but manifestations of this same Fire germi
 **References:** II.4 ¶26, II.4 ¶29
 
 <a id="e0675"></a>
-### gold
-*term* · Gold
+### Gold
+*term*
 
 **In Atwood's usage, the adepts' name for the Soul, meaning its Light, in the second conjunction. It is also the seed that must be destroyed to be multiplied.**
 
@@ -7382,7 +7884,23 @@ Atwood gives a stated identity: “in the second the Soul, i.e., its Light; whic
 
 **Identified with:** first fruits of his reason [III.3 ¶22]; Soul, i.e., its Light [III.3 ¶30]
 
+**See also:** [Gold](#e1754)
+
 **References:** III.3 ¶22, III.3 ¶30
+
+<a id="e1754"></a>
+### Gold
+*term* · this gold
+
+**The finished product of the work, endued with a magnetical virtue that draws divine increase; also called the terrestrial or Microcosmic Sun and the Stone of Fire.**
+
+The finished product: “this gold is endued with a magnetical virtue” [II.1 ¶25] that draws divine increase. The passage gives it other names: “Whence it has been called likewise the terrestrial or Microcosmic Sun, the triumphal Chariot of Antimony” [II.1 ¶25], and “this is the Stone of Fire seen in bright lines” [II.1 ¶25]. The text does not make clear whether Atwood or the source she follows is speaking.
+
+**Identified with:** terrestrial or Microcosmic Sun; triumphal Chariot of Antimony [II.1 ¶25]; [Stone of Fire](#e1671) [II.1 ¶25]
+
+**See also:** [Gold](#e0675)
+
+**References:** II.1 ¶25
 
 <a id="e0676"></a>
 ### Gold Alchemical
@@ -7397,7 +7915,7 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 **References:** APP ¶20
 
 <a id="e0677"></a>
-### gold of the Wise
+### Gold of the wise
 *term* · our gold, Aurum Sapientum
 
 **In the author of Lucerna Salis, the gold of the Wise is not vulgar gold but a clear, pure water that becomes spiritual.**
@@ -7405,6 +7923,8 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 Atwood reports the author of *Lucerna Salis* as declaring “the gold of the Wise to be by no means vulgar gold; but it is a certain water clear and pure” [III.3 ¶32]. On the packet's reading, this water bears the Lord's lightning, from which all things receive life, and passes through the Alembic; hence, the quoted author says, “this is the reason, continues he, why our gold is become spiritual” [III.3 ¶32]. The gold of the Wise is thus identified with that water (QUOTED: the author of Lucerna Salis).
 
 **Identified with:** a certain water clear and pure [III.3 ¶32]
+
+**See also:** [Philosophers’ gold](#e1314), [The Wise](#e1944)
 
 **References:** III.3 ¶32
 
@@ -7420,7 +7940,7 @@ In a passage attributed to the fraternity of the Rosy Cross, Mercury speaks: “
 
 <a id="e0679"></a>
 ### Golden Bough
-*term* · golden bough, Ramus
+*term* · Ramus
 
 **The Golden Bough, the offering and talisman by which Aeneas descends; Atwood reads it as a ray of living light, the intellect, and a passport into hidden realms.**
 
@@ -7434,10 +7954,10 @@ Asserted identities: = Brancha Spiritualis [II.3 ¶11]; = Caduceus of Hermes and
 
 **Identified with:** Brancha Spiritualis [II.3 ¶11]; Caduceus of Hermes; ferrying Cup of Hercules [III.1 ¶36]
 
-**References:** APP ¶168, APP ¶171, II.3 ¶11, III.1 ¶15, III.1 ¶32, III.1 ¶36
+**References:** II.3 ¶11, III.1 ¶15, III.1 ¶32, III.1 ¶36, APP ¶168, APP ¶171
 
 <a id="e0680"></a>
-### Golden Branch
+### Golden branch
 *term*
 
 **Something drawn to its native soil that passes through death and darkness, takes root, and blossoms into illuminating light; not explicitly identified.**
@@ -7447,7 +7967,7 @@ Atwood (ATWOOD) describes the Golden Branch as drawn to its native soil, which �
 **References:** II.4 ¶7
 
 <a id="e0681"></a>
-### Golden Fleece
+### Golden fleece
 *term*
 
 **In the Table Talk, the purplish outward appearance of the light of Life diffused over the seeker's body in the third life.**
@@ -7457,29 +7977,33 @@ In the Appendix (Table Talk, a later layer), Atwood states: “The Golden Fleece
 **References:** APP ¶22
 
 <a id="e0682"></a>
-### golden seed
+### Golden seed
 *term*
 
 **In Basil, the one thing holding mercury, salt and sulphur, knowledge of which gives the root of life; called also a magnet.**
 
 Quoting Basil (QUOTED: Basil), the text presents the golden seed as the one thing that holds mercury, salt and sulphur; whoever knows it has the root of life. It is equated with a magnet: “this golden seed or magnet” [II.1 ¶11].
 
-**Identified with:** [magnet](#e1009) [II.1 ¶11]
+**Identified with:** [Magnet](#e1009) [II.1 ¶11]
+
+**See also:** [Seed](#e1568)
 
 **References:** II.1 ¶11
 
 <a id="e0683"></a>
-### golden water
+### Golden water
 *term*
 
 **The adept's water, found not in wells or depths but in higher places, as ripe Mercury rises.**
 
 Atwood quotes an adept: “Our golden water, says the adept, is not found in wells, nor in profundities, but in higher places” [III.3 ¶17]; the context connects this with ripe Mercury rising (QUOTED: the adept).
 
+**See also:** [Water](#e1920)
+
 **References:** III.3 ¶17
 
 <a id="e0684"></a>
-### Gordian Knot
+### Gordian knot
 *term*
 
 **Atwood's name for the central difficulty of the Hermetic Mystery: knowing the Salt and its solution.**
@@ -7489,7 +8013,7 @@ Having treated the Salt and its solution, Atwood (ATWOOD) declares: “Here then
 **References:** IV.1 ¶37
 
 <a id="e0685"></a>
-### the Gospel
+### Gospel
 *treatise*
 
 **Cited as carrying the Christian doctrine of fulfillment, which Atwood adds to the other traditions as agreeing with them.**
@@ -7509,7 +8033,7 @@ Atwood notes that the Adepts compare the phenomena of their work to the Gospel t
 **References:** IV.3 ¶27
 
 <a id="e0687"></a>
-### grace
+### Grace
 *term*
 
 **The divine gift by which alone, according to Norton and Kelly, the Art is found and obtained, rather than by study or will.**
@@ -7519,7 +8043,7 @@ Two quoted authorities make grace the condition of the science. Norton's *Ordina
 **References:** III.4 ¶10, IV.1 ¶19
 
 <a id="e0688"></a>
-### grafting and transplanting
+### Grafting and transplanting
 *term*
 
 **The ancients' exact art of growing and subliming the Spirit to higher degrees of concentrated essentiality in successive vessels or forms.**
@@ -7536,6 +8060,8 @@ Atwood (ATWOOD) speaks of “that exact art of grafting and transplanting which 
 
 In a passage cited from Stoboeus through Dr Warburton (QUOTED: Stoboeus / Dr Warburton), the next initiation, “initiation into the Grand Mysteries” [II.3 ¶37], is said to affect the mind as death does.
 
+**See also:** [Mysteries](#e1154)
+
 **References:** II.3 ¶37
 
 <a id="e0690"></a>
@@ -7550,10 +8076,10 @@ Called “an ancient and much esteemed Adeptus”, he supplies (*Theatr. Chem.* 
 
 He is named among the Adepts who compare the work to the Christian Creed [IV.3 ¶27]. In the Appendix (Table Talk, a later layer), under the spelling Grsaeus, his *Aquarium* supplies the analogy of the Stone with Christ the Head Corner Stone, which Atwood endorses as a “versimilitude” [APP ¶46].
 
-**References:** APP ¶46, I.1 n83, I.1 ¶64, I.1 ¶70, III.2 n26, III.2 ¶25, IV.3 ¶27
+**References:** I.1 n83, I.1 ¶64, I.1 ¶70, III.2 n26, III.2 ¶25, IV.3 ¶27, APP ¶46
 
 <a id="e0691"></a>
-### graven image
+### Graven image
 *term*
 
 **In the Table Talk, inwardly a vocal utterance carved into the understanding spirit; outwardly its weakened material form, common idolatry.**
@@ -7562,20 +8088,12 @@ In the Appendix (Table Talk, a later layer), Atwood (ATWOOD) gives an inward mea
 
 **Identified with:** vocal utterance carved into the understanding spirit [APP ¶100]
 
+**See also:** [Image](#e0827)
+
 **References:** APP ¶100
 
-<a id="e0692"></a>
-### the great Apostle (St Paul)
-*person* · the great Apostle, St Paul
-
-**St Paul, cited from 1 Corinthians 15:37 to support the teaching that what is sown must die to be quickened and rise in better form.**
-
-Atwood cites the great Apostle (St Paul), 1 Corinthians 15:37 [III.1 n36], to support the principle that what is sown must die to be quickened and rises in a better form: “thou sowest not that body that shall be” [III.1 ¶30]. She uses the passage approvingly.
-
-**References:** III.1 n36, III.1 ¶30
-
 <a id="e0693"></a>
-### Great Art
+### Great art
 *term*
 
 **The ancients' art, which, Atwood says, Bacon knew nothing of, together with its subject.**
@@ -7585,19 +8103,19 @@ Atwood (ATWOOD) says of Bacon that “he knew nothing of their Great Art, or of 
 **References:** I.2 ¶24
 
 <a id="e0694"></a>
-### great Salt Sea
+### Great Salt sea
 *term*
 
 **In the Table Talk, Wisdom, the Universal Will, which dissipates the impure sulphurs in the individual will.**
 
 In the Appendix (Table Talk, a later layer), Atwood (ATWOOD) glosses the expression herself: “The great Salt Sea (Wisdom, the Universal Will)” [APP ¶94]. It dissipates the impure sulphurs in the individual will. Asserted identities: = Wisdom; = Universal Will [APP ¶94].
 
-**Identified with:** [Wisdom](#e1943) [APP ¶94]; [Universal Will](#e1865) [APP ¶94]
+**Identified with:** [Wisdom](#e1943) [APP ¶94]; [Universal will](#e1865) [APP ¶94]
 
 **References:** APP ¶94
 
 <a id="e0695"></a>
-### great secret
+### Great secret
 *term* · the secret
 
 **The secret of the art, mentioned in the accounts of Kelly, Dee and Philalethes; the text does not say what it is.**
@@ -7607,7 +8125,7 @@ Atwood (ATWOOD) relates that “the secret of making of the Powder was confided 
 **References:** I.1 ¶67
 
 <a id="e0696"></a>
-### the great theologist
+### Great theologist
 *collective voice*
 
 **An authority cited within Proclus's passage on the soul's entry into the Adytum of Life.**
@@ -7617,17 +8135,19 @@ The great theologist is cited within the Proclus passage on the soul's entry int
 **References:** II.4 ¶29
 
 <a id="e0697"></a>
-### Great Unknown
+### Great unknown
 *term*
 
 **The highest reality, unknown because concealed in this life; it becomes known in Identity when the soul concentrates herself.**
 
 Atwood (ATWOOD) speaks of those who “seek to prove Reality in the Great Unknown --- unknown, because concealed in this life” [II.4 ¶42]. According to the passage, it becomes known in Identity when the soul concentrates herself.
 
+**See also:** [Unknown](#e1867)
+
 **References:** II.4 ¶42
 
 <a id="e0698"></a>
-### Great Whole
+### Great whole
 *term* · Whole
 
 **The totality contained proportionally in every portion of existence; simple, and known by contact and intuition in self-knowledge.**
@@ -7637,7 +8157,7 @@ Atwood (ATWOOD) holds “every portion of existence to be continent and comprehe
 **References:** III.2 ¶45, III.2 ¶46
 
 <a id="e0699"></a>
-### Greater and Lesser Good
+### Greater and lesser good
 *term*
 
 **Paired terms: man prepares the way of the Greater Good in the Lesser, and the Lesser is blessed by the Greater.**
@@ -7648,26 +8168,30 @@ Atwood (ATWOOD) gives man's task as “to prepare the way of the Greater in the 
 
 <a id="e0700"></a>
 ### Greater Mysteries
-*term* · greater mysteries
+*term*
 
 **The higher grade of ancient initiation, alone promising assimilation and final contact with the first principle; its doctrine concerned the whole universe.**
 
 Atwood (ATWOOD) says assimilation and final contact with the first principle were promised “to those who were initiated in the Greater Mysteries only” [II.2 ¶5]. Citing Clemens Alexandrinus with approval: “The doctrine of the Greater Mysteries, says Clemens Alexandrinus, related to the whole universe” [II.2 ¶5]. Later she says the revelations she has gathered partly describe “the visions, and awful accompaniments which took place in the celebration of the Greater Mysteries” [II.3 ¶49].
 
+**See also:** [Mysteries](#e1154)
+
 **References:** II.2 ¶5, II.3 ¶49
 
 <a id="e0701"></a>
-### Greater Orb / Lesser World
+### Greater Orb and Lesser World
 *term* · Greater Orb, Lesser World
 
 **In the monk continuing Basil Valentine, two domains each with its Vulcan; the Lesser World's Vulcan amends what the Greater Orb's leaves crude.**
 
 The monk, continuing Basil Valentine (QUOTED: the monk), says: “Whatsoever the Vulcan in the Greater Orb leaves crude and perfects not, that in the Lesser World must be amended by a certain other Vulcan” [IV.1 ¶40]. Apparently the Lesser World's fire completes what the Greater Orb's leaves imperfect; the text does not gloss either domain further here.
 
+**See also:** [Lesser world](#e0958)
+
 **References:** IV.1 ¶40
 
 <a id="e0702"></a>
-### greater world
+### Greater world
 *term*
 
 **In a quoted adept, the world whose virgin womb, Earth without form and water, is where Ruach Elohim is made body.**
@@ -7679,27 +8203,31 @@ A quoted adept (QUOTED: the mysterious adeptest) speaks of “the virgin womb of
 **References:** III.3 ¶50
 
 <a id="e0703"></a>
-### Grecian fables (Midas)
-*collective voice* · Grecian fables, Midas
+### Grecian fables
+*collective voice* — *Midas* · Midas
 
 **Greek fable of Midas, which Atwood reads in the Table Talk as the will starved in possession of the aurific life.**
 
 In the Appendix (Table Talk, a later layer), Atwood uses the Grecian fable of Midas to illustrate the will starved in possession of the aurific life [APP ¶159].
 
+**See also:** [Greek fable (Cadmus, Jason, Orpheus, Aeneas)](#e0708), [Midas](#e1095)
+
 **References:** APP ¶159
 
 <a id="e0704"></a>
-### Greek and Alexandrian Platonists; mystics of the middle ages; the enlightened Fathers of the Christian Church
-*collective voice* · Greek and Alexandrian Platonists, mystics of the middle ages, enlightened Fathers of the Christian Church
+### Greek and Alexandrian Platonists
+*collective voice* — *with the mystics of the middle ages and the Fathers of the Church* · mystics of the middle ages, the enlightened Fathers of the Christian Church
 
 **Groups of writers whose works, Atwood says, give much evidence that the Eleusinian rites differed widely from common report.**
 
 Atwood says the writings of the Greek and Alexandrian Platonists, the mystics of the middle ages and the enlightened Fathers of the Christian Church give much evidence that the Eleusinian rites differed widely from common report [II.4 ¶56]. She cites them in support.
 
+**See also:** [Platonists](#e1349)
+
 **References:** II.4 ¶56
 
 <a id="e0705"></a>
-### the Greek Aristhenes
+### Greek Aristhenes
 *person* · Aristhenes
 
 **Cited to support that the subject is least valued and outwardly dead but alive within, and that preparation removes superfluities.**
@@ -7719,7 +8247,7 @@ Atwood cites the Greek Catholics' hymn for St John's day to illustrate the tradi
 **References:** I.1 ¶24, I.1 ¶25
 
 <a id="e0707"></a>
-### the Greek Divine
+### Greek Divine
 *collective voice*
 
 **An unnamed Greek authority cited as agreeing with others concerning the Matter of the work; the text does not otherwise identify him.**
@@ -7729,18 +8257,20 @@ Cited in support: the Greek Divine is said to have agreed concerning the Matter 
 **References:** III.2 ¶60
 
 <a id="e0708"></a>
-### Greek fable (Cadmus, Jason, Orpheus, Aeneas)
-*collective voice* · Greek fable, Greek fables
+### Greek fable
+*collective voice* — *Cadmus, Jason, Orpheus, Aeneas* · Greek fables
 
 **The Greek heroic fables of Cadmus, Jason, Orpheus and Aeneas, which Atwood decodes as figures of the mind's faculties in the work.**
 
 Atwood decodes these fables: the heroes are those “who represent the Rational Ferment”, while their associates stand for the other faculties of the mind [III.1 ¶66].
 
+**See also:** [Grecian fables (Midas)](#e0703), [Heroes of the ordeal (Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus)](#e0220), [Heroic fables (Theseus, Ariadne, Jason, Medea, Hercules, Eurystheus, Achilles, Ulysses, Minerva, Aeneas, the Sybil)](#e0551), [Labouring heroes (Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason)](#e1298)
+
 **References:** III.1 ¶66
 
 <a id="e0709"></a>
-### the Greek Ontologists
-*collective voice* · Greek Ontologists
+### Greek Ontologists
+*collective voice*
 
 **Greek philosophers whose course Atwood says guided her in following Nature back to her Initial Source.**
 
@@ -7749,18 +8279,20 @@ Cited in support: Atwood says the course of the Greek Ontologists guided her in 
 **References:** IV.4 ¶6
 
 <a id="e0710"></a>
-### the Greek philosophers
-*collective voice* · Greek philosophers
+### Greek philosophers
+*collective voice*
 
 **Greek philosophers whose authority Atwood invokes, in part, to ground the inference that the Mysteries were real and efficacious.**
 
 Their authority partly grounds Atwood's inference that the Mysteries were real and efficacious [II.2 ¶24].
 
+**See also:** [Philosophers](#e1311)
+
 **References:** II.2 ¶24
 
 <a id="e0711"></a>
-### Greek temples to Ceres, Minerva, Apollo, Bacchus
-*collective voice* · Greek temples
+### Greek temples
+*collective voice* — *to Ceres, Minerva, Apollo, Bacchus* · Greek temples to Ceres, Minerva, Apollo, Bacchus
 
 **The Greek temples to Ceres, Minerva, Apollo and Bacchus, cited by Atwood as institutions that ministered to defects of mind and disciplined the understanding for Wisdom.**
 
@@ -7769,22 +8301,38 @@ Atwood cites these temples as illustration: institutions that ministered to defe
 **References:** IV.3 ¶36
 
 <a id="e0712"></a>
-### the Greeks
-*collective voice* · Greeks, Greek philosophy
+### Greeks
+*collective voice* · Greek philosophy
 
 **The Greeks as a collective voice whose doctrine of Wisdom Atwood holds unequalled and whose names and doctrines she repeatedly cites in support of the Hermetic view.**
 
 Atwood holds up the Greek doctrine of Wisdom as unequalled, promising to discuss it later [I.1 ¶70]. She cites Greek usage repeatedly in support: they name the essence freed from gross matter “the Free Ether” [I.2 ¶16]; they call Intelligible Causes gods [II.4 ¶39]; Isis was “by the Greeks called Myrionymous”, the goddess with a thousand names [III.3 ¶62]. Greek philosophy substantializes mind as the substratal matter of existence, and its ethereal hypostasis parallels the alchemists' first matter [III.1 ¶2, III.1 ¶3]. By contrast, the Greeks kept silent about, or poetized, the physical revealments of the Tartarean realms, out of fear of vulgar curiosity [II.3 ¶34].
 
+**See also:** [Greeks (these Greeks, these philosophers)](#e1741), [Greeks and eastern sages (Stoics, Pythagoreans, Platonists, Peripatetics)](#e0713)
+
 **References:** I.1 ¶70, I.2 ¶16, II.3 ¶34, II.4 ¶39, III.1 ¶2, III.1 ¶3, III.3 ¶62
 
+<a id="e1741"></a>
+### Greeks
+*collective voice* — *these Greeks, these philosophers* · These Greeks, these philosophers
+
+**Greek philosophers whose contradictory statements about Matter Atwood explains and defends, comparing them with the Hermetic adepts.**
+
+These Greeks say contradictory things about Matter: that it is one and all, everywhere and nowhere. Atwood explains and defends these statements and compares them with the Hermetic adepts [III.2 ¶51, III.2 ¶52].
+
+**See also:** [Greeks](#e0712)
+
+**References:** III.2 ¶51, III.2 ¶52
+
 <a id="e0713"></a>
-### the Greeks and eastern sages; Stoics, Pythagoreans, Platonists, and Peripatetics
-*collective voice* · the Greeks and eastern sages, Stoics, Pythagoreans, Platonists, Peripatetics
+### Greeks and eastern sages
+*collective voice* — *Stoics, Pythagoreans, Platonists, Peripatetics* · Stoics, Pythagoreans, Platonists, and Peripatetics, Stoics, Pythagoreans, Platonists, Peripatetics
 
 **The Greek and eastern sages and the philosophical schools (Stoics, Pythagoreans, Platonists, Peripatetics) cited together for the ancient doctrine of the Ether as universal source.**
 
 Cited in support of the ancient doctrine of the Ether as universal source, described as “a certain pure and hidden fire” [I.2 ¶12].
+
+**See also:** [Greeks](#e0712), [Platonists](#e1349), [Pythagoreans](#e1435), [Sage](#e1529)
 
 **References:** I.2 ¶12
 
@@ -7802,7 +8350,7 @@ A term from Khunrath, quoted by Atwood: when the bonds of coagulation are relaxe
 
 <a id="e0715"></a>
 ### Green Lion
-*term* · green lion, Grene Lyon, Greene Lyon, Lyon Greene, our Lyon
+*term* · Grene Lyon, Greene Lyon, Lyon Greene, our Lyon
 
 **A name for the matter when first sublimed, so called for its strength and crude vitality; central agent of the Hunting of the Greene Lyon and figured also by Khunrath and Ripley.**
 
@@ -7816,11 +8364,13 @@ Ripley (quoted) says that fools give the name to vitriol: “vitriall, Which fol
 
 **Identified with:** vitriall (as named by fools) [I.1 ¶65]
 
+**See also:** [Lion](#e0973)
+
 **References:** I.1 ¶65, I.2 ¶40, III.1 ¶65, IV.1 ¶36
 
 <a id="e0716"></a>
-### Gross Work
-*term* · gross work, Gross Worke, Grosse worke, gross worke
+### Gross work
+*term* · Gross Worke, Grosse worke
 
 **The preliminary preparation of the matter, before the dissolution, after which the philosophic work proper begins; long, foul, costly and perilous per Norton.**
 
@@ -7832,20 +8382,24 @@ Atwood also calls it “this said hyper-physical Gross Work” [IV.1 ¶36], with
 
 **Identified with:** preliminary preparation of the matter [I.3 n56]
 
+**See also:** [Works](#e1953)
+
 **References:** I.3 n56, III.4 ¶32, III.4 ¶36, IV.1 ¶25, IV.1 ¶28, IV.1 ¶36
 
 <a id="e0717"></a>
-### ground of wisdom
+### Ground of Wisdom
 *term*
 
 **The understanding which Atwood says must be properly conceived before any experiments are undertaken.**
 
 Atwood advises to “leave off experiments until the ground of wisdom is properly conceived” [I.1 ¶86]: understanding must precede practice.
 
+**See also:** [Wisdom](#e1943)
+
 **References:** I.1 ¶86
 
 <a id="e0718"></a>
-### growth spirit
+### Growth spirit
 *term*
 
 **The spirit of growth in children, identified with the vegetable spirit, more phantastic than the animal, allowing free imagination until the circle of life closes.**
@@ -7853,6 +8407,8 @@ Atwood advises to “leave off experiments until the ground of wisdom is properl
 Atwood, in the Appendix (Table Talk, a later layer): “Children have the growth spirit in them (the vegetable spirit which is more phantastic than the animal)” [APP ¶122]. It allows free imagination until the circle of life closes. Identified with the vegetable spirit.
 
 **Identified with:** [Vegetable spirit](#e1878) [APP ¶122]
+
+**See also:** [Spirit](#e1644)
 
 **References:** APP ¶122
 
@@ -7869,8 +8425,8 @@ Cited in support of the reality of transmutation: one was performed before him i
 ## H
 
 <a id="e0720"></a>
-### H. O’Brien, author of the Round Towers
-*person* · H. O’Brien, O’Brien
+### H. O’Brien
+*person* — *author of the Round Towers* · H. O’Brien, author of the Round Towers, O’Brien
 
 **Author of the Round Towers of Ireland, mildly criticized by Atwood for mistaking the White Paradise for his Emerald Home, yet praised as an estimable work.**
 
@@ -7912,11 +8468,11 @@ Identities: Lethe [II.3 ¶7]; the Purgatory of the wise; the aerial moisture in 
 
 With Morien and Albert, Hali supports the necessity of the vessel or place: “the place is the principle also of the supernatural generation” [II.1 ¶8]. In the Appendix (Table Talk, a later layer), Haly is cited as saying the Alchemical solution is accompanied with noise [APP ¶50].
 
-**References:** APP ¶50, II.1 ¶8
+**References:** II.1 ¶8, APP ¶50
 
 <a id="e0724"></a>
 ### Handicraft
-*term* · handicraft
+*term*
 
 **The ancients' more scientific practical art by which, Atwood says, they experimentally entered the temple of Divine Wisdom.**
 
@@ -7925,14 +8481,16 @@ Atwood: “a more scientific Handicraft enabled the ancients experimentally to e
 **References:** IV.3 ¶37
 
 <a id="e0725"></a>
-### Hands of the Ether
-*term* · hands of the Ether
+### Hands of the ether
+*term*
 
 **The transverse poles of the Ether, formed by the divine differentiation everywhere; in man a natural fire, the fire of the Ether in our life organism.**
 
 Appendix (Table Talk, a later layer), Atwood: “The hands of the Ether are its transverse poles”, formed by the divine differentiation everywhere; “in man a natural fire ---i.e., the fire of the Ether in us, or of our life organism” [APP ¶177].
 
 **Identified with:** transverse poles [APP ¶177]
+
+**See also:** [Ether](#e0508)
 
 **References:** APP ¶177
 
@@ -7947,8 +8505,8 @@ Named as a persecuted adept, sometimes confused with Philalethes [I.1 ¶66, I.1 
 **References:** I.1 ¶66, I.1 ¶73
 
 <a id="e0727"></a>
-### head life
-*term* · Head life
+### Head life
+*term*
 
 **The one life we presently live, the animal and rational life, out of three possible lives; the Hermetically regenerated give it up.**
 
@@ -7956,25 +8514,31 @@ Appendix (Table Talk, a later layer), Atwood: “We live in but one life, the he
 
 **Identified with:** animal, rational life [APP ¶60]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶45, APP ¶60
 
 <a id="e0728"></a>
-### head of Hermes’ crow
+### Head of Hermes’ crow
 *term* · Hermes’ crow
 
 **Per a quoted modern exponent, the black, motionless state at the beginning of the work, after three months' circulation.**
 
 Quoted from “our modern exponent”: “the head of Hermes’ crow is said to be in the beginning of this work” [II.1 ¶23] — the black, motionless state reached after three months' circulation. See also Head of the Crow.
 
+**See also:** [Crow](#e0348)
+
 **References:** II.1 ¶23
 
 <a id="e0729"></a>
-### Head of the Crow
+### Head of the crow
 *term*
 
 **Named by Atwood with Darkness, Night, Saturn, the Antimony of the Wise and Obscurity as present in the hours of conjunction; not defined there.**
 
 Atwood lists it with Darkness, Night, Saturn, the Antimony of the Wise and “Obscurity and the Head of the Crow in the various hours of conjunction” [III.3 ¶13]. Not defined in the record; compare head of Hermes’ crow.
+
+**See also:** [Crow](#e0348)
 
 **References:** III.3 ¶13
 
@@ -7986,10 +8550,12 @@ Atwood lists it with Darkness, Night, Saturn, the Antimony of the Wise and “Ob
 
 Atwood says Lully, Arnold, Bacon and Geber were “abundantly celebrating the virtues of their Head Stone” [III.1 ¶21], in a passage on Reason acting as a ferment; the context apparently links the two, though the record does not state the identity.
 
+**See also:** [Stone](#e1670)
+
 **References:** III.1 ¶21
 
 <a id="e0731"></a>
-### head-consciousness
+### Head-consciousness
 *term*
 
 **The consciousness into which the whole force of regenerate life is brought up in the perfected Corner Stone.**
@@ -7999,7 +8565,7 @@ Appendix (Table Talk, a later layer), Atwood: the whole force of regenerate life
 **References:** APP ¶134
 
 <a id="e0732"></a>
-### Healing Art
+### Healing art
 *term*
 
 **Medicine as once perfectly attained and divinely gifted, then lost through ambition, gain and Galenic theorizing.**
@@ -8009,7 +8575,7 @@ Atwood presents the Healing Art as once perfectly attained and divinely gifted, 
 **References:** IV.3 ¶35
 
 <a id="e0733"></a>
-### heart life
+### Heart life
 *term*
 
 **The higher life into which the lower opens: that which is above and attracts, identified with the feminine principle and Wisdom.**
@@ -8018,10 +8584,12 @@ Appendix (Table Talk, a later layer), Atwood: the higher life into which the low
 
 **Identified with:** feminine principle, Wisdom [APP ¶98]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶97, APP ¶98
 
 <a id="e0734"></a>
-### heat
+### Heat
 *term*
 
 **In Vaughan's words, the heat the operator applies, which must not exceed the natural proportion; its literal nature is not stated.**
@@ -8031,8 +8599,8 @@ Vaughan (quoted) warns of the operator's heat: “if thy heat exceeds the natura
 **References:** III.4 ¶44
 
 <a id="e0735"></a>
-### heaven
-*term* · Heaven
+### Heaven
+*term*
 
 **Per Proclus, intellectual contact with the intelligible; Aristotle distinguishes three senses of the word, and the Hermetists, like Plato, place their earth within heaven.**
 
@@ -8043,39 +8611,43 @@ Proclus (quoted): “Heaven, he says, is the intellectual contact with the intel
 **References:** III.2 ¶36
 
 <a id="e0736"></a>
-### Heaven and Earth
+### Heaven and earth
 *term*
 
 **Two principles which Hermes says are to be joined through the Water; Atwood reads them as the two invisible poles of the Spirit.**
 
 Hermes (quoted): “the Heaven is to be joined mediately with the Earth” [I.3 ¶55], that is, through the Water. Atwood reads the passage as signalizing the two invisible poles of the Spirit [I.3 ¶55].
 
+**See also:** [Earth](#e0446)
+
 **References:** I.3 ¶55
 
 <a id="e0737"></a>
-### Heaven and Earth philosophical
+### Heaven and earth philosophical
 *term*
 
 **An expression, in a quoted adept's voice, for the agent and patient of the work, which must be united in friendship and love.**
 
 Voiced by the Adept Atwood quotes: the Heaven and Earth philosophical are treated as agent and patient, “the Heaven and Earth philosophical, even as agent and patient” [IV.2 ¶30], which must be united in friendship and love. Asserted identity: = agent and patient [IV.2 ¶30].
 
-**Identified with:** [agent and patient](#e0032) [IV.2 ¶30]
+**Identified with:** [Agent and patient](#e0032) [IV.2 ¶30]
 
 **References:** IV.2 ¶30
 
 <a id="e0738"></a>
-### heavenly fire
+### Heavenly fire
 *term*
 
 **The Benedictine Monk's own fire, which stirs up the elemental fire; set against coals and common fire.**
 
 In the words of the Benedictine Monk (quoted): “For I have my heavenly fire, which excites and stirs up the elemental one” [III.3 ¶24]. This fire excites the elemental fire as the matter desires a fitting Form, and is contrasted with coals and common fire [III.3 ¶24].
 
+**See also:** [Fire](#e0575)
+
 **References:** III.3 ¶24
 
 <a id="e0739"></a>
-### heavenly Flyer
+### Heavenly Flyer
 *term* · heavenly bird
 
 **With 'the fire', one of the two agents of the work, glossed by the scholiast as the external and internal agents of the Hermetic work.**
@@ -8095,17 +8667,19 @@ Atwood compares the Hebrew doctrine with the Ethnic Anima Mundi and finds that i
 **References:** I.2 ¶14
 
 <a id="e0741"></a>
-### Hebrew Kabalists / Rabbis
-*collective voice* · Hebrew Kabalists, Rabbis
+### Hebrew Kabalists
+*collective voice* — *Rabbis* · Rabbis
 
 **Hebrew Kabalists and Rabbis, cited by Atwood in support of absolute Idealism, the fall and reunion of creation, reason over authority, and self-inquiry.**
 
 Atwood cites the Hebrew Kabalists and Rabbis in support of absolute Idealism, of creation's fall and reunion, of reason over authority, and of self-inquiry [II.1 ¶40; II.1 ¶41].
 
+**See also:** [Ben Jochai (the learned Rassbi; his disciples)](#e0954), [Kabalistic commentators (mystics of the middle ages; the Rabbis)](#e0915), [Kabalists](#e0917)
+
 **References:** II.1 ¶40, II.1 ¶41
 
 <a id="e0742"></a>
-### the Hebrews and Academics
+### Hebrews and Academics
 *collective voice*
 
 **A group voice whose 'precious death' Atwood equates with the gate of blackness.**
@@ -8122,7 +8696,7 @@ Atwood equates the “precious death” of the Hebrews and Academics with the ga
 
 Atwood quotes “the German philosopher (Hegel)”: “All things, says the German philosopher (Hegel), have their commencement in pure Being” [III.2 ¶30]. She uses this as a contrast: abstraction reaches pure Being, which is equal to non-Being, but only as a void [III.2 ¶30]. In the Appendix (Table Talk, a later layer) he is named among modern metaphysicians who took their starting point from the Mystics [APP ¶96], and appears again in the same list as one who 'saw it' [APP ¶117].
 
-**References:** APP ¶117, APP ¶96, III.2 ¶30
+**References:** III.2 ¶30, APP ¶117, APP ¶96
 
 <a id="e0744"></a>
 ### Heliodorus
@@ -8162,7 +8736,9 @@ Atwood says Heraclitus' metaphysics agrees in essentials with Aristotle's [I.1 �
 
 In the Appendix (Table Talk, a later layer), Hercules' labour of cleansing the Augean Stable figures the cleansing of the mineral soul [APP ¶71], and his grief for Hylas illustrates the same point as the Iliad [APP ¶109]. In the main text, Hippocrates is said to have been honored by the Athenians with the same gifts as Hercules and Aesculapius [IV.3 ¶34].
 
-**References:** APP ¶109, APP ¶71, IV.3 ¶34
+**See also:** [Heroes of the ordeal (Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus)](#e0220), [Labouring heroes (Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason)](#e1298)
+
+**References:** IV.3 ¶34, APP ¶109, APP ¶71
 
 <a id="e0748"></a>
 ### Herman Conringius
@@ -8175,8 +8751,8 @@ Atwood criticizes Herman Conringius, author of *De Hermetica Aegyptior, vetere e
 **References:** I.1 n1, I.1 ¶3
 
 <a id="e0749"></a>
-### Herman Fichtuld (Fichtuld)
-*person* · Herman Fichtuld, Fichtuld
+### Herman Fichtuld
+*person* · Fichtuld
 
 **Author of Probier Stein, listed by Atwood among persecuted adepts.**
 
@@ -8200,11 +8776,11 @@ Hermes (Trismegistus) is the starting point of the Hermetic story, an adept king
 
 **Also cited.** Trismegistus as acquainted with the divine water [I.1 ¶20]; the Stone generated with light and bringing forth clouds and darkness [II.3 ¶30]; furnace and glass making a new world, via Fludd's Mosaica [II.3 ¶52; II.3 n58]; “our Son, as Hermes calls him”, a personification of the intellectual purpose [III.1 ¶36]; equal Spirits, “both need the help of the other” [III.1 ¶41]; the necessity of labor, via Eirenaeus [IV.1 ¶6], and his toil for 'the blessed Lunary of Diana' [III.2 ¶64]; in Norton's verse, the water of crude Mercury [III.3 ¶74] and “Ignis et Azoth tibi sufficient” [IV.2 ¶13].
 
-**References:** APP ¶18, APP ¶51, I.1 ¶15, I.1 ¶20, I.1 ¶31, I.1 ¶36, I.1 ¶6, I.1 ¶64, I.1 ¶7, I.2 n41, I.2 ¶43, I.2 ¶50, I.3 n17, I.3 n19, I.3 n31, I.3 n39, I.3 n40, I.3 n42, I.3 n43, I.3 n44, I.3 n50, I.3 n63, I.3 n65, I.3 n66, I.3 n69, I.3 n71, I.3 ¶1, I.3 ¶15, I.3 ¶22, I.3 ¶23, I.3 ¶29, I.3 ¶3, I.3 ¶30, I.3 ¶31, I.3 ¶32, I.3 ¶33, I.3 ¶34, I.3 ¶35, I.3 ¶36, I.3 ¶37, I.3 ¶38, I.3 ¶39, I.3 ¶40, I.3 ¶41, I.3 ¶42, I.3 ¶43, I.3 ¶44, I.3 ¶46, I.3 ¶58, I.3 ¶8, II.1 n13, II.1 n19, II.1 n41, II.1 n6, II.1 ¶11, II.1 ¶14, II.1 ¶23, II.1 ¶25, II.1 ¶43, II.1 ¶8, II.3 n31, II.3 n34, II.3 n58, II.3 ¶27, II.3 ¶30, II.3 ¶52, II.4 ¶15, III.1 n21, III.1 n22, III.1 n23, III.1 n24, III.1 n45, III.1 n47, III.1 n58, III.1 n67, III.1 ¶21, III.1 ¶36, III.1 ¶41, III.1 ¶43, III.1 ¶53, III.1 ¶61, III.2 n23, III.2 n43, III.2 ¶22, III.2 ¶36, III.2 ¶64, III.3 n15, III.3 ¶52, III.3 ¶53, III.3 ¶54, III.3 ¶55, III.3 ¶56, III.3 ¶57, III.3 ¶74, III.4 n22, III.4 n7, III.4 ¶20, III.4 ¶9, IV.1 n16, IV.1 ¶15, IV.1 ¶6, IV.2 n15, IV.2 ¶13, IV.2 ¶18, IV.2 ¶33, IV.2 ¶43, IV.2 ¶44, IV.3 ¶10, IV.3 ¶12, IV.3 ¶14, IV.3 ¶3, IV.3 ¶5, IV.3 ¶7, IV.3 ¶8, IV.3 ¶9
+**References:** I.1 ¶15, I.1 ¶20, I.1 ¶31, I.1 ¶36, I.1 ¶6, I.1 ¶64, I.1 ¶7, I.2 n41, I.2 ¶43, I.2 ¶50, I.3 n17, I.3 n19, I.3 n31, I.3 n39, I.3 n40, I.3 n42, I.3 n43, I.3 n44, I.3 n50, I.3 n63, I.3 n65, I.3 n66, I.3 n69, I.3 n71, I.3 ¶1, I.3 ¶15, I.3 ¶22, I.3 ¶23, I.3 ¶29, I.3 ¶3, I.3 ¶30, I.3 ¶31, I.3 ¶32, I.3 ¶33, I.3 ¶34, I.3 ¶35, I.3 ¶36, I.3 ¶37, I.3 ¶38, I.3 ¶39, I.3 ¶40, I.3 ¶41, I.3 ¶42, I.3 ¶43, I.3 ¶44, I.3 ¶46, I.3 ¶58, I.3 ¶8, II.1 n13, II.1 n19, II.1 n41, II.1 n6, II.1 ¶11, II.1 ¶14, II.1 ¶23, II.1 ¶25, II.1 ¶43, II.1 ¶8, II.3 n31, II.3 n34, II.3 n58, II.3 ¶27, II.3 ¶30, II.3 ¶52, II.4 ¶15, III.1 n21, III.1 n22, III.1 n23, III.1 n24, III.1 n45, III.1 n47, III.1 n58, III.1 n67, III.1 ¶21, III.1 ¶36, III.1 ¶41, III.1 ¶43, III.1 ¶53, III.1 ¶61, III.2 n23, III.2 n43, III.2 ¶22, III.2 ¶36, III.2 ¶64, III.3 n15, III.3 ¶52, III.3 ¶53, III.3 ¶54, III.3 ¶55, III.3 ¶56, III.3 ¶57, III.3 ¶74, III.4 n22, III.4 n7, III.4 ¶20, III.4 ¶9, IV.1 n16, IV.1 ¶15, IV.1 ¶6, IV.2 n15, IV.2 ¶13, IV.2 ¶18, IV.2 ¶33, IV.2 ¶43, IV.2 ¶44, IV.3 ¶10, IV.3 ¶12, IV.3 ¶14, IV.3 ¶3, IV.3 ¶5, IV.3 ¶7, IV.3 ¶8, IV.3 ¶9, APP ¶18, APP ¶51
 
 <a id="e0751"></a>
-### Hermes, his Bird
-*term*
+### Hermes’ Bird
+*term* · Hermes, his Bird
 
 **Apparently a name for the Matter, whose many epithets (heaven, water, mercury, salt nitre, sulfur, caput mortuum and others) are said to be those of Hermes' Bird, never at rest.**
 
@@ -8223,7 +8799,7 @@ In verse quoted from the *Marrow of Alchemy*, the single glass holding the compo
 **References:** IV.3 ¶23
 
 <a id="e0753"></a>
-### the Hermetic and Chaldaic Fragments
+### Hermetic and Chaldaic Fragments
 *collective voice*
 
 **Ancient fragments whose 'soul-stirring syllables', Atwood says, agree in the same divine tradition.**
@@ -8233,8 +8809,8 @@ Atwood cites the Hermetic and Chaldaic Fragments in support: their 'soul-stirrin
 **References:** IV.4 ¶28
 
 <a id="e0754"></a>
-### Hermetic Art
-*term* · Hermetic art, Art, the Art, our art, Hermetic science, art of Alchemy, Art of Wisdom, Art of Divine works, hermetic art
+### Hermetic art
+*term* · Art, our art, Hermetic science, art of Alchemy, Art of Wisdom, Art of Divine works
 
 **The art at the centre of the book: the perfecting of the mineral life in man, an operation on the Undetermined Subject, identified with Theurgy and with Alchemy.**
 
@@ -8246,10 +8822,12 @@ Identities: = Theurgy and = Art of Divine works: “Now the Egyptians, that is t
 
 **Identified with:** [Theurgy](#e1748) [II.2 ¶3]; Art of Divine works [II.2 ¶3]; [Alchemy](#e0043) [I.1 ¶84]
 
-**References:** APP ¶48, I.1 ¶12, I.1 ¶13, I.1 ¶39, I.1 ¶43, I.1 ¶56, I.1 ¶64, I.1 ¶76, I.1 ¶84, I.1 ¶86, II.1 ¶25, II.2 ¶18, II.2 ¶2, II.2 ¶3, III.2 ¶22
+**See also:** [Art of Alchemy](#e0127), [Art of Wisdom](#e0131), [Hermetic science](#e0768)
+
+**References:** I.1 ¶12, I.1 ¶13, I.1 ¶39, I.1 ¶43, I.1 ¶56, I.1 ¶64, I.1 ¶76, I.1 ¶84, I.1 ¶86, II.1 ¶25, II.2 ¶18, II.2 ¶2, II.2 ¶3, III.2 ¶22, APP ¶48
 
 <a id="e0755"></a>
-### Hermetic Artifice
+### Hermetic artifice
 *term*
 
 **The Art whose province is to resuscitate the buried Source of reason and bring it, through self-knowledge, into living experience.**
@@ -8265,6 +8843,8 @@ Atwood: “this it is the province of Hermetic Artifice to resuscitate and bring
 **The operation that obtains the right recipient, separates pure from impure and subtle from gross, and makes agent and patient one.**
 
 Atwood: “by the Hermetic dissolution the right recipient is said to be obtained” [I.2 ¶48]; the same operation separates pure from impure and subtle from gross, and makes agent and patient one [I.2 ¶48].
+
+**See also:** [Dissolution](#e0393)
 
 **References:** I.2 ¶48
 
@@ -8286,15 +8866,19 @@ Atwood says the same faculties are needed “in acquiring the Hermetic doctrine,
 
 Atwood presents her cited passages as clarifying matters “with respect to the method and true basis of the Hermetic experiment” [III.1 ¶71].
 
+**See also:** [Experiment](#e0536)
+
 **References:** III.1 ¶71
 
 <a id="e0759"></a>
-### Hermetic key
+### Hermetic Key
 *term*
 
 **The means by which ancient fables were interpreted as philosophy.**
 
 Atwood mentions writers who “explained them by the Hermetic key” [I.1 ¶70], i.e. read ancient fable as philosophy; the passage does not say what the key is.
+
+**See also:** [Key](#e0920)
 
 **References:** I.1 ¶70
 
@@ -8306,17 +8890,21 @@ Atwood mentions writers who “explained them by the Hermetic key” [I.1 ¶70],
 
 Atwood: the one self-purifying subject is “in turn agent and patient, which are the Hermetic luminaries; in their full representative advancement, the Sun and Moon philosophical” [II.2 ¶26]. Asserted identities: = agent and patient; = Sun and Moon philosophical [II.2 ¶26].
 
-**Identified with:** [agent and patient](#e0032) [II.2 ¶26]; [sun and moon philosophical](#e1693) [II.2 ¶26]
+**Identified with:** [Agent and patient](#e0032) [II.2 ¶26]; [Sun and Moon philosophical](#e1693) [II.2 ¶26]
+
+**See also:** [Hermeticists](#e0775), [Luminaries](#e0992)
 
 **References:** II.2 ¶26
 
 <a id="e0761"></a>
-### the Hermetic Master
-*collective voice* · the hermetic Master
+### Hermetic Master
+*collective voice*
 
 **The voice Atwood cites from the Tract. Aur., cited on the crowned operator, the moral qualifications for Wisdom, and Wisdom as a gift.**
 
 Quoting the Tract. Aur. (and Ripley Revived), Atwood cites the Hermetic Master on the accomplished operator: “henceforth thou art a Crowned King, resting over the Fountain” [III.3 ¶17; III.3 n9]; on the moral qualifications for entry into hidden Wisdom, one must strive “to free himself from the usurpation of vice, and to be good, just, and of sound reason” [III.4 ¶15; III.4 n10]; and on Wisdom as not won by effort: “Wisdom was with thee, says the Hermetic Master; it was not gotten by thy care” [IV.1 ¶40; IV.1 n31]. All are cited in support.
+
+**See also:** [Masters](#e1035)
 
 **References:** III.3 n9, III.3 ¶17, III.4 n10, III.4 ¶15, IV.1 n31, IV.1 ¶40
 
@@ -8333,12 +8921,14 @@ Atwood: “This is the work --- this is the Hermetic method and its end” [IV.3
 **References:** IV.3 ¶62
 
 <a id="e0763"></a>
-### Hermetic Mystery
-*term* · Hermetic mystery
+### Hermetic mystery
+*term*
 
 **The subject of the whole book: a genuine tradition whose nucleus is Life and whose Key is Light, culminating in divine illumination.**
 
 Atwood defends “the genuine tradition of Hermetic science” against sophists' deceits, holding that public disbelief “are no proofs in philosophy, even if it were without so many witnesses, that the Hermetic mystery is groundless” [I.1 ¶86]. After describing the divine illumination she writes “That was the sum of the Hermetic Mystery” [IV.2 ¶43], the sum being also the ultimate object of the Alchemical Art; what 'that' covers is apparently most directly the illumination of IV.2 ¶39–¶42, but its exact extent is not certain. Finally: “And Life is the nucleus of the whole Hermetic Mystery, and the Key thereof is Light” [IV.4 ¶32].
+
+**See also:** [Mystery](#e1159)
 
 **References:** I.1 ¶86, IV.2 ¶43, IV.4 ¶32
 
@@ -8350,20 +8940,24 @@ Atwood defends “the genuine tradition of Hermetic science” against sophists'
 
 Atwood will not grant Aristotle or Plato the title without more evidence that they practised the art, evidence needed “to prove their claim to the title of Hermetic philosophers” [I.1 ¶17]. Practitioners of the Hermetic art are so called [I.1 ¶12].
 
+**See also:** [Hermeticists](#e0775), [Philosophers](#e1311)
+
 **References:** I.1 ¶17
 
 <a id="e0765"></a>
-### Hermetic Philosophy
-*term* · Hermetic philosophy
+### Hermetic philosophy
+*term*
 
 **Experimental inquiry into the Universal Spirit through man; universal, rational and divine knowledge beside which worldly science is relatively vain.**
 
 In the Appendix (Table Talk, a later layer), Atwood calls Hermetic Philosophy experimentation into the Universal Spirit through man, “a development of the art by which a particular spirit (to use Vaughan’s words) is allied to the universal” [APP ¶53]. In the main text it is knowledge described as universal, rational and divine, beside which worldly science is relatively vain, with “the ground of the whole Hermetic philosophy laid out” [I.1 ¶64].
 
-**References:** APP ¶53, I.1 ¶64
+**See also:** [Philosophy](#e1333)
+
+**References:** I.1 ¶64, APP ¶53
 
 <a id="e0766"></a>
-### Hermetic Process
+### Hermetic process
 *term*
 
 **A regular inquisition into life, in which motion is present with interrogation.**
@@ -8380,17 +8974,19 @@ Atwood, in the Appendix (Table Talk, a later layer): “The Hermetic Process is 
 
 Atwood cites the Hermetic Riddle to illustrate the circulation by which the Flower of Intellect is manifested back to its Archetypal Source: “The First all things in all gave the First Second all things in all, from the all in the First Second to the Third all” [IV.2 ¶20]. In the Appendix (Table Talk, a later layer) its “omnia in omnibus” is identified with the Universal Ether [APP ¶119].
 
-**References:** APP ¶119, IV.2 ¶20
+**References:** IV.2 ¶20, APP ¶119
 
 <a id="e0768"></a>
-### Hermetic Science
-*term* · Hermetic science
+### Hermetic science
+*term*
 
 **Atwood's name for the art the book investigates: an ancient eastern tradition, peculiar and distinct from other philosophy, experimental and practical, embracing physical and moral science.**
 
 In Atwood's own voice, the Hermetic tradition is ancient and eastern: “The Hermetic tradition opens early with the morning dawn in the eastern world. All pertaining thereto is romantic and mystical.” [I.1 ¶2]; it survives in dark and enigmatical monuments, emblems and writings. It is not bound to any one creed or class: “men of every religion, time and country and occupation, have been found professing it” [I.1 ¶31].
 
 She treats it as a discipline of its own, “peculiar and distinct from every other branch of philosophy” [III.4 ¶2], requiring a naturally fitted disposition in its student. It is eminently experimental and practical in its consequences, and — with a hedge on its validity — “the Hermetic Science, supposing this indeed to be well founded, would include both in the ample compass of its experiment” [IV.4 ¶11], that is, both physical and moral science.
+
+**See also:** [Hermetic art](#e0754)
 
 **References:** I.1 ¶2, I.1 ¶31, III.4 ¶2, IV.4 ¶11
 
@@ -8424,6 +9020,8 @@ In the Appendix (Table Talk, a later layer), Atwood writes: “The Hermetic sepu
 
 Atwood explains that Hermetic sublimation is the one operation covering all the named ones — calcination, inceration, fixation and the rest. It is repeated many times, and each repetition changes and improves the matter. She warns against the chemical reading: “This sublimation is not, therefore, exactly to be conceived by analogy with the ordinary chemical process, which is a mere elevation of the subject to the top of the vessel” [I.3 n14].
 
+**See also:** [Sublimation](#e1683)
+
 **References:** I.3 n14
 
 <a id="e0772"></a>
@@ -8434,11 +9032,13 @@ Atwood explains that Hermetic sublimation is the one operation covering all the 
 
 Atwood refers to the Hermetic Tradition as the body of tradition she has run cursorily through [IV.4 ¶10].
 
+**See also:** [Tradition (mythological antique devices)](#e1774)
+
 **References:** IV.4 ¶10
 
 <a id="e0773"></a>
 ### The Hermetic Wedding
-*treatise* · Hermetic Wedding
+*treatise*
 
 **A work cited in the Appendix whose latter part illustrates the sacrifice of the first-fruits.**
 
@@ -8457,12 +9057,14 @@ Atwood cites the Hermetical Triumph in support: it speaks of “the Stone of Phi
 **References:** IV.1 ¶29
 
 <a id="e0775"></a>
-### the Hermeticists
-*collective voice* · Hermeticists
+### Hermeticists
+*collective voice*
 
 **A group voice cited and endorsed in the Appendix: the Mystery is discovered by artificial dissolution of the natural bond of life and regeneration under a reversed law.**
 
 In the Appendix (Table Talk, a later layer), Atwood endorses the Hermeticists' view that the Mystery is discovered by an artificial dissolution of the natural bond of life, and by regeneration under a reversed law [APP ¶7].
+
+**See also:** [Hermetic luminaries](#e0760), [Hermetic philosophers](#e0764)
 
 **References:** APP ¶7
 
@@ -8498,13 +9100,39 @@ Atwood names Herodotus as the historian who recorded the splendour that remained
 
 **References:** I.1 ¶10
 
+<a id="e0220"></a>
+### Heroes of the ordeal
+*collective voice* — *Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus* · Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus, Cadmus, Deucalion, Bacchus, Hercules, Orpheus
+
+**Heroes Atwood says passed the same ordeal, their adventures read as records of the soul's struggle with her inner enemies.**
+
+Atwood names Cadmus, Deucalion, Osiris, Bacchus, Hercules and Orpheus as heroes who passed the same ordeal, and reads their adventures as records of the soul's struggle with her inner enemies [III.3 ¶71].
+
+**See also:** [Greek fable (Cadmus, Jason, Orpheus, Aeneas)](#e0708), [Hercules](#e0747), [Labouring heroes (Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason)](#e1298), [Orpheus](#e1242)
+
+**References:** III.3 ¶71
+
+<a id="e0551"></a>
+### Heroic fables
+*collective voice* — *Theseus, Ariadne, Jason, Medea, Hercules, Eurystheus, Achilles, Ulysses, Minerva, Aeneas, the Sybil*
+
+**The heroic fables Atwood cites to show that the hero never labours alone but is aided by wise counsel, as the Moon aids the seeking Reason.**
+
+Atwood draws on the fables of Theseus and Ariadne, Jason and Medea, Hercules and Eurystheus, Achilles, Ulysses and Minerva, Aeneas and the Sybil to show that the hero never labours alone but is aided by wise counsel, as the Moon or Passive Intelligence aids the seeking Reason [III.1 ¶40].
+
+**See also:** [Greek fable (Cadmus, Jason, Orpheus, Aeneas)](#e0708)
+
+**References:** III.1 ¶40
+
 <a id="e0779"></a>
-### Heroic Fire
+### Heroic fire
 *term*
 
 **Something of ‘illimitable virtue’ that Power and Motive corrects, educates, tames and directs; not further explained.**
 
 Atwood speaks of Power and Motive that “corrects and educates the Heroic Fire, tames and directs its illimitable virtue” [IV.1 ¶33]. The text gives no further explanation of the term here.
+
+**See also:** [Fire](#e0575)
 
 **References:** IV.1 ¶33
 
@@ -8516,15 +9144,19 @@ Atwood speaks of Power and Motive that “corrects and educates the Heroic Fire,
 
 Atwood says that before the work is complete there are “all the labors of that Heroic Intellect to be passed through” [II.2 ¶29].
 
+**See also:** [Intellect](#e0867)
+
 **References:** II.2 ¶29
 
 <a id="e0781"></a>
-### Heroic Will
+### Heroic will
 *term*
 
 **The self-sacrificing will, read in Achilles' ‘vindicative will’, that enters after the loss and stirs the bitter waters to recover the lost kingdom.**
 
 In her allegorical reading of the Iliad, Atwood writes that after the loss “the Heroic Will enters in, self-sacrificing, and stirs the bitter waters” [III.1 ¶30], to recover the lost kingdom; she connects it with Achilles' vindicative will.
+
+**See also:** [Will](#e1939)
 
 **References:** III.1 ¶30
 
@@ -8539,38 +9171,44 @@ Atwood cites Hesiod's theogony (beginning “First of all existed Chaos” [III.
 **References:** III.3 n28, III.3 ¶41, III.3 ¶42
 
 <a id="e0783"></a>
-### Hesperian Apples of Gold
+### Hesperian apples of gold
 *term*
 
 **Atwood's image for the three offspring or supernal benefits that Life brings forth and sacrifices at each passage from one form of perfection to another.**
 
 Atwood describes Life bringing forth, at each passage from one form of perfection to another, three offspring or supernal benefits, “as it were three Hesperian Apples of Gold” [III.4 ¶25], which it sacrifices in turn.
 
+**See also:** [Gold](#e1754)
+
 **References:** III.4 ¶25
 
 <a id="e0784"></a>
-### hidden elements
+### Hidden elements
 *term*
 
 **That in which the whole mystery is comprehended; the philosophers found them out and increased them.**
 
 The whole mystery is said to be comprehended in the hidden elements; of the philosophers it is said “they themselves found out these hidden elements, and themselves increased them” [II.1 ¶14]. The voice is unclear from the record. Compare hidden Wisdom, which hides beneath these elements [I.3 ¶25].
 
+**See also:** [Elements](#e0469)
+
 **References:** II.1 ¶14
 
 <a id="e0785"></a>
-### hidden Wisdom
+### Hidden Wisdom
 *term*
 
 **In Hermes as quoted, the hidden Wisdom that comprehends all the world's wisdoms; learning the Arts consists in discovering the hidden elements beneath which it hides.**
 
 Hermes, quoted by Atwood, says: “All the wisdoms of the world, O son, are comprehended in this my hidden Wisdom” [I.3 ¶25]. The learning of the Arts consists in discovering the hidden elements beneath which this Wisdom hides.
 
+**See also:** [Wisdom](#e1943)
+
 **References:** I.3 ¶25
 
 <a id="e0786"></a>
-### hierophant
-*term* · Hierophant, Hierophanta
+### Hierophant
+*term* · Hierophanta
 
 **The officiant of the inner temple who passed aspirants on; in Clemens Alexandrinus, the Lord himself, who seals and illuminates the adepts in the true mysteries.**
 
@@ -8581,8 +9219,8 @@ Quoting Clemens Alexandrinus, she gives the term a spiritual sense: “it is the
 **References:** II.2 ¶5, II.3 ¶36, IV.2 ¶16
 
 <a id="e0787"></a>
-### the higher Mystics
-*collective voice* · higher Mystics
+### Higher Mystics
+*collective voice*
 
 **A group whose atmosphere, Atwood says in the Appendix, opens the depths of St Paul, in contrast to the commentators.**
 
@@ -8600,29 +9238,9 @@ Hippocrates is named, after Pliny, as the illustrator of medicine, contemporary 
 
 **References:** I.1 ¶12, III.2 ¶28, IV.3 ¶32, IV.3 ¶34
 
-<a id="e0789"></a>
-### his biographer (of Pythagoras)
-*collective voice* · biographer of Pythagoras
-
-**Unnamed biographer of Pythagoras, cited as reporting that Pythagoras healed and purified his followers' souls by divine arts.**
-
-Atwood cites Pythagoras' biographer as reporting that Pythagoras healed and purified the souls of his followers by divine arts [II.2 ¶11].
-
-**References:** II.2 ¶11
-
-<a id="e0790"></a>
-### his ingenious disciple (of Cornelius Agrippa; not named)
-*collective voice* · his disciple (Agrippa's)
-
-**An unnamed disciple of Cornelius Agrippa, cited for ‘more suggestive language’ on the work's sequence and for Agrippa's poverty after his failure.**
-
-Atwood cites Agrippa's unnamed “ingenious disciple” as expressing, in more suggestive language, the joining, siege and creature sequence of the work: “Take our two serpents, which are to be found everywhere on the face of the earth” [III.1 ¶50]. She cites him again on Agrippa's poverty resulting from his failure: “This was it, adds his disciple, that made his necessities so vigorous and his purse so weak” [IV.1 ¶36].
-
-**References:** III.1 ¶50, IV.1 ¶36
-
 <a id="e0791"></a>
-### Histoire Hermetique; Lives of the Adepts; Les Hieroglyphiques de N. Flammel
-*collective voice*
+### Histoire Hermetique
+*collective voice* — *with Lives of the Adepts and Les Hieroglyphiques de N. Flammel* · Lives of the Adepts, Les Hieroglyphiques de N. Flammel
 
 Cited for reference only.
 
@@ -8638,9 +9256,19 @@ Atwood uses Holbein as a contrast: “The pictures, of Holbein are not less beau
 
 **References:** III.4 ¶8
 
+<a id="e1755"></a>
+### Holi letter
+*collective voice* · this holi letter
+
+**A Latin sentence that Norton's verse tells the reader to follow; the text does not say where it comes from.**
+
+Inside the Norton verse quoted at III.4 ¶17, “this holi letter” is the sentence to follow: “Attingens a fine usque ad finem fortiter, Disponens omnia suaviter;” [III.4 ¶17] (our rendering: reaching mightily from end to end, ordering all things sweetly). The text does not say who wrote the sentence.
+
+**References:** III.4 ¶17
+
 <a id="e0793"></a>
-### Holy Writ / Pentateuch / Old Testament
-*treatise* · Holy Writ, Pentateuch, Old Testament
+### Holy Writ
+*treatise* — *Pentateuch, Old Testament* · Pentateuch, Old Testament
 
 **Scripture, cited as read by the Kabalists as divine symbols.**
 
@@ -8658,10 +9286,10 @@ Atwood reads Homer allegorically throughout. From the thirteenth book of the Ody
 
 In the Appendix (Table Talk, a later layer) she states that the Hermetic is the only true key to the Iliad and Odyssey [APP ¶157], and identifies Proteus' last subterfuge, his transformation into a tree, with the tree of the Golden Bough, illustrating the elusive Protean life [APP ¶171].
 
-**References:** APP ¶157, APP ¶171, II.4 ¶5, II.4 ¶6, II.4 ¶7, III.1 n32, III.1 n35, III.1 ¶25, III.1 ¶29, III.1 ¶30, IV.2 n22, IV.2 ¶33
+**References:** II.4 ¶5, II.4 ¶6, II.4 ¶7, III.1 n32, III.1 n35, III.1 ¶25, III.1 ¶29, III.1 ¶30, IV.2 n22, IV.2 ¶33, APP ¶157, APP ¶171
 
 <a id="e0795"></a>
-### Homogeneal Nature
+### Homogeneal nature
 *term*
 
 **Nature of the same kind, which the perfected Spirit draws everywhere into itself.**
@@ -8671,18 +9299,20 @@ Atwood describes the perfected Spirit as drawing “the Homogeneal Nature everyw
 **References:** IV.3 ¶29
 
 <a id="e0796"></a>
-### Homogeneal Subject
+### Homogeneal subject
 *term*
 
 **The one uniform substance in nature that is the material basis of Hermetic philosophy and sole principle of transmutation, life, increase and perfection.**
 
 Atwood posits “the existence of a Homogeneal Subject in nature” [I.2 ¶49]: one uniform substance that is the material basis of Hermetic philosophy and the sole principle of transmutation, life, increase and perfection.
 
+**See also:** [Subject](#e1675)
+
 **References:** I.2 ¶49
 
 <a id="e0797"></a>
-### Hone soit qui mal y pense (unattributed)
-*collective voice* · Hone soit qui mal y pense
+### Hone soit qui mal y pense
+*collective voice* — *unattributed*
 
 **An unattributed motto Atwood invokes in support of her point against the charge of impiety.**
 
@@ -8701,22 +9331,26 @@ Atwood, in the Appendix (Table Talk, a later layer), speaks of “the fixation b
 **References:** APP ¶173
 
 <a id="e0799"></a>
-### Human Form
+### Human form
 *term*
 
 **In Apuleius' tale as Atwood cites it, the form Lucius regains with the goddess's help when he sheds the ass's hide.**
 
 The voice is the quoted Apuleius. The goddess promises Lucius that “by whose assistance you will return to the Human Form” [II.4 ¶17]. Return to the Human Form means shedding the ass's hide.
 
+**See also:** [Form](#e0627)
+
 **References:** II.4 ¶17
 
 <a id="e0800"></a>
-### Human Will
+### Human will
 *term*
 
 **The human will, which Atwood says has corroborative efficacy when it acts in concert with its Final Cause to fulfil it.**
 
 Atwood speaks of “the corroborative efficacy of the Human Will, acting in concert with its Final Cause to fulfill it” [III.4 ¶28]. The record gives the Will a supporting power in the work only when it acts in concert with its Final Cause.
+
+**See also:** [Will](#e1939)
 
 **References:** III.4 ¶28
 
@@ -8747,12 +9381,14 @@ The records do not say whether the two uses are meant to be the same thing.
 **References:** I.2 ¶29, III.3 ¶46
 
 <a id="e0803"></a>
-### hymn to Mercury (source not stated)
-*collective voice* · hymn to Mercury
+### Hymn to Mercury
+*collective voice* — *source not stated*
 
 **A hymn to Mercury, its source not named, that Atwood quotes as illustrating Mercury 'with like allusion'.**
 
 Atwood quotes a hymn, without naming its source, as illustrating Mercury “with like allusion”: “Hear me, O Mercury, and Son of Maia; the bright expositor of things!” [I.2 ¶36].
+
+**See also:** [Mercury](#e1065)
 
 **References:** I.2 ¶36
 
@@ -8767,7 +9403,7 @@ Atwood names Hypatia as the person who taught Synesius the occult truths of the 
 **References:** I.1 ¶27
 
 <a id="e0805"></a>
-### hyperphysical
+### Hyperphysical
 *term*
 
 **Atwood's word, applied to Democritus' occult researches and to Plato's whole philosophy with its mystic, recondite character.**
@@ -8777,8 +9413,8 @@ Atwood applies the word to Democritus' occult researches, such as making preciou
 **References:** I.1 ¶12, I.1 ¶17
 
 <a id="e0806"></a>
-### hypostasis
-*term* · Hypostasis, hypostatical, hypostatic
+### Hypostasis
+*term* · hypostatical, hypostatic
 
 **Atwood's recurring, undefined term, apparently for the substantial ground of a being, which must be dissolved and renewed and is to be redeemed as reason's true objective reality.**
 
@@ -8800,10 +9436,12 @@ The common thread, as these uses suggest, is a substantial ground or root of bei
 
 **Identified with:** radix of the reason that seeks [APP ¶171]; new world / new stone [II.3 ¶52]
 
-**References:** APP ¶171, I.3 n53, II.3 ¶36, II.3 ¶46, II.3 ¶52, II.4 ¶40, III.1 ¶11, III.1 ¶50, III.2 ¶57, III.2 ¶59, III.3 ¶10, III.3 ¶9
+**See also:** [Clarified hypostasis](#e0288)
+
+**References:** I.3 n53, II.3 ¶36, II.3 ¶46, II.3 ¶52, II.4 ¶40, III.1 ¶11, III.1 ¶50, III.2 ¶57, III.2 ¶59, III.3 ¶10, III.3 ¶9, APP ¶171
 
 <a id="e0807"></a>
-### hypostatic action and passion
+### Hypostatic action and passion
 *term*
 
 **The working of the essences in life, which Atwood says is proved by those who enter experimentally within.**
@@ -8813,7 +9451,7 @@ Atwood refers to “the hypostatic action and passion of the working essences in
 **References:** IV.4 ¶4
 
 <a id="e0808"></a>
-### Hypostatic Reality
+### Hypostatic reality
 *term*
 
 **The reality the consciousness in Hades is taught to aspire to but cannot find by itself through the darkness.**
@@ -8823,7 +9461,7 @@ Atwood speaks of “that Hypostatic Reality towards which it is instructed everm
 **References:** II.3 ¶29
 
 <a id="e0809"></a>
-### hypostatic relations
+### Hypostatic relations
 *term*
 
 **Body, soul and spirit, taken as three relations of one life, distinguished only as agent, patient and offspring.**
@@ -8835,27 +9473,31 @@ Atwood identifies “body, soul, and spirit --- the three hypostatic relations�
 **References:** III.3 ¶67
 
 <a id="e0810"></a>
-### hypostatic union
+### Hypostatic union
 *term*
 
 **In the cited Vaughan, the union of celestial nature, aerial spirit and the soul's aura, which are one in substance.**
 
 The voice is the quoted Vaughan. He names three things, the celestial nature, the aerial spirit and the soul's aura: “These three, being but One substantially, admit of a perfect hypostatic union” [III.3 ¶27]. The Quadrature is achieved “by a transmutation of the hypostatic relations” [III.3 ¶30], which the readers render as an exchange of active and passive. Atwood also speaks in her own voice of a 'hypostatic union' of active and passive power in the Vital Spirit [III.3 ¶9].
 
+**See also:** [Union](#e1838)
+
 **References:** III.3 ¶27, III.3 ¶30
 
 <a id="e0811"></a>
-### hypostatic unit
+### Hypostatic unit
 *term*
 
 **That which is triply introverted and multiplied by the circulatory medium throughout life to manifest the magistery.**
 
 Atwood speaks of the “multiplication of the hypostatic unit by the circulatory medium throughout life” [IV.2 ¶37]. The unit is triply introverted, and its multiplication manifests the magistery. It is not further defined.
 
+**See also:** [Unit](#e1839)
+
 **References:** IV.2 ¶37
 
 <a id="e0812"></a>
-### hypostatical alliance
+### Hypostatical alliance
 *term*
 
 **The union in which Light overcomes darkness, which Atwood offers as the proper antidote to inbred evil.**
@@ -8893,7 +9535,7 @@ Icarus and his father Daedelus appear as an illustration within Basil Valentine'
 **References:** III.2 ¶19
 
 <a id="e0815"></a>
-### Idea of the Good, the Pure, and the True
+### Idea of the Good, the Pure, and the true
 *term*
 
 **The alluring object all inwardly worship, the progeny of Divine Intellect, shining dimly through sense and selfishness as a guide.**
@@ -8905,7 +9547,7 @@ Atwood writes: “The Idea of the Good, the Pure, and the True is the alluring o
 **References:** IV.3 ¶52
 
 <a id="e0816"></a>
-### Ideal Standard
+### Ideal standard
 *term*
 
 **The ideal measure of excellence, which Atwood says modern literal conceits have stripped bare.**
@@ -8926,7 +9568,7 @@ In the main text, the Idea is the pattern a work images. In the ordinary arts th
 
 **Identified with:** universal forms of Nature [APP ¶37]
 
-**References:** APP ¶37, III.4 ¶8, III.4 ¶9
+**References:** III.4 ¶8, III.4 ¶9, APP ¶37
 
 <a id="e0818"></a>
 ### Identic co-operation
@@ -8935,6 +9577,8 @@ In the main text, the Idea is the pattern a work images. In the ordinary arts th
 **A co-operation without which, Atwood says, we can never learn how Nature works; she contrasts it with reasoning from sense.**
 
 Atwood writes: “nor shall we ever learn, without Identic co-operation, how Nature works” [IV.4 ¶12]. She contrasts it with reasoning based on the senses and does not define it further.
+
+**See also:** [Cooperation](#e0334)
 
 **References:** IV.4 ¶12
 
@@ -8948,25 +9592,31 @@ Atwood describes it as the indestructible substance that survives when the whole
 
 **Identified with:** true grain [III.2 ¶20]; root of the world [III.2 ¶20]
 
+**See also:** [Salt](#e1536)
+
 **References:** III.2 ¶20
 
 <a id="e0820"></a>
-### Identic Source
+### Identic source
 *term* · Causal Source
 
 **The source in which the soul, in awe, begins to perceive herself, and into whose consciousness she passes through regeneration.**
 
 Atwood writes that the soul “begins to perceive itself in that Identic Source” [II.3 ¶37]. In the same paragraph she speaks of “the reminiscent consciousness of her Causal Source” [II.3 ¶37]. This apparently names the same source, into whose consciousness the soul passes through regeneration.
 
+**See also:** [Causal source](#e0242)
+
 **References:** II.3 ¶37
 
 <a id="e0821"></a>
-### Identical Spirit
+### Identical spirit
 *term*
 
 **The spirit that rises pure, bright and contrite from its primaeval element when the conflicts end, subject only to its own Law.**
 
 Atwood writes: “the Identical Spirit arises, pure, bright, and contrite, from its primaeval eleemtn” [III.1 ¶68]. It does so at the end of the conflicts, and afterwards it is subject only to its own Law. The text does not explain the word 'Identical'.
+
+**See also:** [Spirit](#e1644)
 
 **References:** III.1 ¶68
 
@@ -8988,10 +9638,12 @@ The voice throughout is Atwood's.
 
 The two senses, the goal of knowing and the separate self to be transcended, sit side by side in the text.
 
+**See also:** [Absolute Identity](#e0010), [True Identity of nature](#e1795)
+
 **References:** I.3 n8, II.4 ¶42, III.2 ¶16, III.3 ¶79, IV.3 ¶60, IV.4 ¶27
 
 <a id="e0823"></a>
-### idolatry
+### Idolatry
 *term* · idols
 
 **In the later Table Talk, Atwood's special sense of idolatry: forming the First Matter to a particular end of one's own, or stopping at any finite gift instead of the Universal.**
@@ -9001,7 +9653,7 @@ Both records come from the Appendix (Table Talk, a later layer) and are in Atwoo
 **References:** APP ¶135, APP ¶37
 
 <a id="e0824"></a>
-### ignis Philosophorum
+### Ignis Philosophorum
 *term*
 
 **The philosophers' fire, which the later Table Talk distinguishes from Vulcan (Motion), the stirrer up of the fire.**
@@ -9012,7 +9664,7 @@ In the Appendix (Table Talk, later layer), Atwood says: “Vulcan is not the fir
 
 <a id="e0825"></a>
 ### Iliad
-*treatise* · the Iliad
+*treatise*
 
 **The poem as Atwood quotes it, for mutual aid, for the passing on of healing virtues, and (in Table Talk) for the connate spirit deprived of its understanding spirit.**
 
@@ -9024,7 +9676,7 @@ Book 11 illustrates how healing virtues are handed on: “Such as sage Chiron, s
 
 In the Appendix (Table Talk, later layer), the episode after the death of Patroclus illustrates the connate spirit deprived of its understanding spirit [APP ¶109].
 
-**References:** APP ¶109, III.1 n52, III.1 ¶45, III.1 ¶46, IV.3 n11, IV.3 ¶33
+**References:** III.1 n52, III.1 ¶45, III.1 ¶46, IV.3 n11, IV.3 ¶33, APP ¶109
 
 <a id="e0826"></a>
 ### Illumination
@@ -9038,7 +9690,7 @@ The voice is the quoted Iamblicus, as Atwood reports him: “The first, recapitu
 
 <a id="e0827"></a>
 ### Image
-*term* · image
+*term*
 
 **The self as likeness of its divine source, which one reflects into for self-knowledge and passes beyond toward the Archetype.**
 
@@ -9056,10 +9708,12 @@ As Atwood reports Agrippa, man is called the Image of God because he contains th
 
 **Identified with:** man [II.1 ¶9]
 
+**See also:** [Gods](#e0674)
+
 **References:** II.1 ¶9, III.3 ¶78
 
 <a id="e0829"></a>
-### imagination
+### Imagination
 *term*
 
 **A faculty with an elevating power, imaged by the Sphinx's 'winds', through which the phantastic spirit becomes capable of divine assimilation.**
@@ -9069,7 +9723,7 @@ Atwood speaks of “the elevating power which the imagination possesses” [III.
 **References:** III.1 ¶6
 
 <a id="e0830"></a>
-### imaginative flux of freed vitality
+### Imaginative flux of freed vitality
 *term*
 
 **Atwood's phrase for what must be arrested, apparently the Protean succession of forms and colours described just before.**
@@ -9079,22 +9733,26 @@ Atwood writes: “To arrest this imaginative flux of freed vitality” [III.2 ¶
 **References:** III.2 ¶24
 
 <a id="e0831"></a>
-### imaginative impressures
+### Imaginative impressures
 *term*
 
 **Impressions of the imagination that persist in a place after their act has passed and pollute its ether.**
 
 Atwood describes imaginative impressures that “even after their act has passed away, hang and pollute the ether of their pertinacious abode” [III.4 ¶42]. Compare the impressures implanted in the Vital Spirit (see impressures).
 
+**See also:** [Impressures](#e0838)
+
 **References:** III.4 ¶42
 
 <a id="e0832"></a>
-### imaginative spirit
+### Imaginative spirit
 *term*
 
 **The faculty that makes apparitions, as in dreams but more intensely.**
 
 Atwood: “For it is the imaginative spirit which is the maker of these images” [II.3 ¶22]. It produces the apparitions as it does in dreams, but more intensely.
+
+**See also:** [Spirit](#e1644)
 
 **References:** II.3 ¶22
 
@@ -9109,17 +9767,19 @@ In *The Hunting of the Greene Lyon*, quoted by Atwood, Imbibition gives the drie
 **References:** III.1 ¶65, IV.3 ¶16
 
 <a id="e0834"></a>
-### immediate efficient
+### Immediate efficient
 *term*
 
 **The direct operative cause of the work, which Atwood says the alchemists concealed.**
 
 Atwood asks of the adepts “what was their immediate efficient?” [II.1 ¶47], meaning the direct operative cause of the work, which they concealed. Shortly after she speaks of arts and media “producing the central efficient into conscious being and effect” [II.1 ¶52]. The text does not say that the 'central efficient' and the 'immediate efficient' are the same.
 
+**See also:** [Efficient](#e0454)
+
 **References:** II.1 ¶47, II.1 ¶52
 
 <a id="e0835"></a>
-### immortal essentiality
+### Immortal essentiality
 *term*
 
 **In Roger Bacon, as quoted, the goal that cannot be reached without a sanctified mind, purified soul and union with God.**
@@ -9129,12 +9789,14 @@ Atwood quotes Roger Bacon: “it is impossible for you to attain this immortal e
 **References:** III.3 ¶28
 
 <a id="e0836"></a>
-### Impediments of Mind
+### Impediments of mind
 *term*
 
 **Geber's list of mental defects that exclude a person from the Art.**
 
 Atwood introduces Geber's list: “respecting the Impediments of Mind, the Arabian continues” [III.4 ¶3]. The defects are lack of sagacity, dullness, fantasy, changeability, beast-like blindness, disbelief and love of money. Each excludes a person from the work.
+
+**See also:** [Mind](#e1099)
 
 **References:** III.4 ¶3
 
@@ -9149,7 +9811,7 @@ Atwood says such tests “prove nothing but to identify the same Imponderable th
 **References:** II.2 ¶7
 
 <a id="e0838"></a>
-### impressures
+### Impressures
 *term* · impressure
 
 **Imaginative impressions implanted in the Vital Spirit by birth into sense, which cloud the spirit and obscure intelligence.**
@@ -9159,7 +9821,7 @@ Atwood speaks of “imaginative impressures which, by the birth into sense, had 
 **References:** II.2 ¶10, II.2 ¶14, II.2 ¶8
 
 <a id="e0839"></a>
-### incorporeal
+### Incorporeal
 *term*
 
 **In the Poemander, that which contains all things, being most capacious, swift and powerful.**
@@ -9169,7 +9831,7 @@ Atwood quotes the Poemander: “Consider that which contains all things” [III.
 **References:** III.3 ¶78
 
 <a id="e0840"></a>
-### incorporeal being
+### Incorporeal being
 *term*
 
 **Being without body, whose necessary existence Aristotle demonstrates; glossed as essential being.**
@@ -9178,10 +9840,12 @@ Atwood refers to Aristotle demonstrating the necessary existence of “incorpore
 
 **Identified with:** essential being [II.1 ¶37]
 
+**See also:** [Being](#e0173)
+
 **References:** II.1 ¶37
 
 <a id="e0841"></a>
-### incrudates
+### Incrudates
 *term*
 
 **In Aliphili, as quoted, the action of the fiery water on fixed gold, reducing it to black earth.**
@@ -9192,7 +9856,7 @@ Atwood quotes Aliphili: the fiery water “incrudates even the mature, constant,
 
 <a id="e0842"></a>
 ### Indefinite
-*term* · indefinite, indefiniteness
+*term* · indefiniteness
 
 **The Matter as formless subject opposed to form, apprehended only by the Indefinite; not to be despised when turned towards things prior.**
 
@@ -9200,49 +9864,45 @@ In a summary drawn from Plotinus and Porphyry, which Atwood endorses, the Indefi
 
 **References:** III.2 ¶49, III.2 ¶53
 
-<a id="e0843"></a>
-### indeterminate / determinate instruments
-*term* · indeterminate instruments, determinate instruments
-
-**Atwood's account from Norton: provisional instruments are used at first until the determinate ones prove themselves fit by the Spirit.**
-
-Atwood, giving what she says Norton shows: “indeterminate instruments must be employed in the beginning, until the determinate shall declare themselves as by the Spirit they are proved fit” [III.4 ¶40]. Compare Vaughan's indeterminate agents [III.4 ¶44].
-
-**References:** III.4 ¶40
-
 <a id="e0844"></a>
-### indeterminate agents / determinate one
+### Indeterminate agents and determinate one
 *term* · indeterminate agents, determinate one
 
 **Vaughan's advice to use agents provisionally until a single determinate agent is found.**
 
 Atwood quotes Vaughan: “Make use of indeterminate agents till thou canst find a determinate one” [III.4 ¶44]. The agents are not further defined. Compare indeterminate / determinate instruments [III.4 ¶40].
 
+**See also:** [One](#e1221)
+
 **References:** III.4 ¶44
 
-<a id="e0845"></a>
-### individuals of various ages and nations, whose names are renowned in philosophy
-*collective voice*
+<a id="e0843"></a>
+### Indeterminate and determinate instruments
+*term* · indeterminate, determinate instruments, indeterminate instruments
 
-**Atwood's description of the witnesses gathered in the Inquiry, many of whom attest the Stone from personal experience.**
+**Atwood's account from Norton: provisional instruments are used at first until the determinate ones prove themselves fit by the Spirit.**
 
-Atwood uses this phrase for the witnesses she has gathered for the Inquiry, many of whom attest the Stone from personal experience [IV.4 ¶2]. She relies on them as support.
+Atwood, giving what she says Norton shows: “indeterminate instruments must be employed in the beginning, until the determinate shall declare themselves as by the Spirit they are proved fit” [III.4 ¶40]. Compare Vaughan's indeterminate agents [III.4 ¶44].
 
-**References:** IV.4 ¶2
+**See also:** [Instrument](#e0865)
+
+**References:** III.4 ¶40
 
 <a id="e0846"></a>
-### inductive philosophy
+### Inductive philosophy
 *term*
 
 **The outward method that moves away from the causal source and cannot originate effects (Appendix).**
 
 In the Appendix (Table Talk, a later layer), Atwood describes something that “the inductive philosophy or method never can arrive at, since it goes further and further out, and finds its strength in remoteness from the causal source” [APP ¶120]. The method cannot originate effects. Compare inductive sciences [III.1 ¶8].
 
+**See also:** [Philosophy](#e1333)
+
 **References:** APP ¶120
 
 <a id="e0847"></a>
-### inductive sciences / modern method of experimenting
-*collective voice* · inductive sciences, modern method of experimenting
+### Inductive sciences
+*collective voice* — *modern method of experimenting* · modern method of experimenting
 
 **The modern experimental sciences, which Atwood criticizes because their long-accumulated facts fail to satisfy reason.**
 
@@ -9251,7 +9911,7 @@ Atwood criticizes the inductive sciences and the modern method of experimenting.
 **References:** III.1 ¶8
 
 <a id="e0848"></a>
-### inferior mineral region
+### Inferior mineral region
 *term*
 
 **The lower region of life where the Sulphur lies bound (Appendix).**
@@ -9268,6 +9928,8 @@ In the Appendix (Table Talk, a later layer), Atwood speaks of the Sulphur as “
 
 In the Appendix (Table Talk, a later layer), Atwood says: “The Infernal is the voluntary agent in life, and represents the Mineral Kingdom.” [APP ¶33]. In man it resides in the lumbar region. Compare Infernal motive wheel [III.1 ¶60].
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶33
 
 <a id="e0850"></a>
@@ -9281,7 +9943,7 @@ Atwood: “the swifter current of the Infernal motive wheel surmounts and eclips
 **References:** III.1 ¶60
 
 <a id="e0851"></a>
-### infidelity
+### Infidelity
 *term*
 
 **Fashionable faithlessness that denounces whatever is new without rational ground; Atwood calls it perhaps the most absurd obstacle to human advancement.**
@@ -9292,7 +9954,7 @@ Atwood defines it: “by infidelity, we mean that fashionable kind of faithlessn
 
 <a id="e0852"></a>
 ### Infinite
-*term* · Infinity, infinite, infinitude
+*term* · Infinity, infinitude
 
 **What the Matter is, 'a certain Infinity', which eludes thought as a circumscribing boundary.**
 
@@ -9321,7 +9983,7 @@ Atwood describes life being led “from the manifest created individuality, back
 **References:** III.3 ¶79
 
 <a id="e0855"></a>
-### Initial Principle
+### Initial principle
 *term*
 
 **The first principle on which the whole Hermetic philosophy and occult tradition depend; named variously by the philosophers, and Wisdom or Supreme Crown in the Zohar.**
@@ -9330,10 +9992,12 @@ Atwood says the whole Hermetic philosophy and every tradition of occult science 
 
 **Identified with:** [Wisdom](#e1943) [III.2 ¶3]; Supreme Crown [III.2 ¶3]; [Unknown](#e1867) [III.2 ¶3]; [Fire](#e0575) [III.2 ¶35]; [Intellect](#e0867) [III.2 ¶35]
 
+**See also:** [Principles](#e1399)
+
 **References:** III.1 ¶3, III.2 ¶3, III.2 ¶34, III.2 ¶35
 
 <a id="e0856"></a>
-### Initial Source
+### Initial source
 *term*
 
 **Nature's origin, into which she was followed and where she works her own annihilation and survives on her redeemed Light.**
@@ -9344,36 +10008,42 @@ Atwood speaks of the effort “to follow mysterious Nature through many intricat
 
 <a id="e0857"></a>
 ### Initiated
-*term* · initiated, initiation
+*term* · initiation
 
 **The Initiated knew the means of the Art and kept silent about them; initiation is admission into the deeper mysteries.**
 
 Atwood notes “that the Initiated were so profoundly silent upon these means” [II.1 ¶53], meaning the means of the Art. Atwood also quotes Iamblicus and Synesius on initiation as admission into the deeper mysteries. Restoration of the soul is obtained by a few 'as a gift of divinity and initiation'. The uninitiated, “those who have not been purely initiated” [II.2 ¶11], are surrounded by 'dense thickets'. Compare Initia [II.2 ¶4].
 
+**See also:** [Initiated (who celebrated her Mysteries in the Eleusian fane)](#e0859)
+
 **References:** II.1 ¶53, II.2 ¶11
 
+<a id="e0859"></a>
+### Initiated
+*collective voice* — *who celebrated her Mysteries in the Eleusian fane* · the initiated, who celebrated her Mysteries in the Eleusian fane
+
+**The initiated who celebrated the goddess's Mysteries in the Eleusian fane, cited by Atwood for how they described the multinominal goddess.**
+
+Atwood invokes the initiated who celebrated the goddess's Mysteries in the Eleusian fane to illustrate the multinominal goddess as they described her [III.3 ¶62].
+
+**See also:** [Initiated](#e0857)
+
+**References:** III.3 ¶62
+
 <a id="e0858"></a>
-### the initiated poet
+### Initiated poet
 *person*
 
 **An unnamed poet, called “the initiated poet”, whose Metamorphoses Atwood cites for an apt figure of the celestial elements.**
 
 Atwood cites the initiated poet's *Metamorphoses* as offering an apt figure of the same celestial elements she is discussing: “the arising circulation of Mature from the four concentering winds” [III.2 ¶36]. The text names him only by this description.
 
+**See also:** [Poets](#e1356)
+
 **References:** III.2 ¶36
 
-<a id="e0859"></a>
-### the initiated, who celebrated her Mysteries in the Eleusian fane
-*collective voice* · the initiated
-
-**The initiated who celebrated the goddess's Mysteries in the Eleusian fane, cited by Atwood for how they described the multinominal goddess.**
-
-Atwood invokes the initiated who celebrated the goddess's Mysteries in the Eleusian fane to illustrate the multinominal goddess as they described her [III.3 ¶62].
-
-**References:** III.3 ¶62
-
 <a id="e0860"></a>
-### Inner Light
+### Inner light
 *term*
 
 **Nature's principle of perfection, held shut up by the bond of coagulation.**
@@ -9382,20 +10052,24 @@ Atwood speaks of Nature's “Inner Light and principle of perfection” [III.2 �
 
 **Identified with:** principle of perfection [III.2 ¶61]
 
+**See also:** [Light](#e0962)
+
 **References:** III.2 ¶61
 
 <a id="e0861"></a>
-### inner sense
+### Inner sense
 *term*
 
 **The hidden meaning of the alchemical records, kept apart from their literal sense.**
 
 Atwood states: “In almost all the records of Alchemy, the inner sense is held aloof from the literal” [III.4 ¶16] — the records' inner meaning is kept apart from what they say on the surface.
 
+**See also:** [Sense](#e1586)
+
 **References:** III.4 ¶16
 
 <a id="e0862"></a>
-### innermost chamber
+### Innermost chamber
 *term* · innermost chamber of life
 
 **In a quoted Hermetic passage, the innermost chamber of life, where the Argent vive is prepared and coagulated.**
@@ -9415,7 +10089,7 @@ Atwood refers to “all the care that is taken to train the true Inquisitor” [
 **References:** III.1 ¶38
 
 <a id="e0864"></a>
-### insphering
+### Insphering
 *term*
 
 **In the later Table Talk, the enclosing of the lower life, figured by the Walls of Troy and done in a great resonance.**
@@ -9439,7 +10113,7 @@ Identities: “it is called by them Typhon, Satan, Aquafoetida, Ignis Gehanna, M
 **References:** III.1 ¶61
 
 <a id="e0866"></a>
-### integral alliance
+### Integral alliance
 *term*
 
 **The alliance and power man enters by conditioning himself in obedience to the Divine Will.**
@@ -9450,7 +10124,7 @@ Atwood writes that by conditionating in obedience to the Divine Will “he comes
 
 <a id="e0867"></a>
 ### Intellect
-*term* · intellect, True Intellect
+*term* · True Intellect
 
 **In ordinary use the power of demonstrative knowing; in its highest sense the purified divine sight that beholds God, separates contraries, and is identified with the true man and the intelligible.**
 
@@ -9462,12 +10136,12 @@ Atwood writes that by conditionating in obedience to the Divine Will “he comes
 
 **Fable readings.** “that court of King Alcinous, to which Ulysses became admitted, is the dominion of Intellect” [IV.1 ¶22], also signified by the Phoeacian ships. The fable conceals “the principiating action of Intellect but the methodical art of the same subtle Antecedent” [IV.2 ¶7] — its bringing itself into natural effect by begetting a supernatural offspring.
 
-**Identified with:** [true man](#e1800) [II.1 ¶35]; [Intelligible](#e0879) [II.1 ¶37]; Light (sudden Light received from it) [III.1 ¶23]; court of King Alcinous [IV.1 ¶22]; subtle Antecedent [IV.2 ¶7]
+**Identified with:** [True man](#e1800) [II.1 ¶35]; [Intelligible](#e0879) [II.1 ¶37]; Light (sudden Light received from it) [III.1 ¶23]; court of King Alcinous [IV.1 ¶22]; subtle Antecedent [IV.2 ¶7]
 
 **References:** II.1 ¶35, II.1 ¶37, II.1 ¶38, II.4 ¶29, III.1 ¶20, III.1 ¶22, III.1 ¶23, III.1 ¶28, III.1 ¶68, III.3 ¶59, IV.1 ¶22, IV.2 ¶7
 
 <a id="e0868"></a>
-### intellect in capacity
+### Intellect in capacity
 *term*
 
 **Aristotle's name, as reported, for human reason: subordinate to essential intellect and perfected only by a new awakening.**
@@ -9490,7 +10164,7 @@ Atwood says the Greeks “derived nature mediately from a certain Intellect in e
 
 <a id="e0870"></a>
 ### Intellection
-*term* · intellection
+*term*
 
 **Intellectual activity in Elysium, whose permanence alone is accompanied by eternity and in which the exemplary Image of Universal Nature is revealed.**
 
@@ -9516,6 +10190,8 @@ Atwood speaks of the “Intellectual Ilumination which proceeds, when the condit
 
 Atwood applies the term to Plato's account of a self-nourishing light suddenly kindled in the soul after long converse and a conforming life, “speaking in like manner of the Intellectual Intuition” [II.3 ¶50]. She also quotes Schelling: “We awaken from the Intellectual Intuition, says Schelling, as from a state of death” [IV.2 ¶33] — waking into created personality, where He can no longer be known.
 
+**See also:** [Intuition](#e0889)
+
 **References:** II.3 ¶50, IV.2 ¶33
 
 <a id="e0873"></a>
@@ -9526,10 +10202,12 @@ Atwood applies the term to Plato's account of a self-nourishing light suddenly k
 
 Atwood presents the Intellectual Law as the self-evident law of reason — intuition, Universals — that proves and orders ordinary inquiry. Moderns recognise “that same Law which the former recognizes but as an abstract boundary of thought only, having its object in sensibles” [II.1 ¶35], whereas the ancients treated it as the subject of nature's efficient force. A higher principle (Intellect/Wisdom) “bears the same relation to our Intellectual Law as does this to the reasoning faculty” [II.1 ¶39].
 
+**See also:** [Law](#e0945)
+
 **References:** II.1 ¶35, II.1 ¶39
 
 <a id="e0874"></a>
-### intellectual purpose
+### Intellectual purpose
 *term*
 
 **The heroic, separable, thrice-refined purpose personified by many heroes and by Hermes' ‘our Son’, which passes through darkness, death and the Stygian waters.**
@@ -9543,7 +10221,7 @@ Identities [III.1 ¶36]: “This is that prolific Mustard-seed, and Light of div
 **References:** III.1 ¶36
 
 <a id="e0875"></a>
-### Intellectual Science
+### Intellectual science
 *term*
 
 **The field whose upper grades are aspired to through labours and dangers.**
@@ -9553,7 +10231,7 @@ Atwood mentions “those who aspire to the upper grades of Intellectual Science�
 **References:** II.2 ¶14
 
 <a id="e0876"></a>
-### Intellectual Vision
+### Intellectual vision
 *term*
 
 **In Proclus as quoted, direct intellectual sight: contact with the Intelligible and union with the Demiurgic Intellect, opposed to syllogistic science.**
@@ -9563,7 +10241,7 @@ Quoting Proclus, Atwood sets Intellectual Vision against syllogistic science: �
 **References:** II.4 ¶41
 
 <a id="e0877"></a>
-### Intellectual World
+### Intellectual world
 *term*
 
 **In Proclus as quoted, what the soul becomes when assimilated as far as possible to the whole intelligible universe.**
@@ -9586,7 +10264,7 @@ In the Rabbi's account from the Zohar, Thought on becoming Spirit takes this nam
 
 <a id="e0879"></a>
 ### Intelligible
-*term* · the Intelligible, intelligible, Intelligible Universe, intelligible universe, Intelligible world, intelligible world, Intelligible Nature
+*term* · Intelligible Universe, Intelligible world, Intelligible Nature
 
 **The object of intellectual contact, existing beyond the mind; the higher of the twofold nature, in which it is better for the soul to abide.**
 
@@ -9594,63 +10272,89 @@ Quoted authorities speak here. The Divine Oracle makes the Intelligible the obje
 
 Plotinus and Porphyry, quoted: “And since there is a twofold nature, one intelligible and the other sensible, it is better indeed for the soul to abide in the intelligible world” [III.2 ¶50]; one is assimilated to it by being established in one's own essence.
 
+**See also:** [Intelligible and sensible](#e0880)
+
 **References:** II.4 ¶41, II.4 ¶48, III.2 ¶50
 
 <a id="e0880"></a>
-### intelligible / sensible
-*term* · Intelligibles
+### Intelligible and sensible
+*term* · intelligible, sensible, Intelligibles
 
 **Empedocles' twofold natural procedure, as Atwood reports it: the sensible derived as an image from the intelligible as its exemplar.**
 
 Atwood reports Empedocles' twofold procedure of nature, “deriving the latter as an image from the former as an exemplar” [III.2 ¶38] — the sensible as image of the intelligible.
 
+**See also:** [Intelligible](#e0879)
+
 **References:** III.2 ¶38
 
 <a id="e0881"></a>
-### Intelligible Causes
+### Intelligible causes
 *term*
 
 **The ordered progression, called gods by the Greeks, through which the perfected souls of the Initiated pass before contemplating the Highest Unity.**
 
 Atwood describes the perfected souls of the Initiated passing through “the whole progression of Intelligible Causes, by the Greeks called gods” [II.4 ¶39] before contemplating the Highest Unity.
 
-**Identified with:** [gods](#e0674) [II.4 ¶39]
+**Identified with:** [Gods](#e0674) [II.4 ¶39]
+
+**See also:** [Causes](#e0244)
 
 **References:** II.4 ¶39
 
+<a id="e0447"></a>
+### Interior of the earth
+*term* · interiora terrae
+
+**In the sage's saying 'visit the interior of the earth', Atwood reads the earth as our chaotic sense-life, not soil.**
+
+Atwood interprets the sage's saying “Visit the interior of the earth rectifying” [II.3 ¶29]: the earth meant is “not the feculent dead soil, but our dark divulsed chaotic life from sense” [II.3 ¶29] (= our dark divulsed chaotic life from sense).
+
+**Identified with:** our dark divulsed chaotic life from sense [II.3 ¶29]
+
+**See also:** [Earth](#e0446)
+
+**References:** II.3 ¶29
+
 <a id="e0882"></a>
-### internal agent
+### Internal agent
 *term*
 
 **An inner agent which, awakened by too great excitation, could cause a disseveration in the Chaos.**
 
 Atwood warns of excess: “lest by too great excitation the internal agent awakening should cause a disseveration in the Chaos” [IV.1 ¶15].
 
+**See also:** [Agent](#e0031)
+
 **References:** IV.1 ¶15
 
 <a id="e0883"></a>
-### internal fire
+### Internal fire
 *term* · the internal
 
 **The adepts' inner fire, essential to the Hermetic work, which alone, purified, perfects it, unlike external or natural fires.**
 
 Atwood names “that internal fire and vessel of the adepts, so essential to the accomplishment of the Hermetic work” [II.1 ¶6]. She contrasts it with the external coal fire and the fire of the natural life, which only alter: “the internal alone is able, being purified, to perfect the work begun” [III.1 ¶43].
 
+**See also:** [Fire](#e0575)
+
 **References:** II.1 ¶6, III.1 ¶43
 
 <a id="e0884"></a>
-### internal light
+### Internal light
 *term*
 
 **The light within the matter, made manifest as the Dragon is occultated, which once manifest must enter another life and die again.**
 
 Atwood describes the light within the matter becoming manifest as the Dragon is occultated; once manifest to sense, it must enter another life and die again [I.3 n43, n44]. Related expressions appear nearby — ‘metallic light’, ‘fermenting light’ and the vital light: “The vital light, as we have before explained, is centrally hidden in nature until it is drawn forth” [I.3 n46] — but the text does not explicitly assert they are the same.
 
+**See also:** [Light](#e0962)
+
 **References:** I.3 n46
 
 <a id="e0885"></a>
-### Introitus Apertus ad Occlusum Regis Palationem / Palatio / Introit. Apert.
-*treatise* · Introit. Apert., Introitus Apertus, Introit. Apertus
+### Introitus Apertus
+*treatise* · Introitus Apertus ad Occlusum Regis Palationem, Palatio, Introit. Apert., Introit. Apertus
 
 Cited for reference only.
 
@@ -9667,7 +10371,7 @@ Atwood cites Psellus for the initiate's inward seeing of the Divine Light withou
 **References:** II.3 ¶46
 
 <a id="e0887"></a>
-### introspective proof
+### Introspective proof
 *term*
 
 **Inward testing, without which inbred evil cannot truly be discovered.**
@@ -9677,7 +10381,7 @@ Atwood holds that inbred evil cannot be truly discovered without inward testing:
 **References:** IV.4 ¶17
 
 <a id="e0888"></a>
-### introversion
+### Introversion
 *term*
 
 **A complete process that must be passed through before the work is perfected; not further defined.**
@@ -9687,7 +10391,7 @@ Atwood states that “it is not perfected unless the whole introversion is passe
 **References:** III.1 ¶21
 
 <a id="e0889"></a>
-### intuition
+### Intuition
 *term* · Intuitive faith
 
 **Direct, self-evident knowing, which Atwood treats as the evidence and end of all rational proof and the highest human certainty.**
@@ -9704,10 +10408,12 @@ Atwood's own term for direct, self-evident knowing. She holds that “intuition 
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood says: “You cut off the sensuous life and get into the intuitional” [APP ¶176]. Dissolving the sensuous life is said to reach the intuitional, which she calls divine. A reader linked it with the “medial life” of [APP ¶182], but that identity is inferred from the parallel, not stated in the text.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶176
 
 <a id="e0891"></a>
-### inversion
+### Inversion
 *term*
 
 **The reversal of nature's ordinary order: Atwood calls it our present state, a requirement for perfect manifestation, and reason turning back on itself.**
@@ -9720,10 +10426,10 @@ Atwood uses the word in three related ways.
 
 The text does not say whether these are one process seen from different sides.
 
-**References:** APP ¶45, I.2 ¶22, I.2 ¶27, III.2 ¶67
+**References:** I.2 ¶22, I.2 ¶27, III.2 ¶67, APP ¶45
 
 <a id="e0892"></a>
-### invisible Artist
+### Invisible artist
 *term*
 
 **The true worker of the work, according to a quoted Adept: the secret incubation of the Spirit of God upon nature.**
@@ -9732,11 +10438,13 @@ A quoted Adept speaks here: “The work is performed by an invisible Artist; for
 
 **Identified with:** secret incubation of the Spirit of God upon nature [IV.2 ¶18]
 
+**See also:** [Artist](#e0135)
+
 **References:** IV.2 ¶18
 
 <a id="e0893"></a>
 ### Invisible hand
-*term* · invisible hand
+*term*
 
 **The inner hand of which the outward hand is the image and clothing; it works effects according to what it has attained.**
 
@@ -9754,11 +10462,13 @@ Bohme is quoted here. The Invisible Mercury prepares the Antimonial Spirit. It w
 
 **Identified with:** spiritual air of Antimony [II.1 ¶21]
 
+**See also:** [Mercury](#e1065)
+
 **References:** II.1 ¶21
 
 <a id="e0895"></a>
-### The Isaacs (J. I. Hollandus, I. Hollandus)
-*collective voice* · The Isaacs, Isaacs, J. I. Hollandus, I. Hollandus, Hollandus
+### Isaacs
+*collective voice* — *J. I. Hollandus, I. Hollandus* · J. I. Hollandus, I. Hollandus, Hollandus
 
 **Dutch adepts, father and son, who are said to have worked successfully; Atwood gives their works as references.**
 
@@ -9779,9 +10489,9 @@ Atwood cites Isaiah twice.
 
 **References:** III.1 n65, III.1 ¶60, IV.3 n19, IV.3 ¶39
 
-<a id="e0897"></a>
+<a id="e0897"></a><a id="e0899"></a><a id="e0548"></a>
 ### Isis
-*term* · Queen Isis
+*term* · Queen Isis, fable of Isis
 
 **The goddess Atwood identifies with nature, Minerva, Athena and the Wisdom under inquiry, and the name of the Matter once it becomes intelligent and convertible to every form.**
 
@@ -9795,32 +10505,18 @@ Atwood cites Isaiah twice.
 
 All of these are Atwood's statements except the Apuleius passage, which she quotes.
 
-**Identified with:** nature [II.4 ¶17]; Pessinuntica, Cecropian Minerva, Paphian Venus, Diana Dyctynna, Stygian Proserpine, Ceres, Juno, Bellona, Hecate, Rhamnusia [II.4 ¶17]; Minerva [III.1 ¶5]; [Wisdom](#e1943) [III.1 ¶5]; Athena [III.1 ¶63]; [Divine I Am](#e0407) [III.3 ¶62]; Myrionymous (goddess with a thousand names) [III.3 ¶62]
+*Isis (the old mythology).* Atwood brings in Isis of the old mythology to illustrate the divine beauty that is pursued. Isis is the Goddess whose temple is Reason [II.1 ¶50].
 
-**References:** II.4 ¶17, III.1 ¶5, III.1 ¶53, III.1 ¶63, III.3 ¶62
+*Fable of Isis.* Atwood cites the fable in which “she brought forth Horus, even feeding him with fire” [I.3 n41], to illustrate the nourishing of the son with fire.
 
-<a id="e0898"></a>
-### Isis / Osiris
-*collective voice* · Isis, Osiris
+**Identified with:** nature [II.4 ¶17]; Pessinuntica, Cecropian Minerva, Paphian Venus, Diana Dyctynna, Stygian Proserpine, Ceres, Juno, Bellona, Hecate, Rhamnusia [II.4 ¶17]; Minerva [III.1 ¶5]; [Wisdom](#e1943) [III.1 ¶5]; Athena [III.1 ¶63]; [Divine I am](#e0407) [III.3 ¶62]; Myrionymous (goddess with a thousand names) [III.3 ¶62]
 
-**A pairing Atwood uses to illustrate reason constantly seeking her true Hypostasis.**
+**See also:** [Fable of Isis and Osiris](#e0459)
 
-Atwood uses the pair as an image: reason constantly seeks her true Hypostasis “as Isis for Osiris” [II.3 ¶46].
-
-**References:** II.3 ¶46
-
-<a id="e0899"></a>
-### Isis (the old mythology)
-*person* · Isis
-
-**Isis of the old mythology, used to illustrate the divine beauty pursued and the Goddess whose temple is Reason.**
-
-Atwood brings in Isis of the old mythology to illustrate the divine beauty that is pursued. Isis is the Goddess whose temple is Reason [II.1 ¶50].
-
-**References:** II.1 ¶50
+**References:** I.3 n41, II.1 ¶50, II.4 ¶17, III.1 ¶5, III.1 ¶53, III.1 ¶63, III.3 ¶62
 
 <a id="e0900"></a>
-### Islands of the Blessed
+### Islands of the blessed
 *term*
 
 **In Olympiodorus, a figure for a condition above corporeal life and generation, the same as the Elysian Fields.**
@@ -9830,16 +10526,6 @@ Olympiodorus is quoted here. The Islands of the Blessed stand for a condition ab
 **Identified with:** [Elysian Fields](#e0476) [II.4 ¶3]
 
 **References:** II.4 ¶3
-
-<a id="e0901"></a>
-### 'it is said' (unattributed)
-*collective voice* · it is said
-
-**An unattributed saying that the adept then interprets.**
-
-An unattributed saying, “Man, it is said, was created of the dust of the earth” [I.3 n51], is cited and then interpreted by the adept.
-
-**References:** I.3 n51
 
 <a id="e0902"></a>
 ### Ixir
@@ -9871,6 +10557,16 @@ Atwood calls Tollius a Dutchman and an elegant classical expositor on the same g
 
 **References:** I.1 n87, I.1 ¶70, III.1 ¶25
 
+<a id="e0907"></a>
+### J.J. Beccher
+*person* · Beccher, Becher
+
+**An author Atwood lists, with his works.**
+
+Beccher appears in a list of writers [I.1 ¶70]. His works given are *Physica Subterranea*, *Oedipus Chemicus Aperius Mysteria* and *Laboratorium Chemicum* [I.1 n86].
+
+**References:** I.1 n86, I.1 ¶70, III.2 n38
+
 <a id="e0904"></a>
 ### Jacob
 *person*
@@ -9889,10 +10585,12 @@ Atwood cites words she attributes to Jacob in support of self-renunciation as th
 
 Atwood makes a comparison: the Theurgic Art comes nearest to “the perfect doctrine of regeneration preached by Jesus Christ and his apostles” [III.1 ¶11].
 
+**See also:** [Apostle](#e0093)
+
 **References:** III.1 ¶11
 
 <a id="e0906"></a>
-### the Jew
+### Jew
 *collective voice*
 
 **The person who told Flammel the truth on this point.**
@@ -9900,16 +10598,6 @@ Atwood makes a comparison: the Theurgic Art comes nearest to “the perfect doct
 The Jew is mentioned as the one who told Flammel the truth on this point [IV.3 ¶10].
 
 **References:** IV.3 ¶10
-
-<a id="e0907"></a>
-### J.J. Beccher
-*person* · Beccher, Becher
-
-**An author Atwood lists, with his works.**
-
-Beccher appears in a list of writers [I.1 ¶70]. His works given are *Physica Subterranea*, *Oedipus Chemicus Aperius Mysteria* and *Laboratorium Chemicum* [I.1 n86].
-
-**References:** I.1 n86, I.1 ¶70, III.2 n38
 
 <a id="e0908"></a>
 ### Job
@@ -9927,11 +10615,11 @@ Atwood cites Job and the Book of Job often.
 
 In the Appendix (Table Talk, a later layer), Job's story is “all a type” of the sacrifice in faith made by the Hermetically regenerated [APP ¶60]. His words illustrate the contrast between the perfection of the Law of Light and human defection: “I have heard of thee by the hearing of the ear, but now mine eye seeth Thee; therefore I abhor myself and repent in dust and ashes” [APP ¶90].
 
-**References:** APP ¶60, APP ¶90, III.1 n5, III.1 n71, III.1 ¶63, III.1 ¶8, III.4 n5, III.4 n6, III.4 ¶7, III.4 ¶8, IV.3 n27, IV.3 ¶58, IV.4 ¶23
+**References:** III.1 n5, III.1 n71, III.1 ¶63, III.1 ¶8, III.4 n5, III.4 n6, III.4 ¶7, III.4 ¶8, IV.3 n27, IV.3 ¶58, IV.4 ¶23, APP ¶60, APP ¶90
 
 <a id="e0909"></a>
-### John Andre (J. Andraeas)
-*person* · John Andre, J. Andraeas, Andraeas
+### John Andre
+*person* — *J. Andraeas* · J. Andraeas, Andraeas
 
 **Cited as a witness to Arnold's conversion of iron bars into gold at Rome.**
 
@@ -9940,8 +10628,8 @@ Atwood cites John Andre as testifying that Arnold turned iron bars into gold at 
 **References:** I.1 n52, I.1 ¶43
 
 <a id="e0910"></a>
-### John Cremer, Abbot of Westminster
-*person* · John Cremer, Cremer, Cremeri
+### John Cremer
+*person* — *Abbot of Westminster* · John Cremer, Abbot of Westminster, Cremer, Cremeri
 
 **Abbot of Westminster: a long-labouring seeker, misled by the adepts' enigmas, who found enlightenment by seeking Lully; his Testament supports the Lully story.**
 
@@ -9986,7 +10674,7 @@ Julian is one of the Alexandrian revival figures (with Plotinus, Philo-Judaeus, 
 
 <a id="e0914"></a>
 ### Kabalah
-*collective voice* · the Kabalah, Kabbalah, the Hebrew Kabbalah
+*collective voice* · Kabbalah, the Hebrew Kabbalah
 
 **The Hebrew tradition Atwood cites in support at several points: Boehme's agreement with it, the Divine I Am, union with God as Fermentation, and going forth and returning.**
 
@@ -9998,31 +10686,37 @@ Atwood cites the Kabalah consistently in support:
 - From *Sephir Jezirah*, cap. 1, going forth and returning, with closed-eye meditation, forms part of the final passage into accord: “Egredere et regredere, et propterea pactum praecisum est” [IV.3 ¶60, IV.3 ¶61, IV.3 n28]. Our rendering, not the book's: Go forth and return, and for this reason the covenant is cut.
 - The Hebrew Kabbalah is described as “profound yet simple metaphysics”, “partially transmitted”, and agreeing within the same tradition [IV.4 ¶28].
 
+**See also:** [Cabalistic](#e0216), [Cabalistic scriptures and schools of antique experience](#e0218)
+
 **References:** III.2 ¶17, III.3 ¶79, IV.3 n28, IV.3 ¶27, IV.3 ¶60, IV.3 ¶61, IV.4 ¶28
 
 <a id="e0915"></a>
-### Kabalistic commentators and mystics of the middle ages; the Rabbis
-*collective voice* · Kabalistic commentators, the Rabbis
+### Kabalistic commentators
+*collective voice* — *mystics of the middle ages; the Rabbis* · Kabalistic commentators and mystics of the middle ages, the Rabbis
 
 **The Kabalistic commentators, medieval mystics and Rabbis, who Atwood says reached the same ideas as German metaphysics by ontological experiment.**
 
 Atwood cites these figures in support: they hold the same ideas as German metaphysics, but reached them by ontological experiment [III.2 ¶29].
 
+**See also:** [Ben Jochai (the learned Rassbi; his disciples)](#e0954), [Hebrew Kabalists (Rabbis)](#e0741), [Kabalists](#e0917)
+
 **References:** III.2 ¶29
 
 <a id="e0916"></a>
-### the Kabalistic Interpreter
+### Kabalistic Interpreter
 *collective voice*
 
 **Cited, by way of Blackwell's Mythology, on creation as the Divine Will producing itself into material form.**
 
 Atwood cites the Kabalistic Interpreter (by way of *Blackwell’s Mythology*, letter 7) for creation as the Divine Will producing itself into form out of inane Identity: “the Divine Will, then alone operating, says the Kabalistic Interpreter, produces itself into a material form and recreation” [III.3 ¶43, III.3 n29].
 
+**See also:** [Kabalists](#e0917)
+
 **References:** III.3 n29, III.3 ¶43
 
 <a id="e0917"></a>
-### the Kabalists
-*collective voice* · Kabalists, the Kabalist, Kabalist
+### Kabalists
+*collective voice* · the Kabalist
 
 **Kabalistic writers Atwood cites in support on the Quintessence, man as prototype, the Abyss as the Matter, uniting end and beginning, and the Law's hidden soul.**
 
@@ -10036,7 +10730,9 @@ Atwood cites the Kabalists in support at several points:
 
 In the Appendix (Table Talk, a later layer), the Kabalists celebrate the White Light as belonging to the Ancient of Days, the primeval Light [APP ¶157].
 
-**References:** APP ¶157, I.2 ¶16, II.1 ¶42, III.1 n55, III.1 ¶50, III.2 ¶60, III.3 n39, III.3 ¶59
+**See also:** [Hebrew Kabalists (Rabbis)](#e0741), [Kabalistic commentators (mystics of the middle ages; the Rabbis)](#e0915), [Kabalistic Interpreter](#e0916), [Modern Kabalists](#e1625)
+
+**References:** I.2 ¶16, II.1 ¶42, III.1 n55, III.1 ¶50, III.2 ¶60, III.3 n39, III.3 ¶59, APP ¶157
 
 <a id="e0918"></a>
 ### Kant
@@ -10046,21 +10742,11 @@ In the Appendix (Table Talk, a later layer), the Kabalists celebrate the White L
 
 Atwood criticizes Kant together with Fichte and Schelling. Their metaphysics ends in void non-entity and skepticism and falls short of objective realization, though she ranks Schelling above the other two [III.2 ¶31]. In the Appendix (Table Talk, a later layer), Kant is criticized for never getting past the negative margin of intellectual intuition [APP ¶96]. He is also said to have “saw that”, but the text does not state what he saw. Apparently it is the preceding point about intellect and the Universal Reason [APP ¶117].
 
-**References:** APP ¶117, APP ¶96, III.2 ¶31
-
-<a id="e0919"></a>
-### Kelly (Sir Edward Kelly)
-*person* · Kelly, Sir Edward Kelly
-
-**An adept whom Atwood cites as having reportedly possessed the Powder; she judges his book weak and his lavishness blameworthy, but uses his verses on the Art coming by grace.**
-
-Atwood names Kelly, author of *De Lapide Philosophorum*, as an adept who reportedly possessed the Powder, but she judges his book of little value and criticizes his lavishness [I.1 ¶66; I.1 ¶67]. Elsewhere she cites Kelly’s verses in Ashmole’s *Theatrum* in support of her view that the Art is not obtained by reading or by will: “by grace it is obtained” [IV.1 ¶19; IV.1 n19].
-
-**References:** I.1 ¶66, I.1 ¶67, IV.1 n19, IV.1 ¶19
+**References:** III.2 ¶31, APP ¶117, APP ¶96
 
 <a id="e0920"></a>
 ### Key
-*term* · key, Keys
+*term* · Keys
 
 **The decisive secret that opens the Mystery and the Art; also, among the authorities, the name for successive numbered operations of the practice and for explanatory texts.**
 
@@ -10082,6 +10768,8 @@ The records thus show two senses: a single decisive secret (Atwood, Basil Valent
 
 Atwood says the one competent to minister is “he that hath the Key of David”, who opens and no man shuts [IV.3 ¶39]. The text gives no further explanation. Compare the Appendix's “Key of the House of David” [APP ¶97] (see Key to the Work).
 
+**See also:** [David](#e0360)
+
 **References:** IV.3 ¶39
 
 <a id="e0922"></a>
@@ -10092,10 +10780,12 @@ Atwood says the one competent to minister is “he that hath the Key of David”
 
 Quoting Hermes, Atwood gives the ferment's action — whitening, protecting, holding the tincture and joining the bodies — and Hermes says “this is the Key of the philosophers and the end of their works” [I.3 ¶58].
 
+**See also:** [Philosophers](#e1311)
+
 **References:** I.3 ¶58
 
 <a id="e0923"></a>
-### Key of the Restoration
+### Key of the restoration
 *term*
 
 **In the Master's words, the dissolution of the composition by the power of the Water.**
@@ -10105,7 +10795,7 @@ In a passage given as the Master's, the dissolution of the composition by the Wa
 **References:** IV.2 ¶14
 
 <a id="e0924"></a>
-### Key to the Work
+### Key to the work
 *term*
 
 **In the Appendix, entry into the work or into another life, gained when the desire of the lower life opens into the heart life by exstasis.**
@@ -10113,6 +10803,8 @@ In a passage given as the Master's, the dissolution of the composition by the Wa
 In the Appendix (Table Talk, a later layer), Atwood says the entry into the work, or into another life, is gained from the desire of the lower life opening into the heart life by exstasis. She equates it with the Key of the House of David: “The Key to the Work, or into another life, the Key of the House of David” [APP ¶97].
 
 **Identified with:** Key of the House of David [APP ¶97]
+
+**See also:** [Works](#e1953)
 
 **References:** APP ¶97
 
@@ -10144,7 +10836,7 @@ Atwood lists Henry Khunrath among the German adepts, a pious adept embittered by
 
 **In the Appendix** (Table Talk, a later layer): he names the preserved principle of body (Caput Mortuum) “‘our pigmy’, also the ‘diadem of the body’”, and Atwood thinks he also calls it Duanach [APP ¶26]. He teaches that the Art perfects the mineral life and typifies the Divine; with Grsaeus he insists on the Stone/Christ analogy, which Atwood defends as “more than pardonable” [APP ¶44; APP ¶46]. She compares him for Behmen's law: “the Enigma Omia in omnibus” [APP ¶73].
 
-**References:** APP ¶26, APP ¶44, APP ¶46, APP ¶73, I.1 n106, I.1 n28, I.1 n84, I.1 ¶20, I.1 ¶66, I.1 ¶70, I.1 ¶81, I.3 n13, I.3 n70, I.3 n9, III.3 n11, III.3 n20, III.3 n3, III.3 ¶19, III.3 ¶9, IV.1 n24, IV.1 n29, IV.1 ¶29, IV.1 ¶36, IV.2 ¶2, IV.3 n8, IV.3 n9, IV.3 ¶27, IV.3 ¶28, IV.3 ¶29
+**References:** I.1 n106, I.1 n28, I.1 n84, I.1 ¶20, I.1 ¶66, I.1 ¶70, I.1 ¶81, I.3 n13, I.3 n70, I.3 n9, III.3 n11, III.3 n20, III.3 n3, III.3 ¶19, III.3 ¶9, IV.1 n24, IV.1 n29, IV.1 ¶29, IV.1 ¶36, IV.2 ¶2, IV.3 n8, IV.3 n9, IV.3 ¶27, IV.3 ¶28, IV.3 ¶29, APP ¶26, APP ¶44, APP ¶46, APP ¶73
 
 <a id="e0927"></a>
 ### Kibric and Zibeth
@@ -10160,7 +10852,7 @@ In a passage quoted from Maria, “Kibric and Zibeth (the soul and spirit)” ar
 
 <a id="e0928"></a>
 ### King
-*term* · king
+*term*
 
 **A figure for the ruling principle: the Rational Efficient, the soul as man's centre, and the source of the soul's faculties, held captive until it is restored.**
 
@@ -10177,7 +10869,7 @@ The readings fit together (rational principle, soul as centre, source of the fac
 **References:** I.3 n50, II.1 ¶10, II.1 ¶7, III.1 ¶65, IV.4 ¶20
 
 <a id="e0929"></a>
-### king of Prussia
+### King of Prussia
 *person*
 
 **Cited in support of a transmutation at Berlin in 1710.**
@@ -10188,7 +10880,7 @@ Atwood cites the king of Prussia in support of a transmutation at Berlin in 1710
 
 <a id="e0930"></a>
 ### King's seal
-*term* · King’s seal, king's seal
+*term*
 
 **Glossed by Atwood: Hermes means the great Law of Light or universal reason, impressed on the regenerated vitality of nature.**
 
@@ -10207,20 +10899,6 @@ Atwood explains it in a note: “By the King’s seal, Hermes signifies the grea
 All citations are in the Appendix (Table Talk, a later layer). From the *Theos. Correspondence*, p. 168, Atwood takes the naming of ‘the physical problem’, making the invisible spirit visible [APP ¶93]. From p. 236 she endorses: “the Divine Will makes use of the human voice as an organ for conducting the Light, through the fire”, glossing the fire as our chaotic will [APP ¶97]. From p. 359, said “for de St Martin”: “there is no true government but a Theocracy”, which she calls a great truth but qualifies. She criticizes Kirchberger himself as an intellectual seeker who did not convert wholly into the Light [APP ¶112; APP ¶114].
 
 **References:** APP ¶112, APP ¶114, APP ¶93, APP ¶97
-
-## A
-
-<a id="e0932"></a>
-### A. Kircher
-*person* · Kircher, Kircheri
-
-**Cited for alchemy's antiquity, for a Latin rendering of the Smaragdine Table from Arabic and Greek copies, and for a transmutation story.**
-
-Atwood cites A. Kircher (*Oedipus Aegyptiacus*; *de Lapide Philos. Dissert.*) in support of alchemy's antiquity, and as the source of the Latin rendering of the Smaragdine Table from Arabic and Greek copies [I.1 ¶3; I.1 n2; I.1 ¶7]. His *Mundus Subterraneus* supplies an explicit transmutation story [I.1 ¶77].
-
-**References:** I.1 n2, I.1 n29, I.1 ¶3, I.1 ¶7, I.1 ¶77
-
-## K
 
 <a id="e0933"></a>
 ### Kirchringius
@@ -10261,7 +10939,7 @@ Atwood criticizes La Pluche (*des Cieux*) for an agricultural interpretation [II
 **References:** II.2 n3, II.2 ¶4
 
 <a id="e0937"></a>
-### laboratory
+### Laboratory
 *term*
 
 **Atwood's term for man himself as the true place of the Hermetic work.**
@@ -10271,6 +10949,18 @@ Atwood concludes that the work's place is man: “Man then, shall we conclude at
 **Identified with:** Man [II.1 ¶30]; Man [IV.4 ¶3]
 
 **References:** II.1 ¶30, IV.4 ¶3
+
+<a id="e1298"></a>
+### Labouring heroes
+*collective voice* — *Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason* · Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason, Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason
+
+**Heroes Atwood cites together: their labors before reward illustrate the toil needed to gain Wisdom.**
+
+Atwood names these heroes together. Their labors come before their reward, and she uses this to show the toil required for Wisdom [IV.1 ¶25].
+
+**See also:** [Greek fable (Cadmus, Jason, Orpheus, Aeneas)](#e0708), [Hercules](#e0747), [Heroes of the ordeal (Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus)](#e0220)
+
+**References:** IV.1 ¶25
 
 <a id="e0938"></a>
 ### Lactantius
@@ -10293,7 +10983,7 @@ Atwood speaks of “the alone Laelia Aelia latent in and about all, which the En
 **References:** I.2 ¶34
 
 <a id="e0940"></a>
-### Land of Promise of the Wise
+### Land of promise of the wise
 *term*
 
 **In Eudoxus' words, the fertile earth into which the mercurial water is turned, on which the wise make the dew of Heaven fall.**
@@ -10301,6 +10991,8 @@ Atwood speaks of “the alone Laelia Aelia latent in and about all, which the En
 Quoting Eudoxus: the mercurial water is turned into an earth on which the wise make the dew of Heaven fall: “An earth admirable is it for fertility -- the Land of Promise of the Wise” [IV.3 ¶12].
 
 **Identified with:** the earth made from the mercurial water [IV.3 ¶12]
+
+**See also:** [The Wise](#e1944)
 
 **References:** IV.3 ¶12
 
@@ -10315,16 +11007,6 @@ In a passage given from Synesius and the New Light: “this Latex is the sharp v
 **Identified with:** sharp vinegar; blessed water [I.2 ¶33]
 
 **References:** I.2 ¶33, II.1 ¶47
-
-<a id="e0942"></a>
-### Latin maxim (unattributed)
-*collective voice* · unattributed Latin maxim
-
-**Unattributed Latin maxims that Atwood cites in support: only one who has it can give it, and the end depends on the beginning.**
-
-“Nemo enim dat id, quod non habet.” (ours: For no one gives what he does not have) supports her point that only one who has it can impart it [II.2 ¶29]. “Sie finis ab origine pendet.” (ours: So the end hangs from the beginning) supports her point that the Motive governs the result [IV.1 ¶45].
-
-**References:** II.2 ¶29, IV.1 ¶45
 
 <a id="e0943"></a>
 ### Latitude
@@ -10359,17 +11041,19 @@ Cited for reference only.
 **References:** II.3 ¶46, II.3 ¶55, III.3 ¶59
 
 <a id="e0946"></a>
-### law of conscience
+### Law of conscience
 *term*
 
 **What the priests forsook when they tried to wield magic power without it, which led to confusion.**
 
 Atwood says the priests, “having forsaken the law of conscience, attempted to wield without it the rod of magic power”, which led to confusion [I.1 ¶30].
 
+**See also:** [Conscience](#e0325)
+
 **References:** I.1 ¶30
 
 <a id="e0947"></a>
-### Law of Divine Manifestation
+### Law of Divine manifestation
 *term*
 
 **Behmen's law: an Eternal Will arises in the No Thing to bring it into Something, so that the Will might behold itself; the Hermetic Work follows the same order.**
@@ -10386,10 +11070,12 @@ In the Appendix (Table Talk, a later layer): “The Law of Divine Manifestation 
 
 Atwood: “the strength of sin is in the Law of dual generation” [III.2 ¶62]. The text does not explain it further.
 
+**See also:** [Generation](#e0661)
+
 **References:** III.2 ¶62
 
 <a id="e0949"></a>
-### Law of Justice
+### Law of justice
 *term*
 
 **The law that exacts exact retribution (‘eye for an eye’) in the spheres of the work.**
@@ -10399,8 +11085,8 @@ Atwood: “so does the Law of Justice exact retribution in those spheres”, tha
 **References:** III.4 ¶9
 
 <a id="e0950"></a>
-### law of Light
-*term* · Law of Light
+### Law of light
+*term*
 
 **A law that must move through Love in the will; for the Kabalists, the superstantial law from which the world emanates as an efflux of Mind.**
 
@@ -10408,10 +11094,12 @@ Atwood: “so does the Law of Justice exact retribution in those spheres”, tha
 
 **Hebrew Kabalists** (reported): in their Idealism “the whole world was before their eyes as an efflux of Mind, an emanation of the great superstantial Law of Light” [II.1 ¶40]. Compare King's seal, glossed as “the great Law of Light or universal reason” [I.3 n69].
 
-**References:** APP ¶9, II.1 ¶40
+**See also:** [Light](#e0962)
+
+**References:** II.1 ¶40, APP ¶9
 
 <a id="e0951"></a>
-### Law of Nature
+### Law of nature
 *term* · Laws of Nature
 
 **Nature's simple and harmonious law, which baffles the operator who brings his own blind purpose; the moral, physical and organic laws are one at the root.**
@@ -10421,7 +11109,7 @@ Atwood: “The Law of Nature, being simple and harmoniously framed, will baffle 
 **References:** III.1 ¶38, III.4 ¶8
 
 <a id="e0952"></a>
-### the Lawgiver
+### Lawgiver
 *collective voice*
 
 **The voice of Deuteronomy, cited by Atwood to warn those favoured in the work against presumption and forgetting God in prosperity.**
@@ -10431,7 +11119,7 @@ Atwood cites the Lawgiver (footnote: Deuteronomy 8:10) on the Israelites' suffer
 **References:** IV.3 n26, IV.3 ¶57
 
 <a id="e0953"></a>
-### Laws of Art
+### Laws of art
 *term*
 
 **The scientific laws of the Art, whose study together with the Hermetic records Atwood makes the needed foundation before any trial.**
@@ -10440,18 +11128,8 @@ Atwood names the “study of the Hermetic records and scientific Laws of Art” 
 
 **References:** IV.3 ¶54
 
-<a id="e0954"></a>
-### the learned Rassbi / the Rabbi; Ben Jochai and his disciples
-*collective voice* · the learned Rassbi, the Rabbi, Ben Jochai, Ben Jochai and his disciples
-
-**Rabbinical voices cited by Atwood, with endorsement as Hermetic, for creation from nothing understood as from the primitive non-Being, Wisdom.**
-
-Atwood cites the learned Rassbi (the Rabbi), Ben Jochai and his disciples in support of creation from nothing as from the primitive non-Being, which is Wisdom: “by non-Being they mean that which is neither conceivable as cause nor as essence, but yet is in fact the Cause of causes” [III.2 ¶31; III.2 ¶32]. She endorses the view as Hermetic. A footnote marker (29) at this point has no footnote in the chunk.
-
-**References:** III.2 ¶31, III.2 ¶32
-
 <a id="e0955"></a>
-### leaven
+### Leaven
 *term* · old leaven
 
 **The assimilating ferment by which bodies are transformed, spiritualized and preserved; Atwood also invokes purging out the old leaven.**
@@ -10480,15 +11158,19 @@ In Latin verse quoted from Palingenius, the Lepidem Aetherium is the object of t
 
 For Atwood the Lesser Mysteries are the first grade of initiation. In them, it appears, the revelations of the natural spirit's first sphere were passed: “passing these, as it appears, in the Lesser Mysteries” [II.2 ¶8]. It was “the only popular initiation open to all” [II.3 ¶3], revealing only the internal life, a field of natural contemplation without rule. It ended with the soul on the borders of the Stygian lake in view of Tartarus: “And here the Lesser Mysteries ended” [II.3 ¶36].
 
+**See also:** [Mysteries](#e1154)
+
 **References:** II.2 ¶8, II.3 ¶3, II.3 ¶36
 
 <a id="e0958"></a>
-### lesser world
+### Lesser world
 *term*
 
 **In the mysterious adeptest's words, the lesser world is the father of the Son, or what the Son is likened to; possibly linked with the microcosm.**
 
 The mysterious adeptest, quoted by Atwood, says the Son is “consubstantial nevertheless, and like his father the lesser world” [III.3 ¶50]. The phrase may name the lesser world as the Son's father or only liken the Son to it. The same passage calls the Stone “wonderfully salutary to the microcosm in universal triunity” [III.3 ¶50], but the text does not explicitly identify the microcosm with the lesser world. Not defined further.
+
+**See also:** [Greater Orb and Lesser World](#e0701)
 
 **References:** III.3 ¶50
 
@@ -10513,7 +11195,7 @@ Atwood: “And Life is the nucleus of the whole Hermetic Mystery” [IV.4 ¶32].
 **References:** IV.4 ¶32
 
 <a id="e0961"></a>
-### ligature of natures
+### Ligature of natures
 *term*
 
 **A secret binding of natures, paired with their magical dissolution, which Atwood says Bacon discovered; not explained.**
@@ -10524,7 +11206,7 @@ Atwood credits Bacon with discovering “the secret ligature of natures, and the
 
 <a id="e0962"></a>
 ### Light
-*term* · the Light, light, Central Light, Divine Light, Light within
+*term* · Central Light, Divine Light, Light within
 
 **The hidden, self-multiplying formal Light that perfects matter, is the Form of Gold and the Key of the Hermetic Mystery, and is to be freed.**
 
@@ -10536,12 +11218,14 @@ Atwood credits Bacon with discovering “the secret ligature of natures, and the
 
 **Key.** “the Key thereof is Light” [IV.4 ¶32]; Atwood says “we pretend only to have signalized the Light” [IV.4 ¶2], and that she has shown “the golden ore” of it [IV.4 ¶32]; “for those to whom it is addressed the Light will attract” [IV.4 ¶31]. The selfish “have willfully denied the Light its true fulfillment” [III.4 ¶6]; in its vision the philosophers despised gold and silver [IV.3 ¶26]. In the later Appendix (Table Talk), “It requires Light to throw Light upon Light” [APP ¶118]; it is “the light which comes into every soul born into the world” [APP ¶126].
 
-**Identified with:** [Form](#e0627) [I.2 ¶45]; fermental principle [I.2 ¶44]; formal essence of all things [III.2 n38]; God [IV.2 ¶41]; [aurific seed](#e0153) [IV.3 ¶30]; the Stone's 'own metal' (its ferment) [IV.3 ¶30]; [Form of gold](#e0628) [IV.4 ¶9]; [Key](#e0920) [IV.4 ¶32]
+**Identified with:** [Form](#e0627) [I.2 ¶45]; fermental principle [I.2 ¶44]; formal essence of all things [III.2 n38]; God [IV.2 ¶41]; [Aurific seed](#e0153) [IV.3 ¶30]; the Stone's 'own metal' (its ferment) [IV.3 ¶30]; [Form of gold](#e0628) [IV.4 ¶9]; [Key](#e0920) [IV.4 ¶32]
 
-**References:** APP ¶118, APP ¶126, I.2 ¶44, I.2 ¶45, I.2 ¶48, I.2 ¶8, III.1 ¶11, III.1 ¶13, III.2 n38, III.3 ¶78, III.3 ¶79, III.3 ¶80, III.4 ¶15, III.4 ¶16, III.4 ¶6, IV.1 ¶17, IV.1 ¶18, IV.1 ¶25, IV.2 ¶37, IV.2 ¶41, IV.3 ¶26, IV.3 ¶30, IV.4 ¶2, IV.4 ¶31, IV.4 ¶32, IV.4 ¶6, IV.4 ¶9
+**See also:** [Divine light](#e0412)
+
+**References:** I.2 ¶44, I.2 ¶45, I.2 ¶48, I.2 ¶8, III.1 ¶11, III.1 ¶13, III.2 n38, III.3 ¶78, III.3 ¶79, III.3 ¶80, III.4 ¶15, III.4 ¶16, III.4 ¶6, IV.1 ¶17, IV.1 ¶18, IV.1 ¶25, IV.2 ¶37, IV.2 ¶41, IV.3 ¶26, IV.3 ¶30, IV.4 ¶2, IV.4 ¶31, IV.4 ¶32, IV.4 ¶6, IV.4 ¶9, APP ¶118, APP ¶126
 
 <a id="e0963"></a>
-### light and love fire
+### Light and love fire
 *term*
 
 **In the theosophist's words, the other principle in everything, the woman's seed, to be raised up to shine through and subdue the wrath.**
@@ -10550,10 +11234,12 @@ The theosophist, quoted by Atwood, names “the woman’s seed the light and lov
 
 **Identified with:** the woman's seed [IV.3 ¶38]
 
+**See also:** [Fire](#e0575)
+
 **References:** IV.3 ¶38
 
 <a id="e0964"></a>
-### Light Essential
+### Light essential
 *term*
 
 **What the quintessences lack, so that they resolve and die (Appendix).**
@@ -10570,6 +11256,8 @@ In the Appendix (Table Talk, a later layer), Atwood says quintessences “uninfo
 
 Atwood: “It is into the substantiality of this and for its practical evolution that we must inquire, if we would discover the true Light of Alchemy” [II.1 ¶47]; the “this” is the psychical experience.
 
+**See also:** [Alchemy](#e0043)
+
 **References:** II.1 ¶47
 
 <a id="e0966"></a>
@@ -10580,10 +11268,12 @@ Atwood: “It is into the substantiality of this and for its practical evolution
 
 Boehme, quoted by Atwood: “the understanding and capacity is not in nature’s own ability without the Light of God” [III.2 ¶16]. To those in it the matter is plain: “it is very easy to be understood by those who are in the Light” [III.2 ¶16].
 
+**See also:** [Gods](#e0674)
+
 **References:** III.2 ¶16
 
 <a id="e0967"></a>
-### Light of Life
+### Light of life
 *term*
 
 **The light exhibited in the true Eleusinian initiations, which they could kindle and fortify.**
@@ -10592,10 +11282,12 @@ Atwood: “The light exhibited in the Eleusinian msteries, i.e., in the true ini
 
 **Identified with:** The light exhibited in the Eleusinian msteries [II.4 ¶56]
 
+**See also:** [Life](#e0960)
+
 **References:** II.4 ¶56
 
 <a id="e0968"></a>
-### light of nature
+### Light of nature
 *term*
 
 **In Sendivogius' words, nature's own light, hidden by the body of sense, which when it enlightens someone clears the cloud and penetrates inward things.**
@@ -10605,8 +11297,8 @@ Sendivogius, quoted by Atwood: “nature, having her proper light, is by the sha
 **References:** II.1 ¶10
 
 <a id="e0969"></a>
-### Light of Reason
-*term* · light of reason
+### Light of reason
+*term*
 
 **The light that flows into and purifies the aerial moisture and re-enters in the Mysteries; Atwood identifies it with the Sulfur of adepts.**
 
@@ -10614,10 +11306,12 @@ Atwood speaks of the aerial moisture “before it is purified by the inflowing l
 
 **Identified with:** Sulfur of adepts [II.3 ¶30]
 
+**See also:** [Reason](#e1469)
+
 **References:** II.3 ¶29, II.3 ¶30, IV.3 ¶56
 
 <a id="e0970"></a>
-### Light of Universal Nature
+### Light of universal nature
 *term*
 
 **The light kindled by the catholic torch; not further defined.**
@@ -10627,30 +11321,32 @@ Atwood says the catholic torch “kindles the Light of Universal Nature” [IV.4
 **References:** IV.4 ¶32
 
 <a id="e0971"></a>
-### linear life
+### Linear life
 *term*
 
 **Our present life going forth in a line, which must be taken up into a circle back to its first source (Appendix).**
 
 In the Appendix (Table Talk, a later layer), Atwood: “Our life goes forth into a line at present, it has to be taken up into a circle” [APP ¶48], that is, back into its first source.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶48
 
 <a id="e0972"></a>
 ### Linear way
-*term* · linear way, linear decoction, dissolution by line, decocted linearly
+*term* · linear decoction, dissolution by line, decocted linearly
 
 **The single uniform course of dissolution throughout the work, in one matter and one vessel, which the Adepts also call Manual.**
 
 Atwood describes “one linear decoction throughout and dissolution by line” [IV.1 ¶3] and “one linear way throughout” [IV.1 ¶9], in one matter and one vessel. It is “called by the Adepts Manual, and their Linear way” [IV.1 ¶5]. Not further explained.
 
-**Identified with:** [Manual Operation](#e1021) [IV.1 ¶5]
+**Identified with:** [Manual operation](#e1021) [IV.1 ¶5]
 
 **References:** IV.1 ¶3, IV.1 ¶5, IV.1 ¶9
 
 <a id="e0973"></a>
 ### Lion
-*term* · lion, green and red lion
+*term* · green and red lion
 
 **In the words of the fraternity of the Rosy Cross, the creature whose blood, joined with the Eagle's tears, is the treasure of the whole earth.**
 
@@ -10669,14 +11365,16 @@ The verse *The Hunting of the Greene Lyon*, quoted by Atwood: “A portion of yo
 **References:** III.1 ¶65
 
 <a id="e0975"></a>
-### Liquor of the Sages
+### Liquor of the sages
 *term* · precious liquor, liquor
 
 **In Eudoxus' words, the liquor hidden under the Stone that contains all the work needs, which has over a thousand names and is the great Alcahest.**
 
 Eudoxus, quoted by Atwood: “search the source of the Liquor of the Sages, which contains all that is necessary for the work; it is hidden under the Stone” [IV.3 ¶10]. He calls it “this precious liquor, to which the philosophers have given more than a thousand different names, which is in sum the great Alcahest” [IV.3 ¶10]. Whether it is the liquor from which the two Mercuries are made is not stated.
 
-**Identified with:** [alkahest](#e0052) [IV.3 ¶10]
+**Identified with:** [Alkahest](#e0052) [IV.3 ¶10]
+
+**See also:** [Sage](#e1529)
 
 **References:** IV.3 ¶10
 
@@ -10686,31 +11384,37 @@ Eudoxus, quoted by Atwood: “search the source of the Liquor of the Sages, whic
 
 Cited for reference only.
 
+**See also:** [Alchemists](#e0041)
+
 **References:** I.1 n71
 
 <a id="e0977"></a>
-### living gold of the philosophers
+### Living gold of the philosophers
 *term* · living gold
 
 **What the Quintessence becomes with the Divine light's virtue: transmuting, multiplicative gold, the concrete form of what is valued in dead metal.**
 
 Atwood: with the virtue of the Divine light the Quintessence becomes “the living gold of the philosophers, transmuting and multiplicative --- the concrete form of that which in the dead metal we esteem” [III.1 ¶49].
 
+**See also:** [Philosophers](#e1311), [Philosophers’ gold](#e1314)
+
 **References:** III.1 ¶49
 
 <a id="e0978"></a>
-### Living Light
+### Living light
 *term*
 
 **The Light which, Atwood says, became known to Solomon together with the mysteries of universal creation.**
 
 Atwood says Solomon “celebrates the revelation of that Living Light which became known to him” [III.3 ¶49], together with the mysteries of universal creation.
 
+**See also:** [Light](#e0962)
+
 **References:** III.3 ¶49
 
 <a id="e0979"></a>
-### living temple
-*term* · Living Temple
+### Living temple
+*term*
 
 **The inner place, guarded by the adepts' equivocations, where the wise raise the Corner Stone and where desire is addressed from the Divine Light within.**
 
@@ -10729,8 +11433,8 @@ Atwood cites Locke's *Essay* in support of intuition as the highest certainty: �
 **References:** II.1 ¶34
 
 <a id="e0981"></a>
-### lodestone
-*term* · Lodestone, loadstone
+### Lodestone
+*term* · loadstone
 
 **An image of attraction and a cover-name: the enlightened see the point of the philosophers' lodestone; Cosmopolite gives the name to the Mercury.**
 
@@ -10762,11 +11466,21 @@ In the Appendix (Table Talk, begun 1860, a later layer) Atwood speaks in her own
 
 **Identified with:** fundamental faith [APP ¶101]; the Crown [APP ¶104]; the seal [II.1 ¶43]
 
-**References:** APP ¶101, APP ¶104, II.1 ¶43
+**References:** II.1 ¶43, APP ¶101, APP ¶104
+
+<a id="e1256"></a>
+### Lord
+*person* · our Lord
+
+**Christ, cited in the Appendix (Table Talk) for sayings Atwood applies to the Hermetic Art and the Stone.**
+
+Cited only in the Appendix (Table Talk, a later layer). His words “The wind bloweth where it listeth” are cited as an analogy, Christ the Head Corner Stone is named as the analogue of the Stone, and the regenerated are said to enter his life [APP ¶41, APP ¶46, APP ¶60]. His saying “Seek ye first the Kingdom of God and His righteousness and all these things shall be added unto you” supports Atwood's point that seeking the Universal first is the shortest and truest road in the Hermetic Art [APP ¶134]. His use of the language of David — “I have said ye are gods, if (says our Lord) ye called them gods unto whom the Word of God came” — illustrates powers subordinate to God evolved where the Word comes, with the danger of self-centers [APP ¶100].
+
+**References:** APP ¶100, APP ¶134, APP ¶41, APP ¶46, APP ¶60
 
 <a id="e0984"></a>
 ### Lord Bacon
-*person* · Lord bacon
+*person*
 
 **Lord Bacon, cited repeatedly by Atwood: partly as a witness favourable to the philosophers' stone and the ancients' wisdom, partly criticized for mechanical methods and ignorance of the Great Art.**
 
@@ -10775,6 +11489,8 @@ Atwood uses Lord Bacon both as support and as a foil.
 **Support.** He reportedly experimented toward the philosophers' stone and recognized its possibility in the *Advancement of Learning*, without condemning the tradition [I.1 ¶82]. From the same work she takes his advice to regard the early sages with more reverence [III.2 ¶33; III.2 n30]. His Fable of Proteus (*De Sapientia Veterum* / *Wisdom of the Ancient*) supports, via Democritus, the principle of torture and restoration — to “torture and vex it in order to its annihilation” [I.2 ¶23] — and is quoted again with endorsement: matter, forced to extremity, runs through all forms and restores itself; he “lays hold of and works upon matter in the extremest degrees” [III.3 ¶61; III.3 n44], which Atwood glosses as the last exigence of life.
 
 **Criticism.** She faults him for proposing mechanical dissolution and for not knowing the Great Art or its subject [I.2 ¶24; I.2 n19]; his “particular digesters applied to the fire” (*Sylva Sylvarum*; *History of Rarity and Density*) would expel the very nature prized [I.2 ¶24; I.2 n20]. His supposition (*Instauration of the Sciences*) that the understanding is too polluted by the fall to reflect total reason raises a difficulty, since introspection would then be useless [II.2 ¶21; II.2 n17]. Finally she calls him leader of the 'exterminating chase' of experimental philosophy, yet notes he recommended the pursuit of Causes and inquiry after the ancients' hidden Wisdom, 'though he knew it not' [IV.4 ¶30].
+
+**See also:** [Bacon](#e0167)
 
 **References:** I.1 ¶82, I.2 n19, I.2 n20, I.2 ¶23, I.2 ¶24, II.2 n17, II.2 ¶21, III.2 n30, III.2 ¶33, III.3 n44, III.3 ¶61, IV.4 ¶30
 
@@ -10789,7 +11505,7 @@ In the Appendix (Table Talk, begun 1860, a later layer) Atwood praises Lorenz Ok
 **References:** APP ¶31, APP ¶96
 
 <a id="e0986"></a>
-### lower life
+### Lower life
 *term*
 
 **The generative, fallen life, whose desire, opened upward, yields the Key.**
@@ -10797,6 +11513,8 @@ In the Appendix (Table Talk, begun 1860, a later layer) Atwood praises Lorenz Ok
 In the Appendix (Table Talk, a later layer) Atwood speaks of “the desire of the lower life, the generative, the fallen life” [APP ¶97]; this lower life is thus identified with the generative and the fallen life, and its desire, opened upward, is said to yield the Key.
 
 **Identified with:** the generative, the fallen life [APP ¶97]
+
+**See also:** [Life](#e0960)
 
 **References:** APP ¶97
 
@@ -10814,10 +11532,12 @@ Atwood quotes this treatise (also given as *Lucerna Solis*, with a note referrin
 
 Elsewhere Arnold, Lully and Artephius are said to agree with its description of whitening [III.2 ¶5].
 
+**See also:** [Author of the Lucerna Salis](#e0159)
+
 **References:** I.2 n10, I.2 n32, I.2 ¶10, I.2 ¶30, I.2 ¶9, I.3 n61, I.3 n63, I.3 n70, III.1 n42, III.2 n46, III.2 ¶63
 
 <a id="e0988"></a>
-### lucidity
+### Lucidity
 *term*
 
 **One of the ordinary mesmeric phenomena, named alongside prevision and community of sense, will and thought.**
@@ -10850,7 +11570,7 @@ Atwood treats Lully as a major authority and endorses his testimony throughout.
 
 **Method.** He teaches patient rational inquiry and intimates Reason as a ferment; the golden bough is read as the subtle intellect: “Intellectus naturam habens subtilem ad intelligendum res intelligibles” [III.1 ¶13, ¶21; III.1 n26; cf. II.3 ¶11] (ours: 'the intellect, having a subtle nature for understanding intelligible things'). He warns against too strong a fire: “Let the heavenly power or agent be such in the place of generation, or mutation” [III.1 ¶55]. The Mercury “comes not but by help of ingenuity, and the Manual operations of man” [IV.1 ¶5]. First principles appear as cloud-like monstrous spirits, which Atwood reads as known from inner self-inspection [II.3 ¶30]. He adds “a sufficiency of the Divine Favour, and books to open the understanding and give it zest for truth” to Arnold's requisites [III.4 ¶20]; after a tedious common process he performed the Solution in nine days by the secret from God, which only God can reveal [IV.1 ¶36, ¶39]. He also charged strict secrecy [I.3 n15].
 
-**References:** APP ¶43, I.1 n55, I.1 n58, I.1 ¶15, I.1 ¶32, I.1 ¶39, I.1 ¶46, I.1 ¶47, I.1 ¶48, I.1 ¶76, I.2 n17, I.2 n25, I.2 n29, I.2 n33, I.2 n8, I.2 ¶18, I.2 ¶29, I.2 ¶31, I.2 ¶42, I.2 ¶6, I.2 ¶7, I.3 n15, I.3 n4, II.1 ¶13, II.3 n7, II.3 ¶11, II.3 ¶30, III.1 n11, III.1 n25, III.1 n26, III.1 n60, III.1 ¶13, III.1 ¶21, III.1 ¶55, III.1 ¶62, III.2 ¶25, III.2 ¶5, III.2 ¶60, III.4 n20, III.4 ¶20, IV.1 n28, IV.1 n3, IV.1 ¶36, IV.1 ¶39, IV.1 ¶5
+**References:** I.1 n55, I.1 n58, I.1 ¶15, I.1 ¶32, I.1 ¶39, I.1 ¶46, I.1 ¶47, I.1 ¶48, I.1 ¶76, I.2 n17, I.2 n25, I.2 n29, I.2 n33, I.2 n8, I.2 ¶18, I.2 ¶29, I.2 ¶31, I.2 ¶42, I.2 ¶6, I.2 ¶7, I.3 n15, I.3 n4, II.1 ¶13, II.3 n7, II.3 ¶11, II.3 ¶30, III.1 n11, III.1 n25, III.1 n26, III.1 n60, III.1 ¶13, III.1 ¶21, III.1 ¶55, III.1 ¶62, III.2 ¶25, III.2 ¶5, III.2 ¶60, III.4 n20, III.4 ¶20, IV.1 n28, IV.1 n3, IV.1 ¶36, IV.1 ¶39, IV.1 ¶5, APP ¶43
 
 <a id="e0991"></a>
 ### Lumen de Lumine
@@ -10858,10 +11578,12 @@ Atwood treats Lully as a major authority and endorses his testimony throughout.
 
 Cited for reference only.
 
+**See also:** [Author of the Lumen de Lumine](#e0160)
+
 **References:** I.3 n14, III.2 n27, III.3 n41
 
 <a id="e0992"></a>
-### luminaries
+### Luminaries
 *term* · Luminary
 
 **In Synesius, two lights made manifest, one fixed and one volatile; when the lower rises upon the upper an incomparable Luminary issues.**
@@ -10880,7 +11602,9 @@ Atwood writes that, “Sol being eclipsed, the Lunar Vulcan acts a principal par
 
 Later she says the Stone is “prepared by those who trace nature with the assistance of the Lunar Vulcan” and explains: by “the Lunar Vulcan, as we long ago suggested, is meant the first prepared Subject” [IV.1 ¶29] — also called Diana and the Adepts' secret interior Fire. As 'Lunar Caustic' it needs outward stimulus: “this same Lunar Caustic is brought into act by an exterior excitation” [IV.1 ¶29]. The identity with the first prepared Subject is stated by Atwood herself.
 
-**Identified with:** Isis (acts her part) [III.1 ¶63]; [first prepared Subject](#e0597) [IV.1 ¶29]; Lunar Caustic [IV.1 ¶29]
+**Identified with:** Isis (acts her part) [III.1 ¶63]; [First prepared subject](#e0597) [IV.1 ¶29]; Lunar Caustic [IV.1 ¶29]
+
+**See also:** [Vulcan](#e1914)
 
 **References:** III.1 ¶63, IV.1 ¶29
 
@@ -10904,10 +11628,12 @@ An ancient and much esteemed Adeptus (Grasseus, per n26), quoted by Atwood, hold
 
 Atwood reports that “to obtain the blessed Lunary of Diana, he had suffered much, and toiled incessantly” [III.2 ¶64], of Hermes. The text does not explain the expression further.
 
+**See also:** [Diana](#e0380)
+
 **References:** III.2 ¶64
 
 <a id="e0996"></a>
-### lustrations
+### Lustrations
 *term*
 
 **Purificatory rites of the Mysteries by which the soul is liberated into a divine condition.**
@@ -10927,7 +11653,7 @@ Cited for reference only.
 **References:** II.1 n22
 
 <a id="e0998"></a>
-### macrocosmic image of the microcosm
+### Macrocosmic image of the microcosm
 *term*
 
 **An image thrown forth, passive and ephemeral, identified with the downward-born nature and with Eve brought forth by Adam.**
@@ -10935,6 +11661,8 @@ Cited for reference only.
 In the Appendix (Table Talk, a later layer) Atwood describes an image thrown forth, macrocosmic, passive and ephemeral for want of consubstantiality; its perfect beauty attracts the soul and, united to it, brings the ideal forth as actual offspring. She identifies it: “The macrocosmic image of the microcosm is the downward-born nature” and “It is the Eve which Adam brought forth” [APP ¶18].
 
 **Identified with:** downward-born nature [APP ¶18]; Eve [APP ¶18]
+
+**See also:** [Microcosm](#e1088)
 
 **References:** APP ¶18
 
@@ -10949,7 +11677,7 @@ Atwood cites Madathan (*Mus. Hermeticum*, Lumen de Lumine) as an example: after 
 **References:** III.1 n41, III.1 ¶37, III.2 ¶61
 
 <a id="e1000"></a>
-### the Magian
+### Magian
 *collective voice*
 
 **A voice quoted from Agrippa supporting the view that reason needs divine illumination.**
@@ -10959,7 +11687,7 @@ Atwood quotes from Agrippa's Third Book of Occult Philosophy: “All is one soul
 **References:** III.1 n29, III.1 ¶23
 
 <a id="e1001"></a>
-### magic
+### Magic
 *term* · magia, magical, magician
 
 **Magic: an imputation against Bacon, in Paracelsus a natural secret of separation, the 'service of the gods', and in one passage the inward union of the elements.**
@@ -10976,17 +11704,19 @@ The records show several uses:
 **References:** I.1 ¶38, I.1 ¶39, I.1 ¶62, I.1 ¶64, I.2 ¶25, II.1 ¶51, III.1 ¶48, III.1 ¶50
 
 <a id="e1002"></a>
-### magic Key
+### Magic Key
 *term*
 
 **The key prepared by the anonymous author of the Tractatus Aureus to open the Hermetic garden, said to have been lost by the Masons.**
 
 In the Appendix (Table Talk, a later layer) Atwood speaks of a magic Key prepared by the anonymous author of the Tractatus Aureus “to open the door into the Hermetic garden” [APP ¶100], and says the Masons lost it.
 
+**See also:** [Key](#e0920)
+
 **References:** APP ¶100
 
 <a id="e1003"></a>
-### magic region
+### Magic region
 *term*
 
 **A region in which every desire becomes prolific and embodies itself by the ethereal conception.**
@@ -10996,17 +11726,19 @@ Atwood writes that “every desire is, in the magic region, made prolific” [IV
 **References:** IV.4 ¶10
 
 <a id="e1004"></a>
-### Magic Steel
+### Magic steel
 *term*
 
 **Something the Fiery Dragon carries in its belly, in a passage quoted from Eirenaeus; not explained.**
 
 Quoting the same author (Eirenaeus, per n37), Atwood mentions the Fiery Dragon “which bears in his belly the Magic Steel” [IV.1 ¶43]. The text gives no explanation.
 
+**See also:** [Steel](#e1668)
+
 **References:** IV.1 ¶43
 
 <a id="e1005"></a>
-### magical earth
+### Magical earth
 *term* · magic earth, terra magica
 
 **The pure earth found at one's own center that commences Regeneration; also the Matter as an earth containing the recreative fire, the Land of Havilah.**
@@ -11017,21 +11749,25 @@ Earlier she calls the Matter “the true magic earth wherein is the recreative f
 
 **Identified with:** pure earth [APP ¶89]; Land of Havilah [III.2 ¶8]
 
-**References:** APP ¶89, III.2 ¶8
+**See also:** [Earth](#e0446)
+
+**References:** III.2 ¶8, APP ¶89
 
 <a id="e1006"></a>
-### magical solution
+### Magical solution
 *term*
 
 **The dissolution which, with human aid, enables the Spirit to leave its extraneous forms.**
 
 Atwood writes of the Spirit that “Without the magical solution and human aid to fortify” [III.2 ¶61] it cannot leave its extraneous forms.
 
+**See also:** [Solution](#e1623)
+
 **References:** III.2 ¶61
 
 <a id="e1007"></a>
-### magistery
-*term* · Magistery, Magistry, Maistery
+### Magistery
+*term* · Magistry, Maistery
 
 **The accomplished work or mastery of the Hermetic art, its goal and product; Atwood calls it a fiery form of Light inspisate and a type of the Christian Creed.**
 
@@ -11047,7 +11783,7 @@ Magistery is the adepts' name for the whole work, its mastery and its product.
 
 <a id="e1008"></a>
 ### Magnesia
-*term* · magnesia
+*term*
 
 **A name for the matter calcined by its proper fire, also called lead of the wise; sown in the Philosophic Earth it dies and corrupts.**
 
@@ -11058,8 +11794,8 @@ Atwood says the matter calcined by its proper fire “is called magnesia and lea
 **References:** I.2 ¶40, I.3 n21, III.1 ¶65
 
 <a id="e1009"></a>
-### magnet
-*term* · Magnet, magnets
+### Magnet
+*term* · magnets
 
 **In Atwood's Appendix, a will as center of attraction (two magnets in man are two wills); in the Greene Lyon verse, the fair white part left in the midst.**
 
@@ -11069,10 +11805,10 @@ In *The Hunting of the Greene Lyon* (quoted), the Magnet is the white part left 
 
 **Identified with:** wills [APP ¶124]
 
-**References:** APP ¶122, APP ¶124, III.1 ¶65
+**References:** III.1 ¶65, APP ¶122, APP ¶124
 
 <a id="e1010"></a>
-### magnetic
+### Magnetic
 *term*
 
 **Used in Atwood's phrase 'the chain of the magnetic series', which moves when the Soul is drawn back into the Passive Spirit.**
@@ -11082,7 +11818,7 @@ Atwood writes that when the Soul is drawn back into the Passive Spirit, “the f
 **References:** III.3 ¶10
 
 <a id="e1011"></a>
-### magnetic chain
+### Magnetic chain
 *term*
 
 **The continuum from infinite pure light above all intelligence down to the darkness of Matter; the ladder of Celsus and Zoroaster.**
@@ -11094,12 +11830,14 @@ Atwood describes Matter as lying at “the opposite extreme of the magnetic chai
 **References:** III.2 ¶54
 
 <a id="e1012"></a>
-### magnetical virtue
+### Magnetical virtue
 *term*
 
 **Apparently the drawing power by which the gold attracts divine increase; the Stone is likened to an armed magnet.**
 
 The voice is unclear in the record. The Stone is likened to “an armed magnet included and circulating in a perpetual heaven” [II.1 ¶25]; the context suggests magnetical virtue is the gold's drawing power by which it attracts divine increase.
+
+**See also:** [Virtue](#e1886)
 
 **References:** II.1 ¶25
 
@@ -11114,8 +11852,8 @@ Atwood quotes Malachi 4:5–6, “Behold I will send you Elijah, the prophet” 
 **References:** IV.2 n4, IV.2 n9, IV.2 ¶12, IV.2 ¶14
 
 <a id="e1014"></a>
-### Malden; Philalethean Lion Hunt
-*person* · Malden, Philalethean Lion Hunt
+### Malden
+*person* — *Philalethean Lion Hunt* · Philalethean Lion Hunt
 
 **Attribution attached to The Hunting of the Greene Lyon, an allegorical verse account of the whole practice that Atwood gives 'by way of recreation'.**
 
@@ -11125,7 +11863,7 @@ Atwood gives *The Hunting of the Greene Lyon* 'by way of recreation' [III.1 ¶64
 
 <a id="e1015"></a>
 ### Mammon
-*term* · mammon
+*term*
 
 **In Atwood's account, Mammon is the downward-looking spirit that led the depraved abusers of the work astray.**
 
@@ -11134,7 +11872,7 @@ Atwood names Mammon as the spirit that led the depraved abusers of the work: “
 **References:** III.4 ¶4
 
 <a id="e1016"></a>
-### manacles and fetters
+### Manacles and fetters
 *term*
 
 **A figure that Bacon, writing on Democritus, glosses as laying hold of matter and working on it to the utmost degree.**
@@ -11174,7 +11912,7 @@ Atwood cites Manilius (Astronomicon, lib. 10) in support. He holds that men cont
 **References:** II.1 n28, II.1 ¶29
 
 <a id="e1020"></a>
-### manual artifice
+### Manual artifice
 *term*
 
 **A practical technique of the work that Ashmole's notes allude to; the book does not describe it here.**
@@ -11184,8 +11922,8 @@ Atwood says Ashmole's notes allude to the manual artifice “without much disgui
 **References:** I.1 ¶62
 
 <a id="e1021"></a>
-### Manual Operation
-*term* · Manual operation, Manual, Manual operations
+### Manual operation
+*term* · Manual, Manual operations
 
 **The name for the method of using the key (Kirchringius); for Atwood, the literal handwork needed chiefly in the first work, also called the Linear way.**
 
@@ -11196,24 +11934,16 @@ The book quotes Kirchringius on the key and “the method, which is called Manua
 **References:** III.1 ¶37, IV.1 ¶2, IV.1 ¶5
 
 <a id="e1022"></a>
-### manuscript eulogy found in a volume of Boehme's works
+### Manuscript eulogy found in a volume of Boehme's works
 *collective voice*
 
 **A verse eulogy, found in manuscript in a volume of Boehme's works, praising Boehme for renewing all ancient wisdom; Atwood accepts it with a qualification.**
 
 Atwood quotes a manuscript eulogy found in a volume of Boehme's works. It praises Boehme for renewing all ancient wisdom: “In Boehme’s wondrous page we view, Discoverd and revealed anew” [I.1 ¶68]. It names the Eastern Magi, Orpheus, Hermes, Confucius, Zoroaster, Pythagoras, Plato, Socrates and Epictetus [I.1 ¶68–¶70]. Atwood accepts its praise only “theosophically, but not intellectually” [I.1 ¶70].
 
+**See also:** [Works](#e1953)
+
 **References:** I.1 ¶68, I.1 ¶69, I.1 ¶70
-
-<a id="e1023"></a>
-### Manzoli (Palingenius)
-*person* · Palingenius, Manzoli
-
-**A poet whose verse, Atwood says, divulges the artificial method; she says his name means 'one regenerated'. His Zodiacus Vitae is cited on the Ethereal Stone.**
-
-Atwood cites Manzoli, called Palingenius, in support. She says his verse divulges the artificial method, quoting “Take this Arcadian slippery lad that’s apt to fly.” [III.1 ¶26]. She also says the name Palingenius means one regenerated [III.1 ¶27]. From the Zodiacus Vitae she cites the art of fashioning the Ethereal Stone: “Invenere artem, qua non ars dignior ulla est, Fingendi Lepidem Aetherium” [IV.3 ¶54; IV.3 n25]. In the readers' account, this art is found only after long trial and cost, is closed to the profane and is granted to few [IV.3 ¶54–¶55].
-
-**References:** III.1 ¶26, III.1 ¶27, IV.3 n25, IV.3 ¶54, IV.3 ¶55
 
 <a id="e1024"></a>
 ### Marcus
@@ -11253,7 +11983,7 @@ Atwood cites the end of the Maria Practica, to support or illustrate the vessel 
 **References:** III.1 n44, III.1 ¶40
 
 <a id="e1027"></a>
-### marriage
+### Marriage
 *term* · nuptials
 
 **The union of Mind and Universe, in which solitary Thought unites with the simple Understanding of its ether; ancient mythic marriages prefigure it.**
@@ -11272,6 +12002,8 @@ For Atwood, the marriage is the union of Mind and Universe: “This is the union
 
 Atwood quotes a line from Book 3 to illustrate that a small amount of the composition is sealed in one glass: “And it sufficeth in one glasse to put” [IV.3 ¶23; IV.3 n4].
 
+**See also:** [Alchemy](#e0043)
+
 **References:** IV.3 n4, IV.3 ¶23
 
 <a id="e1029"></a>
@@ -11285,28 +12017,32 @@ In the Appendix (Table Talk, a later layer begun 1860), Atwood speaks of “Peop
 **References:** APP ¶113
 
 <a id="e1030"></a>
-### masculine tincture
+### Masculine tincture
 *term*
 
 **The tincture that fixes the light of Venus in manifestation; it rises from death out of the black darkness, united with the white virginal spirit.**
 
 Atwood says the light of Venus cannot hold “without the masculine tincture to fix it in manifestation” [I.3 n49]. In the same note she says the tincture rises from death out of the black darkness, united with the white virginal spirit.
 
+**See also:** [Tincture](#e1768)
+
 **References:** I.3 n49
 
 <a id="e1031"></a>
-### the Masons
-*collective voice* · Masons
+### Masons
+*collective voice*
 
 **Criticized in the Appendix: they ape the words of power but have lost the magic Key, keeping an absurd outward form.**
 
 In the Appendix (Table Talk, a later layer begun 1860), Atwood criticizes the Masons. She says they ape the words of power but have lost the magic Key. Their outward form is absurd, she says, and survives only through a secret response of common sense to the original mystery [APP ¶100].
 
+**See also:** [Free masonry](#e0640), [Master mason](#e1034)
+
 **References:** APP ¶100
 
 <a id="e1032"></a>
-### the Master
-*collective voice*
+### Master
+*collective voice* — *author of the Tractatus Aureus*
 
 **The author of the Tractatus Aureus, quoted on the stone generated with Light and on dissolution by the watery Form.**
 
@@ -11314,6 +12050,8 @@ Atwood quotes the Master's Tractatus Aureus twice:
 
 - **Cap. 3**, after her own gloss on Boehme, on Nature's middle principle: “Our stone comes with Light, and with Light it is generated” [III.1 ¶49; III.1 n54]. The stone is generated with Light and brings forth darkness.
 - **Cap. 2**, in support of dissolution by Water, fire on the Foliated Sulphur, the King's Tincture and revival: “O blessed watery Form! That dissolveth the Elements!” [IV.2 ¶14; IV.2 n7].
+
+**See also:** [Masters](#e1035), [Tractatus Aureus](#e1773)
 
 **References:** III.1 n54, III.1 ¶49, IV.2 n7, IV.2 ¶14
 
@@ -11324,6 +12062,8 @@ Atwood quotes the Master's Tractatus Aureus twice:
 **That whose application moves the first link in the chain of vital causes; also the concealment under which the Adepts kept the three operations.**
 
 Atwood writes: “The first link in the chain of vital causes moves, as we apply the Master Key.” [III.4 ¶47]. She does not explain the key there. Elsewhere she says the Adepts kept the three operations “reserved strictly under the Master Key of their Dilemma” [IV.2 ¶3], so the term also names their concealment.
+
+**See also:** [Key](#e0920)
 
 **References:** III.4 ¶47, IV.2 ¶3
 
@@ -11337,40 +12077,48 @@ Atwood writes: “it is the work only of a Master mason, of Grand Architects, as
 
 **Identified with:** Grand Architects [IV.2 ¶14]
 
+**See also:** [Masons](#e1031)
+
 **References:** IV.2 ¶14
 
 <a id="e1035"></a>
-### the masters
+### Masters
 *collective voice*
 
 **A group voice whose term “benedicta viriditas” Atwood applies to the green or purple vegetative life.**
 
 In the Appendix (Table Talk, a later layer begun 1860), Atwood applies the masters' term “benedicta viriditas” to the green or purple vegetative life [APP ¶119].
 
+**See also:** [Master (author of the Tractatus Aureus)](#e1032)
+
 **References:** APP ¶119
 
 <a id="e1036"></a>
-### the material
+### Material
 *term* · the matter
 
 **What the work is done on: all men have it and live by it, but few can handle it.**
 
 The material is what the work is done on: all men have it, but few can handle it. Atwood: “because all men have the material and live by it” [III.4 ¶2]. She does not identify the material further in this passage. See also Matter.
 
+**See also:** [Matter](#e1043)
+
 **References:** III.4 ¶2
 
 <a id="e1037"></a>
-### Material of Mind
+### Material of mind
 *term*
 
 **Atwood's name for the subject whose development her Kabalistic and Greek concordances are meant to support.**
 
 Atwood speaks of “the development of this Material of Mind” [III.1 ¶71]. She says the Kabalistic and Greek concordances that follow will support it.
 
+**See also:** [Mind](#e1099)
+
 **References:** III.1 ¶71
 
 <a id="e1038"></a>
-### material Rites
+### Material rites
 *term*
 
 **For Psellus, the only means of strengthening the soul's vehicle: perfecting the soul by the power of materials on earth.**
@@ -11389,10 +12137,12 @@ Atwood equates Maternal intelligence with the celestial instinct. She speaks of 
 
 **Identified with:** celestial instinct [III.1 ¶34]
 
+**See also:** [Intelligence](#e0878)
+
 **References:** III.1 ¶34
 
 <a id="e1040"></a>
-### the mathematician
+### Mathematician
 *collective voice*
 
 **An unnamed voice quoted in Latin, praising the Creator's laws and foundations.**
@@ -11413,7 +12163,7 @@ In the Appendix (Table Talk, a later layer begun 1860), Atwood describes the ema
 
 <a id="e1042"></a>
 ### Matrix
-*term* · matrix
+*term*
 
 **That on which the sulphur must return for any effect to be produced.**
 
@@ -11423,7 +12173,7 @@ In the Appendix (Table Talk, a later layer begun 1860), Atwood says an effect re
 
 <a id="e1043"></a>
 ### Matter
-*term* · the Matter, matter, One Matter, Material Principle, subject-matter, True matter
+*term* · One Matter, Material Principle, subject-matter, True matter
 
 **The Hermetic subject: one simple substance under all forms, identified with our Identity, known only in the experience and by the Fire of Intellect, not in nature.**
 
@@ -11439,27 +12189,21 @@ In the Appendix (Table Talk, a later layer begun 1860), Atwood says an effect re
 
 **Identified with:** Water of our Sea (by rhetorical question) [III.2 ¶7]; unctuous mineral vapour [III.2 ¶7]; Thing itself / our Identity / true Hermetic material [III.2 ¶7]; power borne by Cheiron [III.2 ¶7]; [Pan](#e1263) [III.2 ¶7]; [Flos Salis Albi](#e0616) [III.2 ¶8]; Quintessence of Plato [III.2 ¶60]; Water of Thales [III.2 ¶60]; Non-Being of Parmenides [III.2 ¶60]; Abyss of the Kabalists [III.2 ¶60]; Nature, the Unknown Identity [III.3 ¶65]; [Non-being](#e1195) [III.3 ¶77]
 
-**References:** APP ¶162, APP ¶164, II.1 ¶20, III.2 ¶51, III.2 ¶53, III.2 ¶54, III.2 ¶60, III.2 ¶61, III.2 ¶62, III.2 ¶7, III.2 ¶8, III.3 ¶48, III.3 ¶65, III.3 ¶77, IV.1 ¶12, IV.1 ¶15, IV.2 ¶35
+**See also:** [Material](#e1036), [Subject matter](#e1677), [True matter](#e1801)
+
+**References:** II.1 ¶20, III.2 ¶51, III.2 ¶53, III.2 ¶54, III.2 ¶60, III.2 ¶61, III.2 ¶62, III.2 ¶7, III.2 ¶8, III.3 ¶48, III.3 ¶65, III.3 ¶77, IV.1 ¶12, IV.1 ¶15, IV.2 ¶35, APP ¶162, APP ¶164
 
 <a id="e1044"></a>
-### Matter and Form
+### Matter and form
 *term*
 
 **For the prince, what is perfected and corrupted; full knowledge of this is the goal of study.**
 
 Atwood quotes the prince, who makes the goal of study “a plenary knowledge of the verity of perfecting and corrupting Matter and Form” [III.4 ¶20].
 
+**See also:** [Form](#e0627)
+
 **References:** III.4 ¶20
-
-<a id="e1045"></a>
-### maxim 'Physician, heal thyself'
-*collective voice* · Physician, heal thyself
-
-**A maxim quoted within Basil's passage, where the praise of the science lies in experience.**
-
-The maxim “Physician, heal thyself” appears inside a passage Atwood quotes from Basil. There, the praise of the science consists in experience [IV.1 ¶2].
-
-**References:** IV.1 ¶2
 
 <a id="e1046"></a>
 ### Maximus Olybius
@@ -11472,7 +12216,7 @@ Named as the maker of a perpetual lamp found near Alestes [I.1 ¶18]. His urn in
 **References:** I.1 ¶18, I.1 ¶19
 
 <a id="e1047"></a>
-### maya
+### Maya
 *term*
 
 **In an Indian record Atwood quotes, whatever appears or does not appear in the mind apart from the First Cause: the mind's image or delusion.**
@@ -11483,7 +12227,7 @@ A term from a quoted Indian record, not Atwood's own: whatever appears or does n
 
 <a id="e1048"></a>
 ### Meadow
-*term* · meadow, meadows, Pratum
+*term* · meadows, Pratum
 
 **The meadow of Divine Ideas: the prolific power of life and the grasp of the first efficient causes of life and Forms; the Alchemists call it their garden.**
 
@@ -11494,18 +12238,20 @@ Atwood, drawing on Plato, says “the Meadow is the prolific power of life, acco
 **References:** II.4 ¶16, II.4 ¶9
 
 <a id="e1049"></a>
-### medial gold
+### Medial gold
 *term* · almost or medial gold
 
 **In Hermes as quoted, the third product from the Stone after water and gold, nobler than the water with the faeces.**
 
 Hermes, as quoted, lists it as the third product from the Stone: “the third is our almost or medial gold which is more noble than the water with the faeces” [I.3 ¶55]. The text does not explain it further.
 
+**See also:** [Gold](#e1754)
+
 **References:** I.3 ¶55
 
 <a id="e1050"></a>
-### medial life
-*term* · Medial life, Medial Life, vegetable or medial life
+### Medial life
+*term* · vegetable or medial life
 
 **The middle or second life, between the mineral and the higher life, reached by dissolving the sensuous medium, through which the third life is raised and born.**
 
@@ -11517,22 +12263,26 @@ Atwood's term for an intermediate level of life. Most records come from the Appe
 
 Whether the II.2 usage means the same as the Appendix's second life is not stated.
 
-**Identified with:** [Celestial life](#e0247) [APP ¶35]; exalted spirit (the spirit in this life) [APP ¶15]; [Faith](#e0555) [APP ¶45]; wooden receptacles [III.2 ¶12]
+**Identified with:** [Celestial life](#e0247) [APP ¶35]; exalted spirit (the spirit in this life) [APP ¶15]; [Faith](#e0556) [APP ¶45]; wooden receptacles [III.2 ¶12]
 
-**References:** APP ¶15, APP ¶182, APP ¶24, APP ¶35, APP ¶45, APP ¶77, APP ¶95, II.2 ¶20, III.2 ¶12, III.2 ¶9
+**See also:** [Life](#e0960)
+
+**References:** II.2 ¶20, III.2 ¶12, III.2 ¶9, APP ¶15, APP ¶182, APP ¶24, APP ¶35, APP ¶45, APP ¶77, APP ¶95
 
 <a id="e1051"></a>
-### medial light
+### Medial light
 *term*
 
 **The senses' own light, in which they are entranced at the start of the practice.**
 
 Atwood speaks of “entrancing the senses in their own medial light” [IV.1 ¶3] at the start of the practice. The text gives no further gloss.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.1 ¶3
 
 <a id="e1052"></a>
-### medial region
+### Medial region
 *term*
 
 **The middle region of life into which the hidden Sulphur must be transplanted before it can grow and become manifest.**
@@ -11542,17 +12292,19 @@ In the Appendix (Table Talk, a later layer), Atwood says the Sulphur “has to b
 **References:** APP ¶125
 
 <a id="e1053"></a>
-### Medial Spirit
+### Medial spirit
 *term*
 
 **A spirit whose forms and properties are extinguished in the fermentation; not further explained.**
 
 Atwood describes the fermentation as taking place “by an extinguishing of the forms and properties of the Medial Spirit” [III.2 ¶28]. It is not explained further here; compare the Appendix's “medial spirit” that is changed when life is drawn inward (see medial life).
 
+**See also:** [Spirit](#e1644)
+
 **References:** III.2 ¶28
 
 <a id="e1054"></a>
-### mediate dispositions
+### Mediate dispositions
 *term*
 
 **In the Lucerna Salis as quoted, the means by which God grants the art: instruction and the labour of the hands.**
@@ -11562,8 +12314,8 @@ The author of the Lucerna Salis, as quoted, says God grants the art not immediat
 **References:** III.4 ¶20
 
 <a id="e1055"></a>
-### medicine
-*term* · Medicine, medicines, White medicine, universal medicine
+### Medicine
+*term* · medicines, White medicine, universal medicine
 
 **The transmuting and healing product of the work, the Stone in its tinging form, whose virtue grows with each dissolution and multiplication.**
 
@@ -11573,13 +12325,15 @@ The medicine is the agent that transmutes metals and also heals. Its strength is
 
 **Atwood.** Philosophers, “when they have obtained this medicine”, did not care to lengthen their days or parade riches [IV.3 ¶48]. She also reports Heraclitus calling the theurgic media medicines: “Heraclitus calls these medicines, as being the help and remedy of imperfect souls” [II.2 ¶5]; these also healed the body.
 
-**Identified with:** [tincture](#e1768) [I.1 ¶73]; subtle moist fire [IV.3 ¶22]
+**Identified with:** [Tincture](#e1768) [I.1 ¶73]; subtle moist fire [IV.3 ¶22]
+
+**See also:** [True medicine](#e1802), [Universal medicine](#e1853), [White medicine](#e1932)
 
 **References:** I.1 ¶66, I.1 ¶73, I.2 ¶10, I.2 ¶11, I.3 n38, II.2 ¶5, III.1 ¶65, III.3 ¶63, IV.3 ¶20, IV.3 ¶22, IV.3 ¶48
 
 <a id="e1056"></a>
-### medium
-*term* · Medium, Mediums, media, sensible medium, photogenic medium
+### Medium
+*term* · Mediums, media, sensible medium, photogenic medium
 
 **A mean or intermediary: the precepts demand one between the two; in the practice, the sensible medium released by entrancing and purified; also any means toward an end.**
 
@@ -11595,10 +12349,12 @@ How far these senses are one in Atwood's mind is not stated.
 
 **Identified with:** temperate unguent [I.3 ¶24]
 
+**See also:** [Sensible medium](#e1587)
+
 **References:** I.3 ¶23, I.3 ¶24, II.2 ¶18, II.2 ¶25, III.1 ¶41, III.1 ¶50, III.4 ¶20, IV.1 ¶30, IV.1 ¶31, IV.1 ¶4, IV.1 ¶5
 
 <a id="e1057"></a>
-### medium and bond
+### Medium and bond
 *term*
 
 **What Atwood says any increase of the Spirit requires.**
@@ -11608,7 +12364,7 @@ Atwood: “neither is there any increase of the Spirit, as we have already shown
 **References:** III.4 ¶30
 
 <a id="e1058"></a>
-### melioration
+### Melioration
 *term*
 
 **Improvement: the natural life needs it, and the operator must have its principles in himself.**
@@ -11628,17 +12384,19 @@ Known in the text only through Aristotle's report: Melissus takes the One accord
 **References:** III.2 ¶40
 
 <a id="e1060"></a>
-### the Memphian prophet
+### Memphian prophet
 *collective voice*
 
 **A figure teaching the hidden mysteries of creation to the young Aspirant, apparently by inward evolution rather than words.**
 
 Atwood uses the Memphian prophet as the teacher of the hidden mysteries of creation to the young Aspirant, apparently by inward evolution rather than by words [III.3 ¶44].
 
+**See also:** [Prophet](#e1409)
+
 **References:** III.3 ¶44
 
 <a id="e1061"></a>
-### menstrual
+### Menstrual
 *term* · menstruals, Third Menstrual
 
 **In Eirenaeus as quoted, one of three menstruals; the freed fire appears visibly in the third, which only one who knows the first two can see.**
@@ -11648,7 +12406,7 @@ Eirenaeus, as quoted, speaks of three menstruals. The freed fire “appears visi
 **References:** III.1 ¶14
 
 <a id="e1062"></a>
-### menstruum of the world
+### Menstruum of the world
 *term*
 
 **What 'that water' must be: drawn out of the sphere of the Moon and rectified until it can calcine gold.**
@@ -11660,7 +12418,7 @@ In a passage of uncertain voice: “Now that water must be the menstruum of the 
 **References:** IV.3 ¶21
 
 <a id="e1063"></a>
-### mercurial liquor
+### Mercurial liquor
 *term*
 
 **In Eudoxus as quoted, the viscous water into which the secret fire's water dissolves; the beginning, foundation and Key of the Art.**
@@ -11672,7 +12430,7 @@ Eudoxus, as quoted: the water drawn out by the secret fire, through magical unio
 **References:** IV.3 ¶16
 
 <a id="e1064"></a>
-### mercurizate
+### Mercurizate
 *term*
 
 **In Ripley as quoted, said of mineral and metallic bodies reduced to their beginning; apparently 'turned into mercury'.**
@@ -11683,7 +12441,7 @@ Ripley, as quoted: “Mineral and metalline may be mercurizate” [I.2 ¶6], sai
 
 <a id="e1065"></a>
 ### Mercury
-*term* · mercury, Mercury of the Wise, Mercury of the Philosophers, philosopher's Mercury, philosophic mercury, Mercurius, Mercurius Philosophorum, Mercurial Spirit, our Mercury
+*term* · Mercury of the Wise, Mercury of the Philosophers, philosopher's Mercury, philosophic mercury, Mercurius, Mercurius Philosophorum, Mercurial Spirit, our Mercury
 
 **One of the three principles with Sulphur and Salt; in the philosophers' sense the first matter, a living spirit-water, not common mercury, in which the art begins and ends.**
 
@@ -11695,9 +12453,9 @@ Ripley, as quoted: “Mineral and metalline may be mercurizate” [I.2 ¶6], sai
 
 **In the work.** The adept: it rises “to her superior habitation” [III.3 ¶17]. The author of The Triumph: it is whitened, citrined and fed “with its own blood” [IV.2 ¶6]; the theosophist says it “doth all this itself” as “the workman which is in it already” [IV.3 ¶38]. The bottomless Mercury of Eirenaeus [III.1 ¶19; APP ¶89] is not decoded. Whether the fixed philosopher's Mercury of III.3 ¶32 is the same as Mercury-as-Spirit is open.
 
-**Identified with:** [Water](#e1920) [I.2 ¶5]; [Argent vive](#e0115) [I.2 ¶5]; first original (of Sol) [I.2 ¶11]; root of gold and silver [I.2 ¶11]; Proteus; quintessence [I.2 ¶37]; [philosophic water](#e1328) [I.3 n5]; [Earth of the Wise](#e0448) [I.3 n29]; first matter of metals [III.1 ¶69]; water dry [III.1 ¶69]; our water / our secret fire [III.1 ¶69]; quicksilver [III.2 ¶25]; [Lunaria](#e0994) [III.2 ¶25]; [Spirit](#e1644) [III.3 ¶30]; Old Dragon [III.3 ¶64]; poisonous dragon [III.3 ¶64]; Egg of nature [III.3 ¶64]; Light of nature (within) [III.3 ¶64]; carbuncle of the Sun; clarified Earth [III.3 ¶64]; [Our Old Man](#e1259) [IV.3 ¶10]; first matter of all metals [IV.3 ¶10]; water of the metals [IV.3 ¶10]; [Spirit](#e1644) [IV.3 ¶12]; the workman which is in it already [IV.3 ¶38]; [permanent water](#e1292) [I.2 ¶29]; [Hyle](#e0802) [I.2 ¶29]; [Universal Spirit](#e1861) [I.2 ¶49]; [Water](#e1920) [IV.3 ¶21]; spirit of the Sound [APP ¶49]; [Sal Sepientum](#e1534) [II.4 ¶39]; impure vapor of life [III.1 ¶24]
+**Identified with:** [Water](#e1920) [I.2 ¶5]; [Argent vive](#e0115) [I.2 ¶5]; first original (of Sol) [I.2 ¶11]; root of gold and silver [I.2 ¶11]; Proteus; quintessence [I.2 ¶37]; [Philosophic water](#e1328) [I.3 n5]; [Earth of the wise](#e0448) [I.3 n29]; first matter of metals [III.1 ¶69]; water dry [III.1 ¶69]; our water / our secret fire [III.1 ¶69]; quicksilver [III.2 ¶25]; [Lunaria](#e0994) [III.2 ¶25]; [Spirit](#e1644) [III.3 ¶30]; Old Dragon [III.3 ¶64]; poisonous dragon [III.3 ¶64]; Egg of nature [III.3 ¶64]; Light of nature (within) [III.3 ¶64]; carbuncle of the Sun; clarified Earth [III.3 ¶64]; [Our old man](#e1259) [IV.3 ¶10]; first matter of all metals [IV.3 ¶10]; water of the metals [IV.3 ¶10]; [Spirit](#e1644) [IV.3 ¶12]; the workman which is in it already [IV.3 ¶38]; [Permanent water](#e1292) [I.2 ¶29]; [Hyle](#e0802) [I.2 ¶29]; [Universal spirit](#e1861) [I.2 ¶49]; [Water](#e1920) [IV.3 ¶21]; spirit of the Sound [APP ¶49]; [Sal Sepientum](#e1534) [II.4 ¶39]; impure vapor of life [III.1 ¶24]
 
-**References:** APP ¶49, APP ¶89, I.2 ¶11, I.2 ¶12, I.2 ¶29, I.2 ¶37, I.2 ¶39, I.2 ¶4, I.2 ¶49, I.2 ¶5, I.3 n29, I.3 n39, I.3 n5, I.3 n55, I.3 n9, II.1 ¶12, II.1 ¶9, II.2 ¶16, II.4 ¶39, III.1 ¶13, III.1 ¶14, III.1 ¶19, III.1 ¶24, III.1 ¶61, III.1 ¶69, III.2 ¶25, III.3 ¶17, III.3 ¶30, III.3 ¶32, III.3 ¶64, III.3 ¶81, IV.1 ¶5, IV.1 ¶7, IV.2 ¶6, IV.3 ¶10, IV.3 ¶12, IV.3 ¶21, IV.3 ¶38, IV.3 ¶5, IV.3 ¶9
+**References:** I.2 ¶11, I.2 ¶12, I.2 ¶29, I.2 ¶37, I.2 ¶39, I.2 ¶4, I.2 ¶49, I.2 ¶5, I.3 n29, I.3 n39, I.3 n5, I.3 n55, I.3 n9, II.1 ¶12, II.1 ¶9, II.2 ¶16, II.4 ¶39, III.1 ¶13, III.1 ¶14, III.1 ¶19, III.1 ¶24, III.1 ¶61, III.1 ¶69, III.2 ¶25, III.3 ¶17, III.3 ¶30, III.3 ¶32, III.3 ¶64, III.3 ¶81, IV.1 ¶5, IV.1 ¶7, IV.2 ¶6, IV.3 ¶10, IV.3 ¶12, IV.3 ¶21, IV.3 ¶38, IV.3 ¶5, IV.3 ¶9, APP ¶49, APP ¶89
 
 <a id="e1066"></a>
 ### Mercury and Jupiter
@@ -11710,18 +12468,20 @@ In the Appendix (Table Talk, a later layer), Atwood assigns “perception or int
 **References:** APP ¶113
 
 <a id="e1067"></a>
-### Mercury of the First Work
+### Mercury of the first work
 *term*
 
 **In the Open Entrance as quoted, what is added, three or four parts to one of Perfect Matter, in Multiplication.**
 
 The Author of the Open Entrance, as quoted, directs adding “three or four parts at most of the Mercury of the First Work” [IV.3 ¶18] to one part of the Perfect Matter in Multiplication. Not further defined.
 
+**See also:** [Works](#e1953)
+
 **References:** IV.3 ¶18
 
 <a id="e1068"></a>
-### Merlin (St Ambrose)
-*person* · Merlin
+### Merlin
+*person* — *St Ambrose*
 
 **Listed among the great spirits; his Prophecies are reported to refer solely to Hermetic arcana, and Norton names him among masters who wrote obscurely.**
 
@@ -11729,9 +12489,9 @@ Atwood lists Merlin (given as St Ambrose) among the great spirits, and reports t
 
 **References:** I.1 n54, I.1 ¶15, I.1 ¶39, I.1 ¶45
 
-<a id="e1069"></a>
+<a id="e1069"></a><a id="e1070"></a>
 ### Mesmerism
-*term* · mesmerism, mesmeric, mesmerizing
+*term* · mesmeric, mesmerizing
 
 **The modern art that uses the same agent as the Mysteries but for inferior ends; Atwood's first key and Door-keeper to the vestibule of antique science.**
 
@@ -11743,22 +12503,16 @@ She credits it personally: “We allude to Mesmerism: not ashamed, but grateful 
 
 In the Appendix (Table Talk, a later layer): “The action of mesmerism is a very external way” [APP ¶73]: by vertical passes it loosens spirit from its corporeal media for the moment, an external imitation of the Divine Art of separation.
 
+*Mesmerism.* Atwood notes that the phenomena of Mesmerism have revived belief in an Odic Force, which she does not assume here [I.2 ¶16]. Elsewhere she says Aesculapius is its only just pride [IV.3 ¶36]; whether this is praise or a limitation is unclear. See the main Mesmerism entry.
+
 **Identified with:** Door-keeper [III.4 ¶13]
 
-**References:** APP ¶73, II.2 ¶24, III.1 ¶8, III.4 ¶13, IV.3 ¶37, IV.4 ¶5
+**See also:** [Pioneers of Mesmerism (De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet)](#e0362)
 
-<a id="e1070"></a>
-### Mesmerism
-*term*
-
-**Mentioned as reviving belief in an Odic Force, which Atwood does not assume, and as having Aesculapius as its only just pride.**
-
-Atwood notes that the phenomena of Mesmerism have revived belief in an Odic Force, which she does not assume here [I.2 ¶16]. Elsewhere she says Aesculapius is its only just pride [IV.3 ¶36]; whether this is praise or a limitation is unclear. See the main Mesmerism entry.
-
-**References:** I.2 ¶16, IV.3 ¶36
+**References:** I.2 ¶16, II.2 ¶24, III.1 ¶8, III.4 ¶13, IV.3 ¶36, IV.3 ¶37, IV.4 ¶5, APP ¶73
 
 <a id="e1071"></a>
-### mesothesis
+### Mesothesis
 *term*
 
 **What the soul is said to be: a mesothesis between two spheres, its ultimate perfection.**
@@ -11768,7 +12522,7 @@ In the Appendix (Table Talk, a later layer), Atwood says of the soul: “it is i
 **References:** APP ¶178
 
 <a id="e1072"></a>
-### metal bond
+### Metal bond
 *term*
 
 **Something whose breaking precedes the birth of the Elias spirit; not explained.**
@@ -11778,7 +12532,7 @@ In the Appendix (Table Talk, a later layer): “When the metal bond is broken”
 **References:** APP ¶139
 
 <a id="e1073"></a>
-### metallic humidity
+### Metallic humidity
 *term*
 
 **What Atwood says the soul's angelic essence is.**
@@ -11790,7 +12544,7 @@ In the Appendix (Table Talk, a later layer): “The soul’s angelic essence is 
 **References:** APP ¶181
 
 <a id="e1074"></a>
-### metalline perfection
+### Metalline perfection
 *term*
 
 **The perfection reached in metals, belonging only to the primary evolution of life and distinct from the ultimate Divine association.**
@@ -11800,12 +12554,14 @@ Atwood speaks of “the metalline perfection, which belongs to the primary evolu
 **References:** IV.3 ¶27
 
 <a id="e1075"></a>
-### metalline radix
+### Metalline radix
 *term*
 
 **The metallic root, which appears first in the experimental process and is most easily apportioned.**
 
 Atwood: “the metalline radix first presents itself in the experimental process” [I.2 ¶49], and it is the most easily apportioned.
+
+**See also:** [Radix](#e1455)
 
 **References:** I.2 ¶49
 
@@ -11819,10 +12575,12 @@ In the Appendix (Table Talk, a later layer begun 1860), Atwood states: “The Me
 
 **Identified with:** ethereal metals; the Ether’s progressive stages [APP ¶180]
 
+**See also:** [Philosophers](#e1311)
+
 **References:** APP ¶180
 
 <a id="e1077"></a>
-### metaphysical alienation
+### Metaphysical alienation
 *term*
 
 **Atwood's term for the condition, proved by ancient experience, of passing beyond ordinary consciousness toward deification.**
@@ -11832,18 +12590,20 @@ Atwood speaks of “Such is the condition and metaphysical alienation which anci
 **References:** II.4 ¶49
 
 <a id="e1078"></a>
-### metaphysical body of gold
+### Metaphysical body of gold
 *term*
 
 **Something to be found and made profitable by joining it with a consanguineous spirit and circulating the two until one conceives by the other.**
 
 Atwood describes the procedure of joining it with a consanguineous spirit and circulating the two until one conceives by the other: “this is the true way and means by which the metaphysical body of gold will be made profitable” [III.1 ¶50].
 
+**See also:** [Gold](#e1754)
+
 **References:** III.1 ¶50
 
 <a id="e1079"></a>
-### metaphysical Embryo
-*term* · Metaphysical Embryo
+### Metaphysical embryo
+*term*
 
 **That which undergoes abyssal regeneration and contest in the intermediate stages before birth into sense perception, and on which the geometric procedure operates.**
 
@@ -11852,17 +12612,19 @@ Atwood speaks of “the abyssal regeneration and contest of the metaphysical Emb
 **References:** III.1 ¶56, III.3 ¶37
 
 <a id="e1080"></a>
-### metaphysical ferment
+### Metaphysical ferment
 *term*
 
 **A small, purified, fire-tested portion that re-enters its native life and transmutes the whole into its own Aurific Light.**
 
 Atwood: “a small grain of the metaphysical ferment leavens the whole lump” [III.1 ¶24]. In the same paragraph she calls it a graft: “the metaphysical graft, already purified and passed the fire, re-enters to redeem its congenital life” [III.1 ¶24], transmuting it all into its own Aurific Light. Leaven and graft are images used for it here, not separate terms.
 
+**See also:** [Ferment](#e0562)
+
 **References:** III.1 ¶24
 
 <a id="e1081"></a>
-### metaphysical offspring
+### Metaphysical offspring
 *term*
 
 **The one born in the third vessel, triply covered, represented by the birth of Horus.**
@@ -11872,17 +12634,31 @@ Atwood, discussing the birth of Horus, writes: “even so is the metaphysical of
 **References:** IV.2 ¶11
 
 <a id="e1082"></a>
-### metaphysicians, inductively arguing
-*collective voice*
+### Metaphysicians
+*collective voice* — *inductively arguing* · metaphysicians, inductively arguing
 
 **Unnamed metaphysicians whom Atwood criticizes for reducing the Idea of Cause to mere antecedence.**
 
 Atwood rejects their attempt to reduce the Idea of Cause to mere antecedence, saying human instinct opposes it [IV.4 ¶15].
 
+**See also:** [Metaphysicians](#e1257)
+
 **References:** IV.4 ¶15
 
+<a id="e1257"></a>
+### Metaphysicians
+*person* · our metaphysicians
+
+**Unnamed metaphysicians whom Atwood sets in contrast: they lamented natural reason's inadequacy but could not free it from dependence on sense.**
+
+Atwood cites them by way of contrast: they lamented the inadequacy of natural reason but could not free it from its dependence on sense [II.1 ¶32].
+
+**See also:** [Metaphysicians (inductively arguing)](#e1082), [Modern metaphysicians](#e1110)
+
+**References:** II.1 ¶32
+
 <a id="e1083"></a>
-### metaphysico-chemical analysis
+### Metaphysico-chemical analysis
 *term*
 
 **The analysis of the Universal Subject: separation, introspection and reunion of the vital elements in their ethereal accord, displayed in Valentine's allegory.**
@@ -11892,7 +12668,7 @@ Atwood says that in Valentine's allegory “the whole metaphysico-chemical analy
 **References:** III.2 ¶19, III.2 ¶20
 
 <a id="e1084"></a>
-### metaphysico-chemistry
+### Metaphysico-chemistry
 *term*
 
 **Atwood's name for the Hermetic science, whose 'Fermentation' she matches with the Kabalah's union with God.**
@@ -11902,7 +12678,7 @@ Atwood equates the Kabalah's union with God with “that in metaphysico-chemistr
 **References:** IV.3 ¶27
 
 <a id="e1085"></a>
-### metempsychosis
+### Metempsychosis
 *term*
 
 **In the Ancient Schools of Divinity, the human Identity's passage out of animal terrene existence through ethereal elements toward the Reason re-entering its First Cause.**
@@ -11912,7 +12688,7 @@ Atwood distinguishes the common acceptance of metempsychosis, which she says has
 **References:** IV.2 ¶18
 
 <a id="e1086"></a>
-### the metropolitan of Memphis
+### Metropolitan of Memphis
 *collective voice*
 
 **A quoted speaker whose cosmogony (Chaos, Hyle, Eros, the spirit stirring the mass) Atwood uses as illustration, footnoted to Blackwell's Mythology.**
@@ -11932,8 +12708,8 @@ Atwood ranks Maier first among those who explained ancient fable by the Hermetic
 **References:** I.1 n31, I.1 n89, I.1 ¶24, I.1 ¶70, I.3 n37, I.3 n40, III.1 n18, III.1 n70, III.1 n72, III.1 ¶13, III.1 ¶25, III.1 ¶63, III.1 ¶64, III.3 n21, III.3 n25, III.3 ¶31, III.3 ¶37, III.3 ¶38
 
 <a id="e1088"></a>
-### microcosm
-*term* · Microcosm, microcosmos, Microcosmic
+### Microcosm
+*term* · microcosmos, Microcosmic
 
 **Man as the lesser world, comprehending and representing the whole of the macrocosm; the small world in which the work's mysteries are consummated.**
 
@@ -11941,67 +12717,81 @@ Several voices agree that man is the microcosm. Sendivogius calls it “the less
 
 In her own voice the Microcosm is set against the Great World: it is the scene of “the Conjunction in which all the mysteries of the Microcosm have their consummation” [III.3 ¶33], and the Archetypal Law is “Perfect in the Microcosmic Unit as in the total Deity of the Great World” [III.3 ¶39]. In the Appendix (later layer): “man, being a microcosm, comprehends and represents the whole and each” of the three Lives, its limbs a laboratory for the spirit [APP ¶35]; and “The whole image of the macrocosm is formed, and has consequently its typical representation, in the Microcosm” [APP ¶55].
 
-**Identified with:** [lesser world](#e0958) [II.1 ¶10]
+**Identified with:** [Lesser world](#e0958) [II.1 ¶10]
 
-**References:** APP ¶35, APP ¶55, II.1 ¶10, II.1 ¶31, II.1 ¶32, II.4 ¶39, III.3 ¶33, III.3 ¶39
+**See also:** [Microcosm and macrocosm](#e1089)
+
+**References:** II.1 ¶10, II.1 ¶31, II.1 ¶32, II.4 ¶39, III.3 ¶33, III.3 ¶39, APP ¶35, APP ¶55
 
 <a id="e1089"></a>
-### microcosm / macrocosm
-*term* · microcosmic, macrocosmic
+### Microcosm and macrocosm
+*term* · microcosm, macrocosm, microcosmic, macrocosmic
 
 **The pairing of individual and universal: the microcosmic experiment yields knowledge of the macrocosmic Cause, and the microcosm's fire continues where the macrocosm's ends.**
 
 Atwood: “by the microcosmic experiment into It, the knowledge if the macrocosmic Cause also was derived” [III.1 ¶23] — knowledge of the universal is gained through experiment on the individual. She also speaks of “the corporeal fire of the microcosm” [III.1 ¶37], which takes over where the macrocosm's operative fire ends.
 
+**See also:** [Microcosm](#e1088)
+
 **References:** III.1 ¶23, III.1 ¶37
 
 <a id="e1090"></a>
-### microcosmic centers
+### Microcosmic centers
 *term*
 
 **Three centers in man: head (animal rational life), heart (celestial medial vegetable life), and lumbar region (inferior mineral life).**
 
 In the Appendix (later layer), Atwood: “There are three microcosmic centers in man” [APP ¶95] — the head, the eye of the Divine and seat of the animal rational life; the heart, of the celestial medial vegetable life; and the lumbar region, of the inferior mineral life. Compare mineral life.
 
+**See also:** [Center](#e0253)
+
 **References:** APP ¶95
 
 <a id="e1091"></a>
-### Microcosmic Heaven
+### Microcosmic heaven
 *term*
 
 **The inner heaven according to whose magnetic virtue the Spirit displays its properties, and where the rainbow-token of reconciliation appears.**
 
 Atwood says the Spirit displays its universal properties internally “according to the magnetic virtue, action, and passion of the Microcosmic Heaven” [III.2 ¶16]; this is not further explained. By analogy with the sky after storm, “the same beautiful token of reconciliation is made apparent in the Microcosmic Heaven” [III.3 ¶13], i.e. the rainbow appears there.
 
+**See also:** [Heaven](#e0735)
+
 **References:** III.2 ¶16, III.3 ¶13
 
 <a id="e1092"></a>
-### microcosmic life
+### Microcosmic life
 *term*
 
 **The life in the individual, which in its natural state resembles the world's vitality taken into the blood by respiration, and needs melioration.**
 
 Atwood: “the microcosmic life is not dissimilar from the vitality of the greater world” [II.2 ¶18], which respiration takes into the blood; in its natural state it needs melioration.
 
+**See also:** [Life](#e0960)
+
 **References:** II.2 ¶18
 
 <a id="e1093"></a>
-### microcosmic recreation
+### Microcosmic recreation
 *term*
 
 **The inner re-creation of man, whose basis is the will as fire.**
 
 In the Appendix (later layer), Atwood says of the will as fire: “it is the basis of our microcosmic recreation” [APP ¶97].
 
+**See also:** [Recreation](#e1474)
+
 **References:** APP ¶97
 
 <a id="e1094"></a>
-### microcosmical tradition
+### Microcosmical tradition
 *term*
 
 **The tradition Atwood suggests arose from the human hypostasis becoming universal intelligence through self-perceivance and voluntary resignation.**
 
 Atwood proposes to show “how the microcosmical tradition arose” [III.3 ¶77]: from the human hypostasis becoming universal intelligence through self-perceivance and voluntary resignation.
+
+**See also:** [Tradition (mythological antique devices)](#e1774)
 
 **References:** III.3 ¶77
 
@@ -12013,10 +12803,12 @@ Atwood proposes to show “how the microcosmical tradition arose” [III.3 ¶77]
 
 Atwood uses Midas as a negative example: he preferred an earth-born harmony to the music of the spheres and was dishonored by the god [IV.3 ¶48].
 
+**See also:** [Grecian fables (Midas)](#e0703)
+
 **References:** IV.3 ¶48
 
 <a id="e1096"></a>
-### the Middle Age Adeptists
+### Middle Age Adeptists
 *collective voice*
 
 **Cited in support: their 'refined enthusiasm' agrees with the same divine tradition.**
@@ -12026,7 +12818,7 @@ Atwood says the 'refined enthusiasm' of the Middle Age Adeptists agrees in the s
 **References:** IV.4 ¶28
 
 <a id="e1097"></a>
-### middle principle
+### Middle principle
 *term*
 
 **The specificative form by which a thing is generated as its own kind; the principle in which Nature contains and separates natures.**
@@ -12034,6 +12826,8 @@ Atwood says the 'refined enthusiasm' of the Middle Age Adeptists agrees in the s
 In the grain analogy Atwood identifies it: “in its middle principle, that is to say, in the specificative form” [I.3 n40] — the form by which a thing is generated as its own kind. Nature is addressed as that “which containest and separatest natures in a middle principle” [I.3 ¶33]; the Master, quoted, has “which containest and separatest all things in a middle principle” [III.1 ¶49]. So = specificative form.
 
 **Identified with:** specificative form [I.3 n40]
+
+**See also:** [Principles](#e1399)
 
 **References:** I.3 n40, I.3 ¶33, III.1 ¶49
 
@@ -12049,7 +12843,7 @@ Atwood quotes Milton (paradise Lost, 1:676): “That riches grow in hell” [II.
 
 <a id="e1099"></a>
 ### Mind
-*term* · mind
+*term*
 
 **The divine in man, identified with God and Poemander; for Atwood the true Separator, the efficient and regimen of the work, and the Key of the Hermetic Enigma.**
 
@@ -12062,7 +12856,7 @@ In her own voice, Atwood: “we observe Mind to be the true Separator, the effic
 **References:** II.1 ¶43, II.1 ¶53, III.1 ¶21, III.3 ¶52, III.3 ¶54, III.3 ¶57, III.3 ¶78, IV.1 ¶48
 
 <a id="e1100"></a>
-### minera
+### Minera
 *term*
 
 **That from which the quintessence is drawn by the magistery; not glossed.**
@@ -12072,7 +12866,7 @@ Quoted from Synesius / the New Light: the quintessence is “drawn from its mine
 **References:** I.2 ¶33
 
 <a id="e1101"></a>
-### mineral life
+### Mineral life
 *term*
 
 **The third and lowest life in man, which the Hermetic Art perfects; it contacts the macrocosmic mineral life and first appears in introspection as a dark vapour.**
@@ -12081,10 +12875,12 @@ In the Appendix (later layer), Atwood: “The third life, the mineral or lowest 
 
 **Identified with:** third life; lowest life in man [APP ¶59]; mineral soul; lowest form of life in us [APP ¶71]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶44, APP ¶59, APP ¶71
 
 <a id="e1102"></a>
-### mineral radix
+### Mineral radix
 *term*
 
 **What is carried in both hands from the Cave of Mercury: the root and true matter of the Hermetic Art.**
@@ -12093,25 +12889,31 @@ Atwood: “the mineral radix and true mater of the Hermetic Art” [III.1 ¶19],
 
 **Identified with:** true mater of the Hermetic Art [III.1 ¶19]
 
+**See also:** [Radix](#e1455)
+
 **References:** III.1 ¶19
 
 <a id="e1103"></a>
-### mineral soul
+### Mineral soul
 *term*
 
 **The inner 'secret chamber' guarded by horrors and phantoms.**
 
 Atwood speaks of horrors and phantoms “guarding the secret chamber of their mineral soul” [II.3 ¶29]. In the Appendix the mineral soul is identified with the lowest form of life in us (see mineral life).
 
+**See also:** [Soul](#e1632)
+
 **References:** II.3 ¶29
 
 <a id="e1104"></a>
-### ministering Spirit
+### Ministering spirit
 *term*
 
 **The Spirit that acts without intervention or concealment throughout the work.**
 
 Atwood: “without intervention or concealment in the ministering Spirit throughout” [III.4 ¶9]. The 'highly effective agent' springing from ourselves, mentioned directly after, apparently refers to it (inferred). Whether 'the Spirit' that some were “compelling the Spirit to their private ends” [III.4 ¶6] is the same is not stated.
+
+**See also:** [Spirit](#e1644)
 
 **References:** III.4 ¶6, III.4 ¶9
 
@@ -12126,38 +12928,66 @@ Quoted from Norton: “When ye can finde apt Ministers” [III.4 ¶37]; “Noe M
 **References:** III.4 ¶37
 
 <a id="e1106"></a>
-### mirific Word
+### Mirific Word
 *term*
 
 **In Atwood's words, the Word that contains the two catholic natures, the changeable and the immutable.**
 
 Atwood speaks of “the two catholic natures contained in the mirific Word” [III.2 ¶24]. From the context of her record, these two natures are the changeable and the immutable. The text gives no further definition here.
 
+**See also:** [Word](#e1950)
+
 **References:** III.2 ¶24
 
 <a id="e1107"></a>
-### modal life
+### Modal life
 *term*
 
 **In the Alchemists' teaching as reported, the part of nature that the reduction destroys, as distinct from her vehicle.**
 
 This is a view reported from the Alchemists. The modal life is what the reduction destroys, as opposed to nature's vehicle. The context suggests it is her superfluous forms, since nature is said to be addressed “where nature may be addressed in order to the rejection of her superfluous forms” [II.1 ¶47]. That equation is an inference, not the text's own statement.
 
+**See also:** [Life](#e0960)
+
 **References:** II.1 ¶47
 
 <a id="e1108"></a>
-### a modern adept
+### Modern adept
 *collective voice*
 
 **An unnamed modern adept whom Atwood cites to support her claim that hiding the truth let ignorance spread.**
 
 Atwood cites an unnamed modern adept in support of her point that concealment spread ignorance: “this bushel being placed over the light, the darkness of it invited ignorance abroad” [I.1 ¶64]. She endorses the view.
 
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
+
 **References:** I.1 ¶64
 
+<a id="e0040"></a>
+### Modern Alchemists
+*collective voice* · the Alchemist
+
+**The Alchemist as agreeing with the Greeks on a universal pure matter, contrasted with modern Alchemists who are mostly silent on their Art's metaphysics.**
+
+Atwood says the Alchemist agrees with the Greeks on a universal pure matter, while modern Alchemists are mostly silent on the metaphysics of their Art [III.2 ¶46].
+
+**See also:** [Alchemists](#e0041)
+
+**References:** III.2 ¶46
+
+<a id="e1258"></a>
+### Modern exponent
+*collective voice* · our modern exponent
+
+**An unnamed modern writer whom Atwood cites to confirm and illustrate Hermes' process in terms of the three principles.**
+
+Atwood cites this unnamed modern exponent as confirming and illustrating Hermes' process in terms of the three principles: “in three months circulation, says he, by digestion, the powder becomes black” [II.1 ¶23].
+
+**References:** II.1 ¶23
+
 <a id="e1109"></a>
-### modern interpreters (unnamed, 'as some say')
-*collective voice* · modern interpreters
+### Modern interpreters
+*collective voice* — *unnamed*
 
 **Unnamed modern interpreters whom Atwood criticizes for explaining the lights of the Mysteries as orreries and astronomy.**
 
@@ -12165,18 +12995,32 @@ Atwood rejects the reading of unnamed modern interpreters (“as some say”) wh
 
 **References:** II.3 ¶49
 
+<a id="e1625"></a>
+### Modern Kabalists
+*collective voice* · some modern Kabalists
+
+**Unnamed modern Kabalists whom Atwood cites to explain the nebulous apparition of the Catholic Embryo and the primitive Ether.**
+
+Atwood cites some modern Kabalists for their explanation of the nebulous apparition of the Catholic Embryo and the primitive Ether as “an absolute concentration of Divinity within its original identity” [III.2 ¶13].
+
+**See also:** [Kabalists](#e0917)
+
+**References:** III.2 ¶13
+
 <a id="e1110"></a>
-### modern metaphysicians
+### Modern metaphysicians
 *collective voice*
 
 **Modern metaphysicians, whom the Appendix contrasts with its own view because they make Time a condition of thought.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), modern metaphysicians are set in contrast because they make Time a condition of thought [APP ¶172].
 
+**See also:** [Metaphysicians](#e1257)
+
 **References:** APP ¶172
 
 <a id="e1111"></a>
-### modern metaphysics
+### Modern metaphysics
 *collective voice*
 
 **Modern metaphysics, which Atwood contrasts with her own view because it treats mind as only abstract or inferential.**
@@ -12186,8 +13030,8 @@ Atwood sets modern metaphysics against her own position because it treats mind o
 **References:** III.1 ¶2
 
 <a id="e1112"></a>
-### the moderns / empirical chemists
-*collective voice* · the moderns, empirical chemists
+### Moderns
+*collective voice* — *empirical chemists* · empirical chemists
 
 **The moderns and empirical chemists, whom Atwood criticizes: their elements and distilled waters are not what the adepts mean.**
 
@@ -12196,42 +13040,38 @@ Atwood criticizes the moderns and empirical chemists. Their elements and distill
 **References:** I.2 ¶39, I.2 ¶43
 
 <a id="e1113"></a>
-### moist fire
+### Moist fire
 *term*
 
 **The fire the matter is to be boiled in, named in Hermes' precept and not explained at that point.**
 
 Hermes' precept, which Atwood repeats, says: “Put the matter into a moist fire” [I.3 ¶10]. The moist fire is the fire the matter is boiled in. The passage does not explain it: the nature, origin and “artificial excitation” of the philosophic fire are put off until later.
 
+**See also:** [Fire](#e0575)
+
 **References:** I.3 ¶10
 
-<a id="e1114"></a>
-### moist nature
-*term*
+<a id="e1114"></a><a id="e1115"></a>
+### Moist nature
+*term* · moist natures
 
 **In the Poemander, what the descending darkness turns into: an unspeakably troubled moist nature that gives off smoke, with Light before it.**
 
 Hermes speaks in the Poemander. The descending darkness changes into “a certain moist nature unspeakably troubled, which yielded a smoke, as from fire” [III.3 ¶53]. It is “that moist nature, that appeareth out of the darkness”, and the Light is before it. When the Word joins Nature, pure fire flies upward out of it [III.3 ¶54].
 
-**References:** III.3 ¶53, III.3 ¶54
+*Moist natures.* Vaughan warns that too much heat provokes the moist natures: “thou hast stirred up the wrath of the moist natures, and they will stand up against the central fire” [III.4 ¶44]. This is a caution about managing the fire.
 
-<a id="e1115"></a>
-### moist natures
-*term*
-
-**In Vaughan's warning, natures that rise against the central fire when excess heat provokes them.**
-
-Vaughan warns that too much heat provokes the moist natures: “thou hast stirred up the wrath of the moist natures, and they will stand up against the central fire” [III.4 ¶44]. This is a caution about managing the fire.
-
-**References:** III.4 ¶44
+**References:** III.3 ¶53, III.3 ¶54, III.4 ¶44
 
 <a id="e1116"></a>
-### moist spirit
+### Moist spirit
 *term*
 
 **Venus's spirit, to which metalline bodies cling so that it may give them life.**
 
 In a footnote, Atwood says metalline bodies cling to Venus's moist spirit so that it can give them life: “they gladly adhere to this moist spirit, that it may vivify them” [I.3 n49].
+
+**See also:** [Spirit](#e1644)
 
 **References:** I.3 n49
 
@@ -12246,27 +13086,31 @@ Atwood treats the Monad as the simple unity at the end of the reduction. The Ter
 **References:** IV.2 ¶18, IV.2 ¶20, IV.2 ¶22, IV.3 ¶27
 
 <a id="e1118"></a>
-### Monarchy of Light
+### Monarchy of light
 *term*
 
 **The ordered state in which the renewed faculties and every dignified sentiment are brought into accord under Light.**
 
 Atwood uses the phrase for the outcome of renewal. The renewed faculties and every dignified sentiment are brought into accord “to testify and maintain the triumphant Monarchy of Light” [IV.4 ¶20].
 
+**See also:** [Light](#e0962)
+
 **References:** IV.4 ¶20
 
 <a id="e1119"></a>
-### the monk in his Rosary
+### Monk in his Rosary
 *collective voice* · Rosary, Rosar.
 
 **The monk who wrote the Rosary (Rosar., Abbrev. Tract. iii and iv), cited for the teaching that Stone and medicine are one.**
 
 Atwood cites the monk in his Rosary (Rosar., Abbrev. Tract. iii and iv) in support of the teaching that the Stone and the medicine are one, with nothing added or taken away: “The Stone is one” [I.2 ¶11; I.2 n11]. She endorses it.
 
+**See also:** [Author of the Rosarium](#e0161)
+
 **References:** I.2 n11, I.2 ¶11
 
 <a id="e1120"></a>
-### the monks
+### Monks
 *collective voice*
 
 **The monks, whom Atwood criticizes for promoting Agrippa's Vanity as if it were a recantation.**
@@ -12277,7 +13121,7 @@ Atwood criticizes the monks for promoting Agrippa's Vanity as a recantation [I.1
 
 <a id="e1121"></a>
 ### Moon
-*term* · Luna, Lune, lune, Moone
+*term* · Luna, Lune, Moone
 
 **The passive luminary of the Philosophic Heaven: in Atwood's account the Passive Intelligence, paired with the Sun, and named by many authorities in veiled forms.**
 
@@ -12293,7 +13137,9 @@ Atwood criticizes the monks for promoting Agrippa's Vanity as a recantation [I.1
 
 Asserted identities: Moon = Passive Intelligence [III.1 ¶40]. Luna = the ethereal light or passive luminary of the Philosophic Heaven [I.3 n7]. Moon = the shining Vapour and sparkling Firmament (Eirenaeus) [III.1 ¶69]. Lune = silver, not common silver (New Light) [I.3 n40].
 
-**Identified with:** [Passive Intelligence](#e1276) [III.1 ¶40]; Vapour shining / sparkling Firmament [III.1 ¶69]; ethereal light / passive luminary in the Philosophic Heaven [I.3 n7]; silver (not common silver) [I.3 n40]
+**Identified with:** [Passive intelligence](#e1276) [III.1 ¶40]; Vapour shining / sparkling Firmament [III.1 ¶69]; ethereal light / passive luminary in the Philosophic Heaven [I.3 n7]; silver (not common silver) [I.3 n40]
+
+**See also:** [Saturn, Jupiter, Venus and Lune](#e1544)
 
 **References:** I.3 n40, I.3 n7, I.3 ¶37, I.3 ¶7, III.1 ¶40, III.1 ¶45, III.1 ¶65, III.1 ¶69, III.4 ¶21, IV.3 ¶25
 
@@ -12310,17 +13156,19 @@ Vaughan, as quoted, gives the instruction: “take the Moon of the Firmament, wh
 **References:** IV.1 ¶41
 
 <a id="e1123"></a>
-### the Moorish philosopher
+### Moorish philosopher
 *collective voice* · Centrum Naturae Concentratum
 
 **The author of Centrum Naturae Concentratum, cited for the claim that man is the best subject and can draw the Central Salt of nature.**
 
 Atwood cites the Moorish philosopher (Centrum Naturae Concentratum) in support of the claim that man himself is the best subject and can draw the Central Salt of nature. The cited passage speaks of what “contains not so great mysteries and excellences as Man reformed by God into his image” [II.1 ¶9; II.1 n3]. She endorses this.
 
+**See also:** [Philosophers](#e1311)
+
 **References:** II.1 n3, II.1 ¶9
 
 <a id="e1124"></a>
-### more experienced observers
+### More experienced observers
 *collective voice*
 
 **Unnamed observers whose testimony Atwood cites: very few people are naturally suited to the research.**
@@ -12330,17 +13178,19 @@ Atwood relies on the testimony of more experienced observers that very few peopl
 **References:** III.4 ¶2
 
 <a id="e1125"></a>
-### the more modern class of adepts
+### More modern class of adepts
 *collective voice*
 
 **Later adepts whom Atwood cites for the view that man's life is a fire capable of improvement.**
 
 Atwood cites the more modern class of adepts in support of the view that man's life is a fire capable of improvement: “a pure, naked, and unmingled fire of infinite capability” [II.1 ¶17].
 
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
+
 **References:** II.1 ¶17
 
 <a id="e1126"></a>
-### a more modern experimentalist
+### More modern experimentalist
 *collective voice*
 
 **An unnamed experimentalist cited for the sign of the Arcanum: the masculine tincture rising from the black and uniting with the white spirit.**
@@ -12376,7 +13226,7 @@ Atwood mentions that Morienus's biographer tells his story, but she judges it to
 **References:** I.1 ¶35
 
 <a id="e1129"></a>
-### mortify
+### Mortify
 *term* · mortification, self-mortification, mortifying
 
 **Putting the matter to death as a necessary step of the work. For Atwood, it is the death of the fiery self-willed agent once it is ripe.**
@@ -12386,8 +13236,8 @@ Hermes makes mortification necessary, together with generation: “except one un
 **References:** I.3 ¶26, III.1 ¶56
 
 <a id="e1130"></a>
-### the Mosaic (Scripture)
-*treatise* · the Mosaic, Mosaic
+### Mosaic
+*treatise* — *Scripture*
 
 **The Mosaic Scripture. Some learned writers held it to be the only revealed truth; Atwood would still revere it if all cosmogonies share one divine source.**
 
@@ -12403,15 +13253,17 @@ Atwood reports that some learned writers judged that “the Mosaic was the only 
 
 Like Hermes, Moses gives his instruction under a veil [I.3 n40]. In the Apostle's text she quotes, the Law is read under a veil: “when Moses is read, the veil is upon their heart” [III.3 ¶59]. Atwood compares him on the waters: those on which the Spirit of God moved are not common water [I.2 ¶43]. He appears with Ezekiel, David and Zachariah as illustrating the Wheel of Fire, in which all things are transfigured [II.3 ¶54]. Boehme names him with the Prophets, Christ and the Apostles as teaching what Boehme finds in his inner book [III.2 ¶16]. In the Appendix (Table Talk, a later layer), Moses' legitimate power under God's law, “might in word and deed”, is set against the Egyptians' enchantments [APP ¶2; APP ¶4].
 
-**References:** APP ¶2, APP ¶4, I.2 ¶43, I.3 n40, II.3 ¶54, III.2 ¶16, III.3 ¶59
+**References:** I.2 ¶43, I.3 n40, II.3 ¶54, III.2 ¶16, III.3 ¶59, APP ¶2, APP ¶4
 
 <a id="e1132"></a>
-### the most enlightened philosophers
+### Most enlightened philosophers
 *collective voice*
 
 **Philosophers whom Atwood cites in support of the difference between common and natural calcination.**
 
 Atwood appeals to the most enlightened philosophers in support of the difference between common and natural calcination [IV.3 ¶16].
+
+**See also:** [Philosophers](#e1311)
 
 **References:** IV.3 ¶16
 
@@ -12422,6 +13274,8 @@ Atwood appeals to the most enlightened philosophers in support of the difference
 **The great mystery in which, Atwood says, we stand even now.**
 
 Atwood writes: “And so far we stand even now in the great mystery, in the Mother of all beings” [III.3 ¶52]. The passage does not define the term further.
+
+**See also:** [Being](#e0173)
 
 **References:** III.3 ¶52
 
@@ -12448,17 +13302,19 @@ For Atwood, the Motive is decisive: “Everything depends upon the Motive, which
 **References:** IV.1 ¶44, IV.1 ¶48
 
 <a id="e1136"></a>
-### Motive Light
+### Motive light
 *term*
 
 **An expression Atwood uses once, for the purpose towards which conviction is steeled. The text does not define it further.**
 
 Atwood speaks of “conviction steeled to the purpose of her Motive Light” [IV.4 ¶19]. The record gives no further definition.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.4 ¶19
 
 <a id="e1137"></a>
-### Motive Reason
+### Motive reason
 *term*
 
 **Atwood's term for man's life, set against man seen as the individualized multiplication of a blind will.**
@@ -12467,10 +13323,12 @@ Atwood (ATWOOD) speaks of “tat Motive Reason which is his life” [II.1 ¶42],
 
 **Identified with:** his life [II.1 ¶42]
 
+**See also:** [Reason](#e1469)
+
 **References:** II.1 ¶42
 
 <a id="e1138"></a>
-### the motto
+### Motto
 *collective voice*
 
 **A Latin motto cited in support of the First Matter as the one substance God created in the beginning.**
@@ -12480,19 +13338,21 @@ The motto is cited (QUOTED) in support of the First Matter as the single substan
 **References:** III.2 ¶56
 
 <a id="e1139"></a>
-### Mountain of the Seven
-*term* · mountain of the Seven, seven mystic mountains, Mountain of the Seven metals
+### Mountain of the seven
+*term* · seven mystic mountains, Mountain of the Seven metals
 
 **Flammel's seven-fold mountain, with a royal herb at its top. Atwood equates it with several other symbols: Esdras's outgoings of paradise, Sendivogius's Planetary Sphere and the Sapphiric Mine's tincture.**
 
 Atwood (ATWOOD) describes Flammel's seven-fold mountain, at whose top a royal herb is found [II.4 ¶9]. She then equates it with other names: “Those seven mystic mountains, whereupon grow the roses and lilies, are the outgoings of paradise mentioned in Esdras” [II.4 ¶9]. She adds “and the Planetary Sphere of Sendivogius” and “and that most famous tincture of the Sapphiric Mine” [II.4 ¶9]. So the text treats these as several names for one thing. It does not state the plain meaning.
 
-**Identified with:** outgoings of paradise (Esdras) [II.4 ¶9]; Planetary Sphere of Sendivogius [II.4 ¶9]; [tincture of the Sapphiric Mine](#e1770) [II.4 ¶9]
+**Identified with:** outgoings of paradise (Esdras) [II.4 ¶9]; Planetary Sphere of Sendivogius [II.4 ¶9]; [Tincture of the Sapphiric mine](#e1770) [II.4 ¶9]
+
+**See also:** [Seven](#e1601)
 
 **References:** II.4 ¶9
 
 <a id="e1140"></a>
-### muesis
+### Muesis
 *term* · muoumetha
 
 **In Proclus and the Phaedrus passage, the second grade of vision. It is seeing stable appearances with closed eye, through the pure soul, and comes through silence imparted by faith.**
@@ -12502,8 +13362,8 @@ This term comes from quoted voices, not from Atwood. In the passage from Socrate
 **References:** II.4 ¶23, II.4 ¶40
 
 <a id="e1141"></a>
-### multiplication
-*term* · Multiplication, multiplied, multiply, multiplying, Multeplied, Multeplie
+### Multiplication
+*term* · multiplied, multiply, multiplying, Multeplied, Multeplie
 
 **Increasing the finished Stone or Medicine without limit by repeating the same operation: dissolving and coagulating it with its own mercury. Atwood also uses it of frauds' promises and of Light's assimilative virtue.**
 
@@ -12523,29 +13383,33 @@ Atwood herself (ATWOOD) uses the word in two other ways. First, frauds cheated m
 **References:** I.1 ¶55, I.1 ¶60, I.1 ¶76, I.3 n67, III.1 ¶65, III.3 ¶63, IV.3 ¶16, IV.3 ¶18, IV.3 ¶30
 
 <a id="e1142"></a>
-### multiplication of gold
+### Multiplication of gold
 *term*
 
 **The purely mineral goal to which many gave up their lives. Atwood contrasts it with the art's higher purposes.**
 
 Atwood (ATWOOD) describes those “sacrificing their whole life’s hope to the multiplication of gold” [I.1 ¶42]. She treats it as a merely mineral aim, set against the higher purposes of the art.
 
+**See also:** [Gold](#e1754)
+
 **References:** I.1 ¶42
 
 <a id="e1143"></a>
-### Mundane Spirit
+### Mundane spirit
 *term* · universal Mundane Spirit
 
 **The universal Spirit as it is first consciously revealed in humanity's receptive life. It can receive anything and be converted to anything, and it is equated with Aristotle's passive intellect.**
 
 Atwood (ATWOOD) speaks of “the universal Mundane Spirit, as it is at first consciously revealed in the recipient life of humanity” [II.2 ¶17]. She says it can receive anything and be converted to anything. She equates it with what Aristotle names: “which Aristotle, in his Metaphysics, calls passive intellect” [II.2 ¶17].
 
-**Identified with:** [passive intellect](#e1275) [II.2 ¶17]
+**Identified with:** [Passive Intellect](#e1275) [II.2 ¶17]
+
+**See also:** [Spirit](#e1644)
 
 **References:** II.2 ¶17
 
 <a id="e1144"></a>
-### mundified
+### Mundified
 *term* · mundification
 
 **Purified or cleansed. The Spirit's mundification must be completed “in both kinds” before the Philosophic Work truly begins.**
@@ -12575,8 +13439,8 @@ Atwood (ATWOOD) writes: “And that such actually appeared to be the Musai, duri
 **References:** II.3 ¶22
 
 <a id="e1147"></a>
-### Museum Hermeticum / Musaeum Hermeticum
-*treatise* · Museum Hermeticum, Musaeum Hermeticum
+### Museum Hermeticum
+*treatise* · Musaeum Hermeticum
 
 **A collection Atwood cites as containing works by Philalethes and the Water Stone.**
 
@@ -12595,16 +13459,6 @@ Atwood (ATWOOD) gives Mustai as the Greek name for the aspirants: “the aspiran
 **Identified with:** aspirants [II.3 ¶36]
 
 **References:** II.3 ¶36
-
-<a id="e1149"></a>
-### my good Master (Norton's)
-*collective voice*
-
-**Norton's master, quoted inside Norton's verse as revealing the secret that the vessel is glass.**
-
-Inside Norton's verse, his “good Master” is quoted (QUOTED) as revealing that the vessel is glass: “Si Deus non dedisset nobis vas Nihil dedisset” [III.4 ¶31]. Our translation, which the book does not give: If God had not given us the vessel, he would have given nothing.
-
-**References:** III.4 ¶31
 
 <a id="e1150"></a>
 ### Mylius
@@ -12646,9 +13500,9 @@ Atwood cites *Mystere de la Croix*, chap. 13 (spelled 'Mystere de la Crois' in n
 
 **References:** III.3 n10, III.3 n4, III.3 ¶11, III.3 ¶18
 
-<a id="e1154"></a>
+<a id="e1154"></a><a id="e1155"></a><a id="e1156"></a>
 ### Mysteries
-*term* · mysteries, higher Mysteries, temple mysteries
+*term* · higher Mysteries, temple mysteries, the wise hierophants
 
 **The ancient initiatory rites, Ethnic and Christian, held at Eleusis and in Eastern temples. Atwood treats them as real, scientific inductions of the Understanding Spirit to its Source, connected with Alchemy.**
 
@@ -12662,27 +13516,11 @@ Historically, “Necessity, at length, compelled an abandonment of the Mysteries
 
 Atwood asks that the Mysteries of Eleusis and the rest be understood “not as mere external ceremonials, pictured scenes of suffering and beatitudes, but as real inductions of the Understanding Spirit to its Source” [IV.4 ¶5]. She connects them with Alchemy [IV.4 ¶5].
 
-**References:** I.1 ¶27, I.1 ¶30, II.2 ¶24, II.2 ¶5, II.3 ¶29, III.1 ¶9, III.2 ¶55, IV.2 ¶17, IV.4 ¶5
+*Mysteries.* Atwood cites the Mysteries twice. In them Isis is called Athena, which expresses the Spirit's self-motion and intelligence [III.1 ¶63]. Their mandate forbade passing the revelation on to the profane [III.2 ¶46].
 
-<a id="e1155"></a>
-### the Mysteries
-*collective voice*
+*Mysteries and the wise hierophants.* Atwood cites the mysteries and the wise hierophants as an illustration. The Aspirant leaves the statues behind to behold the Adytum, and this shows the mind leaving all images; it is “the order in which Divinity is perceived” [III.2 ¶66].
 
-**The Mysteries cited as a voice. They call Isis Athena, and their mandate forbade telling the revelation to the profane.**
-
-Atwood cites the Mysteries twice. In them Isis is called Athena, which expresses the Spirit's self-motion and intelligence [III.1 ¶63]. Their mandate forbade passing the revelation on to the profane [III.2 ¶46].
-
-**References:** III.1 ¶63, III.2 ¶46
-
-<a id="e1156"></a>
-### the mysteries / the wise hierophants
-*collective voice* · the mysteries, the wise hierophants
-
-**The mysteries and their wise hierophants, cited to show that the mind must leave all images behind to perceive Divinity.**
-
-Atwood cites the mysteries and the wise hierophants as an illustration. The Aspirant leaves the statues behind to behold the Adytum, and this shows the mind leaving all images; it is “the order in which Divinity is perceived” [III.2 ¶66].
-
-**References:** III.2 ¶66
+**References:** I.1 ¶27, I.1 ¶30, II.2 ¶24, II.2 ¶5, II.3 ¶29, III.1 ¶63, III.1 ¶9, III.2 ¶46, III.2 ¶55, III.2 ¶66, IV.2 ¶17, IV.4 ¶5
 
 <a id="e1157"></a>
 ### Mysteries celebrated at Eleusis and the rest
@@ -12695,18 +13533,20 @@ Atwood reinterprets the Mysteries of Eleusis and the rest as real inductions of 
 **References:** IV.4 ¶5
 
 <a id="e1158"></a>
-### the mysterious adeptest
+### Mysterious adeptest
 *collective voice*
 
 **An adept, cited from Khunrath's Amphiteatr. Sap. Etern., who defines the philosopher's stone as embodied Ruach Elohim. Atwood admits such definitions explain the unknown by the more unknown.**
 
 Atwood quotes him: “The philosopher’s stone, says the mysterious adeptest, is Ruach Elohim” [III.3 ¶50]. The note cites Khunrath, *Amphiteatr. Sap. Etern.*, Isag. in fig. [III.3 n35]. He calls the Stone embodied Ruach Elohim, names Salt as its principle and calls it Wisdom [III.3 ¶50]. Atwood uses him in support but admits that such definitions explain the unknown by the more unknown [III.3 ¶50].
 
+**See also:** [Adept](#e0018)
+
 **References:** III.3 n35, III.3 ¶50
 
 <a id="e1159"></a>
 ### Mystery
-*term* · mystery
+*term*
 
 **The object of Agrippa's search. The Rosy Cross fraternity calls it the most ancient knowledge, breathed into nature by God's Word, and equates it with the Fire of Life and the Wise men's red gold.**
 
@@ -12714,22 +13554,24 @@ Atwood (ATWOOD) says Agrippa reached his final conviction by “searching and pr
 
 The fraternity of the Rosy Cross (QUOTED) describes the mystery as the most ancient knowledge, “a knowledge which God Almighty, by his Word, breathed into nature” [III.3 ¶63]. It is given to few, though it lives and moves daily in sight of all [III.3 ¶63]. They equate it with “a miraculous power, the blessed Fire of Life” and with “the transparent carbuncle and red gold of the Wise men” [III.3 ¶63].
 
-**Identified with:** [fire of life](#e0576) [III.3 ¶63]; transparent carbuncle and red gold of the Wise men [III.3 ¶63]
+**Identified with:** [Fire of life](#e0576) [III.3 ¶63]; transparent carbuncle and red gold of the Wise men [III.3 ¶63]
 
 **References:** I.1 ¶64, III.3 ¶63
 
 <a id="e1160"></a>
-### mystery of regeneration
+### Mystery of regeneration
 *term*
 
 **The regenerative mystery, of which, Atwood says, the Reformers kept little more than a traditional faith.**
 
 Atwood (ATWOOD) says the Reformers kept little of it, “retaining, indeed, little more of the mystery of regeneration than a traditional faith” [I.1 ¶26].
 
+**See also:** [Regeneration](#e1493)
+
 **References:** I.1 ¶26
 
 <a id="e1161"></a>
-### mystical analysis
+### Mystical analysis
 *term* · ultimate alchemical analysis
 
 **The one analysis that resolves a pot into gold and gold into an indissoluble water. It agrees with hermetic doctrine in both inner and outer senses, and its final stage yields Light.**
@@ -12739,17 +13581,19 @@ Atwood (ATWOOD) writes: “For by no other analysis either is a pot resolved int
 **References:** III.2 n38
 
 <a id="e1162"></a>
-### mystical death and regeneration
+### Mystical death and regeneration
 *term*
 
 **A topic Atwood deliberately leaves aside at this point. She says it will be better understood once the Philosophic Subject is made manifest.**
 
 Atwood (ATWOOD): “We omit many things here relating to the mystical death and regeneration” [II.3 ¶56]. She says these will be better understood once the Philosophic Subject has been made manifest.
 
+**See also:** [Regeneration](#e1493)
+
 **References:** II.3 ¶56
 
 <a id="e1163"></a>
-### the mystical problem of the Trinity
+### Mystical problem of the Trinity
 *term*
 
 **The Trinity's “three in one and one in three”, cited as an analogy for agent, patient and offspring in all created things.**
@@ -12759,17 +13603,19 @@ A footnote uses the mystical problem of the Trinity, “three in one and one in 
 **References:** I.3 n30
 
 <a id="e1164"></a>
-### myth of Oedipus
+### Myth of Oedipus
 *collective voice*
 
 **Cited in the Appendix as foreshadowing the mystery of “two Causes and one Mother”.**
 
 In the Appendix (Table Talk, a later layer), the myth of Oedipus is said to foreshadow the mystery of “two Causes and one Mother” [APP ¶73].
 
+**See also:** [Oedipus](#e1211)
+
 **References:** APP ¶73
 
 <a id="e1165"></a>
-### the Myths
+### Myths
 *collective voice*
 
 **The Myths, cited in the Appendix for showing Vulcan as lame. This is explained as halting motion.**
@@ -12792,7 +13638,7 @@ Cited as having commented on the epitaph discussed in the text [I.1 ¶24]; the f
 
 <a id="e1167"></a>
 ### The Name
-*term* · Name
+*term*
 
 **The Name that, Atwood says, we have no business to speak; if it speaks in us, it works its own change.**
 
@@ -12802,7 +13648,7 @@ Atwood, in the Appendix (Table Talk, a later layer), insists: “We have no busi
 
 <a id="e1168"></a>
 ### Natal bond
-*term* · natal bond
+*term*
 
 **The soul's bond in life, which she must give up, with dread, during the transition.**
 
@@ -12821,18 +13667,20 @@ Cited as having refused to teach Agrippa despite his entreaties [IV.1 ¶36].
 **References:** IV.1 ¶36
 
 <a id="e1170"></a>
-### natural Alembic
+### Natural Alembic
 *term*
 
 **That through which the impure Instrument is brought and returned; the wording also suggests the Instrument then itself constitutes it.**
 
 Atwood writes of the Instrument that “when finally brought through the natural Alembic, and returned, it constitutes the natural Alembic” [III.1 ¶61]. Two readings are possible. On one, the natural Alembic is the passage through which the impure Instrument goes and returns. On the other, the Instrument itself becomes the natural Alembic. The repeated phrase may be a printing slip, so the text leaves this open.
 
+**See also:** [Alembic](#e0045)
+
 **References:** III.1 ¶61
 
 <a id="e1171"></a>
-### natural fire
-*term* · Natural Fire, fire of the natural life
+### Natural fire
+*term* · fire of the natural life
 
 **The vital fire of the natural life, which when fermented and opened frees the celestial Life and Light; in Eudoxus, the fire the Stone sympathizes with.**
 
@@ -12840,11 +13688,13 @@ Atwood writes of the Instrument that “when finally brought through the natural
 
 **Eudoxus (quoted):** the Stone, an Astral Fire, sympathizes with Natural Fire, and “the igneous spirit of the natural fire is corporified in the substances which are analogous to it” [IV.3 ¶16]. The Stone grows in an 'Elementary Fire' geometrically proportioned to it [IV.3 ¶16]. The text does not say that Natural Fire and Elementary Fire are the same.
 
-**References:** APP ¶38, IV.3 ¶16
+**See also:** [Fire](#e0575)
+
+**References:** IV.3 ¶16, APP ¶38
 
 <a id="e1172"></a>
 ### Natural Impotency
-*term* · natural impotency
+*term*
 
 **Geber's term for a natural unfitness for the work, caused by defects of body or of soul.**
 
@@ -12853,7 +13703,7 @@ Atwood reports Geber's term for a natural incapacity for the work, caused by bod
 **References:** III.4 ¶3
 
 <a id="e1173"></a>
-### natural inbred chemist
+### Natural inbred chemist
 *term* · inbred chemist
 
 **In Crollius, the agent that separates each mystery into its own receptacle and frees the medicine from impure outside elements.**
@@ -12863,28 +13713,32 @@ Crollius (quoted): “the natural inbred chemist teaches to segregate every myst
 **References:** III.1 ¶10
 
 <a id="e1174"></a>
-### natural intelligent Spirit
+### Natural intelligent spirit
 *term* · natural Spirit
 
 **Man's 'phantasic' Spirit, the vestibule of Reason, which in man matches the Ether in the universe; it is imperfect and its Light is hidden.**
 
 Atwood: “for what the natural intelligent Spirit is in man, that Ether is in the universe” [III.1 ¶5]. She calls it 'phantasic' and the vestibule of Reason [III.1 ¶5]. Earlier chapters have shown “the imperfection of the natural Spirit in his world, the occultation of its Light” [III.1 ¶4].
 
+**See also:** [Spirit](#e1644)
+
 **References:** III.1 ¶4, III.1 ¶5
 
 <a id="e1175"></a>
-### natural life
+### Natural life
 *term*
 
 **The soul's ordinary, unregenerate state, where no lasting leader rules and passing motives take control.**
 
 Atwood: “the government of the natural life is oligarchical, almost an anarchy” [II.4 ¶38]. In this state no permanent leader rules and passing motives take control.
 
+**See also:** [Life](#e0960)
+
 **References:** II.4 ¶38
 
 <a id="e1176"></a>
-### natural reason
-*term* · natural Intellect, natural intellect
+### Natural reason
+*term* · natural Intellect
 
 **Ordinary reason: needed at the threshold but dull and idle in the work, unable to purify the phantastic Spirit; it is the image of the supernatural reason.**
 
@@ -12894,10 +13748,12 @@ Atwood treats natural reason as necessary but only an aid at the threshold. In t
 
 **Identified with:** iron key [III.1 ¶13]
 
+**See also:** [Reason](#e1469)
+
 **References:** III.1 ¶13, III.1 ¶20, III.1 ¶21
 
 <a id="e1177"></a>
-### necessary charges
+### Necessary charges
 *term*
 
 **What the avaricious are afraid to 'interposit'; Atwood glosses this as giving up the life of selfhood and turning the product to a benevolent and truthful end.**
@@ -12914,11 +13770,13 @@ In the passage from Geber, on the avaricious: “but are afraid to interposit th
 
 Atwood: “and this is that Nemean Lion said to be born of her foam” [IV.1 ¶29]. The Lion is identified with what the sentence before describes. It is unclear from the record what that is, and whose foam is meant.
 
+**See also:** [Lion](#e0973)
+
 **References:** IV.1 ¶29
 
 <a id="e1179"></a>
 ### Neoplatonists
-*collective voice* · the Neoplatonists, Neo-Platonists
+*collective voice* · Neo-Platonists
 
 **Philosophers Atwood cites for a hidden Principle of Universal Science and for teaching principles while keeping silent on the Practice.**
 
@@ -12926,7 +13784,7 @@ Atwood cites them as support for a latent Principle of Universal Science that ca
 
 In the Appendix (Table Talk, a later layer) she qualifies this. They set out principles scientifically and went through long-perfected Initiation, but did not declare the inner experience of the Mystae and Teleioi. They kept to psychological investigation, and Behmen surpassed them here [APP ¶122].
 
-**References:** APP ¶122, II.1 ¶39, III.2 ¶46
+**References:** II.1 ¶39, III.2 ¶46, APP ¶122
 
 <a id="e1180"></a>
 ### Nether confines
@@ -12939,7 +13797,7 @@ Atwood mentions “approaching to the Nether confines, to make choice of Light�
 **References:** IV.1 ¶25
 
 <a id="e1181"></a>
-### new birth
+### New birth
 *term*
 
 **The moment when extremes are present and Light springs forth out of the abyssal Darkness.**
@@ -12949,12 +13807,14 @@ Atwood: “extremes are said to be present at the new birth, when Light springs 
 **References:** III.2 ¶56
 
 <a id="e1182"></a>
-### New Generation
+### New generation
 *term*
 
 **The new beginning that the former life, all but destroyed, draws to itself through a new seed.**
 
 Atwood describes the former life, nearly annihilated, “which at length, in its extreme exigence, draws a new seed to begin a New Generation” [III.2 ¶28]. The new start comes out of the extreme destruction of the old.
+
+**See also:** [Generation](#e0661)
 
 **References:** III.2 ¶28
 
@@ -12966,32 +13826,38 @@ Atwood describes the former life, nearly annihilated, “which at length, in its
 
 Atwood uses this name for the agent at work in mesmerism and identifies it with the Common Soul: “our New Imponderable, for it is the Common Soul” [II.2 ¶18].
 
-**Identified with:** [Common Soul](#e0304) [II.2 ¶18]
+**Identified with:** [Common soul](#e0304) [II.2 ¶18]
+
+**See also:** [Imponderable](#e0837)
 
 **References:** II.2 ¶18
 
 <a id="e1184"></a>
-### New Life
+### New life
 *term*
 
 **What arises once the evil of Original Sin is overcome by subtle stratagems; its quintessential virtue is the Corner Stone.**
 
 Atwood: “The evil of the Original Sin being overcome by so many subtle stratagems, the New Life thence arises” [III.1 ¶66]. Its quintessential virtue is the Corner Stone [III.1 ¶66].
 
+**See also:** [Life](#e0960)
+
 **References:** III.1 ¶66
 
 <a id="e1185"></a>
-### the New Light
+### New Light
 *treatise* · New Light of Alchemy
 
 **The New Light of Alchemy, cited as one of the sources of a summary passage.**
 
 Cited as one of the sources of the summary passage [I.2 ¶33]; the footnote names it as the *New Light of Alchemy* [I.2 n36].
 
+**See also:** [Light](#e0962)
+
 **References:** I.2 n36, I.2 ¶33
 
 <a id="e1186"></a>
-### new man
+### New man
 *term*
 
 **In Boehme, the regenerate inner seer who looks into the astral birth, as opposed to the external man.**
@@ -13008,45 +13874,53 @@ Boehme (quoted): “for the new man speculates into the midst of the astral birt
 
 Atwood cites Sir Isaac Newton as support: he recognized the possibility and did not condemn the tradition [I.1 ¶82]. In the Appendix (Table Talk, a later layer) he is named for comparison only [APP ¶122].
 
-**References:** APP ¶122, I.1 ¶82
+**References:** I.1 ¶82, APP ¶122
 
 <a id="e1188"></a>
-### Night of Hippocrates / Day of Orpheus
+### Night of Hippocrates and Day of Orpheus
 *term* · Night of Hippocrates, Day of Orpheus
 
 **Paired images: the radical destruction leads back to the Night of Hippocrates and on into the Day of Orpheus.**
 
 Atwood calls the radical destruction “the way of the recedure to the Night of Hippocrates, leading thenceforth into the Day of Orpheus” [III.2 ¶28]. The text does not explain the two terms further. The context suggests a return to darkness that is followed by light.
 
+**See also:** [Orpheus](#e1242)
+
 **References:** III.2 ¶28
 
 <a id="e1189"></a>
-### Night of Matter
+### Night of matter
 *term*
 
 **The state of the mind beholding Matter: it receives the formless and perceives obscurely, vastly, infinitely, feeling without understanding.**
 
 The passage opens: “When therefore the mind is in the Night of Matter” [III.2 ¶55]. In this state the mind suffers the reception of the formless and perceives obscurely, vastly, infinitely; it feels without understanding [III.2 ¶55]. The voice is unclear: the record does not show whether this is Atwood or a cited authority.
 
+**See also:** [Matter](#e1043)
+
 **References:** III.2 ¶55
 
 <a id="e1190"></a>
-### a no less experienced adept
+### No less experienced adept
 *collective voice*
 
 **An unnamed adept cited for the view that Venus's light alone is imperfect without the masculine tincture.**
 
 Atwood cites this unnamed adept in support. Venus's light alone is imperfect without the masculine tincture, though at that stage “the artist is rejoiced, and thinks perhaps his work is finished” [I.3 n49].
 
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
+
 **References:** I.3 n49
 
 <a id="e1191"></a>
-### a no less subtle than experienced adept
+### No less subtle than experienced adept
 *collective voice*
 
 **An unnamed adept cited for water turning into air and back, and for the image of the old man swallowing gold or silver.**
 
 Atwood cites this unnamed adept to illustrate water turning into air and back again: “the central heat may change the water into air” [I.3 n31]. The adept also gives the image of the old man swallowing gold or silver [I.3 n31].
+
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
 
 **References:** I.3 n31
 
@@ -13061,17 +13935,19 @@ Atwood uses Noah to illustrate the principle preserved in the water through dest
 **References:** III.3 ¶71
 
 <a id="e1193"></a>
-### noble Master (of the poem's narrator)
-*collective voice* · noble Master
+### Noble Master
+*collective voice* — *of the poem’s narrator*
 
 **In a quoted poem, the narrator's master, whose deathbed oath is the narrator's reason for veiling the secrets.**
 
 Inside the quoted poem, the narrator gives his master's deathbed charge as his reason for veiling: “At his death he made me sweare hym to, That all the secrets I schould never undoe” [III.1 ¶65].
 
+**See also:** [Masters](#e1035)
+
 **References:** III.1 ¶65
 
 <a id="e1194"></a>
-### Nobles of the Rose
+### Nobles of the rose
 *term*
 
 **Coins struck from Lully's gold, about 10 ducats each, of the finest metal, with a marginal inscription said to mark their miraculous origin.**
@@ -13082,7 +13958,7 @@ Atwood reports that from Lully's gold “a coinage of the gold was struck in pie
 
 <a id="e1195"></a>
 ### Non-being
-*term* · non-Being, primitive non-Being, non-being
+*term* · primitive non-Being
 
 **In Parmenides, what neither mind nor speech can reach; in Hegel, the empty abstraction of pure Being; for the Kabalists, the primitive non-Being, the Cause of causes.**
 
@@ -13101,7 +13977,7 @@ The readings differ: Parmenides calls it unknowable, Hegel calls it an empty abs
 **References:** III.2 ¶14, III.2 ¶30, III.2 ¶32
 
 <a id="e1196"></a>
-### nonentity
+### Nonentity
 *term*
 
 **The initial nothingness of all things, which Atwood says Parmenides and others were cited to prove, and at which the soul does not stop but passes into true Being.**
@@ -13128,7 +14004,21 @@ Norton's *Ordinal* is cited throughout the book, almost always in support of Atw
 
 In the Appendix (Table Talk, a later layer) he is cited for the name Holy Alchemy [APP ¶29] and against over-haste: “Haste is the Devil’s part” [APP ¶103].
 
-**References:** APP ¶103, APP ¶29, I.1 n107, I.1 n21, I.1 n47, I.1 n59, I.1 n60, I.1 n64, I.1 ¶14, I.1 ¶15, I.1 ¶40, I.1 ¶49, I.1 ¶52, I.1 ¶54, I.1 ¶59, I.1 ¶60, I.1 ¶64, I.1 ¶83, I.2 n51, I.2 ¶51, I.3 n15, I.3 n2, I.3 n4, I.3 n6, III.1 n10, III.3 n41, III.3 n42, III.3 n48, III.3 ¶73, III.3 ¶74, III.4 n12, III.4 n28, III.4 n31, III.4 n33, III.4 n34, III.4 n8, III.4 n9, III.4 ¶1, III.4 ¶10, III.4 ¶14, III.4 ¶15, III.4 ¶16, III.4 ¶17, III.4 ¶30, III.4 ¶31, III.4 ¶36, III.4 ¶37, III.4 ¶39, III.4 ¶40, III.4 ¶41, III.4 ¶9, IV.1 n3, IV.1 n42, IV.1 ¶49, IV.1 ¶9, IV.2 n23, IV.2 n6, IV.2 ¶13, IV.2 ¶34, IV.2 ¶4, IV.2 ¶5, IV.3 n3
+**See also:** [Authorities in Norton (Philosophers, Astrologers, Auctors)](#e1313), [Norton’s Master (my good Master)](#e1149)
+
+**References:** I.1 n107, I.1 n21, I.1 n47, I.1 n59, I.1 n60, I.1 n64, I.1 ¶14, I.1 ¶15, I.1 ¶40, I.1 ¶49, I.1 ¶52, I.1 ¶54, I.1 ¶59, I.1 ¶60, I.1 ¶64, I.1 ¶83, I.2 n51, I.2 ¶51, I.3 n15, I.3 n2, I.3 n4, I.3 n6, III.1 n10, III.3 n41, III.3 n42, III.3 n48, III.3 ¶73, III.3 ¶74, III.4 n12, III.4 n28, III.4 n31, III.4 n33, III.4 n34, III.4 n8, III.4 n9, III.4 ¶1, III.4 ¶10, III.4 ¶14, III.4 ¶15, III.4 ¶16, III.4 ¶17, III.4 ¶30, III.4 ¶31, III.4 ¶36, III.4 ¶37, III.4 ¶39, III.4 ¶40, III.4 ¶41, III.4 ¶9, IV.1 n3, IV.1 n42, IV.1 ¶49, IV.1 ¶9, IV.2 n23, IV.2 n6, IV.2 ¶13, IV.2 ¶34, IV.2 ¶4, IV.2 ¶5, IV.3 n3, APP ¶103, APP ¶29
+
+<a id="e1149"></a>
+### Norton’s Master
+*collective voice* — *my good Master*
+
+**Norton's master, quoted inside Norton's verse as revealing the secret that the vessel is glass.**
+
+Inside Norton's verse, his “good Master” is quoted (QUOTED) as revealing that the vessel is glass: “Si Deus non dedisset nobis vas Nihil dedisset” [III.4 ¶31]. Our translation, which the book does not give: If God had not given us the vessel, he would have given nothing.
+
+**See also:** [Masters](#e1035), [Norton](#e1197)
+
+**References:** III.4 ¶31
 
 <a id="e1198"></a>
 ### Norton’s Ordinal
@@ -13148,10 +14038,10 @@ Cited from chap. 4 (as Ordinal or Norton’s Ordinal) as Atwood's main verse aut
 
 Atwood (ATWOOD) writes of “bringing back into the Nothing which is before all things” as Wisdom's end; the Eternal Will arises in it [APP ¶90, Appendix, later layer]. Earlier she says: “For he who in such wise knows Nothing --- no one apostate particular --- has the All” [IV.4 ¶27], so knowing Nothing apparently means holding to no separated particular.
 
-**References:** APP ¶90, IV.4 ¶27
+**References:** IV.4 ¶27, APP ¶90
 
 <a id="e1200"></a>
-### nox corporis
+### Nox corporis
 *term*
 
 **“Night of body or corporeal sleep”: a name Atwood reports for the Terrestrial Paradise, where souls are dead to this life and more alive in that.**
@@ -13163,8 +14053,8 @@ Atwood (ATWOOD) identifies it with the Terrestrial Paradise or Elysium: “the t
 **References:** II.4 ¶9
 
 <a id="e1201"></a>
-### number, weight, and measure
-*term*
+### Number, weight and measure
+*term* · number, weight, and measure
 
 **Nature's three dimensions as displayed by the Spirit in her emanative Law.**
 
@@ -13175,7 +14065,7 @@ Atwood (ATWOOD) calls number, weight and measure the dimensions the Spirit displ
 **References:** III.3 ¶67
 
 <a id="e1202"></a>
-### numbers
+### Numbers
 *term* · Numerical numbers
 
 **Outwardly mere 'bark' of things; theosophically, the order in which the Divine Law develops in creative operation, known through theurgic art.**
@@ -13197,7 +14087,7 @@ Introduced as “another” authority on the power of the pure mineral spirit, w
 ## O
 
 <a id="e1204"></a>
-### obscure oblivion
+### Obscure oblivion
 *term* · oblivion
 
 **The state of the mental eye when all thought is submerged: a crass, obscure vacuity, called the Original of Life, related to true Being as night to day.**
@@ -13209,7 +14099,7 @@ Atwood (ATWOOD) describes the objectless mental eye, all thought submerged, beco
 **References:** III.2 ¶54
 
 <a id="e1205"></a>
-### Occult Art
+### Occult art
 *term*
 
 **The art Atwood says Alexandrian Christian Platonists and divines studied and discussed; St John is said to have practised it for healing and making gold, silver and gems.**
@@ -13219,7 +14109,7 @@ Atwood (ATWOOD) reports the Alexandrian Christian Platonists and divines “stud
 **References:** I.1 ¶24
 
 <a id="e1206"></a>
-### occult discovery
+### Occult discovery
 *term*
 
 **The hidden discovery on which, Atwood says, the systems of ancient philosophy were uniformly based; the passage does not say what it is.**
@@ -13229,18 +14119,20 @@ Atwood (ATWOOD) refers to “that occult discovery on which the systems of ancie
 **References:** I.1 ¶12
 
 <a id="e1207"></a>
-### occult material
+### Occult material
 *term*
 
 **The hidden material of the art, to which the adepts claim the Bononian Enigma exclusively refers.**
 
 Reported as the adepts' view (QUOTED: the adepts): the Bononian Enigma refers exclusively to “the occult material of their art” [I.1 ¶20].
 
+**See also:** [Material](#e1036)
+
 **References:** I.1 ¶20
 
 <a id="e1208"></a>
-### Occult Science
-*term* · occult science
+### Occult science
+*term*
 
 **Atwood's name for the subject of her inquiry, considered in its means and principles, and for the medieval epoch she surveys.**
 
@@ -13249,7 +14141,7 @@ Atwood (ATWOOD) frames her inquiry around “the means and principles of occult 
 **References:** I.1 ¶2, I.1 ¶39, I.1 ¶64
 
 <a id="e1209"></a>
-### occult Stone
+### Occult Stone
 *term*
 
 **The hidden Medicine that the Light of Faith discovers when it searches the interior.**
@@ -13258,10 +14150,12 @@ Atwood (ATWOOD) says the Light of Faith, searching the interior, discovers “th
 
 **Identified with:** hidden Medicine [III.1 ¶36]
 
+**See also:** [Stone](#e1670)
+
 **References:** III.1 ¶36
 
 <a id="e1210"></a>
-### Odic Force
+### Odic force
 *term*
 
 **A supposed 'New Imponderable' suggested by recent experiments and Mesmerism, which Atwood says few believe in and does not assume.**
@@ -13283,12 +14177,14 @@ Atwood uses Oedipus illustratively. Aided by the Light of true Chemistry, he van
 **References:** III.1 ¶4, IV.1 ¶13, IV.1 ¶48
 
 <a id="e1212"></a>
-### oily tincture
+### Oily tincture
 *term*
 
 **In a passage given as Hermes', the second of the three that come from two, holding a blackness that must be removed.**
 
 Voice: QUOTED: Hermes. The oily tincture is second of the three produced from two: “then the oily tincture” [I.3 ¶23]; it holds a blackness to be removed [I.3 ¶23].
+
+**See also:** [Tincture](#e1768)
 
 **References:** I.3 ¶23
 
@@ -13303,7 +14199,7 @@ Atwood cites his *De Ortu et Progressu Chemiae* in support of alchemy's antiquit
 **References:** I.1 n104, I.1 n3, I.1 n57, I.1 n96, I.1 ¶3, I.1 ¶47, I.1 ¶75
 
 <a id="e1214"></a>
-### old Alchemical sayings
+### Old Alchemical sayings
 *collective voice*
 
 **Traditional maxims Atwood cites in the Appendix on the transmission of spirit and the wisdom of the receiver.**
@@ -13313,18 +14209,20 @@ In the Appendix (Table Talk, later layer), Atwood cites “Ut ventus qui flat, e
 **References:** APP ¶41
 
 <a id="e1215"></a>
-### the old Alchemists
+### Old Alchemists
 *collective voice*
 
 **Collective authority whose definition of the Matter Atwood endorses: bodies are to be turned into vapour, which is the Stone.**
 
 Atwood cites and endorses the old Alchemists' definition of the Matter: “it is no common water, but an unctuous mineral vapour, universally subsisting” [III.2 ¶7]; bodies are to be turned into vapour, and this is the Stone [III.2 ¶7].
 
+**See also:** [Alchemists](#e0041)
+
 **References:** III.2 ¶7
 
 <a id="e1216"></a>
-### the old analogy (Troy, Apollo, Mercury)
-*collective voice* · the old analogy
+### Old analogy
+*collective voice* — *Troy, Apollo, Mercury*
 
 **A mythic analogy Atwood uses in the Appendix to illustrate drawing the Salt up into the medial life.**
 
@@ -13343,8 +14241,8 @@ In the Appendix (Table Talk, later layer), Atwood illustrates with the Testament
 **References:** APP ¶98
 
 <a id="e1218"></a>
-### Oldradus (Oldranus)
-*person* · Oldradus, Oldranus
+### Oldradus
+*person* · Oldranus
 
 **Authority cited (lib. Concilio, Quest 74) as having praised the Hermetic Art and Arnold's wisdom.**
 
@@ -13353,12 +14251,14 @@ Cited in support: he praised the Hermetic Art and Arnold's wisdom [I.1 ¶43, I.1
 **References:** I.1 n52, I.1 ¶43
 
 <a id="e1219"></a>
-### Olympic Fire
+### Olympic fire
 *term*
 
 **In Khunrath's words, a fire with which the internal and external fire must be in sympathy; the text does not define it.**
 
 Voice: QUOTED: Khunrath. The internal and external fire must be “in harmonious sympathy with the Olympic Fire” [III.3 ¶9]. The passage does not say what the Olympic Fire is.
+
+**See also:** [Fire](#e0575)
 
 **References:** III.3 ¶9
 
@@ -13382,10 +14282,12 @@ Atwood (ATWOOD) says “the One of these philosophers is the Fountain of all bei
 
 **Identified with:** Fountain of all being [III.2 ¶45]; God (according to Xenophanes, as reported by Aristotle) [III.2 ¶40]
 
+**See also:** [Unit](#e1839)
+
 **References:** III.2 ¶40, III.2 ¶45
 
 <a id="e1222"></a>
-### one blessed stone
+### One blessed Stone
 *term*
 
 **In Agrippa's words, the single thing besides which there is no other, the subject of the most holy stone, of which to speak rashly is sacrilege.**
@@ -13394,41 +14296,49 @@ Voice: QUOTED: Cornelius Agrippa. He speaks “of the one blessed stone alone, b
 
 **Identified with:** subject of the most holy stone of the philosophers [I.1 ¶64]
 
+**See also:** [Stone](#e1670)
+
 **References:** I.1 ¶64
 
 <a id="e1223"></a>
-### One Element
+### One element
 *term*
 
 **The ancient theory of a single vitalizing principle in air and all things, which Atwood says moderns deride because it escapes their analyses.**
 
 Atwood (ATWOOD) notes that “the ancient theory of the One Element has been very much derided” [I.2 ¶14], because the single vitalizing principle in air and all things escapes modern analyses [I.2 ¶14]; her tone implies she does not share the derision.
 
+**See also:** [Elements](#e0469)
+
 **References:** I.2 ¶14
 
 <a id="e1224"></a>
-### one only matter
+### One only matter
 *term*
 
 **The single matter of all things in the Beginning, which the process imitates as all diversities come from and return to the One.**
 
 Atwood (ATWOOD): “as in the Beginning there was said to be one only matter of all things” [III.3 ¶29], so in the process all diversities proceed from and return to the One [III.3 ¶29].
 
+**See also:** [Matter](#e1043)
+
 **References:** III.3 ¶29
 
 <a id="e1225"></a>
-### One Principle
+### One principle
 *term*
 
 **In Proclus' words, the principle found only by becoming assimilated to it, the most united in nature, uniting the universe in sympathetic consent.**
 
 Voice: QUOTED: Proclus. “if any one wish to discover the One Principle he must become first assimilated to it” [III.2 ¶50]. It is the most united in nature, through which it is Deity, uniting the universe in sympathetic consent [III.2 ¶50].
 
+**See also:** [Principles](#e1399)
+
 **References:** III.2 ¶50
 
 <a id="e1226"></a>
-### One Thing
-*term* · one thing, One only Thing, one things
+### One thing
+*term* · One only Thing, one things
 
 **The single subject from which, after the Smaragdine (Emerald) Table, all things proceed by adaptation; Atwood identifies it with the Identity made in regeneration and, later, with our psychical essence.**
 
@@ -13442,17 +14352,9 @@ In the Appendix (Table Talk, a later layer), Atwood says plainly: “The One Thi
 
 **Identified with:** psychical essence; nervous system [APP ¶176]; [Water](#e1920) [III.2 ¶15]; [Identity](#e0822) [III.2 ¶16]; first Material Mother of all [III.3 ¶76]
 
-**References:** APP ¶176, I.1 ¶9, I.2 ¶48, III.1 ¶21, III.1 ¶41, III.2 ¶15, III.2 ¶16, III.3 ¶68, III.3 ¶69, III.3 ¶76, IV.2 ¶44
+**See also:** [The Thing](#e1750)
 
-<a id="e1227"></a>
-### one (unnamed, 'says one')
-*collective voice* · one, says one
-
-**An unnamed authority (“says one”) whom Atwood cites in the Table Talk to support her claim that everything depends on the will and the intention.**
-
-In the Appendix (Table Talk, a later layer), an unnamed authority is quoted in support of the point that all depends on the willing and the intention: “That which in the hands of fools is nothing in that of a philosopher becomes to be all in all” [APP ¶35].
-
-**References:** APP ¶35
+**References:** I.1 ¶9, I.2 ¶48, III.1 ¶21, III.1 ¶41, III.2 ¶15, III.2 ¶16, III.3 ¶68, III.3 ¶69, III.3 ¶76, IV.2 ¶44, APP ¶176
 
 <a id="e1228"></a>
 ### Ontological Wisdom
@@ -13462,7 +14364,9 @@ In the Appendix (Table Talk, a later layer), an unnamed authority is quoted in s
 
 Atwood equates the two terms directly: “philosophy, that is to say, Ontological Wisdom” [II.2 ¶4]. She calls it “the Wisdom of true Being” [II.2 ¶5]. In that passage it is the knowledge that initiation aimed at.
 
-**Identified with:** [philosophy](#e1333) [II.2 ¶4]
+**Identified with:** [Philosophy](#e1333) [II.2 ¶4]
+
+**See also:** [Wisdom](#e1943)
 
 **References:** II.2 ¶4, II.2 ¶5
 
@@ -13477,28 +14381,32 @@ Atwood quotes Agrippa: “in us is the Operator of all wonderful effects” [II.
 **References:** II.1 ¶26
 
 <a id="e1230"></a>
-### Opposive Principle
+### Opposive principle
 *term*
 
 **A principle that, once freed, draws the mind's other faculties into its vortex, revels with them until satiated, and is then more easily ensnared.**
 
 Atwood says the faculties are “drawn away afterwards into the vortex of the Opposive Principle, rapidly attracting them when it is freed” [III.1 ¶66]. It revels with them, becomes satiated and is then more easily ensnared. She illustrates this with Orpheus's tale of Saturn bound in fetters while drunk [III.1 ¶66]. The text does not say outright that this is the same as the ‘rebellious Principle’ of III.1 ¶64.
 
+**See also:** [Principles](#e1399)
+
 **References:** III.1 ¶66
 
 <a id="e1231"></a>
-### Oracle of Apollo, from Eusebius
-*collective voice* · Oracle of Apollo
+### Oracle of Apollo
+*collective voice* — *from Eusebius* · Oracle of Apollo, from Eusebius
 
 **An oracle of Apollo, taken from Eusebius, used as the epigraph of II.2: the path to Deity is hard, and the Egyptians and other ancient peoples disclosed it.**
 
 Atwood uses it as an epigraph: “The Path by which to Deity we climb Is arduous, rough, ineffable, sublime;” [II.2 ¶1]. The verses go on to say the path was disclosed by the Egyptians and other ancient peoples.
 
+**See also:** [Apollo](#e0090)
+
 **References:** II.2 ¶1
 
 <a id="e1232"></a>
-### the oracle (to Amelius)
-*collective voice* · oracle to Amelius
+### Oracle to Amelius
+*collective voice*
 
 **The oracle given to Amelius, which Atwood quotes to show the place where the soul of Plotinus dwells.**
 
@@ -13507,8 +14415,8 @@ Atwood quotes the oracle given to Amelius about where the soul of Great Plotinus
 **References:** II.4 ¶11, II.4 ¶12
 
 <a id="e1233"></a>
-### the oracles
-*collective voice* · the oracle, the Oracle, Oracula Chaldaica, Zoroastri Oracula
+### Oracles
+*collective voice* · the oracle, Oracula Chaldaica, Zoroastri Oracula
 
 **Oracular sayings that Atwood cites often, including the Oracula Chaldaica and Zoroastri Oracula, to support her teaching on the soul's ascent, the formless Fire, purification and piety.**
 
@@ -13516,10 +14424,12 @@ Atwood treats the oracles as supporting authorities. One urges the soul to turn 
 
 The Oracle also gives the name ‘Pratum’ (meadow) to the meadow of Divine Ideas [II.4 ¶9]. It warns about the infinite End of the principle: “Stoop not down, for a precipice lies below in the earth” [III.2 ¶15]. The oracles are said to teach that the impure perceptive medium needs ‘alternation and solution’ before it can tell good from evil [II.2 ¶15]. On piety, Atwood writes: “Thus piety is available for all things, as the oracles declare” [III.4 ¶22]. In that passage prayer is piety's chief exercise and is profitable for great undertakings. With Julian, the oracles support the claim that “through purifying ceremonies bodies become worthy of receiving divine assistance and health” [IV.3 ¶30–31, IV.3 n10]. An oracle is also reported to have called Socrates the wisest of mankind because of that Nothing [IV.4 ¶27].
 
+**See also:** [Divine Oracle](#e0416), [Truth-telling Oracle](#e1808), [Zoroastri Oracula](#e1963)
+
 **References:** II.2 ¶15, II.3 n27, II.3 n50, II.3 ¶26, II.3 ¶46, II.3 ¶47, II.3 ¶52, II.3 ¶53, II.4 ¶9, III.2 ¶15, III.4 ¶22, IV.3 n10, IV.3 ¶30, IV.3 ¶31, IV.4 ¶27
 
 <a id="e1234"></a>
-### orgies
+### Orgies
 *term*
 
 **In Clemens Alexandrinus's words as Atwood quotes them, the rites or celebrations of the Mysteries.**
@@ -13529,8 +14439,8 @@ Atwood quotes Clemens Alexandrinus: “These are the orgies of the Mysteries” 
 **References:** II.2 ¶5
 
 <a id="e1235"></a>
-### orient animal
-*term* · Orient Animal, Animal de Oriente
+### Orient animal
+*term* · Animal de Oriente
 
 **The adepts' figure of an animal that must be skinned by the Hand; in the Table Talk, Atwood explains it as the opposite will clothed in Light.**
 
@@ -13538,10 +14448,10 @@ In III.1, Atwood reports the adepts' saying: “For the Orient Animal must be st
 
 In the Appendix (Table Talk, a later layer), Atwood herself gives the meaning: “The ‘orient animal’ means the animal (that is, the opposite) will which is clothed in Light”. She also calls it “the third which rises in opposition to the first” [APP ¶21].
 
-**References:** APP ¶21, III.1 ¶64
+**References:** III.1 ¶64, APP ¶21
 
 <a id="e1236"></a>
-### oriental quicksilvers
+### Oriental quicksilvers
 *term* · two oriental quicksilvers
 
 **A Hermetic expression quoted from Hermes: two oriental quicksilvers that hunt the sulphurs and contain the bodies.**
@@ -13561,27 +14471,31 @@ Origen is named only in the story of Ammonius [III.2 ¶64].
 **References:** III.2 ¶64, III.3 n39
 
 <a id="e1238"></a>
-### Original Light
+### Original light
 *term*
 
 **Nature's Original Light: the infallible touchstone by which the capable can tell what is rationally possible.**
 
 Atwood speaks of Nature's “infallible touchstone of her Original Light” [IV.3 ¶54]. The able use it to discern what is rationally possible.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.3 ¶54
 
 <a id="e1239"></a>
-### original matter
+### Original matter
 *term*
 
 **The state to which bodies must be reduced, by introversion of the generated life, before they can be truly manifested and made permanent.**
 
 Atwood names as a condition of true manifestation and permanence “the reduction of bodies to their original matter, by introversion of the generated life” [I.2 ¶49].
 
+**See also:** [Matter](#e1043)
+
 **References:** I.2 ¶49
 
 <a id="e1240"></a>
-### Original Sin
+### Original sin
 *term*
 
 **An evil that is overcome by subtle stratagems, after which the New Life arises.**
@@ -13591,12 +14505,14 @@ Atwood writes: “The evil of the Original Sin being overcome by so many subtle 
 **References:** III.1 ¶66
 
 <a id="e1241"></a>
-### original virtue
+### Original virtue
 *term*
 
 **The real power that the types signify; without understanding it and cooperating with it, the types only mimic efficacy.**
 
 Atwood says the types need “a true understanding and cooperation of that original virtue, apart from which they do but mimic an efficacy” [I.1 ¶26].
+
+**See also:** [Virtue](#e1886)
 
 **References:** I.1 ¶26
 
@@ -13609,6 +14525,8 @@ Atwood says the types need “a true understanding and cooperation of that origi
 Atwood quotes Orpheus to illustrate Pan as the whole of nature: “Fortis subtilis Pan, integer et generalis” [I.2 ¶28, I.2 n26, Orpheus Hymni] (ours: strong, subtle Pan, whole and universal). From the Argonautics she cites prudent entry into the Cave of Mercury (“Mercurii ingedier spuluncam” [III.1 ¶17–18]), which she interprets hermetically. In the same vein, Orpheus is said to have recommended taking the Hermetic material in the cave of Mercury [III.2 ¶7].
 
 She draws on Orpheus for the tale of Saturn, bound in fetters while drunk by his son through a stratagem: “and by the advice of the goddess, too, according to Orpheus, the subtle stratagem was contrived” [III.1 ¶66]. It illustrates how the satiated Opposive Principle is ensnared. She also cites ‘the Day of Orpheus’, which follows the Night [III.2 ¶28].
+
+**See also:** [Heroes of the ordeal (Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus)](#e0220)
 
 **References:** I.2 n26, I.2 ¶28, III.1 ¶17, III.1 ¶18, III.1 ¶66, III.2 ¶28, III.2 ¶7
 
@@ -13630,31 +14548,37 @@ Atwood cites the Apodosis of Emblema LVI: “Cui scelerum viru mens moribunda tu
 
 The fragment opens: “I open a secret to the Initiated, but let the doors be shut.” [II.4 ¶40, II.4 n28]. Atwood uses it in support of purity and contemplation of the One. She qualifies its statement that He is ‘never seen by mortal eyes’: the Initiated, she says, did behold Him.
 
+**See also:** [Orphic oracles](#e1245)
+
 **References:** II.4 n28, II.4 ¶40
 
 <a id="e1245"></a>
-### the Orphic oracles
-*collective voice* · Orphic oracles
+### Orphic oracles
+*collective voice*
 
 **Cited for the teaching that Pan, of necessity, evolves every property and form out of his central will.**
 
 Atwood cites the Orphic oracles in support of the teaching that Pan evolves every property and form out of his central will, of necessity [I.2 ¶36].
 
+**See also:** [Oracles](#e1233), [Orphic Fragment](#e1244), [Orphic poet](#e1246)
+
 **References:** I.2 ¶36
 
 <a id="e1246"></a>
-### the Orphic poet
-*collective voice* · Orphic poet
+### Orphic poet
+*collective voice*
 
 **An unnamed Orphic poet, quoted in Latin, on what blessed Eurotas heard while Phoebus (Apollo) meditated.**
 
 Atwood quotes the Orphic poet's verse on Apollo contemplating such rivers: “Omnia quae Phoebo quondam meditante beatus Audiit Eurotas” [II.4 ¶13–14] (ours: all that blessed Eurotas once heard while Phoebus meditated).
 
+**See also:** [Orphic oracles](#e1245), [Poets](#e1356)
+
 **References:** II.4 ¶13, II.4 ¶14
 
 <a id="e1247"></a>
-### the orphic verse
-*collective voice* · orphic verse
+### Orphic verse
+*collective voice*
 
 **An Orphic verse cited for the radiant return of Bacchus.**
 
@@ -13682,7 +14606,9 @@ Atwood says what the Matter brings forth by the lawfully conceived Fire of natur
 
 In the fable, Typhon kills Osiris and scatters his body. Applying it to the work, Atwood identifies Osiris with “the foreign body of Light, which is Osiris” [III.1 ¶56] and “Osiris, i.e., the Divine Light” [III.1 ¶63]. The Efficient reduces this Light to vapor, and it suffers restraint as it passes through the voluntary axle [III.1 ¶56–63].
 
-**Identified with:** foreign body of Light [III.1 ¶56]; [Divine Light](#e0412) [III.1 ¶63]
+**Identified with:** foreign body of Light [III.1 ¶56]; [Divine light](#e0412) [III.1 ¶63]
+
+**See also:** [Dead and revived god (Cadmillus, Atys, Adonis, Osiris)](#e0219), [Fable of Isis and Osiris](#e0459)
 
 **References:** III.1 ¶56, III.1 ¶63
 
@@ -13696,89 +14622,21 @@ Citing Pliny, Atwood names Ostanes as the Persian sage who first brought the Per
 
 **References:** I.1 n13, I.1 ¶12
 
-<a id="e1251"></a>
-### Others (unnamed philosophers)
-*collective voice* · Others, others (unnamed philosophers)
-
-**Unnamed philosophers reported as teaching that the White Mercury is the bath of the Moon and the Red Mercury the bath of the Sun.**
-
-The speaker reports others as saying “the White Mercury is the bath of the Moon, and that the Red Mercury is the bath of the Sun” [IV.3 ¶10]. The speaker does not dispute this but adds to it.
-
-**References:** IV.3 ¶10
-
-<a id="e1252"></a>
-### our ancestors
-*collective voice*
-
-**Earlier masters who, Hermes says, veiled the secret in figures, which he claims he will now open.**
-
-Hermes, as quoted, says the secrets “are given by our ancestors in figures and types” [I.3 ¶50]. He claims to open them.
-
-**References:** I.3 ¶50
-
-<a id="e1253"></a>
-### our author of The Triumph
-*collective voice* · The Triumph
-
-**The author of The Triumph, cited for listing the fixed principles: the Elements, the Three Principles, white and citrine Mercury, and fixed Sulphur as the Stone.**
-
-This author is cited for a list of the fixed principles: the Elements, the Three Principles, white and citrine Mercury, and fixed Sulphur as the Stone. The list begins: “you must make the conversion of the Elements” [IV.2 ¶6].
-
-**References:** IV.2 ¶6
-
-<a id="e1254"></a>
-### our doctors
-*collective voice*
-
-**Cited for the view that the Art is perfected by multiplying the Prester and placing him in the supreme Ether.**
-
-‘Our doctors’ are cited in support of the view that the Art's perfection lies in multiplying the Prester and placing him in the supreme Ether [II.3 ¶56].
-
-**References:** II.3 ¶56
-
 <a id="e1255"></a>
-### Our Earth
+### Our earth
 *term*
 
 **In Sendivogius's words, the source of the water and the salt-nitre, holding a river of living water.**
 
 Sendivogius, as quoted, speaks of “Our Earth in which there is a river of living water” [IV.3 ¶21]. It is the source of the water and the salt-nitre. The text does not define it further.
 
+**See also:** [Earth](#e0446)
+
 **References:** IV.3 ¶21
 
-<a id="e1256"></a>
-### our Lord
-*person*
-
-**Christ, cited in the Appendix (Table Talk) for sayings Atwood applies to the Hermetic Art and the Stone.**
-
-Cited only in the Appendix (Table Talk, a later layer). His words “The wind bloweth where it listeth” are cited as an analogy, Christ the Head Corner Stone is named as the analogue of the Stone, and the regenerated are said to enter his life [APP ¶41, APP ¶46, APP ¶60]. His saying “Seek ye first the Kingdom of God and His righteousness and all these things shall be added unto you” supports Atwood's point that seeking the Universal first is the shortest and truest road in the Hermetic Art [APP ¶134]. His use of the language of David — “I have said ye are gods, if (says our Lord) ye called them gods unto whom the Word of God came” — illustrates powers subordinate to God evolved where the Word comes, with the danger of self-centers [APP ¶100].
-
-**References:** APP ¶100, APP ¶134, APP ¶41, APP ¶46, APP ¶60
-
-<a id="e1257"></a>
-### our metaphysicians
-*person*
-
-**Unnamed metaphysicians whom Atwood sets in contrast: they lamented natural reason's inadequacy but could not free it from dependence on sense.**
-
-Atwood cites them by way of contrast: they lamented the inadequacy of natural reason but could not free it from its dependence on sense [II.1 ¶32].
-
-**References:** II.1 ¶32
-
-<a id="e1258"></a>
-### our modern exponent
-*collective voice*
-
-**An unnamed modern writer whom Atwood cites to confirm and illustrate Hermes' process in terms of the three principles.**
-
-Atwood cites this unnamed modern exponent as confirming and illustrating Hermes' process in terms of the three principles: “in three months circulation, says he, by digestion, the powder becomes black” [II.1 ¶23].
-
-**References:** II.1 ¶23
-
 <a id="e1259"></a>
-### Our Old Man
-*term* · our old man
+### Our old man
+*term*
 
 **Cosmopolite's allegorical name for the Mercury, as reported by Eudoxus; apt because the Mercury is the first matter of all metals.**
 
@@ -13789,7 +14647,7 @@ Voice: Eudoxus (quoted). He explains that Cosmopolite's allegory — “give our
 **References:** IV.3 ¶10
 
 <a id="e1260"></a>
-### Our Paste
+### Our paste
 *term* · philosophical paste, paste
 
 **Eudoxus' name for the matter leavened by the Perfect Body, with the Spirit uniting them, compounded in proportions learned from bread-making.**
@@ -13799,8 +14657,8 @@ Voice: Eudoxus (quoted). The paste is the matter leavened by the Perfect Body, t
 **References:** IV.3 ¶14
 
 <a id="e1261"></a>
-### Ours (living gold and silver)
-*term* · Ours
+### Ours
+*term* — *living gold and silver*
 
 **Sendivogius' term for the philosophers' own gold and silver, called living, as opposed to common gold and silver, called dead.**
 
@@ -13820,6 +14678,16 @@ Atwood presents him as an initiated poet, inspired, “as he declares, by that s
 
 ## P
 
+<a id="e1023"></a>
+### Palingenius
+*person* — *Manzoli* · Manzoli
+
+**A poet whose verse, Atwood says, divulges the artificial method; she says his name means 'one regenerated'. His Zodiacus Vitae is cited on the Ethereal Stone.**
+
+Atwood cites Manzoli, called Palingenius, in support. She says his verse divulges the artificial method, quoting “Take this Arcadian slippery lad that’s apt to fly.” [III.1 ¶26]. She also says the name Palingenius means one regenerated [III.1 ¶27]. From the Zodiacus Vitae she cites the art of fashioning the Ethereal Stone: “Invenere artem, qua non ars dignior ulla est, Fingendi Lepidem Aetherium” [IV.3 ¶54; IV.3 n25]. In the readers' account, this art is found only after long trial and cost, is closed to the profane and is granted to few [IV.3 ¶54–¶55].
+
+**References:** III.1 ¶26, III.1 ¶27, IV.3 n25, IV.3 ¶54, IV.3 ¶55
+
 <a id="e1263"></a>
 ### Pan
 *term* · Alchemical Pan, Pana
@@ -13831,7 +14699,7 @@ In the Orphic hymn Atwood quotes, Pan is “Fortis subtilis Pan, integer et gene
 **References:** I.2 ¶28, I.2 ¶29, I.2 ¶34
 
 <a id="e1264"></a>
-### panacea
+### Panacea
 *term*
 
 **What the purged, pure life flows forth as, in a declaration Atwood reports.**
@@ -13863,8 +14731,8 @@ Voice: Democritus (quoted). In his image Paphia, under the fire, appears golden,
 **References:** I.3 n53
 
 <a id="e1267"></a>
-### the Paracelsians / Paracelsian Alchemists
-*collective voice* · the Paracelsians, Paracelsian Alchemists, Paracelsians
+### Paracelsians
+*collective voice* · Paracelsian Alchemists
 
 **A group named in a chapter title, cited for the view that the true medicine and fire of life are bound in man.**
 
@@ -13884,7 +14752,7 @@ She also criticizes him for deliberately misleading writings, names his best wor
 
 In the Appendix (Table Talk, later layer): “the Archaeus of Paracelsus” is set in apposition to the solar plexus, workshop of the Celestial life [APP ¶32]; he is the source of “evestrum” for the soul's destiny-dream [APP ¶57] and of the name Evester for the analogical sphere [APP ¶105]; and mesmerism is said to imitate the Divine Art of separation he speaks of [APP ¶73].
 
-**References:** APP ¶105, APP ¶32, APP ¶57, APP ¶73, I.1 n41, I.1 n99, I.1 ¶35, I.1 ¶36, I.1 ¶64, I.1 ¶71, I.1 ¶76, I.2 n21, I.2 n24, I.2 ¶25, I.2 ¶26, I.3 n4, II.1 ¶14, II.1 ¶21, III.1 n20, III.1 ¶21, III.2 n27, III.2 ¶5, III.2 ¶60, III.3 n27
+**References:** I.1 n41, I.1 n99, I.1 ¶35, I.1 ¶36, I.1 ¶64, I.1 ¶71, I.1 ¶76, I.2 n21, I.2 n24, I.2 ¶25, I.2 ¶26, I.3 n4, II.1 ¶14, II.1 ¶21, III.1 n20, III.1 ¶21, III.2 n27, III.2 ¶5, III.2 ¶60, III.3 n27, APP ¶105, APP ¶32, APP ¶57, APP ¶73
 
 <a id="e1269"></a>
 ### Paracelsus’ disciples
@@ -13894,11 +14762,13 @@ In the Appendix (Table Talk, later layer): “the Archaeus of Paracelsus” is s
 
 Cited as having applied alchemy to human life and suggested “the method and medium of attraction” [II.1 ¶9].
 
+**See also:** [Disciple](#e0389)
+
 **References:** II.1 ¶9
 
 <a id="e1270"></a>
-### Paradise Lost (author not named)
-*treatise* · Paradise Lost
+### Paradise Lost
+*treatise* — *author not named*
 
 **Work (author not named in the text) quoted to illustrate Mammon as the downward-looking spirit leading the depraved operators.**
 
@@ -13907,8 +14777,8 @@ Atwood quotes it on Mammon, the downward-looking spirit who leads the depraved o
 **References:** III.4 n2, III.4 ¶4, III.4 ¶5
 
 <a id="e1271"></a>
-### Paris (Venus, Juno, Minerva)
-*person* · Paris
+### Paris
+*person* — *Venus, Juno, Minerva*
 
 **Paris, who preferred Venus to Juno and Minerva, invoked to illustrate the beauty of the golden Venus (Paphia) in the Democritus passage.**
 
@@ -13927,37 +14797,43 @@ Atwood quotes his Fragments on “Non-being, which nor mind can see”, as a che
 **References:** III.2 n14, III.2 ¶13, III.2 ¶14, III.2 ¶33, III.2 ¶40, III.2 ¶54, III.2 ¶60
 
 <a id="e1273"></a>
-### Particular Spirit / Universal
-*term* · Particular Spirit
+### Particular Spirit and Universal
+*term* · Particular Spirit, Universal
 
 **Vaughan's term for an individual spirit that a certain Art unites to the Universal; distinguished from the divine spirit.**
 
 Voice: Vaughan (quoted): “a certain Art by which a Particular Spirit may be united to the Universal” [II.1 ¶26]. The Particular Spirit is distinguished from the divine spirit [II.1 ¶26].
 
+**See also:** [Universal](#e1841), [Universals](#e1866)
+
 **References:** II.1 ¶26
 
 <a id="e1274"></a>
-### passified Spirit
+### Passified spirit
 *term*
 
 **The Spirit made passive, into which the supernatural reason infuses itself throughout.**
 
 Atwood: the supernatural reason works “by pure infusion of Itself to the passified Spirit throughout” [III.1 ¶21].
 
+**See also:** [Spirit](#e1644)
+
 **References:** III.1 ¶21
 
 <a id="e1275"></a>
-### passive intellect
+### Passive Intellect
 *term*
 
 **Aristotle's term, as Atwood reports and adopts it, for an intellect capable of receiving and being converted to all things.**
 
 Aristotle's term as Atwood reports it (and adopts): the intellect he “calls passive intellect, because capable of receiving and being converted to all” [II.2 ¶17].
 
+**See also:** [Intellect](#e0867)
+
 **References:** II.2 ¶17
 
 <a id="e1276"></a>
-### Passive Intelligence
+### Passive intelligence
 *term*
 
 **The receptive intelligence, identified with the Moon, which, freed by art and in conjunction, answers the Will of her seeking Reason.**
@@ -13966,10 +14842,12 @@ Atwood: the Passive Intelligence, spoken of as her, once freed by art and set in
 
 **Identified with:** [Moon](#e1121) [III.1 ¶40]
 
+**See also:** [Intelligence](#e0878)
+
 **References:** III.1 ¶40
 
 <a id="e1277"></a>
-### Passive Nature
+### Passive nature
 *term*
 
 **The pure, indeterminate receptive nature that should reflect the Divine Light unrefracted; identified as the Alchemists' Matter.**
@@ -13981,17 +14859,19 @@ Atwood: “And the Passive Nature ought indeed to be a thing of this kind, pure 
 **References:** III.2 ¶60
 
 <a id="e1278"></a>
-### Passive Spirit
+### Passive spirit
 *term*
 
 **The receptive spirit, spoken of as herself, whose returning faith and desire draw the Soul back into itself at the extreme of tribulation.**
 
 Atwood: at the extreme of tribulation, “the returning faith and desire of the Passive Spirit attracts the Soul again into herself” [III.3 ¶10].
 
+**See also:** [Spirit](#e1644)
+
 **References:** III.3 ¶10
 
 <a id="e1279"></a>
-### passive spirit of nature
+### Passive spirit of nature
 *term*
 
 **Nature's receptive spirit, enclosed and impure in its ordinary state, made a right recipient by dissolution.**
@@ -14001,17 +14881,19 @@ Atwood: in its ordinary state “the passive spirit of nature is included and im
 **References:** I.2 ¶48
 
 <a id="e1280"></a>
-### Passive Subject
+### Passive subject
 *term*
 
 **That which the Vital Spirit's fermentation changes; not further defined.**
 
 Atwood speaks of “the change that is thereby effected in the Passive Subject” by the Vital Spirit's fermentation [III.1 ¶9]. The text does not define it further.
 
+**See also:** [Subject](#e1675)
+
 **References:** III.1 ¶9
 
 <a id="e1281"></a>
-### Passive Understanding
+### Passive understanding
 *term*
 
 **Understanding gained in transcendental contemplation of herself, which directs the mode of analysis and supplies most of its means.**
@@ -14022,7 +14904,7 @@ Atwood: “the Passive Understanding gotten in transcendental contemplation of h
 
 <a id="e1282"></a>
 ### Paternal
-*term* · paternal
+*term*
 
 **The first source of life and the last initiation, goal of every step of ascent, whose rebirth in the Free Ether ends the rites.**
 
@@ -14031,17 +14913,19 @@ Atwood: “the paternal is the first source of life, and the last into which the
 **References:** II.4 ¶25
 
 <a id="e1283"></a>
-### Paternal Fountain
+### Paternal fountain
 *term*
 
 **In the Chaldaic Oracle, the source from which intellectual notions crop the Flower of Life.**
 
 Voice: the Chaldaic Oracle (quoted): “Intellectual notions from the Paternal Fountain cropping the Flower of Life” [II.4 ¶32]. Not further explained.
 
+**See also:** [Fountain](#e0633)
+
 **References:** II.4 ¶32
 
 <a id="e1284"></a>
-### Paternal Life
+### Paternal life
 *term*
 
 **In the Appendix, the fundamental life sought by the light; related expressions Paternal ens and Paternal Spirit dwell in liberty in Elysium.**
@@ -14050,11 +14934,13 @@ Appendix only (Table Talk, later layer). Atwood speaks of “seeking the Paterna
 
 **Identified with:** the fundamental life [APP ¶167]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶167, APP ¶168, APP ¶171
 
 <a id="e1285"></a>
-### paternal light of life
-*term* · Paternal light of life
+### Paternal light of life
+*term*
 
 **The soul's original, more central light, antecedent to the Maternal intelligence; identified with the generative light.**
 
@@ -14062,10 +14948,12 @@ Atwood calls it “the yet more central, antecedent Paternal, light of life”, 
 
 **Identified with:** the generative light [APP ¶121]
 
-**References:** APP ¶121, III.1 ¶34
+**See also:** [Life](#e0960)
+
+**References:** III.1 ¶34, APP ¶121
 
 <a id="e1286"></a>
-### Paternal Port
+### Paternal port
 *term*
 
 **In Proclus as reported by Atwood, the soul's undefiled union with the Father, in which it rests established in him as in a harbour.**
@@ -14077,7 +14965,7 @@ A term Atwood reports from Proclus: “This, then, is the Paternal Port and the 
 **References:** II.4 ¶41
 
 <a id="e1287"></a>
-### paternal principle
+### Paternal principle
 *term*
 
 **In the Appendix, Atwood's name for the seed of this life, which is said to be drawn up.**
@@ -14086,10 +14974,12 @@ In the Appendix (Table Talk, a later layer), Atwood equates the paternal princip
 
 **Identified with:** the seed of this life [APP ¶98]
 
+**See also:** [Principles](#e1399)
+
 **References:** APP ¶98
 
 <a id="e1288"></a>
-### Paternal Source
+### Paternal source
 *term*
 
 **That which Intellect seeks in the allegory of the descent, according to Atwood.**
@@ -14099,18 +14989,20 @@ Atwood reads the allegory of the descent as “an inquiry of Intellect after its
 **References:** II.3 ¶13
 
 <a id="e1289"></a>
-### patient
+### Patient
 *term*
 
 **Paired with 'agent': that in which the agent's sin is multiplied and lives on in the 'unhappy offspring'.**
 
 Atwood uses 'patient' as the counterpart of 'agent'. The records show it as that in which the agent's sin is multiplied, so that “it should survive in the unhappy offspring unto the third or fourth generation” [IV.3 ¶56]. The text does not define the term further here.
 
+**See also:** [Agent and patient](#e0032), [Spiritual agent and spiritual patient](#e1652)
+
 **References:** IV.3 ¶56
 
 <a id="e1290"></a>
-### Perfect Body
-*term* · perfect body
+### Perfect body
+*term*
 
 **In Eudoxus, the leaven needed to ferment the Stone in the Fifth Key.**
 
@@ -14118,30 +15010,36 @@ Eudoxus speaks here, quoted by Atwood: “the Perfect Body is a necessary leaven
 
 **Identified with:** leaven of Our Paste [IV.3 ¶14]
 
+**See also:** [Body](#e0194)
+
 **References:** IV.3 ¶14
 
 <a id="e1291"></a>
-### Perfect Matter
+### Perfect matter
 *term*
 
 **In the Author of the Open Entrance, the matter joined with the Mercury of the First Work in the Multiplication.**
 
 This comes from the Author of the Open Entrance, quoted by Atwood. In the Multiplication one is told to “take one part of the Perfect Matter” [IV.3 ¶18] and join it with the Mercury of the First Work. The term is not defined further here.
 
+**See also:** [Matter](#e1043)
+
 **References:** IV.3 ¶18
 
 <a id="e1292"></a>
-### permanent water
+### Permanent water
 *term*
 
 **Whitened water made red by conjunction with its own permanent prepared spirit; its Art is called 'our brass'.**
 
 In a footnote, Atwood gives the reddening of the whitened water: “By a conjunction with its own permanent prepared spirit, the albified water is made red” [I.3 n54]. The same note links the Art of the permanent water with 'our brass'.
 
+**See also:** [Water](#e1920)
+
 **References:** I.3 n54
 
 <a id="e1293"></a>
-### perpendicular line
+### Perpendicular line
 *term*
 
 **In the Appendix, the Divine line in all things, which withdraws from sense in mesmerizing, as opposed to the transverse line.**
@@ -14163,7 +15061,7 @@ In the Appendix (Table Talk, a later layer), Atwood says that Perpendicular Magn
 **References:** APP ¶173
 
 <a id="e1295"></a>
-### perpetual lamps
+### Perpetual lamps
 *term*
 
 **Ancient lamps found still burning in tombs and urns, which Atwood takes as proof that the Romans knew chemistry and the occult laws of light.**
@@ -14173,7 +15071,7 @@ Atwood describes ancient lamps found still burning in tombs and urns, kept aligh
 **References:** I.1 ¶18
 
 <a id="e1296"></a>
-### perscrutination
+### Perscrutination
 *term*
 
 **Thorough, searching investigation: the means by which reason proves all things, and something the stiff-necked lack.**
@@ -14184,7 +15082,7 @@ Two voices use the word. Geber, quoted by Atwood, describes the stiff-necked as 
 
 <a id="e1297"></a>
 ### Perscrutinator
-*term* · perscrutinator, perscrutinating Intellect
+*term* · perscrutinating Intellect
 
 **Hermes' name for the searching inner fire or secret sulfur that stirs up and purifies the matter; Atwood identifies it with the investigating Intellect that works the change.**
 
@@ -14198,18 +15096,8 @@ Asserted identities: the secret sulfur [I.3 n32]; the internal fire of the sulfu
 
 **References:** I.3 n32, III.1 ¶13, III.1 ¶21
 
-<a id="e1298"></a>
-### Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason
-*collective voice* · Perseus, Theseus, Bacchus, Ulysses, Hercules, Jason
-
-**Heroes Atwood cites together: their labors before reward illustrate the toil needed to gain Wisdom.**
-
-Atwood names these heroes together. Their labors come before their reward, and she uses this to show the toil required for Wisdom [IV.1 ¶25].
-
-**References:** IV.1 ¶25
-
 <a id="e1299"></a>
-### petri Apiani
+### Petri Apiani
 *person*
 
 Cited for reference only.
@@ -14225,8 +15113,8 @@ Cited for reference only.
 **References:** I.1 n95, I.1 ¶75
 
 <a id="e1301"></a>
-### Petris, the Persian
-*person* · Petris
+### Petris
+*person* — *the Persian* · Petris, the Persian
 
 **Author of an epistle addressed to Artaxerxes, cited for its account of Hippocrates' divine nature and healing.**
 
@@ -14243,7 +15131,7 @@ Cited for reference only.
 **References:** I.1 n19
 
 <a id="e1303"></a>
-### phantasmagoric region
+### Phantasmagoric region
 *term*
 
 **In the Appendix, a region passed before entering the world's solution, after which the inner vision is the same for all.**
@@ -14253,7 +15141,7 @@ In the Appendix (Table Talk, a later layer), Atwood says that the inner vision i
 **References:** APP ¶144
 
 <a id="e1304"></a>
-### phantasms
+### Phantasms
 *term* · figured phantasms
 
 **Figured images produced by the mind's own fancy, or by nature and the demiurgic intellect, as distinct from the gods' true self-manifestation.**
@@ -14263,8 +15151,8 @@ Atwood separates phantasms from the gods' true self-manifestation. Phantasms are
 **References:** II.4 ¶29
 
 <a id="e1305"></a>
-### Phantastic Spirit
-*term* · phantastic Spirit, phantasic
+### Phantastic spirit
+*term* · phantasic
 
 **The imaginative spirit, the natural vehicle of our life and the vestibule of Reason; confusing and possessive while impure, it can be purified and refined by Intellect.**
 
@@ -14276,12 +15164,14 @@ Synesius, as Atwood quotes him, gives Intellect the work of purifying it: “Int
 
 Asserted identities: mundane spirit [II.2 ¶15]; natural vehicle of our life [III.1 ¶5]; natural intelligent Spirit [III.1 ¶5].
 
-**Identified with:** [Mundane Spirit](#e1143) [II.2 ¶15]; natural vehicle of our life [III.1 ¶5]; [natural intelligent Spirit](#e1174) [III.1 ¶5]
+**Identified with:** [Mundane spirit](#e1143) [II.2 ¶15]; natural vehicle of our life [III.1 ¶5]; [Natural intelligent spirit](#e1174) [III.1 ¶5]
+
+**See also:** [Spirit](#e1644)
 
 **References:** II.2 ¶13, II.2 ¶15, III.1 ¶20, III.1 ¶5
 
 <a id="e1306"></a>
-### phantasy
+### Phantasy
 *term*
 
 **The imagination: a region of notions and instincts that hinders intellectual conception and, if it prevails, turns the inner life to folly.**
@@ -14295,8 +15185,8 @@ In her own voice, Atwood counts phantasy as a mode of the One Thing, alongside f
 **References:** II.2 ¶12, II.2 ¶22, III.1 ¶21
 
 <a id="e1307"></a>
-### Pharisees, Katharoi, Devotes, Puritans
-*collective voice* · Pharisees, Katharoi, Devotes, Puritans
+### Pharisees, Katharoi, Devotes and Puritans
+*collective voice* · Pharisees, Katharoi, Devotes, Puritans, Pharisees, Katharoi, Devotes, Puritans
 
 **Religious groups Atwood names together in the Appendix as examples of religious self-will in history.**
 
@@ -14313,8 +15203,8 @@ Cited for reference only.
 **References:** II.1 n17
 
 <a id="e1309"></a>
-### Philo (the Jew Philo)
-*person* · Philo, the Jew Philo, Philo-Judaeus
+### Philo
+*person* — *the Jew Philo* · the Jew Philo, Philo-Judaeus
 
 **'The Jew Philo', whom Atwood cites for the rational part of man as God's temple and the soul as the impression of the Logos-seal.**
 
@@ -14325,8 +15215,8 @@ Elsewhere she lists Philo-Judaeus with Plotinus, Proclus, Porphyry, Jamblicus, J
 **References:** I.1 ¶27, II.1 n39, II.1 n40, II.1 ¶43
 
 <a id="e1310"></a>
-### the philosopher
-*collective voice*
+### Philosopher
+*collective voice* — *unnamed voice*
 
 **An unnamed 'philosopher' cited throughout the book for a range of maxims on the work, the soul and illumination, usually in support of Atwood's points.**
 
@@ -14341,25 +15231,19 @@ The phrase 'the philosopher' stands for an unnamed authority at many points. The
 - “Labor to know causes” [IV.1 ¶44]. Atwood endorses this as the condition of success.
 - On self-preparation, invitation and sudden illumination: “Fit thy roof to thy God in all thou canst” [IV.2 ¶39, IV.2 ¶41].
 
+**See also:** [Authorities in Norton (Philosophers, Astrologers, Auctors)](#e1313), [Philosophers](#e1311)
+
 **References:** I.3 ¶30, I.3 ¶41, II.1 n44, II.1 ¶50, III.1 ¶24, III.2 ¶55, III.3 ¶80, IV.1 ¶37, IV.1 ¶44, IV.2 ¶39, IV.2 ¶41
 
-<a id="e1311"></a>
-### philosophers
+<a id="e1311"></a><a id="e1312"></a>
+### Philosophers
 *term* · philosopher
 
 **Genuine seekers of the Stone, as against knaves and sordid chemists; the disciplined, proven person to whom alone Nature gives up her casket.**
 
 Atwood separates true philosophers from impostors. Experiments went on in secret “both by knaves and philosophers” [I.1 ¶55], and the philosopher stands apart from idlers and 'sordid chemists'. In her account Nature gives her secret only to the qualified: “she will surrender to none but a philosopher, one too that has been disciplined in her schools” [III.4 ¶13]. That is someone tried and proven able to bear the sacred trust.
 
-**References:** I.1 ¶55, III.4 ¶13
-
-<a id="e1312"></a>
-### the philosophers
-*collective voice* · philosophers
-
-**The adepts as a group, cited for doctrines on the First Matter, gold, and spirit and body; Atwood also notes they are silent on key preparations.**
-
-Atwood cites 'the philosophers' as a group for several doctrines:
+*Philosophers.* Atwood cites 'the philosophers' as a group for several doctrines:
 
 - The First Matter is sought inwardly: “The First Matter is not to be found on earth, as the philosophers say” [APP ¶137] (Appendix, Table Talk, a later layer).
 - As Hermes reports, they praise gold: “this gold, in relation of other bodies, is as the sun amongst the stars” [I.3 ¶58].
@@ -14368,20 +15252,12 @@ Atwood cites 'the philosophers' as a group for several doctrines:
 
 She also points out their limits. None of them shows how to obtain the two mercuries. They pass over that point 'very slightly' and treat the preparation of Mercury 'in silence'. The Adepts say more about the last operations than about the First, so reading them alone will hardly suffice [IV.3 ¶10, IV.3 ¶14, IV.3 ¶16].
 
-**References:** APP ¶137, I.3 ¶58, IV.3 ¶10, IV.3 ¶14, IV.3 ¶16, IV.3 ¶7, IV.4 ¶20
+**See also:** [Authorities in Norton (Philosophers, Astrologers, Auctors)](#e1313), [Famous Christian philosophers](#e1740), [Philosopher (unnamed voice)](#e1310), [Philosophers of tyme old (olde Fathers)](#e1315), [Renowned philosophers of various ages and nations](#e0845)
 
-<a id="e1313"></a>
-### Philosophers / Astrologers / Auctors (in Norton)
-*collective voice* · Philosophers, Astrologers, Auctors
-
-**Authorities cited within Norton's verse on working 'within locks nyne' and on the importance of a fitting place.**
-
-These authorities speak inside Norton's verse, which Atwood quotes: “Philosophers said, by their engine, How it should be wrought within locks nyne” [III.4 ¶41]. The passage also stresses how much a fitting place matters for the work.
-
-**References:** III.4 ¶41
+**References:** I.1 ¶55, I.3 ¶58, III.4 ¶13, IV.3 ¶10, IV.3 ¶14, IV.3 ¶16, IV.3 ¶7, IV.4 ¶20, APP ¶137
 
 <a id="e1314"></a>
-### philosophers’ gold
+### Philosophers’ gold
 *term* · gold of the philosophers, philosopher’s gold, gold of the wise, our gold, living gold
 
 **Not common gold but a living, luminous, purified substance that ripens and perfects other bodies; also the transmuting powder in Van Helmont's projection.**
@@ -14392,32 +15268,38 @@ Atwood's own account, drawing on the adepts, makes it a living substance, not me
 
 Asserted identities: living gold, “The gold of the philosophers, or living gold, as they sometimes call their luminous concrete” [I.3 n65]; our earth, “our earth is gold” [I.3 ¶62]; the blood of the Lion [I.1 ¶81].
 
-**Identified with:** [blood of the Lion](#e0191) [I.1 ¶81]; living gold [I.3 n65]; [Our Earth](#e1255) [I.3 ¶62]
+**Identified with:** [Blood of the Lion](#e0191) [I.1 ¶81]; living gold [I.3 n65]; [Our earth](#e1255) [I.3 ¶62]
+
+**See also:** [Gold](#e1754), [Gold of the wise](#e0677), [Living gold of the philosophers](#e0977)
 
 **References:** I.1 ¶76, I.1 ¶81, I.3 n63, I.3 n65, I.3 ¶61, I.3 ¶62
 
 <a id="e1315"></a>
-### Philosophers of tyme old / olde Fathers
-*collective voice* · Philosophers of tyme old, olde Fathers
+### Philosophers of tyme old
+*collective voice* — *olde Fathers* · olde Fathers
 
 **Earlier authorities criticized inside a quoted poem for describing the making of Magnesia while hiding imbibition.**
 
 Inside a poem Atwood quotes, the 'Philosophers of tyme old' or 'olde Fathers' are faulted for describing the creation of Magnesia while concealing imbibition: “The secret of Imbibition never out tould;” [III.1 ¶65].
 
+**See also:** [Philosophers](#e1311)
+
 **References:** III.1 ¶65
 
 <a id="e1316"></a>
-### philosophic body
+### Philosophic body
 *term*
 
 **The body of the work, which carries a shadowy darkness with it until it is purified of sensual defilements.**
 
 Atwood writes in a footnote: “A shadowy darkness passes always along with the philosophic body” [I.3 n21]. The darkness stays with it until the body is purified of sensual defilements.
 
+**See also:** [Body](#e0194)
+
 **References:** I.3 n21
 
 <a id="e1317"></a>
-### philosophic calcination
+### Philosophic calcination
 *term* · philosophical calcination
 
 **In Eudoxus, a purely natural calcination of the Stone that sublimes and distills it and increases its radical humidity, unlike destructive common calcination by fire.**
@@ -14426,30 +15308,36 @@ Eudoxus, quoted by Atwood, calls it “a philosophic calcination which is purely
 
 **Identified with:** natural calcination [IV.3 ¶16]
 
+**See also:** [Calcinations](#e0221)
+
 **References:** IV.3 ¶16
 
 <a id="e1318"></a>
-### philosophic Eagles
+### Philosophic Eagles
 *term*
 
 **In Eirenaeus, things whose exact preparation is the first degree of perfection in the Art; not explained further.**
 
 Eirenaeus, quoted by Atwood, says: “the exact preparation of the philosophic Eagles may be considered the first degree of perfection in this Art” [IV.1 ¶11]. The text does not explain what the Eagles are.
 
+**See also:** [Eagle](#e0444)
+
 **References:** IV.1 ¶11
 
 <a id="e1319"></a>
-### philosophic fermentation
+### Philosophic fermentation
 *term*
 
 **The process in which Life's substance is wholly transmuted, its threefold property developed and the forms of the Medial Spirit put out, followed by radical destruction and New Generation.**
 
 Atwood writes: “as Life passes through the philosophic fermentation, its substance is entirely transmuted” [III.2 ¶28]. In this process the threefold property of Life is developed and its heterogeneous parts are divided. The forms of the Medial Spirit are extinguished, and a radical destruction and a New Generation follow [III.2 ¶28].
 
+**See also:** [Fermentation](#e0564)
+
 **References:** III.2 ¶28
 
 <a id="e1320"></a>
-### Philosophic Field
+### Philosophic field
 *term*
 
 **The field where, in Atwood's figure, the Prototypes of the sacrificial beasts remain feeding and fattening; the text does not explain it further.**
@@ -14459,18 +15347,20 @@ Atwood speaks of the sacrificial beasts “whilst their Prototypes remain feedin
 **References:** III.2 ¶44
 
 <a id="e1321"></a>
-### Philosophic Heaven
+### Philosophic heaven
 *term*
 
 **The realm whose powers, Atwood says, are shaken and defiled during the putrefaction.**
 
 In Atwood's account of the putrefaction, “the powers of the Philosophic Heaven are so wonderfully shaken and defiled” [III.1 ¶58]. The text does not define the Philosophic Heaven further here.
 
+**See also:** [Heaven](#e0735)
+
 **References:** III.1 ¶58
 
 <a id="e1322"></a>
-### Philosophic Matter
-*term* · philosophic matter, Philosophical matter
+### Philosophic matter
+*term* · Philosophical matter
 
 **The subject of the Hermetic work: hidden in the central motion of mineral life, called by many names, properly the Stone in concrete form, and described as an excruciated ens of Light.**
 
@@ -14486,7 +15376,9 @@ Asserted identities: = the Stone [I.3 n16]; = mens sublimes et mare patens [I.3 
 
 **Identified with:** excruciated ens of Light [APP ¶84]; mens sublimes et mare patens (a mind sublime, and an open sea) [I.3 n13]; [Stone](#e1670) [I.3 n16]; entelechy of body bearing the spirit [APP ¶178]
 
-**References:** APP ¶178, APP ¶84, I.3 n13, I.3 n16, III.2 ¶19, IV.1 ¶46, IV.2 ¶14
+**See also:** [Matter](#e1043)
+
+**References:** I.3 n13, I.3 n16, III.2 ¶19, IV.1 ¶46, IV.2 ¶14, APP ¶178, APP ¶84
 
 <a id="e1323"></a>
 ### Philosophic process
@@ -14501,18 +15393,20 @@ In the Appendix (Table Talk, a later layer), Atwood glosses the philosophic proc
 **References:** APP ¶181
 
 <a id="e1324"></a>
-### philosophic Proteus
+### Philosophic Proteus
 *term*
 
 **A figure in the Art whose will, unlike natural species, is free to form itself about its own self-multiplicative Light; the text does not define it directly.**
 
 Atwood writes that “the will of the philosophic Proteus is free to be drawn without hindrance” [I.2 ¶48]. Unlike natural species, it is free to form itself about its own self-multiplicative Light. The context apparently ties it to the fermented Vital Spirit, but the passage does not define it.
 
+**See also:** [Proteus](#e1413)
+
 **References:** I.2 ¶48
 
 <a id="e1325"></a>
-### philosophic Salt
-*term* · Philosophic Salt, Salt
+### Philosophic Salt
+*term* · Salt
 
 **A Salt discovered in the work, glossed as the voluntary bond; its solution is the Second Work, and knowing it is the secret of the Ancient Sages.**
 
@@ -14522,10 +15416,12 @@ Asserted identity: = the voluntary bond [IV.1 ¶36].
 
 **Identified with:** the voluntary bond [IV.1 ¶36]
 
+**See also:** [Salt](#e1536)
+
 **References:** IV.1 ¶17, IV.1 ¶36, IV.1 ¶37
 
 <a id="e1326"></a>
-### Philosophic Subject
+### Philosophic subject
 *term* · our subject
 
 **The Matter considered as the subject of the work: universal, with perfective virtues, burdened with superfluities, and prepared by slow, gentle, continuous trituration.**
@@ -14536,11 +15432,13 @@ She defers its full treatment, saying the mystical death and regeneration will b
 
 In Part IV the subject is prepared by hand (“Preparation of the Philosophic Subject” [IV.1 ¶2]). It is burdened with “such a mass of heterogeneous superfluities adhering to our subject” [IV.1 ¶7], and is worked by “the trituration of the Philosophic Subject, which ought to be slow, gentle, and continuous” [IV.1 ¶13].
 
+**See also:** [Subject](#e1675)
+
 **References:** I.2 ¶34, I.2 ¶37, II.3 ¶56, III.2 ¶64, IV.1 ¶13, IV.1 ¶2, IV.1 ¶7
 
 <a id="e1327"></a>
-### philosophic vessel
-*term* · Philosophic Vessel
+### Philosophic vessel
+*term*
 
 **The vessel of the work, concealed by Hermes, described as having an apparatus of nerves, veins and alembics, and best when it accords with the vessel of nature.**
 
@@ -14548,10 +15446,12 @@ Atwood notes that “Hermes has chosen to conceal the philosophic vessel” [I.3
 
 Later she describes “the Philosophic Vessel and its multiform distillatory apparatus, of nerves, veins, and alembics” [III.4 ¶30]. The best vessel is “She that concordeth with vessel of nature” [III.4 ¶31]. It is finally constructed and vitrified by the Spirit and is called 'oracular'. The described apparatus apparently suggests a vessel within the living body, but the records do not state this directly.
 
+**See also:** [Vessel](#e1882)
+
 **References:** I.3 n48, III.4 ¶30, III.4 ¶31
 
 <a id="e1328"></a>
-### philosophic water
+### Philosophic water
 *term* · Aqua Philosophica
 
 **The one water from which all things grow and into which they dissolve, containing its own sulfur; Hermes' Aqua Philosophica that dissolves the elements.**
@@ -14564,10 +15464,12 @@ Asserted identity: = mercury of the adepts [I.3 n5].
 
 **Identified with:** mercury of the adepts [I.3 n5]
 
+**See also:** [Water](#e1920)
+
 **References:** I.3 n36, I.3 n5, I.3 ¶27
 
 <a id="e1329"></a>
-### Philosophic Work
+### Philosophic work
 *term* · Subtle Work, Subtill Werke
 
 **The work proper, begun only after right motive and complete purification, with a threefold order of operation concealed by the Adepts and distinct from the preliminary practice.**
@@ -14582,15 +15484,19 @@ Asserted identities: = Subtle Work [IV.2 ¶1]; = the practice [III.4 ¶44].
 
 **Identified with:** [Practice](#e1379) [III.4 ¶44]; Subtle Work [IV.2 ¶1]
 
+**See also:** [Works](#e1953)
+
 **References:** III.4 ¶20, III.4 ¶44, IV.1 ¶31, IV.1 ¶48, IV.1 ¶49, IV.2 ¶1, IV.2 ¶3
 
 <a id="e1330"></a>
-### philosophical contrition
+### Philosophical contrition
 *term*
 
 **A process out of which the Matter first appears pure and white; the text does not explain it further.**
 
 Atwood reports that the Matter comes forth “pure, as they say, and white, out of the philosophical contrition” [I.2 ¶36]. The term is not further explained there.
+
+**See also:** [Contrition](#e0331)
 
 **References:** I.2 ¶36
 
@@ -14602,6 +15508,8 @@ Atwood reports that the Matter comes forth “pure, as they say, and white, out 
 
 In the Appendix (Table Talk, a later layer), Atwood writes: “In the Philosophical dissolution of the body, soul and spirit are separate” [APP ¶96]. They remain joined to the breathless body as by a thread until refixation.
 
+**See also:** [Dissolution](#e0393)
+
 **References:** APP ¶96
 
 <a id="e1332"></a>
@@ -14612,10 +15520,12 @@ In the Appendix (Table Talk, a later layer), Atwood writes: “In the Philosophi
 
 Atwood mentions “the Philosophical Elixir, whose divine virtues wise men so much admire” [I.2 ¶49]. Things altered by the pure mineral spirit come to equal it. Nearby she separately names 'the elixir of the wise' as the result of superior skill and coction in vegetal life [I.2 ¶46]; the text does not say the two are the same.
 
+**See also:** [Elixir](#e0473)
+
 **References:** I.2 ¶49
 
 <a id="e1333"></a>
-### philosophy
+### Philosophy
 *term*
 
 **Reason's desire for its antecedent light.**
@@ -14635,6 +15545,8 @@ Asserted identity: = an appetition of reason for its antecedent light [II.1 ¶44
 **A piece in Ashmole's collection that Atwood counts among the most instructive.**
 
 Atwood lists *Philosophy and Experience* among the most instructive pieces in Ashmole's collection [I.1 ¶64].
+
+**See also:** [Experience](#e0534)
 
 **References:** I.1 ¶64
 
@@ -14661,7 +15573,7 @@ Cornelius Agrippa's ingenious disciple, as quoted, describes the Phoenix that ap
 **References:** I.1 ¶37, III.1 ¶50
 
 <a id="e1337"></a>
-### physic
+### Physic
 *term*
 
 **Medicine as Crollius describes it: a knowledge to be tried by fire, inseparable from pyrotechny, and practised by the physician.**
@@ -14671,7 +15583,7 @@ Crollius, as quoted, says “the trial of the knowledge of physic is to be made 
 **References:** III.1 ¶10
 
 <a id="e1338"></a>
-### Physical and Moral sciences
+### Physical and moral sciences
 *term*
 
 **Atwood's two divergent kinds of science, physical (external, sensory, utilitarian) and moral (inward); neither can prove or disprove the other, and the Hermetic Science would include both.**
@@ -14681,7 +15593,7 @@ Atwood contrasts the two. The Physical sciences rest on an external basis, take 
 **References:** IV.4 ¶11
 
 <a id="e1339"></a>
-### physical problem
+### Physical problem
 *term*
 
 **Kirchberger's term, endorsed by Atwood: making the invisible spirit visible, by taking the infinite Light-nature into bound through hypostatic multiplication of its image.**
@@ -14690,8 +15602,18 @@ In the Appendix (Table Talk, a later layer), Atwood adopts Kirchberger's term. T
 
 **References:** APP ¶93
 
+<a id="e1045"></a>
+### Physician, heal thyself
+*collective voice* — *maxim* · maxim 'Physician, heal thyself'
+
+**A maxim quoted within Basil's passage, where the praise of the science lies in experience.**
+
+The maxim “Physician, heal thyself” appears inside a passage Atwood quotes from Basil. There, the praise of the science consists in experience [IV.1 ¶2].
+
+**References:** IV.1 ¶2
+
 <a id="e1340"></a>
-### Physico-Chemical Art
+### Physico-Chemical art
 *term*
 
 **The Art whose 'obstetric hand' assists the Stone's own regenerative self-manifestation.**
@@ -14711,8 +15633,8 @@ Picus di Mirandola is named in a list of authorities [I.1 ¶39]. Atwood cites hi
 **References:** I.1 n103, I.1 n69, I.1 ¶39, I.1 ¶64, I.1 ¶76
 
 <a id="e1342"></a>
-### Pierce, the Black Monk
-*person* · Pierce the Black Monk, Pierce, the Black Monke
+### Pierce the Black Monk
+*person* · Pierce, the Black Monk, Pierce, the Black Monke
 
 **A writer on the Elixir in Ashmole's collection whom Atwood cites on the Matter and the Stone, and on the piety needed by the seeker.**
 
@@ -14720,7 +15642,21 @@ Atwood names Pierce the Black Monk among the 'ecclesiastics of different orders'
 
 From his verses on the Elixir she quotes a recipe for the Stone with the Water of Might: “In Arsenic sublimed there is a way straight” [III.3 ¶16, III.3 n6]. From the same work in Ashmole's *Theatr.* she takes support for the view that the subject is a seed from a body, not common gold and silver. The seeker must be pious, charitable and prayerful, and covetous men never find it: “Therefore there ys no other waye But to take thee to thy beades and pray:” [III.4 ¶21, III.4 n23]. Atwood cites him in support.
 
+**See also:** [Monks](#e1120)
+
 **References:** I.1 ¶64, III.2 ¶60, III.3 n6, III.3 ¶16, III.4 n23, III.4 ¶21
+
+<a id="e0362"></a>
+### Pioneers of Mesmerism
+*collective voice* — *De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet* · De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend, Dupotet
+
+**A group Atwood praises as faithful pioneers of Mesmerism; she says the science has gone backward since them.**
+
+Atwood praises De Mainaduc, Puysegur, Colquhoun, Elliotson, Townshend and Dupotet as faithful pioneers of Mesmerism. She says the science has gone backward since their time [II.2 ¶6].
+
+**See also:** [Mesmerism](#e1069)
+
+**References:** II.2 ¶6
 
 <a id="e1343"></a>
 ### Plato
@@ -14740,7 +15676,7 @@ Atwood cites Plato many times, almost always in support.
 
 In the Appendix (Table Talk, a later layer) he is cited for alchemy being understood only by those “conversant with the soul in her philosophy” [APP ¶181].
 
-**References:** APP ¶181, I.1 n23, I.1 ¶17, I.1 ¶64, II.1 n33, II.1 ¶37, II.1 ¶51, II.2 ¶13, II.2 ¶5, II.2 ¶8, II.3 n36, II.3 n55, II.3 n56, II.3 n8, II.3 n9, II.3 ¶12, II.3 ¶20, II.3 ¶30, II.3 ¶37, II.3 ¶50, II.4 n18, II.4 ¶16, II.4 ¶29, II.4 ¶40, II.4 ¶41, II.4 ¶54, III.1 ¶25, III.2 n38, III.2 ¶35, III.2 ¶36, III.2 ¶38, III.2 ¶40, III.2 ¶53, III.2 ¶60, III.2 ¶9
+**References:** I.1 n23, I.1 ¶17, I.1 ¶64, II.1 n33, II.1 ¶37, II.1 ¶51, II.2 ¶13, II.2 ¶5, II.2 ¶8, II.3 n36, II.3 n55, II.3 n56, II.3 n8, II.3 n9, II.3 ¶12, II.3 ¶20, II.3 ¶30, II.3 ¶37, II.3 ¶50, II.4 n18, II.4 ¶16, II.4 ¶29, II.4 ¶40, II.4 ¶41, II.4 ¶54, III.1 ¶25, III.2 n38, III.2 ¶35, III.2 ¶36, III.2 ¶38, III.2 ¶40, III.2 ¶53, III.2 ¶60, III.2 ¶9, APP ¶181
 
 <a id="e1344"></a>
 ### Platonic discourses
@@ -14751,22 +15687,26 @@ Cited for reference only.
 **References:** II.3 ¶36
 
 <a id="e1345"></a>
-### the Platonic Successor
+### Platonic Successor
 *person*
 
 **A late Platonic writer Atwood cites for Sacred Arts replacing lost revelation, an exhortation to inner stillness, and the soul's ascent from image to Archetype.**
 
 Atwood cites the Platonic Successor, via Iamblichus on the Mysteries and Taylor's notes, for the view that Sacred Arts replace lost spontaneous revelation: “has given us observation through Sacred Arts, by which we have at hand sufficient assistance” [II.1 ¶53, II.1 n46]. She praises the 'magnificence of thought and diction' of his exhortation to inner stilling and adoration of the First: “Now, if ever, to remove from ourselves multiform knowledge” [II.4 ¶41]. She also cites him on the soul's ascent from image to Archetype and its recovery after falling from the vision of God: “he will again, says the Platonic Successor, be elevated” [III.3 ¶26]. In every case she endorses him.
 
+**See also:** [Platonic successors](#e1346), [Platonists](#e1349)
+
 **References:** II.1 n46, II.1 ¶53, II.4 ¶41, III.3 ¶26
 
 <a id="e1346"></a>
-### the Platonic successors
+### Platonic successors
 *collective voice*
 
 **The later Platonists, whose 'highly elevated philosophy' Atwood says agrees in the same divine tradition.**
 
 Atwood cites the Platonic successors to show that their 'highly elevated philosophy' agrees in the same divine tradition [IV.4 ¶28].
+
+**See also:** [Platonic Successor](#e1345)
 
 **References:** IV.4 ¶28
 
@@ -14781,24 +15721,28 @@ Atwood cites Platonic theology as agreeing with the doctrine of primitive non-be
 **References:** III.2 ¶33
 
 <a id="e1348"></a>
-### the Platonist and the Kabalist
+### Platonist and the Kabalist
 *collective voice*
 
 **Paired voices Atwood cites for the view that the First Matter is unknown, or known only as nothing.**
 
 Atwood cites the Platonist and the Kabalist together for the view that the First Matter is unknown, or is known as nothing [III.2 ¶57].
 
+**See also:** [Kabalists](#e0917)
+
 **References:** III.2 ¶57
 
 <a id="e1349"></a>
-### the Platonists
+### Platonists
 *collective voice* · the Platonist
 
 **The Platonic school, cited by Atwood for the whiteness of true Being, the origin of matter, the Epic Cycle as a secret of creation, and the Mysteries as Initia.**
 
 Atwood cites the Platonists in support: “The Platonists have declared true Being to be white” [III.2 ¶9], and she draws on their view of the origin of matter [III.2 ¶9]. She reports them as saying that the Epic Cycle includes the true philosophic secret of creation [III.3 ¶42]. 'The Platonist' is cited again for the Mysteries having been called Initia [II.2 ¶4]. In the Appendix (Table Talk, a later layer) she contrasts them with Behmen: the Platonists are more scientific and less descriptive [APP ¶62].
 
-**References:** APP ¶62, II.2 ¶4, III.2 ¶9, III.3 ¶42
+**See also:** [Greek and Alexandrian Platonists (with the mystics of the middle ages and the Fathers of the Church)](#e0704), [Greeks and eastern sages (Stoics, Pythagoreans, Platonists, Peripatetics)](#e0713), [Platonic Successor](#e1345)
+
+**References:** II.2 ¶4, III.2 ¶9, III.3 ¶42, APP ¶62
 
 <a id="e1350"></a>
 ### Pliny
@@ -14818,7 +15762,7 @@ Atwood cites Pliny's *Hist. Nat.* (lib. xxx, cap. I; lib. 33, cap. 4) in support
 
 Named among the Alexandrian revival figures professing Theurgic and Hermetic knowledge [I.1 ¶27], and among the Neoplatonists whose surviving writings show the nature of the Mysteries, the disease of the Spirit and its clarification [II.2 ¶9]; Atwood calls him ‘the graceful Plotinus’ [II.1 ¶39]. She cites him in support throughout: on the same doctrine while condemning suicide [II.3 ¶37]; on the soul's participation of Deity, perceiving “that the supplier of life is present” [II.3 ¶46]; on the beauty of the gods seen through Intellect — “All the gods, says Plotinus, are beautiful, and their splendour is intense.” [II.4 ¶29; II.4 n17]; on the sudden arrival of the One: “He comes, says Plotinus, suddenly alone” [II.4 ¶50]. From the Select Works and Ennead 5 she takes the sudden Light of Intellect — “a sudden Light, and this Light is from Intellect, and is also It” [III.1 ¶23; III.1 n31] — and approach to the universal subject through an image, a portion of gold [III.1 ¶32; III.1 n37]; and again “For the Light is with Power, and is God.” [IV.2 ¶41; IV.2 n28]. With Porphyry he is the source of her summary on the Subject of bodies, analysis and pure divine Matter, that “there should be a Nature primarily vital which is also formless, indestructible and immortal” [III.2 ¶46–49; III.2 n38–39]; n38 says he alludes to the mystical analysis. He supports knowledge of real beings by self-investigation, where “the reality is testified by reminiscence” [III.2 ¶50], and asks how the infinite is conceived — the Indefinite by the Indefinite [III.2 ¶53]; and inward conversion, union with Divine nature, the soul's middle order and the value of its fall from the treatise on the Descent of the Soul: “Often when by an intellectual energy, I am roused from body and converted to myself” [III.2 ¶50; III.2 n41]; union as experimental ingress requires that one “separate body from the man and its defilements” [III.2 ¶66]. In the Appendix (Table Talk, a later layer) he is referred to on how pure matter is generated [APP ¶43] but qualified: he gives only the metaphysic of the First Matter's generation, never realized so — “a recessure of reason behind itself into the indefinite intermediate between reason and the Absolute” [APP ¶137].
 
-**References:** APP ¶137, APP ¶43, I.1 ¶27, II.1 ¶39, II.2 ¶9, II.3 ¶37, II.3 ¶46, II.4 n17, II.4 ¶29, II.4 ¶50, III.1 n26, III.1 n31, III.1 n37, III.1 ¶23, III.1 ¶32, III.2 n38, III.2 n39, III.2 n41, III.2 ¶46, III.2 ¶47, III.2 ¶48, III.2 ¶49, III.2 ¶50, III.2 ¶53, III.2 ¶66, IV.2 n28, IV.2 ¶41
+**References:** I.1 ¶27, II.1 ¶39, II.2 ¶9, II.3 ¶37, II.3 ¶46, II.4 n17, II.4 ¶29, II.4 ¶50, III.1 n26, III.1 n31, III.1 n37, III.1 ¶23, III.1 ¶32, III.2 n38, III.2 n39, III.2 n41, III.2 ¶46, III.2 ¶47, III.2 ¶48, III.2 ¶49, III.2 ¶50, III.2 ¶53, III.2 ¶66, IV.2 n28, IV.2 ¶41, APP ¶137, APP ¶43
 
 <a id="e1352"></a>
 ### Plutarch
@@ -14828,15 +15772,19 @@ Named among the Alexandrian revival figures professing Theurgic and Hermetic kno
 
 Atwood cites Plutarch for the etymology of Chemia: Egypt was called Cham/Chemia for its black soil, and “by the word Chemia, says Plutarch, the seeing pupil of the human eye was also designated” [I.1 ¶5]. From De Iside et Osiride, calling him ‘well initiated in these mysteries’, she takes support for senses and passions as impediments, the rites preparing the aspirant for knowledge of the Supreme Mind: “the souls of men are not able to participate of the Divine nature whilst they are thus encompassed about with senses and passions” [II.1 ¶50; II.1 n45]. He supports the Moon as reason and Wisdom, the Sun as force: “the influence of the Moon, says Plutarch, seems to reflect the works of reason” [III.1 ¶45; III.1 n49]; he explains that Typhon's names Seth and Bebo import violent restraint, contrariety and subversion [III.1 ¶63]; and he is cited, with the Adepts, as witness to the fable's meaning [IV.2 ¶7].
 
+**See also:** [Eudoxus in Plutarch](#e0524)
+
 **References:** I.1 ¶5, II.1 n45, II.1 ¶50, III.1 n49, III.1 ¶45, III.1 ¶63, IV.2 ¶7
 
 <a id="e1353"></a>
-### pneumatic vehicle
+### Pneumatic vehicle
 *term*
 
 **The soul's subtle vehicle which, when humid and condensed, presents apparitions to the inner sense.**
 
 Atwood speaks of “our pneumatic vehicle, becoming humid and condensed beneath her heaven” [II.3 ¶22]; in this state it presents apparitions to the inner sense, and the soul looking outward “beholds the shadow and images of her vaporous vehicle” [II.3 ¶27]. Whether the ‘vaporous vehicle’ is the same as the pneumatic vehicle is apparently implied by the context, not stated.
+
+**See also:** [Vehicle](#e1879)
 
 **References:** II.3 ¶22, II.3 ¶27
 
@@ -14851,37 +15799,43 @@ Atwood praises the Divine Poimander for sublimity of doctrine, though it concern
 **References:** I.1 ¶7, III.3 n26, III.3 n36, III.3 n51, III.3 ¶39, III.3 ¶58, III.3 ¶71, III.3 ¶78
 
 <a id="e1355"></a>
-### the poet
-*collective voice*
+### Poet
+*collective voice* — *unnamed voice*
 
 **An unnamed poet quoted for a line on the black soot bringing light and a phrase on the remoteness of the discovery.**
 
 An unnamed poet supplies a couplet illustrating that the black soot brings light: “Adferet haec Phoebi nigra favilla jubar.” [I.3 n22] (ours: ‘This black ash will bring the radiance of Phoebus’). Another phrase illustrates how remote the discovery is: “reclusa resedet longius” [III.1 ¶13] (ours, roughly: ‘withdrawn, it lies further off’).
 
+**See also:** [Poets](#e1356)
+
 **References:** I.3 n22, III.1 ¶13
 
 <a id="e1356"></a>
-### the poets
-*collective voice* · the Poets
+### Poets
+*collective voice*
 
 **Poets in general, whose fables Atwood reads as veils of the vaporous estate, the Intelligible Sun, and receptive versus presumptuous approach.**
 
 Atwood reads the poets' Pan as a veil for the vaporous estate and its frightening disguises [II.3 ¶20]. Within the Platonic Successor's passage the Sun from which the Intelligible gods proceed is described as “emerging, as the Poets say, from the bosom of the ocean” [II.4 ¶41]. The stories of Actaeon and Endymion illustrate that presumptuous striving repels while sleeping receptivity receives the presence: “to the sleeping Endymion she vouchsafed her willing presence” [III.2 ¶57].
 
+**See also:** [Initiated poet](#e0858), [Poet (unnamed voice)](#e1355), [Poets and traditionalists](#e1357), [Wise poet (in his Georgics)](#e1949)
+
 **References:** II.3 ¶20, II.4 ¶41, III.2 ¶57
 
 <a id="e1357"></a>
-### the poets and traditionalists
+### Poets and traditionalists
 *collective voice*
 
 **Poets and traditionalists who, by the Walls of Troy built by Apollo's music, meant the insphering of the lower life (Appendix).**
 
 In the Appendix (Table Talk, a later layer), the Walls of Troy, said to be built by Apollo's music, are what the poets and traditionalists meant as a figure of the insphering of the lower life [APP ¶49].
 
+**See also:** [Poets](#e1356)
+
 **References:** APP ¶49
 
 <a id="e1358"></a>
-### point of passivity
+### Point of passivity
 *term*
 
 **A point in the process with no attraction, only indifference to life and death, when the Artist must stir up the Motion.**
@@ -14891,7 +15845,7 @@ In the Appendix (Table Talk, a later layer), the Alchemists, with Atwood's endor
 **References:** APP ¶82
 
 <a id="e1359"></a>
-### poison
+### Poison
 *term* · greatest poison, deadly poison
 
 **The adepts' name for what is entered for the dissolution, ‘the greatest poison’; the root of the Science is also called ‘a deadly poison’.**
@@ -14913,7 +15867,7 @@ Speaking through a quoted Adept: “This center turns naturally towards the Pole
 **References:** IV.2 ¶30
 
 <a id="e1361"></a>
-### pondus
+### Pondus
 *term*
 
 **The just weight or proportion in which, per Eirenaeus, the first water is joined to the body.**
@@ -14933,17 +15887,19 @@ Pontanus's Epistola appears to credit Artephius's tale [I.1 ¶36; I.1 n41]. He i
 **References:** I.1 n41, I.1 ¶36, I.1 ¶49, III.1 n40, III.1 ¶37, IV.3 ¶7
 
 <a id="e1363"></a>
-### Pontic Medium
+### Pontic medium
 *term*
 
 **Something without which, along with Theurgic assistance, one cannot transcend the consciousness of this life; not explained further here.**
 
 Atwood writes: “Without the Pontic Medium, without Theurgic assistance we are unable to transcend the consciousness of this life” [II.4 ¶49]. The passage does not explain the term.
 
+**See also:** [Medium](#e1056)
+
 **References:** II.4 ¶49
 
 <a id="e1364"></a>
-### pontically
+### Pontically
 *term*
 
 **The manner in which the Argent vive is generated: by a reciprocal alternation, passing its virtue hand to hand.**
@@ -14953,7 +15909,7 @@ Atwood says the Argent vive “is generated pontically, as it were by a reciproc
 **References:** IV.1 ¶11
 
 <a id="e1365"></a>
-### Pontick Water
+### Pontick water
 *term* · ponticity
 
 **Eudoxus's name for the viscous liquor thickening under repeated affusion, also called Water of Life and the great Lunaria.**
@@ -14961,6 +15917,8 @@ Atwood says the Argent vive “is generated pontically, as it were by a reciproc
 Quoting Eudoxus: “the philosophers give this viscous Liquor the name of Pontick Water” [IV.3 ¶9]; the liquor thickens under repeated affusion, and its exuberant ponticity is the character of its virtue. Asserted identities: = Water of Life — “It has been called the Water of Life, because it gives life to the metals” [IV.3 ¶9]; = great Lunaria — “it is properly called the great Lunaria, because of its brightness wherewith it shines” [IV.3 ¶9].
 
 **Identified with:** Water of Life [IV.3 ¶9]; great Lunaria [IV.3 ¶9]
+
+**See also:** [Water](#e1920)
 
 **References:** IV.3 ¶9
 
@@ -15025,37 +15983,43 @@ Named among the Alexandrian revival figures [I.1 ¶27], the Neoplatonists who di
 **References:** I.1 ¶27, II.1 ¶39, II.2 n13, II.2 ¶9, II.3 n24, II.3 n29, II.3 n45, II.3 n57, II.3 ¶2, II.3 ¶24, II.3 ¶27, II.3 ¶37, II.3 ¶43, II.3 ¶51, II.4 n2, II.4 n25, II.4 n6, II.4 ¶15, II.4 ¶36, II.4 ¶37, II.4 ¶7, III.1 ¶25, III.2 n44, III.2 ¶46, III.2 ¶59, III.2 ¶64
 
 <a id="e1372"></a>
-### potable gold
+### Potable gold
 *term*
 
 **A product which, like the philosophers' stone, takes its beginning from the divine water (per Hermolaus Barbarus).**
 
 Quoting Hermolaus Barbarus, the divine water is that “whence potable gold, and the stone of philosophers, takes its beginning” [I.1 ¶20].
 
+**See also:** [Gold](#e1754)
+
 **References:** I.1 ¶20
 
 <a id="e1373"></a>
-### Powder of Projection
+### Powder of projection
 *term*
 
 **The transmuting agent in the Dee/Kelly story, found at Glastonbury and so strong its true height had to be found by trial.**
 
 In the Dee/Kelly story Atwood relates the finding of “a large quantity of the Powder of Projection in a niche amongst the ruins of Glastonbury Abbey” [I.1 ¶66]; it was so strong (1 upon 272,330) that its ‘true height’ had to be found by trial.
 
+**See also:** [Projection](#e1405)
+
 **References:** I.1 ¶66
 
 <a id="e1374"></a>
-### powder of transmutation
+### Powder of transmutation
 *term*
 
 **Transmuting powder said by Dickenson to have been found in Lully's cell, enriching the workmen.**
 
 Per Dickenson, “a certain quantity of the powder of transmutation” [I.1 ¶47] was found in Lully's cell and enriched the workmen.
 
+**See also:** [Transmutation](#e1778)
+
 **References:** I.1 ¶47
 
 <a id="e1375"></a>
-### the Power
+### The Power
 *term*
 
 **What secrecy ensured could be discovered only by the long labour of an experienced, upright mind.**
@@ -15065,7 +16029,7 @@ Atwood says secrecy was kept “that the Power might only be discovered through 
 **References:** III.4 ¶9
 
 <a id="e1376"></a>
-### Power and Motive in alliance
+### Power and motive in alliance
 *term*
 
 **The double capacity figured by Cheiron, who educates the Heroic Fire and rectifies the Armed Magnet.**
@@ -15082,17 +16046,19 @@ Atwood describes Cheiron “in his double capacity of Power and Motive in allian
 
 Atwood: “This therefore is that Power which is hidden in man, the true Light which lighteth every man that cometh into the world” [II.3 ¶55] — thus = the true Light. It is “An enchanted treasury known only to the wisely simple” [II.3 ¶55].
 
-**Identified with:** [true Light](#e1799) [II.3 ¶55]
+**Identified with:** [True light](#e1799) [II.3 ¶55]
 
 **References:** II.3 ¶55
 
 <a id="e1378"></a>
-### power life
+### Power life
 *term*
 
 **One of three modes of consciousness, with the sensible and perceptive, which conjoined to them makes them efficient (Appendix).**
 
 In the Appendix (Table Talk, a later layer), Atwood names three modes: “either in the sensible, the perceptive, or the power life; this last conjoined to the other two makes them efficient” [APP ¶45].
+
+**See also:** [Life](#e0960)
 
 **References:** APP ¶45
 
@@ -15126,7 +16092,7 @@ Named as Hippocrates' mother, of the race of the Heraclides [IV.3 ¶32].
 
 <a id="e1382"></a>
 ### Prayer
-*term* · prayer, prayers, pray, prayed
+*term* · prayers, pray, prayed
 
 **Desire directed to its object, above all to God for wisdom; it collects the mind and, joined with labour, brings revelation, and esoterically works within the operations themselves.**
 
@@ -15139,8 +16105,8 @@ Asserted identities: prayer = the great desire of knowing — “for if you burn
 **References:** III.4 ¶22, III.4 ¶24
 
 <a id="e1383"></a>
-### the preacher
-*collective voice* · the Preacher
+### Preacher
+*collective voice*
 
 **The Preacher, cited by Atwood for the veiled, pointed nature of wise writings and for the need of a companion in the work.**
 
@@ -15149,18 +16115,20 @@ Atwood cites the preacher twice. First, to illustrate the pointed, veiled charac
 **References:** III.4 n27, III.4 ¶19, III.4 ¶30
 
 <a id="e1384"></a>
-### preliminary practice
+### Preliminary practice
 *term* · preliminary work
 
 **The earlier, preliminary part of the practice, handed down inconsistently; Atwood holds that knowing it is insufficient without the ultimate theory.**
 
 Atwood speaks of the preliminary practice as handed down inconsistently, and insists that mastery of it does not suffice without the ultimate theory: there are “many even with a perfect knowledge of the preliminary work, and having the true Matter in Hand also and means of purification” [IV.2 ¶4] who nevertheless fail.
 
+**See also:** [Practice](#e1379)
+
 **References:** IV.2 ¶4
 
 <a id="e1385"></a>
 ### Preparation
-*term* · preparation, preparations
+*term* · preparations
 
 **The preparatory stage of the work: for Flamel, preparing the prime agents, the hardest part; for Atwood, a stage exercising every faculty of the mind, sometimes lasting years.**
 
@@ -15171,22 +16139,26 @@ In Atwood's own voice the Preparation is a stage in which no part of the concord
 **References:** I.1 ¶57, III.4 ¶28, IV.1 ¶17
 
 <a id="e1386"></a>
-### Preparatory Practice
+### Preparatory practice
 *term*
 
 **A practice Atwood defers to a later discussion, there to show the value of assistance; Norton describes it.**
 
 Atwood (ATWOOD) postpones discussion of the Preparatory Practice to a later point, where the value of assistance will be clearer: “when we come to speak of the Preparatory Practice which Norton, naively, and without much envy, describes” [III.4 ¶36].
 
+**See also:** [Practice](#e1379)
+
 **References:** III.4 ¶36
 
 <a id="e1387"></a>
-### Preparing Spirit
+### Preparing spirit
 *term* · the Spirit preparing its body
 
 **In an adept's account, the spirit that dissolves and cleanses the body of Light and draws from it a second, tinging Spirit.**
 
 Voice: an adept quoted by Atwood. The Preparing Spirit dissolves and purifies the body of Light and extracts from it a Second, tinging Spirit: “The Preparing Spirit dissolves the body of Light, and cleanses it from the corrupting causes” [IV.1 ¶10].
+
+**See also:** [Spirit](#e1644)
 
 **References:** IV.1 ¶10
 
@@ -15207,27 +16179,31 @@ In a Chaldaic oracle she quotes, the Prester is the Flower of glowing Fire drawn
 **References:** II.3 ¶41, II.3 ¶54, II.3 ¶56, IV.2 ¶28
 
 <a id="e1389"></a>
-### Presters of Intellectual Fire
+### Presters of intellectual fire
 *term* · Intellectual Presters of Intellectual Fire
 
 **In Chaldaic oracle language used by Atwood, the powers of intellectual fire to which all things are subject and which follow their First Cause in order.**
 
 The phrase comes from the Chaldaic Oracle, taken up in Atwood's own discussion (the records do not separate the two voices sharply): “to these Intellectual Presters of Intellectual Fire all things are subservient by the persuasive will of the Father” [II.4 ¶33]; and “the Presters of Intellectual Fire follow in radiant order the will of their First Cause” [II.4 ¶38]. See Prester.
 
+**See also:** [Fire](#e0575)
+
 **References:** II.4 ¶33, II.4 ¶38
 
 <a id="e1390"></a>
-### prime agents
+### Prime agents
 *term*
 
 **In Flamel's account, the initial agents of the work, whose preparation must be known before the work can succeed.**
 
 Voice: Nicholas Flamel, quoted by Atwood. The preparation of the prime agents is the key requirement: “knowing the preparations of the prime agents” [I.1 ¶57]. In the same account Flamel apparently uses the phrase in place of first principles, though the identity is not explicitly asserted. See Preparation.
 
+**See also:** [Agent](#e0031)
+
 **References:** I.1 ¶57
 
 <a id="e1391"></a>
-### primitive Ether
+### Primitive ether
 *term*
 
 **For some modern Kabalists cited by Atwood, the pure attracting vacuum or understanding, born of the concentrated Divinity, that draws the central efficient into will and operation.**
@@ -15236,10 +16212,12 @@ Voice: some modern Kabalists, reported by Atwood. The primitive Ether is born of
 
 **Identified with:** pure attracting vacuum / understanding [III.2 ¶13]
 
+**See also:** [Ether](#e0508)
+
 **References:** III.2 ¶13
 
 <a id="e1392"></a>
-### the prince
+### Prince
 *collective voice*
 
 **An author cited from the Epilogue to the Invest. Of Perfection, whom Atwood uses to show that the student must gather the dispersed teaching and test it.**
@@ -15249,7 +16227,7 @@ Atwood quotes the prince (work given as Epilogue to the Invest. Of Perfection) i
 **References:** III.4 n15, III.4 ¶20
 
 <a id="e1393"></a>
-### principiating substance
+### Principiating substance
 *term*
 
 **In Reuchlin, the second of the two catholic natures in the mirific Word: incorruptible, immutable and always subsistent.**
@@ -15259,7 +16237,7 @@ Voice: Reuchlin, quoted by Atwood. Of the two catholic natures in the mirific Wo
 **References:** III.2 ¶24
 
 <a id="e1394"></a>
-### principium
+### Principium
 *term*
 
 **The beginning or principle of the work, which Atwood identifies with the intention; hard to find because the rational ferment lies hidden in our life.**
@@ -15278,10 +16256,12 @@ In the Appendix (Table Talk, a later layer), Atwood identifies the principium wi
 
 Atwood presents the Principle as the end of the soul's ascent — the ascent rises “afterwards to the Principle of things” [III.3 ¶26] — and as the one source into which all things, thoughts, passions and actions are resolved. Whoever reaches it gains more than possession: “he will not alone have that Principle, and be able to compose and renumerate every former particular out of the same” [III.3 ¶39]. The method apparently involves resolving everything into its source and recomposing from it. See also Principle of things.
 
+**See also:** [Principles](#e1399)
+
 **References:** III.3 ¶26, III.3 ¶39
 
 <a id="e1396"></a>
-### principle of reunion
+### Principle of reunion
 *term*
 
 **For the Hebrew Kabalists, a principle remaining in the life of fallen individuals that will in time restore them to their source in higher perfection.**
@@ -15298,10 +16278,12 @@ Voice: the Hebrew Kabalists / Rabbis, as Atwood reports them. Even after the fal
 
 Atwood writes that the intellectual energy of the intelligible world “generates Light through a perpetual tranquil and quiet contact with the Principle of things” [II.4 ¶16]. See Principle, where the same phrase names the final term of the soul's ascent [III.3 ¶26].
 
+**See also:** [The Thing](#e1750)
+
 **References:** II.4 ¶16
 
 <a id="e1398"></a>
-### Principle of Universal Science
+### Principle of universal science
 *term*
 
 **A real and efficacious principle that Atwood holds lies latent in human life and can be known only under specified conditions.**
@@ -15311,8 +16293,8 @@ Atwood asserts “a Principle of Universal Science latent in human life, real an
 **References:** II.1 ¶39
 
 <a id="e1399"></a>
-### principles
-*term* · Principles
+### Principles
+*term*
 
 **What the Hermetic names Sulphur, Salt, Mercury and the elements refer to, as opposed to qualities; in Eudoxus, the principles of 'our Mercury' separated in the Third Key.**
 
@@ -15320,7 +16302,9 @@ In the Appendix (Table Talk, a later layer) Atwood states that the Hermetic name
 
 Eudoxus, quoted by Atwood, speaks of the principles of 'our Mercury' (Salt, Sulphur, Mercury), extracted after sublimation and then separated and purified in the Third Key: “the separation and the purification of the Principles of our Mercury” [IV.3 ¶7].
 
-**References:** APP ¶81, IV.3 ¶7
+**See also:** [Principle](#e1395)
+
+**References:** IV.3 ¶7, APP ¶81
 
 <a id="e1400"></a>
 ### Principles of Eternity
@@ -15335,7 +16319,7 @@ Voice: Boehme, quoted by Atwood. The inner book he opened, the image of God, hol
 **References:** III.2 ¶16
 
 <a id="e1401"></a>
-### a priori
+### A priori
 *term* · a priore
 
 **Inquiry from the inner, causal ground: for Atwood the true method for first truths, which then proves itself a posteriori by its effects.**
@@ -15345,7 +16329,7 @@ In the Appendix (Table Talk, a later layer) Atwood sets the a priori method, inq
 **References:** APP ¶120
 
 <a id="e1402"></a>
-### a priori ground
+### A priori ground
 *term*
 
 **The ancients' philosophical method, contrasted with modern inductive science; long neglected, it is the ground Atwood wants philosophy to return to.**
@@ -15376,7 +16360,7 @@ She uses him throughout in support of her own account:
 
 In the Appendix (Table Talk, a later layer) Atwood says he develops the ontological basis of the Iliad [APP ¶157]. She also praises his Commentary on the Timaeus, which treats Time as the image's participation of the Paradigm, against the relational view held by her addressee and by modern metaphysicians [APP ¶172].
 
-**References:** APP ¶157, APP ¶172, I.1 ¶27, II.1 n33, II.1 ¶39, II.2 ¶15, II.2 ¶9, II.3 n17, II.3 n22, II.3 n30, II.3 n53, II.3 ¶13, II.3 ¶22, II.3 ¶24, II.3 ¶25, II.3 ¶27, II.3 ¶50, II.4 n15, II.4 n21, II.4 n22, II.4 n29, II.4 n8, II.4 ¶16, II.4 ¶23, II.4 ¶29, II.4 ¶3, II.4 ¶40, II.4 ¶41, III.1 n50, III.1 ¶25, III.1 ¶45, III.2 n31, III.2 n34, III.2 ¶36, III.2 ¶50, III.3 n47, III.3 ¶70
+**References:** I.1 ¶27, II.1 n33, II.1 ¶39, II.2 ¶15, II.2 ¶9, II.3 n17, II.3 n22, II.3 n30, II.3 n53, II.3 ¶13, II.3 ¶22, II.3 ¶24, II.3 ¶25, II.3 ¶27, II.3 ¶50, II.4 n15, II.4 n21, II.4 n22, II.4 n29, II.4 n8, II.4 ¶16, II.4 ¶23, II.4 ¶29, II.4 ¶3, II.4 ¶40, II.4 ¶41, III.1 n50, III.1 ¶25, III.1 ¶45, III.2 n31, III.2 n34, III.2 ¶36, III.2 ¶50, III.3 n47, III.3 ¶70, APP ¶157, APP ¶172
 
 <a id="e1404"></a>
 ### Profundity
@@ -15391,8 +16375,8 @@ Atwood names the Profundity as one of the alchemists' three periods and explains
 **References:** III.3 ¶72
 
 <a id="e1405"></a>
-### projection
-*term* · Projection, projections, Projeccion, projected, project, projecting
+### Projection
+*term* · projections, Projeccion, projected, project, projecting
 
 **The final operation: casting the Stone, powder or medicine onto a metal or mercury to tinge or transmute it, which Atwood also extends to 'the imperfect metal of any life'.**
 
@@ -15409,8 +16393,8 @@ Atwood also applies the term beyond metals: the Mercury “projected on the impe
 **References:** I.1 ¶43, I.1 ¶57, I.1 ¶66, I.1 ¶73, I.1 ¶76, I.3 n70, III.1 ¶65, III.3 ¶32, III.3 ¶63, IV.3 ¶16, IV.3 ¶19, IV.3 ¶20
 
 <a id="e1406"></a>
-### Prometheus, Vulcan, Minerva
-*collective voice*
+### Prometheus, Vulcan and Minerva
+*collective voice* · Prometheus, Vulcan, Minerva
 
 **Mythic figures Atwood uses to picture the method of ascent as the artistic fabrication of the Fire.**
 
@@ -15419,7 +16403,7 @@ Atwood illustrates the method of ascent as the artistic fabrication of the Fire,
 **References:** IV.4 ¶8
 
 <a id="e1407"></a>
-### Promised Land
+### Promised land
 *term*
 
 **Atwood's image for the goal beyond the sea of sense, which a haven and signal marks direct one to.**
@@ -15429,7 +16413,7 @@ Atwood (ATWOOD) writes that beyond the sea of sense “there is a haven and sign
 **References:** IV.4 ¶32
 
 <a id="e1408"></a>
-### prophecies
+### Prophecies
 *collective voice*
 
 **Prophecies of the Fourth Monarchy that Atwood notes but does not dwell on.**
@@ -15439,7 +16423,7 @@ Atwood reports prophecies foretelling the Fourth Monarchy — “Many prophecies
 **References:** IV.3 ¶49
 
 <a id="e1409"></a>
-### the prophet
+### Prophet
 *collective voice*
 
 **A prophetic voice cited from the Book of Enoch on those who misuse secrets, and in the Ordinal on the feeding of the matter.**
@@ -15468,6 +16452,8 @@ Atwood glosses Proserpine as the intellect's “own congenial life, which is Pro
 
 Atwood cites the Prosopopoeia of the Stone (references given as Theatr. Chem., Tome 3, p. 764; Processus Chiica, Carmen Elegans; Vaughan’s magia Adamica) to illustrate the balanced state in which the principles neither die nor live during the severation: “I am not dead although my spirit’s gone,” [III.1 ¶53; III.1 ¶54; III.1 n59].
 
+**See also:** [Stone](#e1670)
+
 **References:** III.1 n59, III.1 ¶53, III.1 ¶54
 
 <a id="e1412"></a>
@@ -15477,6 +16463,8 @@ Atwood cites the Prosopopoeia of the Stone (references given as Theatr. Chem., T
 **In the later Appendix, Atwood's name for the shape-shifting life sought in the work, which she says is very hard to discover.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood says “The Protean life is very difficult of discovery” [APP ¶171]. Its last shape, she indicates, is a tree [APP ¶171].
+
+**See also:** [Life](#e0960)
 
 **References:** APP ¶171
 
@@ -15494,20 +16482,22 @@ Identities asserted: = Mercury, = quintessence [I.2 ¶37]; = one universal entit
 
 **Identified with:** one universal entity of life [APP ¶138]; omnia in omnibus [APP ¶138]; [Mercury](#e1065) [APP ¶144]; Mercury; quintessence [I.2 ¶37]
 
-**References:** APP ¶138, APP ¶144, I.2 ¶35, I.2 ¶36, I.2 ¶37, I.3 n55
+**References:** I.2 ¶35, I.2 ¶36, I.2 ¶37, I.3 n55, APP ¶138, APP ¶144
 
 <a id="e1414"></a>
-### proto-chemistry of Hermes
+### Proto-chemistry of Hermes
 *term*
 
 **The field in which an adept cited by Atwood claims to have manual experience.**
 
 Atwood cites an adept's claim to “his own manual experience in the proto-chemistry of Hermes” [II.1 ¶11]. The packet gives no further explanation. Compare protochemistry and Protochemic Artifice.
 
+**See also:** [Hermes](#e0750)
+
 **References:** II.1 ¶11
 
 <a id="e1415"></a>
-### Protochemic Artifice
+### Protochemic artifice
 *term* · Proto-chemic artifice
 
 **The practical art through which, according to Vaughan, the true foundation is found; Atwood sums up its whole performance as solution, sublimation and fixation.**
@@ -15517,7 +16507,7 @@ In a passage attributed to Vaughan, a knowledge of this art comes before the phi
 **References:** II.1 ¶26, III.2 ¶64
 
 <a id="e1416"></a>
-### protochemistry
+### Protochemistry
 *term*
 
 **The protochemistry of Hermes, which Atwood says is the ground of Vaughan's discourse on the nature of man.**
@@ -15537,7 +16527,7 @@ Atwood cites Proverbs ii, 4, 5 in support of the call to Self-Knowledge: “If t
 **References:** I.3 n46, III.3 n8, III.3 ¶17, IV.3 n21, IV.3 n24, IV.3 ¶47
 
 <a id="e1418"></a>
-### the Psalmist
+### Psalmist
 *person*
 
 **Quoted by Atwood in support of the view that prayer from the inner temple is heard and brings understanding and the Spirit of Wisdom.**
@@ -15547,7 +16537,7 @@ Atwood quotes the Psalmist with approval: “I called upon the Lord, exclaims th
 **References:** III.4 ¶28
 
 <a id="e1419"></a>
-### the Psalms
+### Psalms
 *treatise*
 
 **Praised in the Appendix for their depth of Divine experience, which Atwood says the Mystics have neglected.**
@@ -15567,8 +16557,8 @@ Atwood cites Psellus' commentary on the Chaldaic Oracles in support of the view 
 **References:** II.1 ¶51, II.2 ¶4, II.3 n15, II.3 n21, II.3 ¶20, II.3 ¶24, II.3 ¶46
 
 <a id="e1421"></a>
-### pseudo-alchemists
-*term* · pseudo-Alchemists
+### Pseudo-alchemists
+*term*
 
 **Atwood's name for false seekers who followed receipts literally, without theory, in search of gold, as opposed to the true adepts.**
 
@@ -15577,14 +16567,16 @@ Atwood sets the pseudo-alchemists against the true adepts. Their motives were �
 **References:** I.1 ¶41, II.1 ¶6
 
 <a id="e1422"></a>
-### Psychical Quintessence
+### Psychical quintessence
 *term*
 
 **The threefold separated essence that equals the whole dissolved compound it comes from; it is known to the wise as the Tincture of the Sapphiric Mine.**
 
 Atwood describes the Psychical Quintessence as “being in its own threefold segregated essentiality equal to the whole dissolute compound whence it arises” [III.2 ¶44]. It casts off what is superfluous, and she reads Pythagoras' hecatomb for his theorem as a symbol of its discovery [III.2 ¶44]. Identity asserted: = Tincture of the Sapphiric Mine (“that miraculous Psychical Quintessence, known to the wise as the Tincture of the Sapphiric Mine” [III.2 ¶44]).
 
-**Identified with:** [tincture of the Sapphiric Mine](#e1770) [III.2 ¶44]
+**Identified with:** [Tincture of the Sapphiric mine](#e1770) [III.2 ¶44]
+
+**See also:** [Quintessence](#e1442)
 
 **References:** III.2 ¶44
 
@@ -15599,7 +16591,7 @@ In the Appendix (Table Talk, a later layer), Ptolemy appears only in a compariso
 **References:** APP ¶122
 
 <a id="e1424"></a>
-### punctum saliens
+### Punctum saliens
 *term*
 
 **In the Appendix, the higher Cause of life, which Reason reaches through secondary causes; Atwood also says the earth becomes the punctum saliens of the Divine Cross.**
@@ -15611,18 +16603,20 @@ Both records come from the Appendix (Table Talk, a later layer). Atwood writes t
 **References:** APP ¶110, APP ¶152
 
 <a id="e1425"></a>
-### pure crystalline matter
+### Pure crystalline matter
 *term*
 
 **In Crollius' account, the separated and purified medicine that is to be given to our bodies.**
 
 Speaking in Crollius' voice, the passage describes separating and purifying the medicine “that the pure crystalline matter may be administered to our bodies” [III.1 ¶10].
 
+**See also:** [Matter](#e1043)
+
 **References:** III.1 ¶10
 
 <a id="e1426"></a>
-### pure matter
-*term* · Pure matter, pure Matter, pure and divine Matter
+### Pure matter
+*term* · pure and divine Matter
 
 **The universal matter that subsists about Intelligibles and mediates between causes and their gross effects; the Theurgic Art makes it manifest, and in the Appendix it is the first, passive product of the work.**
 
@@ -15632,10 +16626,12 @@ The Appendix (Table Talk, a later layer) adds that, according to Lully, pure mat
 
 **Identified with:** the attractive power [APP ¶182]
 
-**References:** APP ¶182, APP ¶43, III.2 ¶46, III.2 ¶49
+**See also:** [Matter](#e1043)
+
+**References:** III.2 ¶46, III.2 ¶49, APP ¶182, APP ¶43
 
 <a id="e1427"></a>
-### purgation
+### Purgation
 *term*
 
 **The purification of the soul, of which Atwood says Will is the greatest part; for the Paracelsians, the separation of the pure life from impurity, as metal from ore.**
@@ -15645,18 +16641,20 @@ Atwood says that “Will is the greatest part of purgation” [II.2 ¶13], where
 **References:** II.2 ¶13, III.1 ¶10
 
 <a id="e1428"></a>
-### purification
+### Purification
 *term* · purifications
 
 **The cleansing of souls, which Servius says the Bacchic rites served and which was a chief benefit of the Mysteries.**
 
 Atwood quotes Servius on the function of the Bacchic rites: “the sacred rites of Bacchus pertained to the purification of souls” [II.2 ¶5]. In the same paragraph the benefits of the Mysteries are given as “moral enlightenment and purification of life” [II.2 ¶5].
 
+**See also:** [Vital purification](#e1900)
+
 **References:** II.2 ¶5
 
 <a id="e1429"></a>
-### Purificative Rites
-*term* · purificative rites
+### Purificative rites
+*term*
 
 **The stage of the Mysteries that follows the revealing of the Medial Life; it restores the rule of reason and frees the inclination from sense before the deeper initiations.**
 
@@ -15665,7 +16663,7 @@ Atwood places the Purificative Rites after the revealing of the Medial Life. The
 **References:** II.2 ¶20, II.3 ¶9
 
 <a id="e1430"></a>
-### purified spirit or intelligence
+### Purified spirit or intelligence
 *term*
 
 **The agent that dissolves the vital medium and draws the Voluntary Efficient upward; Atwood identifies it with Isis.**
@@ -15674,10 +16672,12 @@ Atwood describes the purified spirit or intelligence as the agent that dissolves
 
 **Identified with:** [Isis](#e0897) [III.1 ¶23]
 
+**See also:** [Intelligence](#e0878)
+
 **References:** III.1 ¶23
 
 <a id="e1431"></a>
-### putrefaction
+### Putrefaction
 *term* · putrefied, putrefy
 
 **The decay and death that, according to Atwood, comes before every new form: linked with blackness (the ‘gate of blackness’, the ‘blackness of the night’), in which the matter dies and corrupts before it rises again.**
@@ -15693,7 +16693,7 @@ Identity asserted: = blackness of the night [I.3 n12].
 **References:** I.3 n12, I.3 n42, I.3 ¶48, III.1 ¶30, IV.1 ¶41
 
 <a id="e1432"></a>
-### pyrotechnical induction
+### Pyrotechnical induction
 *term*
 
 **Atwood's name for the vital experiment, through which powers, the regenerative original and temptations were revealed to conscience.**
@@ -15703,7 +16703,7 @@ Atwood uses the phrase for the vital experiment: “by this pyrotechnical induct
 **References:** IV.4 ¶9
 
 <a id="e1433"></a>
-### pyrotechny
+### Pyrotechny
 *term*
 
 **A term Crollius pairs with physic, saying the two cannot be separated, in the context of trial by fire.**
@@ -15724,32 +16724,38 @@ She reports that Aristotle criticized him for explaining essence by number [III.
 
 In the Appendix (Table Talk, a later layer, spelled “Pythagorus”), his Tetractys is obtained by theurgic multiplication and is the kind of ens that underlies the stone. Atwood calls it “the source, as he called it, of ever-flowing Nature” [APP ¶108]. Throughout, Atwood uses him as support.
 
-**References:** APP ¶108, I.1 ¶12, II.1 n36, II.1 ¶39, II.2 ¶11, III.2 ¶33, III.2 ¶40, III.2 ¶43, III.2 ¶44, III.3 ¶33
+**See also:** [Biographer of Pythagoras](#e0789)
+
+**References:** I.1 ¶12, II.1 n36, II.1 ¶39, II.2 ¶11, III.2 ¶33, III.2 ¶40, III.2 ¶43, III.2 ¶44, III.3 ¶33, APP ¶108
 
 <a id="e1435"></a>
-### the Pythagoreans
+### Pythagoreans
 *collective voice*
 
 **Cited in support of the view that the Greater Mysteries bring about assimilation and final contact with the first principle.**
 
 Atwood cites the Pythagoreans in support of the view that the Greater Mysteries lead to assimilation and final contact with the first principle [II.2 ¶5].
 
+**See also:** [Greeks and eastern sages (Stoics, Pythagoreans, Platonists, Peripatetics)](#e0713), [Pythagoric precept](#e1436)
+
 **References:** II.2 ¶5
 
 <a id="e1436"></a>
-### the Pythagoric precept
+### Pythagoric precept
 *collective voice*
 
 **A precept Atwood quotes as a warning to would-be practitioners, alongside ‘Enlarge not thy destiny’.**
 
 Atwood quotes the Pythagoric precept “Neither break a superficies” [IV.3 ¶56] as a warning to would-be practitioners and sets it beside the counsel ‘Enlarge not thy destiny’.
 
+**See also:** [Pythagoreans](#e1435)
+
 **References:** IV.3 ¶56
 
 ## Q
 
 <a id="e1437"></a>
-### Quadrature of the Circle
+### Quadrature of the circle
 *term*
 
 **Impossible by natural means, Atwood says, but demonstrated supernaturally by transmuting the hypostatic relations; whoever finds it perceives the Universal Mystery of Nature.**
@@ -15759,7 +16765,7 @@ Atwood writes that “the Quadrature of the Circle was supernaturally demonstrat
 **References:** III.3 ¶30
 
 <a id="e1438"></a>
-### qualitate
+### Qualitate
 *term* · qualitated, qualitates
 
 **In the Appendix, to give something specific quality and form: essence is qualitated by Ideas, and the speech of Mind qualitates in the pure Ether.**
@@ -15771,12 +16777,14 @@ In the Appendix (Table Talk, a later layer), Atwood explains the term herself: �
 **References:** APP ¶37, APP ¶64
 
 <a id="e1439"></a>
-### qualitative virtues
+### Qualitative virtues
 *term*
 
 **The elements as they exist at their source; they multiply into distributive powers whose remote subjects are the sensible elements.**
 
 Atwood describes the source as “making elements there to subsist as qualitative virtues, which, multiplying into being, become distributive powers” [III.2 ¶38]. The remote subjects of these powers are the sensible elements.
+
+**See also:** [Virtue](#e1886)
 
 **References:** III.2 ¶38
 
@@ -15788,7 +16796,7 @@ Atwood describes the source as “making elements there to subsist as qualitativ
 
 In a passage given in the voice of an Adept, the instruction is to “reduce the Ternary by the Quaternary” [IV.2 ¶18]. Identity asserted: = four elements (“the Quaternarius, or four elements, as some call them” [IV.2 ¶18]).
 
-**Identified with:** [elements](#e0469) [IV.2 ¶18]
+**Identified with:** [Elements](#e0469) [IV.2 ¶18]
 
 **References:** IV.2 ¶18
 
@@ -15804,7 +16812,7 @@ Atwood describes Van Helmont's Quellum, his white sand, as “manifesting itself
 
 <a id="e1442"></a>
 ### Quintessence
-*term* · quintessence, quintessences, quintessence of philosophers
+*term* · quintessences, quintessence of philosophers
 
 **The essence drawn out by the work: the celestial soul or arising Spirit of universal nature, identified with Mercury, the Elixir of Life, the Free Ether and Lumen Vestimenti.**
 
@@ -15820,20 +16828,22 @@ In the Appendix (Table Talk, a later layer) Atwood writes: “As man was the Qui
 
 **Identified with:** Lumen Vestimenti, the Vehicle of Light [I.2 ¶16]; [Ether](#e0508) [I.2 ¶16]; [Soul](#e1632) [I.2 ¶33]; Proteus; Mercury [I.2 ¶37]; dust of the earth [I.3 n51]; [Mercury](#e1065) [III.1 ¶49]; Elixir of Life [III.1 ¶49]; our viscous celestial and glorious soul [III.1 ¶70]; arising Spirit of the Universal nature [III.2 ¶36]; spirit of Peace [III.4 ¶44]; mercurial water [IV.2 ¶6]
 
-**References:** APP ¶23, APP ¶72, I.1 ¶36, I.2 ¶16, I.2 ¶33, I.2 ¶37, I.2 ¶40, I.3 n40, I.3 n51, III.1 ¶49, III.1 ¶70, III.2 ¶36, III.4 ¶44, IV.2 ¶6
+**References:** I.1 ¶36, I.2 ¶16, I.2 ¶33, I.2 ¶37, I.2 ¶40, I.3 n40, I.3 n51, III.1 ¶49, III.1 ¶70, III.2 ¶36, III.4 ¶44, IV.2 ¶6, APP ¶23, APP ¶72
 
 <a id="e1443"></a>
-### quintessence of things
+### Quintessence of things
 *term*
 
 **Phrase from Hermolaus Barbarus's gloss on the divine water, describing it as of the nature of the ether and quintessence of things.**
 
 Quoted from Hermolaus Barbarus, who glosses the divine water as “a spirit of the nature of the ether and quintessence of things” [I.1 ¶20]. The grammar leaves it unclear whether the water is the quintessence of things or only of its nature.
 
+**See also:** [The Thing](#e1750)
+
 **References:** I.1 ¶20
 
 <a id="e1444"></a>
-### quintessential nature
+### Quintessential nature
 *term*
 
 **What is found when the elements of the compound creature are divided; further opened, it yields the angelical spirit.**
@@ -15854,6 +16864,16 @@ Cited by Atwood as containing allusions supporting the Lully story [I.1 ¶47].
 
 **References:** I.1 ¶47
 
+<a id="e1467"></a>
+### R.C.
+*collective voice*
+
+**Voice of the Famma et Confessio, cited to illustrate philosophers visiting the Elysian place.**
+
+Cited from the Famma et Confessio to illustrate philosophers visiting the Elysian place: “Vidi aliquando Olympicos domos” [II.4 ¶11; II.4 n5] (ours: I once saw the Olympic houses).
+
+**References:** II.4 n5, II.4 ¶11
+
 <a id="e1446"></a>
 ### Rabbi Ben Jochai
 *person* · Rabbi Ben Jocahi
@@ -15862,50 +16882,60 @@ Cited by Atwood as containing allusions supporting the Lully story [I.1 ¶47].
 
 Atwood cites the Rabbi (from the Zohar) approvingly for the doctrine of man as Celestial Prototype and image of God: “The Form of man, says the Rabbi Ben Jochai, contains all that is in the heaven and earth” [II.1 ¶42; II.1 n38]; he reads 'The Eternal has founded the earth upon his wisdom' as referring to the human prototype. Under the spelling “Rabbi Ben Jocahi” he is cited for the white form of the hidden principle and the dew of light: “From his head he shakes a dew which awakens the dead” [III.2 ¶3; III.2 n4].
 
+**See also:** [Ben Jochai (the learned Rassbi; his disciples)](#e0954)
+
 **References:** II.1 n38, II.1 ¶42, III.2 n4, III.2 ¶3
 
 <a id="e1447"></a>
-### the Rabbi in Zohar
+### Rabbi in Zohar
 *collective voice*
 
 **Voice of the Zohar cited for Thought as the hidden Principle unfolding into Spirit and articulate voice, which Atwood takes up as her theme.**
 
 Atwood quotes: “Thought is the Principle of all that is; but it is as first Unknown and shut up in itself.” [III.3 ¶78; III.3 n50]. She takes up this account of Thought unfolding into Spirit or Intelligence and articulate voice as her theme, calling it a 'Magnificent, yet impervious assertion'.
 
+**See also:** [Zohar](#e1960)
+
 **References:** III.3 n50, III.3 ¶78
 
 <a id="e1448"></a>
-### radical dissolution of Life
+### Radical dissolution of life
 *term*
 
 **The dissolution the operator enters once self-will and the other vices have been removed from his mind.**
 
 Atwood requires that self-will and the other vices “be removed from the mind of him who is to enter into the radical dissolution of Life” [IV.1 ¶40].
 
+**See also:** [Life](#e0960)
+
 **References:** IV.1 ¶40
 
 <a id="e1449"></a>
-### radical element
+### Radical element
 *term*
 
 **Something discovered and set free through the adepts' theory once the superfluities are discharged.**
 
 Atwood speaks of “the medium by which the radical element is discovered and set free to the accomplishment of its inclusive law” [I.3 n4], once the superfluities are discharged. Elsewhere the 'radix' is to appear under the moist fire [I.3 ¶10]; the text does not explicitly link the two.
 
+**See also:** [Elements](#e0469)
+
 **References:** I.3 n4
 
 <a id="e1450"></a>
-### Radical Essence
+### Radical essence
 *term*
 
 **What the prophet Enoch beheld in the Place to which he was snatched up, paired with the mystical Adamic Soil.**
 
 Atwood mentions “what he beheld of the Radical Essence, and the manifold glories of that mystical Adamic Soil” [III.2 ¶12], of the prophet (Enoch) snatched up to that Place.
 
+**See also:** [Essence](#e0503)
+
 **References:** III.2 ¶12
 
 <a id="e1451"></a>
-### radical humidity
+### Radical humidity
 *term*
 
 **In Eudoxus, the body's essential moisture, consumed by common calcination but preserved and increased by philosophic calcination.**
@@ -15915,19 +16945,19 @@ Quoted from Eudoxus: common calcination “consumes the greatest part of its rad
 **References:** IV.3 ¶16
 
 <a id="e1452"></a>
-### radical moisture
+### Radical moisture
 *term*
 
 **The substance of which metals are uniformly composed, which can be withdrawn from inferior forms and pass into a more perfect form.**
 
 Atwood equates it with the metals' subject-matter: “the subject-matter of these metals, the radical moisture of which they are uniformly composed” [I.2 ¶4]; it can be withdrawn from inferior Forms. Under a fermentive test it passes into a more perfect Form: “The radical moisture of the metal likewise, obeying the fermentive virtue of such a test when applied” [III.2 n38]. Khunrath is quoted that the Stone benefits metals “by transference of their radical moisture” [IV.3 ¶28], removing their terrestreity; this is not further defined.
 
-**Identified with:** [Subject Matter](#e1677) [I.2 ¶4]
+**Identified with:** [Subject matter](#e1677) [I.2 ¶4]
 
 **References:** I.2 ¶4, III.2 n38, IV.3 ¶28
 
 <a id="e1453"></a>
-### radical moisture of the metals
+### Radical moisture of the metals
 *term*
 
 **In Sendivogius, what remains after the philosophers' water consumes the gold and silver.**
@@ -15937,7 +16967,7 @@ Quoted from Sendivogius: what remains ('the tenth part with one part') after the
 **References:** IV.3 ¶21
 
 <a id="e1454"></a>
-### radical substance
+### Radical substance
 *term*
 
 **The homogeneous root substance of all things, whose homogeneity is the ground of transmutation.**
@@ -15957,7 +16987,7 @@ Quoted from Geber: those without a subtly searching mind “cannot find the true
 **References:** III.4 ¶3
 
 <a id="e1456"></a>
-### rapport
+### Rapport
 *term*
 
 **A connection by which one in this state meets the whole image-world of his sphere; the change to a spiritual body comes by divine rapport.**
@@ -15967,7 +16997,7 @@ Atwood writes that “each by rapport in this state becomes conversant with the 
 **References:** II.3 ¶22, II.3 ¶29
 
 <a id="e1457"></a>
-### Rational Analysis
+### Rational analysis
 *term*
 
 **The operation which, repeatedly passed through, alters the Vital Spirit and dissolves the whole natural born hypostasis.**
@@ -15977,7 +17007,7 @@ Atwood: “a true Rational Analysis, which, repeatedly passed through, leads on 
 **References:** III.1 ¶50
 
 <a id="e1458"></a>
-### Rational Boundary
+### Rational boundary
 *term*
 
 **That by which the Matter returns in the Freed Will to consciousness and manifests the Supreme Cause.**
@@ -15987,8 +17017,8 @@ Atwood speaks of the Matter “returning by its Rational Boundary in the Freed W
 **References:** III.2 ¶60
 
 <a id="e1459"></a>
-### Rational Ferment
-*term* · rational ferment
+### Rational ferment
+*term*
 
 **The pure aurific seed of Light hidden in ordinary life, represented by Cadmus, Jason, Orpheus and Aeneas; also named Perscrutinator.**
 
@@ -15996,21 +17026,25 @@ Atwood names the Rational Ferment (also called Perscrutinator) as something “c
 
 **Identified with:** pure aurific seed of Light [APP ¶35]
 
-**References:** APP ¶35, I.3 n32, III.1 ¶66
+**See also:** [Ferment](#e0562)
+
+**References:** I.3 n32, III.1 ¶66, APP ¶35
 
 <a id="e1460"></a>
-### Rational Form
+### Rational form
 *term*
 
 **The inbred form according to which the Spirit draws the Homogeneal Nature to itself.**
 
 Atwood: the Spirit draws the Homogeneal Nature to itself “according to the Rational Form inbred” [IV.3 ¶29].
 
+**See also:** [Form](#e0627)
+
 **References:** IV.3 ¶29
 
 <a id="e1461"></a>
-### Rational Light
-*term* · rational light
+### Rational light
+*term*
 
 **The strongest of lights, the One Leader which, discovered and set in motion, actuates the Spirit to overcome the corporeal; also the aurific seed.**
 
@@ -16020,20 +17054,24 @@ In the Appendix (Table Talk, a later layer): Saturn must be satiated from withou
 
 **Identified with:** honey of the bees; aurific seed [APP ¶72]; One Leader [III.4 ¶19]
 
-**References:** APP ¶153, APP ¶168, APP ¶72, III.3 ¶23, III.4 ¶19
+**See also:** [Light](#e0962)
+
+**References:** III.3 ¶23, III.4 ¶19, APP ¶153, APP ¶168, APP ¶72
 
 <a id="e1462"></a>
-### Rational Magnet
+### Rational magnet
 *term*
 
 **Something moved about by the Almighty force, set beside the image of an established monarch whom inferior powers follow.**
 
 Atwood mentions “the Almighty force that moves about the Rational Magnet” [II.4 ¶38], alongside the image of an established monarch followed by the inferior powers. Not further defined.
 
+**See also:** [Magnet](#e1009)
+
 **References:** II.4 ¶38
 
 <a id="e1463"></a>
-### rational part
+### Rational part
 *term*
 
 **In Porphyry, that which is present with a man himself; being present with it, and absent from externals, is presence with true Being.**
@@ -16045,7 +17083,7 @@ Quoted from Porphyry (spelled 'Prophyry'): one should be “present with that wh
 **References:** III.2 ¶59
 
 <a id="e1464"></a>
-### rational permeation
+### Rational permeation
 *term*
 
 **The way, by reflexive analysis of the analyzer, of penetrating through Nature's Understanding into her Causal Light.**
@@ -16055,7 +17093,7 @@ Atwood, of reflexive analysis of the analyzer: “this is the way of rational pe
 **References:** IV.1 ¶20
 
 <a id="e1465"></a>
-### rational skepticism
+### Rational skepticism
 *term*
 
 **Reason's inquiry that proves all things, rejecting the false and holding the true; better called discrimination, and required of the Hermetic Student.**
@@ -16067,7 +17105,7 @@ Atwood distinguishes it from its mock ally: “Rational skepticism has quite ano
 **References:** III.4 ¶15
 
 <a id="e1466"></a>
-### rational soul
+### Rational soul
 *term* · animam rationalem
 
 **In Sendivogius, the reasons of life and understanding in fire, infused by God into man, by which alone he differs from other creatures and resembles God.**
@@ -16076,17 +17114,9 @@ Quoted from Sendivogius: “This soul was of that most pure fire, infused by God
 
 **Identified with:** the reasons of life and understanding (in Fire) [II.4 ¶39]
 
+**See also:** [Soul](#e1632)
+
 **References:** II.4 ¶39, III.3 ¶81
-
-<a id="e1467"></a>
-### R.C.
-*collective voice*
-
-**Voice of the Famma et Confessio, cited to illustrate philosophers visiting the Elysian place.**
-
-Cited from the Famma et Confessio to illustrate philosophers visiting the Elysian place: “Vidi aliquando Olympicos domos” [II.4 ¶11; II.4 n5] (ours: I once saw the Olympic houses).
-
-**References:** II.4 n5, II.4 ¶11
 
 <a id="e1468"></a>
 ### Re-integration of being
@@ -16096,11 +17126,13 @@ Cited from the Famma et Confessio to illustrate philosophers visiting the Elysia
 
 In the Appendix (Table Talk, a later layer), once the Rational Light is realized and all life orders itself round it: “This constitutes the re- integration of being” [APP ¶168], called there 'the manifestation of the **** in man'.
 
+**See also:** [Being](#e0173)
+
 **References:** APP ¶168
 
 <a id="e1469"></a>
 ### Reason
-*term* · reason, Root of Reason, root of reason
+*term* · Root of Reason
 
 **The superior, supernatural ruling principle in man, temple of the Deity, which as ferment gathers all into its Light; called Wisdom, Gold, Sol, Sulfur, Tincture.**
 
@@ -16114,20 +17146,24 @@ In practice it is man's “especial prerogative of Reason and rectitude of purpo
 
 **Identified with:** her temple [II.1 ¶50]; Sal Sepientum et Mercurius Philosophorum [II.4 ¶39]; Wisdom, Intellect, Gold, Sol, Sulfur, Tincture [III.1 ¶21]; [Light](#e0962) [III.1 ¶21]; Intellectual sun [III.1 ¶21]
 
+**See also:** [Root of reason](#e1513)
+
 **References:** II.1 ¶43, II.1 ¶50, II.4 ¶36, II.4 ¶39, III.1 ¶21, III.1 ¶23, III.1 ¶5, III.3 ¶80, III.3 ¶82, IV.4 ¶12, IV.4 ¶32, IV.4 ¶9
 
 <a id="e1470"></a>
-### rebellious Principle
+### Rebellious principle
 *term*
 
 **A principle with stolen forces provoking conflict in life, whose identical representative the Divine Art requires so those forces can be drawn forth and spent.**
 
 Atwood describes a rebellious Principle whose 'stolen forces' provoke a bloody conflict in life; the Divine Art requires an identical representative of him so those forces may be drawn forth and spent. Egyptian relics show “innumerable similitudes belonging both to this rebellious Principle and to that identical representative of him which the Divine Art requires” [III.1 ¶64], depicted in human semblance between foes.
 
+**See also:** [Principles](#e1399)
+
 **References:** III.1 ¶64
 
 <a id="e1471"></a>
-### receipts
+### Receipts
 *term*
 
 **The recipes of mercenary pretenders, which led people into error and crime.**
@@ -16137,27 +17173,31 @@ Atwood blames mercenary pretenders for error and even “the commitment even of 
 **References:** I.1 ¶64
 
 <a id="e1472"></a>
-### Recess of Light
+### Recess of light
 *term*
 
 **In the Appendix, the place where the originals of the true tools are; outward tools only represent these.**
 
 In the Appendix (Table Talk, a later layer), Atwood says of outward tools “they are representatives of these that are in the Recess of Light” [APP ¶100]. The originals of the true tools are thus placed in the Recess of Light; the text gives no further explanation.
 
+**See also:** [Light](#e0962)
+
 **References:** APP ¶100
 
 <a id="e1473"></a>
-### records of the Mysteries
+### Records of the Mysteries
 *collective voice*
 
 **A collective witness that Plato cites for the saying about the thrysus-bearers.**
 
 Plato cites the records of the Mysteries as witness to the saying about the thrysus-bearers [II.4 ¶54].
 
+**See also:** [Mysteries](#e1154)
+
 **References:** II.4 ¶54
 
 <a id="e1474"></a>
-### recreation
+### Recreation
 *term*
 
 **A metaphysical birth out of the Infinite into Light, in which the visible springs from the invisible.**
@@ -16167,17 +17207,19 @@ Atwood: “the recreation was seen to be a stupendous metaphysical birth out of 
 **References:** III.3 ¶79
 
 <a id="e1475"></a>
-### recreative fire
+### Recreative fire
 *term*
 
 **The fire within the magic earth that spontaneously binds its parts, coagulates them and stops their flux.**
 
 Atwood describes the fire within the magic earth: “this fire binds the parts thereof spontaneously to himself, coagulates them, and stops their flux” [III.2 ¶8]. Arresting the flux of the matter is thus this fire's work.
 
+**See also:** [Fire](#e0575)
+
 **References:** III.2 ¶8
 
 <a id="e1476"></a>
-### Recreative Force
+### Recreative force
 *term*
 
 **The force the alchemists claim man has brought into action through rational conditioning.**
@@ -16196,6 +17238,8 @@ Atwood names the Red as the source of the Citrine and asserts an identity: “Th
 
 **Identified with:** [Terra Adamica](#e1725) [I.3 n52]
 
+**See also:** [White and Red](#e1929)
+
 **References:** I.3 n52
 
 <a id="e1478"></a>
@@ -16205,6 +17249,8 @@ Atwood names the Red as the source of the Citrine and asserts an identity: “Th
 **A product of the Work whose process had been laborious and rarely achieved; Basil Valentine reportedly found a new way to work it.**
 
 Atwood reports that Basil Valentine found “a new method of working the Red Elixir” [I.1 ¶59]; the process had previously been laborious and rarely achieved. She also cites Norton's lines on the Red Stone as evidence on this point [I.1 ¶60] (see Red Stone).
+
+**See also:** [Elixir](#e0473)
 
 **References:** I.1 ¶59
 
@@ -16228,20 +17274,24 @@ Eudoxus (quoted) speaks of two Mercuries and identifies one: “the most sharp V
 
 **Identified with:** most sharp Vinegar [IV.3 ¶10]; bath of the Sun [IV.3 ¶10]
 
+**See also:** [Mercury](#e1065)
+
 **References:** IV.3 ¶10
 
 <a id="e1481"></a>
-### Red of Magic Fire
+### Red of magic fire
 *term*
 
 **In Eudoxus, what is struck upon the Stone so that a clear fountain issues from it.**
 
 Eudoxus (quoted) directs one to “strike upon it with the Red of Magic Fire” [IV.3 ¶10], whereupon a clear fountain issues from the Stone. The expression is not explained in the text.
 
+**See also:** [Fire](#e0575)
+
 **References:** IV.3 ¶10
 
 <a id="e1482"></a>
-### Red Powder
+### Red powder
 *term*
 
 **What Kelly is believed to have had, whether by secret information or by making it himself.**
@@ -16260,6 +17310,8 @@ The text (voice unclear) says Ripley tried to putrefy “this Red Salt which he 
 
 **Identified with:** Gold (Ripley's name) [IV.1 ¶36]
 
+**See also:** [Salt](#e1536)
+
 **References:** IV.1 ¶36
 
 <a id="e1484"></a>
@@ -16272,20 +17324,24 @@ Nicholas Flamel (quoted) reports: “I made projection of the Red Stone, on a li
 
 **Identified with:** phoenix; salamander; royal essence [I.2 ¶40]
 
+**See also:** [Stone](#e1670)
+
 **References:** I.1 ¶57, I.1 ¶60, I.2 ¶40
 
 <a id="e1485"></a>
-### red Sulfur
+### Red sulphur
 *term*
 
 **In verses from Lucerna Salis Phil., the red Sulfur contained in the subject, knowledge of which gives the whole foundation.**
 
 From the verses quoted from Lucerna Salis Phil.: “And he who knows the red Sulfur which it contains, Has within his power the whole foundation” [I.2 ¶30]. The text does not explain it further.
 
+**See also:** [Sulphur](#e1690)
+
 **References:** I.2 ¶30
 
 <a id="e1486"></a>
-### redness
+### Redness
 *term*
 
 **In Hermes, a redness corrupted with water, held like fire in a live coal, to be purified by repeated withdrawal; called the soul.**
@@ -16297,7 +17353,7 @@ Hermes (quoted) instructs: “Take, my Son, this redness, corrupted with the wat
 **References:** I.3 n21, I.3 ¶17
 
 <a id="e1487"></a>
-### refixation
+### Refixation
 *term*
 
 **In the Appendix, what brings the philosophical dissolution to an end.**
@@ -16317,7 +17373,7 @@ Atwood exclaims “Most mighty and surpassing magic of Reflection.” [III.3 ¶7
 **References:** III.3 ¶79
 
 <a id="e1489"></a>
-### regardant subject
+### Regardant subject
 *term*
 
 **The inferior nature, i.e. the person engaged in the rite, from whom divine things do not take their principle of energy.**
@@ -16326,41 +17382,49 @@ The text (voice unclear) glosses the term itself: divine things do not take thei
 
 **Identified with:** inferior nature [II.4 ¶31]
 
+**See also:** [Subject](#e1675)
+
 **References:** II.4 ¶31
 
 <a id="e1490"></a>
 ### Regenerate life
-*term* · regenerate life
+*term*
 
 **In the Appendix, the life that begins when the individual mind contacts universal power, ferments the sensorium of this life and lives on its decease.**
 
 In the Appendix (Table Talk, a later layer), Atwood says the contact of the individual mind with power universal is its start: “that experience is the initial of the regenerate life” [APP ¶175]. This life ferments the sensorium of the present life and lives upon its decease. See regeneration.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶175
 
 <a id="e1491"></a>
-### regenerate soul
+### Regenerate soul
 *term*
 
 **The soul that puts on the Stone as a new body.**
 
 Atwood says the Stone is what “the regenerate soul puts on as a new body” [IV.4 ¶20]. See regeneration.
 
+**See also:** [Soul](#e1632)
+
 **References:** IV.4 ¶20
 
 <a id="e1492"></a>
-### regenerate Wisdom
+### Regenerate Wisdom
 *term*
 
 **In the Moorish philosopher, the wisdom of a man reformed into God's image, by which he possesses all things and unlocks nature's mysteries.**
 
 The Moorish philosopher (quoted) says the man reformed into God's image “in his regenerate Wisdom possesseth all things, and with this light can unlock the most hidden and recluse mysteries of nature” [II.1 ¶9].
 
+**See also:** [Wisdom](#e1943)
+
 **References:** II.1 ¶9
 
 <a id="e1493"></a>
-### regeneration
-*term* · Regeneration, regenerate, regenerated, regenerating, regeneratively, Hermetic regeneration
+### Regeneration
+*term* · regenerate, regenerated, regenerating, regeneratively, Hermetic regeneration
 
 **The recreative process, physical and spiritual, by which the vital principle is reconstructed, the natural life dissolved and the Identity made; the process the Hermetic Art serves.**
 
@@ -16370,10 +17434,10 @@ As process: it is the miraculous principle “by which the relationships of the 
 
 The Appendix (Table Talk, a later layer) adds: the vital principle is reconstructed “through a regeneration” [APP ¶68] in “the recreative process of the regeneration” [APP ¶55], the macrocosm's image being evolved before the mental eye; the Hermetically regenerated give up the head life. It brings the whole of life into the Sonship: “It is the death to sin with a new birth awakened in us” [APP ¶79]; begun by the pure earth, it is highest when the spirit, dead to its identity, re-arises as the Divine image — “the condition of the highest regeneration” [APP ¶87]. The philosophic birth “is known in Regeneration, individually proven and proving all” [APP ¶108]; regenerate bodies are penetrated with Light, and the regenerate soul receives body from the residuum of the sensual medium. “The mystery is an art revealed to regenerating men, to advance them on to perfection” [APP ¶146]; it gives freedom to realize every volition, later surrendered to the Father's Will, and involves “a drawing of power and life up through the feet” [APP ¶158].
 
-**References:** APP ¶108, APP ¶146, APP ¶158, APP ¶55, APP ¶68, APP ¶79, APP ¶87, I.1 ¶11, I.1 ¶7, II.4 ¶7, III.1 ¶50, III.2 ¶16, III.3 ¶52, III.3 ¶77, IV.2 ¶17, IV.2 ¶18, IV.3 ¶38
+**References:** I.1 ¶11, I.1 ¶7, II.4 ¶7, III.1 ¶50, III.2 ¶16, III.3 ¶52, III.3 ¶77, IV.2 ¶17, IV.2 ¶18, IV.3 ¶38, APP ¶108, APP ¶146, APP ¶158, APP ¶55, APP ¶68, APP ¶79, APP ¶87
 
 <a id="e1494"></a>
-### regiment of the colors
+### Regiment of the colors
 *term*
 
 **In the Author of the Open Entrance, the succession of colours the matter passes through, run through again in each multiplication.**
@@ -16383,7 +17447,7 @@ The Author of the Open Entrance (quoted) says that in multiplication “every re
 **References:** IV.3 ¶18
 
 <a id="e1495"></a>
-### Regio phantastica
+### Regio Phantastica
 *term*
 
 **In the Appendix, the wise men's name for the analogical sphere, of only relative truth, valued by Hermetists only for its derived light stripped of phantasmagoric form.**
@@ -16402,10 +17466,12 @@ In the Appendix (Table Talk, a later layer), Atwood: “There is a certain truth
 
 The Asclepian Dialogue of Hermes (quoted) prophesies that in a degenerate age “a capital punishment shall be appointed for him who applies himself to the Religion of Intellect” [I.1 ¶10]. Atwood takes up the phrase, in quotation marks, for the time when the Mysteries were abandoned and Theurgic rites proscribed: “a punishment, no less than death, was menaced against him who dared to pursue the "Religion of Intellect"” [I.1 ¶30]; then “tradition and secular delirium had taken place of intellectual enthusiasm, and idle dreams were set up as oracles in the place of Divine inspiration” [I.1 ¶30]. The term is not further defined.
 
+**See also:** [Intellect](#e0867)
+
 **References:** I.1 ¶10, I.1 ¶30
 
 <a id="e1497"></a>
-### reminiscence
+### Reminiscence
 *term*
 
 **The soul's recovery of what it forgot in embodied life — the awakened recollection of the intellect that the rites produce, sought by Reason in her root of Light.**
@@ -16413,6 +17479,18 @@ The Asclepian Dialogue of Hermes (quoted) prophesies that in a degenerate age �
 Atwood: the soul “will recollect all those things, the remembrance of which she loses in the present life” [II.1 ¶50]; souls allied to antecedent realities feel it, “thrilling into reminiscence, as of some long past life forgotten” [II.1 ¶53]; it is also the recovery of the ancient experiment. The rites work by “awakening intellect into reminiscence” [II.4 ¶36], but the hidden Reason cannot “be awakened to reminiscence without a resolution of the whole circulatory confine” [II.4 ¶39]. Reason, roused from lethargy, goes “to seek for genuine reminiscence in her root of Light” [IV.4 ¶15].
 
 **References:** II.1 ¶50, II.1 ¶53, II.4 ¶36, II.4 ¶39, IV.4 ¶15
+
+<a id="e0845"></a>
+### Renowned philosophers of various ages and nations
+*collective voice* · individuals of various ages and nations, whose names are renowned in philosophy
+
+**Atwood's description of the witnesses gathered in the Inquiry, many of whom attest the Stone from personal experience.**
+
+Atwood uses this phrase for the witnesses she has gathered for the Inquiry, many of whom attest the Stone from personal experience [IV.4 ¶2]. She relies on them as support.
+
+**See also:** [Philosophers](#e1311)
+
+**References:** IV.4 ¶2
 
 <a id="e1498"></a>
 ### Reuchlin
@@ -16424,16 +17502,6 @@ Atwood lists John Reuchlin among those who blended alchemy and therapeutics with
 
 **References:** I.1 ¶39, II.2 ¶25, III.2 n25, III.2 ¶10, III.2 ¶24
 
-<a id="e1499"></a>
-### Revel.
-*treatise* · Book of Revelation, the Revelation, the Apocalypse, Apocalypse, Revelation of St.John
-
-**The Book of Revelation, which Atwood cites for the competent minister, the Stone with a new name, the white splendour, Wisdom's fruits and the marriage of man and God.**
-
-Atwood cites Revel. 3:7 for the qualifications of the competent minister: “he that hath the Key of David, he that openeth, and no man shutteth” [IV.3 ¶39; IV.3 n17]. Chapters 2–3 support the promises of material fruits with Wisdom: “To him that overcometh will I give to eat of the Tree of Life” [IV.3 n22]; the passages at [IV.3 ¶41–45] apparently come from these chapters (the footnote numbering is unclear). Chapters 1:14 and 2:17 illustrate the white appearance of the primeval splendour (the White Stone, the Son of Man): “whose hair was like wool, and white as snow” [III.2 ¶4; III.2 n5]. She also invokes the Stone of the Apocalypse and the Stone with the new name [II.3 ¶52, ¶54]. In the Appendix (Table Talk, a later layer) the Book of Revelation is said to hint at the marriage-union between man and God in Christ [APP ¶79].
-
-**References:** APP ¶79, II.3 ¶52, II.3 ¶54, III.2 n5, III.2 ¶4, IV.3 n17, IV.3 n20, IV.3 n22, IV.3 ¶39, IV.3 ¶41, IV.3 ¶42, IV.3 ¶43, IV.3 ¶44, IV.3 ¶45
-
 <a id="e1500"></a>
 ### Revelation
 *term*
@@ -16444,25 +17512,19 @@ Kirchringius (quoted): after persistent prayer, desire and labour, “at length,
 
 **Identified with:** the solution falling in [III.4 ¶22]
 
+**See also:** [Bible](#e0179), [Book of Revelation](#e1499)
+
 **References:** III.4 ¶22
 
-<a id="e1501"></a>
-### Revelations, Open Entrances, New Lights and True Lights, Sunshine and Moonshine, Auroras, Dawns, Manuals, Introductory Lexicons, Triumphal Chariots, Banners, Gates, Keys, Guides
-*collective voice*
-
-**Atwood's list of generic alchemical book titles, all pointing to the Royal Road once it is found but useless to most modern readers.**
-
-Atwood lists these generic titles of alchemical books — Revelations, Open Entrances, New Lights and True Lights, Sunshine and Moonshine, Auroras, Dawns, Manuals, Introductory Lexicons, Triumphal Chariots, Banners, Gates, Keys, Guides — to show that all direct to the Royal Road once it is found, yet are useless to most modern readers [III.4 ¶15].
-
-**References:** III.4 ¶15
-
 <a id="e1502"></a>
-### reviviscent spirit
+### Reviviscent spirit
 *term*
 
 **The reviving spirit of the Phoenix from which, Atwood says, Bacon filled his lamp; the text does not explain it further.**
 
 Atwood speaks of Bacon being able to “fill his lamp from her reviviscent spirit” [I.1 ¶38], the spirit belonging to the Phoenix, which he worked by ascending and descending. The passage leaves the expression unexplained; it apparently names a vivifying principle drawn from the Phoenix, but the text gives no plain meaning.
+
+**See also:** [Spirit](#e1644)
 
 **References:** I.1 ¶38
 
@@ -16512,7 +17574,7 @@ Ripley is one of Atwood's most-cited authorities.
 
 He is listed among genuine seekers, against the spurious brood of idlers [I.1 ¶49]; Appendix (Table Talk, later layer): he warns against haste under the similitude of red poppies [APP ¶103].
 
-**References:** APP ¶103, I.1 n105, I.1 n111, I.1 n72, I.1 ¶49, I.1 ¶62, I.1 ¶63, I.1 ¶64, I.1 ¶65, I.1 ¶79, I.1 ¶80, I.1 ¶85, I.2 n23, I.2 n7, I.2 ¶25, I.2 ¶31, I.2 ¶42, I.2 ¶5, I.2 ¶6, I.3 n4, I.3 n6, II.1 n11, II.1 ¶13, III.1 n61, III.1 n63, III.1 n69, III.1 ¶56, III.1 ¶57, III.1 ¶62, III.2 ¶60, III.3 ¶33, IV.1 ¶36
+**References:** I.1 n105, I.1 n111, I.1 n72, I.1 ¶49, I.1 ¶62, I.1 ¶63, I.1 ¶64, I.1 ¶65, I.1 ¶79, I.1 ¶80, I.1 ¶85, I.2 n23, I.2 n7, I.2 ¶25, I.2 ¶31, I.2 ¶42, I.2 ¶5, I.2 ¶6, I.3 n4, I.3 n6, II.1 n11, II.1 ¶13, III.1 n61, III.1 n63, III.1 n69, III.1 ¶56, III.1 ¶57, III.1 ¶62, III.2 ¶60, III.3 ¶33, IV.1 ¶36, APP ¶103
 
 <a id="e1507"></a>
 ### Ripley Revived
@@ -16533,7 +17595,7 @@ Atwood cites Robert Vallensis's De Veritate et Antiquitate Artis Chemiae, in the
 **References:** I.1 n4, I.1 n52, I.1 ¶3
 
 <a id="e1509"></a>
-### rock in the wilderness
+### Rock in the wilderness
 *term*
 
 **Atwood's expression for that which is so called because it lies in great obscurity and is hard to reach, surrounded by darkness and clouds.**
@@ -16544,7 +17606,7 @@ Atwood explains the name herself: “This is the rock in the wilderness,, becaus
 
 <a id="e1510"></a>
 ### Roger Bacon
-*person* · Friar Bacon, Roger bacon, Freer Bacon, R. Bacon
+*person* · Friar Bacon, Freer Bacon, R. Bacon
 
 **The ‘experimental Friar’, an adept Atwood cites on concealment, the Matter, solution, the operator's purification and the primacy of understanding over experiment.**
 
@@ -16554,10 +17616,12 @@ On method, he supports leaving off experiments until understanding is attained: 
 
 As “the experimentalist” he is agreed concerning the Matter [III.2 ¶60]; something warned him “from the error of his ways” [IV.4 ¶27]. Norton's verse names “Freer Bacon” with Albertus, and Agrippa followed Friar Bacon's example in proving principles [I.1 ¶60, ¶64].
 
+**See also:** [Bacon](#e0167)
+
 **References:** I.1 n112, I.1 n41, I.1 n43, I.1 n44, I.1 ¶34, I.1 ¶36, I.1 ¶38, I.1 ¶39, I.1 ¶60, I.1 ¶64, I.1 ¶76, I.1 ¶86, I.2 n1, I.2 ¶5, I.3 n15, II.3 n1, II.3 ¶5, III.2 ¶60, III.3 n19, III.3 ¶28, IV.4 ¶27
 
 <a id="e1511"></a>
-### root
+### Root
 *term*
 
 **In quoted authorities, the one root from which all metals and minerals descend, identified with the metallic seed.**
@@ -16569,17 +17633,19 @@ Quoted from Basil and Geber: “all metals and minerals have one root from whenc
 **References:** II.1 ¶11
 
 <a id="e1512"></a>
-### root of Light
+### Root of light
 *term*
 
 **Atwood's term for the source in which Reason is to seek genuine reminiscence.**
 
 Atwood says Reason is “to seek for genuine reminiscence in her root of Light” [IV.4 ¶15]. Apparently the same source she elsewhere calls the Root of Reason [IV.4 ¶20], though the text does not equate the two expressly.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.4 ¶15
 
 <a id="e1513"></a>
-### Root of Reason
+### Root of reason
 *term*
 
 **The Source and proper object of the rational faculty, buried in the life of sense and resuscitated by Hermetic Artifice; identified with Wisdom and the saving Salt.**
@@ -16587,6 +17653,8 @@ Atwood says Reason is “to seek for genuine reminiscence in her root of Light�
 Atwood: “the proper object of the rational faculty is in its Source, which lies profoundly buried in this life of sense” [IV.4 ¶20]; Hermetic Artifice resuscitates it. She identifies it directly: “this same Root of Reason is Wisdom, and that saving Salt” [IV.4 ¶20] — so = Wisdom and = saving Salt.
 
 **Identified with:** [Wisdom](#e1943) [IV.4 ¶20]; saving Salt [IV.4 ¶20]
+
+**See also:** [Reason](#e1469)
 
 **References:** IV.4 ¶20
 
@@ -16606,20 +17674,24 @@ Cited for reference only.
 
 Atwood says some adepts carried their work into a secret association, the Rosicrucian Fraternity of the Fame and Confession, for protection [I.1 ¶66]. She also notes that certain Rosicrucians were alarmed by the books of Agrippa's and Paracelsus' disciples [II.1 ¶9].
 
+**See also:** [Brethren of the Rosy Cross](#e0213)
+
 **References:** I.1 ¶66, II.1 ¶9
 
 <a id="e1516"></a>
-### the royal artist
+### Royal artist
 *collective voice*
 
 **A voice cited (Calid in Salmon) for the view that the art belongs to those who understand and cannot be bought or sold.**
 
 Atwood cites the royal artist, per the footnote from Calid in Salmon, p. 30: “this treasure is not to be bought with money; and as it cannot be bought, so neither can it be sold” [III.4 ¶18; III.4 n13]. She uses it in support: the art is for those who understand.
 
+**See also:** [Artist](#e0135)
+
 **References:** III.4 n13, III.4 ¶18
 
 <a id="e1517"></a>
-### Royal Diadem
+### Royal diadem
 *term*
 
 **In Urbigeranus and other adepts, that which is extracted from ‘our Sordid Subject’ by the medium the Arcanum shows.**
@@ -16629,7 +17701,7 @@ Quoted from Urbigeranus and other Adepts: the Arcanum shows “the medium by whi
 **References:** IV.1 ¶7
 
 <a id="e1518"></a>
-### royal herb
+### Royal herb
 *term*
 
 **In Flammel, the herb found triumphing at the summit of the mountain of the Seven, called mineral, vegetable or saturnine and being ‘either and all’.**
@@ -16639,7 +17711,7 @@ Quoted from Flammel: at the summit of the mountain of the Seven is “a royal he
 **References:** II.4 ¶9
 
 <a id="e1519"></a>
-### Royal Road
+### Royal road
 *term*
 
 **Atwood's name for the single path toward which all Hermetic treatises direct once it is found.**
@@ -16669,17 +17741,19 @@ The Alchemists' counsel: “Take hold of that Rule which God hath given thee for
 **References:** III.1 ¶13, III.1 ¶21
 
 <a id="e1522"></a>
-### Rule of Reason
+### Rule of reason
 *term*
 
 **Atwood's term for Reason as guide of the pursuit: under it every step progresses, it alone enters the true Form of Gold, and it proves all things.**
 
 Atwood: “every step is progressive where the Rule of Reason is pursued” [III.4 ¶11]; of the true Form of Gold, “Reason alone can enter into it” [III.4 ¶11]. Reason's office is inquiry: “It is the province of reason to inquire and endeavor, by perscrutination, to prove all things” [III.4 ¶15].
 
+**See also:** [Reason](#e1469)
+
 **References:** III.4 ¶11, III.4 ¶15
 
 <a id="e1523"></a>
-### ruling Spirit of nature
+### Ruling spirit of nature
 *term*
 
 **Atwood's term for that Spirit, communion with which is the way to the magistery, and whose Law is to be feared and obeyed.**
@@ -16701,7 +17775,7 @@ Rupecissa is cited as supporting Basil Valentine's view [I.2 ¶31]. As “Rupice
 ## S
 
 <a id="e1525"></a>
-### Sacred Art
+### Sacred art
 *term* · Sacred Arts
 
 **The ancients' art practised in the Mysteries, which Atwood connects with Alchemy and Mesmerism and seeks to revive.**
@@ -16713,7 +17787,7 @@ The Platonic Successor (quoted) says Jupiter, after spontaneous revelation cease
 **References:** II.1 ¶53, II.2 ¶7, II.4 ¶58, IV.4 ¶30, IV.4 ¶32
 
 <a id="e1526"></a>
-### the Sacred Discourse
+### Sacred Discourse
 *treatise*
 
 **A treatise cited for the labours of Hercules as the trials of whoever contends for liberty, and for the Spirit's sinking when the will inclines downward.**
@@ -16723,17 +17797,19 @@ Atwood cites the Sacred Discourse in support: the labours of Hercules are the tr
 **References:** II.2 ¶13, II.2 ¶14
 
 <a id="e1527"></a>
-### sacred mysteries
+### Sacred Mysteries
 *term*
 
 **Sacred knowledge and rites which, too openly exposed to the multitude, became perverted and vilified.**
 
 Atwood: “sacred mysteries, too openly exposed to the multitude, became perverted and vilified by their abuse” [I.1 ¶11] — a ground for the secrecy she defends.
 
+**See also:** [Mysteries](#e1154)
+
 **References:** I.1 ¶11
 
 <a id="e1528"></a>
-### Sacred Science
+### Sacred science
 *term*
 
 **In a quoted adept, the name for the genuine art which fraudulent books blasphemed.**
@@ -16743,28 +17819,32 @@ Quoted from the adept, on fraudulent writers: “they have blasphemed the Sacred
 **References:** I.1 ¶53
 
 <a id="e1529"></a>
-### the sage
+### Sage
 *collective voice* · the adept
 
 **An anonymous voice whose sayings Atwood cites on sense-life, the purified internal fire, and putrefaction.**
 
 Atwood reads the sage's saying “Visitabis interiora terrae rectificando” [II.3 ¶28–29] (ours: you will visit the interior of the earth by rectifying) as referring to sense-life. Another saying supports the superiority of the purified internal fire: “Si pariat ventum valet auri pondera centum” [III.1 ¶43] (ours: if it brings forth wind, it is worth a hundred weights of gold). Via Ripley Revived, 5th Gate, the sage/adept supports putrefaction as the key, and tincture as coagulated blood: “O happy gate of blackness” [I.3 n42, n43].
 
+**See also:** [Adept](#e0018), [Adepts (cited voice)](#e0019)
+
 **References:** I.3 n42, I.3 n43, II.3 ¶28, II.3 ¶29, III.1 ¶43
 
 <a id="e1530"></a>
-### the sage in Enoch
+### Sage in Enoch
 *collective voice*
 
 **The voice of the Book of Enoch, cited to illustrate the guarded mineral soul.**
 
 Atwood cites the Book of Enoch, chap. 64: 7, 8: “there is an angel standing upon it, and that angel struggles to prevail” [II.3 ¶29; II.3 n32], illustrating the guarded mineral soul.
 
+**See also:** [Book of Enoch](#e0200)
+
 **References:** II.3 n32, II.3 ¶29
 
 <a id="e1531"></a>
-### Sainte Croix / St Croix
-*person* · Sainte Croix, St Croix
+### Sainte Croix
+*person* · St Croix
 
 **Author of a two-volume work on the Mysteries whom Atwood criticizes as thorough in research but astronomical and superficial in reading.**
 
@@ -16773,12 +17853,14 @@ Atwood cites Sainte Croix's des Mysteres (2 vols, 8vo) and criticizes it: the re
 **References:** II.2 n2, II.2 ¶4
 
 <a id="e1532"></a>
-### the saints and apostles
+### Saints and apostles
 *collective voice*
 
 **Invoked for their gift of healing, which Atwood notes is absent today.**
 
 Atwood contrasts the saints and apostles' gift of healing with its absence today, promising the reason in the sequel [III.1 ¶9].
+
+**See also:** [Apostle](#e0093)
 
 **References:** III.1 ¶9
 
@@ -16814,7 +17896,7 @@ The fraternity of the Rosy Cross (quoted) says the Eagle and Lion together take 
 
 <a id="e1536"></a>
 ### Salt
-*term* · Salts, salt, Sal, Slat
+*term* · Salts, Sal, Slat
 
 **One of the three principles (with Sulphur and Mercury); identified by Atwood with Will, Wisdom and the Root of Reason, and by quoted adepts as the most ancient principle of the Stone.**
 
@@ -16826,9 +17908,11 @@ Salt is one of the three principles with Sulphur and Mercury; Atwood lists it th
 
 **Quoted voices.** The mysterious adeptest calls it “Salt, that most ancient principle of the Stone” and “The Salt of Saturn, the Universal son of Nature”, “always and everywhere universal through its own fusibility, self-existent in nature”; “not without weighty cause has Salt been dignified with the name of Wisdom”; its nucleus in the Decad is to be kept secret; with the Sun, it is that “than which, together with the Sun, nothing is found more useful” [III.3 ¶50]. The Adept speaks of an immortal Salt in the mind's machinery, “that marvelous Salt, which is that menstruum in the sphere of Saturn mentioned by Eirenaeus, which can calcine gold” [IV.2 ¶30]. Vaughan mentions “three Argent vives and as many Salts” without explanation [IV.2 ¶35].
 
-**Identified with:** [Will](#e1939) [APP ¶65]; voluntary substance [APP ¶77]; [Will](#e1939) [APP ¶182]; [Astrum Solis](#e0145) [II.3 ¶52]; Universal son of Nature [III.3 ¶50]; most ancient principle of the Stone [III.3 ¶50]; [Wisdom](#e1943) [III.3 ¶50]; menstruum in the sphere of Saturn [IV.2 ¶30]; [Root of Reason](#e1513) [IV.4 ¶20]; [Wisdom](#e1943) [IV.4 ¶20]
+**Identified with:** [Will](#e1939) [APP ¶65]; voluntary substance [APP ¶77]; [Will](#e1939) [APP ¶182]; [Astrum solis](#e0145) [II.3 ¶52]; Universal son of Nature [III.3 ¶50]; most ancient principle of the Stone [III.3 ¶50]; [Wisdom](#e1943) [III.3 ¶50]; menstruum in the sphere of Saturn [IV.2 ¶30]; [Root of reason](#e1513) [IV.4 ¶20]; [Wisdom](#e1943) [IV.4 ¶20]
 
-**References:** APP ¶182, APP ¶65, APP ¶77, II.3 ¶52, II.3 ¶54, III.1 ¶56, III.1 ¶61, III.3 ¶50, IV.2 ¶30, IV.2 ¶35, IV.4 ¶20
+**See also:** [Philosophic Salt](#e1325)
+
+**References:** II.3 ¶52, II.3 ¶54, III.1 ¶56, III.1 ¶61, III.3 ¶50, IV.2 ¶30, IV.2 ¶35, IV.4 ¶20, APP ¶182, APP ¶65, APP ¶77
 
 <a id="e1537"></a>
 ### Salt of Saturn
@@ -16838,23 +17922,27 @@ Salt is one of the three principles with Sulphur and Mercury; Atwood lists it th
 
 In a passage whose voice is unclear, “The Salt of Saturn, that most abstruse principle of the Stone --- the most ancient Demogorgon” [II.3 ¶41] is said to be deprived of light, the one “whose perpetual motion emanates the first material universe, and is the mineral soul” [II.3 ¶41]. It is also the central earth whose Being is Tartarus: “This is the earth, distinguished by Anaxagoras, which abiding durably in the center” [II.3 ¶41]. Compare Salt, where a quoted adept calls the Salt of Saturn the “Universal son of Nature” [III.3 ¶50].
 
-**Identified with:** [Demogogon](#e0372) [II.3 ¶41]; [mineral soul](#e1103) [II.3 ¶41]; the earth, distinguished by Anaxagoras [II.3 ¶41]
+**Identified with:** [Demogogon](#e0372) [II.3 ¶41]; [Mineral soul](#e1103) [II.3 ¶41]; the earth, distinguished by Anaxagoras [II.3 ¶41]
+
+**See also:** [Saturn](#e1543)
 
 **References:** II.3 ¶41
 
 <a id="e1538"></a>
-### salt (of the Sages)
+### Salt of the Sages
 *term* · their salt, salt of the world
 
 **In the Lucerna Solis verse, the Sages' name for the one universal thing containing all nature and Life, extracted from their earth, and not vulgar salt.**
 
 Quoted from the Lucerna Solis: the one universal thing, present everywhere, containing all nature and all Life and extracted from ‘their earth’, is known only to the Sages: “The band of Sages only have known it, And they call it their salt.” It is explicitly not common salt: “Nor the vulgar salt in any manner, But rather the salt of the world” [I.2 ¶10].
 
+**See also:** [Sage](#e1529)
+
 **References:** I.2 ¶10
 
 <a id="e1539"></a>
-### Salt, Sulfur, and Mercury
-*term* · salt, sulfur and mercury, Salt, Mercury, Sulphur, Mercury, salt and sulfur, Sulphur, Mercury and Salt, Mercury, Sulphur, and Salt, Salt, Sulphur and Mercury, three principles
+### Salt, Sulphur and Mercury
+*term* · Salt, Sulphur, and Mercury, Salt, Mercury, Sulphur, Mercury, salt and sulphur, Sulphur, Mercury and Salt, Mercury, Sulphur, and Salt, three principles
 
 **The three principles of the Adepts: modes of being of one Matter, related as agent, patient and offspring; not the literal substances chemists misapplied.**
 
@@ -16864,10 +17952,12 @@ Quoted from the Lucerna Solis: the one universal thing, present everywhere, cont
 
 **Identified with:** paternal, maternal, and proceeding ens of life [I.3 n30]; body, spirit, occult soul [I.3 n30]; Attraction, Circulation, Repulsion [APP ¶24]; spirit, body and soul [II.1 ¶11]; Three Powers in one seat [III.3 ¶77]; the active, the passive, and the resulting experience of life [III.3 ¶77]; Word of God (the first) [III.3 ¶77]; the selfhood (the second) [III.3 ¶77]; Bodily Substance (the result) [III.3 ¶77]; the spirit, the soul, and the body [IV.3 ¶7]
 
-**References:** APP ¶24, I.1 ¶86, I.2 ¶39, I.3 n22, I.3 n30, II.1 ¶11, II.1 ¶14, III.3 ¶77, IV.2 ¶30, IV.3 ¶7
+**See also:** [Mercury](#e1065), [Three principles](#e1759), [Three principles (attraction, repulsion, circulation)](#e1760)
+
+**References:** I.1 ¶86, I.2 ¶39, I.3 n22, I.3 n30, II.1 ¶11, II.1 ¶14, III.3 ¶77, IV.2 ¶30, IV.3 ¶7, APP ¶24
 
 <a id="e1540"></a>
-### salt-nitre
+### Salt-nitre
 *term*
 
 **In Sendivogius, a substance taken with water from Our Earth, upon which the radical moisture is put.**
@@ -16876,18 +17966,8 @@ Quoted from Sendivogius: “water and salt-nitre, which comes from Our Earth” 
 
 **References:** IV.3 ¶21
 
-<a id="e1541"></a>
-### the same author
-*collective voice*
-
-**An unnamed author, apparently Eirenaeus (following the n37 verse), cited from Introitus Apertus cap. 7 for an explanation of the whole difficulty.**
-
-Cited at [IV.1 ¶43] and [IV.1 n38] (Introitus Apertus, cap. 7) for ‘an explanation of the whole difficulty’ — the Fiery Dragon, the Lodestone, purgation, and “Hence comes the Chamelion which is our Chaos”. The note itself names no author; the context suggests Eirenaeus, since ‘the same author’ follows the verse cited at n37.
-
-**References:** IV.1 n38, IV.1 ¶43
-
 <a id="e1542"></a>
-### Sanctuary of Nature
+### Sanctuary of nature
 *term*
 
 **In Vaughan, the place of Nature's treasures, behind a Door that must be opened through knowledge of the First Matter.**
@@ -16906,30 +17986,36 @@ Appendix (Table Talk, later layer), Atwood: “Saturn or the self-willed life”
 
 **Identified with:** self-willed life [APP ¶72]; [Will](#e1939) [APP ¶125]
 
+**See also:** [Saturn, Jupiter, Venus and Lune](#e1544)
+
 **References:** APP ¶113, APP ¶125, APP ¶72
 
 <a id="e1544"></a>
-### Saturn / Jupiter / Venus / Lune
-*term* · Saturnine, Jupiter
+### Saturn, Jupiter, Venus and Lune
+*term* · Saturn, Jupiter, Venus, Lune, Saturnine
 
 **Planetary names used in the Appendix as qualities of character and work: Saturnine dark potentiality cleared by the Jupiter element.**
 
 Appendix (Table Talk, later layer), Atwood, judging a work or character: “It is a Saturnine mass of power in mere potentiality; a dark cloud; chaos before Light strikes through it.” and “It wants the Jupiter element to clear it.” [APP ¶175].
 
+**See also:** [Moon](#e1121), [Saturn](#e1543), [Venus](#e1880)
+
 **References:** APP ¶175
 
 <a id="e1545"></a>
-### Saturnian Monarchy of the Freed Will
+### Saturnian monarchy of the freed will
 *term*
 
 **Something founded on the Matter (as Pan), once circumscribed in Intellect for the manifestation of its Light; not further explained.**
 
 Atwood says the Matter, as Pan, is “the foundation of the great Saturnian Monarchy of the Freed Will, which was once circumscribed in Intellect, for the manifestation of its Light” [III.2 ¶7]. Not further explained.
 
+**See also:** [Will](#e1939)
+
 **References:** III.2 ¶7
 
 <a id="e1546"></a>
-### Saturnian Will
+### Saturnian will
 *term*
 
 **The Will, figured by the drunken Saturn of the verse, which revels without rational restraint through the subordinate faculties until sated and asleep.**
@@ -16938,10 +18024,12 @@ Atwood reads the drunken Saturn of the verse as the Will: “For the Saturnian W
 
 **Identified with:** Saturn (of the verse) [III.1 ¶68]
 
+**See also:** [Will](#e1939)
+
 **References:** III.1 ¶68
 
 <a id="e1547"></a>
-### saving science
+### Saving science
 *term*
 
 **The knowledge the few wise took with them into obscurity.**
@@ -16951,7 +18039,7 @@ Atwood says the wise preserved their knowledge “by burying themselves with the
 **References:** I.1 ¶30
 
 <a id="e1548"></a>
-### the Savior
+### Savior
 *person* · the Saviour
 
 **Cited for the command to have Salt in ourselves and for the honour of the ass at his triumph.**
@@ -16968,11 +18056,11 @@ Atwood cites the Savior's order to have Salt in ourselves, “that Salt which th
 
 Atwood criticizes Kant, Fichte and Schelling for a metaphysics ending in void non-entity and skepticism, short of objective realization, while ranking Schelling above the other two [III.2 ¶31]. She cites him in support of the view that after the intuition only the remembered vision remains, owing to the limits of human reason: “We awaken from the Intellectual Intuition, says Schelling, as from a state of death” [IV.2 ¶33]. The Appendix (Table Talk, later layer) mentions him with Fichte by way of contrast [APP ¶96] and in the same list as ones who ‘saw it’ [APP ¶117].
 
-**References:** APP ¶117, APP ¶96, III.2 ¶31, IV.2 ¶33
+**References:** III.2 ¶31, IV.2 ¶33, APP ¶117, APP ¶96
 
 <a id="e1550"></a>
-### the Scholiast
-*collective voice* · our Scholiast, our scholiast, the scholiast
+### Scholiast
+*collective voice* · our Scholiast
 
 **The glossator of the Scholium, Atwood's main and approved commentator in I.3, cited for practical and spiritual readings of the Hermetic text.**
 
@@ -16981,7 +18069,7 @@ Atwood cites the Scholiast throughout I.3 with approval (‘our Scholiast’, �
 **References:** I.3 n11, I.3 n12, I.3 n16, I.3 n19, I.3 n20, I.3 n21, I.3 n22, I.3 n26, I.3 n27, I.3 n29, I.3 n30, I.3 n31, I.3 n32, I.3 n36, I.3 n37, I.3 n38, I.3 n39, I.3 n4, I.3 n40, I.3 n41, I.3 n42, I.3 n48, I.3 n49, I.3 n5, I.3 n50, I.3 n51, I.3 n53, I.3 n54, I.3 n55, I.3 n57, I.3 n6, I.3 n60, I.3 n61, I.3 n63, I.3 n65, I.3 n66, I.3 n67, I.3 n9
 
 <a id="e1551"></a>
-### the schoolmen
+### Schoolmen
 *collective voice*
 
 **Named only in a phrase borrowed within Vaughan's quotation.**
@@ -17002,26 +18090,28 @@ Named in Atwood's list of confessed adepts [I.1 ¶39].
 
 <a id="e1553"></a>
 ### Scripture
-*person* · the Scripture, the Scriptures, Holy Scripture, scripture, Scriptures
+*person* · the Scriptures, Holy Scripture
 
 **Cited by Atwood throughout as supporting authority: on Wisdom, blessing from God, purity, the conversion of darkness to light, and as analogue of the Hermetic Work.**
 
 Atwood cites Scripture as endorsed authority. It promises Wisdom, following Solomon's panegyric, with other such places [II.1 ¶45]; the Scriptures teach a faith bestowing Wisdom, God's sentence on the Serpent (“I will put enmity between thee and the woman”), and promises of Wisdom and material fruits, and are to be read as obscure and mystical [IV.3 ¶37–¶46]. Blessing and increase come from God: “the Lesser is blessed by the Greater”, with ‘Every good gift…’ and ‘God alone giveth the increase’; the talent is taken from him who does not use it [III.4 ¶20]. It supports the conversion of darkness into light: “The night shineth as the day, the darkness and the light are all alike to Him” [III.2 ¶10]; number, weight and measure as Nature's three dimensions: “Thou hast disposed all things, in number, weight, and measure.” [III.3 ¶67]; and that the healer must first be healed: “Prepare thy work without, and make it fit for thyself in thy field; and afterwards build thy house” [III.1 ¶9, III.1 n7] (the note refers to the Wisdom of Solomon and Proverbs 24), with the beam and mote and ‘Physician, heal thyself’. For purity she cites “He that hath clean hands and a pure heart”, saying she quotes it as apt, ‘proved on the Divine Ground’, not because it is popular [IV.1 ¶39–¶40]. The ancestors found the Word of Life, “which their neglected Scriptures everywhere testify of” [IV.2 ¶43]. In the Appendix (Table Talk, later layer) the Work revealed in Holy Scripture is the analogue of the Hermetic Work, and the Stone of the Chief Corner Stone [APP ¶139].
 
-**References:** APP ¶139, II.1 ¶45, III.1 n7, III.1 ¶9, III.2 n27, III.2 ¶10, III.3 ¶67, III.4 ¶20, IV.1 ¶39, IV.1 ¶40, IV.2 ¶43, IV.3 ¶37, IV.3 ¶38, IV.3 ¶40, IV.3 ¶46
+**References:** II.1 ¶45, III.1 n7, III.1 ¶9, III.2 n27, III.2 ¶10, III.3 ¶67, III.4 ¶20, IV.1 ¶39, IV.1 ¶40, IV.2 ¶43, IV.3 ¶37, IV.3 ¶38, IV.3 ¶40, IV.3 ¶46, APP ¶139
 
 <a id="e1554"></a>
-### sea of the wise
+### Sea of the wise
 *term*
 
 **The Matter in its flowing, moist state, passive to every impression of the light.**
 
 Atwood: “In its flowing, humid state it is called the sea of the wise, passive to all impression and influences of the light” [I.3 n16].
 
+**See also:** [The Wise](#e1944)
+
 **References:** I.3 n16
 
 <a id="e1555"></a>
-### sea water
+### Sea water
 *term* · our sea water
 
 **In Synesius and the New Light, the precious thing congealed in gold and silver and abiding in the sea of the world.**
@@ -17029,6 +18119,8 @@ Atwood: “In its flowing, humid state it is called the sea of the wise, passive
 Quoted (Synesius; the New Light): the precious thing is “a ting more precious than the whole world; which I plainly tell thee is nothing else than our sea water” [I.2 ¶33]; it is congealed in gold and silver and abides ‘in the sea of the world’.
 
 **Identified with:** a ting more precious than the whole world [I.2 ¶33]
+
+**See also:** [Water](#e1920)
 
 **References:** I.2 ¶33
 
@@ -17040,10 +18132,12 @@ Quoted (Synesius; the New Light): the precious thing is “a ting more precious 
 
 Quoted from Boehme: “the Seal of God lieth before it, to conceal the true ground” [II.1 ¶25], so that the art may not be misused.
 
+**See also:** [Gods](#e0674)
+
 **References:** II.1 ¶25
 
 <a id="e1557"></a>
-### second Adam
+### Second Adam
 *term*
 
 **Greater than the first Adam: the restoration exceeds what was lost.**
@@ -17053,7 +18147,7 @@ Appendix (Table Talk, later layer), Atwood: “for the second Adam is greater th
 **References:** APP ¶98
 
 <a id="e1558"></a>
-### Second Intention
+### Second intention
 *term*
 
 **In Norton, the character of the Elixir as engendered by the concord of virtues; not further explained.**
@@ -17063,8 +18157,8 @@ Quoted from Norton: from the concord of virtues “Is engendered a thing of Seco
 **References:** IV.2 ¶34
 
 <a id="e1559"></a>
-### Second Operation
-*term* · Second (Operation)
+### Second operation
+*term*
 
 **The stage in which Nature alone works, without hands, by regulated external fire; for Atwood, the main reference of the Ordinal's period of years.**
 
@@ -17073,7 +18167,7 @@ Eirenaeus: “In the Second, however, Nature alone operates, and without any imp
 **References:** IV.1 ¶11, IV.1 ¶17, IV.1 ¶36
 
 <a id="e1560"></a>
-### Second Principle
+### Second principle
 *term*
 
 **The Paradisiacal Life, lived under the Cross.**
@@ -17082,11 +18176,13 @@ Appendix (Table Talk, later layer), Atwood: “Living in the Second Principle me
 
 **Identified with:** Paradisiacal Life [APP ¶94]
 
+**See also:** [Principles](#e1399)
+
 **References:** APP ¶94
 
 <a id="e1561"></a>
-### Second qualities / specifical qualities
-*term* · Second qualities, specifical qualities
+### Second qualities
+*term* — *specifical qualities* · specifical qualities
 
 **In Van helmont, second qualities misleadingly trusted, contrasted with specifical (appropriated) qualities acting only on their proper object.**
 
@@ -17097,17 +18193,19 @@ Quoted from Van helmont: those go astray who, “they too much trusting to Secon
 **References:** IV.1 ¶39
 
 <a id="e1562"></a>
-### Second Spirit
+### Second spirit
 *term* · tinging spirit
 
 **In the Adept, a spirit subsisting and tinging in the body, extracted by the Preparing Spirit.**
 
 Quoted from the Adept: the Preparing Spirit “extracts a Second Spirit subsisting and tinging in the body”, “extracting from it the tinging spirit” [IV.1 ¶10].
 
+**See also:** [Spirit](#e1644)
+
 **References:** IV.1 ¶10
 
 <a id="e1563"></a>
-### Second Work
+### Second work
 *term*
 
 **The continuation of the First Work, perfecting the new embryo and multiplying its light; for Atwood, the Solution of the Philosophic Salt.**
@@ -17116,10 +18214,12 @@ Atwood: “the Second Work, which is only, in continuation of the First, to perf
 
 **Identified with:** Solution of the Philosophic Salt [IV.1 ¶36]
 
+**See also:** [Works](#e1953)
+
 **References:** I.3 n7, IV.1 ¶36, IV.3 ¶12
 
 <a id="e1564"></a>
-### secret fire
+### Secret fire
 *term*
 
 **In Eirenaeus, the fire contained in, and identified with, ‘our water’.**
@@ -17128,20 +18228,24 @@ Quoted from Eirenaeus: “For in our water is our secret fire.” and “This is
 
 **Identified with:** [Water](#e1920) [III.1 ¶69]
 
+**See also:** [Fire](#e0575), [Fire of the wise](#e0579)
+
 **References:** III.1 ¶69
 
 <a id="e1565"></a>
-### secret Fire of the Wise
-*term* · secret fire of the wise
+### Secret fire of the wise
+*term*
 
 **The only agent the Art grants for purifying Nature; without knowing it, one fails even with the true matter.**
 
 In a passage whose voice is unclear (Atwood, or continuing ‘our author of The Triumph’, cited in the next sentence): “the secret Fire of the Wise, which is the only agent granted by Art to purify and dispose Nature to a sacrifice of her last life” [IV.2 ¶6]. Eudoxus: it makes a water that does not wet the hands run out of the dry-looking ‘plant’, and many fail “for want of knowing the secret fire of the wise” even after knowing the true matter [IV.3 ¶16]. The same paragraph names “the Understanding of Our Fire, which is both secret and natural” as one of two things that give the Keys; whether this is the same fire is not stated outright.
 
+**See also:** [The Wise](#e1944)
+
 **References:** IV.2 ¶6, IV.3 ¶16
 
 <a id="e1566"></a>
-### secret menstrual
+### Secret menstrual
 *term*
 
 **In Eirenaeus, quoted by Atwood, what Argent Vive prepared by art gives: the mother of the Stone, known by several names.**
@@ -17150,10 +18254,12 @@ Eirenaeus, quoted, says that Argent Vive prepared by art “gives the secret men
 
 **Identified with:** mother of our Stone [III.1 ¶69]; oil, unguent, marchasite, fountain bright [III.1 ¶69]
 
+**See also:** [Menstrual](#e1061)
+
 **References:** III.1 ¶69
 
 <a id="e1567"></a>
-### secret of secrets
+### Secret of secrets
 *term* · Secretu, Secretorum, secretum secretorum
 
 **The philosophers' name for what the Art teaches but never teaches openly; in Morieni, the magistery itself, God's secret.**
@@ -17165,19 +18271,19 @@ Artephius, quoted, rebukes the literal reader: “you, fool, believe we teach th
 **References:** I.1 ¶84, II.4 ¶39
 
 <a id="e1568"></a>
-### seed
+### Seed
 *term* · seed of gold, metalline seeds
 
 **What Form (Light) clothed with matter begets, impressing its character on matter; the seed of gold is called the Stone of Fire.**
 
 Atwood presents seed as what Form, or Light, begets when clothed with matter: “Which clothed with mater doth a seed beget.” [I.2 ¶45] The seed impresses its character on matter; metals arise from metalline seeds out of the Universal Spirit, while vulgar gold lacks seed until art helps it [I.2 ¶45]. An adept, cited by her, identifies the seed of gold with the Stone of Fire: “the seed of gold, says the adept, is a fiery form of Light inspissate, and this is the Stone of Fire” [I.2 ¶44].
 
-**Identified with:** [the Stone of Fire](#e1671) [I.2 ¶44]
+**Identified with:** [Stone of Fire](#e1671) [I.2 ¶44]
 
 **References:** I.2 ¶44, I.2 ¶45
 
 <a id="e1569"></a>
-### seed of nature
+### Seed of nature
 *term*
 
 **In Sendivogius, quoted, that of which man's body is a shadow.**
@@ -17187,22 +18293,26 @@ Sendivogius, quoted, says “the body of man is a shadow of the seed of nature�
 **References:** II.1 ¶10
 
 <a id="e1570"></a>
-### Seed of Spirit
+### Seed of spirit
 *term*
 
 **What is at last found within the purified material extreme of this life, described as a heavy, decompounded ens shining like a fiery star.**
 
 Atwood: “within the material extreme of this life, when it is purified, the Seed of Spirit is at last found” [II.3 ¶30]. It is described there as a heavy, decompounded ens shining like a fiery star [II.3 ¶30].
 
+**See also:** [Spirit](#e1644)
+
 **References:** II.3 ¶30
 
 <a id="e1571"></a>
-### seeking Reason
+### Seeking reason
 *term*
 
 **The active principle whose Will the Passive Intelligence answers and accompanies through the abyss.**
 
 Atwood speaks of the Passive Intelligence which “responds to the Will of her seeking Reason” [III.1 ¶40]; the seeking Reason is the active partner (spoken of as him), which she accompanies through the abyss.
+
+**See also:** [Reason](#e1469)
 
 **References:** III.1 ¶40
 
@@ -17212,20 +18322,24 @@ Atwood speaks of the Passive Intelligence which “responds to the Will of her s
 
 Cited for reference only.
 
+**See also:** [Works](#e1953)
+
 **References:** III.2 n40
 
 <a id="e1573"></a>
-### self-begotten life
+### Self-begotten life
 *term*
 
 **This life of ours, in which the Divine Light is hidden and which appropriates that Light instead of serving it.**
 
 In the Appendix (Table Talk, a later layer), Atwood calls our life self-begotten, the life in which the Divine Light is hidden: “This life of ours, instead of administering to the Divine Life, appropriates it.” [APP ¶70]
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶70
 
 <a id="e1574"></a>
-### self-centers
+### Self-centers
 *term*
 
 **Centers that gifted beings in whom the Word gives power tend to set up; key to the Second Commandment as the result of violating the First.**
@@ -17235,7 +18349,7 @@ In the Appendix (Table Talk, later layer), Atwood warns that “the danger is th
 **References:** APP ¶100
 
 <a id="e1575"></a>
-### self-desire
+### Self-desire
 *term*
 
 **What adulterates vision in the phantastic sphere.**
@@ -17246,7 +18360,7 @@ In the Appendix (Table Talk, later layer), Atwood says of vision in the phantast
 
 <a id="e1576"></a>
 ### Self-Knowledge
-*term* · self-knowledge, Self-knowledge
+*term*
 
 **Atwood's name for the Hermetic method itself: inner revelation in a purified soul, the root of alchemical tradition and the narrow way of regeneration.**
 
@@ -17260,10 +18374,10 @@ In the Appendix (Table Talk, later layer): “Self-knowledge is the first contac
 
 **Identified with:** the true psychical experience [II.1 ¶46]
 
-**References:** APP ¶137, I.3 n46, II.1 ¶30, II.1 ¶46, II.2 ¶7, II.4 ¶19, III.2 ¶46, III.2 ¶56
+**References:** I.3 n46, II.1 ¶30, II.1 ¶46, II.2 ¶7, II.4 ¶19, III.2 ¶46, III.2 ¶56, APP ¶137
 
 <a id="e1577"></a>
-### self-perceivance
+### Self-perceivance
 *term*
 
 **That through which the Reason arises, with creative attributes and powers, in regeneration.**
@@ -17273,7 +18387,7 @@ Atwood says the Reason “arises through the self-perceivance, with creative att
 **References:** III.3 ¶52
 
 <a id="e1578"></a>
-### self-spiration
+### Self-spiration
 *term*
 
 **The individual's distinct subsistence as separated, or outborn, from the Fontal Reason.**
@@ -17285,7 +18399,7 @@ Atwood describes the individual as “a distinct self-spiration, severation, or 
 **References:** III.3 ¶52
 
 <a id="e1579"></a>
-### self-sufficiency
+### Self-sufficiency
 *term*
 
 **The forbidden regions into which depraved minds climbed by the clue of life.**
@@ -17295,7 +18409,7 @@ Atwood says depraved minds, given the clue of life, “climbed by it into forbid
 **References:** III.4 ¶4
 
 <a id="e1580"></a>
-### self-will
+### Self-will
 *term* · self-willed
 
 **The individual, self-centred will acting for itself rather than under God's law, at war with the Divine Will; to be brought into subjection.**
@@ -17309,18 +18423,20 @@ It is the principle we are born into: “This war is the war between two princip
 **References:** APP ¶103, APP ¶104, APP ¶110, APP ¶154, APP ¶2, APP ¶4, APP ¶82
 
 <a id="e1581"></a>
-### self-willed Identity
+### Self-willed Identity
 *term*
 
 **The inner self-will that arrests the entering light; it must be humbled by voluntary sacrifice and is finally subdued by the connate spirit.**
 
 Atwood describes the light “penetrating to meet the self-willed Identity within, is arrested” [III.1 ¶53]. This Identity must be humbled by voluntary sacrifice, “humiliation of the Selfhood under the exemplary cross of Christ” [III.1 ¶60], and the connate spirit at last subdues it to self-mortification [III.1 ¶60].
 
+**See also:** [Identity](#e0822)
+
 **References:** III.1 ¶53, III.1 ¶60
 
 <a id="e1582"></a>
-### selfhood
-*term* · Selfhood
+### Selfhood
+*term*
 
 **The separate, self-centred individual self into which the soul has fallen; it must be dissolved, subverted and abandoned to the Divine Will for regeneration.**
 
@@ -17332,7 +18448,7 @@ In the Appendix (Table Talk, later layer) the soul's fall is “the fall away of
 
 **Identified with:** [Non-being](#e1195) [III.2 ¶59]
 
-**References:** APP ¶114, APP ¶120, APP ¶159, II.3 n2, III.2 ¶56, III.2 ¶59, III.4 ¶6, IV.1 ¶20, IV.1 ¶47, IV.3 ¶58, IV.3 ¶60, IV.4 ¶27
+**References:** II.3 n2, III.2 ¶56, III.2 ¶59, III.4 ¶6, IV.1 ¶20, IV.1 ¶47, IV.3 ¶58, IV.3 ¶60, IV.4 ¶27, APP ¶114, APP ¶120, APP ¶159
 
 <a id="e1583"></a>
 ### Sendivogius
@@ -17348,7 +18464,7 @@ On the matter: “Our water is heavenly, not wetting the hands, not of the vulga
 
 Atwood criticizes him once as diverting readers from Morien's hint [II.1 ¶8], but endorses him on man as microcosm: “the soul in man, the lesser world or microcosm, substituting the place of its center, is the king” [II.1 ¶10]; on Fire: “Fire, says the adept philosopher, is the purest and most worthy of all the elements” [II.4 ¶39]; and on prayer with work: “Pray, says Sendivogius, pray; but work.” [III.4 ¶20]. He also supplies “Urinus Saturni” for the Black Saturn [II.3 ¶18], his Planetary Sphere = the seven mystic mountains [II.4 ¶9], and the fight in which “Sal gave Sulfur a mortal wound” [III.1 ¶56], yielding white milk [III.1 n62]; per n66 he is also the source of the Adept's saying that without Salt no man attains the Science [III.1 n66]. His friends disbelieved that “there was any water in our sea” [III.4 ¶16]. In IV.3, the wary Artist, he teaches spiritual fermentation: “thou takest not common gold or silver, for these are dead; take Ours which are living” [IV.3 ¶21], admitting that his experience stopped there. In the Appendix (later layer) he is cited for the Philosopher who “looks not out on nature with the eyes of common men” [APP ¶67].
 
-**References:** APP ¶67, I.1 n109, I.1 n110, I.1 ¶66, I.1 ¶71, I.1 ¶73, I.1 ¶84, I.2 n35, I.2 n36, I.2 n40, I.2 n46, I.2 n48, I.2 ¶33, I.2 ¶42, I.2 ¶48, I.2 ¶49, I.3 n30, I.3 n31, I.3 n39, I.3 n40, I.3 n5, II.1 n2, II.1 n5, II.1 ¶10, II.1 ¶8, II.3 ¶18, II.4 n26, II.4 ¶39, II.4 ¶9, III.1 n62, III.1 n66, III.1 ¶56, III.1 ¶61, III.2 n27, III.2 n43, III.2 n8, III.2 ¶7, III.3 n20, III.3 ¶29, III.4 n18, III.4 n32, III.4 ¶16, III.4 ¶20, IV.3 n2, IV.3 ¶21
+**References:** I.1 n109, I.1 n110, I.1 ¶66, I.1 ¶71, I.1 ¶73, I.1 ¶84, I.2 n35, I.2 n36, I.2 n40, I.2 n46, I.2 n48, I.2 ¶33, I.2 ¶42, I.2 ¶48, I.2 ¶49, I.3 n30, I.3 n31, I.3 n39, I.3 n40, I.3 n5, II.1 n2, II.1 n5, II.1 ¶10, II.1 ¶8, II.3 ¶18, II.4 n26, II.4 ¶39, II.4 ¶9, III.1 n62, III.1 n66, III.1 ¶56, III.1 ¶61, III.2 n27, III.2 n43, III.2 n8, III.2 ¶7, III.3 n20, III.3 ¶29, III.4 n18, III.4 n32, III.4 ¶16, III.4 ¶20, IV.3 n2, IV.3 ¶21, APP ¶67
 
 <a id="e1584"></a>
 ### Seneca
@@ -17371,7 +18487,7 @@ Atwood cites Senior's precept on uniting volatile with fixed, “the highest fum
 **References:** IV.3 ¶8
 
 <a id="e1586"></a>
-### sense
+### Sense
 *term*
 
 **Sense perception and its beguilements, made the beacon of modern thought; the turbulent sea beyond which the haven lies.**
@@ -17381,12 +18497,14 @@ Atwood laments that modern thought follows “the beguilements of sense” [IV.4
 **References:** IV.4 ¶28, IV.4 ¶32
 
 <a id="e1587"></a>
-### sensible medium
+### Sensible medium
 *term*
 
 **The medium of sense-consciousness that trance dissolves, beneath which consciousness is later translated.**
 
 Atwood says trance can “dissolve the sensible medium and convert it to the experience of another life” [II.3 ¶5]; consciousness is afterwards translated beneath it.
+
+**See also:** [Medium](#e1056)
 
 **References:** II.3 ¶5
 
@@ -17403,19 +18521,19 @@ Atwood glosses the alchemical fixed thing as the sensual compact: “that which 
 **References:** II.3 ¶37
 
 <a id="e1589"></a>
-### sensual dominant
+### Sensual dominant
 *term*
 
 **The dominance of sense-life, identified with the corporeal; softened by the ethereal waters and subdued by Spirit in regeneration.**
 
 Atwood says the ethereal waters soften the sensual dominant to “make it more fit for the returning reason and understanding to work upon” [III.1 ¶53]. It is subdued “when the sensual dominant is occultated in the Divine Fiat and subdued” [III.3 ¶15], and she identifies it with the corporeal: Spirit “overcomes the corporeal, which is the sensual dominant, in the regeneration” [III.3 ¶23].
 
-**Identified with:** [corporeal](#e0336) [III.3 ¶23]
+**Identified with:** [Corporeal](#e0336) [III.3 ¶23]
 
 **References:** III.1 ¶53, III.3 ¶15, III.3 ¶23
 
 <a id="e1590"></a>
-### sensual spirit of life
+### Sensual spirit of life
 *term*
 
 **What is without a person; it must be made flexible and hidden.**
@@ -17424,10 +18542,12 @@ Atwood glosses that which is without: “that which is without, viz., the sensua
 
 **Identified with:** that which is without [I.3 n8]
 
+**See also:** [Life](#e0960)
+
 **References:** I.3 n8
 
 <a id="e1591"></a>
-### sensuous medium
+### Sensuous medium
 *term* · sensual medium
 
 **The principle of sense in the blood, dissolved by magnetizing and reiterated contritions; its residuum supplies body to the regenerate soul.**
@@ -17436,31 +18556,37 @@ Both records are from the Appendix (Table Talk, later layer). Atwood identifies 
 
 **Identified with:** principle of sense [APP ¶109]
 
+**See also:** [Medium](#e1056)
+
 **References:** APP ¶109, APP ¶110, APP ¶91
 
 <a id="e1592"></a>
-### sensuous spirit
+### Sensuous spirit
 *term* · sensuous and sensible spirit
 
 **The spirit in the blood through which life acts; taken up into the will, it dies so that new life, the Phoenix, may arise.**
 
 In the Appendix (Table Talk, later layer), Atwood describes the spirit in the blood through which life acts, to be taken up into the will so that new life grows from its death: “Out of the ashes of this present sensuous spirit arises the Phoenix.” [APP ¶91]
 
+**See also:** [Spirit](#e1644)
+
 **References:** APP ¶91
 
 <a id="e1593"></a>
-### sentient medium
+### Sentient medium
 *term*
 
 **In Atwood's modern exponent, what was at first fixed and is dissolved in the blackening.**
 
 Quoting our modern exponent, Atwood reports that in the blackening “that which at first was fixed, viz., the sentient medium, is dissolved” [II.1 ¶23].
 
+**See also:** [Medium](#e1056)
+
 **References:** II.1 ¶23
 
 <a id="e1594"></a>
-### separation
-*term* · Separation, Separabis
+### Separation
+*term* · Separabis
 
 **The primary object of the Art: separating pure from impure and subtle from gross, which Atwood takes to be apparently identical with the Mysteries' ordeal of the death of the natural life.**
 
@@ -17507,7 +18633,7 @@ Voice: Agrippa, as quoted. The ass's influence is said to depend occultly on the
 **References:** III.2 ¶64
 
 <a id="e1598"></a>
-### sequestatrix
+### Sequestatrix
 *term*
 
 **In a passage quoted from Paracelsus, the sequestatrix is that which gives each thing its form and essence; Atwood links it to the special part of Intellect.**
@@ -17517,7 +18643,7 @@ Paracelsus is quoted: “that is the sequestatrix, which gives to every thing it
 **References:** III.1 ¶21
 
 <a id="e1599"></a>
-### serpents
+### Serpents
 *term* · Angues
 
 **Two serpents found everywhere on earth, a living male and a living female, to be understood spiritually and not bodily.**
@@ -17527,8 +18653,8 @@ Voice: Cornelius Agrippa's ingenious disciple, as quoted. The two serpents are f
 **References:** III.1 ¶50
 
 <a id="e1600"></a>
-### Servius, commenting on Virgil
-*person* · Servius
+### Servius
+*person* — *commenting on Virgil* · Servius, commenting on Virgil
 
 **Servius, commenting on Virgil, is cited to support the point that the Bacchic rites served to purify souls.**
 
@@ -17537,7 +18663,7 @@ Atwood cites Servius's comment on Virgil in support of her point that the Bacchi
 **References:** II.2 ¶5
 
 <a id="e1601"></a>
-### seven
+### Seven
 *term*
 
 **Atwood says the great principle of the number seven is a Rest from the ferment of the Vitalizing or Divine principles.**
@@ -17547,7 +18673,7 @@ Atwood, in the Appendix (Table Talk, begun 1860, a later layer): “The great pr
 **References:** APP ¶69
 
 <a id="e1602"></a>
-### seven bodies
+### Seven bodies
 *term*
 
 **In Hermes, seven bodies of which gold is first; Atwood reads them as the inferior spheres of vitality in which the soul of gold moves.**
@@ -17559,7 +18685,7 @@ Atwood cites Hermes: “there are seven bodies --- of which gold is the first, t
 **References:** I.3 n65, I.3 ¶58
 
 <a id="e1603"></a>
-### seven letters
+### Seven letters
 *term*
 
 **Atwood takes the seven letters as the necessary phases the material passes through, marked by color and quality.**
@@ -17569,7 +18695,7 @@ Atwood takes the seven letters as the necessary phases the material passes throu
 **References:** I.3 n47
 
 <a id="e1604"></a>
-### severation
+### Severation
 *term*
 
 **The period in which the principles are separated, during which a coction goes on amid flood, eclipse and confusion.**
@@ -17579,7 +18705,7 @@ Atwood uses severation for the period in which the principles are separated: “
 **References:** III.1 ¶53
 
 <a id="e1605"></a>
-### sharp vinegar
+### Sharp vinegar
 *term*
 
 **A solvent known only to philosophers; Atwood says Cleopatra dissolved her earring in it.**
@@ -17589,12 +18715,14 @@ Atwood tells how Cleopatra dissolved her earring in “such a sharp vinegar as i
 **References:** I.1 ¶18
 
 <a id="e1606"></a>
-### siege of life
+### Siege of life
 *term*
 
 **The ‘allegoric’ siege of life, to which the Rational Light is raised and where it overcomes the stronghold of evil.**
 
 Atwood says the Rational Light “afterwards is raised to the allegoric siege of life” [III.4 ¶19], where it overcomes ‘the stronghold of evil’. The term is not explained further here.
+
+**See also:** [Life](#e0960)
 
 **References:** III.4 ¶19
 
@@ -17609,7 +18737,7 @@ Atwood, in the Appendix (Table Talk, begun 1860, a later layer): an entrance int
 **References:** APP ¶63
 
 <a id="e1608"></a>
-### simperings
+### Simperings
 *term* · simper
 
 **In Norton's Ordinal, the simperings of the Stone must be known until it can no more simper.**
@@ -17619,7 +18747,7 @@ Voice: Norton's Ordinal, as quoted: “To know the simperings of our Stone, Till
 **References:** IV.1 ¶12
 
 <a id="e1609"></a>
-### simple element of nature
+### Simple element of nature
 *term*
 
 **What Van Helmont was led to perceive in his dream-like vision.**
@@ -17638,9 +18766,19 @@ Atwood names Simplicius as the one who preserved the Anaxagoras passage she uses
 
 **References:** III.1 ¶21, III.2 n36
 
+<a id="e0919"></a>
+### Sir Edward Kelly
+*person* · Kelly
+
+**An adept whom Atwood cites as having reportedly possessed the Powder; she judges his book weak and his lavishness blameworthy, but uses his verses on the Art coming by grace.**
+
+Atwood names Kelly, author of *De Lapide Philosophorum*, as an adept who reportedly possessed the Powder, but she judges his book of little value and criticizes his lavishness [I.1 ¶66; I.1 ¶67]. Elsewhere she cites Kelly’s verses in Ashmole’s *Theatrum* in support of her view that the Art is not obtained by reading or by will: “by grace it is obtained” [IV.1 ¶19; IV.1 n19].
+
+**References:** I.1 ¶66, I.1 ¶67, IV.1 n19, IV.1 ¶19
+
 <a id="e1611"></a>
-### Sir William Jones (translator of an Indian record)
-*person* · Sir William Jones, William Jones
+### Sir William Jones
+*person* — *translator of an Indian record* · William Jones
 
 **Translator of an Indian record (Asiatic Researches, vol. 1) that Atwood cites: all mental appearances except the First Cause are image or delusion.**
 
@@ -17649,7 +18787,7 @@ Atwood cites Sir William Jones's translation of an Indian record (Asiatic Resear
 **References:** II.3 n51, II.3 ¶48
 
 <a id="e1612"></a>
-### siretz
+### Siretz
 *term*
 
 **In Hermes, a kind of sulphur, identified with lions' and cats' claws.**
@@ -17671,8 +18809,8 @@ Atwood reports Geber's judgment: “next above the Covetous, Skeptics are condem
 **References:** III.4 ¶12
 
 <a id="e1614"></a>
-### the Smaragdine Tablet
-*treatise* · Smaragdine Tablet, Smaragdine Table, Emerald Table, Smagardine Table, Smagardine Tablet, Tabula Smaragdina Hermetis, the Emerald Table
+### Smaragdine Tablet
+*treatise* · Smaragdine Table, Emerald Table, Smagardine Table, Smagardine Tablet, Tabula Smaragdina Hermetis
 
 **Hermes' Tabula Smaragdina, quoted in full as comprising the working principle and total subject of the art; Atwood calls it the only Egyptian remnant of the Sacred Art.**
 
@@ -17682,7 +18820,7 @@ Atwood quotes the Tablet in full (as the Smaragdine Table, also spelled ‘Smaga
 - As the Smagardine Table, to show that both the spiritual agent and the spiritual patient must be prepared: “That which is above is as that which is below, and that which is below is as that which is above” [III.1 ¶41].
 - In the Appendix (Table Talk, a later layer), for the point about earth or the residuum: “The power is integral if it be turned into earth” [APP ¶110].
 
-**References:** APP ¶110, I.1 ¶10, I.1 ¶3, I.1 ¶7, I.1 ¶8, I.1 ¶9, I.2 ¶48, I.3 n23, II.3 n59, III.1 ¶41
+**References:** I.1 ¶10, I.1 ¶3, I.1 ¶7, I.1 ¶8, I.1 ¶9, I.2 ¶48, I.3 n23, II.3 n59, III.1 ¶41, APP ¶110
 
 <a id="e1615"></a>
 ### Socrates
@@ -17729,6 +18867,8 @@ Atwood, in the Appendix (Table Talk, begun 1860, a later layer), equates the two
 
 **Identified with:** vortex of life [APP ¶113]
 
+**See also:** [Principles](#e1399)
+
 **References:** APP ¶113
 
 <a id="e1618"></a>
@@ -17739,20 +18879,24 @@ Atwood, in the Appendix (Table Talk, begun 1860, a later layer), equates the two
 
 Voice: Flamel, as quoted. He speaks of “the Solar and Lunar Mercury, and the plantation of the one in the other” [IV.1 ¶41]. Both are cherished in the Alembic over a constant fire like the sun's. The text does not explain this further.
 
+**See also:** [Mercury](#e1065)
+
 **References:** IV.1 ¶41
 
 <a id="e1619"></a>
-### Solar Light
+### Solar light
 *term*
 
 **Light that the ethereal humidity nourishes and educates; set beside Sol as the source of all heat.**
 
 Atwood says the ethereal humidity “nourishes the Solar Light and educates it” [IV.1 ¶29]. In the same passage she sets the Solar Light beside Sol as the source of all heat.
 
+**See also:** [Light](#e0962)
+
 **References:** IV.1 ¶29
 
 <a id="e1620"></a>
-### solar sulphur
+### Solar sulphur
 *term* · souphre solaire
 
 **In the Mystere de la Croix, a solar sulphur or living philosophic gold, drawn by subtle operations from the vitriol left after Mars and Venus are conjoined.**
@@ -17761,23 +18905,27 @@ Voice: the Mystere de la Croix, as quoted. After Mars and Venus are conjoined, s
 
 **Identified with:** living philosophic gold [III.3 ¶11]
 
+**See also:** [Sulphur](#e1690)
+
 **References:** III.3 ¶11
 
 <a id="e1621"></a>
-### Solar Tincture
+### Solar tincture
 *term* · Tinctura Solaris
 
 **Atwood equates the Solar Tincture with the Aurific Light.**
 
 Atwood, in the Appendix (Table Talk, begun 1860, a later layer): “The Solar Tincture (Tinctura Solaris) is the Aurific Light.” [APP ¶92]. The term is not explained further.
 
-**Identified with:** [Aurific Light](#e0151) [APP ¶92]
+**Identified with:** [Aurific light](#e0151) [APP ¶92]
+
+**See also:** [Tincture](#e1768)
 
 **References:** APP ¶92
 
 <a id="e1622"></a>
 ### Solomon
-*person* · the wise king, Solomon (the wise king)
+*person* · the wise king
 
 **The wise king, cited throughout as a voice on Wisdom: its nature, its gift from above, its increase, and seeing all things in its Spirit.**
 
@@ -17799,11 +18947,11 @@ Others cite him within passages she quotes:
 
 In the Appendix (Table Talk, a later layer), Solomon illustrates seeing the nature and virtues of all things in the Spirit of Wisdom [APP ¶67]. He also supports not exceeding the capacity one is given: “Be not righteous overmuch” [APP ¶110].
 
-**References:** APP ¶110, APP ¶67, I.3 n45, II.1 n42, II.1 ¶44, II.3 ¶37, II.4 ¶9, III.1 n51, III.1 ¶45, III.3 n34, III.3 ¶49, III.4 ¶35, IV.1 ¶6, IV.3 n18, IV.3 ¶34, IV.3 ¶39
+**References:** I.3 n45, II.1 n42, II.1 ¶44, II.3 ¶37, II.4 ¶9, III.1 n51, III.1 ¶45, III.3 n34, III.3 ¶49, III.4 ¶35, IV.1 ¶6, IV.3 n18, IV.3 ¶34, IV.3 ¶39, APP ¶110, APP ¶67
 
 <a id="e1623"></a>
-### solution
-*term* · Solution, solve, solved
+### Solution
+*term* · solve, solved
 
 **The dissolving that is the first work and foundation of the art: the body reduced to water or mercury; for Atwood, also the separation of the sensuous medium and a converting comprehension.**
 
@@ -17823,7 +18971,9 @@ In the Appendix (Table Talk, begun 1860, a later layer):
 
 **Identified with:** dissolved essence [APP ¶144]; separation of the sensuous medium [APP ¶176]; comprehend [II.2 ¶15]
 
-**References:** APP ¶115, APP ¶144, APP ¶176, I.2 ¶5, II.2 ¶15, II.2 ¶16, III.2 ¶64, IV.1 ¶36
+**See also:** [Dissolution](#e0393)
+
+**References:** I.2 ¶5, II.2 ¶15, II.2 ¶16, III.2 ¶64, IV.1 ¶36, APP ¶115, APP ¶144, APP ¶176
 
 <a id="e1624"></a>
 ### Solve, Coagula, Fige
@@ -17835,19 +18985,9 @@ A verse on the fixed and the volatile closes with this formula: “Solve, Coagul
 
 **References:** I.2 ¶21
 
-<a id="e1625"></a>
-### some modern Kabalists
-*collective voice* · modern Kabalists
-
-**Unnamed modern Kabalists whom Atwood cites to explain the nebulous apparition of the Catholic Embryo and the primitive Ether.**
-
-Atwood cites some modern Kabalists for their explanation of the nebulous apparition of the Catholic Embryo and the primitive Ether as “an absolute concentration of Divinity within its original identity” [III.2 ¶13].
-
-**References:** III.2 ¶13
-
 <a id="e1626"></a>
-### son
-*term* · Son
+### Son
+*term*
 
 **In Hermes, the son of king and red daughter, who takes his tincture from the fire and bears the Philosophic Matter: the whole quintessential nature concentrated and personified.**
 
@@ -17860,7 +19000,7 @@ Voice: the Master, as quoted. The Son is dead and then lives: “The Dragon shun
 **References:** I.3 ¶35, IV.2 ¶14
 
 <a id="e1627"></a>
-### the son of Dirach
+### Son of Dirach
 *person*
 
 **Cited authority (Eccles.) whom Atwood uses to show that Wisdom first tries her follower with fear before revealing her Secret.**
@@ -17875,10 +19015,12 @@ Cited by Atwood (Eccles. 1:20; 4:17, 18, 28) in support of the point that Wisdom
 
 Cited for reference only.
 
+**See also:** [Sol](#e1616)
+
 **References:** APP ¶119
 
 <a id="e1629"></a>
-### sons of Art
+### Sons of art
 *term*
 
 **Basil's name for practitioners of the Art, who all aim at the 'harbor' reached when the Matter's bonds are loosed after its due time.**
@@ -17909,7 +19051,7 @@ Cited by Atwood as illustrating the same point as the surrounding passage: “Li
 
 <a id="e1632"></a>
 ### Soul
-*term* · soul, human soul
+*term* · human soul
 
 **In Atwood's Table Talk, the soul is the body's ultimate perfection, a mesothesis between two spheres, and in its metalline perfection the philosopher's stone.**
 
@@ -17920,7 +19062,7 @@ In the Appendix (Table Talk, a later layer), Atwood writes: “The human soul is
 **References:** APP ¶178, APP ¶181
 
 <a id="e1633"></a>
-### soul of Deity
+### Soul of Deity
 *term*
 
 **In Sendivogius as quoted, what man possesses and other creatures, which have only spirit, lack.**
@@ -17930,7 +19072,7 @@ Sendivogius, as quoted, distinguishes man from other creatures, which “have on
 **References:** II.1 ¶10
 
 <a id="e1634"></a>
-### soul of gold
+### Soul of gold
 *term*
 
 **An ingredient in Hermes' recipe, identified with the Meridian Redness and, by the Scholiast, with the true aurific principle that perfects the seven bodies.**
@@ -17939,21 +19081,25 @@ In Hermes' recipe as quoted, the soul of gold is one ingredient, identified with
 
 **Identified with:** Meridian Redness [I.3 ¶6]; true aurific principle [I.3 n65]
 
+**See also:** [Gold](#e1754)
+
 **References:** I.3 n65, I.3 ¶6
 
 <a id="e1635"></a>
-### Spagyric Works
+### Spagyric works
 *term*
 
 **Works in which, Atwood says, the adepts esoterically credit prayer with efficacy when the mind is lifted up; not further defined.**
 
 Atwood notes that “adepts are eloquent in their imputations of its efficacy in Spagyric Works, when the mind is lifted up” [III.4 ¶22], referring to prayer. The text does not define Spagyric Works further.
 
+**See also:** [Works](#e1953)
+
 **References:** III.4 ¶22
 
 <a id="e1636"></a>
-### species
-*term* · Species
+### Species
+*term*
 
 **The specific kind of a thing (lead as lead); indestructible and not transmutable, contrasted with the Universal Subject to which transmutation actually relates.**
 
@@ -17962,7 +19108,7 @@ Atwood uses species in a special sense: the specific kind of a thing, as lead co
 **References:** I.2 ¶4, IV.4 ¶2
 
 <a id="e1637"></a>
-### speculation of Wholes
+### Speculation of wholes
 *term*
 
 **Contemplation in which, according to Proclus, the same order holds as in the Mysteries: phantasms first, illumination afterwards.**
@@ -17972,7 +19118,7 @@ Proclus, as quoted, says that “the same method takes place in the speculation 
 **References:** II.3 ¶22
 
 <a id="e1638"></a>
-### sperme
+### Sperme
 *term*
 
 **In Pierce the Black Monk's verse, a seed taken out of a body that contains all things, set against common gold and silver.**
@@ -17981,9 +19127,9 @@ In verse quoted from Pierce, the Black Monk, the sperme is a seed drawn from a b
 
 **References:** III.4 ¶21
 
-<a id="e1639"></a>
+<a id="e1639"></a><a id="e1640"></a>
 ### Sphinx
-*term* · the Sphinx
+*term*
 
 **Atwood's figure for the Ether, Door-keeper of the Egyptian Mysteries, whose enigma must be fully solved lest she regain dominion over the work.**
 
@@ -17991,27 +19137,23 @@ Atwood says the Egyptians placed the Sphinx in the vestibule of Isis, and identi
 
 In the practice, the Sphinx is a power that must be fully overcome: if the dissolution is left incomplete before the total solution of her enigma, “the Sphinx should retrieve her dominion unawares and frustrate the work begun” [IV.1 ¶7].
 
+*Sphinx.* Atwood cites the Sphinx as the barrier at the vestibule that perplexes intruders and admits only philosophers [IV.4 ¶5]. She uses Oedipus' solving of the riddle to illustrate the rational penetration of one's own natural understanding: one who, “like Oedipus, is able to solve the Enigma of the Sphinx” [IV.1 ¶48]. See also the term Sphinx.
+
 **Identified with:** [Ether](#e0508) [III.1 ¶5]; Door-keeper of the Egyptian Mysteries [III.1 ¶6]
 
-**References:** III.1 ¶5, III.1 ¶6, IV.1 ¶7
+**See also:** [Sphinx’s fables](#e1641)
 
-<a id="e1640"></a>
-### the Sphinx
-*person* · Sphinx
-
-**The fabled Sphinx, cited as the barrier at the vestibule admitting only philosophers, whose riddle Oedipus solved.**
-
-Atwood cites the Sphinx as the barrier at the vestibule that perplexes intruders and admits only philosophers [IV.4 ¶5]. She uses Oedipus' solving of the riddle to illustrate the rational penetration of one's own natural understanding: one who, “like Oedipus, is able to solve the Enigma of the Sphinx” [IV.1 ¶48]. See also the term Sphinx.
-
-**References:** IV.1 ¶48, IV.4 ¶5
+**References:** III.1 ¶5, III.1 ¶6, IV.1 ¶48, IV.1 ¶7, IV.4 ¶5
 
 <a id="e1641"></a>
-### the Sphinx’s fables
+### Sphinx’s fables
 *collective voice*
 
 **Fables cited by Atwood to illustrate the reduction to a simple estate of Being.**
 
 Atwood cites these fables to illustrate the reduction to a simple estate of Being, with the image of something “carried within the temple upon the back of an ass” [III.2 ¶64].
+
+**See also:** [Sphinx](#e1639)
 
 **References:** III.2 ¶64
 
@@ -18037,7 +19179,7 @@ Atwood names Spinoza among metaphysicians and speculators on the same experiment
 
 <a id="e1644"></a>
 ### Spirit
-*term* · spirit, spirits, the Spirit
+*term* · spirits
 
 **The life-principle of the matter, whose association sums up the Art; in the work it wakes, unifies, builds its own vessel, and (per Eudoxus) is the tie of soul and body, called Eve and Mercury.**
 
@@ -18054,8 +19196,8 @@ Atwood names Spinoza among metaphysicians and speculators on the same experiment
 **References:** I.3 n59, I.3 ¶49, III.3 ¶78, III.4 ¶27, III.4 ¶28, III.4 ¶32, III.4 ¶40, IV.3 ¶10, IV.3 ¶12, IV.3 ¶7
 
 <a id="e1645"></a>
-### spirit of nature
-*term* · Spirit of Nature, spirit of Nature
+### Spirit of nature
+*term*
 
 **In Atwood's Table Talk, nature's spirit is all imagination, realizing its imaginings in aromal essences; literal chemists vainly hoped to sublime it with lifeless instruments.**
 
@@ -18063,7 +19205,7 @@ In the Appendix (Table Talk, a later layer), Atwood writes: “The spirit of nat
 
 In the main text she criticizes literal chemists who worked with stills and furnaces “in hope by such lifeless instruments to sublime the Spirit of Nature” [I.1 ¶86], implying that such instruments cannot do it.
 
-**References:** APP ¶122, I.1 ¶86
+**References:** I.1 ¶86, APP ¶122
 
 <a id="e1646"></a>
 ### Spirit of the Lord
@@ -18075,6 +19217,8 @@ The Apostle, as quoted: where the Spirit of the Lord is, there is liberty, and i
 
 **Identified with:** the Lord [III.3 ¶59]
 
+**See also:** [Lord](#e1256)
+
 **References:** III.3 ¶59
 
 <a id="e1647"></a>
@@ -18084,6 +19228,8 @@ The Apostle, as quoted: where the Spirit of the Lord is, there is liberty, and i
 **Spirit in its natural state, which Atwood calls degraded and incapable of true intelligence: diseased, falsifying and dulled until clarified.**
 
 Atwood reports the condemnation of “the Spirit of the natural life as degraded and incapable of true intelligence” [II.2 ¶8], and asks “in what the disease of the Spirit consists” [II.2 ¶9]. In this state the spirit is diseased, falsifying and dulled until it is clarified.
+
+**See also:** [Life](#e0960)
 
 **References:** II.2 ¶8, II.2 ¶9
 
@@ -18095,20 +19241,24 @@ Atwood reports the condemnation of “the Spirit of the natural life as degraded
 
 Atwood writes of “the vindicative Spirit of Wisdom for the justification of her Rule” [IV.3 ¶56]. “The Spirit of Wisdom runs lovingly by her own Rule to fulfill it” [IV.3 ¶56], but leaves in confusion whoever turns from the Divine purpose to private ends.
 
+**See also:** [Wisdom](#e1943)
+
 **References:** IV.3 ¶56
 
 <a id="e1649"></a>
-### the Spirit to Dr Dee
+### Spirit to Dr Dee
 *collective voice*
 
 **The Spirit's words to Dr Dee (Dee’s Conversat.), cited by Atwood in support of steadfastly continuing the labor to its end.**
 
 Atwood cites the Spirit's words to Dr Dee (Dee’s Conversat.) in support of continuing the labor steadfastly to the end: “to fight against the Powers of Darkness requires great force” [IV.1 ¶7; IV.1 n8].
 
+**See also:** [Dr Dee](#e0366)
+
 **References:** IV.1 n8, IV.1 ¶7
 
 <a id="e1650"></a>
-### spirit-man
+### Spirit-man
 *term*
 
 **In Atwood's Table Talk, the spiritual man within the natural man, whose work is to move the Ether.**
@@ -18118,7 +19268,7 @@ In the Appendix (Table Talk, a later layer): “There is a spirit-man within the
 **References:** APP ¶139
 
 <a id="e1651"></a>
-### spirit-suggestions
+### Spirit-suggestions
 *term*
 
 **In Atwood's Table Talk, promptings from spirits, which give the spirits footing in the life when uttered.**
@@ -18128,37 +19278,43 @@ In the Appendix (Table Talk, a later layer), Atwood warns: “To utter from spir
 **References:** APP ¶127
 
 <a id="e1652"></a>
-### spiritual agent and spiritual patient
+### Spiritual agent and spiritual patient
 *term* · spiritual agent, spiritual patient, agent, patient
 
 **The work's two principles, active and receptive: equal Spirits that must both be prepared and allied, each dying in the other so their reunion yields new life.**
 
 Atwood names the two principles of the work, active and receptive, as equal Spirits that must both be made ready and brought together: “Both therefore have to be prepared --- the spiritual agent and the spiritual patient” [III.1 ¶41]. Each dies in the other, “by death and contrition of the agent in the patient, and vice versa” [III.1 ¶49]. The old life is crucified, and their reunion under another law brings forth the new life.
 
+**See also:** [Agent](#e0031), [Agent and patient](#e0032), [Patient](#e1289)
+
 **References:** III.1 ¶41, III.1 ¶49
 
 <a id="e1653"></a>
-### spiritual fermentation
+### Spiritual fermentation
 *term*
 
 **Fermentation performed by multiplying the tinctures, not by using common gold or silver.**
 
 Atwood: “The spiritual fermentation is performed by multiplying the tinctures” [IV.3 ¶21], and not with common gold or silver.
 
+**See also:** [Fermentation](#e0564)
+
 **References:** IV.3 ¶21
 
 <a id="e1654"></a>
-### spiritual generation
+### Spiritual generation
 *term*
 
 **Generation under the law that the parent is bettered in the offspring, up to a fourth or fifth generation.**
 
 Atwood states “the Law especial of spiritual generation that the parent is bettered in the offspring” [III.1 ¶30], up to a fourth or fifth generation.
 
+**See also:** [Generation](#e0661)
+
 **References:** III.1 ¶30
 
 <a id="e1655"></a>
-### spiritual guide
+### Spiritual guide
 *term*
 
 **The one whose constitution and instinct determine how the conditions of the work vary; not further defined.**
@@ -18168,17 +19324,19 @@ Atwood says that the work's conditions are those “which vary with the constitu
 **References:** III.4 ¶42
 
 <a id="e1656"></a>
-### spiritual intellect
+### Spiritual Intellect
 *term*
 
 **The intellect which natural reason helps bring into self-knowledge, and which then turns back on the outer life to analyze and transform it.**
 
 Atwood describes natural reason as helping to introduce the spiritual intellect into self-knowledge. Once there, “this latter, returning with power upon the life without, proceeds to analyze and revolutionize” [III.1 ¶13] that outer life 'chemically'. The phrase that follows, 'this vital perscrutinator' (the operating agent of the change), apparently refers to this same intellect.
 
+**See also:** [Intellect](#e0867)
+
 **References:** III.1 ¶13
 
 <a id="e1657"></a>
-### spiritual rock
+### Spiritual rock
 *term*
 
 **In St. Paul's words as quoted, the rock that followed the Fathers and gave them spiritual drink, identified with Christ.**
@@ -18190,12 +19348,14 @@ St. Paul, as quoted, says the Fathers drank spiritual drink: “they drank of th
 **References:** III.3 ¶59
 
 <a id="e1658"></a>
-### spiritual union
+### Spiritual union
 *term*
 
 **A union that, Atwood says, man can neither cement nor increase by his own power.**
 
 Atwood says man can “neither cement the spiritual union or give it increase” [III.4 ¶20].
+
+**See also:** [Union](#e1838)
 
 **References:** III.4 ¶20
 
@@ -18219,23 +19379,15 @@ Atwood cites him as mentioning a certain work without doubting its authenticity,
 
 **References:** I.1 n12, I.1 ¶11, I.1 ¶18, II.2 ¶3, II.2 ¶9, II.4 ¶15
 
-<a id="e1661"></a>
-### St. John
-*person* · St John, St John, the Evangelist Apostle
-
-**The Evangelist, cited by Atwood for the Word as Life and Light, for Christ as the Word of Life manifested, and as a practitioner of the Occult Art.**
-
-From the first chapter of his Gospel Atwood takes the Word/Light shining in darkness as the same Light: “In Him was Life; and the Life was the Light of men.” [II.3 ¶54, II.3 n60], and also the power to become sons of God [II.3 ¶55]. From the First Epistle she takes Christ as the Word of Life made manifest, the one awaited by prophets and philosophers: “That which was from the Beginning, which they had heard, and seen with their eyes” [IV.2 ¶15, IV.2 n10]. As St John, the Evangelist Apostle, he is cited as practising the Occult Art for the poor, healing and making gold, silver and gems; St Victor's commentary relates the particulars [I.1 ¶24]. See also St John’s Gospel.
-
-**References:** I.1 ¶24, II.3 n60, II.3 ¶54, II.3 ¶55, IV.2 n10, IV.2 ¶15
-
 <a id="e1662"></a>
 ### St John’s Gospel
-*treatise* · St John's Gospel
+*treatise*
 
 **The Gospel, cited by Atwood for those to whom the Word of God came being called gods, and for the True Light perfected in the Saviour.**
 
 Atwood cites chapter 10 for the point that those to whom the Word of God came are called gods, set against unbelief: “thou blasphemest, because I said I am the Son of God” [III.3 ¶59, III.3 n37]. She also cites it for the True Light perfected in the Saviour, whose ray cleanses life: “The True Light, which lighteth every man that cometh into the world” [IV.2 ¶19, IV.2 n17].
+
+**See also:** [Gospel](#e0685)
 
 **References:** III.3 n37, III.3 ¶59, IV.2 n17, IV.2 ¶19
 
@@ -18249,9 +19401,9 @@ Atwood cites him to illustrate baptism by Water versus baptism by the Holy Ghost
 
 **References:** IV.2 n11, IV.2 ¶15
 
-<a id="e1664"></a>
+<a id="e1664"></a><a id="e0692"></a>
 ### St Paul
-*person* · St. Paul
+*person* · St. Paul, the great Apostle
 
 **Cited often by Atwood, chiefly in the Appendix, for the body as temple, the marriage-union of man and God, regeneration, and the purity of the Art.**
 
@@ -18259,7 +19411,9 @@ In the main text Atwood cites 1 Cor. 10:1-4 on the Fathers baptized in cloud and
 
 In the Appendix (Table Talk, a later layer) he supports the body as a temple of the Holy Ghost, its members a laboratory for the spirit [APP ¶16]; hints at the marriage-union between man and God in Christ [APP ¶79]; and his Epistles are said to be better understood in the atmosphere of the higher Mystics than through professed commentators [APP ¶118]. Atwood reads “the letter killeth” as meaning the living letter of the law is too powerful a test for man's spirit [APP ¶143], and takes “It is sown in corruption, it is raised in incorruption” as the law of regeneration of the anima media, seed of spirit growing to spirit [APP ¶147].
 
-**References:** APP ¶118, APP ¶143, APP ¶147, APP ¶16, APP ¶79, III.3 n40, III.3 ¶59, III.4 n25, IV.2 n10, IV.2 n13, IV.2 ¶17, IV.4 ¶24
+*Great Apostle (St Paul).* Atwood cites the great Apostle (St Paul), 1 Corinthians 15:37 [III.1 n36], to support the principle that what is sown must die to be quickened and rises in a better form: “thou sowest not that body that shall be” [III.1 ¶30]. She uses the passage approvingly.
+
+**References:** III.1 n36, III.1 ¶30, III.3 n40, III.3 ¶59, III.4 n25, IV.2 n10, IV.2 n13, IV.2 ¶17, IV.4 ¶24, APP ¶118, APP ¶143, APP ¶147, APP ¶16, APP ¶79
 
 <a id="e1665"></a>
 ### St Victor
@@ -18270,6 +19424,16 @@ In the Appendix (Table Talk, a later layer) he supports the body as a temple of 
 Atwood cites a commentary by St Victor as relating the particulars of St John's practice (healing and making gold, silver and gems for the poor) [I.1 ¶24].
 
 **References:** I.1 ¶24
+
+<a id="e1661"></a>
+### St. John
+*person* · St John, St John, the Evangelist Apostle
+
+**The Evangelist, cited by Atwood for the Word as Life and Light, for Christ as the Word of Life manifested, and as a practitioner of the Occult Art.**
+
+From the first chapter of his Gospel Atwood takes the Word/Light shining in darkness as the same Light: “In Him was Life; and the Life was the Light of men.” [II.3 ¶54, II.3 n60], and also the power to become sons of God [II.3 ¶55]. From the First Epistle she takes Christ as the Word of Life made manifest, the one awaited by prophets and philosophers: “That which was from the Beginning, which they had heard, and seen with their eyes” [IV.2 ¶15, IV.2 n10]. As St John, the Evangelist Apostle, he is cited as practising the Occult Art for the poor, healing and making gold, silver and gems; St Victor's commentary relates the particulars [I.1 ¶24]. See also St John’s Gospel.
+
+**References:** I.1 ¶24, II.3 n60, II.3 ¶54, II.3 ¶55, IV.2 n10, IV.2 ¶15
 
 <a id="e1666"></a>
 ### Stanley
@@ -18290,7 +19454,7 @@ In a footnote Atwood cites Starkey's Pyrotechny Asserted as eyewitness testimony
 **References:** I.1 n93, I.1 ¶73
 
 <a id="e1668"></a>
-### steel
+### Steel
 *term*
 
 **A name Cosmopolite, as reported by Eudoxus, gives to the Mercury, alongside 'lodestone'.**
@@ -18313,7 +19477,7 @@ Atwood cites an ancient record preserved by Stoboeus for the conformity of death
 
 <a id="e1670"></a>
 ### Stone
-*term* · stone, Philosopher’s Stone, Philosopher's Stone, philosophers’ stone, Philosophers' stone, Philosophic Stone, philosophic stone, Stone of Philosophers, lapidem philosophorum
+*term* · Philosopher’s Stone, philosophers’ stone, Philosophic Stone, Stone of Philosophers, lapidem philosophorum
 
 **The object and perfected product of the Art: for Atwood, the concentrated, fermented Ether or Light of nature, a real entity of spiritual generation, and the soul in its perfection.**
 
@@ -18325,22 +19489,24 @@ In the Appendix (later layer) it is “the efflux of such a life, drawn to a foc
 
 **History.** Treatises on it are ascribed to Aristotle, the Alexandrian adepts and Artephius [I.1 ¶16, I.1 ¶27]; it was never found when sought “from selfish motives and a blind love of gain” [I.1 ¶39]; Ripley sought it in vain with common substances [I.1 ¶65]; Van Helmont says “I have seen the Stone and handled it” [I.1 ¶76].
 
-**Identified with:** life as it is [APP ¶132]; foetant spirit and living water [I.2 ¶11]; [permanent water](#e1292) [I.2 ¶29]; pure Ethereality of nature [I.2 ¶44]; fermented Spirit [I.2 ¶48]; Stone of Fire / seed of gold [I.2 ¶44]; feminine of magnesia, hen, white spittle, volatile milk, incombustible ash [I.3 ¶11]; Philosopher's Stone [I.3 ¶11]; [Botri](#e0206) [I.3 n52]; most precious gold without spots [I.3 ¶60]; Universal Ferment [I.3 ¶60]; [true medicine](#e1802) [II.3 ¶29]; new hypostasis [II.3 ¶52]; Terra Maga in aethere clarificata [II.3 ¶52]; Stone with the new name in Revelation [II.3 ¶54]; principle of regeneration [III.1 ¶50]; vapour [III.2 ¶7]; our King [III.3 ¶19]; [sea of the wise](#e1554) [IV.3 ¶3]; vine of the Wise [IV.3 ¶5]; [astral fire](#e0144) [IV.3 ¶16]; concrete Essence of Light [APP ¶6]; real ens of light [APP ¶93]; the soul in its perfection [APP ¶181]; [Ruach Elohim](#e1520) [III.3 ¶50]; [tincture](#e1768) [IV.3 ¶38]; the Hermetic method and its end (the line returning into a circle) [IV.3 ¶62]; concentrated virtue of the Universal Subject [IV.4 ¶2]; transmutative ferment / Form of Gold / ray of motive Light [IV.4 ¶9]; pure petrification of the Spirit [IV.1 ¶29]
+**Identified with:** life as it is [APP ¶132]; foetant spirit and living water [I.2 ¶11]; [Permanent water](#e1292) [I.2 ¶29]; pure Ethereality of nature [I.2 ¶44]; fermented Spirit [I.2 ¶48]; Stone of Fire / seed of gold [I.2 ¶44]; feminine of magnesia, hen, white spittle, volatile milk, incombustible ash [I.3 ¶11]; Philosopher's Stone [I.3 ¶11]; [Botri](#e0206) [I.3 n52]; most precious gold without spots [I.3 ¶60]; Universal Ferment [I.3 ¶60]; [True medicine](#e1802) [II.3 ¶29]; new hypostasis [II.3 ¶52]; Terra Maga in aethere clarificata [II.3 ¶52]; Stone with the new name in Revelation [II.3 ¶54]; principle of regeneration [III.1 ¶50]; vapour [III.2 ¶7]; our King [III.3 ¶19]; [Sea of the wise](#e1554) [IV.3 ¶3]; vine of the Wise [IV.3 ¶5]; [Astral fire](#e0144) [IV.3 ¶16]; concrete Essence of Light [APP ¶6]; real ens of light [APP ¶93]; the soul in its perfection [APP ¶181]; [Ruach Elohim](#e1520) [III.3 ¶50]; [Tincture](#e1768) [IV.3 ¶38]; the Hermetic method and its end (the line returning into a circle) [IV.3 ¶62]; concentrated virtue of the Universal Subject [IV.4 ¶2]; transmutative ferment / Form of Gold / ray of motive Light [IV.4 ¶9]; pure petrification of the Spirit [IV.1 ¶29]
 
-**References:** APP ¶108, APP ¶132, APP ¶139, APP ¶181, APP ¶6, APP ¶93, I.1 ¶16, I.1 ¶20, I.1 ¶27, I.1 ¶39, I.1 ¶49, I.1 ¶57, I.1 ¶64, I.1 ¶65, I.1 ¶68, I.1 ¶76, I.2 ¶11, I.2 ¶26, I.2 ¶29, I.2 ¶44, I.2 ¶48, I.3 n13, I.3 n52, I.3 n55, I.3 n70, I.3 ¶11, I.3 ¶13, I.3 ¶26, I.3 ¶60, II.2 ¶25, II.3 ¶29, II.3 ¶30, II.3 ¶41, II.3 ¶52, II.3 ¶54, III.1 ¶49, III.1 ¶50, III.1 ¶61, III.1 ¶68, III.1 ¶69, III.2 ¶7, III.3 ¶19, III.3 ¶31, III.3 ¶50, IV.1 ¶12, IV.1 ¶29, IV.1 ¶7, IV.2 ¶34, IV.2 ¶36, IV.3 ¶16, IV.3 ¶20, IV.3 ¶27, IV.3 ¶28, IV.3 ¶3, IV.3 ¶38, IV.3 ¶5, IV.3 ¶62, IV.4 ¶2, IV.4 ¶20, IV.4 ¶9
+**References:** I.1 ¶16, I.1 ¶20, I.1 ¶27, I.1 ¶39, I.1 ¶49, I.1 ¶57, I.1 ¶64, I.1 ¶65, I.1 ¶68, I.1 ¶76, I.2 ¶11, I.2 ¶26, I.2 ¶29, I.2 ¶44, I.2 ¶48, I.3 n13, I.3 n52, I.3 n55, I.3 n70, I.3 ¶11, I.3 ¶13, I.3 ¶26, I.3 ¶60, II.2 ¶25, II.3 ¶29, II.3 ¶30, II.3 ¶41, II.3 ¶52, II.3 ¶54, III.1 ¶49, III.1 ¶50, III.1 ¶61, III.1 ¶68, III.1 ¶69, III.2 ¶7, III.3 ¶19, III.3 ¶31, III.3 ¶50, IV.1 ¶12, IV.1 ¶29, IV.1 ¶7, IV.2 ¶34, IV.2 ¶36, IV.3 ¶16, IV.3 ¶20, IV.3 ¶27, IV.3 ¶28, IV.3 ¶3, IV.3 ¶38, IV.3 ¶5, IV.3 ¶62, IV.4 ¶2, IV.4 ¶20, IV.4 ¶9, APP ¶108, APP ¶132, APP ¶139, APP ¶181, APP ¶6, APP ¶93
 
 <a id="e1671"></a>
-### the Stone of Fire
+### Stone of Fire
 *collective voice*
 
 **Heading under which readers filed an unattributed Latin saying attached to the summary that the Art consists in an association of the Spirit.**
 
 An unattributed Latin saying, “Ut ventus qui fiat est ille qui dat. --- Qui capit ille sapit.” (ours, roughly: as the wind that blows is the one that gives; who grasps it is wise), is attached to the summary that the Art consists in an association of the Spirit [I.3 n59]. Elsewhere an adept calls the seed of gold “the Stone of Fire” (see Stone) [I.2 ¶44].
 
+**See also:** [Fire](#e0575)
+
 **References:** I.3 n59, I.3 n66
 
 <a id="e1672"></a>
-### Stone of the Wise
+### Stone of the wise
 *term*
 
 **Atwood's name for the product of the work: the perfected lowest life, completed in three circulations and analogous to the Head Stone of the Corner.**
@@ -18349,10 +19515,12 @@ Atwood says “the Stone of the Wise is the perfected lowest life, its true cons
 
 **Identified with:** perfected lowest life [APP ¶46]
 
-**References:** APP ¶46, IV.2 ¶33
+**See also:** [The Wise](#e1944)
+
+**References:** IV.2 ¶33, APP ¶46
 
 <a id="e1673"></a>
-### story of an Arabian Magician
+### Story of an Arabian Magician
 *collective voice*
 
 **A tale Atwood cites to illustrate that wickedness bars approach to the material of the Art.**
@@ -18389,17 +19557,21 @@ Atwood calls it “even the common Subject of their Art”, which the adepts nev
 
 Atwood says “the Subject Identity slides evermore behind the retardant mind” — reason alone cannot grasp it [II.1 ¶32].
 
+**See also:** [Identity](#e0822)
+
 **References:** II.1 ¶32
 
 <a id="e1677"></a>
-### Subject Matter
-*term* · subject-matter, Subject-matter
+### Subject matter
+*term* · subject-matter
 
 **What the work is performed on, constantly concealed by the adepts; also what underlies a species, corruptible and transferable, identified with the metals' radical moisture.**
 
 Atwood notes that even candid texts such as Norton's Ordinal conceal it: “with the exception of the Subject Matter and certain preliminaries, which are constantly concealed” [I.1 ¶64]. In a second sense it is what underlies a species: not species, “but the Subjects of species rather, since they are corruptible and may be changed”, so it can be freed and transferred to another form [I.2 ¶5]; of the metals she speaks of “the subject-matter of these metals, the radical moisture of which they are uniformly composed” [I.2 ¶4].
 
-**Identified with:** [radical moisture](#e1452) [I.2 ¶4]
+**Identified with:** [Radical moisture](#e1452) [I.2 ¶4]
+
+**See also:** [Matter](#e1043)
 
 **References:** I.1 ¶64, I.2 ¶4, I.2 ¶5
 
@@ -18416,27 +19588,31 @@ In a summary gathered from Plotinus and Porphyry, endorsed by Atwood, it is dist
 **References:** III.2 ¶47, III.2 ¶49
 
 <a id="e1679"></a>
-### subject soul
+### Subject soul
 *term*
 
 **The soul that suffers when pressed by evil and must be filled by a superior or an inferior power.**
 
 Atwood asks: “And what will not the subject soul suffer when pressed by so execrable an evil?” — such a soul must be filled by a superior or an inferior power [III.4 ¶6]. The sense of 'subject' here is left open.
 
+**See also:** [Soul](#e1632)
+
 **References:** III.4 ¶6
 
 <a id="e1680"></a>
-### Subject Waters
+### Subject waters
 *term*
 
 **In an unattributed saying, the matter pierced by Divine Light, in which the pattern of the universe appears as in a glass.**
 
 Quoted with 'it is said': when Divine Light pierces their bosom, “the pattern of the whole universe appears in those Subject Waters, as an image in a glass” [III.3 ¶39].
 
+**See also:** [Water](#e1920)
+
 **References:** III.3 ¶39
 
 <a id="e1681"></a>
-### subject-being
+### Subject-being
 *term*
 
 **The cause of mesmerism's own effects, which, Atwood says, mesmerism has not investigated.**
@@ -18456,7 +19632,7 @@ Atwood says that by actual subversion of the selfhood “they made their Sublima
 **References:** IV.1 ¶47
 
 <a id="e1683"></a>
-### sublimation
+### Sublimation
 *term*
 
 **The raising of the Spirit through degrees of concentrated essentiality; an operation that volatilizes and washes it and separates subtle from gross parts.**
@@ -18466,7 +19642,7 @@ For Atwood, by grafting and transplanting “a growth and sublimation of the Spi
 **References:** III.1 ¶9, III.2 ¶64, IV.2 ¶35, IV.3 ¶5
 
 <a id="e1684"></a>
-### Substant Unity
+### Substant unity
 *term*
 
 **The unity of all that is: fountain of Universal nature and her Exemplary Law, and source of miracles and every natural and supernatural increase.**
@@ -18485,12 +19661,12 @@ Atwood calls it “the Substant Unity of all that is; the fountain of Universal 
 
 Atwood speaks of “that Subtendent which is found seminally equal to the whole of the parts whence it is derived”, and identifies it with the dry splendour: “this is that Tincture of the Sapphiric Mine before alluded to, and that Subtendent” [III.3 ¶71].
 
-**Identified with:** [tincture of the Sapphiric Mine](#e1770) [III.3 ¶71]
+**Identified with:** [Tincture of the Sapphiric mine](#e1770) [III.3 ¶71]
 
 **References:** III.3 ¶71
 
 <a id="e1686"></a>
-### Subtle Nature
+### Subtle nature
 *term*
 
 **A nature pervading the universe, the All in everything, and alterable by art throughout.**
@@ -18519,19 +19695,9 @@ Atwood cites Suidas for placing Hermes before the Pharoahs, about 400 years befo
 
 **References:** I.1 n24, I.1 n6, I.1 n8, I.1 ¶18, I.1 ¶6
 
-<a id="e1689"></a>
-### sulfuric Spirit
-*term*
-
-**The sharp, discriminating spirit of the working leaven, which enters the philosopher's Mercury and causes it to putrefy.**
-
-Atwood describes the sharp, discriminating spirit of the working leaven, which enters the philosopher's Mercury and makes it putrefy: “this acute discriminative sulfuric Spirit occasions a putrefaction of the philosopher’s Mercury” [III.1 ¶24].
-
-**References:** III.1 ¶24
-
 <a id="e1690"></a>
 ### Sulphur
-*term* · sulphur, sulfur, Sulfur, sulphurs, sulfurs, Sulfurs, fixed Sulphur, false sulphurs, impure sulphurs
+*term* · sulphurs, fixed Sulphur, false sulphurs, impure sulphurs
 
 **One of the three principles: the hidden active, luminous ferment or soul of the matter, bound and imprisoned until it is freed, purified and fixed as the seed of gold.**
 
@@ -18543,10 +19709,12 @@ Atwood describes the sharp, discriminating spirit of the working leaven, which e
 
 **Identified with:** the pure light of life [APP ¶125]; masculine ferment; divine ferment [APP ¶182]; this third, this obscure, this radical life [APP ¶183]; fatness of our earth [I.3 ¶20]; [Light](#e0962) [I.3 n25]; unguents [I.3 ¶24]; occult luminous principle of vitalization [I.3 n24]; the virtue (of the red fire-form) [III.3 ¶24]; precious ferment, balm of Nature, wonderful unguent [IV.3 ¶8]; the fixed (per Geber) [IV.3 ¶9]; vital flame [I.3 n5]; [Light](#e0962) [I.3 n40]; the re-entering Light of Reason in the Mysteries [II.3 ¶30]; [Soul](#e1632) [III.1 ¶53]; golden ferment [III.1 ¶53]; forms [APP ¶87]; desires, phantasms [APP ¶94]
 
-**References:** APP ¶125, APP ¶182, APP ¶183, APP ¶87, APP ¶94, I.3 n24, I.3 n25, I.3 n29, I.3 n40, I.3 n5, I.3 ¶20, I.3 ¶21, I.3 ¶24, II.3 ¶30, III.1 ¶53, III.1 ¶61, III.3 ¶24, III.3 ¶30, IV.1 ¶10, IV.2 ¶35, IV.3 ¶12, IV.3 ¶16, IV.3 ¶3, IV.3 ¶7, IV.3 ¶8, IV.3 ¶9
+**See also:** [Fixed sulphur](#e0612)
+
+**References:** I.3 n24, I.3 n25, I.3 n29, I.3 n40, I.3 n5, I.3 ¶20, I.3 ¶21, I.3 ¶24, II.3 ¶30, III.1 ¶53, III.1 ¶61, III.3 ¶24, III.3 ¶30, IV.1 ¶10, IV.2 ¶35, IV.3 ¶12, IV.3 ¶16, IV.3 ¶3, IV.3 ¶7, IV.3 ¶8, IV.3 ¶9, APP ¶125, APP ¶182, APP ¶183, APP ¶87, APP ¶94
 
 <a id="e1691"></a>
-### sulphur tingens
+### Sulphur tingens
 *term*
 
 **A notion the quoted adept dismisses as one of the impostors' fables.**
@@ -18554,6 +19722,18 @@ Atwood describes the sharp, discriminating spirit of the working leaven, which e
 The adept quoted by Atwood rejects it: “those imposters who tell you of a sulphur tingens, and I know not what fables” [I.2 ¶8].
 
 **References:** I.2 ¶8
+
+<a id="e1689"></a>
+### Sulphuric spirit
+*term*
+
+**The sharp, discriminating spirit of the working leaven, which enters the philosopher's Mercury and causes it to putrefy.**
+
+Atwood describes the sharp, discriminating spirit of the working leaven, which enters the philosopher's Mercury and makes it putrefy: “this acute discriminative sulfuric Spirit occasions a putrefaction of the philosopher’s Mercury” [III.1 ¶24].
+
+**See also:** [Spirit](#e1644)
+
+**References:** III.1 ¶24
 
 <a id="e1692"></a>
 ### Sun and Moon
@@ -18563,10 +19743,12 @@ The adept quoted by Atwood rejects it: “those imposters who tell you of a sulp
 
 Ripley's Admonition, quoted by Atwood: “our mettalls be nought ells but miners too, Of our Soon and Moone” [II.1 ¶13]. The text does not explain the expression here.
 
+**See also:** [Moon](#e1121)
+
 **References:** II.1 ¶13
 
 <a id="e1693"></a>
-### sun and moon philosophical
+### Sun and Moon philosophical
 *term*
 
 **Named in a Sendivogius passage as the source of the 'beams' whose centres the lodestone's point answers; not explained.**
@@ -18576,7 +19758,7 @@ In a passage of Sendivogius, a parenthetical gloss (speaker unclear) names the b
 **References:** II.1 ¶10
 
 <a id="e1694"></a>
-### super-essential
+### Super-essential
 *term*
 
 **The higher work, served by the same bodily members as the natural work, in which a hyperphysical exudation supersedes natural secretion.**
@@ -18586,7 +19768,7 @@ Appendix (Table Talk, later layer), Atwood: “All members that work here for th
 **References:** APP ¶109
 
 <a id="e1695"></a>
-### superficies
+### Superficies
 *term*
 
 **Something not to be broken, according to a Pythagoric precept cited as a warning; not explained.**
@@ -18596,8 +19778,8 @@ Cited as a warning: “Neither break a superficies, as the Pythagoric precept ru
 **References:** IV.3 ¶56
 
 <a id="e1696"></a>
-### superinspection
-*term* · Superinspection
+### Superinspection
+*term*
 
 **In Psellus, the first kind of apparition in the Chaldaic rites, a mere appearance seen by the celebrant and not to be heeded; also a seeing in Hades.**
 
@@ -18606,7 +19788,7 @@ Psellus, quoted by Atwood, names two kinds of apparition in the Chaldaic rites, 
 **References:** II.3 ¶20, II.3 ¶46
 
 <a id="e1697"></a>
-### superior stars
+### Superior stars
 *term*
 
 **Glossed as the Ideas of the Divine Mind, from which things generated below are infused as light.**
@@ -18618,7 +19800,7 @@ Atwood's bracketed gloss: “the superior stars [i.e., Ideae Divinae Mentis]” 
 **References:** III.2 ¶19
 
 <a id="e1698"></a>
-### superiors / inferiors
+### Superiors and inferiors
 *term* · superiors, inferiors
 
 **In Vaughan, the higher and lower orders: superiors dissolve and inferiors coagulate; communion with superiors requires a heavenly life.**
@@ -18628,7 +19810,7 @@ Vaughan, quoted by Atwood: “so superiors dissolve and inferiors coagulate” [
 **References:** III.4 ¶44
 
 <a id="e1699"></a>
-### supernal alliance
+### Supernal alliance
 *term*
 
 **The union in which no faculty of the soul is rejected, all being present under their rightful rule.**
@@ -18638,7 +19820,7 @@ Atwood answers an objection: “Neither, we reply, is any faculty of the soul re
 **References:** IV.4 ¶20
 
 <a id="e1700"></a>
-### supernatural magnetism
+### Supernatural Magnetism
 *term*
 
 **The attraction by which the perfected Spirit draws the Homogeneal Nature into itself.**
@@ -18648,17 +19830,19 @@ Atwood: the perfected Spirit draws the Homogeneal Nature into itself “by a sup
 **References:** IV.3 ¶29
 
 <a id="e1701"></a>
-### Supernatural Work
+### Supernatural work
 *term*
 
 **In Eirenaeus, a later work whose commencement he sets apart from the literal labour on things as first found.**
 
 Eirenaeus, quoted by Atwood: “I am not speaking here indeed of the commencement of the Supernatural Work, but of things as we first find them” [IV.1 ¶6].
 
+**See also:** [Works](#e1953)
+
 **References:** IV.1 ¶6
 
 <a id="e1702"></a>
-### superstantial
+### Superstantial
 *term*
 
 **Used of the latent nature of things implied by intellectual necessity, first in thought though later in time, and of the Kabalists' Law of Light; not defined.**
@@ -18668,17 +19852,19 @@ Atwood speaks of “a superstantial nature of things implied which, though now l
 **References:** II.1 ¶34, II.1 ¶40
 
 <a id="e1703"></a>
-### superstantial experience
+### Superstantial experience
 *term*
 
 **The deep experience of things reached by ascending in thought and then descending.**
 
 Atwood: by ascending in thought and then descending, one may “hope to penetrate so far as to the superstantial experience of things” [II.1 ¶49].
 
+**See also:** [Experience](#e0534)
+
 **References:** II.1 ¶49
 
 <a id="e1704"></a>
-### superstantial world
+### Superstantial world
 *term*
 
 **Named in an objection asking why partaking things do not enjoy its light if true Being is everywhere present; not defined.**
@@ -18688,12 +19874,14 @@ Named in an objection Atwood reports: if true Being is everywhere present, why d
 **References:** II.2 ¶20
 
 <a id="e1705"></a>
-### Supreme Mind
+### Supreme mind
 *term*
 
 **In Plutarch, the object of the aspirant's knowledge, which the Goddess urges men to seek, dwelling in Reason as in a temple.**
 
 Plutarch, quoted by Atwood: the aim is “the attainment of the knowledge of the Supreme Mind, whom the Goddess exhorts them to search after” [II.1 ¶50]; it dwells in Reason as in a temple.
+
+**See also:** [Mind](#e1099)
 
 **References:** II.1 ¶50
 
@@ -18708,7 +19896,7 @@ Appendix (Table Talk, later layer): Atwood compares Engelbrecht to Swedenborg as
 **References:** APP ¶105
 
 <a id="e1707"></a>
-### the Swedenborgians
+### Swedenborgians
 *collective voice*
 
 **Cited for the idea of “correspondence” between the brain and the spiritual head.**
@@ -18718,17 +19906,17 @@ Appendix (Table Talk, later layer): Atwood refers to the Swedenborgians' “corr
 **References:** APP ¶15
 
 <a id="e1708"></a>
-### the Sybil
-*person* · Sybil
+### Sybil
+*person*
 
 **The Sybil of Virgil's Aeneid, cited as drawing inspiration from supernal light and as directing Aeneas to the Golden Bough, which Atwood reads as the alchemical Gold.**
 
 Atwood cites the Sybil as drawing inspiration from rivers of supernal light [II.4 ¶13], and as enjoining peculiar rites and sacrifices to Misenus' remains, compared with those at Patroclus' pile [III.1 ¶25]. From Aeneid lib. 6 she quotes the Sybil's instruction on the Golden Bough, “Alte vestiga oculis: et rite repertum” [III.1 ¶15, III.1 ¶16, III.1 n17] (ours: search on high with the eyes, and when duly found…): it is sought by looking upward and yields only to one whom the fates call. Appendix (Table Talk, later layer): the Gold Alchemical is the gold Aeneas was told by the Sybil to find and gather [APP ¶20].
 
-**References:** APP ¶20, II.4 ¶13, III.1 n17, III.1 ¶15, III.1 ¶16, III.1 ¶25
+**References:** II.4 ¶13, III.1 n17, III.1 ¶15, III.1 ¶16, III.1 ¶25, APP ¶20
 
 <a id="e1709"></a>
-### the Sybil in Boissard
+### Sybil in Boissard
 *person*
 
 **A Sybil figure in Boissard cited for the recreation as a birth of the invisible into the palpable.**
@@ -18738,7 +19926,7 @@ Atwood cites the Sybil in Boissard in support of the recreation as the birth of 
 **References:** III.3 ¶79
 
 <a id="e1710"></a>
-### syllogism
+### Syllogism
 *term*
 
 **In Atwood's special sense, the true object of philosophy, implicating every science, sought through the categories as a channel for the Divine Intellect's birth into manifestation.**
@@ -18767,7 +19955,7 @@ On the phantastic Spirit: “This Etherial Spirit, he says, is situated on the c
 
 On the Matter: his treatise closes the verbal instructions with “a clear Light, which fills with true virtue every mind that has once perceived it” [I.2 ¶33, I.2 n36]; 'the Greek saint' gives the summary, which Atwood calls plain words: “the Quintessence and hidden thing of our Stone is nothing else than our viscous celestial and glorious soul” [III.1 ¶70, III.1 ¶71]; he agrees with others concerning the Matter [III.2 ¶60]. His True Book gives practical instruction on the one Water, which Atwood calls the Experiment of the Fathers: “labour only for that Water which burns to blackness, dissolves and congeals” [III.3 ¶60, III.3 n43].
 
-**References:** APP ¶163, I.1 n15, I.1 n34, I.1 n35, I.1 n36, I.1 ¶12, I.1 ¶27, I.2 n36, I.2 ¶33, II.1 ¶52, II.2 n11, II.2 ¶10, II.2 ¶13, II.2 ¶14, II.2 ¶3, II.2 ¶9, II.3 n26, II.3 ¶24, II.3 ¶30, III.1 n19, III.1 n49, III.1 ¶20, III.1 ¶45, III.1 ¶70, III.1 ¶71, III.2 ¶60, III.3 n43, III.3 ¶60
+**References:** I.1 n15, I.1 n34, I.1 n35, I.1 n36, I.1 ¶12, I.1 ¶27, I.2 n36, I.2 ¶33, II.1 ¶52, II.2 n11, II.2 ¶10, II.2 ¶13, II.2 ¶14, II.2 ¶3, II.2 ¶9, II.3 n26, II.3 ¶24, II.3 ¶30, III.1 n19, III.1 n49, III.1 ¶20, III.1 ¶45, III.1 ¶70, III.1 ¶71, III.2 ¶60, III.3 n43, III.3 ¶60, APP ¶163
 
 <a id="e1713"></a>
 ### Synthemata
@@ -18784,7 +19972,7 @@ Iamblichus, quoted by Atwood: “the Synthemata, i.e., the Theurgic aids and med
 ## T
 
 <a id="e1714"></a>
-### tail of the peacock
+### Tail of the peacock
 *term*
 
 **With Iris, the appearance of all colours after the darkness; a token of reconciliation.**
@@ -18813,7 +20001,7 @@ Atwood: Tartarus is the region beyond Hades to which the Hierophant passed initi
 
 **Identified with:** the death of this life [APP ¶168]
 
-**References:** APP ¶168, II.3 ¶34, II.3 ¶36, II.3 ¶41, III.2 ¶9
+**References:** II.3 ¶34, II.3 ¶36, II.3 ¶41, III.2 ¶9, APP ¶168
 
 <a id="e1717"></a>
 ### Taylor
@@ -18835,10 +20023,12 @@ Atwood: in the vestibule of the first Adytum one contemplates “the Tears of Is
 
 **Identified with:** blessed Water [III.3 ¶3]
 
+**See also:** [Isis](#e0897)
+
 **References:** III.3 ¶3
 
 <a id="e1719"></a>
-### telestic
+### Telestic
 *term*
 
 **An adjective applied to Hercules' arcane labours and to the accomplishments by which initiates' souls are perfected; not defined.**
@@ -18858,7 +20048,7 @@ Quoted from Julian: “health is a certain symmetry or equilibrium of nature, wh
 **References:** IV.3 ¶30
 
 <a id="e1721"></a>
-### telete
+### Telete
 *term*
 
 **The first grade of initiation: being initiated, while ascending, by the perfective gods.**
@@ -18868,7 +20058,7 @@ In Socrates in the Phaedrus (n15 cites Proclus): “we are initiated (teleioumet
 **References:** II.4 ¶23
 
 <a id="e1722"></a>
-### temples of Esculapius
+### Temples of Esculapius
 *collective voice*
 
 **Cited by Atwood as places where bodily healing was widely practised with minor physico-magical arts.**
@@ -18878,7 +20068,7 @@ Atwood cites the temples of Esculapius to show that bodily healing was widely pr
 **References:** II.2 ¶5
 
 <a id="e1723"></a>
-### temporal Utility
+### Temporal utility
 *term*
 
 **Atwood's name for the present age's idol of worldly usefulness, set up by opinion, which even its worshippers feel to be insufficient.**
@@ -18912,7 +20102,7 @@ Atwood names Terra Adamica as the red root. She says it is “called sometimes M
 **References:** I.3 n52
 
 <a id="e1726"></a>
-### terrestreity
+### Terrestreity
 *term*
 
 **The gross, earthy part of metals. It binds their central light and must be purged; the Stone removes it from them.**
@@ -18923,16 +20113,18 @@ Atwood says metals cannot work “unless they be first purged from their terrest
 
 <a id="e1727"></a>
 ### Terrestrial life
-*term* · Terrestrial, terrestrial
+*term* · Terrestrial
 
 **In the Appendix, the sensuous life: it represents the Animal Kingdom and dominates the head in man.**
 
 In the Appendix (Table Talk, a later layer) Atwood writes: “The Terrestrial is the sensuous and represents the Animal Kingdom. In man it is dominating the head.” [APP ¶32]. The reader's record adds that it typifies the highest life man must not aspire to. This point is not in the quoted words.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶32
 
 <a id="e1728"></a>
-### terrification
+### Terrification
 *term*
 
 **In Eudoxus, turning the Spirit into earth: the only operation of the Fourth Key, done by boiling.**
@@ -18961,9 +20153,9 @@ She also says “the physical Tetractys springs through the contrite experience 
 
 In the Appendix (Table Talk, a later layer) she says Pythagorus's mystic Tetractys was obtained by the theurgic process of APP ¶107. It is “the source, as he called it, of ever-flowing Nature” [APP ¶108], and such an ens was the basis of the philosophic stone.
 
-**Identified with:** the source of ever-flowing Nature [APP ¶108]; [conjunction](#e0323) [III.3 ¶33]
+**Identified with:** the source of ever-flowing Nature [APP ¶108]; [Conjunction](#e0323) [III.3 ¶33]
 
-**References:** APP ¶108, III.3 ¶33, III.3 ¶34, III.3 ¶35, III.3 ¶72
+**References:** III.3 ¶33, III.3 ¶34, III.3 ¶35, III.3 ¶72, APP ¶108
 
 <a id="e1731"></a>
 ### Thales
@@ -19027,17 +20219,17 @@ Atwood: “Theoretic science is everywhere condemned; but there is no such thing
 
 <a id="e1737"></a>
 ### Theosophic
-*term* · theosophic, theosophy, theosophically
+*term* · theosophy, theosophically
 
 **Atwood's word for divine, ultimate knowledge grounded in experiment. She says it opens a wider plane than the theological and contrasts it with the merely intellectual.**
 
 Atwood calls the subjects of the Poemander and Asclepias “theosophic and ultimate” [I.1 ¶7]: they concern divine capabilities, not physical ground. She hopes to show that “the most famous schools of theosophy have in all ages been based on a similar experimental ground” [I.1 ¶17]. Of Boehme she says the ancient wisdom was “Revealed anew, it will be observed, theosophically, but not intellectually.” [I.1 ¶70]. In the Appendix (Table Talk, a later layer): “The Theosophic light opens him at a much wider plane of thought than the Theological.” [APP ¶118]. There she uses the word for the light of the higher Mystics, and also for the doctrine of the Neo-Platonists and Behmen.
 
-**References:** APP ¶118, I.1 ¶17, I.1 ¶7, I.1 ¶70
+**References:** I.1 ¶17, I.1 ¶7, I.1 ¶70, APP ¶118
 
 <a id="e1738"></a>
-### the theosophist
-*collective voice* · the Theosophist
+### Theosophist
+*collective voice*
 
 **A theosophical authority Atwood quotes and endorses. A footnote at one place names him as Khunrath.**
 
@@ -19057,29 +20249,9 @@ Norton, quoted: “For the Lord of the Fourth House likewise be it done; For tha
 
 **References:** IV.2 ¶34
 
-<a id="e1740"></a>
-### these famous Christian philosophers
-*collective voice*
-
-**Unnamed philosophers who supply the mountain allegory. Atwood qualifies them: their promises of gold drew futile public searches.**
-
-Atwood gives their allegory of the mountain: wind, earthquake, fire, calm, then the tincture. It begins “When you have discovered the mountain, the first miracle that will appear is this” [II.3 ¶33]. She qualifies their use: their promises of gold drew the public into futile searches [II.3 ¶34].
-
-**References:** II.3 ¶33, II.3 ¶34
-
-<a id="e1741"></a>
-### These Greeks / these philosophers
-*collective voice* · These Greeks, these philosophers
-
-**Greek philosophers whose contradictory statements about Matter Atwood explains and defends, comparing them with the Hermetic adepts.**
-
-These Greeks say contradictory things about Matter: that it is one and all, everywhere and nowhere. Atwood explains and defends these statements and compares them with the Hermetic adepts [III.2 ¶51, III.2 ¶52].
-
-**References:** III.2 ¶51, III.2 ¶52
-
 <a id="e1742"></a>
-### Theurgic Art
-*term* · Theurgic art, theurgic art
+### Theurgic art
+*term*
 
 **The art of purifying and informing the Mind. Through purification it turns the whole being into inner light and makes the divine Matter manifest in arcane visions.**
 
@@ -19091,7 +20263,7 @@ The Alexandrian philosophers practised it, “each professing a genuine knowledg
 
 In the Appendix (Table Talk, a later layer) Atwood says numbers are personally represented in this art, “by which spirit is added to spirit and multiplied as offspring” [APP ¶107].
 
-**References:** APP ¶107, I.1 ¶27, I.1 ¶30, III.1 ¶11, III.2 ¶49
+**References:** I.1 ¶27, I.1 ¶30, III.1 ¶11, III.2 ¶49, APP ¶107
 
 <a id="e1743"></a>
 ### Theurgic rites
@@ -19121,9 +20293,11 @@ Atwood: “the end of Theurgic sacrifice is a conjunction with the Demiurgic Int
 
 Iamblichus, quoted: the soul's union with the Divine nature comes about through “the perfect efficacy of ineffable works” and symbols, not through intellectual perception [II.4 ¶31].
 
+**See also:** [Union](#e1838)
+
 **References:** II.4 ¶31
 
-<a id="e1746"></a>
+<a id="e1746"></a><a id="e1747"></a>
 ### Theurgists
 *term*
 
@@ -19131,17 +20305,9 @@ Iamblichus, quoted: the soul's union with the Divine nature comes about through 
 
 Iamblichus, quoted: “they exhibit to Theurgists a Fire which is itself, to itself, visible” [II.4 ¶29].
 
-**References:** II.4 ¶29
+*Theurgists.* Atwood reports Proclus as saying the Theurgists place their chief hopes of salvation in the Elysian fountains [II.4 ¶16].
 
-<a id="e1747"></a>
-### Theurgists
-*collective voice*
-
-**Practitioners of theurgy. Proclus is cited saying they place their chief hopes of salvation in the Elysian fountains.**
-
-Atwood reports Proclus as saying the Theurgists place their chief hopes of salvation in the Elysian fountains [II.4 ¶16].
-
-**References:** II.4 ¶16
+**References:** II.4 ¶16, II.4 ¶29
 
 <a id="e1748"></a>
 ### Theurgy
@@ -19153,22 +20319,24 @@ Atwood: “Now the Egyptians, that is the Hermetic Art, or Art of Divine works, 
 
 Its aim was to concentrate vitality, turn the spiritual eye, purify and analyse the whole essence, and draw out and know the true Efficient: “this was their object and the Art of Theurgy” [II.3 ¶5]. She says this ascent needs those means: “by Theurgic rites, an ascent was made through appropriate media and a gradual assimilation, which without these could not be effected, to the knowledge of the First Cause” [II.4 ¶56]. So whoever seeks the First Principle “must be theurgically prepared” [III.3 ¶59]. That passage does not define the preparation further.
 
-**Identified with:** [Hermetic Art](#e0754) [II.2 ¶3]
+**Identified with:** [Hermetic art](#e0754) [II.2 ¶3]
 
 **References:** II.2 ¶3, II.2 ¶6, II.2 ¶9, II.3 ¶5, II.4 ¶56, III.3 ¶59
 
 <a id="e1749"></a>
-### Thin Water of Life
+### Thin water of life
 *term*
 
 **In Jacob Boehme, what proceeds by virtue of the warmth (fire) in the blood.**
 
 Jacob Boehme, quoted: “in the virtue of the warmth, the Thin Water of Life proceedeth” [III.3 ¶24]. The warmth is the fire in the blood.
 
+**See also:** [Life](#e0960)
+
 **References:** III.3 ¶24
 
 <a id="e1750"></a>
-### the Thing
+### The Thing
 *term*
 
 **Something mesmerists reach without knowing how to alter and amend it. It is not further defined.**
@@ -19178,18 +20346,20 @@ Atwood says mesmerists reach it, but “without the important knowledge how to a
 **References:** III.1 ¶8
 
 <a id="e1751"></a>
-### third life
+### Third life
 *term* · third or lowest life
 
 **In Atwood's Appendix, the lowest of man's lives, in which fallen man now is; it moves with the creative Essence and is to be raised through the medial life.**
 
 Atwood, in the Appendix (Table Talk, a later layer), calls this the lowest of man's lives: “Man is fallen; he is in the third or lowest life” [APP ¶35]. It is “that third life which moves in and with the creative Essence” [APP ¶3]. The records also say that the magic of the self-will exploits its release, that it is reached from present life through the clairvoyant life by repeated fermentation, that it is to be raised through the medial life, and that the seeker in it shows the Golden Fleece. By the order of APP ¶32–35 it apparently corresponds to the Infernal (lumbar, voluntary) life, but the text does not state this identity.
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶3, APP ¶35
 
 <a id="e1752"></a>
-### Third Principle
-*term* · Third principle
+### Third principle
+*term*
 
 **In Boehme's language, as Atwood uses it, the sidereal and elementary birth: the medium of perceiving the First, which lies hidden in its mineral life.**
 
@@ -19197,7 +20367,9 @@ In the Appendix (Table Talk, a later layer) Atwood uses Boehme's term: “the Th
 
 **Identified with:** sidereal and elementary birth [APP ¶27]
 
-**References:** APP ¶27, IV.2 ¶20
+**See also:** [Principles](#e1399)
+
+**References:** IV.2 ¶20, APP ¶27
 
 <a id="e1753"></a>
 ### Third work
@@ -19207,29 +20379,9 @@ In the Appendix (Table Talk, a later layer) Atwood uses Boehme's term: “the Th
 
 Eudoxus, quoted, connects the Third work with the Fifth Key: fermentation with the Perfect Body, which makes the medicine of the Third order. He declines to describe it: “I will say nothing in particular of the operation of the Third work” [IV.3 ¶14].
 
+**See also:** [Works](#e1953)
+
 **References:** IV.3 ¶14
-
-<a id="e1754"></a>
-### this gold
-*term*
-
-**The finished product of the work, endued with a magnetical virtue that draws divine increase; also called the terrestrial or Microcosmic Sun and the Stone of Fire.**
-
-The finished product: “this gold is endued with a magnetical virtue” [II.1 ¶25] that draws divine increase. The passage gives it other names: “Whence it has been called likewise the terrestrial or Microcosmic Sun, the triumphal Chariot of Antimony” [II.1 ¶25], and “this is the Stone of Fire seen in bright lines” [II.1 ¶25]. The text does not make clear whether Atwood or the source she follows is speaking.
-
-**Identified with:** terrestrial or Microcosmic Sun; triumphal Chariot of Antimony [II.1 ¶25]; [the Stone of Fire](#e1671) [II.1 ¶25]
-
-**References:** II.1 ¶25
-
-<a id="e1755"></a>
-### this holi letter
-*collective voice*
-
-**A Latin sentence that Norton's verse tells the reader to follow; the text does not say where it comes from.**
-
-Inside the Norton verse quoted at III.4 ¶17, “this holi letter” is the sentence to follow: “Attingens a fine usque ad finem fortiter, Disponens omnia suaviter;” [III.4 ¶17] (our rendering: reaching mightily from end to end, ordering all things sweetly). The text does not say who wrote the sentence.
-
-**References:** III.4 ¶17
 
 <a id="e1756"></a>
 ### Thought
@@ -19242,7 +20394,7 @@ The Rabbi in the Zohar, as Atwood quotes him, says: “Thought is the Principle 
 **References:** III.3 ¶78, III.3 ¶79
 
 <a id="e1757"></a>
-### Three Kinds
+### Three kinds
 *term*
 
 **In Eudoxus's account, the domains of Nature whose principles and operations the seeker must know.**
@@ -19252,7 +20404,7 @@ Eudoxus, quoted, says the seeker must know “the operations of Nature in the Th
 **References:** IV.2 ¶4
 
 <a id="e1758"></a>
-### three kingdoms
+### Three kingdoms
 *term*
 
 **Three domains of nature, which Atwood does not name in these passages; Hermes reputedly found their quintessential perfectibility in their homogeneal unity, and the torch diffuses life through them.**
@@ -19262,29 +20414,33 @@ Atwood reports that Hermes discovered “the quintessential perfectibility of th
 **References:** I.1 ¶6, IV.4 ¶32
 
 <a id="e1759"></a>
-### Three Principles
-*term* · three principles
+### Three principles
+*term*
 
 **The principles of the work: Life resolves into them in the philosophic fermentation (Van Helmont's Salt, Sulphur and Mercury), and they are separated and reunited to produce the tincture.**
 
 In the passage quoting Boehme, “The same Three Principles gradually assume a new life” [II.1 ¶24]. They act in harmony to produce first whiteness and then the tincture, and Boehme speaks of “the mechanical part of the Three Principles” [II.1 ¶25]. Atwood says Life in the philosophic fermentation is “resolved into these three principles, which Van Helmont also calls Salt, Sulphur, and Mercury” [III.2 ¶28]. The author of The Triumph, quoted, speaks of “the separation and the reunion of the Three Principles” [IV.2 ¶6] without naming them. A separate set of three principles (attraction, repulsion, circulation) appears at II.1 ¶18; see that entry. The text does not say whether these are the same.
 
-**Identified with:** [Salt, Sulfur, and Mercury](#e1539) [III.2 ¶28]
+**Identified with:** [Salt, Sulphur and Mercury](#e1539) [III.2 ¶28]
+
+**See also:** [Principles](#e1399), [Three principles (attraction, repulsion, circulation)](#e1760)
 
 **References:** II.1 ¶24, II.1 ¶25, III.2 ¶28, IV.2 ¶6
 
 <a id="e1760"></a>
-### Three Principles (attraction, repulsion, circulation)
-*term* · Attraction, Repulsion, Circulation
+### Three principles
+*term* — *attraction, repulsion, circulation* · Attraction, Repulsion, Circulation
 
 **The three principles of motion: attraction, repulsion as its reaction, and circulation arising from their conflict; equilibrium gives a circle, predominance an ellipse.**
 
 Attraction is the occult first principle of motion, and repulsion is its reaction. “Circulation is the third principle, proceeding from the conflict of the former two” [II.1 ¶18], and it mediates between them. When the two are in equilibrium the motion is a circle; when one predominates it is an ellipse. The text does not make clear whether Atwood or a source is speaking. On bringing the three into equilibrium, see 'threefold secret' [III.3 ¶9].
 
+**See also:** [Circulation](#e0280), [Principles](#e1399), [Salt, Sulphur and Mercury](#e1539), [Three principles](#e1759)
+
 **References:** II.1 ¶18
 
 <a id="e1761"></a>
-### Three Worlds
+### Three worlds
 *term*
 
 **The worlds Boehme says he knew and saw in himself; the printed passage names the divine angelical or paradisiacal world and the dark world.**
@@ -19294,7 +20450,7 @@ Boehme, quoted: “I knew and saw in myself all the Three Worlds, viz., first, t
 **References:** III.2 ¶16
 
 <a id="e1762"></a>
-### threefold enchantment
+### Threefold enchantment
 *term*
 
 **Atwood's term for how the animal, vegetable and mineral kingdoms are bound together in man's natural Identity; only the animal is developed to consciousness.**
@@ -19304,12 +20460,14 @@ Atwood says man's animal, vegetable and mineral kingdoms are “bound together i
 **References:** IV.4 ¶4
 
 <a id="e1763"></a>
-### threefold law of life
+### Threefold Law of life
 *term*
 
 **The law under which catholic nature necessarily proceeds; its ingress, egress and alternating action make up all the phenomena of the process.**
 
 Atwood says that nature “operates her proper progress necessitously under the threefold law of life” [I.3 n35]. The ingress, egress and alternating action of this law make up all the phenomena of the process.
+
+**See also:** [Life](#e0960)
 
 **References:** I.3 n35
 
@@ -19321,10 +20479,12 @@ Atwood says that nature “operates her proper progress necessitously under the 
 
 In the Appendix (Table Talk, a later layer) Atwood writes: “Our life is threefold.” [APP ¶182]. The three are the sensuous, medial and divine lives, and each has its key and its representative. “Each principle of the life --- active, passive, and resultant --- must be produced or evolved separately” [APP ¶183].
 
+**See also:** [Life](#e0960)
+
 **References:** APP ¶182, APP ¶183
 
 <a id="e1765"></a>
-### threefold secret
+### Threefold secret
 *term*
 
 **The secret of the Art that brings attraction, repulsion and circulation into equilibrium in the ethereal bond.**
@@ -19334,7 +20494,7 @@ Atwood: “great care and diligence is needed at this juncture to apply the thre
 **References:** III.3 ¶9
 
 <a id="e1766"></a>
-### thrysus
+### Thrysus
 *term* · thrysus bearers
 
 **That in which Prometheus is fabled to have hidden the stolen fire; Atwood uses 'thrysus bearers' for those who have and perceive the fire but cannot draw it forth.**
@@ -19354,8 +20514,8 @@ Atwood cites Timaeus as one who “mentions a certain earth as antecedent, and t
 **References:** III.2 ¶35
 
 <a id="e1768"></a>
-### tincture
-*term* · Tincture, tinctured, tinctures, tincture of gold, tincture of the philosophers
+### Tincture
+*term* · tinctured, tinctures, tincture of gold, tincture of the philosophers
 
 **The colouring, transmuting virtue of the work, or what carries it: the red, living soul drawn from the body, which turns imperfect bodies into gold and serves as the medicine of men and metals.**
 
@@ -19374,18 +20534,20 @@ Atwood cites Timaeus as one who “mentions a certain earth as antecedent, and t
 **References:** I.1 ¶52, I.1 ¶76, I.2 ¶49, I.3 n12, I.3 n18, I.3 n42, I.3 n63, I.3 ¶43, I.3 ¶58, II.1 ¶24, II.1 ¶25, II.3 ¶33, III.2 ¶16, III.3 ¶24, III.3 ¶32, III.3 ¶68, III.4 ¶10, IV.1 ¶16, IV.1 ¶49, IV.2 ¶14, IV.3 ¶10, IV.3 ¶21, IV.3 ¶38
 
 <a id="e1769"></a>
-### tincture of Sol
+### Tincture of Sol
 *term*
 
 **In Eirenaeus's account, what the first water partly extracts from the body, taken as a sign.**
 
 Eirenaeus, quoted, says that the first water “extracted partly the tincture of Sol” [III.1 ¶14] from the body, and treats this as a sign. The records also note that 'Tincture' is elsewhere a name for Reason, and 'foreign tincture' what Reason grinds out of the inferior life.
 
+**See also:** [Sol](#e1616)
+
 **References:** III.1 ¶14
 
 <a id="e1770"></a>
-### tincture of the Sapphiric Mine
-*term* · Tincture of the Sapphiric Mine
+### Tincture of the Sapphiric mine
+*term*
 
 **Atwood's name for the cleansed, prepared medial receptacle of the newborn light; elsewhere, the Light from the Archaeus that comes forth as a dry splendour, identified with the Subtendent.**
 
@@ -19396,7 +20558,7 @@ Atwood gives two related identifications. First, it is “the cleansed Augean, t
 **References:** II.4 ¶9, III.3 ¶71
 
 <a id="e1771"></a>
-### toad
+### Toad
 *term* · Toade
 
 **Atwood's name for the putrefying stage of the matter, a stronger poison.**
@@ -19417,17 +20579,19 @@ Atwood cites the book of Tobit for the adepts' concealment of 'the king': it is 
 
 <a id="e1773"></a>
 ### Tractatus Aureus
-*treatise* · the Golden Treatise, Tract. Aureus, Tract. Aureus. Text et Scholium, Tract. Aur., Scholium, Idem (Tract. Aur.)
+*treatise* · the Golden Treatise, Tract. Aureus, Tract. Aureus. Text et Scholium, Tract. Aur., Scholium
 
 **The Golden Treatise ascribed to Hermes Trismegistus, which Atwood cites for the physical ground and practical method of alchemy and repeatedly uses for chapter mottoes and supporting passages.**
 
 Atwood cites it as the Hermetis Trismegisti Tractatus Aureus de Lapidis physici secreto, in seven chapters. She uses it for the physical ground and practical method of alchemy [I.1 ¶7, I.1 n10]. She takes chapter mottoes from it: “Opus vobuscum et apud est, quod intus arripens et permanens in terra vel in mare habere potes.” [II.1 ¶2] (our rendering: roughly, the work is with you and among you, and taking hold of it within you can have it). She also uses “Naturam in primisimitabere in arte, magister.” [III.1 ¶1] (our rendering: first imitate Nature in the art, master). On our tentative rendering of the corrupt Latin of this second motto (not the book's), outer fire only excites, and an inner ethereal agent perfects all. She cites it for the 'Our Mercury' passage: “Our Mercury is philosophic, fiery, vital” [II.1 ¶12, II.1 n10]. She cites the Scholium in support of her view that external fire alters while internal fire perfects: “Que l’art imite la nature” [III.1 ¶42, III.1 n46] (our rendering: that art imitates nature). From cap. 4, “Protégé me et protegam te” [III.1 ¶44, III.1 n48] (our rendering: protect me and I will protect you) illustrates the mutual relation of Sun and Moon; the text does not name the speaker. In the Appendix (Table Talk, a later layer) Atwood says the author of the Golden Treatise seems to intermix the steps because he describes different repetitions of the fermentative process [APP ¶17].
 
-**References:** APP ¶17, I.1 n10, I.1 ¶7, I.2 n25, II.1 n10, II.1 ¶12, II.1 ¶2, II.3 n40, II.4 n8, III.1 n46, III.1 n48, III.1 ¶1, III.1 ¶42, III.1 ¶44
+**See also:** [Author of the Tractatus Aureus (anonymous)](#e0080), [Master (author of the Tractatus Aureus)](#e1032)
+
+**References:** I.1 n10, I.1 ¶7, I.2 n25, II.1 n10, II.1 ¶12, II.1 ¶2, II.3 n40, II.4 n8, III.1 n46, III.1 n48, III.1 ¶1, III.1 ¶42, III.1 ¶44, APP ¶17
 
 <a id="e1774"></a>
-### tradition (mythological antique devices)
-*collective voice* · tradition
+### Tradition
+*collective voice* — *mythological antique devices*
 
 **Ancient mythological tradition, which Atwood reads as commemorating spectacles of the soul's liberation that Wisdom instituted and art makes natural.**
 
@@ -19446,7 +20610,7 @@ Atwood reports that some writers “suggest their Trance and its phenomena as a 
 **References:** II.2 ¶6
 
 <a id="e1776"></a>
-### translation
+### Translation
 *term*
 
 **The final passage for which contemplation of the indwelling Unity is the last preparation; its theurgic rite involves burying the body except the head.**
@@ -19456,7 +20620,7 @@ Atwood calls contemplation of the indwelling Unity “the final preparative to t
 **References:** II.4 ¶40
 
 <a id="e1777"></a>
-### translation of the consciousness
+### Translation of the consciousness
 *term*
 
 **Atwood's later definition of the whole mystery: consciousness, now drawn out to sense, is thrown backwards and upwards into its First Source.**
@@ -19466,8 +20630,8 @@ In the Appendix (Table Talk, a later layer) Atwood writes: “The whole of this 
 **References:** APP ¶83
 
 <a id="e1778"></a>
-### transmutation
-*term* · Transmutation, transmuting, transmuted, transmutes, transmutare
+### Transmutation
+*term* · transmuting, transmuted, transmutes, transmutare
 
 **The conversion of metals into gold or silver; Atwood traces its possibility to a universal subject and reads it as life attracted into the Stone's light, and the Adept equates it with salvation.**
 
@@ -19482,7 +20646,7 @@ In the Appendix (Table Talk, a later layer) Atwood writes: “The whole of this 
 **References:** I.1 n50, I.1 ¶34, I.1 ¶42, I.1 ¶55, I.1 ¶66, I.1 ¶86, I.2 ¶48, IV.2 ¶18, IV.4 ¶2
 
 <a id="e1779"></a>
-### transmutative ferment
+### Transmutative ferment
 *term*
 
 **The ray of Light made concrete in life when it is dominant in the circulatory system; Atwood identifies it with the Philosophic Stone.**
@@ -19491,10 +20655,12 @@ Atwood says the ray of Light, made concrete in life and dominant in the circulat
 
 **Identified with:** [Stone](#e1670) [IV.4 ¶9]
 
+**See also:** [Ferment](#e0562)
+
 **References:** IV.4 ¶9
 
 <a id="e1780"></a>
-### transverse line
+### Transverse line
 *term*
 
 **In Atwood's Appendix, the line contrary to the Divine (perpendicular) line; it restores to sense, and the two together form a cross.**
@@ -19504,12 +20670,14 @@ In the Appendix (Table Talk, a later layer) Atwood sets the transverse line agai
 **References:** APP ¶13
 
 <a id="e1781"></a>
-### Tree of Life
-*term* · tree of life
+### Tree of life
+*term*
 
 **The Tree of Life: its attainment is laborious intellectual work (Van Helmont), and for Atwood it lies hidden and hard to find under the oblivion of natural birth.**
 
 Van Helmont, as quoted, says that “the attainment of the Tree of Life is laborious, and the fruit of intellectual research” [III.1 ¶13]. Atwood herself writes that “The tree of life covered over, indeed, with the dark oblivion of this natural outbirth, is latent and difficult to find” [III.1 ¶34]. According to the reader's record, she adds there that it is revealed only by celestial instinct, and that its bough, not the whole tree, is to be taken.
+
+**See also:** [Life](#e0960)
 
 **References:** III.1 ¶13, III.1 ¶34
 
@@ -19525,7 +20693,7 @@ Atwood cites Trevisan as an example of one who worked in vain for over half a ce
 
 <a id="e1783"></a>
 ### Triad
-*term* · triad
+*term*
 
 **In the quoted Chaldaic oracle, the threefold that shines throughout the world under the Monad's rule, in which Virtue, Wisdom and Verity appear.**
 
@@ -19534,12 +20702,14 @@ The voice here is the Chaldaic oracle, quoted by Atwood: “For in the whole wor
 **References:** IV.2 ¶22, IV.2 ¶24
 
 <a id="e1784"></a>
-### triple introversion
+### Triple introversion
 *term*
 
 **A threefold turning inward which, together with multiplication of the hypostatic unit, makes the magistery manifest.**
 
 Atwood says the magistery is “made manifest by a triple introversion and multiplication of the hypostatic unit” [IV.2 ¶37]. The text does not explain the expression further. Reading it as a threefold turning inward follows the wording and is not a definition the book gives.
+
+**See also:** [Introversion](#e0888)
 
 **References:** IV.2 ¶37
 
@@ -19554,7 +20724,7 @@ Atwood's only use of Triptolemus is in a simile. Hippocrates dispersed the succo
 **References:** IV.3 ¶32
 
 <a id="e1786"></a>
-### trituration
+### Trituration
 *term*
 
 **Grinding, used figuratively for the continual, slow and gentle working of the Philosophic Subject, which dissolves the subject's innate defects.**
@@ -19579,6 +20749,8 @@ Cited for reference only.
 
 This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood says: “True Alchemy (not that which the world has run after without finding) is related to Theosophy on its physical side” [APP ¶78]. According to the reader's record, she describes it there as a change in the circulatory system of the blood wrought by reiterative contritions.
 
+**See also:** [Alchemy](#e0043)
+
 **References:** APP ¶78
 
 <a id="e1789"></a>
@@ -19587,30 +20759,36 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 
 Cited for reference only.
 
+**See also:** [Spirit](#e1644)
+
 **References:** I.1 n76, I.1 ¶67
 
 <a id="e1790"></a>
-### true Being
+### True being
 *term*
 
 **The Platonists, as Atwood reports, declared true Being to be white.**
 
 Atwood reports a view of the Platonists: “The Platonists have declared true Being to be white” [III.2 ¶9].
 
+**See also:** [Being](#e0173)
+
 **References:** III.2 ¶9
 
 <a id="e1791"></a>
-### true Chemistry
+### True chemistry
 *term*
 
 **The genuine art, as distinct from “clouds of sophistry”, whose Light and virtue helped the ancients.**
 
 Atwood speaks of “that Light and virtue of true Chemistry, by which the ancients were assisted” [III.1 ¶4]. The reader's record says she sets this genuine art apart from clouds of sophistry.
 
+**See also:** [Chemistry](#e0273)
+
 **References:** III.1 ¶4
 
 <a id="e1792"></a>
-### true fiery water
+### True fiery water
 *term*
 
 **In Aliphili's words, an essence produced in man by conjoining the elements, which alone dissolves gold into black earth; called the great and miraculous mystery of the world.**
@@ -19619,41 +20797,49 @@ The voice here is Aliphili, as quoted. The reader's record gives his account: an
 
 **Identified with:** the great and miraculous mystery of the world [II.1 ¶14]
 
+**See also:** [Water](#e1920)
+
 **References:** II.1 ¶14
 
 <a id="e1793"></a>
-### true Form of Gold
+### True form of gold
 *term*
 
 **The real object of Alchemy's golden promise; avarice, ambition and curiosity cannot reach it, and only Reason enters it.**
 
 Atwood contrasts the true Form of Gold with the dead metal: “neither will be found to be the true Form of Gold” [III.4 ¶11]. According to the reader's record, she makes it the real object of Alchemy's golden promise there. Avarice, ambition and curiosity cannot reach it, and only Reason enters it. The text does not define it further here.
 
+**See also:** [Gold](#e1754)
+
 **References:** III.4 ¶11
 
 <a id="e1794"></a>
-### true hypostasis
+### True hypostasis
 *term*
 
 **Apparently the real being or substance of oneself, which self-contemplation with an unpurified spirit cannot discern.**
 
 Atwood warns that if we contemplate ourselves with an unpurified spirit, “we shall not there discern the true hypostasis” [II.2 ¶14]. The reading as the real being or substance of oneself is inferred from this context, not stated.
 
+**See also:** [Hypostasis](#e0806)
+
 **References:** II.2 ¶14
 
 <a id="e1795"></a>
-### true Identity of nature
+### True Identity of nature
 *term* · identity
 
 **The identity in nature that the pseudo-alchemists failed to divine, which would otherwise have to be sought through all creatures by experiment.**
 
 Atwood says the pseudo-alchemists worked “without rightly divining the true Identity of nature” [II.1 ¶6]. Without the one subject that contains all, one would have “to search out the identity through all creatures and minerals, by way of experiment” [II.1 ¶9].
 
+**See also:** [Absolute Identity](#e0010), [Identity](#e0822)
+
 **References:** II.1 ¶6, II.1 ¶9
 
 <a id="e1796"></a>
-### the true Intelligible
-*term* · true Intelligible
+### True intelligible
+*term*
 
 **The proper object of intellectual inquiry in itself, which the wise mind holds within itself; the intellect receives it and becomes one with it.**
 
@@ -19661,10 +20847,12 @@ Atwood glosses the term herself: “(since it possesses the true Intelligible); 
 
 **Identified with:** the proper object of intellectual inquiry in itself [II.1 ¶37]
 
+**See also:** [Intelligible](#e0879)
+
 **References:** II.1 ¶37
 
 <a id="e1797"></a>
-### true Intention
+### True intention
 *term* · Intention
 
 **That on whose discovery the success of the experiment depends; it is present more or less in every mind, though not clearly discernible in all.**
@@ -19674,7 +20862,7 @@ Atwood says that success “depends on the discovery of the true Intention” [I
 **References:** IV.3 ¶54
 
 <a id="e1798"></a>
-### True Knowledge
+### True knowledge
 *term*
 
 **In the Appendix, the mind's experimental contact with mystery, in which the mind consciously enters the Universal and knows itself in its principle.**
@@ -19684,8 +20872,8 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 **References:** APP ¶75
 
 <a id="e1799"></a>
-### true Light
-*term* · true light, True Light
+### True light
+*term*
 
 **The Light needed before practice; hidden and imprisoned within, it is called the fountain of Universal Nature, and is perfected in the Saviour.**
 
@@ -19699,10 +20887,12 @@ The text does not say outright that these three uses are one and the same.
 
 **Identified with:** the fountain of Universal Nature [II.1 ¶49]
 
+**See also:** [Light](#e0962)
+
 **References:** I.1 ¶86, II.1 ¶49, IV.2 ¶19
 
 <a id="e1800"></a>
-### true man
+### True man
 *term*
 
 **In Rabbi Ben Jochai's words, man as distinct from the man who appears here.**
@@ -19712,8 +20902,8 @@ The voice here is Rabbi Ben Jochai, as quoted: “But we must distinguish the tr
 **References:** II.1 ¶42
 
 <a id="e1801"></a>
-### True Matter
-*term* · true Matter
+### True matter
+*term*
 
 **The material and proper Subject of the Work, hidden under countless names; finding it is called a great point.**
 
@@ -19721,20 +20911,24 @@ The passage says: “It is a great point to find out the True Matter and proper 
 
 **Identified with:** proper Subject of this work [IV.2 ¶6]
 
+**See also:** [Matter](#e1043)
+
 **References:** IV.2 ¶6
 
 <a id="e1802"></a>
-### true medicine
+### True medicine
 *term* · medicine
 
 **In the Paracelsians' view, a medicine bound in man like milk in a hard nut, which must be freed from impure envelopes to become pure crystalline matter.**
 
 Atwood reports the Paracelsian view: “The true medicine, according to the Paracelsians, is bound in man” [III.1 ¶10]. According to the reader's record, it is held there like milk in a hard nut. It must be freed from its impure envelopes to become pure crystalline matter.
 
+**See also:** [Medicine](#e1055)
+
 **References:** III.1 ¶10
 
 <a id="e1803"></a>
-### true rector
+### True rector
 *term*
 
 **That which the Art restores to its original rule by hiding the opposing principle; not otherwise defined.**
@@ -19744,7 +20938,7 @@ The Art is said to work “to restore the true rector to his original rule” [I
 **References:** II.1 ¶21
 
 <a id="e1804"></a>
-### True Science
+### True science
 *term*
 
 **In the Appendix, the identity of knower and known, of subject with object.**
@@ -19754,17 +20948,19 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 **References:** APP ¶171
 
 <a id="e1805"></a>
-### true sulfur
+### True sulphur
 *term*
 
 **In Eirenaeus, the means by which the purged Mercury is vivified; not explained further.**
 
 The voice here is Eirenaeus, as quoted. Of the purged Mercury he says: “And with true sulfur it can vivify” [III.1 ¶69]. The text does not explain the term further.
 
+**See also:** [Sulphur](#e1690)
+
 **References:** III.1 ¶69
 
 <a id="e1806"></a>
-### truphat
+### Truphat
 *term*
 
 **In Paracelsus, the matter of the metals, which brings everything into its due form.**
@@ -19788,12 +20984,14 @@ This comes from the Appendix (Table Talk, begun 1860), a later layer. Atwood say
 **References:** APP ¶171
 
 <a id="e1808"></a>
-### the truth-telling Oracle
-*collective voice* · truth-telling Oracle
+### Truth-telling Oracle
+*collective voice*
 
 **Atwood's name for the Chaldaic oracles (Oracula Chaldaica), which she cites on piety, the fiery mind, and the soul's way of return.**
 
 Atwood cites the truth-telling Oracle from the *Oracula Chaldaica* in II.3. She uses it in support of these points: piety and the fiery mind preserve the body; the soul's way of return; the warning against stooping down; and the soul clasping God. One line she quotes is “If thou extend the fiery mind to the work of piety,” [II.3 ¶37, II.3 ¶38, II.3 ¶40, II.3 ¶42, II.3 n46, II.3 n47]. She cites it with approval.
+
+**See also:** [Oracles](#e1233)
 
 **References:** II.3 n46, II.3 n47, II.3 ¶37, II.3 ¶38, II.3 ¶40, II.3 ¶42
 
@@ -19808,7 +21006,7 @@ Atwood quotes the *Turba* (Ecercit. 1) as the epigraph of chapter I.2: “Est in
 **References:** I.2 ¶1, I.2 ¶12, III.1 n2
 
 <a id="e1810"></a>
-### Two Natures
+### Two natures
 *term*
 
 **In the theosophist's words, a heavenly and an earthly matter, to be reduced to one as they were at the beginning.**
@@ -19818,17 +21016,19 @@ The voice here is the theosophist, as quoted: “That Two Natures be reduced to 
 **References:** IV.3 ¶38
 
 <a id="e1811"></a>
-### two Principles
+### Two principles
 *term*
 
 **Two principles that stand against each other if the Chaos is split apart too early; not named here.**
 
 Atwood warns that if the Chaos is split apart too early, “the two Principles stand up one against the other, before the intended mastery is secure” [IV.1 ¶15]. She does not name the two Principles here.
 
+**See also:** [Principles](#e1399)
+
 **References:** IV.1 ¶15
 
 <a id="e1812"></a>
-### two-fold ignorance
+### Two-fold ignorance
 *term*
 
 **In Plato, as quoted, an ignorance that does not know it is ignorant and therefore has no desire to emerge.**
@@ -19848,7 +21048,7 @@ Reported from Porphyry: “there is, says he, a twofold death” [II.3 ¶37] —
 **References:** II.3 ¶37
 
 <a id="e1814"></a>
-### types
+### Types
 *term* · elementary types
 
 **Apostolic ordinances or material signs, such as water, oil, salt and light, which Atwood says signified real efficacies but later became a source of dissension.**
@@ -19879,7 +21079,7 @@ Atwood presents these as the adepts' names, set out in her own exposition.
 ## U
 
 <a id="e1816"></a>
-### ultimate ignorance
+### Ultimate ignorance
 *term*
 
 **The state reached by passing through reason and beyond every bound, which Atwood identifies with the Infinity of Life.**
@@ -19890,66 +21090,38 @@ Atwood describes it as the state reached by passing through reason beyond every 
 
 **References:** III.2 ¶54
 
-<a id="e1817"></a>
-### (unattributed)
-*collective voice*
+<a id="e1817"></a><a id="e0081"></a><a id="e0901"></a><a id="e0942"></a><a id="e1227"></a><a id="e1251"></a><a id="e1541"></a><a id="e1818"></a><a id="e1819"></a><a id="e1820"></a><a id="e1821"></a><a id="e1822"></a><a id="e1823"></a><a id="e1824"></a><a id="e1825"></a><a id="e1826"></a><a id="e1827"></a><a id="e1828"></a><a id="e1829"></a><a id="e1830"></a><a id="e1868"></a><a id="e1869"></a><a id="e1870"></a>
+### Unattributed sayings
+*collective voice* — *quotations, verses and maxims Atwood gives without a named source*
 
-**An unattributed saying that Atwood cites to show the promise that God may be found, though he remains hidden.**
+**Sayings, verses and maxims that Atwood quotes or reports without naming their source, gathered here under the phrase that introduces each.**
 
-Atwood cites “Seek and ye shall find, knock and it shall be opened unto you” without attribution [II.1 ¶26]. She uses it to illustrate the promise that God may be found, though he remains hidden.
+*Unattributed.* Atwood cites “Seek and ye shall find, knock and it shall be opened unto you” without attribution [II.1 ¶26]. She uses it to illustrate the promise that God may be found, though he remains hidden.
 
-**References:** II.1 ¶26
+*Another (unnamed).* An unnamed authority is quoted on the same matter as the source of blessed waters: “Ex mari meo oriuntur nebulae” [II.3 ¶18]. (Our translation: From my sea the mists arise.)
 
-<a id="e1818"></a>
-### unattributed ("as is declared")
-*collective voice*
+*'it is said' (unattributed).* An unattributed saying, “Man, it is said, was created of the dust of the earth” [I.3 n51], is cited and then interpreted by the adept.
 
-**An unattributed declaration that Atwood introduces with “as is declared”, cited in support of the purged life flowing forth as a panacea.**
+*Latin maxim (unattributed).* “Nemo enim dat id, quod non habet.” (ours: For no one gives what he does not have) supports her point that only one who has it can impart it [II.2 ¶29]. “Sie finis ab origine pendet.” (ours: So the end hangs from the beginning) supports her point that the Motive governs the result [IV.1 ¶45].
 
-Introduced only with “as is declared”, the phrase “a pure panacea from the god of Light” [III.1 ¶10] supports Atwood's point that the purged life flows forth as a panacea.
+*One (unnamed, 'says one').* In the Appendix (Table Talk, a later layer), an unnamed authority is quoted in support of the point that all depends on the willing and the intention: “That which in the hands of fools is nothing in that of a philosopher becomes to be all in all” [APP ¶35].
 
-**References:** III.1 ¶10
+*Others (unnamed philosophers).* The speaker reports others as saying “the White Mercury is the bath of the Moon, and that the Red Mercury is the bath of the Sun” [IV.3 ¶10]. The speaker does not dispute this but adds to it.
 
-<a id="e1819"></a>
-### unattributed ('as we are abundantly instructed')
-*collective voice*
+*Same author.* Cited at [IV.1 ¶43] and [IV.1 n38] (Introitus Apertus, cap. 7) for ‘an explanation of the whole difficulty’ — the Fiery Dragon, the Lodestone, purgation, and “Hence comes the Chamelion which is our Chaos”. The note itself names no author; the context suggests Eirenaeus, since ‘the same author’ follows the verse cited at n37.
 
-**An unattributed saying, introduced with “as we are abundantly instructed”, cited in support of dissolving the Vital Spirit's natural bind.**
+*Unattributed ("as is declared").* Introduced only with “as is declared”, the phrase “a pure panacea from the god of Light” [III.1 ¶10] supports Atwood's point that the purged life flows forth as a panacea.
 
-Atwood introduces it only with “as we are abundantly instructed”: “Flesh and blood cannot enter into the kingdom of heaven, neither doth corruption inherit corruption” [III.2 ¶62]. She cites it in support of dissolving the natural bind of the Vital Spirit. The text gives no attribution.
+*Unattributed ('as we are abundantly instructed').* Atwood introduces it only with “as we are abundantly instructed”: “Flesh and blood cannot enter into the kingdom of heaven, neither doth corruption inherit corruption” [III.2 ¶62]. She cites it in support of dissolving the natural bind of the Vital Spirit. The text gives no attribution.
 
-**References:** III.2 ¶62
-
-<a id="e1820"></a>
-### unattributed couplet
-*collective voice* · unattributed Latin couplet
-
-**Unattributed English and Latin couplets that Atwood cites about Art advancing nature, the descent to the Paternal, and finding without seeking.**
-
-Atwood cites three couplets without attribution:
+*Unattributed couplet.* Atwood cites three couplets without attribution:
 - On the descent undertaken to reach the Paternal: “To find the Hero, for whose only sake We sought the dark abodes and crossed the bitter lake.” [II.4 ¶24].
 - In Latin, on finding that comes without seeking: “Quaeres multum et non invenies; Fortasse invneies cumnon quaeres.” [III.2 ¶58]. Our rendering (by: ours): You will seek much and not find; perhaps you will find when you do not seek.
 - In the Appendix (Table Talk, a later layer), in support of alchemy advancing nature beyond her created state: “Art, then, what nature left in hand doth take, And out of one a twofold work doth make.” [APP ¶156].
 
-**References:** APP ¶156, II.4 ¶24, III.2 ¶58
+*Unattributed Latin tag.* In the Appendix (Table Talk, a later layer), the tag “Visitabis interiore terrae, etc.” [APP ¶182] is appended to the account of successive dissolutions. Our rendering (by: ours): You will visit the interior of the earth. It is given as a reference only, without comment.
 
-<a id="e1821"></a>
-### unattributed Latin tag
-*collective voice*
-
-**An unattributed Latin tag, “Visitabis interiore terrae”, appended to the Appendix's account of successive dissolutions.**
-
-In the Appendix (Table Talk, a later layer), the tag “Visitabis interiore terrae, etc.” [APP ¶182] is appended to the account of successive dissolutions. Our rendering (by: ours): You will visit the interior of the earth. It is given as a reference only, without comment.
-
-**References:** APP ¶182
-
-<a id="e1822"></a>
-### unattributed Latin verse
-*collective voice* · Latin verse (unattributed), unnamed Latin verse
-
-**Unattributed Latin verses that Atwood cites to illustrate the ascent, return to the archetypal world, illumination, the four principles and knowledge of God.**
-
-Atwood cites many Latin verses without attribution (all renderings below are ours):
+*Unattributed Latin verse.* Atwood cites many Latin verses without attribution (all renderings below are ours):
 - “Non levis adscensus, si quis petat ardua, sudor” (no light toil is the ascent, if one seeks the heights), on the toil of the ascent [II.2 ¶30].
 - “Ille deum vitam accipiet, divisque videbit” (he shall receive the life of the gods, and shall see [among] the gods), on attaining the life of the gods [II.4 ¶51].
 - “Tunc ire ad mundum archetypum saepe atque redire” (then to go often to the archetypal world and return), on repeated going to and returning from the archetypal world [II.4 ¶53, II.4 ¶54].
@@ -19960,55 +21132,15 @@ Atwood cites many Latin verses without attribution (all renderings below are our
 - “Nec Sentire Deum nisi qui pars ipse Dei sit.” (nor does any perceive God unless he himself be part of God), in support of the point that only what is part of God perceives God [IV.2 ¶42].
 - In the Appendix (Table Talk, a later layer): “Felix qui potuit rerum cognoscere causas” (happy he who could know the causes of things). There it is called a grand declaration of a deep Hermetic truth: the light of life, lodged in its causal center, frees the threefold life [APP ¶148, APP ¶149, APP ¶150].
 
-**References:** APP ¶148, APP ¶149, APP ¶150, II.2 ¶30, II.4 ¶51, II.4 ¶53, II.4 ¶54, III.2 ¶11, III.3 ¶39, III.3 ¶40, IV.1 ¶38, IV.2 ¶10, IV.2 ¶42
+*Unattributed maxim.* Atwood cites “Ne tu augeas fatum” [IV.3 ¶56] with the English “Enlarge not thy destiny” (by: book). She uses it to warn the would-be practitioner against presumption.
 
-<a id="e1823"></a>
-### unattributed maxim
-*collective voice*
+*Unattributed quotation.* Atwood quotes “such stuff as dreams are made of” [III.2 ¶7] to illustrate the dreamlike nature of human beings, set against the real discovery of the Matter. She also quotes “Land of Havilah, where good gold is” [III.2 ¶8] to identify the magic earth.
 
-**An unattributed Latin maxim, “Ne tu augeas fatum”, that Atwood renders “Enlarge not thy destiny” as a warning to the would-be practitioner.**
+*Unattributed saying.* In a footnote, Atwood cites “The fear of God is the beginning of wisdom, and the knowledge of the Holy is understanding” [I.3 n19]. It supports the admonition to fear God, which she says is proved in alchemy. In the Appendix (Table Talk, a later layer), “The ransom of a man’s life are his riches” [APP ¶158] supports the point that the seeker gives up the riches set before him.
 
-Atwood cites “Ne tu augeas fatum” [IV.3 ¶56] with the English “Enlarge not thy destiny” (by: book). She uses it to warn the would-be practitioner against presumption.
+*Unattributed scriptural phrase.* In the Appendix (Table Talk, a later layer), the phrase “eternal purpose, purposed in Christ Jesus, our Lord” [APP ¶98] supports the view that the Fall accords with a purpose of greater restoration.
 
-**References:** IV.3 ¶56
-
-<a id="e1824"></a>
-### unattributed quotation
-*collective voice*
-
-**Unattributed quotations that Atwood uses for the dreamlike nature of human beings and to name the magic earth.**
-
-Atwood quotes “such stuff as dreams are made of” [III.2 ¶7] to illustrate the dreamlike nature of human beings, set against the real discovery of the Matter. She also quotes “Land of Havilah, where good gold is” [III.2 ¶8] to identify the magic earth.
-
-**References:** III.2 ¶7, III.2 ¶8
-
-<a id="e1825"></a>
-### unattributed saying
-*collective voice*
-
-**Unattributed sayings that Atwood cites about the fear of God as the beginning of wisdom and about the seeker giving up his riches.**
-
-In a footnote, Atwood cites “The fear of God is the beginning of wisdom, and the knowledge of the Holy is understanding” [I.3 n19]. It supports the admonition to fear God, which she says is proved in alchemy. In the Appendix (Table Talk, a later layer), “The ransom of a man’s life are his riches” [APP ¶158] supports the point that the seeker gives up the riches set before him.
-
-**References:** APP ¶158, I.3 n19
-
-<a id="e1826"></a>
-### unattributed scriptural phrase
-*collective voice*
-
-**An unattributed scriptural phrase cited in the Appendix to support the point that the Fall accords with a purpose of greater restoration.**
-
-In the Appendix (Table Talk, a later layer), the phrase “eternal purpose, purposed in Christ Jesus, our Lord” [APP ¶98] supports the view that the Fall accords with a purpose of greater restoration.
-
-**References:** APP ¶98
-
-<a id="e1827"></a>
-### unattributed verse
-*collective voice* · unnamed verse
-
-**Unattributed English verses that Atwood cites about alchemy's concrete evidence, the invisible matter, the divine mover, Saturn bound, the working-place, perseverance and the reign of Mind.**
-
-Atwood cites many verses without attribution:
+*Unattributed verse.* Atwood cites many verses without attribution:
 - The evidence of alchemy was concrete, not “vaguely opinable, But clean, experimental and determinable” [I.1 ¶78].
 - The heavenly bodies proclaim a divine mover: “"The Hand that moves us is divine".” [II.4 ¶30].
 - The material of the Magistry is invisible and insensible: “A nature to search out which is invisible,” [III.1 ¶7].
@@ -20018,100 +21150,94 @@ Atwood cites many verses without attribution:
 - The hoped-for reign of Mind and man's second birth: “Then shall the reign of Mind commence on earth” [IV.3 ¶52, IV.3 ¶53].
 - The divine faculty is confined from birth, yet light can enter: “The beams pour in, and truth and skill may couch the blind.” [IV.4 ¶16].
 
-**References:** I.1 ¶78, II.4 ¶30, III.1 ¶67, III.1 ¶68, III.1 ¶7, III.4 ¶43, IV.3 ¶51, IV.3 ¶52, IV.3 ¶53, IV.4 ¶16
+*Unattributed verse (Helius).* The verse “To Erebus he went, and the sad realms of night” [II.4 ¶19, II.4 ¶20] is cited without attribution. It concerns Helius and illustrates the descent to the realm of night and the ancestors, leading into Atwood's discussion of Aeneas.
 
-<a id="e1828"></a>
-### unattributed verse (Helius)
-*collective voice*
+*Unattributed verse on Proteus.* Atwood cites a verse on Proteus, “Etherial, watery, earthy general soul, Immortal Fire!” [I.2 ¶34, I.2 ¶35], without attribution. She uses it to illustrate the one omniform subject.
 
-**An unattributed verse about Helius, cited to illustrate the descent to the realm of night and the ancestors, which leads into the discussion of Aeneas.**
+*Unattributed words: 'the fear of the Lord is the beginning of Wisdom'.* In the Appendix (Table Talk, a later layer), the words “the fear of the Lord is the beginning of Wisdom” [APP ¶175] are said to become clear in meaning on contact with universal power, the initial of regenerate life.
 
-The verse “To Erebus he went, and the sad realms of night” [II.4 ¶19, II.4 ¶20] is cited without attribution. It concerns Helius and illustrates the descent to the realm of night and the ancestors, leading into Atwood's discussion of Aeneas.
+*Unnamed ('Alchemy has been declared').* Atwood cites an unnamed declaration calling Alchemy “the only true glass of the mind” [IV.4 ¶12]. She uses it to support her view that Alchemy is the way to enter and discover Truth.
 
-**References:** II.4 ¶19, II.4 ¶20
+*Unnamed ('as it is narrated').* Atwood cites an unnamed narration (“as it is narrated”) to support the claim that, by the Divine Will, man has mind and manual efficacy to effect all things [IV.4 ¶3].
 
-<a id="e1829"></a>
-### unattributed verse on Proteus
-*collective voice*
+*Unnamed ("he ... who said").* Atwood quotes an unnamed speaker: “the first step of philosophy is to set the mind a-going” [III.1 ¶8]. She uses it to support the idea that the search for Wisdom starts by setting the mind in motion.
 
-**An unattributed verse on Proteus that Atwood cites to illustrate the one omniform subject.**
-
-Atwood cites a verse on Proteus, “Etherial, watery, earthy general soul, Immortal Fire!” [I.2 ¶34, I.2 ¶35], without attribution. She uses it to illustrate the one omniform subject.
-
-**References:** I.2 ¶34, I.2 ¶35
-
-<a id="e1830"></a>
-### unattributed words: 'the fear of the Lord is the beginning of Wisdom'
-*collective voice* · the fear of the Lord is the beginning of Wisdom
-
-**An unattributed saying whose meaning, the Appendix says, becomes clear on contact with universal power, the initial of regenerate life.**
-
-In the Appendix (Table Talk, a later layer), the words “the fear of the Lord is the beginning of Wisdom” [APP ¶175] are said to become clear in meaning on contact with universal power, the initial of regenerate life.
-
-**References:** APP ¶175
+**References:** I.1 ¶78, I.2 ¶34, I.2 ¶35, I.3 n19, I.3 n51, II.1 ¶26, II.2 ¶29, II.2 ¶30, II.3 ¶18, II.4 ¶19, II.4 ¶20, II.4 ¶24, II.4 ¶30, II.4 ¶51, II.4 ¶53, II.4 ¶54, III.1 ¶10, III.1 ¶67, III.1 ¶68, III.1 ¶7, III.1 ¶8, III.2 ¶11, III.2 ¶58, III.2 ¶62, III.2 ¶7, III.2 ¶8, III.3 ¶39, III.3 ¶40, III.4 ¶43, IV.1 n38, IV.1 ¶38, IV.1 ¶43, IV.1 ¶45, IV.2 ¶10, IV.2 ¶42, IV.3 ¶10, IV.3 ¶51, IV.3 ¶52, IV.3 ¶53, IV.3 ¶56, IV.4 ¶12, IV.4 ¶16, IV.4 ¶3, APP ¶148, APP ¶149, APP ¶150, APP ¶156, APP ¶158, APP ¶175, APP ¶182, APP ¶35, APP ¶98
 
 <a id="e1831"></a>
-### Understanding Essence
+### Understanding essence
 *term*
 
 **The human understanding, taken as an essence to be purified, whose occult Causality can be developed to consciousness.**
 
 Atwood speaks of “purifying the human Understanding Essence, and developing to consciousness its occult Causality” [II.2 ¶22]. In her usage it is the human understanding, considered as an essence that must be purified and that holds a hidden causality able to become conscious.
 
+**See also:** [Essence](#e0503)
+
 **References:** II.2 ¶22
 
 <a id="e1832"></a>
-### Understanding Light
+### Understanding light
 *term*
 
 **The light that, Atwood says, the Divine Law takes from the spirit while it is in full vigour, so as to give it a motive.**
 
 Atwood says the Divine Law deprives the spirit “when in full vigor of its Understanding Light” [III.1 ¶28]. She says this is done to give the spirit a motive.
 
+**See also:** [Light](#e0962)
+
 **References:** III.1 ¶28
 
 <a id="e1833"></a>
-### Understanding Medium
+### Understanding medium
 *term*
 
 **The human understanding, which mystical exercises and preparations bring into contact with its Antecedent Cause, in a view Atwood reports from Aristotle.**
 
 In a view Atwood reports from Aristotle, mystical exercises and preparations bring it about that “the human Understanding Medium is made to pass into contact with its Antecedent Cause” [II.1 ¶37].
 
+**See also:** [Medium](#e1056)
+
 **References:** II.1 ¶37
 
 <a id="e1834"></a>
-### Understanding Spirit
-*term* · understanding spirit
+### Understanding spirit
+*term*
 
 **The higher spirit that, once false imagination is destroyed, can superinduce Divinity, rise above nature, and be inducted by the Mysteries to its Source.**
 
 In Atwood's voice, false imagination must be destroyed “before the understanding spirit can superinduce Divinity” [II.2 ¶10]. The trials go on “till the Understanding Spirit rises superior to the dominion of nature” [II.2 ¶13]. The Mysteries were “real inductions of the Understanding Spirit to its Source” [IV.4 ¶5]. In the Appendix (Table Talk, a later layer), a graven image is “carved into the understanding spirit which conceives it by the desire of life” [APP ¶100]. There it is also that of which the connate spirit may be deprived.
 
-**References:** APP ¶100, II.2 ¶10, II.2 ¶13, IV.4 ¶5
+**See also:** [Spirit](#e1644)
+
+**References:** II.2 ¶10, II.2 ¶13, IV.4 ¶5, APP ¶100
 
 <a id="e1835"></a>
-### understanding vehicle
+### Understanding vehicle
 *term*
 
 **What is nourished and educated in the Elysian state as the embryo life unfolds.**
 
 Atwood speaks of “the nourishment and education of the understanding vehicle” [II.4 ¶16]. This takes place in the Elysian state as the embryo life unfolds.
 
+**See also:** [Vehicle](#e1879)
+
 **References:** II.4 ¶16
 
 <a id="e1836"></a>
-### Undetermined Subject
+### Undetermined subject
 *term*
 
 **Atwood's name for the subject of the Hermetic art, referred to as “her”, which the art takes where nature leaves it and then disposes and manipulates.**
 
 Atwood calls the subject of the art “this our Undetermined Subject” and refers to it as “her”. The art takes it where nature leaves it and undertakes “the right disposition and manipulation of this our Undetermined Subject” [II.2 ¶27].
 
+**See also:** [Subject](#e1675)
+
 **References:** II.2 ¶27
 
 <a id="e1837"></a>
-### unguent
+### Unguent
 *term* · unguents, ointments
 
 **In Hermes as Atwood cites him, the temperate unguent is fire, and unguents are called sulphurs. The true unguent is occult, buried in the matter's own body, and extracted without combustion.**
@@ -20125,7 +21251,7 @@ The true unguent is “the occult and buried unguent” [I.3 ¶54]. It lies in t
 **References:** I.3 ¶24, I.3 ¶54
 
 <a id="e1838"></a>
-### union
+### Union
 *term*
 
 **The condition in which alone, Atwood says, immortality is consummated; also the joining of the line's end with its beginning, which is Eternity rather than time.**
@@ -20144,15 +21270,19 @@ Atwood writes that “immortality is only to be consummated in union” [IV.3 ¶
 
 The soul, drawing back from nonentity, is described as “rallying about her last deserted Unit” [III.2 ¶55]. Apparently this is the soul's last remaining unity. The voice of the passage is unclear.
 
+**See also:** [One](#e1221)
+
 **References:** III.2 ¶55
 
 <a id="e1840"></a>
-### Unit of Truth
+### Unit of truth
 *term*
 
 **The inseparable unity at which the reiterated analysis finally arrives.**
 
 Atwood says the reiterated analysis goes on “until it arrives at the inseparable Unit of Truth” [IV.1 ¶20].
+
+**See also:** [Truth](#e1807)
 
 **References:** IV.1 ¶20
 
@@ -20166,20 +21296,24 @@ Atwood speaks of “returning again, however, into the Universal and abandoning 
 
 **Identified with:** Kingdom of God [APP ¶135]
 
-**References:** APP ¶135, IV.4 ¶27
+**See also:** [Particular Spirit and Universal](#e1273), [Universals](#e1866)
+
+**References:** IV.4 ¶27, APP ¶135
 
 <a id="e1842"></a>
-### Universal Being
+### Universal being
 *term*
 
 **The occult being in nature on whose assumption, Atwood says, the whole of Hermetic theory and practice proceeds.**
 
 Atwood states that “the whole of the Hermetic theory and practice proceeds upon the assumption of a certain Universal Being in nature, which is occult” [I.2 ¶26].
 
+**See also:** [Being](#e0173)
+
 **References:** I.2 ¶26
 
 <a id="e1843"></a>
-### Universal Center
+### Universal center
 *term*
 
 **In the Appendix, Atwood names the Universal Center as consciousness's own true Source and the source of all things.**
@@ -20188,45 +21322,55 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood speaks of consci
 
 **Identified with:** its own true Source [APP ¶6]
 
+**See also:** [Center](#e0253)
+
 **References:** APP ¶6
 
 <a id="e1844"></a>
-### Universal Efficient
+### Universal efficient
 *term*
 
 **What the adepts found to be in the fire of man's life; the text does not define it further.**
 
 Atwood reports that the adepts found “the Universal Efficient was in this fire” [IV.4 ¶4], the fire being man's life. She presents this with approval. The passage does not define the term further.
 
+**See also:** [Efficient](#e0454)
+
 **References:** IV.4 ¶4
 
 <a id="e1845"></a>
-### Universal Element
+### Universal element
 *term*
 
 **What the Alchemists set out to rectify: an invisible vapor they compressed into a tangible Form, as distinct from the common elements of chemistry.**
 
 Atwood says the Alchemists aimed “to rectify the Universal Element, and compress its invisible vapor into a tangible Form” [IV.1 ¶47]. She sets this against the common elements of chemistry. In her account, then, the Universal Element starts as invisible and vaporous and the art gives it bodily form.
 
+**See also:** [Elements](#e0469)
+
 **References:** IV.1 ¶47
 
 <a id="e1846"></a>
-### Universal Form
+### Universal form
 *term*
 
 **In Khunrath's account, that with which the Azoth reanimates bodies that have been reduced to First Matter.**
 
 Quoting Khunrath, the text says the Azoth takes bodies reduced to First Matter and “reanimates them with the Universal Form” [IV.3 ¶28]. The Universal Form is therefore what gives those dissolved bodies new life.
 
+**See also:** [Form](#e0627)
+
 **References:** IV.3 ¶28
 
 <a id="e1847"></a>
-### Universal Idea
+### Universal idea
 *term*
 
 **What appears in the mind during the work; the impress seen in the vessel serves as a secondary witness that confirms it.**
 
 In a footnote Atwood speaks of “this appearance of the Universal Idea in the mind” [III.3 n27], comparing it with the pattern seen in the Subject Waters. She treats the impress seen in the vessel as a secondary witness that confirms it. On this account the main evidence is in the mind, and what shows in the vessel only corroborates it.
+
+**See also:** [Ideas](#e0817)
 
 **References:** III.3 n27
 
@@ -20238,10 +21382,12 @@ In a footnote Atwood speaks of “this appearance of the Universal Idea in the m
 
 Atwood writes: “All is identical --- need we repeat it? --- in the Universal Identity, and every possible assertion of it will be true” [III.3 ¶67]. She also says body, soul and spirit are born in this identity. Readers listed “Unknown Identity” and “Identity” as variants, but the packet does not show them as forms of this headword.
 
+**See also:** [Identity](#e0822)
+
 **References:** III.3 ¶67
 
 <a id="e1849"></a>
-### Universal Identity of Nature
+### Universal Identity of nature
 *term*
 
 **What the physiologists and alchemists are said to have proved by experiment, on ontological ground.**
@@ -20258,10 +21404,12 @@ Atwood reports that the physiologists and alchemists “were said to prove the U
 
 Atwood says that once the outer and inner worlds agree, the result is “a fulfillment under the Universal Law” [III.3 ¶82].
 
+**See also:** [Law](#e0945)
+
 **References:** III.3 ¶82
 
 <a id="e1851"></a>
-### Universal Law of Light in Nature
+### Universal Law of light in nature
 *term*
 
 **The law that, according to Atwood, the philosophers' Stone shows at every stage: its origin, its development and its artificial preparation.**
@@ -20271,18 +21419,20 @@ Atwood writes that “their Stone exhibits, alike in its origin, development and
 **References:** IV.3 ¶27
 
 <a id="e1852"></a>
-### universal matter
+### Universal matter
 *term*
 
 **In the Appendix, matter that can be obtained at the focus of any of the three microcosmic centers.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood says: “The universal matter is obtainable at the focus of either center.” [APP ¶95]. The centers meant are the three microcosmic centers.
 
+**See also:** [Matter](#e1043)
+
 **References:** APP ¶95
 
 <a id="e1853"></a>
-### universal medicine
-*term* · Universal Medicine
+### Universal medicine
+*term*
 
 **A medicine, described by several cited authorities, that preserves health and cures all diseases, and that comes from the true Mercury of the philosophers.**
 
@@ -20292,20 +21442,24 @@ Three cited authorities speak of it. None of these passages is in Atwood's own v
 - **Eudoxus:** the true Mercury of the philosophers is what “will give you the fixed Sulphur and the Universal Medicine” [IV.3 ¶16]. The same passage also speaks of “the medicine of the Third order” and “the three medicines”.
 - **Eirenaeus:** the accomplished artist would have “a universal medicine, moreover, capable of curing all diseases” [IV.3 ¶26].
 
+**See also:** [Medicine](#e1055)
+
 **References:** I.3 n61, IV.3 ¶16, IV.3 ¶26
 
 <a id="e1854"></a>
-### Universal Medium
+### Universal medium
 *term*
 
 **The medium at work in mesmerism. Mesmerists use it as it naturally comes, while the ancients dissolved it further.**
 
 Atwood treats the Universal Medium as what operates in mesmerism. It can be improved, can rise or sink, and has a right determination. She notes that the mesmerists take it as they find it: “as respects the Universal Medium, they even, who believe in such a thing, take it as it presents itself naturally” [II.2 ¶7]. The ancients, by contrast, worked “to dissolve the medium more entirely” [II.2 ¶8]. The contrast suggests that she sees further dissolution of this medium as part of the ancient method that modern mesmerism lacks.
 
+**See also:** [Medium](#e1056)
+
 **References:** II.2 ¶7, II.2 ¶8
 
 <a id="e1855"></a>
-### Universal Nature
+### Universal nature
 *term*
 
 **The life-giving substance that all beings live in without knowing it. It is hidden in natural generation and is to be known from within.**
@@ -20315,8 +21469,8 @@ Atwood speaks of those who seek “to know intrinsical within themselves the sub
 **References:** I.3 n8, II.4 ¶19
 
 <a id="e1856"></a>
-### Universal Offspring
-*term* · universal offspring
+### Universal offspring
+*term*
 
 **What Nature carries sealed in her own vessel through dissolution to resurrection. It is the third of three hypostatic relations, “the All in all”.**
 
@@ -20325,18 +21479,20 @@ Atwood speaks of Nature's vessel, “in which she bears her Universal Offspring,
 **References:** III.3 ¶65, III.3 ¶67
 
 <a id="e1857"></a>
-### Universal Reason
+### Universal reason
 *term*
 
 **The reason that man holds within himself. The ancients magnified it, and it answers the sceptical individual intellect when that intellect is humble.**
 
 Quoting Agrippa, the text says man “contains the Universal Reason within himself” [II.1 ¶9], and that this makes him God's image. In her own voice, Atwood refers to “the Universal Reason so magnified and its ethereal vehicle” [II.1 ¶32] by the ancients, and admits it offers the senses very little evidence. In the Appendix (Table Talk, begun 1860, a later layer) she writes: “The Universal Reason condescends to answer it when not self-seeking and too proud to know.” [APP ¶116]. The “it” is the individual, sceptical intellect.
 
-**References:** APP ¶116, II.1 ¶32, II.1 ¶9
+**See also:** [Reason](#e1469)
+
+**References:** II.1 ¶32, II.1 ¶9, APP ¶116
 
 <a id="e1858"></a>
-### Universal Science
-*term* · universal science
+### Universal science
+*term*
 
 **The science Lully is said to have come to late in life. It is also the state, together with integrity, to which the central work restores the mind.**
 
@@ -20345,7 +21501,7 @@ Atwood writes: “Raymond Lully is supposed to have become acquainted with Arnol
 **References:** I.1 ¶46, IV.4 ¶17
 
 <a id="e1859"></a>
-### universal soul of the world
+### Universal soul of the world
 *term*
 
 **The soul hidden within Nature, which can be called her temple. The Ether is its vestibule or vehicle.**
@@ -20357,7 +21513,7 @@ Atwood speaks of “the universal soul of the world, which is occultly suspended
 **References:** III.1 ¶5
 
 <a id="e1860"></a>
-### Universal Source
+### Universal source
 *term*
 
 **What man, through the virtue within him, could prove and magnify. According to Atwood, doing so was the foundation of the magistery.**
@@ -20367,7 +21523,7 @@ Atwood says man “nor yet surmises the virtue that is in him, to prove and magn
 **References:** II.1 ¶8
 
 <a id="e1861"></a>
-### Universal Spirit
+### Universal spirit
 *term*
 
 **The common source of the First Matter, metals and all things. It is a passive middle substance present everywhere in nature, which art can collect, rectify and perfect.**
@@ -20392,10 +21548,12 @@ Atwood speaks of the Universal Spirit throughout the book.
 
 **Identified with:** Principle of all growth [APP ¶4]; [Mercury](#e1065) [I.2 ¶49]
 
-**References:** APP ¶4, APP ¶65, I.2 ¶31, I.2 ¶40, I.2 ¶49, I.3 n4, II.2 ¶26, IV.3 ¶29
+**See also:** [Spirit](#e1644)
+
+**References:** I.2 ¶31, I.2 ¶40, I.2 ¶49, I.3 n4, II.2 ¶26, IV.3 ¶29, APP ¶4, APP ¶65
 
 <a id="e1862"></a>
-### universal spirit of nature
+### Universal spirit of nature
 *term*
 
 **The spirit by which light can be multiplied; knowledge of it applied in the mineral kingdom produced gold. It is the subject of Vaughan's Anima Magia Abscondita.**
@@ -20405,8 +21563,8 @@ Atwood refers to the “miraculous multiplicability of light by the universal sp
 **References:** I.1 ¶38, I.1 ¶74
 
 <a id="e1863"></a>
-### Universal Subject
-*term* · universal subject
+### Universal subject
+*term*
 
 **The one subject of the Hermetic art and the foundation of its experiment, identified with the first matter. It exists in nature, can be nourished in Man, and its concentrated virtue is the Stone.**
 
@@ -20419,22 +21577,26 @@ In her own voice:
 - The art's analysis is “the whole metaphysico-chemical analysis of the Universal Subject” [III.2 ¶20].
 - It is the one subject underlying all Species, and transmutation concerns it: “there is a Universal Subject in nature, and that Subject is susceptible of nourishment in Man” [IV.4 ¶10]. Its concentrated virtue is the Stone.
 
-**Identified with:** [First Matter](#e0592) [I.2 ¶7]
+**Identified with:** [First matter](#e0592) [I.2 ¶7]
+
+**See also:** [Subject](#e1675)
 
 **References:** I.1 ¶24, I.2 ¶7, I.2 ¶8, II.1 ¶6, III.2 ¶20, IV.4 ¶10
 
 <a id="e1864"></a>
-### Universal Vitalizing Power
+### Universal vitalizing power
 *term*
 
 **In the Appendix, the power the mind becomes related to when it enters the third life, so that it can act out that power's will.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood says that the mind entering the third life becomes “related to the Universal Vitalizing Power, and so can act Its will” [APP ¶3].
 
+**See also:** [The Power](#e1375)
+
 **References:** APP ¶3
 
 <a id="e1865"></a>
-### Universal Will
+### Universal will
 *term*
 
 **In the Appendix, the agent of the Work, at war with the self-will. It dissolves the false forms and reproduces the faculties transmuted. It is identified with the great Salt Sea and Wisdom.**
@@ -20442,6 +21604,8 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood says that the mi
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood writes: “The Universal Will being represented as agent dissolves the false forms in the self-will represented as patient.” [APP ¶94]. It destroys the faculties and false forms and then reproduces them transmuted. She identifies it as “The great Salt Sea (Wisdom, the Universal Will)” [APP ¶94]. In plain terms, the agent–patient language of the Work is here read as the universal will acting on the individual self-will.
 
 **Identified with:** great Salt Sea / Wisdom [APP ¶94]
+
+**See also:** [Will](#e1939)
 
 **References:** APP ¶94
 
@@ -20452,6 +21616,8 @@ In the Appendix (Table Talk, begun 1860, a later layer), Atwood writes: “The U
 **General truths present in the mind independently of the senses. Atwood offers them as evidence of a higher reality and as grounds for her inquiry.**
 
 Atwood says “this subsistence of Universals in the human mind deserves to be profoundly considered” [II.1 ¶34]. She cites “the independent evidence of Universals in the human intellect” [II.1 ¶39] as proof of a higher kind of evidence and of a latent superstantial nature. On her account, the fact that the soul perceives universals shows it can act without phantasy, and “they reveal in us a necessity of Being beyond present experience” [II.2 ¶13]. This helps her introduce the Idea of Wisdom. Later she gives “the natural subsistence of Universals in the human mind” [IV.4 ¶14] as a ground of probability for the inquiry.
+
+**See also:** [Particular Spirit and Universal](#e1273), [Universal](#e1841)
 
 **References:** II.1 ¶34, II.1 ¶39, II.2 ¶13, IV.4 ¶14
 
@@ -20467,49 +21633,21 @@ The text cites the Zohar here; this is not Atwood's own voice. The divine is des
 
 **References:** III.2 ¶3
 
-<a id="e1868"></a>
-### unnamed ('Alchemy has been declared')
-*collective voice*
-
-**An unnamed voice, cited with “Alchemy has been declared”, that supports Atwood's view of Alchemy as the way to enter and discover Truth.**
-
-Atwood cites an unnamed declaration calling Alchemy “the only true glass of the mind” [IV.4 ¶12]. She uses it to support her view that Alchemy is the way to enter and discover Truth.
-
-**References:** IV.4 ¶12
-
-<a id="e1869"></a>
-### unnamed ('as it is narrated')
-*collective voice*
-
-**An unnamed source, cited with “as it is narrated”, that supports the claim that by the Divine Will man has the mind and manual skill to bring about all things.**
-
-Atwood cites an unnamed narration (“as it is narrated”) to support the claim that, by the Divine Will, man has mind and manual efficacy to effect all things [IV.4 ¶3].
-
-**References:** IV.4 ¶3
-
-<a id="e1870"></a>
-### unnamed ("he ... who said")
-*collective voice*
-
-**An unnamed speaker, introduced with “he ... who said”, whose saying supports the idea that the search for Wisdom starts by setting the mind in motion.**
-
-Atwood quotes an unnamed speaker: “the first step of philosophy is to set the mind a-going” [III.1 ¶8]. She uses it to support the idea that the search for Wisdom starts by setting the mind in motion.
-
-**References:** III.1 ¶8
-
 <a id="e1871"></a>
-### Upper Ether
+### Upper ether
 *term*
 
 **In the Appendix, the region where the Ideas are, which the spirit in the medial life sees as its azure sky.**
 
 In the Appendix (Table Talk, begun 1860, a later layer), Atwood places the Ideas in “the Upper Ether, where the Ideas are” [APP ¶15]. To the spirit in the medial life it appears as its azure sky.
 
+**See also:** [Ether](#e0508)
+
 **References:** APP ¶15
 
 <a id="e1872"></a>
-### Urbigeranus, the author of the Hermetic Secret
-*person* · Urbigeranus
+### Urbigeranus
+*person* — *author of the Hermetic Secret* · Urbigeranus, the author of the Hermetic Secret
 
 **Urbigeranus, author of the Hermetic Secret, cited for calling the labor a labor of Hercules that cannot be done without the Theory of the Arcanum.**
 
@@ -20522,12 +21660,14 @@ She uses him to support how difficult the work is and that it depends on theory.
 **References:** IV.1 ¶7
 
 <a id="e1873"></a>
-### utensive power
+### Utensive power
 *term*
 
 **Vaughan's term, as quoted, for the working strength of the finished Stone, which casting it on gold serves to qualify.**
 
 A term in a passage Atwood quotes from Vaughan: the Stone, once made, is cast on gold “to qualify the utensive power of it when it was made” [IV.3 ¶22]. The context suggests it means the medicine's working strength, which this bodily fermentation tempers.
+
+**See also:** [The Power](#e1375)
 
 **References:** IV.3 ¶22
 
@@ -20535,7 +21675,7 @@ A term in a passage Atwood quotes from Vaughan: the Stone, once made, is cast on
 
 <a id="e1874"></a>
 ### Van Helmont
-*person* · Helmont, Van helmont
+*person* · Helmont
 
 **Named a worthy disciple of Paracelsus; Atwood cites him often as eyewitness of the Stone and on the labour, the Hand, the operator and the physician.**
 
@@ -20549,20 +21689,24 @@ Named with Crollius, Fludd, Helvetius and Faber among the intelligent, worthy di
 
 **Qualifications.** With Paracelsus he corroborates the appearance of the Universal Idea (“by separation of their parts the specific impress is to be perceived in the vessel containing the decomposed spirit”), but Atwood treats this as only a secondary witness [III.3 n27]. In the Appendix (Table Talk, the later layer) he is said to speak of the White Light as the Quellem “in a very superficial way” [APP ¶157].
 
-**References:** APP ¶157, I.1 n98, I.1 ¶64, I.1 ¶76, III.1 n13, III.1 ¶13, III.2 n18, III.2 n27, III.2 n9, III.2 ¶17, III.2 ¶28, III.2 ¶8, III.3 n27, IV.1 n3, IV.1 n30, IV.1 n9, IV.1 ¶39, IV.1 ¶5, IV.1 ¶7, IV.3 n12, IV.3 n13, IV.3 ¶34, IV.3 ¶35
+**See also:** [Van Helmonts (father and son)](#e1875)
+
+**References:** I.1 n98, I.1 ¶64, I.1 ¶76, III.1 n13, III.1 ¶13, III.2 n18, III.2 n27, III.2 n9, III.2 ¶17, III.2 ¶28, III.2 ¶8, III.3 n27, IV.1 n3, IV.1 n30, IV.1 n9, IV.1 ¶39, IV.1 ¶5, IV.1 ¶7, IV.3 n12, IV.3 n13, IV.3 ¶34, IV.3 ¶35, APP ¶157
 
 <a id="e1875"></a>
-### the Van Helmonts, father and son
-*collective voice* · Van Helmonts
+### Van Helmonts
+*collective voice* — *father and son* · the Van Helmonts, father and son
 
 **The Van Helmonts, father and son, listed by Atwood among the adepts, with de Ortu Medicinae and Paradoxes cited.**
 
 Listed among the adepts, with *de Ortu Medicinae* and *Paradoxes* cited in the note [I.1 ¶70; I.1 n82].
 
+**See also:** [Van Helmont](#e1874)
+
 **References:** I.1 n82, I.1 ¶70
 
 <a id="e1876"></a>
-### vaporous vehicle
+### Vaporous vehicle
 *term*
 
 **The material principle in conception, which obscures the generative light to bring it into sense and must be wholly evaporated before truth appears.**
@@ -20570,6 +21714,8 @@ Listed among the adepts, with *de Ortu Medicinae* and *Paradoxes* cited in the n
 In the Appendix (Table Talk, the later layer), Atwood says: “The vaporous vehicle is the material principle in the conception” [APP ¶121]. It obscures the paternal generative light so as to bring it into sense, and “The whole of the self-included vaporous vehicle of the soul must be evaporated before any truth is evolved.” [APP ¶121]
 
 **Identified with:** the material principle in the conception [APP ¶121]
+
+**See also:** [Vehicle](#e1879)
 
 **References:** APP ¶121
 
@@ -20587,7 +21733,7 @@ In the Appendix (Table Talk, the later layer), Atwood says: “The vaporous vehi
 
 **Appendix (later layer).** Every seeker “wanders awhile in the region of Chimaeras” [APP ¶171]; he “very elegantly depicts the play of that ether” [APP ¶105].
 
-**References:** APP ¶105, APP ¶12, APP ¶141, APP ¶171, APP ¶53, I.1 ¶26, I.1 ¶66, I.1 ¶73, I.1 ¶74, I.2 n34, I.2 n9, I.2 ¶33, I.2 ¶8, I.3 n22, I.3 n30, I.3 n36, II.1 n25, II.1 ¶26, II.2 n16, II.3 n33, II.3 n35, II.3 n59, II.3 ¶30, II.3 ¶52, II.4 n5, II.4 ¶11, II.4 ¶9, III.1 n10, III.1 n11, III.1 n18, III.1 n3, III.1 n56, III.1 n6, III.1 ¶50, III.1 ¶51, III.1 ¶8, III.1 ¶9, III.2 n25, III.2 n43, III.3 n1, III.3 n14, III.3 n45, III.3 ¶27, III.3 ¶4, III.4 n32, III.4 n35, III.4 ¶38, III.4 ¶44, IV.1 n28, IV.1 n3, IV.1 n35, IV.1 ¶36, IV.1 ¶41, IV.1 ¶5, IV.2 n24, IV.2 ¶35, IV.3 n3, IV.3 ¶22
+**References:** I.1 ¶26, I.1 ¶66, I.1 ¶73, I.1 ¶74, I.2 n34, I.2 n9, I.2 ¶33, I.2 ¶8, I.3 n22, I.3 n30, I.3 n36, II.1 n25, II.1 ¶26, II.2 n16, II.3 n33, II.3 n35, II.3 n59, II.3 ¶30, II.3 ¶52, II.4 n5, II.4 ¶11, II.4 ¶9, III.1 n10, III.1 n11, III.1 n18, III.1 n3, III.1 n56, III.1 n6, III.1 ¶50, III.1 ¶51, III.1 ¶8, III.1 ¶9, III.2 n25, III.2 n43, III.3 n1, III.3 n14, III.3 n45, III.3 ¶27, III.3 ¶4, III.4 n32, III.4 n35, III.4 ¶38, III.4 ¶44, IV.1 n28, IV.1 n3, IV.1 n35, IV.1 ¶36, IV.1 ¶41, IV.1 ¶5, IV.2 n24, IV.2 ¶35, IV.3 n3, IV.3 ¶22, APP ¶105, APP ¶12, APP ¶141, APP ¶171, APP ¶53
 
 <a id="e1878"></a>
 ### Vegetable spirit
@@ -20599,10 +21745,12 @@ In the Appendix (Table Talk, the later layer), Atwood says: “The Vegetable spi
 
 **Identified with:** growth-causing spirit [APP ¶54]
 
+**See also:** [Spirit](#e1644)
+
 **References:** APP ¶54
 
 <a id="e1879"></a>
-### vehicle
+### Vehicle
 *term*
 
 **The medium or vehicle of the mind and soul: clear-seeing when purified, terrene when sensual, strengthened by material Rites, and joined by the soul in its ascent.**
@@ -20623,10 +21771,12 @@ A passage spoken in Venus's voice: “Now saith Venus: I beget light, nor is the
 
 **Identified with:** central light of nature [I.3 n49]
 
+**See also:** [Saturn, Jupiter, Venus and Lune](#e1544)
+
 **References:** I.3 n49, I.3 ¶39
 
 <a id="e1881"></a>
-### vertical separated Light
+### Vertical separated light
 *term*
 
 **Atwood's name for the true principle of the Divine Art: a divine ray or Power issuing from the will of the divinized.**
@@ -20635,11 +21785,13 @@ Atwood states: “This vertical separated Light then we take henceforth to be th
 
 **Identified with:** congenial ray / Power [III.1 ¶37]
 
+**See also:** [Light](#e0962)
+
 **References:** III.1 ¶37
 
 <a id="e1882"></a>
-### vessel
-*term* · Vessel, Vessels
+### Vessel
+*term* · Vessels
 
 **The concealed container in which the Matter is concocted; Atwood calls it internal and a divine secret, and Hermes calls it the philosophers' water.**
 
@@ -20652,7 +21804,7 @@ Norton's *Ordinal* is quoted: “Use one manner of vessel in matter and in shape
 **References:** I.3 n22, II.1 ¶17, II.1 ¶6, II.1 ¶8, IV.1 ¶28, IV.2 ¶11
 
 <a id="e1883"></a>
-### vestibule
+### Vestibule
 *term*
 
 **The forecourt before the temple: in man the phantasic intelligence before Reason, in the universe the Ether before the world-soul; mesmerism opens into it.**
@@ -20683,10 +21835,10 @@ Cited with approval: he used the truth of intuitive certainty to shake the sensu
 
 **Appendix (later layer).** Proteus's binding alludes to the First Matter's changing forms; Aristaeus's lost bees are the soul's faculties; the Golden Bough is the aurific seed; the *Georgics* allegorize celestial and spiritual agriculture [APP ¶141; APP ¶144; APP ¶152; APP ¶157]; the Aristaeus myth bears on the Vital transmutation in an advanced stage (“Quis deus hac musae quis nobis extudet artem?”) [APP ¶173].
 
-**References:** APP ¶141, APP ¶144, APP ¶152, APP ¶157, APP ¶173, I.1 ¶18, I.1 ¶74, I.2 n14, I.2 ¶12, I.2 ¶13, II.3 n12, II.3 n13, II.3 n4, II.3 n5, II.3 ¶10, II.3 ¶12, II.3 ¶13, II.3 ¶17, II.3 ¶19, II.3 ¶6, II.3 ¶8, II.4 n3, II.4 ¶16, II.4 ¶7, II.4 ¶8, III.1 n33, III.1 n39, III.1 ¶25, III.1 ¶30, III.1 ¶32, III.1 ¶33, III.1 ¶35, III.2 ¶27, III.2 ¶28, III.2 ¶54, III.4 ¶42
+**References:** I.1 ¶18, I.1 ¶74, I.2 n14, I.2 ¶12, I.2 ¶13, II.3 n12, II.3 n13, II.3 n4, II.3 n5, II.3 ¶10, II.3 ¶12, II.3 ¶13, II.3 ¶17, II.3 ¶19, II.3 ¶6, II.3 ¶8, II.4 n3, II.4 ¶16, II.4 ¶7, II.4 ¶8, III.1 n33, III.1 n39, III.1 ¶25, III.1 ¶30, III.1 ¶32, III.1 ¶33, III.1 ¶35, III.2 ¶27, III.2 ¶28, III.2 ¶54, III.4 ¶42, APP ¶141, APP ¶144, APP ¶152, APP ¶157, APP ¶173
 
 <a id="e1886"></a>
-### virtue
+### Virtue
 *term*
 
 **In Norton, operative power of four kinds — formal, instrumental, proper and special, material — from which an infused virtue results.**
@@ -20696,27 +21848,31 @@ Norton, as quoted, distinguishes four virtues: formal of the orb, instrumental o
 **References:** IV.2 ¶34
 
 <a id="e1887"></a>
-### viscous soul
+### Viscous soul
 *term*
 
 **Synesius's term, cited by Atwood, for the soul circulating amid her Adamical defilements, which Plato likens to the deformed Glaucus.**
 
 Atwood cites the expression from Synesius: “Our viscous soul, as Synesius calls it, circulating in the midst of all her Adamical defilements” [II.3 ¶30]; Plato compares such a soul to the deformed Glaucus [II.3 ¶30].
 
+**See also:** [Soul](#e1632)
+
 **References:** II.3 ¶30
 
 <a id="e1888"></a>
-### vision in Hades
+### Vision in Hades
 *term*
 
 **The lower visionary stage tied to the co-nascent spirit, whose figured images come from the mind's own fancy.**
 
 Atwood describes a lower visionary stage tied to the co-nascent spirit and endured without much disturbing ordinary life; its images are “such as the mind before beheld in Hades from its own self-shadowing creative fancy” [II.4 ¶29].
 
+**See also:** [Hades](#e0722)
+
 **References:** II.4 ¶29
 
 <a id="e1889"></a>
-### vital agencies
+### Vital agencies
 *term*
 
 **The agencies of life which, with their effects, are submitted to subtle analysis and pure synthesis in seeking the Word of Life.**
@@ -20726,7 +21882,7 @@ Atwood names the search for the Word of Life a “subtle analysis and pure synth
 **References:** IV.2 ¶43
 
 <a id="e1890"></a>
-### vital analysis
+### Vital analysis
 *term*
 
 **The adepts' analysis of bodies by which they found man's life to be a pure fire in an ethereal vapour.**
@@ -20736,7 +21892,7 @@ Atwood cites “adepts well-skilled, as they profess, in the vital analysis of b
 **References:** IV.4 ¶4
 
 <a id="e1891"></a>
-### vital atmosphere
+### Vital atmosphere
 *term*
 
 **The impure atmosphere around each individual life, seen by clairvoyants, where thoughts and desires are imaged; purifying it is the Mystery's aim.**
@@ -20746,7 +21902,7 @@ In the Appendix (Table Talk, the later layer), Atwood describes the atmosphere s
 **References:** APP ¶73
 
 <a id="e1892"></a>
-### Vital Bond
+### Vital bond
 *term*
 
 **What the Rational Efficient proceeds to dissolve; not further defined.**
@@ -20756,34 +21912,38 @@ Atwood says of the Rational Efficient that “it proceeds even to a dissolution 
 **References:** III.1 ¶47
 
 <a id="e1893"></a>
-### Vital Chemistry
+### Vital chemistry
 *term*
 
 **Kirchringius's name for laborious operations amid which the adepts prayed.**
 
 Quoted from Kirchringius: “even in the midst of the operations of Vital Chemistry, full of labour and toil, they prayed” [III.4 ¶22]. Not further defined.
 
+**See also:** [Chemistry](#e0273)
+
 **References:** III.4 ¶22
 
 <a id="e1894"></a>
-### Vital Experiment
+### Vital experiment
 *term*
 
 **Atwood's name for the ancient experimental work on life, the vital alteration of the Mysteries, whose progress discloses powers and secrets of nature.**
 
 Atwood's name for the process sketched through the Mysteries in connection with the Sacred Art and Alchemy: “In the progress of this Vital Experiment, it may not be difficult to imagine that powers would be disclosed and particular secrets of nature in the substance of her Whole.” [II.4 ¶58] Part III opens by examining its Method and Principles before the practice: “Let us examine yet further into the Method of this Vital Experiment” [III.1 ¶4].
 
+**See also:** [Experiment](#e0536)
+
 **References:** II.4 ¶58, III.1 ¶4
 
 <a id="e1895"></a>
 ### Vital force
-*term* · vital force
+*term*
 
 **The force without which no real transformation occurs; it passes between fermented lives by transmission from agent to patient.**
 
 Atwood says no real transformation is achieved “unless the vital force be present and in action” [II.1 ¶5]. In the Appendix (Table Talk, the later layer) it is the life passed between fermented lives, progressing by transmission from agent to patient: “That is the law of progression of the Vital force” [APP ¶42].
 
-**References:** APP ¶42, II.1 ¶5
+**References:** II.1 ¶5, APP ¶42
 
 <a id="e1896"></a>
 ### Vital Magnetism
@@ -20796,17 +21956,19 @@ Atwood: “the discovery of Vital Magnetism is young, and has had no time to gro
 **References:** III.1 ¶8
 
 <a id="e1897"></a>
-### vital medium
+### Vital medium
 *term*
 
 **What the purified intelligence dissolves in order to open the occult source.**
 
 Atwood says the purified intelligence, “by dissolving the vital medium, opens the occult source” [III.1 ¶23]. Not further defined.
 
+**See also:** [Medium](#e1056)
+
 **References:** III.1 ¶23
 
 <a id="e1898"></a>
-### vital perfectibility
+### Vital perfectibility
 *term*
 
 **The perfecting of life, of which the one Art is the medium.**
@@ -20816,39 +21978,45 @@ Atwood calls the Art “the one Art and medium of vital perfectibility” [I.1 �
 **References:** I.1 ¶74
 
 <a id="e1899"></a>
-### Vital Principles
+### Vital principles
 *term*
 
 **Principles of life that subsist even in their extreme separation by Art.**
 
 Atwood speaks of the “marvelous subsistence of the Vital Principles in their extreme separation by Art” [III.3 ¶9].
 
+**See also:** [Principles](#e1399)
+
 **References:** III.3 ¶9
 
 <a id="e1900"></a>
-### Vital Purification
+### Vital purification
 *term* · Purification
 
 **The first stage of the Hermetic Practice, commonly called the Gross Work: purifying the medium of wild affections and defects by dissolution, by the Manual or Linear way.**
 
 The heading of IV.1 identifies it: “Of the Vital Purification, Commonly Called the Gross Work” [IV.1 ¶1]. It purifies the medium of its wild affections and innate defects by dissolution; the adepts “proceeded at once scientifically to purify” [IV.1 ¶4], and “for the Purification we read but of one way, called by the Adepts Manual, and their Linear way” [IV.1 ¶5].
 
-**Identified with:** [Gross Work](#e0716) [IV.1 ¶1]
+**Identified with:** [Gross work](#e0716) [IV.1 ¶1]
+
+**See also:** [Purification](#e1428)
 
 **References:** IV.1 ¶1, IV.1 ¶4, IV.1 ¶5
 
 <a id="e1901"></a>
-### Vital Radix
+### Vital radix
 *term*
 
 **That to which the adepts made experimental ingress, thereby discovering within themselves the catholic original of nature.**
 
 Atwood says the adepts, “by an experimental ingress, as they acknowledge, to the Vital Radix, have discovered the catholic original of nature, intellectual and material” [III.2 ¶28].
 
+**See also:** [Radix](#e1455)
+
 **References:** III.2 ¶28
 
 <a id="e1902"></a>
-### vital rectification
+### Vital rectification
 *term*
 
 **Light's greatest and most permanent benefit to man, distinct from its outward use as medicine.**
@@ -20858,8 +22026,8 @@ Atwood says Light benefits man as a medicine, “but above all, and most permane
 **References:** IV.3 ¶30
 
 <a id="e1903"></a>
-### Vital Spirit
-*term* · vital spirit
+### Vital spirit
+*term*
 
 **Man's life-spirit, impure by birth, which the alchemical work purifies, dissolves, ferments and circulates until it is promoted to perfection and ends in the Principle of things.**
 
@@ -20871,7 +22039,9 @@ Sendivogius places the soul “in the vital spirit in the purest blood” [II.1 
 
 In the Appendix (Table Talk, later layer), Atwood says it is “in the Universal as well as in the individual” [APP ¶28], that “the human vital spirit” is what Alchemy ferments and purifies [APP ¶68], and that it “always is in chaos, i.e., always coming to be, never is, and whilst in this life wants the rebirth” [APP ¶165].
 
-**References:** APP ¶165, APP ¶28, APP ¶68, I.2 ¶48, II.1 ¶10, II.1 ¶21, II.1 ¶25, II.2 ¶24, II.2 ¶8, II.4 ¶52, III.1 ¶28, III.1 ¶50, III.1 ¶9, III.2 ¶62, III.3 ¶3, III.3 ¶72
+**See also:** [Spirit](#e1644)
+
+**References:** I.2 ¶48, II.1 ¶10, II.1 ¶21, II.1 ¶25, II.2 ¶24, II.2 ¶8, II.4 ¶52, III.1 ¶28, III.1 ¶50, III.1 ¶9, III.2 ¶62, III.3 ¶3, III.3 ¶72, APP ¶165, APP ¶28, APP ¶68
 
 <a id="e1904"></a>
 ### Vital transmutation
@@ -20881,10 +22051,12 @@ In the Appendix (Table Talk, later layer), Atwood says it is “in the Universal
 
 In the Appendix (Table Talk, later layer) Atwood says the Aristaeus myth “bears altogether on the Vital transmutation in an advanced stage” [APP ¶173].
 
+**See also:** [Transmutation](#e1778)
+
 **References:** APP ¶173
 
 <a id="e1905"></a>
-### vitalization
+### Vitalization
 *term*
 
 **Vital power, which Atwood says is capable of illimitable artificial increase.**
@@ -20903,10 +22075,12 @@ Khunrath (quoted) names “the Green Duenech and the Vitriol of Venus, which are
 
 **Identified with:** true matters of the Blessed Stone (with the Green Duenech) [IV.1 ¶36]
 
+**See also:** [Venus](#e1880)
+
 **References:** IV.1 ¶36
 
 <a id="e1907"></a>
-### vivific Ens
+### Vivific ens
 *term*
 
 **The life-giving essence of the Stone, of the same origin as what it assimilates, the Universal Spirit; called azoth by the Hermetic philosophers.**
@@ -20915,11 +22089,13 @@ Atwood: “this powerful vivific Ens is of the same origin as that which it assi
 
 **Identified with:** [Azoth](#e0166) [IV.3 ¶29]
 
+**See also:** [Ens](#e0490)
+
 **References:** IV.3 ¶29
 
 <a id="e1908"></a>
-### the Voice at our Lord's baptism; our Lord's prayer
-*collective voice* · the Voice at our Lord's baptism, our Lord's prayer
+### Voice at our Lord’s baptism
+*collective voice* — *and our Lord’s prayer* · our Lord's prayer
 
 **The Voice at our Lord's baptism and our Lord's prayer, which Atwood cites in the Table Talk to illustrate the Name speaking and working its change.**
 
@@ -20928,7 +22104,7 @@ In the Appendix (Table Talk, later layer) Atwood cites the Voice and Christ's pr
 **References:** APP ¶88
 
 <a id="e1909"></a>
-### voluntary assimilation
+### Voluntary assimilation
 *term*
 
 **The only way, Atwood reports it taught, to become partaker of the Divinity one aspires to; also the means by which the torch promotes things to their utmost strength.**
@@ -20938,7 +22114,7 @@ Atwood reports the teaching that “no otherwise can we be made partakers, it is
 **References:** III.4 ¶20, IV.4 ¶32
 
 <a id="e1910"></a>
-### voluntary axle
+### Voluntary axle
 *term*
 
 **That through which Osiris, the Divine Light, passes in the regeneration, suffering Typhon's restraint and subversion.**
@@ -20948,7 +22124,7 @@ Atwood says Osiris (the Divine Light) “suffers in passing through the voluntar
 **References:** III.1 ¶63
 
 <a id="e1911"></a>
-### voluntary contrariation
+### Voluntary contrariation
 *term*
 
 **That in which, Atwood says, the central hidden light is hidden.**
@@ -20958,22 +22134,26 @@ In the Appendix (Table Talk, later layer): “the central hidden light (there’
 **References:** APP ¶125
 
 <a id="e1912"></a>
-### voluntary corrosive
+### Voluntary corrosive
 *term*
 
 **The agent applied to obliterate the defilements of the Universal Element, first in a series with gentleness, beneficence and justice.**
 
 Atwood: “By applying the proper voluntary corrosive they teach to obliterate its defilements”, i.e. those of the Universal Element; it stands first in a series followed by gentleness, beneficence and justice [IV.1 ¶47].
 
+**See also:** [Corrosives](#e0339)
+
 **References:** IV.1 ¶47
 
 <a id="e1913"></a>
-### Voluntary Efficient
+### Voluntary efficient
 *term* · Efficient
 
 **Something drawn upward into intellectual reminiscence once the vital medium is dissolved; Wisdom's lost Efficient recovered in the Light of life.**
 
 Atwood says the dissolution of the vital medium “draws the Voluntary Efficient upward into intellectual reminescence” [III.1 ¶23], and speaks of “Wisdom recovering her lost Efficient in the Light of life” [III.1 ¶36]. The term is not further defined.
+
+**See also:** [Efficient](#e0454)
 
 **References:** III.1 ¶23, III.1 ¶36
 
@@ -20989,20 +22169,22 @@ In the monk's words, “Fire only can effect that, and Vulcan is the sole and on
 
 **Identified with:** Motion [APP ¶129]; [Faber](#e0547) [APP ¶130]; Motion [IV.1 ¶34]
 
-**References:** APP ¶129, APP ¶130, IV.1 ¶34, IV.1 ¶40, IV.1 ¶43
+**References:** IV.1 ¶34, IV.1 ¶40, IV.1 ¶43, APP ¶129, APP ¶130
 
 <a id="e1915"></a>
-### vulgar Matter
+### Vulgar matter
 *term*
 
 **The alchemists' Matter as first known: full of heterogeneous qualities, fallen from its sphere and defiled, needing preparations, solutions and calcinations.**
 
 Reported as the alchemists' view: the Matter as first found is “full of heterogeneous qualities and notions, as a subject fallen from its sphere and defiled”, and so needs preparations, solutions and calcinations [II.2 ¶16].
 
+**See also:** [Matter](#e1043)
+
 **References:** II.2 ¶16
 
 <a id="e1916"></a>
-### vulture
+### Vulture
 *term*
 
 **Per the Scholiast, the newborn quintessential spirit or Proteus: the first sublimed quintessence not yet perfected by art, the same as the crow in a different estate.**
@@ -21036,7 +22218,7 @@ Atwood criticizes Warburton for seeing the Mysteries as political fraud and call
 **References:** II.2 n1, II.2 n8, II.2 ¶4, II.3 n10, II.3 n37, II.3 n42, II.3 ¶11, II.3 ¶13, II.3 ¶37, II.4 n28, II.4 ¶29
 
 <a id="e1919"></a>
-### wards
+### Wards
 *term*
 
 **Intricate structures constructed by and for the Key, for it alone to pass through.**
@@ -21047,7 +22229,7 @@ Atwood: “those mirific wards which were constructed by it, and for it to pass 
 
 <a id="e1920"></a>
 ### Water
-*term* · water, our Water, Water (of the Adepts), waters
+*term* · our Water, waters
 
 **The philosophers' Water: not common water but the ethereal body of life and light, altered and corporified by art; the middle nature, mercurial quintessence and first matter, under many names.**
 
@@ -21063,17 +22245,19 @@ Atwood: “those mirific wards which were constructed by it, and for it to pass 
 
 **Eudoxus.** “Our Water is a living Spring which comes out of the Stone by a natural miracle of our philosophy.” [IV.3 ¶8]. It is “the soul and the spirit” [IV.3 ¶7], called wine, water of life, vinegar or oil “according to the different degrees of Preparation”, “properly called the Vinegar of the Wise”, the “Divine Liquor”, and “the reducer of the soul to its body” [IV.3 ¶8]. Boiling turns it into Earth, the Mercury of the Wise carrying its own Sulphur: “it is this which reduces our Water into Earth”, and as earth it “shall obtain all the virtues which the philosophers attribute to it” [IV.3 ¶12].
 
-**Identified with:** ethereal body of life and light [I.2 ¶43]; [Passive Spirit](#e1278) [I.3 n21]; [Fire](#e0575) [I.3 ¶26]; middle nature [I.3 ¶55]; mercurial quintessence [I.3 n63]; most sharp vinegar [III.1 ¶70]; Blessed Nature [III.1 ¶70]; first pure matter [III.2 n38]; essence (of the Light's virtue) [III.3 ¶24]; the soul and the spirit [IV.3 ¶7]; wine, water of life, vinegar, oil [IV.3 ¶8]; Vinegar of the Wise [IV.3 ¶8]; Divine Liquor [IV.3 ¶8]; reducer of the soul to its body [IV.3 ¶8]; Stilla roris, Lac Virginis, Elixir, Aqua Vitae, Azoth, Prima Materia Lapis et Rebis [III.3 ¶73]; Lux umbra caresn, Water most orient (Democrit) [III.3 ¶74]; water of crude Mercury (Hermes) [III.3 ¶74]
+**Identified with:** ethereal body of life and light [I.2 ¶43]; [Passive spirit](#e1278) [I.3 n21]; [Fire](#e0575) [I.3 ¶26]; middle nature [I.3 ¶55]; mercurial quintessence [I.3 n63]; most sharp vinegar [III.1 ¶70]; Blessed Nature [III.1 ¶70]; first pure matter [III.2 n38]; essence (of the Light's virtue) [III.3 ¶24]; the soul and the spirit [IV.3 ¶7]; wine, water of life, vinegar, oil [IV.3 ¶8]; Vinegar of the Wise [IV.3 ¶8]; Divine Liquor [IV.3 ¶8]; reducer of the soul to its body [IV.3 ¶8]; Stilla roris, Lac Virginis, Elixir, Aqua Vitae, Azoth, Prima Materia Lapis et Rebis [III.3 ¶73]; Lux umbra caresn, Water most orient (Democrit) [III.3 ¶74]; water of crude Mercury (Hermes) [III.3 ¶74]
 
 **References:** I.2 ¶43, I.3 n21, I.3 n63, I.3 ¶19, I.3 ¶26, I.3 ¶55, II.4 ¶16, III.1 ¶14, III.1 ¶70, III.2 n38, III.2 ¶48, III.3 ¶24, III.3 ¶60, III.3 ¶71, III.3 ¶73, III.3 ¶74, IV.3 ¶12, IV.3 ¶7, IV.3 ¶8
 
 <a id="e1921"></a>
-### Water and the Spirit
+### Water and the spirit
 *term*
 
 **In the Adept's teaching, the two principles present in all things that regenerate and perform the whole work.**
 
 The Adept (quoted) says of Water and Spirit: “These two are in all things” and “The two former principles perform all.” The Spirit uses the water to purge and wash its body [IV.2 ¶18].
+
+**See also:** [Spirit](#e1644)
 
 **References:** IV.2 ¶18
 
@@ -21088,7 +22272,7 @@ Pierce, the Black Monk (quoted): sublimed arsenic and calcined mercury are groun
 **References:** III.3 ¶16
 
 <a id="e1923"></a>
-### Water of our Sea
+### Water of our sea
 *term*
 
 **Sendivogius's name for a water that does not wet the hands, white as snow, which he calls the Water of Life.**
@@ -21100,7 +22284,7 @@ Sendivogius (quoted) speaks of those who “call the Water of our Sea, the Water
 **References:** III.2 ¶7
 
 <a id="e1924"></a>
-### Water of the Wood
+### Water of the wood
 *term*
 
 **In Pierce the Black Monk's verse, that which makes the marriage; not explained.**
@@ -21110,7 +22294,7 @@ Pierce, the Black Monk (quoted): “But the Water of the Wood, maketh the marria
 **References:** III.4 ¶21
 
 <a id="e1925"></a>
-### watery Form
+### Watery form
 *term* · fixed watery Form, permanent watery Form
 
 **The fixed watery form of the philosophic matter, a mature state that frames the royal elements; in the Master's words, the blessed form that dissolves the Elements.**
@@ -21118,6 +22302,8 @@ Pierce, the Black Monk (quoted): “But the Water of the Wood, maketh the marria
 Atwood: “The fixed watery Form of the philosophic matter” is a more mature state of one praised earlier, creatrix of the royal elements, drawing to itself the rubified light of its internal agent; “this is the fountain which Berhard Trevisan mentions” [I.3 n39]. The Master (quoted): “O blessed watery Form! That dissolveth the Elements!”; with it a sulphurous Form is taken up and mixed with Acetum, “with this watery soul” [IV.2 ¶14].
 
 **Identified with:** the fountain which Berhard Trevisan mentions [I.3 n39]; watery soul [IV.2 ¶14]
+
+**See also:** [Form](#e0627)
 
 **References:** I.3 n39, IV.2 ¶14
 
@@ -21130,7 +22316,7 @@ Cited for reference only.
 **References:** II.1 n8
 
 <a id="e1927"></a>
-### Weights of the Wise
+### Weights of the wise
 *term*
 
 **The true philosophic proportions of the work; Hermes says they are the two third waters of the divided Water.**
@@ -21139,40 +22325,48 @@ Hermes (quoted): “the two third waters are the Weights of the Wise” [I.3 ¶6
 
 **Identified with:** true philosophic proportions [I.3 n6]
 
+**See also:** [The Wise](#e1944)
+
 **References:** I.3 n6, I.3 ¶6
 
 <a id="e1928"></a>
-### Wheel of Life
+### Wheel of life
 *term*
 
 **That upon which deviating profane persons may be broken; not explained.**
 
 Atwood says deviating profane persons may “become broken necessitiously upon the Wheel of Life” [III.4 ¶9]. Not explained further.
 
+**See also:** [Life](#e0960)
+
 **References:** III.4 ¶9
 
 <a id="e1929"></a>
-### the White / the Red
-*term* · the White, the Red, White, Red
+### White and Red
+*term* · the White, the Red
 
 **The two forms of the Stone, fermented respectively with pure silver and with fine gold.**
 
 Unattributed: the Stone is fermented “with pure silver for the White, and with Red for fine Gold” [IV.3 ¶29]. Not further explained here.
 
+**See also:** [Red](#e1477), [White medicine](#e1932), [Whites and Reds](#e1938)
+
 **References:** IV.3 ¶29
 
 <a id="e1930"></a>
-### white elixir
+### White Elixir
 *term*
 
 **In an adept's words, the resting point enjoyed when the colours appear and the king has triumphed over death.**
 
 An adept (quoted): “Here thou mayest rest and wait, and enjoy the glory of thy white elixir”, once the colours appear and the king has triumphed over death [I.3 n22].
 
+**See also:** [Elixir](#e0473)
+
 **References:** I.3 n22
 
 <a id="e1931"></a>
-### White Light
+### White light
 *term*
 
 **The light revealed beneath the influx of the Holy Spirit when the Divine presence arises; Van Helmont's Quellem, the primeval Light.**
@@ -21181,15 +22375,19 @@ In the Appendix (Table Talk, later layer) Atwood says it is revealed beneath the
 
 **Identified with:** Quellem [APP ¶157]; primeval Light [APP ¶157]
 
+**See also:** [Light](#e0962)
+
 **References:** APP ¶157
 
 <a id="e1932"></a>
-### white medicine
+### White medicine
 *term* · White
 
 **In Norton, one of the two medicines, White and Red, which share one vessel and working at first.**
 
 Norton (quoted): the White and Red medicines share one vessel and working at first, and seeking further is useless “Till the white medicine be fully wrought.” [IV.2 ¶13].
+
+**See also:** [Medicine](#e1055), [White and Red](#e1929)
 
 **References:** IV.2 ¶13
 
@@ -21203,6 +22401,8 @@ Eudoxus (quoted): “The Lunaria is the White Mercury”, and “the White Mercu
 
 **Identified with:** [Lunaria](#e0994) [IV.3 ¶10]; bath of the Moon [IV.3 ¶10]
 
+**See also:** [Mercury](#e1065)
+
 **References:** IV.3 ¶10
 
 <a id="e1934"></a>
@@ -21213,10 +22413,12 @@ Eudoxus (quoted): “The Lunaria is the White Mercury”, and “the White Mercu
 
 Norton's verse (quoted, not Atwood's own words) says many patient wise men “Found our White Stone with exercise;” after true teaching, and cautions that the Red should not be sought “Till the white medicine be fully wrought;” [I.1 ¶60]. The White Stone thus apparently marks a stage completed before the red work.
 
+**See also:** [Stone](#e1670)
+
 **References:** I.1 ¶60
 
 <a id="e1935"></a>
-### white sulphur
+### White sulphur
 *term*
 
 **In Eudoxus's account, the white sulphur separated by whitening the foul black faeces in the first work; identified with the Sal Amoniac of the Wise and their Chaste Diana.**
@@ -21225,25 +22427,31 @@ Quoted from Eudoxus: in the first work the foul black faeces are whitened and th
 
 **Identified with:** Sal Amoniac of the Wise [IV.3 ¶9]; Chaste Diana [IV.3 ¶9]
 
+**See also:** [Sulphur](#e1690)
+
 **References:** IV.3 ¶9
 
 <a id="e1936"></a>
-### white virginal spirit
+### White virginal spirit
 *term*
 
 **In a passage from a more modern experimentalist, the white spirit with which the masculine tincture comes out of the black darkness in union.**
 
 Quoted from an unnamed “more modern experimentalist” in a footnote: the masculine tincture comes “out of the black darkness together in union with the white virginal spirit” [I.3 n53].
 
+**See also:** [Spirit](#e1644)
+
 **References:** I.3 n53
 
 <a id="e1937"></a>
-### white work
+### White work
 *term* · white Worke, album
 
 **The stage at which the matter is snow-white and the elixir is perfect as to the white; Norton ties it to making the Moon fortunate.**
 
 The author of the Lucerna Salis (quoted) describes the matter become snow-white: “Then is your elixir perfect as to the white work” [III.2 ¶5]; the Latin reads “Et tum confectum est elixir ad album” [III.2 ¶6]. Norton (quoted) directs: “For the white Worke make fortunate the Moone” [IV.2 ¶34]; the text does not explain this further.
+
+**See also:** [Works](#e1953)
 
 **References:** III.2 ¶5, III.2 ¶6, IV.2 ¶34
 
@@ -21255,11 +22463,13 @@ The author of the Lucerna Salis (quoted) describes the matter become snow-white:
 
 Sendivogius (quoted) complains of pretenders who “have with their Whites and Reds deceived almost the whole world” [I.1 ¶84]. The expression is not explained there; the context suggests false white and red products of the work.
 
+**See also:** [Red](#e1477), [White and Red](#e1929)
+
 **References:** I.1 ¶84
 
 <a id="e1939"></a>
 ### Will
-*term* · will, wills
+*term* · wills
 
 **In Atwood's own voice, chiefly in the later Appendix, Will is the only true substance and foundation of everything, the binding and unbinding power, and the greatest power of purgation.**
 
@@ -21269,10 +22479,10 @@ In the main text Atwood states that “Will is the greatest power of purgation�
 
 **Identified with:** Universal Loadstone of Existence [APP ¶8]; [Saturn](#e1543) [APP ¶125]
 
-**References:** APP ¶123, APP ¶125, APP ¶36, APP ¶8, APP ¶86, IV.1 ¶31, IV.1 ¶39
+**References:** IV.1 ¶31, IV.1 ¶39, APP ¶123, APP ¶125, APP ¶36, APP ¶8, APP ¶86
 
 <a id="e1940"></a>
-### Will and Understanding
+### Will and understanding
 *term*
 
 **Two separated principles which, once freed, attract one another like steel and loadstone.**
@@ -21282,7 +22492,7 @@ Speaker unclear: the text speaks of “the separated principles of Will and Unde
 **References:** IV.2 ¶30
 
 <a id="e1941"></a>
-### willing-power
+### Willing-power
 *term*
 
 **In the Appendix, Atwood's name for the vital power, at a certain time seated in the lumbar region and sent back.**
@@ -21307,7 +22517,7 @@ Khunrath (quoted) describes it in the first act as “thick, dense, and black, b
 
 <a id="e1943"></a>
 ### Wisdom
-*term* · wisdom, Sapience, Sapientia, Divine Wisdom, Demiurgic Wisdom, hidden Wisdom, Wisdom of Antiquity, Wisdom-life
+*term* · Sapience, Sapientia, Divine Wisdom, Demiurgic Wisdom, hidden Wisdom, Wisdom of Antiquity, Wisdom-life
 
 **The object of Atwood's inquiry: the ancient internal Wisdom, the true being of Intellect and self-knowledge, identified with Salt, the substance of the Stone, and the Root of Reason.**
 
@@ -21321,52 +22531,26 @@ Quoted views: Asclepius Trallianus calls it “a certain clearness” [II.4 ¶26
 
 Further asserted identities: Intellect and Divination [II.1 ¶35]; the intelligible essence [II.1 ¶37]; Pythagoras's “science of truth which is in all beings” [II.1 ¶39]; “the breath of the power of God” [II.1 ¶44]; “the fear of the Lord” [III.1 ¶8]; Understanding [IV.3 ¶47]; Reuchlin's Three Persons in Divinity [III.2 ¶10]; the Rabbi's Principle [III.2 ¶32]. With Sendivogius, God inspires his Wisdom into philosophers [II.4 ¶39]; Atwood also personifies her as a bride the philosophers wooed, bringing a dowry of creative light [IV.4 ¶10].
 
-**Identified with:** Law of Light; its emanating spirit [APP ¶47]; Universal Will / great Salt Sea [APP ¶94]; Intellect (highest sense) [II.1 ¶39]; Intellect, Divination [II.1 ¶35]; the intelligible essence [II.1 ¶37]; knowing oneself [II.1 ¶37]; the science of truth which is in all beings [II.1 ¶39]; the good, the fair, and the blessed Eternity [II.1 ¶43]; the standard of truth in a rectified intellect [II.1 ¶44]; an affirmative operative hypostasis [II.1 ¶44]; the breath of the power of God [II.1 ¶44]; Intellect diving intuitively without imaginative error [II.2 ¶13]; clearness [II.4 ¶26]; Isis / Minerva [III.1 ¶5]; the fear of the Lord [III.1 ¶8]; Three Persons in Divinity [III.2 ¶10]; [Ain](#e0035) [III.2 ¶10]; [Principle](#e1395) [III.2 ¶32]; Worker of all things [III.3 ¶49]; substance of the Stone [III.3 ¶50]; [Salt](#e1536) [III.3 ¶50]; Understanding [IV.3 ¶47]; [Root of Reason](#e1513) [IV.4 ¶20]; saving Salt [IV.4 ¶20]; Well of Heraclitus [IV.4 ¶27]; [Nothing](#e1199) [IV.4 ¶27]
+**Identified with:** Law of Light; its emanating spirit [APP ¶47]; Universal Will / great Salt Sea [APP ¶94]; Intellect (highest sense) [II.1 ¶39]; Intellect, Divination [II.1 ¶35]; the intelligible essence [II.1 ¶37]; knowing oneself [II.1 ¶37]; the science of truth which is in all beings [II.1 ¶39]; the good, the fair, and the blessed Eternity [II.1 ¶43]; the standard of truth in a rectified intellect [II.1 ¶44]; an affirmative operative hypostasis [II.1 ¶44]; the breath of the power of God [II.1 ¶44]; Intellect diving intuitively without imaginative error [II.2 ¶13]; clearness [II.4 ¶26]; Isis / Minerva [III.1 ¶5]; the fear of the Lord [III.1 ¶8]; Three Persons in Divinity [III.2 ¶10]; [Ain](#e0035) [III.2 ¶10]; [Principle](#e1395) [III.2 ¶32]; Worker of all things [III.3 ¶49]; substance of the Stone [III.3 ¶50]; [Salt](#e1536) [III.3 ¶50]; Understanding [IV.3 ¶47]; [Root of reason](#e1513) [IV.4 ¶20]; saving Salt [IV.4 ¶20]; Well of Heraclitus [IV.4 ¶27]; [Nothing](#e1199) [IV.4 ¶27]
 
-**References:** APP ¶47, APP ¶67, APP ¶90, APP ¶94, II.1 ¶35, II.1 ¶37, II.1 ¶39, II.1 ¶43, II.1 ¶44, II.1 ¶52, II.2 ¶13, II.4 ¶26, II.4 ¶39, II.4 ¶40, III.1 ¶3, III.1 ¶5, III.1 ¶8, III.2 ¶10, III.2 ¶32, III.3 ¶48, III.3 ¶49, III.3 ¶50, III.3 ¶71, III.4 ¶11, III.4 ¶15, III.4 ¶7, IV.3 ¶36, IV.3 ¶39, IV.3 ¶47, IV.3 ¶48, IV.4 ¶10, IV.4 ¶14, IV.4 ¶17, IV.4 ¶18, IV.4 ¶20, IV.4 ¶26, IV.4 ¶27, IV.4 ¶28
+**See also:** [Faculty of Wisdom](#e0553), [Hidden Wisdom](#e0785)
+
+**References:** II.1 ¶35, II.1 ¶37, II.1 ¶39, II.1 ¶43, II.1 ¶44, II.1 ¶52, II.2 ¶13, II.4 ¶26, II.4 ¶39, II.4 ¶40, III.1 ¶3, III.1 ¶5, III.1 ¶8, III.2 ¶10, III.2 ¶32, III.3 ¶48, III.3 ¶49, III.3 ¶50, III.3 ¶71, III.4 ¶11, III.4 ¶15, III.4 ¶7, IV.3 ¶36, IV.3 ¶39, IV.3 ¶47, IV.3 ¶48, IV.4 ¶10, IV.4 ¶14, IV.4 ¶17, IV.4 ¶18, IV.4 ¶20, IV.4 ¶26, IV.4 ¶27, IV.4 ¶28, APP ¶47, APP ¶67, APP ¶90, APP ¶94
 
 <a id="e1944"></a>
-### the Wise
+### The Wise
 *collective voice*
 
 **Anonymous adepts whose unanimous view Atwood reports: that their work may be likened to the creation of the world.**
 
 Atwood reports, with approval, the Wise's view that “their work may be likened to the creation of the world” [IV.2 ¶30].
 
+**See also:** [Adepts (cited voice)](#e0019)
+
 **References:** IV.2 ¶30
 
-<a id="e1945"></a>
-### the wise / adepts
-*collective voice* · adepts
-
-**The adepts as a group, cited by Atwood for their warnings that none succeed without right intention and God's blessing, and that their records are two-edged.**
-
-Atwood endorses their declarations that none attain the Art without right intention and God's blessing and that the pursuit is dangerous to the ill-informed: “As the adepts indeed foretold, their records have proved like a curious two-edged instrument” [III.4 ¶11, III.4 ¶16].
-
-**References:** III.4 ¶11, III.4 ¶16
-
-<a id="e1946"></a>
-### the wise Adept
-*collective voice*
-
-**An unnamed adept cited as warning that Pluto's Palace exposed with Minerva's Artifice, or Vulcan with her at the Altar, is an ominous association.**
-
-Cited by Atwood: when Pluto's Palace is exposed with Minerva's Artifice, or Vulcan stands with her at the Altar, “the Association is ominous” [IV.1 ¶34].
-
-**References:** IV.1 ¶34
-
-<a id="e1947"></a>
-### the wise Adepts
-*collective voice*
-
-**The adepts whose enigmas, fables, parables and maxims, Atwood says, all tend to one discovery and must be studied with the Key.**
-
-Atwood, with approval, says their enigmas, fables, parables and maxims all tend to one discovery and are to be studied with the Key [IV.4 ¶32].
-
-**References:** IV.4 ¶32
-
 <a id="e1948"></a>
-### Wise Artist
+### Wise artist
 *term* · Artist
 
 **In Eudoxus, the operator who lends Nature a hand for her compound and himself makes the compound of Art.**
@@ -21375,15 +22559,19 @@ Eudoxus (quoted): Nature's compound is helped by the Artist, but of the compound
 
 **Identified with:** Wise man [IV.3 ¶9]
 
+**See also:** [Artist](#e0135)
+
 **References:** IV.3 ¶9
 
 <a id="e1949"></a>
-### the wise poet, in his Georgics
-*collective voice*
+### Wise poet
+*collective voice* — *in his Georgics* · the wise poet, in his Georgics
 
 **An unnamed poet whose Georgics Atwood cites for the repeated labor of ploughing and clearing the field.**
 
 Cited by Atwood for teaching, in the Georgics, the repeated labor of ploughing and clearing the field [IV.1 ¶9]; the context suggests an image for the repeated operations of the work.
+
+**See also:** [Poets](#e1356)
 
 **References:** IV.1 ¶9
 
@@ -21400,37 +22588,43 @@ Hermes (Poemander, quoted): “Then from that Light a certain holy Word joined i
 **References:** III.3 ¶53, III.3 ¶54
 
 <a id="e1951"></a>
-### Word of Life
+### Word of life
 *term*
 
 **What, Atwood says, the ancestors sought and experimentally found through subtle analysis and pure synthesis of vital agencies and effects.**
 
 Atwood: “the Word of Life would seem to have been sought after by our ancestors, and experimentally found” [IV.2 ¶43], by subtle analysis and pure synthesis of vital agencies and effects.
 
+**See also:** [Life](#e0960)
+
 **References:** IV.2 ¶43
 
 <a id="e1952"></a>
-### words of power
+### Words of power
 *term*
 
 **In the Appendix, words by which the Initiated moved one another on, found only in the subjective life and lost by the Masons.**
 
 Appendix (later layer), Atwood: “The Initiated moved one another on by words of power.”; these are words “which are only to be found by seeking them in the subjective, the fundamental life” [APP ¶100]. The Masons have lost them.
 
+**See also:** [The Power](#e1375)
+
 **References:** APP ¶100
 
 <a id="e1953"></a>
-### works
-*term* · first work, First Work, second Work, Third Work
+### Works
+*term* · first work, second Work, Third Work
 
 **In Eudoxus, the three closely analogous works of the Art, each repeating dissolution, removal of blackness, whitening and vivifying.**
 
 Eudoxus (quoted): “the operations of the three works have a great deal of analogy one to another” [IV.3 ¶3]; each repeats dissolution, removal of blackness, whitening and vivifying, and the philosophers deliberately confuse them.
 
+**See also:** [First work](#e0605), [Second work](#e1563), [Third work](#e1753)
+
 **References:** IV.3 ¶3
 
 <a id="e1954"></a>
-### wrath fire
+### Wrath fire
 *term*
 
 **In the theosophist's teaching, one of two principles in everything, predominant in outward nature since the fall and to be subdued as servant to the light.**
@@ -21439,15 +22633,19 @@ The theosophist (quoted): every thing has two principles, of which the wrath fir
 
 **Identified with:** the serpent's sting [IV.3 ¶38]
 
+**See also:** [Fire](#e0575)
+
 **References:** IV.3 ¶38
 
 <a id="e1955"></a>
-### writers on Animal Magnetism
+### Writers on Animal Magnetism
 *collective voice*
 
 **Writers whom Atwood credits with rightly linking Trance to the temple mysteries but faults for going no further than therapy.**
 
 Atwood qualifies them: they rightly connect Trance with the temple mysteries but do not go beyond its therapeutic use [II.2 ¶6].
+
+**See also:** [Animal Magnetism](#e0075)
 
 **References:** II.2 ¶6
 
@@ -21483,15 +22681,19 @@ Atwood cites Zachary's Opusculum as another example of long searching for the ke
 
 Atwood cites Zeno for the ether as an artful generating fire: “Ignem esse artificiosum, ad gignendum progredientem via” [I.2 ¶16] (ours: that fire is artful, proceeding methodically to generate). Within Vaughan's lessons he is quoted: “Nature gave us one tongue and two ears, that we might hear much and speak little” [III.4 ¶44].
 
+**See also:** [Zeno of Elea (not the Stoic)](#e1959)
+
 **References:** I.2 ¶16, III.4 ¶44
 
 <a id="e1959"></a>
-### Zeno (of Elea, not the stoic)
-*person* · Zeno
+### Zeno of Elea
+*person* — *not the Stoic* · Zeno
 
 **Cited by Atwood in support of the absolute unit as the ground of Being.**
 
 Atwood cites him in support: “if any one should undertake to demonstrate the philosopher’s Unit, he would unfold Being” [III.2 ¶45].
+
+**See also:** [Zeno](#e1958)
 
 **References:** III.2 ¶45
 
@@ -21502,6 +22704,8 @@ Atwood cites him in support: “if any one should undertake to demonstrate the p
 **A work Atwood cites on the formless Divinity, the Initial Principle as Wisdom manifesting by a point of Light, and the celestial prototype in humanity.**
 
 Atwood cites the Zohar in support: Divinity has no form before descent into creation, so no image may represent Him [II.3 ¶48, II.3 n52]; the Initial Principle is Wisdom or the Supreme Crown, the Unknown who manifests — “he begins by producing a point” — with its white appearance [III.2 ¶3, III.2 n3, III.2 n4]. The Liber Zohar “beams with the revelation of the celestial prototype in humanity” and shows the covert fire in Holy Writ [II.1 ¶40].
+
+**See also:** [Rabbi in Zohar](#e1447)
 
 **References:** II.1 ¶40, II.3 n52, II.3 ¶48, III.2 n3, III.2 n4, III.2 ¶3
 
@@ -21530,6 +22734,8 @@ His magic is described as the service of the gods [II.1 ¶51]. Atwood identifies
 **Oracles used as a chapter epigraph exhorting the reader to the Light.**
 
 Used as the chapter epigraph: “It behooves thee to hasten to the Light, and to the beams of the Father” [II.4 ¶2].
+
+**See also:** [Oracles](#e1233)
 
 **References:** II.4 ¶2
 

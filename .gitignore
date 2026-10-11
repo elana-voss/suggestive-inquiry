@@ -3,8 +3,25 @@ __pycache__/
 # mdBook build output (CI builds it)
 book/
 
-# pipeline intermediates, bundles, staging archives
-work/
+# pipeline state in work/: agent output and script inputs are tracked;
+# only script-regenerable or transient files stay ignored
+work/*
+!work/context/
+!work/dict/
+!work/final/
+!work/method/
+!work/part_method/
+!work/readings/
+!work/review/
+# rendered by dict_render.py (check / all)
+work/dict/out/*.md
+work/dict/22_raw.md
+# review: only the generated reports are kept
+work/review/*
+!work/review/REVIEW_REPORT.md
+!work/review/headword_mapping.md
+!work/review/worldbook_keys.md
+# staging archives, backups
 *.tgz
 *.old
 

@@ -3,7 +3,7 @@ Usage: python quote_check_doc.py FILE.md [...]"""
 import glob, re, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from quote_check import norm
-CH = '/mnt/user-data/uploads/atwood/chunks'
+CH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'chunks')
 corpus = ' '.join(norm(re.sub(r'^\[[^\]]+\] ', '', open(f, encoding='utf-8').read(), flags=re.M)) for f in glob.glob(f'{CH}/*.md'))
 corpus = re.sub(r'-\s+', '-', corpus)
 corpus = corpus.replace('"', '').replace("'", '').lower()

@@ -1,0 +1,273 @@
+# III.3_03
+
+*Atwood moves from a Memphian cosmogony and the scriptural praise of Wisdom to her claim that this Wisdom is the substance of the Philosopher's Stone (with the adept's definition of the Stone as embodied Ruach Elohim and of Salt as Wisdom), concedes that such word-play conveys nothing to the senses, and turns analogically to regeneration as the inward discovery of the Fontal Reason, illustrated by Hermes' vision in the Poemander.*
+
+## Argument
+
+- Ovid (Latin verse; per our translation): the ancients called me Chaos. `III.3 ¶45, III.3 n30` — QUOTED: Ovid
+- Memphian cosmogony: the parent of Chaos, moved by Erebus, bore Hyle and Eros, whose offspring became fountains of Being. The world's parts lay formless in the Abyss of Being until the breath of the spirit in the Darkness agitated the mass. `III.3 ¶46, III.3 n32` — QUOTED: the metropolitan of Memphis
+- Ovid (Latin verse; per our translation): man made from divine seed, or from earth keeping seeds of heaven. `III.3 ¶46, III.3 ¶47, III.3 n31` — QUOTED: Ovid
+- Congenial parts then left heterogeneous ones and embraced; Matter appeared with attraction, amid unutterable strife. `III.3 ¶48, III.3 n32` — QUOTED: the metropolitan of Memphis
+- Ecclesiasticus: God poured Wisdom on his works and gives her to those that love him. `III.3 ¶48, III.3 n33` — QUOTED: Ecclesiasticus
+- Solomon knew the Living Light and creation by Conscious Intuition, not teaching or inference; Wisdom, Worker of all things, taught him. `III.3 ¶49, III.3 n34` — ATWOOD (framing); QUOTED: Solomon
+- Such Wisdom was the object of Hermetic Philosophy and substance of its Stone. `III.3 ¶50` — ATWOOD
+- The adept: the Stone is Ruach Elohim made body in formless Earth and water; a Son despised by the vulgar, universal, triune, hermaphrodite, sensible, manifest by itself regeneratively with the Art as midwife. Salt, the Stone's oldest principle, is named Wisdom; its nucleus in the Decad is secret. `III.3 ¶50, III.3 n35` — QUOTED: the mysterious adeptest (Khunrath per n35); cited by Atwood in answer to her question
+- Atwood concedes this explains the unknown by the more unknown; words cannot convey what is inverse to sense until thought, focused by understanding like a lens, brings it into effect and flame. `III.3 ¶51` — ATWOOD
+- Analogically: every Being's centre is a spirit from the world's original, separated in generation; the sensual principle hides it, so the individual is an outbirth of the Fontal Reason. In regeneration, as natural life dissolves, this Reason arises through self-perceivance with creative powers. `III.3 ¶52` — ATWOOD
+- Hermes, senses held back, meets Poemander, the Mind, who teaches whoever holds him in mind. `III.3 ¶52` — QUOTED: Hermes
+- Vision: all becomes Light; a darkness becomes a troubled moist nature; a holy Word joins Nature; fire and air rise; earth and water stay mingled, moved by the Word. `III.3 ¶53` — QUOTED: Hermes
+- Poemander: the Light is Mind, God; the Word is Son of God; what sees in man does not differ from the Mind, their union is life. Conceiving the Light, Hermes sees it, and the fire held in station by a great Power. `III.3 ¶54, III.3 ¶55` — QUOTED: Poemander, in Hermes' account
+- Elements come from God's Will imitating the Archetype. Who has Mind should know himself immortal; love of body causes death; believing oneself of Life and Light, one returns to Life. `III.3 ¶56` — QUOTED: Poemander, in Hermes' account
+- The Mind enters the pure and pious, who hate their senses, and shuts out evil; the wicked it leaves to a fire-wielding Demon. After the return, the body is resolved, senses return to their fountains, passions stay lowest, the rest rises by harmony to the eighth sphere, Intellect, and the Father. `III.3 ¶57` — QUOTED: Poemander, in Hermes' account
+
+## Method
+
+- **agent** — “the breath of the tremendous spirit that dwells in the Darkness had not gone forth and put the lifeless mass in agitation” `III.3 ¶46` (QUOTED: the metropolitan of Memphis)
+  - **Plain (interpreted):** In the cosmogony, the mingled formless mass stays inert until a spirit's breath stirs it; then like parts separate from unlike and unite, and Matter with attraction appears.
+  - Basis: III.3 ¶46 and ¶48 narrate this only as cosmogony; any bearing on the work is inferred from the parallel with the Stone as Ruach Elohim 'which moved upon the face of the waters' in formless Earth and water (III.3 ¶50). The chunk states no link.
+  - Also: “It was then the congenial parts began to dissever from their heterogeneous associates, and to seek a mutual embrace” `III.3 ¶48`
+  - Also: “Matter appeared: and inseparable from it attraction instantly began to operate” `III.3 ¶48`
+- **procedure** — “not by outward teaching or rational inference from effects, but by the Conscious Intuition, as he relates it, of one only might” `III.3 ¶49` (ATWOOD)
+  - **Plain (stated):** Knowledge of the Living Light and of creation is gained by direct conscious intuition, taught by Wisdom, not by instruction or reasoning from effects.
+  - Basis: III.3 ¶49, Atwood's framing of Solomon's testimony.
+  - Also: “For Wisdom, which is the Worker of all things, taught me.” `III.3 ¶49`
+- **subject** — “such a Wisdom (shall we not believe it?) was the worthy object of all Hermetic Philosophy, and the miraculous substance of its transmutative Stone” `III.3 ¶50` (ATWOOD)
+  - **Plain (stated):** The substance of the Philosopher's Stone is the divine Wisdom just described: created by God, poured on all his works, the Worker of all things, containing an understanding spirit.
+  - Basis: III.3 ¶50 asserts it directly, referring back ('such a Wisdom') to Wisdom as described in III.3 ¶48-49.
+  - Also: “not without weighty cause has Salt been dignified with the name of Wisdom” `III.3 ¶50`
+- **subject** — “The philosopher’s stone, says the mysterious adeptest, is Ruach Elohim, which moved upon the face of the waters” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35); cited by Atwood in support)
+  - **Plain (stated):** The Stone is the Spirit (Ruach Elohim) that moved on the waters, conceived and given a real, sensible body within the formless matter of the greater world. The 'virgin womb' is glossed ('viz.') as the formless Earth and water.
+  - Basis: Direct definition in III.3 ¶50, cited by Atwood in answer to 'what, do we ask, is the Philosopher’s Stone?'.
+  - Also: “conceived and made body, truly and sensibly, in the virgin womb of the greater world” `III.3 ¶50`
+  - Also: “the virgin womb of the greater world, viz., that Earth which is without form and water” `III.3 ¶50`
+- **sign** — “The Son, born into the light of the macrocosm, mean and of no account in the eyes of the vulgar” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35))
+  - **Plain (stated):** The embodied Stone, called 'the Son', looks worthless to common people, yet is of one substance with the lesser world, not individually human, universal, threefold, of both sexes, and perceptible to the senses (visible, audible, smellable, local, finite).
+  - Basis: Attributes listed directly in III.3 ¶50.
+  - Also: “universal, triune, hermaphrodite; visible, sensible to hearing, to smell, local and finite” `III.3 ¶50`
+  - Also: “setting aside all idea of anything individually human” `III.3 ¶50`
+- **operator** — “made manifest by itself regeneratively by the obstetric hand of the Physico-Chemical Art” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35))
+  - **Plain (interpreted):** The Stone brings itself forth through a regeneration; the Art does not make it but assists the birth, like a midwife.
+  - Basis: III.3 ¶50: 'by itself' plus the 'obstetric hand' (midwife) image; 'regeneratively' links to regeneration as Atwood describes it in III.3 ¶52.
+- **result** — “glorified in his once assumed body, for benefits and uses almost infinite; wonderfully salutary to the microcosm in universal triunity” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35))
+  - **Plain (stated):** Once embodied and glorified, the Stone has nearly endless uses and is healing or beneficial to the microcosm.
+  - Basis: III.3 ¶50.
+- **subject** — “Salt, that most ancient principle of the Stone” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35))
+  - **Plain (stated):** Salt is the oldest principle of the Stone and is called Wisdom; the Salt of Saturn, 'the Universal son of Nature', reigns in all things, universal through its own fusibility and self-existent in nature.
+  - Basis: III.3 ¶50 names Salt the principle of the Stone, identifies the Salt of Saturn with the Universal son of Nature, and says Salt has been dignified with the name of Wisdom. Whether Salt is the Stone itself or a constituent is under ambiguities.
+  - Also: “The Salt of Saturn, the Universal son of Nature, has reigned, does reign, and will reign naturally and universally in all things” `III.3 ¶50`
+  - Also: “always and everywhere universal through its own fusibility, self-existent in nature” `III.3 ¶50`
+  - Also: “not without weighty cause has Salt been dignified with the name of Wisdom” `III.3 ¶50`
+- **principle** — “whose nucleus in the Decad guard in holy silence” `III.3 ¶50` (QUOTED: the mysterious adeptest (Khunrath per n35))
+  - **Plain (interpreted):** Something about Salt's 'nucleus in the Decad' is to be kept secret. This chunk does not explain the Decad.
+  - Basis: Only the injunction to silence in III.3 ¶50, followed by 'Let him who hath understanding understand'.
+  - Also: “Let him who hath understanding understand” `III.3 ¶50`
+- **principle** — “it has been the custom of philosophers to ring the changes from Wisdom to their Stone, and from the Stone to Wisdom” `III.3 ¶51` (ATWOOD)
+  - **Plain (stated):** The adepts' writings only swap the names Wisdom and Stone back and forth; such verbal identities explain the unknown by the more unknown and convey nothing of the thing itself. The thing is beyond and inverse to sense: neither hard nor soft, tangible nor visible, nor comprehensible by common sense.
+  - Basis: III.3 ¶51: 'ignotum per ingotius'; 'the world has become no wiser for their song'.
+  - Also: “a baffling about of terms, ignotum per ingotius” `III.3 ¶51`
+  - Also: “that which is beyond and inverse to all sensible experience” `III.3 ¶51`
+  - Also: “which is neither hard nor soft, not tangible nor visible, nor comprehensible by common sense” `III.3 ¶51`
+- **procedure** — “until thought, by understanding (as light by the focus of the familiar lens, producing combustion), has brought it forth into effect and flame” `III.3 ¶51` (ATWOOD)
+  - **Plain (interpreted):** The subject becomes manifest only when thought, through understanding, concentrates on it, as a lens concentrates light until it ignites. Whether this means comprehension or actual production is under ambiguities.
+  - Basis: Atwood's own lens simile in III.3 ¶51; its scope (epistemic or operative) is not settled by the text.
+- **principle** — “Thus considering the inverse problem, analogically however, we arrive at a more familiar conception as reason assists the imagination to a solution to its own intimate mystery in life” `III.3 ¶52` (ATWOOD)
+  - **Plain (interpreted):** Since the subject cannot be described directly, Atwood approaches it by analogy with the mystery of one's own life: what follows about the individual's centre and its regeneration is offered as the more familiar route to conceiving it.
+  - Basis: III.3 ¶52 opening follows directly on the failure of words in III.3 ¶51 and introduces the account of the individual's centre and regeneration.
+- **subject** — “The centre of every Being is a spirit from the original of the world” `III.3 ¶52` (ATWOOD)
+  - **Plain (stated):** Every creature has at its centre a spirit from the world's origin; this is separated off in generation, by which each creature enters life, yet we still remain within 'the Mother of all beings'.
+  - Basis: III.3 ¶52.
+  - Also: “And so far we stand even now in the great mystery, in the Mother of all beings” `III.3 ¶52`
+- **impediment** — “by the corporeal, i.e., the sensual principle which is predominant in the mundane conception, the divine original is obscured and separated off from the consciousness” `III.3 ¶52` (ATWOOD)
+  - **Plain (stated):** The dominance of the bodily, sensual principle hides the divine origin from consciousness, so the individual exists as a separate offshoot of the Fontal Reason.
+  - Basis: III.3 ¶52, which glosses 'corporeal' as 'the sensual principle'.
+  - Also: “the individual subsists, as a distinct self-spiration, severation, or outbirth, as it were, from that Fontal Reason whence it springs” `III.3 ¶52`
+  - Also: “the cause of death is the love of body” `III.3 ¶56`
+- **result** — “in the regeneration this Reason is said to be discovered” `III.3 ¶52` (ATWOOD)
+  - **Plain (stated):** In regeneration, upon the dissolution of the natural life, the hidden Fontal Reason is discovered: it arises through self-perceivance, with creative attributes and powers.
+  - Basis: III.3 ¶52 (reported as what 'is said'); who perceives in 'self-perceivance' is under ambiguities.
+  - Also: “upon the dissolution of the natural life, it arises through the self-perceivance, with creative attributes and powers” `III.3 ¶52`
+- **procedure** — “my understanding lifted up, --- all my bodily senses being entirely holden back” `III.3 ¶52` (QUOTED: Hermes)
+  - **Plain (interpreted):** The condition of the vision: thought seriously occupied with 'the things that be', understanding raised, bodily senses wholly suspended.
+  - Basis: Atwood presents this as Hermes' 'own intimate experience' testifying to the regeneration just described (III.3 ¶52); the suspension of the senses answers the impediment of the sensual principle in the same paragraph.
+  - Also: “My thoughts, being once seriously busied about the things that be” `III.3 ¶52`
+- **agent** — “I am, quoth he, Poemander, the Mind of the Great Lord, the most mighty and absolute Emperor.” `III.3 ¶52` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** The teacher in the vision is the divine Mind itself, always present, which teaches whatever is to be learned when it is held in mind.
+  - Basis: Self-identification in III.3 ¶52 ('I am always present with thee'); III.3 ¶54 'I am that Light, the Mind'.
+  - Also: “Have me again in thy mind, and whatsoever thou wouldst learn, I will teach thee.” `III.3 ¶52`
+- **sign** — “I saw an infinite Light, all things were become Light, both sweet and exceeding pleasant” `III.3 ¶53` (QUOTED: Hermes)
+  - **Plain (stated):** The first appearance in the vision is infinite Light, which Poemander identifies as himself, the Mind, God.
+  - Basis: III.3 ¶53 narration; III.3 ¶54 'I am that Light, the Mind, they God'.
+- **stage** — “there was a darkness made in part, coming down obliquely, fearful and hideous” `III.3 ¶53` (QUOTED: Hermes)
+  - **Plain (stated):** After the Light, a darkness descends and turns into a troubled moist nature giving off smoke and a mournful voice. Poemander says only that he, the Light, is before 'that moist nature, that appeareth out of the darkness'; the chunk does not relate it to the Art.
+  - Basis: III.3 ¶53 narration; III.3 ¶54.
+  - Also: “changed into a certain moist nature unspeakably troubled, which yielded a smoke, as from fire” `III.3 ¶53`
+- **stage** — “Then from that Light a certain holy Word joined itself unto Nature, and out flew the pure and unmixed fire from the moist nature upward on high.” `III.3 ¶53` (QUOTED: Hermes)
+  - **Plain (stated):** When the Word joins the moist nature, a separation follows: pure fire rises, with the light air following it; earth and water stay mingled below, moved by the Word. The chunk does not explain this in terms of the work.
+  - Basis: III.3 ¶53 narrates the sequence; III.3 ¶54 identifies the Word as Son of God. It resembles the separation of congenial parts in III.3 ¶48, but no link is stated.
+  - Also: “the earth and water stayed by themselves, so mingled together, that the earth could not be seen for the water” `III.3 ¶53`
+- **agent** — “that bright and lightful Word from the Mind is the Son of God” `III.3 ¶54` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** Decoding of the vision: the Word that issues from the Mind, joins Nature and separates the elements, is the Son of God.
+  - Basis: Explicit gloss by Poemander in III.3 ¶54.
+- **principle** — “That which, in thee, seeth and heareth the Word of the Lord, and the Mind, the Father, God, differ not one from another, and the union of these is life.” `III.3 ¶54` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** What perceives the Word within a person is not different from the divine Mind; their union is life.
+  - Basis: III.3 ¶54.
+- **procedure** — “Conceive well the Light in thy Mind, and Know It.” `III.3 ¶54` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** Hold the Light inwardly in the mind and know it; after long steady mutual gazing, Hermes beheld the innumerable Light in his mind.
+  - Basis: III.3 ¶54 instruction; III.3 ¶55 'I beheld in my mind the Light that is innumerable'.
+  - Also: “for a long time, we looked steadfastly one upon the other, insomuch that I trembled at his Idea or Form” `III.3 ¶55`
+- **sign** — “the fire is comprehended or contained in and by a most great Power, and constrained to keep its station” `III.3 ¶55` (QUOTED: Hermes)
+  - **Plain (stated):** Seen in the mind: the fire held in its place by a great Power. This chunk does not explain it further.
+  - Basis: III.3 ¶55 narration only.
+- **principle** — “Of the Will and Counsel of God, he answered, which taking the Word and beholding the beautiful world in the Archetype thereof, imitated it” `III.3 ¶56` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** The elements are made from God's Will, which, taking the Word, copies an archetypal pattern and so makes this world by the same principles and vital seeds.
+  - Basis: III.3 ¶56, answer to 'whereof are the elements of nature made?'.
+  - Also: “hast thou seen that Archetypal Form, which was before the interminated and infinite beginning?” `III.3 ¶56`
+- **procedure** — “believe thyself to be of the Life and Light, thou shalt pass back into Life” `III.3 ¶56` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** Return to Life comes through self-knowledge: knowing oneself immortal and of the Life and Light, and learning what one is made of.
+  - Basis: III.3 ¶56-57 direct instruction.
+  - Also: “let him that is endued with Mind know himself to be immortal” `III.3 ¶56`
+  - Also: “let him learn all things that are of which he is made” `III.3 ¶56`
+  - Also: “let the man endued with mind, mark, consider, and know himself well” `III.3 ¶57`
+- **operator** — “I, the Mind, come into men that are holy and good, and pure and merciful, and that live piously and religiously, and my presence is a help unto them” `III.3 ¶57` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** Requirement of the operator: moral purity and piety; to such the Mind comes, and they know all things.
+  - Basis: III.3 ¶57; compare Wisdom given 'to them that love him' (III.3 ¶48).
+  - Also: “he hath given her to them that love him” `III.3 ¶48`
+- **procedure** — “being the Porter and Door-keeper, I shut up the entrance of evil, and cut off the thoughtful desires of filthy works” `III.3 ¶57` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** In the worthy, the Mind stops the body's operations from being completed and shuts out evil desire; they come to hate their senses, knowing their works.
+  - Basis: III.3 ¶57.
+  - Also: “before they give up their bodies to the death of them, they hate their senses, knowing their works and operations” `III.3 ¶57`
+- **impediment** — “giving place to the revenging Demon, which, applying unto him the sharpness of fire, tormenteth such a man sensibly” `III.3 ¶57` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** From the wicked the Mind withdraws; a Demon torments them with ever-increasing fire, inflaming insatiable desire and leaving them fighting in darkness.
+  - Basis: III.3 ¶57.
+  - Also: “continually increasing the Fire upon him” `III.3 ¶57`
+- **stage** — “in the resolution of the material body of sense, this body itself is given up to alteration, and the form which it hath becometh invisible” `III.3 ¶57` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** Sequence after 'the return': the sense-body is dissolved and its form vanishes; idle manners go to the Demon; the senses return to their sources; anger and desire stay lowest; the rest rises by harmony.
+  - Basis: III.3 ¶57, answer to 'after the return is made, what then?'. Whether this is bodily death or the regeneration of III.3 ¶52 is under ambiguities.
+  - Also: “the senses of the body return into their fountains (in the circulation)” `III.3 ¶57`
+  - Also: “anger and concupiscence remain lowest in the irrational life, and the rest strive upward by harmony” `III.3 ¶57`
+- **result** — “until, being naked of all operations, it cometh to the eighth sphere, which is Intellect” `III.3 ¶57` (QUOTED: Poemander, in Hermes' account)
+  - **Plain (stated):** The end of the ascent, stripped of all operations, is Intellect (the eighth sphere), where it is made like those it converses with and returns to the Father.
+  - Basis: III.3 ¶57 glosses the eighth sphere as Intellect.
+  - Also: “in order they return to the Father and to themselves” `III.3 ¶57`
+
+## Terms
+
+- **Chaos** — The primeval thing: in Ovid's verse (per our translation) the speaker says the ancients called him Chaos; in the Memphian account its 'primeval parent', moved by the breath of Erebus, brought forth Hyle and Eros. (QUOTED: Ovid; the metropolitan of Memphis)
+  - “Me Chaos antiqui, nam res sum prisca, vocabant.” `III.3 ¶45`
+- **Hyle** — The 'enormous first-born' of the primeval parent of Chaos. (QUOTED: the metropolitan of Memphis)
+  - “she brought forth her enormous first-born Hyle” `III.3 ¶46`
+- **Eros** — Born at the same birth as Hyle; 'chief of the Immortals'. (QUOTED: the metropolitan of Memphis)
+  - “the amiable Eros, chief of the Immortals” `III.3 ¶46`
+- **Abyss of Being** — Where the parts of the world lay mingled and formless before the spirit's breath agitated the mass. (QUOTED: the metropolitan of Memphis)
+  - “lay mingled and inform, brooding overwhelmed in the Abyss of Being” `III.3 ¶46`
+- **Matter** — Appeared when congenial parts separated from heterogeneous ones and embraced; attraction is inseparable from it. (QUOTED: the metropolitan of Memphis)
+  - “Matter appeared: and inseparable from it attraction instantly began to operate” `III.3 ¶48`
+- **Wisdom** — Created by God and poured on all his works, given to those that love him; the Worker of all things, in whom is an understanding spirit; Solomon's teacher; the object of Hermetic Philosophy and substance of the Stone; a name given to Salt. (ATWOOD; QUOTED: Ecclesiasticus, Solomon, the mysterious adeptest)
+  - = Worker of all things: “For Wisdom, which is the Worker of all things, taught me.” `III.3 ¶49`
+  - = substance of the Stone: “And such a Wisdom (shall we not believe it?) was the worthy object of all Hermetic Philosophy, and the miraculous substance of its transmutative Stone” `III.3 ¶50`
+  - = Salt: “not without weighty cause has Salt been dignified with the name of Wisdom” `III.3 ¶50`
+  - “He created her and numbered her, and poured her out upon all his works.” `III.3 ¶48`
+  - “In her is an understanding spirit --- holy, only begotten, manifold, subtle, lively, clear, undefiled” `III.3 ¶49`
+- **Conscious Intuition** — The mode by which Solomon knew the Living Light and the mysteries of creation, as opposed to outward teaching or rational inference from effects. (ATWOOD)
+  - “not by outward teaching or rational inference from effects, but by the Conscious Intuition” `III.3 ¶49`
+- **Living Light** — What became known to Solomon, together with the mysteries of universal creation. (ATWOOD)
+  - “celebrates the revelation of that Living Light which became known to him” `III.3 ¶49`
+- **Philosopher's Stone** (also: Philosopher’s Stone, philosopher’s stone, Stone, transmutative Stone) — Ruach Elohim conceived and made body in the formless Earth and water of the greater world; described as 'the Son', universal, triune, hermaphrodite, sensible; its substance is Wisdom; Salt is its most ancient principle. (ATWOOD; QUOTED: the mysterious adeptest)
+  - = Ruach Elohim: “The philosopher’s stone, says the mysterious adeptest, is Ruach Elohim, which moved upon the face of the waters” `III.3 ¶50`
+  - “Or what, do we ask, is the Philosopher’s Stone?” `III.3 ¶50`
+- **Ruach Elohim** — That which moved upon the face of the waters, the firmament being in the midst; conceived and made body in the virgin womb of the greater world; identified with the Stone. (QUOTED: the mysterious adeptest)
+  - “Ruach Elohim, which moved upon the face of the waters, the firmament being in the midst” `III.3 ¶50`
+- **greater world** — Its virgin womb, Earth without form and water, is where Ruach Elohim is made body; the Son is born into its light. (The same passage speaks of 'the light of the macrocosm'; the text does not explicitly identify the two.) (QUOTED: the mysterious adeptest)
+  - = Earth which is without form and water (its virgin womb): “the virgin womb of the greater world, viz., that Earth which is without form and water” `III.3 ¶50`
+  - “The Son, born into the light of the macrocosm” `III.3 ¶50`
+- **lesser world** — Named as the father of the Son, or likened to him (see ambiguities). The same passage calls the Stone 'wonderfully salutary to the microcosm'; the text does not explicitly identify the two. Not defined further in this chunk. (QUOTED: the mysterious adeptest)
+  - “consubstantial nevertheless, and like his father the lesser world” `III.3 ¶50`
+  - “wonderfully salutary to the microcosm in universal triunity” `III.3 ¶50`
+- **Physico-Chemical Art** — The Art whose 'obstetric hand' assists the Stone's self-manifestation. (QUOTED: the mysterious adeptest)
+  - “made manifest by itself regeneratively by the obstetric hand of the Physico-Chemical Art” `III.3 ¶50`
+- **Salt** (also: Salt of Saturn) — The most ancient principle of the Stone; the Salt of Saturn reigns naturally and universally in all things through its own fusibility, self-existent in nature; named Wisdom; its nucleus in the Decad is to be kept secret. Together with the Sun, nothing is found more useful than it. (QUOTED: the mysterious adeptest)
+  - = Universal son of Nature: “The Salt of Saturn, the Universal son of Nature” `III.3 ¶50`
+  - = most ancient principle of the Stone: “Salt, that most ancient principle of the Stone” `III.3 ¶50`
+  - = Wisdom: “not without weighty cause has Salt been dignified with the name of Wisdom” `III.3 ¶50`
+  - “always and everywhere universal through its own fusibility, self-existent in nature” `III.3 ¶50`
+  - “than which, together with the Sun, nothing is found more useful” `III.3 ¶50`
+- **Decad** — Where the nucleus of Salt is; to be guarded in holy silence. Not explained in this chunk. (QUOTED: the mysterious adeptest)
+  - “whose nucleus in the Decad guard in holy silence” `III.3 ¶50`
+- **generation** — The process in which the central spirit of each being is separated off, whereby every creature is brought through experience into life and operation. (ATWOOD)
+  - “the separation of this is constantly enacted in generation” `III.3 ¶52`
+- **Mother of all beings** — The great mystery in which we 'stand even now'. (ATWOOD)
+  - “And so far we stand even now in the great mystery, in the Mother of all beings” `III.3 ¶52`
+- **corporeal** — The sensual principle, predominant in the mundane conception, which obscures the divine original from consciousness. (ATWOOD)
+  - = sensual principle: “by the corporeal, i.e., the sensual principle which is predominant in the mundane conception” `III.3 ¶52`
+- **Fontal Reason** (also: Reason) — The source from which the individual springs as an outbirth; obscured by the sensual principle; discovered in regeneration, arising through self-perceivance with creative attributes and powers. (ATWOOD)
+  - “from that Fontal Reason whence it springs” `III.3 ¶52`
+- **self-spiration** — The individual's distinct subsistence as separated from the Fontal Reason. (ATWOOD)
+  - = severation; outbirth: “a distinct self-spiration, severation, or outbirth, as it were, from that Fontal Reason” `III.3 ¶52`
+- **regeneration** (also: regeneratively) — The process in which, upon dissolution of the natural life, the Fontal Reason is discovered and arises through self-perceivance; the Stone is made manifest 'regeneratively'. (ATWOOD)
+  - “But in the regeneration this Reason is said to be discovered” `III.3 ¶52`
+- **self-perceivance** — That through which the Reason arises in regeneration; whose self is perceived is not specified (see ambiguities). (ATWOOD)
+  - “it arises through the self-perceivance, with creative attributes and powers” `III.3 ¶52`
+- **Mind** (also: mind) — Poemander, the Mind of the Great Lord; the Light; God, the Father; not different from what sees and hears the Word in man; always present; comes into the holy and pure; Porter and Door-keeper against evil. (QUOTED: Poemander, in Hermes' account)
+  - = Poemander: “I am, quoth he, Poemander, the Mind of the Great Lord” `III.3 ¶52`
+  - = Light; God: “I am that Light, the Mind, they God” `III.3 ¶54`
+  - = Porter and Door-keeper: “I, that am the Mind itself, will not suffer the works or operations which belong to the body to be finished in them; but being the Porter and Door-keeper” `III.3 ¶57`
+  - “That which, in thee, seeth and heareth the Word of the Lord, and the Mind, the Father, God, differ not one from another” `III.3 ¶54`
+- **Word** (also: holy Word, Spiritual Word, Holy Word) — Issues from the Light/Mind, joins itself to Nature, draws the fire upward and moves the earth and water; the Son of God; taken by God's Will in making the world. (QUOTED: Hermes; Poemander)
+  - = Son of God: “that bright and lightful Word from the Mind is the Son of God” `III.3 ¶54`
+  - “Then from that Light a certain holy Word joined itself unto Nature” `III.3 ¶53`
+- **moist nature** — What the descending darkness changes into, unspeakably troubled, yielding smoke; it appears out of the darkness and the Light is before it; pure fire flies upward out of it when the Word joins Nature. (QUOTED: Hermes; Poemander)
+  - “a certain moist nature unspeakably troubled, which yielded a smoke, as from fire” `III.3 ¶53`
+  - “that moist nature, that appeareth out of the darkness” `III.3 ¶54`
+- **Archetype** (also: Archetypal Form) — The pattern, before the infinite beginning, in which God's Will and Counsel beheld the beautiful world and which it imitated in making this world. (QUOTED: Poemander, in Hermes' account)
+  - “hast thou seen that Archetypal Form, which was before the interminated and infinite beginning?” `III.3 ¶56`
+- **Demon** (also: revenging Demon) — To which the Mind gives place among the wicked; torments them with increasing fire; receives the 'idle manners' at the resolution of the body. (QUOTED: Poemander, in Hermes' account)
+  - “giving place to the revenging Demon, which, applying unto him the sharpness of fire, tormenteth such a man sensibly” `III.3 ¶57`
+- **eighth sphere** (also: eighth nature) — Intellect; reached when the ascending part is naked of all operations; above it are powers singing praises to God. (QUOTED: Poemander, in Hermes' account)
+  - = Intellect: “it cometh to the eighth sphere, which is Intellect” `III.3 ¶57`
+
+## Sources cited
+
+- **Ovid**, *Ovidii Fastorum, lib. 1:104* — “Me Chaos antiqui, nam res sum prisca, vocabant.” `III.3 ¶45, III.3 n30` — Illustrates (per our translation of the Latin): Chaos as the primeval thing, opening the cosmogony.
+- **Ovid**, *Metam., lib. 1* — “Ille opifex rerum, mundi melioris origo” `III.3 ¶46, III.3 ¶47, III.3 n31` — Illustrates (per our translation of the Latin): man made from divine seed or from earth holding seeds of heaven.
+- **the metropolitan of Memphis** — “And know, consecrated Youth, adds the metropolitan of Memphis” `III.3 ¶46, III.3 ¶48` — Illustrates: cosmogony of Chaos, Hyle, Eros, the spirit's breath stirring the mass, separation of congenial from heterogeneous parts; footnoted to Blackwell's Mythology.
+- **Blackwell**, *Blackwell’s Mythology, letter 7* `III.3 n32` — Reference only (source of the cosmogony passage).
+- **Ecclesiasticus**, *Ecclesiasticus 1:6-8* — “He created her and numbered her, and poured her out upon all his works.” `III.3 ¶48, III.3 n33` — Supports: Wisdom is created by God, poured on all his works, given to those who love him.
+- **Solomon**, *Wisdom of Solomon 8: 9* — “For Wisdom, which is the Worker of all things, taught me.” `III.3 ¶49, III.3 n34` — Supports: knowledge of creation comes by Conscious Intuition, taught by Wisdom; Wisdom's spirit described.
+- **the mysterious adeptest**, *Khunrath, Amphiteatr. Sap. Etern., Isag. in fig.* — “The philosopher’s stone, says the mysterious adeptest, is Ruach Elohim” `III.3 ¶50, III.3 n35` — Supports: defines the Stone as embodied Ruach Elohim, Salt as its principle and named Wisdom; Atwood then concedes such definitions explain the unknown by the more unknown.
+- **Hermes**, *the divine Poemander* — “Conceive well the Light in thy Mind, and Know It.” `III.3 ¶52, III.3 ¶53, III.3 ¶54, III.3 ¶55, III.3 ¶56, III.3 ¶57` — Supports/illustrates: testimony of the inward experience of regeneration — the Mind/Light and Word, self-knowledge, purity as condition, and the ascent to Intellect. The speaker Poemander is also spelled 'Pymander' (III.3 ¶54).
+
+## Ambiguities
+
+- “consubstantial nevertheless, and like his father the lesser world” `III.3 ¶50`
+  - Reading: The Son's father is the lesser world, and the Son is consubstantial with and like him.
+  - Reading: The Son is consubstantial with and like his father, and is himself (or is also like) the lesser world.
+  - Basis: The punctuation of III.3 ¶50 allows 'the lesser world' to stand in apposition to 'his father' or to the Son; 'salutary to the microcosm' in the same paragraph does not decide it.
+- “The Salt of Saturn, the Universal son of Nature” `III.3 ¶50`
+  - Reading: The Salt of Saturn is the same as 'The Son' (the Stone) described earlier in the passage.
+  - Reading: Salt is a constituent principle of the Stone, distinct from the Stone itself.
+  - Basis: 'Universal son of Nature' echoes 'The Son ... universal' earlier in III.3 ¶50; but 'Salt, that most ancient principle of the Stone' makes it a principle of the Stone. The text does not state the identity.
+- “until thought, by understanding (as light by the focus of the familiar lens, producing combustion), has brought it forth into effect and flame” `III.3 ¶51`
+  - Reading: Concentrated thought makes the subject comprehensible (an epistemic claim).
+  - Reading: Concentrated thought actually produces or actualizes the subject (an operative claim).
+  - Basis: III.3 ¶51 is about what words can convey, favouring the first; 'into effect and flame' and the combustion image suggest real effect, and III.3 ¶52 gives the discovered Reason 'creative attributes and powers', favouring the second.
+- “it arises through the self-perceivance” `III.3 ¶52`
+  - Reading: The Fontal Reason perceives itself.
+  - Reading: The individual perceives itself and so discovers the Reason.
+  - Basis: The subject of 'self-perceivance' is not specified in III.3 ¶52.
+- “in the resolution of the material body of sense, this body itself is given up to alteration” `III.3 ¶57`
+  - Reading: Physical death and the soul's ascent afterward.
+  - Reading: The dissolution of the natural life in regeneration, as Atwood frames the Poemander in III.3 ¶52.
+  - Basis: III.3 ¶57 speaks of 'the death of them' and the body's resolution 'after the return is made'; III.3 ¶52 introduces the Poemander as testimony for regeneration 'upon the dissolution of the natural life'.
+
+## Translations
+
+- `III.3 ¶45` “Me Chaos antiqui, nam res sum prisca, vocabant. Adspice, quam longi temporis acta canam…” → The ancients called me Chaos, for I am a thing of old. See of how long an age the deeds I shall sing… *(ours)*
+- `III.3 ¶46` “Sine hunc divino semine fecit” → Whether [reading 'Sive' for 'Sine'] he was made from divine seed by (continues in ¶47) *(ours)*
+- `III.3 ¶47` “Ille opifex rerum, mundi melioris origo: Sive recens tellus seductaque nuper ab alto Aethere, cognati retinebat semina coeli; Quam satus Iapeto mistam fluvialibus undis Finxit in effigiem moderantum cuncta deorum” → that maker of things, origin of a better world; or whether the new earth, lately parted from the high ether, kept seeds of its kindred heaven, which the son of Iapetus, mixing it with river waters, shaped into the image of the gods who govern all. *(ours)*
+- `III.3 ¶51` “ignotum per ingotius” → the unknown by means of the more unknown (reading 'ignotius' for 'ingotius') *(ours)*
+
+## Threads
+
+- `III.3 ¶46` 'adds the metropolitan of Memphis' and 'consecrated Youth' continue a speaker and addressee introduced before this chunk.
+- `III.3 ¶52` 'Thus considering the inverse problem, analogically' turns from the Stone/Wisdom problem of ¶51 to the analogy of regeneration in the individual.
+- `III.3 ¶57` The Poemander extract ends mid-account of the return to the Father; it may continue in the next chunk.

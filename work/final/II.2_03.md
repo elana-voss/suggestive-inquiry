@@ -1,0 +1,259 @@
+# II.2_03
+
+*Atwood identifies the universal Spirit, as first revealed in human life, with the mesmeric agent and the Alchemists' despised subject. She says the purification of this subject and of the understanding was the purpose of the ancient Purificative Rites. She presents the Hermetic art as the purification of this passive, undetermined middle substance, by itself, into the Stone, a work that only a laboring philosopher can achieve.*
+
+## Argument
+
+- Aristotle's passive intellect is the Mundane Spirit as first revealed in humanity: convertible to any inclination, truth or delusion, manifesting motives in vital effects. `II.2 ¶17` — ATWOOD
+- It is the agent of present-day mesmerizing, the New Imponderable, being the Common Soul; and the Alchemists' abject subject-matter, converted to every will. `II.2 ¶18` — ATWOOD
+- The world disesteems it unknowingly; who knows the Art and has the medium will be richest. `II.2 ¶18, II.2 n16` — QUOTED: the adept (endorsed)
+- Naturally, the microcosmic life resembles the world's vitality breathed into the blood; it needs melioration; in this Door-keeper Isis is not revealed. `II.2 ¶18` — ATWOOD
+- This is only the Labyrinth's gate, where the human spirit's similitudes lure adventurers into Magic. The Eternal Riddle is the Compound Simple; Hercules' Augean labor is to turn life's current into another channel and purify its source. `II.2 ¶19` — ATWOOD
+- In the Mysteries, Purificative Rites followed the Medial Life's revealment, restoring reason's monarchy before the final initiations. She dwells on this first step and the need of intellectual preparation. `II.2 ¶20` — ATWOOD
+- Objections: inner revelation lacks witness and is biased; nothing universal is observed; why is omnipresent Being unperceived? `II.2 ¶20` — QUOTED: anticipated objectors (answered by Atwood)
+- Reply: sense draws the light outward, forgetting its source; turned inward, impediments removed, it might reveal the antecedent life, unless the understanding is too polluted (Bacon). `II.2 ¶21` — ATWOOD
+- Passive dreaming in the phantasy is perilous; before contemplation all else must be obliterated and the mind made clear and passive. `II.2 ¶22` — QUOTED: the ancients (endorsed)
+- Mystic philosophy hinges on purifying the Understanding Essence and making its occult Causality conscious; doubt concerns means, not possibility of self-knowledge. `II.2 ¶22, II.2 ¶23` — ATWOOD
+- The Hermetic and Eleusinian purifications truly perfected human life, by means purer than Mesmerism's; the ancients began by purifying the Vital Spirit in its proper Light. `II.2 ¶24` — ATWOOD
+- This seeming nothing, solved, resolved and manipulated, becomes the concrete Stone: a mirror of nature's reason and medium of divine experience. `II.2 ¶25` — ATWOOD
+- Draw the least thing into the ferment; the metal is outwardly dead, inwardly alive; collect what philosophers prize; remove superfluities. `II.2 ¶26, II.2 n18` — QUOTED: Aristhenes (endorsed)
+- Art cannot change the perfect or perfect the utterly imperfect; the Universal Spirit is a passive middle substance, self-purifying, agent and patient: the Sun and Moon philosophical. `II.2 ¶26` — ATWOOD
+- The art takes this Undetermined Subject where nature leaves her, through amalgamation, distillation, filtration, digestion and sublimation, into a new concentric Form of Light. `II.2 ¶27` — ATWOOD
+- Nature has one secret agent, distinct through numberless species by their seeds. `II.2 ¶28, II.2 n19` — QUOTED: Eirenaeus (verse)
+- Only philosophers laboring rationally see the Keystone restored; the idle, vicious and foolish are excluded; none imparts what he lacks. `II.2 ¶29, II.2 ¶30` — ATWOOD
+
+## Method
+
+- **subject** — “which Aristotle, in his Metaphysics, calls passive intellect, because capable of receiving and being converted to all” `II.2 ¶17` (ATWOOD)
+  - **Plain (stated):** The universal Mundane Spirit, as it first becomes conscious in human life, is a receptive intellect. It takes on whatever it receives, good or bad, true or delusive, and shows motives in vital effects.
+  - Basis: II.2 ¶17 says why it is called passive intellect.
+  - Also: “the best pr worst inclination, the highest truth or the most delusive imaginings” `II.2 ¶17`
+- **agent** — “the identical agent which is spread abroad in the present day mesmerizing, the photogenic medium, our New Imponderable, for it is the Common Soul” `II.2 ¶18` (ATWOOD)
+  - **Plain (stated):** The agent at work in mesmerism is this same receptive Spirit, the Common Soul.
+  - Basis: II.2 ¶18 asserts the identity directly.
+- **subject** — “a thing indifferent, abject, and exposed in all hands” `II.2 ¶18` (ATWOOD)
+  - **Plain (stated):** The Alchemists' despised, common subject-matter is this same Common Soul. It is present everywhere, unrecognized, and turned unconsciously to any will.
+  - Basis: II.2 ¶18: 'also the subject-matter of the Alchemists aforesaid', in the same sentence as the identification with the Common Soul.
+  - Also: “moving here below in shadowy manifestation, invisibly and unconsciously converted to every will and various use” `II.2 ¶18`
+  - Also: “It is what the world cares not for, as the adept says, but disesteems it; it hath it in its sight, carries it in its hands, yet is ignorant thereof” `II.2 ¶18`
+- **operator** — “he that knows the Art, and the expressions, and hath the medium, will be richer than any other” `II.2 ¶18` (QUOTED: the adept (endorsed))
+  - **Plain (interpreted):** Success needs three things: knowledge of the Art, understanding of its (veiled) expressions, and possession of the medium.
+  - Basis: II.2 ¶18. 'the medium' is read as the subject just described, which ¶18 calls 'the photogenic medium'.
+- **subject** — “the microcosmic life is not dissimilar from the vitality of the greater world, which is included by respiration in the blood of all creatures” `II.2 ¶18` (ATWOOD)
+  - **Plain (stated):** In its natural state, the life in the individual is like the world's general vitality: breathing takes it into the blood, and it pulses in flux and reflux. In this state it needs improvement.
+  - Basis: II.2 ¶18 states the likeness and adds 'how much such a life is in need of melioration'.
+  - Also: “how much such a life is in need of melioration” `II.2 ¶18`
+- **stage** — “that in her Door-keeper, Isis is not revealed” `II.2 ¶18` (ATWOOD)
+  - **Plain (interpreted):** The life's first, natural manifestation does not reveal its full nature. That manifestation is only the threshold.
+  - Basis: II.2 ¶18: the preceding clause says this life falls short and needs melioration. II.2 ¶19: 'so far we have yet advanced only to the gate'. See ambiguities.
+- **impediment** — “the Sphinx is even now present, rapidly propounding her dark riddles in the world, images of the obscure and intricate nature of the human spirit” `II.2 ¶19` (ATWOOD)
+  - **Plain (stated):** The human spirit's own windings, attractions and resemblances mislead whoever enters it. They draw such people into magic, where many go astray.
+  - Basis: II.2 ¶19 glosses the riddles as images of the human spirit and describes the luring.
+  - Also: “into that Hermetic wilderness and wild of Magic in which so many adventurers have gone astray” `II.2 ¶19`
+- **subject** — “This is the Monster and the Eternal Riddle explained to common sense as suits it, but misunderstood to this day; that Compound Simple and ground of the magians’ elements” `II.2 ¶19` (ATWOOD)
+  - **Plain (stated):** The subject is one essence that contains everything, yet is divided off in each particular thing. That is why the magians described it so confusingly.
+  - Basis: II.2 ¶19: 'an essence all comprehending, yet separated in each particular, by so great an interval from itself'.
+  - Also: “an essence all comprehending, yet separated in each particular, by so great an interval from itself” `II.2 ¶19`
+- **procedure** — “But this is that Augean Stable that was to be cleansed, that most famous labor of the philosophic Hercules” `II.2 ¶19` (ATWOOD)
+  - **Plain (stated):** The great labor is to redirect the flow of life and purify its natural source.
+  - Basis: II.2 ¶19 glosses the labor: 'to turn the current of life into another channel, and purify the natural source'.
+  - Also: “to turn the current of life into another channel, and purify the natural source” `II.2 ¶19`
+- **stage** — “Close upon the revealment of the Medial Life then, as we take it, in order of the Mysteries followed the Purificative Rites, which were designed also to restore the monarchy of reason in the soul” `II.2 ¶20` (ATWOOD)
+  - **Plain (stated):** After the Medial Life is revealed, the next step is purification, which puts reason back in rule over the soul. This is preparation for the final initiations, not the end.
+  - Basis: II.2 ¶20.
+  - Also: “not either as an end so much, but as preparatory to undergoing the final initiations” `II.2 ¶20`
+- **impediment** — “that very light is drawn outwardly, and enchanted by sense that it is internally unconscious and oblivious everywhere of the great Identity whence it springs” `II.2 ¶21` (ATWOOD)
+  - **Plain (stated):** True Being is present but not perceived because attention is drawn outward through the senses. It therefore cannot perceive its own source.
+  - Basis: II.2 ¶21 gives this as the answer to the objection in II.2 ¶20.
+- **procedure** — “If that were applied inwardly which now looks out, and every natural impediment removed, experience might then reveal to us the antecedent life” `II.2 ¶21` (ATWOOD)
+  - **Plain (stated):** Turn the outward-looking faculty inward and remove natural impediments. Then experience may reveal the prior source-life.
+  - Basis: II.2 ¶21.
+- **impediment** — “if by this traditionary fall and outbirth, the understanding is so polluted as to be no more able, as Lord Bacon supposes (17), to reflect the total reason to itself” `II.2 ¶21` (ATWOOD (citing Bacon's supposition))
+  - **Plain (stated):** If the understanding is too corrupted to reflect reason, introspection is useless. Atwood treats this as a possibility that must be tested.
+  - Basis: II.2 ¶21: 'introspection will be useless'; it 'behooves us to consider scrupulously ... the possibility and tests'.
+- **impediment** — “who trust themselves to remain passively dreaming in the region of the phantasy, with its notions and instincts, often more false, fleeting, and evil that the corporeal images with which sense is conversant” `II.2 ¶22` (QUOTED: the ancients (endorsed))
+  - **Plain (stated):** Passively wandering in the imagination is dangerous. Its contents are often falser than ordinary sense impressions.
+  - Basis: II.2 ¶22.
+- **procedure** — “that all else be effectually obliterated, and the mental atmosphere made clear and passive before its objective light. Without this, they promise nothing; with it, all.” `II.2 ¶22` (QUOTED: the ancients (endorsed))
+  - **Plain (stated):** Before contemplation, everything else must be cleared from the mind. The mind must become clear and receptive before the light of Reason. This is the indispensable precondition.
+  - Basis: II.2 ¶22: 'before any one betakes himself to the inner life of contemplation --- before he hopes, we mean, to pass into its Reason'.
+- **principle** — “namely, of purifying the human Understanding Essence, and developing to consciousness its occult Causality” `II.2 ¶22` (ATWOOD)
+  - **Plain (stated):** The mystics' whole philosophy depends on two things: purifying the understanding and bringing its hidden causal power into consciousness.
+  - Basis: II.2 ¶22.
+  - Also: “the doubt rather remains also about the discovery of means, than the possibility of self-knowledge” `II.2 ¶23`
+- **result** — “were real and efficacious for the highest ends that philosophy can propose to itself, namely, the purification and perfection of human life” `II.2 ¶24` (ATWOOD)
+  - **Plain (stated):** The aim of the Hermetic purifications and Mysteries was to purify and perfect human life. Their means were higher than those of mesmerism.
+  - Basis: II.2 ¶24.
+  - Also: “the administration in proportion purer, holier, and entirely scientific” `II.2 ¶24`
+- **procedure** — “purifying the Vital Spirit in its proper Light” `II.2 ¶24` (ATWOOD)
+  - **Plain (stated):** The ancients began from where modern experiment ends: purifying the vital spirit. The chunk does not further define 'its proper Light'.
+  - Basis: II.2 ¶24.
+- **result** — “it is the very same which solved and resolved, and wisely manipulated, becomes to be the concrete Stone of philosophers” `II.2 ¶25` (ATWOOD)
+  - **Plain (stated):** The Stone is this same subtle principle, worked on by repeated solution and skilled handling. In its pure, passive state it mirrors universal reason and mediates divine experience.
+  - Basis: II.2 ¶25.
+  - Also: “in its pure, passive expanse, a mirror of the catholic reason of nature, and the medium of that holy and sublime experience granted to man alone in the divine alliance” `II.2 ¶25`
+- **procedure** — “Take that which is least, and draw it by artifice into the true ferment of philosophers” `II.2 ¶26` (QUOTED: Aristhenes (endorsed))
+  - **Plain (interpreted):** Begin with the most despised, least-valued thing and bring it by art into fermentation. This chunk does not explain what the ferment is.
+  - Basis: II.2 ¶26. 'that which is least' is read alongside the 'abject' subject of II.2 ¶18.
+- **subject** — “although our metal is exteriorly dead, yet it has life within” `II.2 ¶26` (QUOTED: Aristhenes (endorsed))
+  - **Plain (stated):** The subject looks inert from outside but holds an inner life.
+  - Basis: II.2 ¶26.
+- **procedure** — “only in the preparation removing superfluities” `II.2 ¶26` (QUOTED: Aristhenes (endorsed))
+  - **Plain (interpreted):** Preparation means separation: keep what the philosopher values, discard what most people value, and remove what is superfluous. The garbled preceding words seem to say that nothing else is added or taken away.
+  - Basis: II.2 ¶26: 'That which in the eyes of a philosopher is the most precious should be collected, and that That which the many set more value on be rejected'. See ambiguities for the corrupt phrase.
+  - Also: “That which in the eyes of a philosopher is the most precious should be collected, and that That which the many set more value on be rejected” `II.2 ¶26`
+- **principle** — “but this Universal Spirit is described as a middle substance --- passive, undetermined, susceptible of conversion and all extremes” `II.2 ¶26` (ATWOOD)
+  - **Plain (stated):** Only something between the perfect and the utterly imperfect can be perfected by art. This Spirit is such an undetermined middle thing.
+  - Basis: II.2 ¶26: 'From that which is perfect nothing more can be made ... neither from an utterly imperfect thing can art produce perfection'.
+  - Also: “From that which is perfect nothing more can be made; for a perfect species is not changed in its nature, neither from an utterly imperfect thing can art produce perfection” `II.2 ¶26`
+- **agent** — “the one thing requisite, purifying and to be purified itself by itself, in turn agent and patient, which are the Hermetic luminaries” `II.2 ¶26` (ATWOOD)
+  - **Plain (stated):** The single subject purifies itself: it is both what acts and what is acted on. Its active and passive sides are the 'luminaries', the philosophical Sun and Moon. As the work advances, they pass through many phases from imperfection to perfection.
+  - Basis: II.2 ¶26 identifies agent and patient with the Hermetic luminaries, the Sun and Moon philosophical.
+  - Also: “in their full representative advancement, the Sun and Moon philosophical, passing through many phases from imperfection to perfection in the true magistery” `II.2 ¶26`
+- **procedure** — “the hermetic art would seem to consist simply in the right disposition and manipulation of this our Undetermined Subject, taking her where nature leaves” `II.2 ¶27` (ATWOOD)
+  - **Plain (stated):** The art is the correct handling of this undetermined subject. It picks up where natural development stops.
+  - Basis: II.2 ¶27.
+- **stage** — “as of amalgamation, distillation, filtration, digestion, and lastly by sublimation to the Head of an appropriate Vessel” `II.2 ¶27` (ATWOOD)
+  - **Plain (stated):** The operations, in the order listed, are amalgamation, distillation, filtration, digestion and finally sublimation. This chunk does not explain them; they are 'to be hereafter noted'.
+  - Basis: II.2 ¶27 lists the operations only.
+- **result** — “establishing her in a new and concentric Form of Light” `II.2 ¶27` (ATWOOD)
+  - **Plain (stated):** The end of the operations is the subject established in a new and concentric Form of Light. This chunk does not explain it further.
+  - Basis: II.2 ¶27.
+- **agent** — “For she her secret agent doth possess, Which in the universe is only one, But is distinct thro’ species numberless, According to their seeds” `II.2 ¶28` (QUOTED: Eirenaeus (verse, endorsed))
+  - **Plain (stated):** Nature has one secret agent, one in the universe but distinct through numberless species according to their seeds. The verse also says the life of things is a hidden light, discerned by soaring minds.
+  - Basis: II.2 ¶28 verse.
+  - Also: “Their life is light which in them hidden lies, Discerned by the eyes of soaring minds” `II.2 ¶28`
+- **operator** — “None but a philosopher ever achieved the work, or for reasons that are imperative, ever will.” `II.2 ¶29` (ATWOOD)
+  - **Plain (stated):** Only a true philosopher can do the work. The idle, the vicious and fools without the principle of improvement in themselves are excluded. One can impart only what one has, and one has it only by laboring rationally.
+  - Basis: II.2 ¶29.
+  - Also: “The idle and vicious are totally excluded, nor are the rewards of Wisdom to be won by fools wanting the very principles of melioration in themselves” `II.2 ¶29`
+  - Also: “He only that hath it can impart --- and he only has it who has labored rationally in the pursuit” `II.2 ¶29`
+  - Also: “The earth giveth much mould, whereof earthen vessels are made, but little dust that gold cometh of” `II.2 ¶29`
+- **result** — “all the labors of that Heroic Intellect to be passed through before the rejected Keystone regains her Head place” `II.2 ¶29` (ATWOOD)
+  - **Plain (interpreted):** The work is completed only after long intellectual labor. This chunk does not decode the 'rejected Keystone' (see ambiguities).
+  - Basis: II.2 ¶29. The possible readings are drawn from II.2 ¶18, ¶20 and ¶27.
+
+## Terms
+
+- **Mundane Spirit** (also: universal Mundane Spirit) — The universal Spirit as it is first consciously revealed in the receptive life of humanity. It can receive and be converted to anything. (ATWOOD)
+  - = passive intellect: “which Aristotle, in his Metaphysics, calls passive intellect” `II.2 ¶17`
+  - “the universal Mundane Spirit, as it is at first consciously revealed in the recipient life of humanity” `II.2 ¶17`
+- **passive intellect** — Aristotle's term, as Atwood reports it: an intellect capable of receiving and being converted to all things. (QUOTED: Aristotle (adopted by Atwood))
+  - “calls passive intellect, because capable of receiving and being converted to all” `II.2 ¶17`
+- **Common Soul** — The agent at work in mesmerism and the Alchemists' subject-matter. It is indifferent, present everywhere and converted to every will. (ATWOOD)
+  - = the agent of present-day mesmerizing / photogenic medium / New Imponderable: “the identical agent which is spread abroad in the present day mesmerizing, the photogenic medium, our New Imponderable, for it is the Common Soul” `II.2 ¶18`
+  - = subject-matter of the Alchemists: “also the subject-matter of the Alchemists aforesaid” `II.2 ¶18`
+  - “a thing indifferent, abject, and exposed in all hands” `II.2 ¶18`
+- **New Imponderable** — Atwood's name for the agent of mesmerism, which she identifies with the Common Soul. (ATWOOD)
+  - = Common Soul: “our New Imponderable, for it is the Common Soul” `II.2 ¶18`
+- **Mesmerism** (also: mesmerizing) — A present-day art that uses the same agent (the Common Soul). Its object and means are far inferior to those of the ancient Mysteries. (ATWOOD)
+  - “the object was different and immeasurably superior to those proposed by modern Mesmerism” `II.2 ¶24`
+- **medium** (also: photogenic medium) — Used of the mesmeric agent (the 'photogenic medium'). In the adept's words, it is what one must have, besides the Art, to succeed. In ¶25 the purified principle is 'the medium' of divine experience. (ATWOOD)
+  - “and hath the medium, will be richer than any other” `II.2 ¶18`
+  - “the medium of that holy and sublime experience” `II.2 ¶25`
+- **microcosmic life** — The life in the individual. In its natural state it is like the world's vitality, which respiration takes into the blood, and it needs melioration. (ATWOOD)
+  - “the microcosmic life is not dissimilar from the vitality of the greater world” `II.2 ¶18`
+- **melioration** — Improvement. The natural life needs it, and the 'principles of melioration' are required in the operator. (ATWOOD)
+  - “how much such a life is in need of melioration” `II.2 ¶18`
+  - “wanting the very principles of melioration in themselves” `II.2 ¶29`
+- **Compound Simple** — The subject seen as one essence that contains everything yet is separated in each particular. It is the ground of the magians' elements. (ATWOOD)
+  - = the Monster / the Eternal Riddle: “This is the Monster and the Eternal Riddle explained to common sense as suits it, but misunderstood to this day; that Compound Simple” `II.2 ¶19`
+  - = ground of the magians' elements: “that Compound Simple and ground of the magians’ elements” `II.2 ¶19`
+  - “an essence all comprehending, yet separated in each particular, by so great an interval from itself” `II.2 ¶19`
+- **Medial Life** — Something whose 'revealment' comes, in the order of the Mysteries, just before the Purificative Rites. The chunk does not define it explicitly (see ambiguities). (ATWOOD)
+  - “Close upon the revealment of the Medial Life then, as we take it, in order of the Mysteries followed the Purificative Rites” `II.2 ¶20`
+- **Purificative Rites** — The stage of the Mysteries after the revealment of the Medial Life. It is designed to restore reason's monarchy in the soul and prepares for the final initiations. (ATWOOD)
+  - “which were designed also to restore the monarchy of reason in the soul” `II.2 ¶20`
+- **Mysteries** — The ancient rites, celebrated in Eastern temples and at Eleusis, with their ordered stages: revealment of the Medial Life, Purificative Rites and final initiations. They were real and effective for purifying and perfecting human life. (ATWOOD)
+  - “the Hermetic purifications and Mysteries, celebrated in the Eastern temples and by the priests at Eleusis, were real and efficacious” `II.2 ¶24`
+- **superstantial world** — Named in an objection: why, if true Being is everywhere present, partaking things do not enjoy the light of this 'so-called' world. The chunk does not define it. (ATWOOD)
+  - “the light of the so-called superstantial world” `II.2 ¶20`
+- **antecedent life** — The life prior to and underlying outward experience. Experience might reveal it if the outward-looking faculty were turned inward and impediments removed. (ATWOOD)
+  - “experience might then reveal to us the antecedent life” `II.2 ¶21`
+- **phantasy** — The imaginative region of notions and instincts. Its contents are often more false, fleeting and evil than sense images, and it is dangerous to dwell in passively. (QUOTED: the ancients)
+  - “the region of the phantasy, with its notions and instincts” `II.2 ¶22`
+- **Understanding Essence** — The human understanding, considered as an essence to be purified. It has an 'occult Causality' that can be developed to consciousness. (ATWOOD)
+  - “purifying the human Understanding Essence, and developing to consciousness its occult Causality” `II.2 ¶22`
+- **Vital Spirit** — What the ancients began by purifying, 'in its proper Light'. (ATWOOD)
+  - “purifying the Vital Spirit in its proper Light” `II.2 ¶24`
+- **Stone of philosophers** (also: concrete Stone of philosophers) — What the same principle becomes when it is solved, resolved and wisely manipulated. (ATWOOD)
+  - “solved and resolved, and wisely manipulated, becomes to be the concrete Stone of philosophers” `II.2 ¶25`
+- **ferment of philosophers** — That into which the 'least' thing is to be drawn by artifice. The chunk does not define it. (QUOTED: Aristhenes)
+  - “draw it by artifice into the true ferment of philosophers” `II.2 ¶26`
+- **Universal Spirit** — A middle substance that is passive, undetermined and convertible to all extremes. That is why it can be perfected by art. (ATWOOD)
+  - “this Universal Spirit is described as a middle substance --- passive, undetermined, susceptible of conversion and all extremes” `II.2 ¶26`
+- **Hermetic luminaries** — The agent and patient aspects of the one self-purifying subject. Fully advanced, they are the Sun and Moon philosophical. (ATWOOD)
+  - = agent and patient: “in turn agent and patient, which are the Hermetic luminaries” `II.2 ¶26`
+  - = Sun and Moon philosophical: “which are the Hermetic luminaries; in their full representative advancement, the Sun and Moon philosophical” `II.2 ¶26`
+- **magistery** — The true work, within which the luminaries pass through phases from imperfection to perfection. (ATWOOD)
+  - “passing through many phases from imperfection to perfection in the true magistery” `II.2 ¶26`
+- **Undetermined Subject** — The subject of the hermetic art, referred to as 'her'. The art takes it where nature leaves it and disposes and manipulates it. (ATWOOD)
+  - “the right disposition and manipulation of this our Undetermined Subject” `II.2 ¶27`
+- **Form of Light** — The new, concentric form in which the subject is established through sublimation at the end of the operations. (ATWOOD)
+  - “establishing her in a new and concentric Form of Light” `II.2 ¶27`
+- **Keystone** — Something 'rejected' that regains 'her Head place' only after the labors of the Heroic Intellect. The chunk does not decode it. (ATWOOD)
+  - “before the rejected Keystone regains her Head place” `II.2 ¶29`
+- **Heroic Intellect** — The intellect whose long labors must be passed through before the work is complete. (ATWOOD)
+  - “all the labors of that Heroic Intellect to be passed through” `II.2 ¶29`
+- **Art** (also: hermetic art) — The hermetic art: the right disposition and manipulation of the Undetermined Subject through stated operations. Knowing it, with its expressions and the medium, brings the greatest riches. (ATWOOD)
+  - “he that knows the Art, and the expressions, and hath the medium” `II.2 ¶18`
+
+## Sources cited
+
+- **Aristotle**, *Metaphysics* `II.2 ¶17` — Supports: his 'passive intellect' names the Mundane Spirit as first revealed in humanity.
+- **the Alchemists aforesaid** — “a thing indifferent, abject, and exposed in all hands” `II.2 ¶18` — Supports: their description of the subject-matter fits the Common Soul.
+- **the adept** — “It is what the world cares not for, as the adept says, but disesteems it” `II.2 ¶18, II.2 n16` — Supports: the subject is common and despised, yet those who know the Art and have the medium will be richest.
+- **Aquarium Sapientum**, *Aquarium Sapientum, part 2, in fine* `II.2 n16` — Reference only (footnote to the adept's words).
+- **Vaughan**, *Coelum Terrae* `II.2 n16` — Reference only (footnote to the adept's words).
+- **Lord Bacon**, *Instaruration of the Sciences* `II.2 ¶21, II.2 n17` — Raises a difficulty: his supposition that the understanding is too polluted by the fall to reflect total reason, in which case introspection would be useless.
+- **the ancients** `II.2 ¶22` — Supports: they warn against passive dreaming in the phantasy and require the mind to be cleared and made passive before contemplation.
+- **the Greek philosophers** `II.2 ¶24` — Supports, in part: their authority grounds the inference that the Mysteries were real and efficacious.
+- **Eastern temples / the priests at Eleusis** `II.2 ¶24` — Illustrates: where the Hermetic purifications and Mysteries were celebrated.
+- **Philalethes** — “Few, very few, Philalethes said, there were in his day” `II.2 ¶25` — Supports: few understand the principle's full scope.
+- **Reuchlin**, *The Mirific Word* — “Ex natura et divino factum est” `II.2 ¶25` — Supports: the purified principle, as medium of divine experience, is 'Ex natura et divino factum est'; the rest of the sense rests on our translation only.
+- **the Greek Aristhenes** — “Take that which is least, and draw it by artifice into the true ferment of philosophers” `II.2 ¶26, II.2 n18` — Supports: the subject is least valued and outwardly dead but alive within, and preparation removes superfluities.
+- **Aristiteles**, *Roasrio; Lucerna Salis* `II.2 n18` — Reference only (footnote n18: 'Aristiteles in Roasrio, and in the Lucerna Salis').
+- **Eirenaeus**, *Marrow of Alchemy, book 1* — “For she her secret agent doth possess, Which in the universe is only one” `II.2 ¶28, II.2 n19` — Supports, in verse: nature has one secret agent, distinct through numberless species.
+- **Esdras**, *Esdras, cap. 3, Book 1* — “The earth giveth much mould, whereof earthen vessels are made, but little dust that gold cometh of” `II.2 ¶29, II.2 n20` — Illustrates: few attain the work.
+- **Latin maxim (unattributed)** — “Nemo enim dat id, quod non habet.” `II.2 ¶29` — Supports: only one who has it can impart it.
+- **Latin verse (unattributed)** — “Non levis adscensus, si quis petat ardua, sudor” `II.2 ¶30` — Illustrates: the toil of the ascent.
+
+## Ambiguities
+
+- “that in her Door-keeper, Isis is not revealed” `II.2 ¶18`
+  - Reading: The natural, first-manifested life (the 'Door-keeper') does not reveal Isis, i.e. the full nature of what it guards.
+  - Reading: The present-day mesmeric manifestation of the agent falls short of the full mystery.
+  - Basis: Reading 1: the same sentence of II.2 ¶18 on the natural life's need of melioration. Reading 2: II.2 ¶18 identifies the mesmeric agent with the subject, II.2 ¶19 says 'so far we have yet advanced only to the gate', and II.2 ¶24 calls the object of the Mysteries superior to Mesmerism's.
+- “Close upon the revealment of the Medial Life then” `II.2 ¶20`
+  - Reading: The Medial Life is the Mundane Spirit or Common Soul as first revealed, described in ¶17–19.
+  - Reading: The Medial Life is a stage in the order of the Mysteries that this chunk does not otherwise identify.
+  - Basis: Reading 1: 'then' links back to the preceding paragraphs; II.2 ¶17 speaks of the Spirit 'as it is at first consciously revealed'; II.2 ¶26 calls the Universal Spirit 'a middle substance'. Reading 2: no explicit identity is stated.
+- “That which is, in his mind, so mere a nothing, become sin that of a philosopher to be the All in all” `II.2 ¶25`
+  - Reading: 'become sin that' is an error for 'becomes in that': what is nothing in his mind becomes in the philosopher's mind the All in all.
+  - Reading: The text is corrupt and its exact wording is uncertain.
+  - Basis: The sense of the contrast between 'his mind' and 'that of a philosopher' in II.2 ¶25.
+- “O, how wonderful different and detract nothing, only in the preparation removing superfluities” `II.2 ¶26`
+  - Reading: Preparation adds nothing different and takes nothing away except superfluities.
+  - Reading: The passage is garbled and its sense cannot be recovered beyond 'removing superfluities'.
+  - Basis: The surrounding words in II.2 ¶26 on collecting what is precious and rejecting what the many value.
+- “before the rejected Keystone regains her Head place” `II.2 ¶29`
+  - Reading: The despised subject is restored to supremacy at the completion of the work.
+  - Reading: Reason is restored to rule in the soul.
+  - Reading: The subject is raised by sublimation to the Head of the Vessel.
+  - Basis: Reading 1: II.2 ¶18 (the subject is disesteemed and 'abject'). Reading 2: II.2 ¶20 ('restore the monarchy of reason in the soul'). Reading 3: II.2 ¶27 ('sublimation to the Head of an appropriate Vessel'); the feminine 'her' matches 'taking her where nature leaves' in ¶27.
+
+## Translations
+
+- `II.2 ¶25` “Ex natura et divino factum est” → It is made from nature and the divine. *(ours)*
+- `II.2 ¶25` “Divinum enim quia cum divinitate conjunctum divinas substantias facit.” → For it is divine because, joined with divinity, it makes divine substances. *(ours)*
+- `II.2 ¶29` “Nemo enim dat id, quod non habet.” → He only that hath it can impart *(book)*
+- `II.2 ¶30` “Non levis adscensus, si quis petat ardua, sudor Plurimus hunc tollit, nocturna insomnis olivae Immoritur, delet quod mox laudaverit in se, Qui cupit aeternae donari frondis honore.” → The ascent is not light. If anyone seeks the heights, much sweat raises him; sleepless, he wears himself out over the nightly olive-lamp and erases in himself what he will soon have praised, whoever desires to be granted the honour of the eternal leaf. *(ours)*
+
+## Threads
+
+- `II.2 ¶17` 'All which we understand' refers back to the preceding discussion, which is not in this chunk.
+- `II.2 ¶18` 'the Alchemists aforesaid' points to Alchemists cited earlier.
+- `II.2 ¶20` 'as we proceed to unfold the ultimate tradition of this Wisdom' and 'the final initiations' point to later treatment of the final initiations.
+- `II.2 ¶24` 'some mother grounds hereafter to be disposed of' promises later grounds for the inference that the Mysteries were real and efficacious.
+- `II.2 ¶24` The particulars of the means employed in the Mysteries 'are further discussed under the Practice'.
+- `II.2 ¶27` The 'divers operations' (amalgamation, distillation, filtration, digestion, sublimation) are 'to be hereafter noted'.

@@ -31,7 +31,7 @@ for k, idx in sorted(tg.items(), key=lambda kv: -len(kv[1])):
 nt = len(groups)
 for k, idx in sorted(sg.items(), key=lambda kv: -len(kv[1])):
     groups.append({'id': f'S{len(groups)-nt+1:04d}', 'kind': 'source', 'records': idx})
-json.dump({'terms': T, 'sources': S, 'groups': groups}, open(R + 'groups.json', 'w', encoding='utf-8'), ensure_ascii=False)
+json.dump({'terms': T, 'sources': S, 'groups': groups}, open(R + 'groups.json', 'w', encoding='utf-8', newline='\n'), ensure_ascii=False)
 # merge input: headwords / variants / asserted equivalences only
 out = ['# TERM GROUPS (id | forms | records | asserted equivalences: with @ref)']
 for g in groups[:nt]:
@@ -44,5 +44,5 @@ for g in groups[nt:]:
     rs = [S[i] for i in g['records']]; live = [r for r in rs if not refonly(r)]
     works = list(dict.fromkeys(r['work'] for r in rs if r.get('work')))[:6]
     out.append(f"{g['id']} | {rs[0]['name']} | {len(live)}/{len(rs)}" + (f" | {'; '.join(works)}" if works else ''))
-open(R + 'merge_input.md', 'w', encoding='utf-8').write('\n'.join(out) + '\n')
+open(R + 'merge_input.md', 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
 print(len(T), len(S), 'term groups', nt, 'source groups', len(groups) - nt, 'refonly', sum(1 for s in S if refonly(s)))

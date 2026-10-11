@@ -1,0 +1,1172 @@
+{
+ "chunk": "I.3_04",
+ "gist": "Section Fourth of Hermes' Golden Treatise: the Stone, Venus and the King speak, and Hermes directs that Botri be made from the Red and the Brazen Body be burned. Atwood's footnotes gloss these as phases of the material, nature's central light, the constrained Rational Efficient, the death of nature's self-will, and one fermenting mineral spirit.",
+ "notes": [
+  {
+   "point": "The Stone declares its Sol and beams hidden inward, its Luna a light above all others; it rewards the intelligent with riches and knowledge of divine things.",
+   "refs": [
+    "I.3 ¶37"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "The concealed thing is written with seven letters; to guard the Art, join the son to Buba (Jupiter).",
+   "refs": [
+    "I.3 ¶37"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Seven letters = the material's necessary phases by color and virtue (planets or metals); the rest is conjunction of active and passive principles to reproduce light.",
+   "refs": [
+    "I.3 n47"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Use judgment: the matter is one thing; like begets like.",
+   "refs": [
+    "I.3 ¶38"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Reason is needed because Hermes conceals the vessel; Maria finds the science in all bodies, most easily where the four elements are evident; the Scholiast says it is prepared and coagulated in life's innermost chamber.",
+   "refs": [
+    "I.3 n48"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Venus begets light, liquefies bodies, extracts their substance; best conjoined with her brother.",
+   "refs": [
+    "I.3 ¶39"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "All here is to be understood ethereally. Venus is nature's central light, a moist spirit vivifying metalline bodies; her appearance is not the finished work, being transient without the masculine tincture.",
+   "refs": [
+    "I.3 n49"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "The crowned King, chained to his mother, holds his substance together and makes occult matter appear.",
+   "refs": [
+    "I.3 ¶39"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "King = Rational Efficient; reason, constrained in the fiery ordeal, turns back on its own life, inverting generation and opening life's innermost recess.",
+   "refs": [
+    "I.3 n50"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Man is generated from Nature's principle whose inward substance is fleshy, and from nothing else; reject superfluities.",
+   "refs": [
+    "I.3 ¶40"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Atwood stresses the force of this saying; an adept reads 'dust of the earth' as nature's arising quintessence, which cannot be perceived without self-investigation.",
+   "refs": [
+    "I.3 n51"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Botri is made from the Citrine extracted out of the Red, and from nothing else.",
+   "refs": [
+    "I.3 ¶41"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Botri = the Philosopher's Stone; the red root is Terra Adamica, called Magnesia, and Salt after purification.",
+   "refs": [
+    "I.3 n52"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Burn the Brazen Body; fix the volatile; what corrupts in the fire is Cambar.",
+   "refs": [
+    "I.3 ¶42"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Nature's self-willed hypostasis must die; with innate evil manifest, the will works its solution. Images: Venus turning golden; the masculine tincture rising from blackness with the white spirit.",
+   "refs": [
+    "I.3 n53"
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "point": "Blackness turns true red; destroyers are renovators, corruption and melioration both signalling the Art.",
+   "refs": [
+    "I.3 ¶43",
+    "I.3 ¶44"
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "point": "Whitened water reddens by conjunction with its own spirit. Material, art and stone are one; the art begins and ends in 'our Mercury', a Proteus One through all forms.",
+   "refs": [
+    "I.3 n54",
+    "I.3 n55"
+   ],
+   "voice": "ATWOOD"
+  }
+ ],
+ "method": [
+  {
+   "aspect": "subject",
+   "veiled": "the whole matter I know to be one only thing",
+   "ref": "I.3 ¶38",
+   "plain": "The material of the work is a single thing, and so is the art and the Stone.",
+   "status": "stated",
+   "basis": "Stated in ¶38 and repeated by Atwood in n55.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "even as the hermetic material is one the art is one; and the stone is also one mineral spirit",
+     "ref": "I.3 n55"
+    }
+   ]
+  },
+  {
+   "aspect": "principle",
+   "veiled": "There is not from man anything but what is like him; nor from the ox and bullock",
+   "ref": "I.3 ¶38",
+   "plain": "Like produces like: the product can only be of the same kind as its material, so the material must already be of the Stone's kind.",
+   "status": "interpreted",
+   "basis": "¶38 (cross-species offspring 'like neither'); n55 says the stone is 'exalted by fermentation intrinsically in its proper kind' and 'leaven makes leaven'.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "as leaven makes leaven, and every ferment begets its own exaltation",
+     "ref": "I.3 n55"
+    }
+   ]
+  },
+  {
+   "aspect": "stage",
+   "veiled": "that which the philosophers has concealed is written with seven letters",
+   "ref": "I.3 ¶37",
+   "plain": "The work passes through seven necessary phases, distinguished by color and quality; these phases are what some call planets and others metals.",
+   "status": "stated",
+   "basis": "Atwood's gloss in n47.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "the necessary phases which the philosophic material passes in order of color and qualitative virtue; some call them planets, others metals",
+     "ref": "I.3 n47"
+    }
+   ]
+  },
+  {
+   "aspect": "procedure",
+   "veiled": "join the son to Buba, which is Jupiter and a hidden secret",
+   "ref": "I.3 ¶37",
+   "plain": "Conjoin an active and a passive principle so that light is reproduced out of the whole.",
+   "status": "stated",
+   "basis": "Atwood in n47 glosses 'the rest of Hermes' allusion' as this conjunction; which of son/Buba is active is not said.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "the conjunction of active and passive principles for the reproduction of light out of the whole",
+     "ref": "I.3 n47"
+    }
+   ]
+  },
+  {
+   "aspect": "operator",
+   "veiled": "The profound significance of the first monition to use our reason",
+   "ref": "I.3 n48",
+   "plain": "The operator must use reason and judgment, because Hermes deliberately hides the philosophic vessel, which must be found by inquiry.",
+   "status": "stated",
+   "basis": "n48 links the monition in ¶38 to Hermes' concealment of the vessel.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "then let us use our judgment",
+     "ref": "I.3 ¶38"
+    }
+   ]
+  },
+  {
+   "aspect": "subject",
+   "veiled": "Hermes has chosen to conceal the philosophic vessel",
+   "ref": "I.3 n48",
+   "plain": "The vessel/matter is present in all bodies but most easily found where the four elements are most evident; it is prepared and coagulated within life itself, in its innermost part.",
+   "status": "interpreted",
+   "basis": "n48 quotes Maria ('found in all bodies'; 'most evidently contains the four philosophic elements') and the Scholiast ('innermost chamber of life'); n50 'most intimate recess of life' supports the location in life. Whether vessel and matter are the same is not stated.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "It is prepared in the innermost chamber of life, says the wise Scholiast, and there it is coagulated",
+     "ref": "I.3 n48"
+    }
+   ]
+  },
+  {
+   "aspect": "subject",
+   "veiled": "My Sol and my beams are most inward and secretly in me",
+   "ref": "I.3 ¶37",
+   "plain": "The Stone's light is hidden inside its matter rather than visible on the surface.",
+   "status": "interpreted",
+   "basis": "¶37 itself; n49 describes 'the central light of nature, which is occultated in her generations'.",
+   "voice": "QUOTED: Hermes",
+   "also": []
+  },
+  {
+   "aspect": "principle",
+   "veiled": "All here is to be understood ethereally, according to the principles before laid down",
+   "ref": "I.3 n49",
+   "plain": "The Venus and King speeches are to be read 'ethereally', not literally, per principles given earlier; this chunk does not define the term.",
+   "status": "stated",
+   "basis": "n49.",
+   "voice": "ATWOOD",
+   "also": []
+  },
+  {
+   "aspect": "agent",
+   "veiled": "Venus personifies the central light of nature",
+   "ref": "I.3 n49",
+   "plain": "Venus stands for nature's hidden central light, a moist spirit that dissolves and vivifies bodies bound in earthiness.",
+   "status": "stated",
+   "basis": "n49 glosses ¶39 directly; ¶39 gives her actions (liquefy, wipe away rust, extract substance).",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "I liquefy them and wipe away their rust, and I extract their substance",
+     "ref": "I.3 ¶39"
+    },
+    {
+     "text": "they gladly adhere to this moist spirit, that it may vivify them",
+     "ref": "I.3 n49"
+    }
+   ]
+  },
+  {
+   "aspect": "impediment",
+   "veiled": "the artist is rejoiced, and thinks perhaps his work is finished",
+   "ref": "I.3 n49",
+   "plain": "The first appearance of the light is a false finish: it is imperfect and transient until the masculine tincture fixes it.",
+   "status": "stated",
+   "basis": "n49 (the 'no less experienced adept').",
+   "voice": "QUOTED: a no less experienced adept",
+   "also": [
+    {
+     "text": "the light still be found imperfect, alone, and transient, without the masculine tincture to fix it in manifestation",
+     "ref": "I.3 n49"
+    }
+   ]
+  },
+  {
+   "aspect": "agent",
+   "veiled": "By the king, the Rational Efficient is signified",
+   "ref": "I.3 n50",
+   "plain": "The King is the rational efficient principle; his brethren are lower degrees of illumination in the spirit, finally brought into accord with their source.",
+   "status": "stated",
+   "basis": "n50 glosses ¶39.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "by the brethren, the inferior degrees of illumination in the spirit",
+     "ref": "I.3 n50"
+    }
+   ]
+  },
+  {
+   "aspect": "procedure",
+   "veiled": "being chained to the arms and breast of my mother, and to her substance, I cause my substance to keep together",
+   "ref": "I.3 ¶39",
+   "plain": "Reason is artificially held so it cannot escape the fiery ordeal; it then turns back upon its own life, reversing the natural direction of generation, which opens access to the innermost recess of life.",
+   "status": "interpreted",
+   "basis": "n50 glosses the King's speech with 'artificially constrained, lest it should escape the fiery ordeal'; linking this specifically to 'chained' is our reading.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "returns, fastening, as Hermes says, upon the wheel of its proper life, as it were, introverting the natural channel and order of generation",
+     "ref": "I.3 n50"
+    }
+   ]
+  },
+  {
+   "aspect": "result",
+   "veiled": "I compose the invisible from the visible, making the occult matter to appear",
+   "ref": "I.3 ¶39",
+   "plain": "The hidden matter is brought into manifestation; a door is opened into life's most intimate recess.",
+   "status": "interpreted",
+   "basis": "¶39; n50 'a door is marvelously opened into the most intimate recess of life'.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "whereby a door is marvelously opened into the most intimate recess of life",
+     "ref": "I.3 n50"
+    }
+   ]
+  },
+  {
+   "aspect": "subject",
+   "veiled": "Man is generated from the principle of Nature whose inward substance is fleshy, and not from anything else",
+   "ref": "I.3 ¶40",
+   "plain": "Man's origin is the arising quintessence of universal nature; Atwood presents this as possibly the whole ground of the mystery.",
+   "status": "interpreted",
+   "basis": "n51: 'as if the whole ground of the mystery lay in these words'; the adept glosses 'dust of the earth' (not ¶40's words directly) as 'the arising quintessence of the universal nature'.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "Man, it is said, was created of the dust of the earth; that is, interprets the adept, of the arising quintessence of the universal nature",
+     "ref": "I.3 n51"
+    }
+   ]
+  },
+  {
+   "aspect": "operator",
+   "veiled": "without self-investigation, are unable to perceive the reality of those things",
+   "ref": "I.3 n51",
+   "plain": "The teaching comes from experiential knowledge of Life and can only be understood through self-investigation.",
+   "status": "stated",
+   "basis": "n51.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "spoken out of an experimental knowledge of Life",
+     "ref": "I.3 n51"
+    }
+   ]
+  },
+  {
+   "aspect": "result",
+   "veiled": "Botri is made from the Citrine, which is extracted out of the Red",
+   "ref": "I.3 ¶41",
+   "plain": "The Philosopher's Stone is made from a citrine stage drawn out of the red root (Terra Adamica). The chunk does not explain the Citrine further.",
+   "status": "stated",
+   "basis": "n52: Botri = Philosopher's Stone; red root = Terra Adamica. Identifying ¶41's 'the Red' with n52's 'red root' is implied by the footnote.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "By the term Botri is here signified the Philosopher’s Stone",
+     "ref": "I.3 n52"
+    }
+   ]
+  },
+  {
+   "aspect": "subject",
+   "veiled": "The red root is the Terra Adamica",
+   "ref": "I.3 n52",
+   "plain": "The root material is 'Adamic earth', also called Magnesia, and called Salt once purified.",
+   "status": "stated",
+   "basis": "n52.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "called sometimes Magnesia by the wise, and Salt after the purification",
+     "ref": "I.3 n52"
+    }
+   ]
+  },
+  {
+   "aspect": "procedure",
+   "veiled": "Burn then the Brazen Body with an exceeding great fire",
+   "ref": "I.3 ¶42",
+   "plain": "The self-willed hypostasis of nature must be made to die so that its universal being can unfold.",
+   "status": "interpreted",
+   "basis": "n53 is the footnote to ¶42 and describes 'the Hermetic process at this juncture' as this death; it does not explicitly equate the Brazen Body with the hypostasis.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "The self-willed hypostasis of nature must die, as we before explained, in order to evolve her universal being",
+     "ref": "I.3 n53"
+    }
+   ]
+  },
+  {
+   "aspect": "procedure",
+   "veiled": "make that which is volatile so that it cannot fly from that which flies not",
+   "ref": "I.3 ¶42",
+   "plain": "Fix the volatile part to the fixed part. The chunk does not explain this directly.",
+   "status": "interpreted",
+   "basis": "¶42 wording; n49 speaks of 'the masculine tincture to fix it in manifestation', a related but not explicitly linked point.",
+   "voice": "QUOTED: Hermes",
+   "also": []
+  },
+  {
+   "aspect": "sign",
+   "veiled": "when the innate evil being made manifest, the will proceeds to operate its proper solution in life",
+   "ref": "I.3 n53",
+   "plain": "At this point the inner evil becomes visible, and the will then carries out its own dissolution.",
+   "status": "stated",
+   "basis": "n53.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "the corruption is made manifest in the matter to be renewed",
+     "ref": "I.3 ¶44"
+    }
+   ]
+  },
+  {
+   "aspect": "sign",
+   "veiled": "throwing the glaucus veil aside, she shall appear entirely golden",
+   "ref": "I.3 n53",
+   "plain": "Under repeated fire the material (pictured as Venus/Paphia) throws aside a 'glaucus veil' and appears golden. The chunk gives this as Democritus' operative image of the same juncture, without further gloss.",
+   "status": "interpreted",
+   "basis": "n53 introduces Democritus as exemplifying 'the Hermetic process at this juncture'.",
+   "voice": "QUOTED: Democritus",
+   "also": []
+  },
+  {
+   "aspect": "sign",
+   "veiled": "come forth out of the black darkness together in union with the white virginal spirit",
+   "ref": "I.3 n53",
+   "plain": "The decisive sign: the masculine tincture rises from death and comes out of the black stage united with the white spirit; then the artist knows he has the great Arcanum.",
+   "status": "stated",
+   "basis": "n53 ('he will then know that he hath the great Arcanum').",
+   "voice": "QUOTED: a more modern experimentalist",
+   "also": []
+  },
+  {
+   "aspect": "stage",
+   "veiled": "the colourings of its tincture and blackness is then changed into the true red",
+   "ref": "I.3 ¶43",
+   "plain": "Black gives way to true red; the whitened water becomes red by conjunction with its own prepared spirit.",
+   "status": "stated",
+   "basis": "n54 glosses the reddening.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "By a conjunction with its own permanent prepared spirit, the albified water is made red",
+     "ref": "I.3 n54"
+    }
+   ]
+  },
+  {
+   "aspect": "principle",
+   "veiled": "The destroyers are the renovators",
+   "ref": "I.3 ¶44",
+   "plain": "Destruction is itself the renewal: corruption appears first, then improvement, and both are signs the Art is working.",
+   "status": "stated",
+   "basis": "¶44 states the sequence and that 'each side is a signal of Art'.",
+   "voice": "QUOTED: Hermes",
+   "also": [
+    {
+     "text": "hence the melioration will appear and each side is a signal of Art",
+     "ref": "I.3 ¶44"
+    }
+   ]
+  },
+  {
+   "aspect": "principle",
+   "veiled": "exalted by fermentation intrinsically in its proper kind",
+   "ref": "I.3 n55",
+   "plain": "The Stone grows by fermentation within its own kind, as leaven makes leaven and vinegar makes vinegar.",
+   "status": "stated",
+   "basis": "n55.",
+   "voice": "ATWOOD",
+   "also": [
+    {
+     "text": "as vinegar makes vinegar, says the Scholiast",
+     "ref": "I.3 n55"
+    }
+   ]
+  },
+  {
+   "aspect": "agent",
+   "veiled": "this art beginning in our Mercury, likewise finishes in the same",
+   "ref": "I.3 n55",
+   "plain": "One shape-shifting agent ('our Mercury') runs through the whole work, changing appearance in each element yet remaining one; the artist performs every operation with it. The chunk does not say what Mercury is beyond this.",
+   "status": "interpreted",
+   "basis": "n55: Proteus image and 'With this the artist works, and with it he transacts all the necessary operations of our Stone'.",
+   "voice": "QUOTED: the Scholiast",
+   "also": [
+    {
+     "text": "It is a kind of Proteus, indeed, which, while creeping upon earth, assumes the nature of a serpent",
+     "ref": "I.3 n55"
+    }
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "term": "Stone",
+   "variants": [
+    "stone"
+   ],
+   "meaning": "Speaks in ¶37 with hidden Sol and Luna; one mineral spirit exalted by fermentation in its own kind.",
+   "equivalences": [
+    {
+     "with": "Botri",
+     "quote": "By the term Botri is here signified the Philosopher’s Stone",
+     "ref": "I.3 n52"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "the stone is also one mineral spirit, exalted by fermentation intrinsically in its proper kind",
+     "ref": "I.3 n55"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Sol",
+   "variants": [],
+   "meaning": "The Stone's sun and beams, hidden inwardly in it; also something that 'follows' in the seven letters. Not further explained.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "My Sol and my beams are most inward and secretly in me",
+     "ref": "I.3 ¶37"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "Luna",
+   "variants": [],
+   "meaning": "The Stone's own light, exceeding every other light. Not further explained.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "My own Luna, also, is my light, exceeding every other light",
+     "ref": "I.3 ¶37"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "seven letters",
+   "variants": [],
+   "meaning": "The necessary phases the material passes through, by color and quality.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "some call them planets, others metals (for the radical life of the spirit is indeed mineral)",
+     "ref": "I.3 n47"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Buba",
+   "variants": [],
+   "meaning": "That to which the son is to be joined; called Jupiter and a hidden secret.",
+   "equivalences": [
+    {
+     "with": "Jupiter",
+     "quote": "join the son to Buba, which is Jupiter and a hidden secret",
+     "ref": "I.3 ¶37"
+    }
+   ],
+   "quotes": [],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "Alpha",
+   "variants": [],
+   "meaning": "Part of the seven-letter riddle; followed by Yda and Liber. Not explained in this chunk.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "for Alpha follows, viz.: Yda and Liber",
+     "ref": "I.3 ¶37"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "philosophic vessel",
+   "variants": [],
+   "meaning": "Concealed by Hermes; the context places the science in all bodies and its preparation in the innermost chamber of life.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "Hermes has chosen to conceal the philosophic vessel",
+     "ref": "I.3 n48"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "four philosophic elements",
+   "variants": [],
+   "meaning": "Contained most evidently in the matter where the science is most easily found.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "that matter which most evidently contains the four philosophic elements",
+     "ref": "I.3 n48"
+    }
+   ],
+   "voice": "QUOTED: Maria"
+  },
+  {
+   "term": "Venus",
+   "variants": [],
+   "meaning": "Begets light; liquefies bodies and extracts their substance; personifies nature's central light, a moist spirit vivifying metalline bodies.",
+   "equivalences": [
+    {
+     "with": "central light of nature",
+     "quote": "Venus personifies the central light of nature",
+     "ref": "I.3 n49"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Now saith Venus: I beget light, nor is the darkness of my nature",
+     "ref": "I.3 ¶39"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "moist spirit",
+   "variants": [],
+   "meaning": "Venus's spirit, to which metalline bodies adhere to be vivified.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "they gladly adhere to this moist spirit, that it may vivify them",
+     "ref": "I.3 n49"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "terrestreity",
+   "variants": [],
+   "meaning": "Earthiness of metalline bodies, which binds the central light in them.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "in metalline bodies is more especially bound on account of their terrestreity",
+     "ref": "I.3 n49"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "masculine tincture",
+   "variants": [],
+   "meaning": "What fixes the light of Venus in manifestation; rises from death out of the black darkness united with the white virginal spirit.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "without the masculine tincture to fix it in manifestation",
+     "ref": "I.3 n49"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "King",
+   "variants": [
+    "king"
+   ],
+   "meaning": "Crowned speaker chained to his mother who makes occult matter appear; signifies the Rational Efficient.",
+   "equivalences": [
+    {
+     "with": "Rational Efficient",
+     "quote": "By the king, the Rational Efficient is signified",
+     "ref": "I.3 n50"
+    }
+   ],
+   "quotes": [],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "brethren",
+   "variants": [],
+   "meaning": "The inferior degrees of illumination in the spirit, finally gathered into accord with its first source.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "by the brethren, the inferior degrees of illumination in the spirit",
+     "ref": "I.3 n50"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "fiery ordeal",
+   "variants": [],
+   "meaning": "The trial that reason is constrained not to escape.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "being artificially constrained, lest it should escape the fiery ordeal",
+     "ref": "I.3 n50"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "quintessence",
+   "variants": [],
+   "meaning": "The 'arising quintessence of the universal nature' is what the adept reads 'dust of the earth' as meaning.",
+   "equivalences": [
+    {
+     "with": "dust of the earth",
+     "quote": "the dust of the earth; that is, interprets the adept, of the arising quintessence of the universal nature",
+     "ref": "I.3 n51"
+    }
+   ],
+   "quotes": [],
+   "voice": "QUOTED: the adept"
+  },
+  {
+   "term": "Botri",
+   "variants": [],
+   "meaning": "The Philosopher's Stone; made from the Citrine extracted from the Red.",
+   "equivalences": [
+    {
+     "with": "Philosopher's Stone",
+     "quote": "By the term Botri is here signified the Philosopher’s Stone",
+     "ref": "I.3 n52"
+    }
+   ],
+   "quotes": [],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Citrine",
+   "variants": [
+    "citrine"
+   ],
+   "meaning": "Extracted out of the Red; Botri is made from it. Not further explained.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "if it be citrine and nothing else know it will be thy Wisdom",
+     "ref": "I.3 ¶41"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "Red",
+   "variants": [
+    "red root"
+   ],
+   "meaning": "Source of the Citrine; the red root is Terra Adamica.",
+   "equivalences": [
+    {
+     "with": "Terra Adamica",
+     "quote": "The red root is the Terra Adamica",
+     "ref": "I.3 n52"
+    }
+   ],
+   "quotes": [],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Terra Adamica",
+   "variants": [],
+   "meaning": "The red root; also called Magnesia, and Salt after purification.",
+   "equivalences": [
+    {
+     "with": "Magnesia",
+     "quote": "called sometimes Magnesia by the wise, and Salt after the purification",
+     "ref": "I.3 n52"
+    },
+    {
+     "with": "Salt (after purification)",
+     "quote": "called sometimes Magnesia by the wise, and Salt after the purification",
+     "ref": "I.3 n52"
+    }
+   ],
+   "quotes": [],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Brazen Body",
+   "variants": [],
+   "meaning": "To be burned with exceeding great fire; Democritus, exemplifying this juncture, draws out the 'Fixed Brass' and works it on the coals.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "Burn then the Brazen Body with an exceeding great fire",
+     "ref": "I.3 ¶42"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "brass",
+   "variants": [
+    "Fixed Brass"
+   ],
+   "meaning": "'Our brass' is the Art of the permanent water; Democritus draws out the 'Fixed Brass' bodily.",
+   "equivalences": [
+    {
+     "with": "Art of this permanent water",
+     "quote": "the Art of this permanent water is our brass",
+     "ref": "I.3 ¶43"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "Drawing the Fixed Brass out bodily, writes our Abderite",
+     "ref": "I.3 n53"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "Cambar",
+   "variants": [],
+   "meaning": "That which rests on the fire, itself a fiery flame, and is corrupted in the heat of the boiling fire. Not further explained.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "that which in the heat of the boiling fire is corrupted is Cambar",
+     "ref": "I.3 ¶42"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "hypostasis",
+   "variants": [],
+   "meaning": "The 'self-willed hypostasis of nature', which must die so that nature's universal being evolves.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "The self-willed hypostasis of nature must die",
+     "ref": "I.3 n53"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Paphia",
+   "variants": [],
+   "meaning": "Figure in Democritus' image who, under the fire, appears golden; then called 'such a Venus'.",
+   "equivalences": [
+    {
+     "with": "Venus",
+     "quote": "Perchance, it was when Paris gazed on such a Venus",
+     "ref": "I.3 n53"
+    }
+   ],
+   "quotes": [],
+   "voice": "QUOTED: Democritus"
+  },
+  {
+   "term": "white virginal spirit",
+   "variants": [],
+   "meaning": "That with which the masculine tincture comes out of the black darkness in union.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "out of the black darkness together in union with the white virginal spirit",
+     "ref": "I.3 n53"
+    }
+   ],
+   "voice": "QUOTED: a more modern experimentalist"
+  },
+  {
+   "term": "Arcanum",
+   "variants": [],
+   "meaning": "The 'great Arcanum of the world', known to be possessed when the masculine tincture rises from the black.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "he will then know that he hath the great Arcanum of the world",
+     "ref": "I.3 n53"
+    }
+   ],
+   "voice": "QUOTED: a more modern experimentalist"
+  },
+  {
+   "term": "permanent water",
+   "variants": [],
+   "meaning": "Its Art is 'our brass'; whitened ('albified') water made red by conjunction with its own permanent prepared spirit.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "By a conjunction with its own permanent prepared spirit, the albified water is made red",
+     "ref": "I.3 n54"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "tincture",
+   "variants": [],
+   "meaning": "Its colourings and blackness change into the true red.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "the colourings of its tincture and blackness is then changed into the true red",
+     "ref": "I.3 ¶43"
+    }
+   ],
+   "voice": "QUOTED: Hermes"
+  },
+  {
+   "term": "ferment",
+   "variants": [
+    "fermentation"
+   ],
+   "meaning": "The Stone is exalted by fermentation within its own kind; every ferment begets its own exaltation.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "every ferment begets its own exaltation",
+     "ref": "I.3 n55"
+    }
+   ],
+   "voice": "ATWOOD"
+  },
+  {
+   "term": "Mercury",
+   "variants": [],
+   "meaning": "'Our Mercury', in which the art begins and finishes; Proteus-like but One; the artist's means for all operations.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "so this art beginning in our Mercury, likewise finishes in the same",
+     "ref": "I.3 n55"
+    }
+   ],
+   "voice": "QUOTED: the Scholiast"
+  },
+  {
+   "term": "Proteus",
+   "variants": [],
+   "meaning": "Image of the one agent that is serpent on earth, fish in water, bird in air, yet One.",
+   "equivalences": [],
+   "quotes": [
+    {
+     "text": "yet is, not withstanding, One throughout the multiformity of nature",
+     "ref": "I.3 n55"
+    }
+   ],
+   "voice": "ATWOOD"
+  }
+ ],
+ "sources": [
+  {
+   "name": "Hermes",
+   "work": null,
+   "quote": "the whole matter I know to be one only thing",
+   "use": "Main text of the chunk (Section Fourth; Atwood refers to it as Hermes' words in n47, n48, n50); glossed throughout by Atwood's footnotes.",
+   "refs": [
+    "I.3 ¶36",
+    "I.3 ¶37",
+    "I.3 ¶38",
+    "I.3 ¶39",
+    "I.3 ¶40",
+    "I.3 ¶41",
+    "I.3 ¶42",
+    "I.3 ¶43",
+    "I.3 ¶44",
+    "I.3 n50"
+   ]
+  },
+  {
+   "name": "Maria",
+   "work": "Maria Practica",
+   "quote": "this science may be found in all bodies",
+   "use": "Supports: the science is in all bodies, most easily found in matter evidently holding the four elements.",
+   "refs": [
+    "I.3 n48"
+   ]
+  },
+  {
+   "name": "the Scholiast",
+   "work": "the Scholium",
+   "quote": "It is prepared in the innermost chamber of life",
+   "use": "Supports several glosses: location of the work in life; force of ¶40; 'as vinegar makes vinegar'. Cited as reference in n49, n50, n53, n54.",
+   "refs": [
+    "I.3 n48",
+    "I.3 n49",
+    "I.3 n50",
+    "I.3 n51",
+    "I.3 n53",
+    "I.3 n54",
+    "I.3 n55"
+   ]
+  },
+  {
+   "name": "a no less experienced adept",
+   "work": null,
+   "quote": "the artist is rejoiced, and thinks perhaps his work is finished",
+   "use": "Supports: Venus's light alone is imperfect without the masculine tincture.",
+   "refs": [
+    "I.3 n49"
+   ]
+  },
+  {
+   "name": "Freher",
+   "work": "Freher’s Analogy",
+   "quote": null,
+   "use": "Reference only.",
+   "refs": [
+    "I.3 n49",
+    "I.3 n53"
+   ]
+  },
+  {
+   "name": "Democritus",
+   "work": "Flammelli Summula",
+   "quote": "Drawing the Fixed Brass out bodily",
+   "use": "Illustrates, in operative language, the burning of the Brazen Body and Venus becoming golden; called 'our Abderite'.",
+   "refs": [
+    "I.3 n49",
+    "I.3 n53"
+   ]
+  },
+  {
+   "name": "Introitus Apertus",
+   "work": "Introitus Apertus, cap. 8",
+   "quote": null,
+   "use": "Reference only (for the King gloss).",
+   "refs": [
+    "I.3 n50"
+   ]
+  },
+  {
+   "name": "the adept",
+   "work": null,
+   "quote": "of the arising quintessence of the universal nature",
+   "use": "Supports: interprets 'dust of the earth'.",
+   "refs": [
+    "I.3 n51"
+   ]
+  },
+  {
+   "name": "'it is said' (unattributed)",
+   "work": null,
+   "quote": "Man, it is said, was created of the dust of the earth",
+   "use": "Cited saying, then interpreted by the adept.",
+   "refs": [
+    "I.3 n51"
+   ]
+  },
+  {
+   "name": "a more modern experimentalist",
+   "work": null,
+   "quote": "he will then know that he hath the great Arcanum of the world",
+   "use": "Supports: the masculine tincture rising from the black united with the white spirit as the sign of the Arcanum.",
+   "refs": [
+    "I.3 n53"
+   ]
+  },
+  {
+   "name": "the philosopher",
+   "work": null,
+   "quote": "Botri is made from the Citrine",
+   "use": "Cited within Hermes' text for the Botri saying.",
+   "refs": [
+    "I.3 ¶41"
+   ]
+  },
+  {
+   "name": "Atalanta Fugiens",
+   "work": "Atalanta Fugiens, Emb. xli",
+   "quote": "Adonis ab apro occuditur, cui Venus occurens tinxit rosas sanquine",
+   "use": "Illustrates the reddening of the whitened water.",
+   "refs": [
+    "I.3 n54"
+   ]
+  },
+  {
+   "name": "fable of Mars and Venus taken together by Vulcan",
+   "work": null,
+   "quote": null,
+   "use": "Illustrates the need for the masculine tincture with Venus; to be explained later.",
+   "refs": [
+    "I.3 n49"
+   ]
+  }
+ ],
+ "ambiguities": [
+  {
+   "quote": "Nothing, therefore, is better or more venerable than I and my brother being conjoined",
+   "ref": "I.3 ¶39",
+   "readings": [
+    "Venus's brother is the masculine tincture that fixes her light",
+    "the brother is the King who speaks next",
+    "the brother is Mars of the fable"
+   ],
+   "basis": "n49 says her light needs 'the masculine tincture to fix it' and cites the fable of Mars and Venus; ¶39's King speaks of 'us' immediately after."
+  },
+  {
+   "quote": "being chained to the arms and breast of my mother, and to her substance",
+   "ref": "I.3 ¶39",
+   "readings": [
+    "the mother is Venus (the preceding speaker)",
+    "the mother is the spirit's first source"
+   ],
+   "basis": "Venus speaks just before in ¶39; n50 speaks of illumination gathered 'into accord with her first source'. The text does not identify the mother."
+  },
+  {
+   "quote": "join the son to Buba, which is Jupiter and a hidden secret",
+   "ref": "I.3 ¶37",
+   "readings": [
+    "Buba is Jupiter",
+    "the joining (son with Buba) is Jupiter and a hidden secret"
+   ],
+   "basis": "Grammar of 'which' in ¶37; n47 glosses only as conjunction of active and passive."
+  },
+  {
+   "quote": "for Alpha follows, viz.: Yda and Liber; and Sol, in like manner, follows",
+   "ref": "I.3 ¶37",
+   "readings": [
+    "Alpha, Yda, Liber and Sol name some of the seven phases",
+    "they are letters of a concealed word"
+   ],
+   "basis": "n47 relates the seven letters to phases but does not gloss these names."
+  },
+  {
+   "quote": "and this also must suffer and die necessarily in order to multiply the perfection of its first form",
+   "ref": "I.3 n53",
+   "readings": [
+    "'this' is nature's universal being",
+    "'this' is the Brazen Body of ¶42"
+   ],
+   "basis": "Antecedent in n53 unclear; the note glosses ¶42."
+  }
+ ],
+ "translations": [
+  {
+   "ref": "I.3 n54",
+   "original": "Adonis ab apro occuditur, cui Venus occurens tinxit rosas sanquine.",
+   "translation": "Adonis is slain by the boar; Venus, running to him, dyed the roses with his blood. (Reading 'occuditur' as 'occiditur' and 'sanquine' as 'sanguine'.)",
+   "by": "ours"
+  }
+ ],
+ "threads": [
+  {
+   "ref": "I.3 ¶37",
+   "note": "First sentence carries footnote marker (44); no n44 in this chunk."
+  },
+  {
+   "ref": "I.3 n49",
+   "note": "'according to the principles before laid down': the ethereal reading rests on principles given earlier."
+  },
+  {
+   "ref": "I.3 n49",
+   "note": "'as will be hereafter explained': the fable of Mars and Venus taken together by Vulcan, 'in the last extremity of life'."
+  },
+  {
+   "ref": "I.3 n50",
+   "note": "'as Hermes says, upon the wheel of its proper life': cites a Hermes saying outside this chunk."
+  },
+  {
+   "ref": "I.3 n53",
+   "note": "'as we before explained': the self-willed hypostasis of nature must die."
+  }
+ ]
+}

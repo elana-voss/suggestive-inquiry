@@ -1,0 +1,278 @@
+# IV.4_01
+
+*Opening of the Conclusion: Atwood recapitulates the book's claims (the Universal Subject, Man as laboratory, the life-fire, the Mysteries with Mesmerism as first key, the ray of Light as Form of Gold and Stone, the operator's requirements), justifies her partial disclosure, and argues that Hermetic Science, as experience of intellect reaching Causal Discovery, would unite physical and moral science and be the prior and best philosophy.*
+
+## Argument
+
+- She claims only to have signalized the Light, the truth being too enveloped to explain wholly; she relies on renowned witnesses, many attesting the Stone from experience. `IV.4 ¶2` — ATWOOD
+- They traced the Stone from the free Ether, through artificial elaboration, into manifest effect; Transmutation concerns not Species but their Universal Subject, whose concentrated virtue the Stone is. `IV.4 ¶2` — ATWOOD
+- Man is the proper laboratory, Nature's apparatus for distilling her Spirit, with every requisite within; his power to effect all things is concealed by external attraction. `IV.4 ¶3` — ATWOOD
+- The hermetic artifice explores this capacity. Adepts found man's life a pure fire in an ethereal vapour, holding the Universal Efficient and binding three kingdoms; only animal life is conscious, the others known by entering experimentally within. `IV.4 ¶4` — QUOTED: adepts (reported as shown; Atwood endorses)
+- The Mysteries of Eleusis and the rest were real inductions of the Understanding Spirit to its Source; Alchemy connects with them; Mesmerism, according in preliminary practice, is a first key to the vestibule. `IV.4 ¶5` — ATWOOD
+- Guided by the Greek Ontologists, she followed Nature to her Initial Source, where Nature survives voluntary self-annihilation on her redeemed Light. `IV.4 ¶6` — ATWOOD
+- Impediments and rare intellectual conditions explain why the Divine Experiment is seldom completed and its practical device passed orally. `IV.4 ¶7` — ATWOOD
+- She writes freely because experiment needs a dignifying motive more than machinery. The Art suits not 'practical' minds but a lover of Wisdom: studious, simple, ardent, receptive. `IV.4 ¶8` — ATWOOD
+- Those once dreaded for belief are now incredulous; under that safe guardianship she expects her words to be neither attractive nor intelligible to the profane. `IV.4 ¶8` — ATWOOD
+- Her order, principles with reference to practice, hints at the genealogical method of ascent: the fabrication of Prometheus's Fire. `IV.4 ¶8` — ATWOOD
+- In this vital experiment the ancients found their whole philosophy; Reason purified by Art withstands its temptations. The ray of motive Light is the Form of Gold, concrete in life when dominant in the circulation: the Stone. `IV.4 ¶9` — ATWOOD
+- Grand secret: a Universal Subject nourishable in Man; greatest mystery: man can find and effect the Divine Nature. Riches were intermediate benefits. She withholds particular promises, which would restrict an infinite virtue. `IV.4 ¶10` — ATWOOD
+- Physical science rests on sense, moral science on mind; neither can disprove the other. Hermetic Science would include both, reaching the Catholic Effect of Life where inner and outer worlds blend. `IV.4 ¶11` — ATWOOD
+- If a Subtle Nature pervades all, and man by Reason and rectitude can bear his life through dissolution into new birth, proven in experience, the forgotten ancient philosophy was true. `IV.4 ¶12` — ATWOOD
+- Experience of intellect would rank above that of sense. Without 'Identic co-operation' Nature's working stays unknown; knowledge without experience is empirical. Alchemy is the true glass of the mind, its evidence self-sufficient. `IV.4 ¶12` — ATWOOD
+- Logic, dependent on externals, fluctuates. True science is Causal Discovery; if an immutable pre-existent Being is proven in intellect and phenomena, as Alchemists and Greek physicians assert, that philosophy is best. `IV.4 ¶13` — ATWOOD
+
+## Method
+
+- **subject** — “there is a Universal Subject in nature, and that Subject is susceptible of nourishment in Man” `IV.4 ¶10` (ATWOOD)
+  - **Plain (stated):** The thing worked on is a single universal principle present throughout nature, which can be fed and increased within a human being.
+  - Basis: IV.4 ¶10 names this 'the grand Hermetic secret'; IV.4 ¶12 describes a Subtle Nature pervading all and alterable by art.
+  - Also: “there is a Subtle Nature pervading the universe, which is the All in every thing and susceptible of artificial alteration through all” `IV.4 ¶12`
+- **principle** — “the principle of Transmutation, they have shown to be relating not to Species but to their Universal Subject, whose concentrated virtue the Stone likewise itself is” `IV.4 ¶2` (ATWOOD)
+  - **Plain (stated):** Transmutation works on the common underlying subject of all kinds, not on particular species; the Stone is that subject's virtue concentrated.
+  - Basis: IV.4 ¶2.
+- **procedure** — “from its foundation in the free Ether, through an artificial process of elaboration, into manifest effect” `IV.4 ¶2` (ATWOOD)
+  - **Plain (stated):** The Stone is made in three phases: it starts from the free Ether, is worked up by an artificial process, and becomes a visible effect.
+  - Basis: IV.4 ¶2 gives this as the outline of the Stone's confection.
+- **subject** — “Man was the proper laboratory of the whole Art” `IV.4 ¶3` (ATWOOD)
+  - **Plain (stated):** The work is carried out in and on the human being himself, who is the apparatus, not in external apparatus.
+  - Basis: IV.4 ¶3; reinforced by IV.4 ¶4 (the artifice explores man's hidden capacity) and IV.4 ¶10 (Subject nourished in Man).
+  - Also: “the most perfect chemical apparatus, devised by Nature for the distillation of her Spirit” `IV.4 ¶3`
+- **agent** — “having besides the whole fermentative virtue, motive, and principle of vital melioration and every requisite complete within himself” `IV.4 ¶3` (ATWOOD)
+  - **Plain (stated):** Man contains in himself every ingredient and force the work needs (ferment, motive power, principle of improvement), for the rectification and furtherance of Nature's law.
+  - Basis: IV.4 ¶3.
+- **impediment** — “concealed in this life by the external attraction and obstructive energies of cause” `IV.4 ¶3` (ATWOOD)
+  - **Plain (stated):** Man's latent power to effect all things is hidden in ordinary life by the pull of outward things.
+  - Basis: IV.4 ¶3 directly says the capacity is so concealed; IV.4 ¶4 calls it 'This hidden capacity'.
+- **procedure** — “This hidden capacity it has been shown to be the purpose of the hermetic artifice to explore” `IV.4 ¶4` (ATWOOD)
+  - **Plain (stated):** The aim of the hermetic technique is to explore and bring out this concealed human capacity.
+  - Basis: IV.4 ¶4, referring back to IV.4 ¶3.
+- **agent** — “the life of man therein circulating to be a pure fire incorporated in a certain incombustible ethereal vapour” `IV.4 ¶4` (QUOTED: adepts (reported as shown; Atwood endorses))
+  - **Plain (stated):** The life circulating in man is a pure fire carried in an incombustible ethereal vapour, and the Universal Efficient is in that fire. Adepts found this by 'vital analysis of bodies'.
+  - Basis: IV.4 ¶4 reports this as the adepts' discovery, presented as 'shown'; the same sentence places the Universal Efficient in this fire.
+  - Also: “the Universal Efficient was in this fire” `IV.4 ¶4`
+- **principle** — “the threefold enchantment of his natural Identity” `IV.4 ¶4` (ATWOOD)
+  - **Plain (stated):** Animal, vegetable and mineral life are bound together in man; ordinary consciousness knows only the animal; the other two are known only by entering experimentally within.
+  - Basis: IV.4 ¶4 names the three kingdoms, says only animal life is developed to consciousness, and the others are known only to those 'who have entered experimentally within'.
+  - Also: “known only to those who have entered experimentally within to prove the hypostatic action and passion of the working essences in life” `IV.4 ¶4`
+- **procedure** — “real inductions of the Understanding Spirit to its Source” `IV.4 ¶5` (ATWOOD)
+  - **Plain (stated):** The ancient Mysteries were actual practices leading the knowing spirit back to its origin, not ceremonies or depictions.
+  - Basis: IV.4 ¶5 contrasts this with 'mere external ceremonials, pictured scenes of suffering and beatitudes'.
+- **stage** — “a first key opening to the vestibule of this Experiment” `IV.4 ¶5` (ATWOOD)
+  - **Plain (stated):** Mesmerism accords with the Mysteries and Alchemy in their preliminary practice and is offered as a first key, opening only the vestibule; the Sphinx image (inner halls of Light open to philosophers only) is not further explained in this chunk.
+  - Basis: IV.4 ¶5: Mesmerism 'in their preliminary practice ... strikingly accords' with the Mysteries and Alchemy and is proposed 'as a first key'.
+  - Also: “where sits the Sphinx with her eternal enigma, still to perplex intruders, and open to philosophers only the inner halls of Light” `IV.4 ¶5`
+- **stage** — “after operating voluntarily about her own annihilation, to survive and establish a stable monarchy upon her redeemed Light” `IV.4 ¶6` (ATWOOD)
+  - **Plain (interpreted):** At its Initial Source, Nature undergoes a self-willed dissolution and then survives in a stable, ruling state grounded on its recovered light.
+  - Basis: IV.4 ¶6 locates this at Nature's 'Initial Source'; IV.4 ¶12 describes bearing the life 'through dissolution into a new birth', supporting a dissolution-then-renewal sequence. Whose nature is meant: see ambiguities.
+- **impediment** — “From impediments likewise described, and rare intellectual conditions” `IV.4 ¶7` (ATWOOD)
+  - **Plain (stated):** The work faces obstacles and needs uncommon mental conditions, so it is rarely attempted and more rarely completed; minds seeking immediate worldly use are unfit.
+  - Basis: IV.4 ¶7; IV.4 ¶8 on 'practical' minds.
+  - Also: “it is wholly unsuited to minds commonly so styled practical, who are impatient of every proposition that is not immediately applicable to the affairs of life” `IV.4 ¶8`
+- **principle** — “communicating almost by word of mouth only the practical device” `IV.4 ¶7` (ATWOOD)
+  - **Plain (stated):** The practical technique was transmitted almost only orally, because of the unfitness of the multitude and fear of individual abuse.
+  - Basis: IV.4 ¶7.
+- **operator** — “a true lover of Wisdom, who, for her sake, will devote everything else, studious, simple, ardent, and withal suscipient of appearing truth” `IV.4 ¶8` (ATWOOD)
+  - **Plain (stated):** The operator must be a philosopher who puts wisdom above everything: studious, simple, ardent and receptive to truth as it appears.
+  - Basis: IV.4 ¶8: 'it needs a philosopher, one of the antique mould'.
+  - Also: “The philosophers sought after Wisdom for her own sake” `IV.4 ¶10`
+- **principle** — “experiment is in need rather of a motive to dignify it than of practical machinery” `IV.4 ¶8` (ATWOOD)
+  - **Plain (stated):** What the work now lacks is a worthy motive, not technical apparatus; this is Atwood's reason for writing more freely.
+  - Basis: IV.4 ¶8.
+- **procedure** — “the genealogical method of ascent; even that artistic fabrication of the Fire which Prometheus received from Vulcan” `IV.4 ¶8` (ATWOOD)
+  - **Plain (stated):** The method is an ascent, which Atwood identifies with the artful production of the Fire; her book's order of exposition, treating principles with reference to practice, indirectly indicates it. What 'genealogical' means and the myth details are not explained here.
+  - Basis: IV.4 ¶8: 'in an order indirectly indicative of the genealogical method of ascent; even that artistic fabrication of the Fire' ('even' asserts the identity).
+  - Also: “we have spoken of principles with reference to practice, and in an order indirectly indicative of the genealogical method of ascent” `IV.4 ¶8`
+- **procedure** — “by this pyrotechnical induction, powers were revealed to conscience” `IV.4 ¶9` (ATWOOD)
+  - **Plain (interpreted):** The vital experiment, called a fire-working induction, brings powers, the regenerative origin and temptations into conscious awareness; in it the ancients found their whole philosophy.
+  - Basis: IV.4 ¶9 names the vital experiment a 'pyrotechnical induction'; the fire is identified with man's life in IV.4 ¶4 and the method with 'fabrication of the Fire' in IV.4 ¶8.
+  - Also: “In the course of this vital experiment the ancients discovered the whole of the philosophy they teach” `IV.4 ¶9`
+- **impediment** — “those temptations which the Reason also, purified and singled out by Art for the encounter, is able entirely to withstand” `IV.4 ¶9` (ATWOOD)
+  - **Plain (stated):** Temptations arise in the course of the work; the operator's reason, purified and set apart by the Art, can fully resist them.
+  - Basis: IV.4 ¶9.
+- **operator** — “man by his especial prerogative of Reason and rectitude of purpose is able, by a development of these” `IV.4 ¶12` (ATWOOD)
+  - **Plain (stated):** The faculties required are reason and right intention, which must be developed.
+  - Basis: IV.4 ¶12; IV.4 ¶9 on Reason 'purified and singled out by Art'.
+- **agent** — “that ray of motive Light, pure, vital, and efficient, we have shown to be the true Form of Gold” `IV.4 ¶9` (ATWOOD)
+  - **Plain (stated):** A living, active light is the real essence of gold and the sole universal principle of growth and perfection; when it dominates the circulatory system it becomes concrete in life and is the transmuting ferment, i.e. the Stone.
+  - Basis: IV.4 ¶9 makes the chain of identities explicitly.
+  - Also: “the same which in the circulatory system, becoming dominant, is made concrete in life; and is the transmutative ferment --- even the Philosophic Stone” `IV.4 ¶9`
+- **result** — “that man should be able not only to find the Divine Nature, but to effect It” `IV.4 ¶10` (ATWOOD)
+  - **Plain (stated):** The final end is that man not only discovers the divine nature but brings it about.
+  - Basis: IV.4 ¶10 calls this 'the greatest mystery'.
+- **result** — “gained with her an ample dowry, gold, silver, and the glittering treasures of her creative light in abundance” `IV.4 ¶10` (ATWOOD)
+  - **Plain (stated):** Riches came as a by-product of seeking Wisdom, not the aim; the philosophers stressed instead the primary attraction, the discovery of life. Whether gold and silver are literal: see ambiguities.
+  - Basis: IV.4 ¶10 calls them 'these intermediate benefits' and contrasts them with 'the primary attraction which led them in for the discovery of life'.
+- **sign** — “every desire is, in the magic region, made prolific, embodying itself, by the ethereal conception, as a principle to enact its voluntary accord” `IV.4 ¶10` (ATWOOD)
+  - **Plain (stated):** In the magic region (not further defined here) every desire becomes prolific and embodies itself by the ethereal conception; hence Atwood will not tempt readers with particular benefits that would narrow an infinite virtue to private interests.
+  - Basis: IV.4 ¶10, followed by her refusal 'to allure by particular promises'.
+  - Also: “which might restrict to individual interests a virtue which is infinite” `IV.4 ¶10`
+- **impediment** — “the poverty of his imagination and the littleness of his love” `IV.4 ¶10` (ATWOOD)
+  - **Plain (interpreted):** Man's narrow imagination and small love already bound him; seeking individual benefit would further restrict an infinite virtue.
+  - Basis: IV.4 ¶10: follows directly the refusal to 'restrict to individual interests a virtue which is infinite'.
+- **result** — “it arrives at the Catholic Effect of Life” `IV.4 ¶11` (ATWOOD)
+  - **Plain (stated):** The experiment, starting from either mind or matter, reaches a universal effect of life where inner and outer worlds merge and confirm each other.
+  - Basis: IV.4 ¶11.
+  - Also: “the external and internal worlds are said to blend together in confluence harmony, establishing each other” `IV.4 ¶11`
+- **result** — “advance and bear the life within him through dissolution into a new birth, superior to nature and beyond the reach of elementary discord to destroy” `IV.4 ¶12` (ATWOOD)
+  - **Plain (stated):** The operator carries his own inner life through a dissolution into a regenerated state that natural strife cannot destroy.
+  - Basis: IV.4 ¶12, stated as a supposition Atwood argues for; IV.4 ¶9 speaks of 'the whole regenerative original'.
+- **principle** — “nor shall we ever learn, without Identic co-operation, how Nature works” `IV.4 ¶12` (ATWOOD)
+  - **Plain (interpreted):** Nature's working can be known only by participating in it from within, not by observing from outside.
+  - Basis: IV.4 ¶12: 'by no reason that comes from sense will such an evidence be obtained' and the next sentence on empirical knowledge; IV.4 ¶4 'entered experimentally within'.
+  - Also: “All our knowledge without the experience is empirical, the result only of observation of remote effects” `IV.4 ¶12`
+- **principle** — “experience being the admitted test of philosophy” `IV.4 ¶12` (ATWOOD)
+  - **Plain (stated):** Atwood rests the Art's claim on experience: if the transformation has been passed through consciously and proved in effects, the ancient philosophy stands.
+  - Basis: IV.4 ¶12: 'passed through in the conscious experience, and proved demonstratively in facts, visible deeds, and effects'.
+- **principle** — “Alchemy has been declared to be the only true glass of the mind, which shows how to enter, and to touch, and to discover the Truth” `IV.4 ¶12` (QUOTED: unnamed ('has been declared'); endorsed by Atwood)
+  - **Plain (stated):** Alchemy is the means by which the mind directly enters and verifies truth; its proof is the experience itself, which nothing outside it can supply.
+  - Basis: IV.4 ¶12; who 'declared' it is not named; Atwood adopts it ('And therefore').
+  - Also: “the evidence is self-sufficient, and without itself cannot, however truly imaginable, be known” `IV.4 ¶12`
+  - Also: “all logical proof, which is barren without self-knowledge” `IV.4 ¶12`
+- **principle** — “a certain immutable Being of all, pre-existent to sensibles, which can be proven in intellect and confirmed in sensible phenomena” `IV.4 ¶13` (QUOTED: the Alchemists and Greek physicians (endorsed conditionally by Atwood))
+  - **Plain (stated):** The ground of the work is an unchanging being prior to the sensible world, proven first in intellect and then confirmed outwardly; knowing it is Causal Discovery, the only true science.
+  - Basis: IV.4 ¶13, which attributes the assertion to 'the Alchemists and Greek physicians' and states 'neither can anything short of the Causal Discovery fulfill the Idea of Truth'.
+  - Also: “leading out from the Causal Fountain into natural effect” `IV.4 ¶12`
+
+## Terms
+
+- **Philosopher's Stone** (also: Philosopher’s Stone, Philosophic Stone, Stone) — The miraculous substance whose reality the witnesses attest; confected from the free Ether by artificial elaboration; the concentrated virtue of the Universal Subject; identical with the ray of motive Light, the Form of Gold, and the transmutative ferment. (ATWOOD)
+  - = concentrated virtue of the Universal Subject: “their Universal Subject, whose concentrated virtue the Stone likewise itself is” `IV.4 ¶2`
+  - = transmutative ferment / Form of Gold / ray of motive Light: “is the transmutative ferment --- even the Philosophic Stone” `IV.4 ¶9`
+  - “attesting the reality of the Philosopher’s Stone” `IV.4 ¶2`
+- **Universal Subject** — The one subject underlying Species, to which transmutation relates; exists in nature and can be nourished in Man; its concentrated virtue is the Stone. (ATWOOD)
+  - “there is a Universal Subject in nature, and that Subject is susceptible of nourishment in Man” `IV.4 ¶10`
+- **Subtle Nature** — A nature pervading the universe, the All in everything, alterable by art throughout. (ATWOOD)
+  - “a Subtle Nature pervading the universe, which is the All in every thing and susceptible of artificial alteration through all” `IV.4 ¶12`
+- **Transmutation** (also: transmutative) — A principle relating not to particular Species but to their Universal Subject. (ATWOOD)
+  - “the principle of Transmutation, they have shown to be relating not to Species but to their Universal Subject” `IV.4 ¶2`
+- **Species** — Particular kinds, contrasted with their Universal Subject; not what transmutation relates to. (ATWOOD)
+  - “relating not to Species but to their Universal Subject” `IV.4 ¶2`
+- **Ether** (also: ethereal) — The free Ether is the foundation from which the Stone is confected; man's life-fire is incorporated in an 'incombustible ethereal vapour'; desires embody themselves 'by the ethereal conception'. (ATWOOD)
+  - “its foundation in the free Ether” `IV.4 ¶2`
+  - “a certain incombustible ethereal vapour” `IV.4 ¶4`
+  - “by the ethereal conception” `IV.4 ¶10`
+- **laboratory** — Used of Man himself as the place of the whole Art. (ATWOOD)
+  - = Man: “Man was the proper laboratory of the whole Art” `IV.4 ¶3`
+- **fermentative virtue** — Possessed whole by man within himself, with motive and principle of vital melioration, for the rectification of Nature's Law. (ATWOOD)
+  - “the whole fermentative virtue, motive, and principle of vital melioration” `IV.4 ¶3`
+- **Fire** (also: fire) — Man's circulating life is a pure fire, incorporated in an ethereal vapour and containing the Universal Efficient; the method of ascent is the artistic fabrication of the Fire. (ATWOOD)
+  - = the life of man: “the life of man therein circulating to be a pure fire” `IV.4 ¶4`
+  - “that artistic fabrication of the Fire which Prometheus received from Vulcan” `IV.4 ¶8`
+- **Universal Efficient** — Found by adepts to be in the fire of man's life; not further defined here. (QUOTED: adepts (reported as shown; Atwood endorses))
+  - “the Universal Efficient was in this fire” `IV.4 ¶4`
+- **vital analysis** — The adepts' means of discovering that man's life is a pure fire in an ethereal vapour; not further explained here. (ATWOOD)
+  - “adepts well-skilled, as they profess, in the vital analysis of bodies” `IV.4 ¶4`
+- **threefold enchantment** — The binding together of the animal, vegetable and mineral kingdoms in man's natural Identity; only the animal is developed to consciousness. (ATWOOD)
+  - “bound together in the threefold enchantment of his natural Identity” `IV.4 ¶4`
+- **hypostatic action and passion** — The working of the essences in life, proved by those who enter experimentally within; not further explained here. (ATWOOD)
+  - “the hypostatic action and passion of the working essences in life” `IV.4 ¶4`
+- **Mysteries** — The Mysteries of Eleusis and the rest, understood as real inductions of the Understanding Spirit to its Source, not external ceremonials; connected with Alchemy. (ATWOOD)
+  - “not as mere external ceremonials, pictured scenes of suffering and beatitudes, but as real inductions of the Understanding Spirit to its Source” `IV.4 ¶5`
+- **Mesmerism** — A modern art which in its preliminary practice accords with the Mysteries and Alchemy; proposed as a first key to the vestibule of the Experiment. (ATWOOD)
+  - “the modern art, called Mesmerism, strikingly accords” `IV.4 ¶5`
+- **Understanding Spirit** — That which the Mysteries induct to its Source. (ATWOOD)
+  - “real inductions of the Understanding Spirit to its Source” `IV.4 ¶5`
+- **Initial Source** — Nature's origin, to which she was followed; there she voluntarily works her own annihilation and survives upon her redeemed Light. (ATWOOD)
+  - “to follow mysterious Nature through many intricate windings and circumstantial difficulties, into her Initial Source” `IV.4 ¶6`
+- **Light** (also: light) — What Atwood claims to have signalized; Nature's 'redeemed Light' at her Initial Source; the ray of motive Light that is the Form of Gold; the 'inner halls of Light' open only to philosophers. (ATWOOD)
+  - = Form of Gold: “that ray of motive Light, pure, vital, and efficient, we have shown to be the true Form of Gold” `IV.4 ¶9`
+  - “we pretend only to have signalized the Light” `IV.4 ¶2`
+  - “establish a stable monarchy upon her redeemed Light” `IV.4 ¶6`
+- **Form of Gold** — The ray of motive Light; the alone universal principle of increase and perfection; made concrete in life when dominant in the circulatory system; the transmutative ferment and Stone. (ATWOOD)
+  - = ray of motive Light: “that ray of motive Light, pure, vital, and efficient, we have shown to be the true Form of Gold” `IV.4 ¶9`
+  - = universal principle of increase and perfection: “the true Form of Gold, the alone universal principle of increase and perfection” `IV.4 ¶9`
+- **transmutative ferment** — The ray of Light made concrete in life when dominant in the circulatory system; identified with the Philosophic Stone. (ATWOOD)
+  - = Philosophic Stone: “is the transmutative ferment --- even the Philosophic Stone” `IV.4 ¶9`
+- **Experiment** (also: Divine Experiment, this Experiment, vital experiment, experiment) — The hermetic work itself; seldom attempted, more rarely completed; in its course the ancients discovered their whole philosophy. (ATWOOD)
+  - = pyrotechnical induction: “the quintessence of Universal nature and her fruitful springs: by this pyrotechnical induction” `IV.4 ¶9`
+  - “why the Divine Experiment has been so seldom attempted and more rarely brought to a legitimate conclusion on this earth” `IV.4 ¶7`
+  - “In the course of this vital experiment the ancients discovered the whole of the philosophy they teach” `IV.4 ¶9`
+- **genealogical method of ascent** — The method of the work, indirectly indicated by the order of the book's exposition; identified with the artistic fabrication of the Promethean Fire. (ATWOOD)
+  - = artistic fabrication of the Fire which Prometheus received from Vulcan: “the genealogical method of ascent; even that artistic fabrication of the Fire which Prometheus received from Vulcan” `IV.4 ¶8`
+- **pyrotechnical induction** — Name for the vital experiment, by which powers, the regenerative original and temptations were revealed to conscience. (ATWOOD)
+  - “by this pyrotechnical induction, powers were revealed to conscience” `IV.4 ¶9`
+- **Reason** — Man's especial prerogative; must be developed with rectitude of purpose, and purified and singled out by Art to withstand temptations. (ATWOOD)
+  - “the Reason also, purified and singled out by Art for the encounter” `IV.4 ¶9`
+  - “his especial prerogative of Reason and rectitude of purpose” `IV.4 ¶12`
+- **Wisdom** — Personified as a bride the philosophers wooed for her own sake, bringing a dowry of gold, silver and treasures of her creative light. (ATWOOD)
+  - “for her beauty and bright divinity they wooed her” `IV.4 ¶10`
+- **magic region** — A region in which every desire becomes prolific and embodies itself by the ethereal conception. (ATWOOD)
+  - “every desire is, in the magic region, made prolific” `IV.4 ¶10`
+- **Hermetic Science** — Eminently experimental and practical in consequences; if well founded, would include both physical and moral science in its experiment. (ATWOOD)
+  - “the Hermetic Science, supposing this indeed to be well founded, would include both in the ample compass of its experiment” `IV.4 ¶11`
+- **Catholic Effect of Life** — What the Hermetic experiment arrives at, passing from either extreme of mind and matter; there external and internal worlds blend. (ATWOOD)
+  - “as passing from whither extreme of Mind and matter, to prove them, it arrives at the Catholic Effect of Life” `IV.4 ¶11`
+- **Physical and Moral sciences** (also: Physical) — Physical: based externally, senses as evidence, practical utility as end. Moral: evidence and object within mind, slighting worldly benefits. Divergent; neither can prove or disprove the other; the Hermetic Science would include both. (ATWOOD)
+  - “the Spiritual unable to prove itself absolutely, or the Material to disprove the other practically” `IV.4 ¶11`
+- **Identic co-operation** — That without which we cannot learn how Nature works; contrasted with sense-based reasoning; not further defined in this chunk. (ATWOOD)
+  - “nor shall we ever learn, without Identic co-operation, how Nature works” `IV.4 ¶12`
+- **empirical** — Used pejoratively: knowledge without the experience, gained only by observing remote effects. (ATWOOD)
+  - “All our knowledge without the experience is empirical, the result only of observation of remote effects” `IV.4 ¶12`
+- **Causal Discovery** (also: Causal science) — Knowledge of cause, the only thing that fulfils the Idea of Truth; superior to exhibition of phenomena; the doubt is only whether it is possible. (ATWOOD)
+  - “neither can anything short of the Causal Discovery fulfill the Idea of Truth” `IV.4 ¶13`
+  - “leading out from the Causal Fountain into natural effect” `IV.4 ¶12`
+
+## Sources cited
+
+- **Apollo** `IV.4 ¶2` — Illustrates: the truth is so enveloped it 'might puzzle Apollo himself to explicate the whole Enigma'.
+- **individuals of various ages and nations, whose names are renowned in philosophy** `IV.4 ¶2` — Supports: the witnesses gathered for the Inquiry, many attesting the Stone from personal experience.
+- **unnamed ('as it is narrated')** `IV.4 ¶3` — Supports the claim that man has mind and manual efficacy by the Divine Will to effect all things.
+- **adepts** `IV.4 ¶4` — Supports: their vital analysis found man's life a pure fire in an ethereal vapour containing the Universal Efficient; reported 'as they profess', presented by Atwood as shown.
+- **the Ancients** `IV.4 ¶5, IV.4 ¶9, IV.4 ¶13` — Supports: authority for regarding the Mysteries as real inductions; discovered their whole philosophy in the vital experiment; their philosophy weighed against Physical science.
+- **Mysteries celebrated at Eleusis and the rest** `IV.4 ¶5` — Reinterpreted as real inductions of the Understanding Spirit to its Source, connected with Alchemy.
+- **the Sphinx** `IV.4 ¶5` — Illustrates the barrier at the vestibule that perplexes intruders and admits only philosophers.
+- **the Greek Ontologists** `IV.4 ¶6` — Supports: their course guided Atwood in following Nature to her Initial Source.
+- **Prometheus, Vulcan, Minerva** `IV.4 ¶8` — Illustrates the method of ascent as the artistic fabrication of the Fire which Prometheus received from Vulcan and Minerva disseminated.
+- **Hermetic Tradition** `IV.4 ¶10` — The body of tradition Atwood says she has run cursorily through.
+- **defunct philosophers** `IV.4 ¶12` — The sole evidence on which Alchemy may be imagined real.
+- **disappointed chemists** `IV.4 ¶12` — Criticized: their 'learned cavils and clamours' against Alchemy.
+- **unnamed ('Alchemy has been declared')** — “the only true glass of the mind” `IV.4 ¶12` — Supports: Alchemy as the means to enter and discover Truth.
+- **the Alchemists and Greek physicians** `IV.4 ¶13` — Supports: they assert an immutable Being pre-existent to sensibles, provable in intellect and confirmed in phenomena.
+
+## Ambiguities
+
+- “mind and manual efficacy, as it is narrated, by the Divine Will, to effect all things” `IV.4 ¶3`
+  - Reading: Atwood's own claim that man has, by Divine Will, mental and practical power to effect all things.
+  - Reading: A narrated traditional claim Atwood reports without fully owning.
+  - Basis: Syntax is elliptical; 'as it is narrated' marks a report, but the paragraph is otherwise in Atwood's voice.
+- “after operating voluntarily about her own annihilation” `IV.4 ¶6`
+  - Reading: Universal Nature undergoes self-dissolution at her source.
+  - Reading: The operator's own nature, followed inward, undergoes this dissolution in the experiment.
+  - Basis: IV.4 ¶6 speaks of 'mysterious Nature' and of 'Particulars ... of the metaphysical experience'; IV.4 ¶12 places dissolution in man bearing 'the life within him through dissolution into a new birth'.
+- “there in the center the light will kindle and increase, and gain strength to radiate upwards through the whole circumference” `IV.4 ¶8`
+  - Reading: A statement of faith that truth and good will prevail in humanity despite opposition.
+  - Reading: An image of the inner work: light kindled at the operator's center spreading outward.
+  - Basis: Reading 1: next sentence 'we should have faith in humanity as in the ultimate realization and prevalence of good'. Reading 2: IV.4 ¶9 'ray of motive Light' becoming dominant in the circulatory system; IV.4 ¶4 life as fire.
+- “the genealogical method of ascent” `IV.4 ¶8`
+  - Reading: Ascent back along the line of origin to the source.
+  - Reading: A step-by-step ascent whose order mirrors the order of her book's exposition.
+  - Basis: Reading 1: IV.4 ¶5 'inductions of the Understanding Spirit to its Source' and IV.4 ¶6 'into her Initial Source'. Reading 2: IV.4 ¶8 'in an order indirectly indicative of'.
+- “Minerva disseminated providentially for the sake of her luminous radix, lest it should be smother in our irrational alliance” `IV.4 ¶8`
+  - Reading: 'her luminous radix' is Minerva's own root, and the Fire is spread to preserve it.
+  - Reading: A luminous root (in man) is preserved by the Fire from being smothered by union with irrational nature.
+  - Reading: A mythic flourish about the transmission of the art of the Fire, not further specified.
+  - Basis: Grammar leaves the antecedents of 'her' and 'it' open; the chunk does not explain 'luminous radix' or 'irrational alliance'; IV.4 ¶9 'the Reason also, purified' suggests a rational/irrational contrast.
+- “gold, silver, and the glittering treasures of her creative light in abundance” `IV.4 ¶10`
+  - Reading: Literal metals gained as by-products.
+  - Reading: Figurative riches of Wisdom.
+  - Basis: Reading 1: IV.4 ¶10 'recording them' as 'intermediate benefits', and 'more attractive, even than gold or silver'. Reading 2: framed as Wisdom's 'dowry' and 'treasures of her creative light'.
+- “nor shall we ever learn, without Identic co-operation, how Nature works” `IV.4 ¶12`
+  - Reading: Knowledge requires the knower to become identical with, or participate in, Nature's operation.
+  - Reading: Knowledge requires co-operation of the same (identical) principle in us and in Nature.
+  - Basis: IV.4 ¶12 contrasts experience with 'observation of remote effects'; IV.4 ¶4 makes the Universal Efficient present in man's life-fire; the term is not defined.
+- “at the vertex of a double ignorance” `IV.4 ¶12`
+  - Reading: Ignorance of both the spiritual and the material sides.
+  - Reading: Ignorance compounded by ignorance of one's ignorance.
+  - Basis: Not explained; IV.4 ¶11 describes Philosophy split into two negative grounds.
+
+## Threads
+
+- `IV.4 ¶2` Recapitulates the whole Inquiry: witnesses gathered, the Stone's confection traced from the free Ether, and Transmutation shown to relate to the Universal Subject.
+- `IV.4 ¶4` 'it has been shown': earlier demonstration that the hermetic artifice explores man's hidden capacity and that man's life is a pure fire.
+- `IV.4 ¶5` Points back to the earlier treatment of the Mysteries, their connection with Alchemy, and Mesmerism proposed as first key.
+- `IV.4 ¶6` Points back to Nature followed to her Initial Source with the Greek Ontologists, the delineation of the metaphysical experience, and the catholicity of the Hermetic Work.
+- `IV.4 ¶7` 'impediments likewise described': earlier account of impediments and rare intellectual conditions.
+- `IV.4 ¶8` Says the book's order of exposition indirectly indicates the genealogical method of ascent.
+- `IV.4 ¶9` 'we have shown': earlier demonstration that the ray of motive Light is the Form of Gold and the Stone.
+- `IV.4 ¶10` Announces that the conclusion will next consider the bearings of the Hermetic Tradition on other sciences and their value to mankind (begun IV.4 ¶11).
+- `IV.4 ¶12` 'Alchemy has been declared' cites an unnamed earlier declaration.

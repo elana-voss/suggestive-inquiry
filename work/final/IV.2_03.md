@@ -1,0 +1,257 @@
+# IV.2_03
+
+*Through a chain of cited authorities (Norton, Vaughan, Bloomfield, Callimachus, an unnamed philosopher, Plotinus) Atwood carries the Subtle Work from astrological concord through the threefold union, blackness and the rising of Phoebus to a sudden divine illumination of the prepared soul, which she declares the sum of the Hermetic Mystery; she then gives the Smaragdine Tablet in full and introduces six Keys while openly withholding an important link of practice.*
+
+## Argument
+
+- Norton: the Stone's simplest elements most obey constellation; elect a direct fiery ascendant and its Lord, fortunate Moon for the white Work, fourth house ('hidden treasure') and sixth, free of impediments, unless one's nativity opposes. `IV.2 ¶34, IV.2 n23` — QUOTED: Norton
+- Four virtues: orb formal (workman's mind), eighth sphere instrumental (hand), planet special (instrument), elements material (thing wrought); their accord engenders the Elixir, a thing of Second Intention. `IV.2 ¶34` — QUOTED: Norton
+- Vaughan alludes, unexplained, to two sublimations, a double nativity visible and invisible needed to alter the Matter, sulphurs, three Argent vives and Salts. `IV.2 ¶35, IV.2 n24` — QUOTED: Vaughan
+- Bloomfield: the magistery is Three, Two, One; join Fixt, Variable, Fugitive till they die and live; the Dragon slays the other two; about sixty days' blackness; then Phoebus with strange colours. `IV.2 ¶36, IV.2 n25` — QUOTED: Bloomfield
+- Atwood defines the magistery as fiery Light inspisate, manifested by triple introversion and multiplication of the hypostatic unit by the circulatory medium. `IV.2 ¶37` — ATWOOD
+- Callimachus' hymn: Phoebus comes; Apollo endures only the good, perfect and pure. `IV.2 ¶37, IV.2 ¶38, IV.2 n26` — QUOTED: Callimachus
+- The philosopher: become conformable to the God you would entertain; three receive, givers answer; invite him (knockings, tears, sighs); then sudden illumination, with Fire, Wind, Power, Knowledge, sound mind (our translation). `IV.2 ¶39, IV.2 ¶40, IV.2 ¶41, IV.2 n27` — QUOTED: the philosopher (unnamed)
+- Plotinus: sudden Light in the soul is God present, entering as into the house of one who invokes him; then thought and understanding are one. `IV.2 ¶41, IV.2 n28` — QUOTED: Plotinus
+- Unattributed Latin: only a part of God perceives God (our translation). `IV.2 ¶42` — UNCLEAR
+- Atwood: this was the sum of the Hermetic Mystery; the ancestors experimentally found the Word of Life by analysis and synthesis of vital agencies, as Scriptures and the Smaragdine Tablet testify. `IV.2 ¶43` — ATWOOD
+- The Smaragdine Tablet is given in full. `IV.2 ¶44` — QUOTED: Smaragdine Tablet (Thrice Great Hermes)
+- Atwood offers six Keys to the intelligent inquirer only, deters hasty trial, and wilfully withholds an important practical link. `IV.2 ¶45` — ATWOOD
+
+## Method
+
+- **principle** — “Nothing in erth hath more simplicitie, Than th’ elements of our Stone woll be, Wherefore their, being in worke if generation, Have most obedience to constellation” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** Because the Stone's elements are the simplest things on earth, during the work of generation they respond most readily to celestial influence; hence the work must be in concord with the heavens.
+  - Basis: IV.2 ¶34: the verse gives the reason itself ('Wherefore') and calls this the 'last concord' between heaven and the work.
+  - Also: “The last concord is well known to Clerkes Between the sphere of Heaven and our Subtil Werkes” `IV.2 ¶34`
+- **procedure** — “Whereof concord most kindly convenient Is a direct and Fiery ascendant, Being sign common for this operation, For the multitude of their iteration” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** Make the election with a direct, fiery ascendant (a common sign, suited to the many iterations of the work); make the ascendant and its Lord fortunate, keep the aspect of 'shrews' from them, and if they must interfere, make them look with a 'triune aspect'. This chunk does not explain the astrological terms.
+  - Basis: IV.2 ¶34: literal instructions; 'this Election' names them as an election.
+  - Also: “Fortune your ascendant with his Lord alsoe, Keeping th’ aspect of shrews them fro’” `IV.2 ¶34`
+  - Also: “Cause them look with a triune aspect” `IV.2 ¶34`
+- **stage** — “For the white Worke make fortunate the Moone” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** For the white Work the Moon must be made fortunate in the election. This chunk does not explain the white Work.
+  - Basis: IV.2 ¶34, literal line; no gloss.
+- **principle** — “For the Lord of the Fourth House likewise be it done; For that is Thesaurum absconditum of old clerkes” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** The Lord of the Fourth House is also to be made fortunate, because the old clerks call 'that' the hidden treasure (our translation); likewise the sixth house, for the servants of the work. Whether 'that' is the Fourth House or its Lord is open (see ambiguities); this chunk does not decode either further.
+  - Basis: IV.2 ¶34 asserts 'that is Thesaurum absconditum'.
+  - Also: “Soe of the sixth house for servants of the Werkes” `IV.2 ¶34`
+- **impediment** — “Unless that your nativity pretend infection, In contrariety of this Election” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** The operator's own birth chart can oppose and spoil the chosen election; all factors must be kept free of great impediments.
+  - Basis: IV.2 ¶34: 'your nativity' set against 'this Election'; 'Save all them well from great impediments'.
+  - Also: “Save all them well from great impediments” `IV.2 ¶34`
+- **agent** — “The First is like to a workman’s mind, The Second like to his hand ye shall finde; The Third is like a good instrument, The remnant like a thing wrought to your Intent” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** Four causes concur: the virtue of 'the over of the orbe' is formal (like the workman's mind); of the eighth sphere instrumental (his hand); of the planet proper and special (a good instrument); of the elements material (the thing wrought). The infused virtue results from all together.
+  - Basis: IV.2 ¶34 lists the four virtues ('formall', 'intrumentall', 'proper and speciall', 'materiall') and gives each comparison in order.
+  - Also: “The virtue of the over of the orbe is formall, The virtue of the eight sphere is here intrumentall” `IV.2 ¶34`
+  - Also: “The virtue infused resulteth of them all” `IV.2 ¶34`
+- **result** — “In this wise Elixir, of whom ye make mencion, Is engendered a thing of Second Intention” `IV.2 ¶34` (QUOTED: Norton)
+  - **Plain (stated):** When all these premises accord, the Elixir is engendered as 'a thing of Second Intention', and the operator's merits make him 'a greate Lord'. This chunk does not explain 'Second Intention'.
+  - Basis: IV.2 ¶34: 'In this wise' refers back to 'Make all the premises with other well accord'.
+  - Also: “Make all the premises with other well accord, Then shall your merits make you a greate Lord.” `IV.2 ¶34`
+- **stage** — “a first and second sublimation, of a double nativity, visible and invisible, without which the Matter is not alterable as to our final purpose” `IV.2 ¶35` (QUOTED: Vaughan)
+  - **Plain (stated):** The Matter must undergo two sublimations and a twofold birth (one visible, one invisible) before it can be altered toward the final end. Vaughan names these, and sulphurs, Argent vives and Salts, but declines to explain them.
+  - Basis: IV.2 ¶35, literal; 'I could tell thee' marks the explanation as withheld.
+  - Also: “sulphurs simple and compounded, of three Argent vives and as many Salts” `IV.2 ¶35`
+- **subject** — “Our magistery is Three, Two, and One --- The Animal, Vegetable, and Mineral Stone.” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (stated):** The magistery is at once threefold, twofold and single, and is called the Animal, Vegetable and Mineral Stone. This chunk does not explain the 'Two'.
+  - Basis: IV.2 ¶36, literal; the three are joined into one in the following lines.
+- **procedure** — “Look that thou join in one persons Three --- The Fixt, the Variable, and the Fugitive --- Till they together taste death and live.” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (stated):** Unite three principles (fixed, variable, fugitive) into one until together they undergo death and return to life.
+  - Basis: IV.2 ¶36, literal instruction.
+- **agent** — “The first one is the Dragon fell, That shall the other twaine both slay and quell” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (interpreted):** One of the three, called the Dragon, slays and subdues the other two; this is the 'death' named in the preceding line.
+  - Basis: IV.2 ¶36: 'the other twaine' implies the Dragon is one of the three just named; it follows 'Till they together taste death and live'. Which of the three is meant is not stated (see ambiguities).
+- **sign** — “The Sun and Moon shall lose their light, And in mourning sable, they shall seem dight, Three score days long, or neere thereabouts” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (interpreted):** After the slaying, Sun and Moon lose their light and appear clothed in black for about sixty days: a period of blackness. Sun and Moon are not decoded in this chunk.
+  - Basis: IV.2 ¶36: 'mourning sable' read as blackness; placed after the Dragon's slaying.
+- **sign** — “Then shall Phoebus appear first out, With strange colours in all the Firmament, Then our joy is coming and at Hand present” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (stated):** After the blackness Phoebus appears first with strange colours throughout, signalling that success is at hand; then he appears fully and gloriously. Whether this is a sign in the matter or the divine Light of ¶37-41 is open (see ambiguities).
+  - Basis: IV.2 ¶36: sequence 'Then ... Then ... Then Orient Phoebus'.
+  - Also: “Then Orient Phoebus in his hemisphere To us full gloriously shall appear” `IV.2 ¶36`
+- **operator** — “Thus he who can work wisely, Shall attain unto our Maistery” `IV.2 ¶36` (QUOTED: Bloomfield)
+  - **Plain (stated):** Attaining the magistery requires the operator to work wisely. The chunk does not specify further here.
+  - Basis: IV.2 ¶36, literal.
+- **result** — “Which magistery is a fiery form of Light inspisate, made manifest by a triple introversion and multiplication of the hypostatic unit by the circulatory medium throughout life.” `IV.2 ¶37` (ATWOOD)
+  - **Plain (stated):** Atwood's own gloss: the magistery is light thickened into a fiery form, brought to manifestation by turning the 'hypostatic unit' inward three times and multiplying it through the 'circulatory medium' throughout life. The chunk does not further define these terms.
+  - Basis: IV.2 ¶37: Atwood directly defines the magistery named in ¶36.
+- **operator** — “Apollo’s eyes endure None but the good, the perfect, and the pure.” `IV.2 ¶38` (QUOTED: Callimachus)
+  - **Plain (interpreted):** Only the good, perfect and pure can bear the presence of the coming God of Light; the profane are sent away.
+  - Basis: IV.2 ¶38 literal; its bearing on the work is inferred from its placement after Phoebus' appearing (¶36) and the magistery as Light (¶37), and before 'Fit thy roof to thy God' (¶39).
+  - Also: “Far, ye profane, far off with beauteous feet, Bright Phoebus comes and thunders at the gate.” `IV.2 ¶38`
+  - Also: “We will prepare, behold thee, and be blessed.” `IV.2 ¶38`
+- **operator** — “thou must prepare thyself till thou art conformable to Him whom thou wouldest entertain, and that in every way of similitude” `IV.2 ¶39` (QUOTED: the philosopher (unnamed))
+  - **Plain (stated):** The operator must make himself like, in every respect, the God he wishes to receive; where he cannot, God helps.
+  - Basis: IV.2 ¶39 says this directly.
+  - Also: “Fit thy roof to thy God in all thou canst” `IV.2 ¶39`
+- **principle** — “Thou hast three that are to receive, and there be here accordingly that give.” `IV.2 ¶39` (QUOTED: the philosopher (unnamed))
+  - **Plain (stated):** There are three receiving parts in the operator, answered 'accordingly' by givers. This chunk does not identify the receivers or the givers.
+  - Basis: IV.2 ¶39, literal only; unexplained.
+- **procedure** — “when thou hast set thy house in order, think not that thy guest will come without invitation” `IV.2 ¶39` (QUOTED: the philosopher (unnamed))
+  - **Plain (interpreted):** Preparation is not enough: the divine guest must be actively invited, by persistent entreaty, tears and sighs.
+  - Basis: IV.2 ¶39 (invitation required) with the verse of IV.2 ¶40 ending 'He comes.', and IV.2 ¶41 'some one who invokes him'.
+  - Also: “Perpetual knockings at his doore, Teares sullying his transparent rooms, Sighs upon sighs, weepmore and more, He comes.” `IV.2 ¶40`
+- **sign** — “thou shalt perceive a sudden illumination” `IV.2 ¶41` (QUOTED: the philosopher (unnamed))
+  - **Plain (stated):** The sign that the guest has come is a sudden inner light; per the Latin (our translation) with it come fire, wind, power, knowledge and integrity of a sound mind. Plotinus agrees: God is to be believed seen when the soul receives a sudden Light.
+  - Basis: IV.2 ¶41: 'This is the way that thoumust walk, in which, if thou dost, thou shalt perceive...'; Plotinus' parallel in the same paragraph. The sequence rests on an 'ours' translation.
+  - Also: “Eritque in te cum Lumine, Ignis; cum Igne, Ventus; cum Vento, Potestas; cum Potestas, Scientia; cum Scientia, sanae mentis integritas” `IV.2 ¶41`
+  - Also: “And then it is requisite to believe that we have seen Him, says Plotinus, when the Soul receives a sudden Light.” `IV.2 ¶41`
+- **result** — “For the Light is with Power, and is God.” `IV.2 ¶41` (QUOTED: Plotinus)
+  - **Plain (stated):** The light received is God himself present, entering the soul as a divinity enters the house of one who invokes him and filling it with splendour; without his entry the soul lacks Light and God.
+  - Basis: IV.2 ¶41: Plotinus asserts the identity and the condition ('unless he entered, he would not illuminate it').
+  - Also: “like another Divinity entering the house of some one who invokes him, he fills it with splendour” `IV.2 ¶41`
+- **result** — “But when illuminated, it has That which is sought for; and the Thought and understanding are in the experience One.” `IV.2 ¶41` (UNCLEAR)
+  - **Plain (stated):** The illuminated soul possesses what it sought, and in that experience thinking and understanding are one.
+  - Basis: IV.2 ¶41, literal; speaker uncertain (see ambiguities).
+- **principle** — “Nec Sentire Deum nisi qui pars ipse Dei sit.” `IV.2 ¶42` (UNCLEAR)
+  - **Plain (interpreted):** Only one who is himself part of God can perceive God (our translation).
+  - Basis: IV.2 ¶42; rests on an 'ours' translation alone; placed after the account of divine illumination in ¶41.
+- **result** — “That was the sum of the Hermetic Mystery, and the ultimate object of the Alchemical Art to accomplish” `IV.2 ¶43` (ATWOOD)
+  - **Plain (interpreted):** Atwood states that what has just been described is the sum of the Hermetic Mystery and the ultimate object of the Art; most directly this refers to the divine illumination and presence of ¶39-42.
+  - Basis: IV.2 ¶43 directly follows ¶41-42; the scope of 'That' is not stated (see ambiguities).
+- **procedure** — “by such a subtle analysis and pure synthesis of vital agencies and effects, the Word of Life would seem to have been sought after by our ancestors, and experimentally found” `IV.2 ¶43` (ATWOOD)
+  - **Plain (stated):** The method was an analysis and recombination of vital agencies and effects, through which the Word of Life was sought and found by experiment.
+  - Basis: IV.2 ¶43, Atwood's direct statement.
+- **subject** — “The Father of it is the Sun, the Mother of it is the Moon, the Wind carried it in its belly; the nurse thereof is the Earth.” `IV.2 ¶44` (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - **Plain (interpreted):** The One Thing, from which all things proceed by adaptation, is born of Sun and Moon, carried by Wind and nursed by Earth. This chunk does not decode these images; Atwood presents the Tablet as summarily instructing in the Mystery just described.
+  - Basis: IV.2 ¶43 introduces the Tablet as 'summarily instructing us'; IV.2 ¶44 literal.
+  - Also: “as all things were from One, by the mediation of One, so all things proceeded from this One Thing by adaptation” `IV.2 ¶44`
+- **procedure** — “Thou shalt separate the Earth from the fire, the subtle from the gross, gently, with much sagacity.” `IV.2 ¶44` (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - **Plain (stated):** Separate the subtle from the gross, gently and with great skill; the power of the thing is complete if it is turned into Earth. Not further explained in this chunk.
+  - Basis: IV.2 ¶44, literal.
+  - Also: “The power of it is integral, if it be turned into Earth.” `IV.2 ¶44`
+- **procedure** — “It ascends from earth to heaven, and again descends to earth; and receives the strength of the Superiors and of the Inferiors.” `IV.2 ¶44` (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - **Plain (stated):** The thing rises and descends again, gathering the power of both higher and lower, in accord with 'as above, so below'; it then overcomes every subtle and penetrates every solid thing. Not further explained in this chunk.
+  - Basis: IV.2 ¶44, literal; Atwood does not link this line to a specific step.
+  - Also: “That which is above is as that which is below, and that which is below is as that which is above, for performing the miracles of the One Thing.” `IV.2 ¶44`
+  - Also: “This is the strong fortitude of all fortitudes, overcoming every subtle and penetrating every solid thing.” `IV.2 ¶44`
+- **result** — “So thou hast the glory of the whole world: therefore let all obscurity flee before thee.” `IV.2 ¶44` (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - **Plain (stated):** The outcome is the glory of the whole world and the dispelling of all obscurity. Not decoded in this chunk.
+  - Basis: IV.2 ¶44, literal.
+- **impediment** — “our willful reservation of an important link in the application of these principles to practice” `IV.2 ¶45` (ATWOOD)
+  - **Plain (stated):** Atwood deliberately withholds a key step needed to put the principles into practice, and warns against hasty trial without full investigation of the methods, lest the attempt fail utterly.
+  - Basis: IV.2 ¶45, Atwood's direct statement.
+  - Also: “we would deter all from hasty trial” `IV.2 ¶45`
+  - Also: “lest any attempting to realize without a full investigation of the methods, should fail utterly in the pursuit” `IV.2 ¶45`
+
+## Terms
+
+- **magistery** (also: Maistery) — The work or its product: three, two and one; the Animal, Vegetable and Mineral Stone; defined by Atwood as a fiery form of Light inspisate made manifest by triple introversion and multiplication of the hypostatic unit. (ATWOOD; QUOTED: Bloomfield)
+  - = the Animal, Vegetable, and Mineral Stone: “Our magistery is Three, Two, and One --- The Animal, Vegetable, and Mineral Stone.” `IV.2 ¶36`
+  - = a fiery form of Light inspisate: “Which magistery is a fiery form of Light inspisate” `IV.2 ¶37`
+  - “Shall attain unto our Maistery” `IV.2 ¶36`
+- **Stone** — The object of the work; its elements are the simplest on earth and most obedient to constellation; called Animal, Vegetable and Mineral. (QUOTED: Norton; Bloomfield)
+  - “Than th’ elements of our Stone woll be” `IV.2 ¶34`
+  - “The Animal, Vegetable, and Mineral Stone.” `IV.2 ¶36`
+- **Elixir** — Product engendered when the celestial and elemental virtues accord; called a thing of Second Intention. (QUOTED: Norton)
+  - = a thing of Second Intention: “In this wise Elixir, of whom ye make mencion, Is engendered a thing of Second Intention” `IV.2 ¶34`
+- **Second Intention** — Character of the Elixir as engendered by the concord of virtues; not explained further in this chunk. (QUOTED: Norton)
+  - “Is engendered a thing of Second Intention” `IV.2 ¶34`
+- **constellation** — Celestial influence to which the Stone's elements are most obedient during generation. (QUOTED: Norton)
+  - “Have most obedience to constellation” `IV.2 ¶34`
+- **Election** — The chosen astrological arrangement for the work, which the operator's nativity may contradict. (QUOTED: Norton)
+  - “In contrariety of this Election” `IV.2 ¶34`
+- **ascendant** — Astrological factor to be 'direct and Fiery' and made fortunate, with its Lord, for the operation; a common sign suited to the work's many iterations. (QUOTED: Norton)
+  - “Is a direct and Fiery ascendant” `IV.2 ¶34`
+- **white Worke** — A phase of the work for which the Moon is to be made fortunate; not further explained here. (QUOTED: Norton)
+  - “For the white Worke make fortunate the Moone” `IV.2 ¶34`
+- **Thesaurum absconditum** — 'Hidden treasure' (our translation) of the old clerks; identified with the Fourth House or its Lord (see ambiguities). (QUOTED: Norton)
+  - = the Lord of the Fourth House / the Fourth House: “For the Lord of the Fourth House likewise be it done; For that is Thesaurum absconditum of old clerkes” `IV.2 ¶34`
+- **virtue** — Operative power; four kinds (formal of the orb, instrumental of the eighth sphere, proper and special of the planet, material of the elements) plus the infused virtue resulting from all. (QUOTED: Norton)
+  - “The virtue infused resulteth of them all” `IV.2 ¶34`
+- **sublimation** — Operation of which there is a first and a second, needed for the Matter to be alterable; not explained. (QUOTED: Vaughan)
+  - “a first and second sublimation” `IV.2 ¶35`
+- **double nativity** — A twofold birth, visible and invisible, without which the Matter cannot be altered to the final purpose; not explained. (QUOTED: Vaughan)
+  - “of a double nativity, visible and invisible” `IV.2 ¶35`
+- **Matter** — That which is to be altered toward the final purpose, requiring the sublimations and double nativity. (QUOTED: Vaughan)
+  - “without which the Matter is not alterable as to our final purpose” `IV.2 ¶35`
+- **sulphurs** — Named as simple and compounded; not explained. (QUOTED: Vaughan)
+  - “sulphurs simple and compounded” `IV.2 ¶35`
+- **Argent vives** — Three in number; not explained. (QUOTED: Vaughan)
+  - “three Argent vives and as many Salts” `IV.2 ¶35`
+- **Salts** — Three in number ('as many' as the Argent vives); not explained. (QUOTED: Vaughan)
+  - “three Argent vives and as many Salts” `IV.2 ¶35`
+- **Fixt, Variable, Fugitive** — The three 'persons' to be joined in one until they taste death and live together. (QUOTED: Bloomfield)
+  - “The Fixt, the Variable, and the Fugitive” `IV.2 ¶36`
+- **Dragon** — 'The first one' of the three, which slays and quells the other two. (QUOTED: Bloomfield)
+  - “The first one is the Dragon fell” `IV.2 ¶36`
+- **Phoebus** (also: Orient Phoebus) — In Bloomfield, what appears after the blackness with strange colours, signalling the coming joy; in the hymn, the coming God whom only the pure endure. (QUOTED: Bloomfield; Callimachus)
+  - “Then shall Phoebus appear first out” `IV.2 ¶36`
+  - “Bright Phoebus comes and thunders at the gate.” `IV.2 ¶38`
+- **triple introversion** — A threefold turning inward which, with multiplication of the hypostatic unit, makes the magistery manifest; not further explained. (ATWOOD)
+  - “made manifest by a triple introversion and multiplication of the hypostatic unit” `IV.2 ¶37`
+- **hypostatic unit** — That which is triply introverted and multiplied by the circulatory medium to manifest the magistery; not further defined. (ATWOOD)
+  - “multiplication of the hypostatic unit by the circulatory medium throughout life” `IV.2 ¶37`
+- **circulatory medium** — The medium by which the hypostatic unit is multiplied throughout life; not further defined. (ATWOOD)
+  - “by the circulatory medium throughout life” `IV.2 ¶37`
+- **Light** — The sudden light received by the soul, identified with God and joined with Power; also the substance of the magistery (Light inspisate). (QUOTED: Plotinus; ATWOOD)
+  - = God: “For the Light is with Power, and is God.” `IV.2 ¶41`
+  - “a fiery form of Light inspisate” `IV.2 ¶37`
+  - “when the Soul receives a sudden Light” `IV.2 ¶41`
+  - “thou shalt perceive a sudden illumination” `IV.2 ¶41`
+- **Hermetic Mystery** — Its sum, and the ultimate object of the Alchemical Art, is what was just described, most directly the divine illumination of ¶39-42 (see ambiguities). (ATWOOD)
+  - “That was the sum of the Hermetic Mystery” `IV.2 ¶43`
+- **Word of Life** — What the ancestors sought and experimentally found by subtle analysis and pure synthesis of vital agencies and effects. (ATWOOD)
+  - “the Word of Life would seem to have been sought after by our ancestors, and experimentally found” `IV.2 ¶43`
+- **vital agencies** — What is subjected, with their effects, to subtle analysis and pure synthesis in seeking the Word of Life. (ATWOOD)
+  - “subtle analysis and pure synthesis of vital agencies and effects” `IV.2 ¶43`
+- **One Thing** — Subject of the Tablet; all things proceed from it by adaptation; Sun its father, Moon its mother, Wind carried it, Earth its nurse; father of all perfection. (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - “for performing the miracles of the One Thing” `IV.2 ¶44`
+  - “This is the father of all perfection and consummation of the whole world.” `IV.2 ¶44`
+- **adaptation** (also: adaptations) — The manner in which all things proceed from the One Thing. (QUOTED: Smaragdine Tablet (Thrice Great Hermes))
+  - “so all things proceeded from this One Thing by adaptation” `IV.2 ¶44`
+- **Keys** — Six explanatory texts to follow, useful only to the intelligent inquirer. (ATWOOD)
+  - “The six following Keys, delivered into the safe hand of the intelligent inquirer” `IV.2 ¶45`
+
+## Sources cited
+
+- **Norton**, *Ordinal, chap.6* — “The last concord is well known to Clerkes Between the sphere of Heaven and our Subtil Werkes” `IV.2 ¶34, IV.2 n23` — Supports: astrological election for the work, the four virtues, and the Elixir as a thing of Second Intention.
+- **Vaughan**, *Lumen de Lumine* — “a first and second sublimation, of a double nativity, visible and invisible” `IV.2 ¶35, IV.2 n24` — Illustrates: further operations alluded to but withheld.
+- **the schoolmen** — “bad news (as the schoolmen phrase it)” `IV.2 ¶35` — Phrase borrowed within Vaughan's quotation.
+- **Bloomfield**, *Camp of Philosophy (Conclusion), in Theatrum Chemicum Brit* — “Our magistery is Three, Two, and One” `IV.2 ¶36, IV.2 n25` — Supports: the threefold magistery, the Dragon, the blackness and the appearing of Phoebus.
+- **Callimachus**, *Hymn to Apollo, by Dodd* — “Apollo’s eyes endure None but the good, the perfect, and the pure.” `IV.2 ¶37, IV.2 ¶38, IV.2 n26` — Illustrates: the coming of the God of Light and the purity required to behold him.
+- **the philosopher (unnamed)** — “Fit thy roof to thy God in all thou canst” `IV.2 ¶39, IV.2 ¶41` — Supports: self-preparation, invitation and sudden illumination.
+- **Anima Magia Abscond.**, *Anima Magia Abscond., p. 27, etc.* — “Eritque in te cum Lumine, Ignis” `IV.2 ¶41, IV.2 n27` — Reference for the Latin sequence of illumination in the philosopher's passage.
+- **Plotinus**, *Select Works, Taylor, p. 453* — “For the Light is with Power, and is God.” `IV.2 ¶41, IV.2 n28` — Supports: sudden Light as sign of God's presence in the soul.
+- **unattributed Latin verse** — “Nec Sentire Deum nisi qui pars ipse Dei sit.” `IV.2 ¶42` — Supports: only what is part of God perceives God (our translation).
+- **Scriptures (of the ancestors)** — “which their neglected Scriptures everywhere testify of” `IV.2 ¶43` — Supports: the ancestors' finding of the Word of Life.
+- **Thrice Great Hermes**, *Smaragdine Tablet* — “That which is above is as that which is below” `IV.2 ¶43, IV.2 ¶44` — Supports: quoted in full as summary instruction in the Mystery.
+
+## Ambiguities
+
+- “For the Lord of the Fourth House likewise be it done; For that is Thesaurum absconditum of old clerkes” `IV.2 ¶34`
+  - Reading: the Lord of the Fourth House is the hidden treasure
+  - Reading: the Fourth House itself is the hidden treasure
+  - Basis: 'that' can refer back either to 'the Lord' or to 'the Fourth House' in the preceding line.
+- “The first one is the Dragon fell” `IV.2 ¶36`
+  - Reading: the Fixt, first listed of the three
+  - Reading: an unspecified one of the three, first in operation
+  - Basis: 'the other twaine' shows the Dragon is one of three; 'The Fixt' is listed first two lines earlier, but the text does not say so.
+- “Then shall Phoebus appear first out,” `IV.2 ¶36`
+  - Reading: a sign in the work (Sun/colours appearing after the blackness)
+  - Reading: the divine Light whose coming Callimachus, the philosopher and Plotinus describe
+  - Basis: ¶36 frames it as a stage after sixty days of blackness; ¶37 defines the magistery as Light and ¶38 has 'Bright Phoebus comes' and 'The God of Light'.
+- “continues the philosopher” `IV.2 ¶39`
+  - Reading: Vaughan, the last named prose authority (¶35)
+  - Reading: the author of Anima Magia Abscond. cited at n27
+  - Reading: a speaker named earlier, outside this chunk
+  - Basis: 'continues' implies a prior speaker; ¶39 gives no name; Vaughan is quoted in ¶35; n27 attaches the Latin in ¶41 to Anima Magia Abscond. without naming its author.
+- “But when illuminated, it has That which is sought for; and the Thought and understanding are in the experience One.” `IV.2 ¶41`
+  - Reading: continuation of Plotinus
+  - Reading: Atwood's own comment
+  - Basis: No quotation marks; follows the n28 reference to Plotinus within the same paragraph without a new attribution.
+- “That was the sum of the Hermetic Mystery” `IV.2 ¶43`
+  - Reading: the divine illumination/union of ¶39-42
+  - Reading: the whole process presented in the chunk's quotations
+  - Basis: 'That' directly follows ¶41-42; ¶43 also speaks of 'analysis and pure synthesis of vital agencies', recalling the operative stages.
+
+## Translations
+
+- `IV.2 ¶34` “Thesaurum absconditum” → hidden treasure *(ours)*
+- `IV.2 ¶41` “Eritque in te cum Lumine, Ignis; cum Igne, Ventus; cum Vento, Potestas; cum Potestas, Scientia; cum Scientia, sanae mentis integritas” → And there shall be in thee, with the Light, Fire; with the Fire, Wind; with the Wind, Power; with Power, Knowledge; with Knowledge, the integrity of a sound mind. *(ours)*
+- `IV.2 ¶42` “Nec Sentire Deum nisi qui pars ipse Dei sit.” → Nor can anyone perceive God unless he himself is a part of God. *(ours)*
+
+## Threads
+
+- `IV.2 ¶39` 'continues the philosopher' points back to an earlier speaker not identified in this chunk.
+- `IV.2 ¶43` 'That was the sum of the Hermetic Mystery' refers back to what precedes, most directly the illumination of ¶39-42.
+- `IV.2 ¶45` Introduces 'The six following Keys', which come after this chunk; Atwood withholds an important link in applying the principles to practice.

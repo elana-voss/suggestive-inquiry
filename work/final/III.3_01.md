@@ -1,0 +1,371 @@
+# III.3_01
+
+*Opens the chapter on the manifestation of the First Matter and its information by Light: through her own exposition and a chain of quoted adepts, Atwood traces how the purified Vital Spirit, after separation, tribulation and contrition, reunites with the Soul so that its Light becomes visible and subject to the artist, then the dark conjunction, the rainbow colours, the marriage, and the regeneration of body into spirit, glossed throughout in spiritual terms.*
+
+## Argument
+
+- Heading: the Manifestation of the First Matter and its Information by Light; epigraph: wisdom poured like water. `III.3 ¶1, III.3 ¶2` — ATWOOD
+- Conceive the purified Vital Spirit approaching, with the subdued 'body of our Sphinx', the first Adytum to contemplate the Tears of Isis, nature's blessed Water: substantial experience, not vision. `III.3 ¶3` — ATWOOD
+- Verse: Hyanthe sheds a silent dew of tears, 'chains of liquid pearl'. `III.3 ¶4, III.3 n1` — QUOTED: Vaughan
+- When divine Causes and assimilated human Conditions serve one end, the work returns pure reward; the profane are barred. `III.3 ¶5, III.3 ¶6, III.3 ¶7` — UNCLEAR
+- The Stone speaks: earth its body, fire its powers; seeking a high house, seated lowest. `III.3 ¶8, III.3 n2` — QUOTED: Theatrum Chemicum
+- After the Vital Principles' separation by Art, great care is needed to apply the threefold secret: balancing attraction, repulsion and circulation in the ethereal bond. `III.3 ¶9` — ATWOOD
+- Seek Three in One, One in Three, dissolve, congeal; rightly done, a new Chaos appears; no manual labour; inner motion and tears of joy; original sin removed by the Fire of Divine love; Azoth is seen and touched. `III.3 ¶9, III.3 n3` — QUOTED: Khunrath
+- In extreme tribulation the Passive Spirit's faith and desire draw the Soul back; the Divine Fiat creates a new hypostasis; the soul's light, held in the understanding ether, becomes visible and first subject to the artist. `III.3 ¶10` — ATWOOD
+- Mars by Venus: in conjunction a spirituous vapour rises, to be netted; the vitriol left yields living philosophic gold. `III.3 ¶11, III.3 n4` — QUOTED: Mystere de la Croix
+- This device of Vulcan is hidden: labour on the right material is vain if the artist cannot make it appear; the flinty conscience feels contrition only by fiery steel. `III.3 ¶11` — ATWOOD
+- Verse: one whose dying mind swells with the venom of crimes may not draw the healthful waters (our translation). `III.3 ¶11, III.3 ¶12, III.3 n5` — QUOTED: Orpheus Eucharisticus
+- All is sown under the cross: conjunction brings Darkness, Saturn, the Head of the Crow; then all colours, the peacock's tail, a token of reconciliation in the Microcosmic Heaven; fire and water germinate into Harmony. `III.3 ¶13, III.3 ¶14` — ATWOOD
+- This is the marriage of Mind and Universe, prefigured in ancient marriages. 'The bridegroom crowneth the bride in the North' she glosses: from the crucifixion of cerebral life, sense subdued, a Light arises about the summit and becomes substantive. `III.3 ¶15` — ATWOOD
+- Verse: sublimed arsenic and calcined mercury, ground with the Water of Might, run to bright water, are fixed on fire and fed into a Stone. `III.3 ¶16, III.3 n6` — QUOTED: Pierce, the Black Monk
+- Golden water comes from higher places as ripe Mercury rises; the son of Art becomes a Crowned King drawing dry Auripigment from the Fountain. `III.3 ¶17, III.3 n7, III.3 n8, III.3 n9` — QUOTED: the adept; Proverbs of Solomon; the Hermetic Master
+- What is drawn is cooked by repetition until rainbow colours and heavy drops appear; the work is called Aimantique. `III.3 ¶18, III.3 n10` — QUOTED: Mystere de la Croix
+- After ashy, white, yellow, the Stone, our King, leaves his glassy sepulchre glorified, a shining carbuncle. `III.3 ¶19, III.3 n11` — QUOTED: Khunrath
+- Sow in tears, reap in joy: who besieges Self-Will with faith and self-sacrifice, prevailing through death, is converted to the perfection of his root and multiplies. `III.3 ¶20` — ATWOOD
+- Latin maxim: the dissolved body is a perennial water congealing Mercury. `III.3 ¶21` — UNCLEAR
+- Destroyed gold returns hundredfold; saving it, i.e. resting in reason's first fruits, deceives like Midas. `III.3 ¶22, III.3 n12` — QUOTED: Eirenaeus; gloss apparently ATWOOD
+- Seed and leaven show corruption precedes increase; the Rational Light actuates the Spirit, which overcomes and glorifies the corporeal, the sensual dominant. `III.3 ¶23, III.3 n13` — ATWOOD
+- Solve et coagula: sulphur unites quicksilver into one body; fire, air, water in their earthly vessel, the gross body, are decocted by heavenly fire, without tools. `III.3 ¶24, III.3 n14` — QUOTED: the Benedictine Monk
+- Light appears in great darkness, the contrition of the sensible nature in conscience, where a peculiar motion is present. `III.3 ¶24` — ATWOOD
+- Christ's power comes in that motion; desiring fire draws Light's virtue into Water; sulphur and desiring tincture unite as Blood; the Spirit born of the Soul, resigning its will, is clothed with Divine Essentiality. `III.3 ¶24, III.3 n16` — QUOTED: Jacob Boehme
+- Footnote: the golden matter's quality is not sweetness. `III.3 n15` — QUOTED: Hermes
+- This Essentiality qualifies and sanctifies the Adept, the Corner-Stone's material linking reason to Divinity; sown in corruption, raised in incorruption. `III.3 ¶24, III.3 n17` — ATWOOD
+
+## Method
+
+- **subject** — “the Vital Spirit theurgically purified and freed through sacrifice of all foreign attractions” `III.3 ¶3` (ATWOOD)
+  - **Plain (stated):** The starting point of this stage is the Vital Spirit already purified of everything foreign to it, holding active and passive power united and about to generate the fullness it contains.
+  - Basis: III.3 ¶3 describes it directly; III.3 ¶9 refers to the Vital Principles' separation 'by Art' as already noticed.
+  - Also: “having power active and passive in hypostatic union always about to generate the infinite fullness which it contains and draws” `III.3 ¶3`
+- **sign** — “the Tears of Isis, even that blessed Water which nature sheds divinely for the world” `III.3 ¶3` (ATWOOD)
+  - **Plain (stated):** The first manifestation contemplated is a Water, called the Tears of Isis; Atwood insists it was real experience with effect 'in substance', not mere vision. The chunk does not further define it.
+  - Basis: III.3 ¶3 equates the Tears of Isis with 'that blessed Water' and adds 'not all was vaporous vision ... but experience there was present with power and effect in substance'; the Hyanthe verse (III.3 ¶4) illustrates with tears/dew. Whether 'in substance' means physical or inward-but-real: see ambiguities.
+  - Also: “I could perceive a silent dew Steal down her cheeks” `III.3 ¶4`
+  - Also: “In chains of liquid pearl did fall” `III.3 ¶4`
+- **principle** — “When divine Causes and human Conditions which are assimilated to them are coordinate to one and the same end” `III.3 ¶5` (UNCLEAR)
+  - **Plain (stated):** The work succeeds when the human conditions are made like the divine causes and both aim at the same end; then it overflows with a pure, bright reward.
+  - Basis: III.3 ¶5 completes: 'the perfection of such works overflowing returns a pure and most bright reward'.
+  - Also: “mercy imparts the benefits and gifts of the most exquisite sacrifice” `III.3 ¶7`
+- **operator** — “Nihil ingreditur profanum.” `III.3 ¶6` (UNCLEAR)
+  - **Plain (interpreted):** Nothing profane enters: the operator must be purified; a mind swollen with wrongdoing cannot draw the healthful waters.
+  - Basis: Rests on our translations of III.3 ¶5-6 ('Ite profani!') and the verse in III.3 ¶11-12 ('mens moribunda' swollen 'scelerum viru'); III.3 ¶5 on human Conditions assimilated to divine Causes.
+  - Also: “Ite profani!” `III.3 ¶5`
+  - Also: “Cui scelerum viru mens moribunda tumet” `III.3 ¶12`
+- **procedure** — “the threefold secret of the Art” `III.3 ¶9` (ATWOOD)
+  - **Plain (stated):** After the separation of the Vital Principles, attraction, repulsion and circulation must be brought into balance so that none acts more than another resists.
+  - Basis: III.3 ¶9: 'so that the hypostatic principles of attraction and repulsion and circulation may be brought into a perfect equilibriate accord, the one no more acting than the other is resisting in the ethereal bond'. What the 'Three' of Khunrath's formula refers to: see ambiguities.
+  - Also: “Seek Three in One, and again seek One in Three, dissolve, congeal” `III.3 ¶9`
+  - Also: “Solve et Coagula, reiterates the Benedictine Monk, Dissolve and Coagulate” `III.3 ¶24`
+- **stage** — “the new Chaos of the Universal Nature of the of the new world will then appear to be unfolded and separated” `III.3 ¶9` (QUOTED: Khunrath)
+  - **Plain (stated):** When the process is rightly carried through from the beginning, a 'new Chaos' appears, unfolded and separated. The chunk does not further define it.
+  - Basis: III.3 ¶9, Khunrath as cited.
+- **procedure** — “Apply nomanual labor” `III.3 ¶9` (QUOTED: Khunrath)
+  - **Plain (stated):** The work is not done by handwork, tools or ordinary furnace fire.
+  - Basis: III.3 ¶9 direct instruction; III.3 ¶24 the Benedictine Monk works without tools or common fire, by 'my heavenly fire'.
+  - Also: “without the help of hammer, tongs, or file; without coals, smoke, or fire, or bath; or the alembics of the sophisters” `III.3 ¶24`
+- **sign** — “motum in te, experis internum et pro gaudio, lachrymabis!” `III.3 ¶9` (QUOTED: Khunrath)
+  - **Plain (interpreted):** When the separation has been enacted, the operator feels an inner motion within and weeps for joy.
+  - Basis: Our translation of the Latin in III.3 ¶9, placed 'when you shall have enacted the separation'; Atwood's own III.3 ¶24 likewise speaks of 'a peculiar motion' present in the contrition of the conscience.
+  - Also: “where a peculiar motion is present” `III.3 ¶24`
+- **result** — “the original sin has been removed --- separated by the Fire of Divine love in the regeneration of the three principles --- body, soul and spirit” `III.3 ¶9` (QUOTED: Khunrath)
+  - **Plain (stated):** Once the separation is enacted, the operator will understand that original sin has been removed, separated by the Fire of Divine love in the regeneration of body, soul and spirit.
+  - Basis: III.3 ¶9 names the agent and the three principles explicitly.
+- **subject** — “With thy hands thou shalt touch, and with thy eyes thou shalt see Azoth! The Universal!” `III.3 ¶9` (QUOTED: Khunrath)
+  - **Plain (stated):** Azoth, called the Universal, is claimed to be tangible and visible; with the internal and external fire in sympathy with the 'Olympic Fire' it alone suffices for the Stone. The chunk does not define Azoth further or the Olympic Fire.
+  - Basis: III.3 ¶9: 'I write not fables' and 'Which alone, with the internal and external fire in harmonious sympathy with the Olympic Fire, is sufficient for thee'.
+  - Also: “with the internal and external fire in harmonious sympathy with the Olympic Fire” `III.3 ¶9`
+- **stage** — “the returning faith and desire of the Passive Spirit attracts the Soul again into herself, the first link in the chain of the magnetic series moves” `III.3 ¶10` (ATWOOD)
+  - **Plain (stated):** At the extreme of tribulation, when life seems to be departing, the Passive Spirit's faith and desire draw the separated Soul back into it; this is the first movement of the 'magnetic' chain.
+  - Basis: III.3 ¶10 gives the sequence directly, opening 'When in the last extreme of tribulation and departing life'.
+- **agent** — “the Divine Fiat comes mercifully to bless the union, and a new hypostasis is created out of the darkness to abide” `III.3 ¶10` (ATWOOD)
+  - **Plain (stated):** The reunion is blessed by the Divine Fiat, and a new hypostasis is created out of the darkness, to abide; in the same Fiat the dominance of the senses is subdued.
+  - Basis: III.3 ¶10; III.3 ¶15: 'the sensual dominant is occultated in the Divine Fiat and subdued'.
+  - Also: “when the sensual dominant is occultated in the Divine Fiat and subdued” `III.3 ¶15`
+- **sign** — “Lux manifeste et visibilis ad oculum” `III.3 ¶10` (ATWOOD)
+  - **Plain (stated):** When the fiery soul is again held in the 'liquid crystal of the understanding ether', its light streams forth, manifest and visible to the eye; only in this state does it first become subject to the artist.
+  - Basis: III.3 ¶10 English context: 'the fiery soul suffers itself again to be imprisoned ... and the light which is in her then streams forth ... in which state it is first made subject to the artist'.
+  - Also: “the liquid crystal of the understanding ether” `III.3 ¶10`
+- **procedure** — “il s’eleve une vapeur tres spirituesuse et necessaire a un grand ouvrage: ilffaut prendre cette vapeur avec des filets bien subtils” `III.3 ¶11` (QUOTED: Mystere de la Croix)
+  - **Plain (interpreted):** In the conjunction ('marriage') of Mars and Venus a very spiritual vapour rises that must be caught with very subtle nets; the residue, a vitriol, yields by subtle operations a solar sulphur or living philosophic gold. The chunk does not explain Mars, Venus or the nets.
+  - Basis: Our translation of the French in III.3 ¶11.
+  - Also: “Mars et Venus, ou plutot mars par Venus” `III.3 ¶11`
+- **impediment** — “Which subtle device of Vulcan most profoundly hidden” `III.3 ¶11` (ATWOOD)
+  - **Plain (stated):** The decisive difficulty is making the matter appear: even with the right material the labour is vain unless the artist has rightly conceived the hidden device, by spiritual aid or by his own experiment in 'a triune furnace spherically round'.
+  - Basis: III.3 ¶11: 'his labours are declared to be vain, even though working in the right material, if he cannot cause it to appear'. The furnace is not explained: see ambiguities.
+  - Also: “a triune furnace spherically round” `III.3 ¶11`
+- **impediment** — “the flinty conscience yields no chalybeate, feels no contrition, but by the fiery well-tempered steel” `III.3 ¶11` (ATWOOD)
+  - **Plain (interpreted):** Like flint struck by steel, the hardened conscience gives forth nothing and feels no contrition unless struck by a fiery force; contrition is a required condition.
+  - Basis: III.3 ¶11 sets 'yields no chalybeate' in apposition with 'feels no contrition'; III.3 ¶24 places the Light's manifestation 'in the contrition or distress of the sensible nature in the conscience'. The horse image is unexplained: see ambiguities.
+  - Also: “If the horse’s strength be yet denied, in vain he will strike upon the mountain” `III.3 ¶11`
+- **stage** — “Darkness will draw over the face of the Abyss, Night, Saturn and the Antimony of the Wise will be present, Obscurity and the Head of the Crow” `III.3 ¶13` (ATWOOD)
+  - **Plain (stated):** During conjunction there is a phase of darkness; these names are listed together as present in it. The chunk does not decode each name.
+  - Basis: III.3 ¶13 lists them as present 'in the various hours of conjunction'; cf. III.3 ¶15 'In the darkness of the North' and III.3 ¶24 'the Light is made manifest in great darkness'.
+- **sign** — “all the colours of the world will be apparent; also Iris, God’s messenger, and the tail of the peacock” `III.3 ¶13` (ATWOOD)
+  - **Plain (stated):** After the darkness all colours appear, like a rainbow after a storm; this is a token of reconciliation made apparent in the 'Microcosmic Heaven'.
+  - Basis: III.3 ¶13: 'the same beautiful token of reconciliation is made apparent in the Microcosmic Heaven'; III.3 ¶18 also calls the rainbow colours a sign of grace and reconciliation.
+  - Also: “jusqu’a ce qu’il montre les couleurs de l’arc en ciel; signe de grace et de reconciliation” `III.3 ¶18`
+- **result** — “the fire and water are commingled, and, falling together under the cross, germinate, and the beautiful Ideal of Harmony is born of the Spirit” `III.3 ¶13` (ATWOOD)
+  - **Plain (interpreted):** Fire and water mix and, 'under the cross', begin to grow; from this a harmony born of the Spirit arises.
+  - Basis: III.3 ¶13 'All is sown under the cross'; III.3 ¶14 Latin (our translation): true Wisdom comes under the cross; III.3 ¶15 links the cross to 'the crucifixion of the cerebral life'. The chunk does not define the cross further.
+  - Also: “All is sown under the cross and completed in its number” `III.3 ¶13`
+  - Also: “In cruce sub sphera venit Sapientia vera.” `III.3 ¶14`
+- **stage** — “This is the union supersentient, the nuptials sublime, Mentis et Universi” `III.3 ¶15` (ATWOOD)
+  - **Plain (stated):** The 'marriage' of the work is the union of Mind and Universe: solitary Thought unites with the 'non-being, or simple Understanding of its ether' and comes into simultaneous subsistence with abundant power. Peleus and Thetis, Earth and Heaven, Bacchus and Ariadne, Jason and Medea are said to prefigure it.
+  - Basis: III.3 ¶15: 'the Thought solitary unites itself to the non-being, or simple Understanding of its ether' and 'This is the marriage, by the ancients so many times prefigured'.
+  - Also: “of Jason with Medea, when after many trials and risk of life, he gained with her the golden fleece from Colchos” `III.3 ¶15`
+- **sign** — “the bridegroom crowneth the bride in the North!” `III.3 ¶15` (QUOTED: the Adept, glossed by ATWOOD)
+  - **Plain (stated):** In darkness, when the head-centred ('cerebral') life is crucified and the dominance of the senses is subdued under the Divine Fiat, a Light arises 'about the summit', which, rightly returned and multiplied, becomes substantial in life.
+  - Basis: Atwood glosses the Adept's phrase immediately in III.3 ¶15: 'In the darkness of the North, out of the crucifixion of the cerebral life ... there arises a Light wonderfully about the summit'. What 'summit' denotes is not stated: see ambiguities.
+  - Also: “there arises a Light wonderfully about the summit, which, wisely returned and multiplied according to the Divine blessing, is made substantive in life” `III.3 ¶15`
+- **procedure** — “grownd together with the Water of Myght, Which beareth ingression of Lyfe and Light” `III.3 ¶16` (QUOTED: Pierce, the Black Monk)
+  - **Plain (interpreted):** Sublimed arsenic and calcined mercury (nine times its weight) are ground with the 'Water of Might', which the verse itself defines as carrying the entry of life and light; all runs to bright water, grows fixed on the fire, and is then fed 'with meat and bread' till strong. The chunk does not decode arsenic, mercury or the food.
+  - Basis: Paraphrase of III.3 ¶16 only; the gloss of the Water of Might is the verse's own.
+  - Also: “Alle runnyth to Water bright and schene” `III.3 ¶16`
+  - Also: “Then feed them forth with thine own Hand, With meat and bread, tyll they be strong” `III.3 ¶16`
+- **subject** — “Our golden water, says the adept, is not found in wells, nor in profundities, but in higher places” `III.3 ¶17` (QUOTED: the adept)
+  - **Plain (stated):** The 'golden water' is drawn from above, not below, because Mercury when ripe rises to her higher dwelling.
+  - Basis: III.3 ¶17 gives the reason: 'for Mercury, being ripe, arises to her superior habitation'. What 'higher places' means concretely is not stated: see ambiguities.
+  - Also: “so is ours taken from the higher parts of the world” `III.3 ¶17`
+- **result** — “thou art a Crowned King, resting over the Fountain and drawing from thence the Auripigment, dry without moisture” `III.3 ¶17` (QUOTED: the Hermetic Master)
+  - **Plain (interpreted):** Once 'the coal being extinct in life', the operator becomes a crowned king who draws a dry Auripigment from the Fountain, crowned with Sun and Moon. The chunk does not explain these images.
+  - Basis: Paraphrase of III.3 ¶17 only.
+  - Also: “who hast the Sun for thy Diadem and the Moon Crescent for thy Garland” `III.3 ¶17`
+- **procedure** — “Ce qi a ete attire doit etre cuit si long temps d’une certaine mainere de repetition” `III.3 ¶18` (QUOTED: Mystere de la Croix)
+  - **Plain (interpreted):** What has been drawn in must be cooked a long time by repetition until rainbow colours show and heavy drops fall to the bottom of the receiver like distilled mercury; it yields a remedy for eyes and epilepsy, and more 'if the Lord opens your eyes'. The work is called 'magnetic'.
+  - Basis: Our translation of III.3 ¶18.
+  - Also: “Cet ouvrage s’appelle Aimantique” `III.3 ¶18`
+- **stage** — “after the ashy colour, and the white, and the yellow, thou shalt behold the Stone” `III.3 ¶19` (QUOTED: Khunrath)
+  - **Plain (stated):** Colour sequence: ashy, then white, then yellow, then the Stone itself, figured as a King rising from a glass tomb in a glorified, regenerate body, like a shining carbuncle whose parts are inseparably united.
+  - Basis: III.3 ¶19 lists the colours in order and describes the result.
+  - Also: “go forth from the chamber of his glassy sepulcher, into this mundane sphere, in his glorified body” `III.3 ¶19`
+- **operator** — “they who sow in tears shall reap in joy” `III.3 ¶20` (ATWOOD)
+  - **Plain (stated):** The operator must re-enter freed, with prepared intellectual faith, mourning and consciously self-sacrificing, to overcome self-will even through death; then the life is converted to the virtue of its root and multiplies, and the Will 'springs up in Paradise'.
+  - Basis: Atwood's explanation of the Adepts' maxim in III.3 ¶20.
+  - Also: “to besiege the fortress of Self-Will in life, prevailing at length through death and every obstacle” `III.3 ¶20`
+  - Also: “according to the hermaphroditic virtue of its conceived Law” `III.3 ¶20`
+- **principle** — “Corpus solutum est aqua perennis congelans Mercurium perpetua congelatione.” `III.3 ¶21` (UNCLEAR)
+  - **Plain (interpreted):** The dissolved body is a perennial water that congeals Mercury perpetually. The chunk does not explain it further.
+  - Basis: Rests on our translation of III.3 ¶21 alone; unattributed (see ambiguities).
+- **impediment** — “he that saves his gold, that is to say, remains satisfied in the first fruits of his reason, loses his labour” `III.3 ¶22` (ATWOOD)
+  - **Plain (stated):** The 'gold' to be destroyed is the first product of one's reason; resting satisfied in it wastes the labour, while sacrificing it yields hundredfold increase.
+  - Basis: Explicit 'that is to say' gloss in III.3 ¶22.
+  - Also: “Never grudge, then, that thou hast destroyed thye gold” `III.3 ¶22`
+- **principle** — “by a contrition and fretting of their elementary particles, natures are transformed, and their bodies spiritualized and preserved by the assimilating must or leaven” `III.3 ¶23` (ATWOOD)
+  - **Plain (stated):** As seed corrupts before it springs up and ferment transforms, the natural body must first be broken down; the leaven then transforms and spiritualizes it. Natural comes first, spiritual after.
+  - Basis: III.3 ¶23 offers these analogies to answer 'how that which is destroyed should be capable of increase'.
+  - Also: “Purge out therefore the old leaven, that ye may be a new lump” `III.3 ¶23`
+- **agent** — “The Rational Light, once discovered and set in motion, actuates the Spirit” `III.3 ¶23` (ATWOOD)
+  - **Plain (stated):** Chain of action: the Rational Light moves the Spirit; the Spirit penetrates and overcomes the corporeal (identified as the sensual dominant) and absorbs it so that it is glorified and transfigured.
+  - Basis: III.3 ¶23: 'the Spirit, in its turn penetrating, overcomes the corporeal, which is the sensual dominant, in the regeneration'.
+- **stage** — “after putrefaction succeeds generation, and that because of the incombustible sulphur that heats or thickens the coldness and crudities of the quicksilver” `III.3 ¶24` (QUOTED: the Benedictine Monk)
+  - **Plain (stated):** After putrefaction comes generation: the incombustible sulphur works on the cold, crude quicksilver until they are made one body. The chunk does not decode sulphur or quicksilver here.
+  - Basis: III.3 ¶24: 'at last it is united to the sulphur and made one body therewith'.
+- **subject** — “contained in one vessel in their earthly vessel, i.e., in their gross body or composition” `III.3 ¶24` (QUOTED: the Benedictine Monk)
+  - **Plain (stated):** The vessel of the work is the gross body itself; fire, air and water are worked within it, in 'one alembic'.
+  - Basis: Explicit 'i.e.' gloss in III.3 ¶24.
+  - Also: “I take them and then I leave them in one alembic, where I decoct and sublime them” `III.3 ¶24`
+- **agent** — “For I have my heavenly fire, which excites and stirs up the elemental one” `III.3 ¶24` (QUOTED: the Benedictine Monk)
+  - **Plain (stated):** The working fire is not common fire but a 'heavenly' one that rouses the elemental fire as the matter desires a fitting Form. The chunk does not define it further.
+  - Basis: III.3 ¶24, contrasted with 'coals, smoke, or fire'.
+- **sign** — “the Light is made manifest in great darkness, viz., in the contrition or distress of the sensible nature in the conscience” `III.3 ¶24` (ATWOOD)
+  - **Plain (stated):** The 'great darkness' in which the Light appears is the contrition or distress of one's sensory nature felt in the conscience, accompanied by a distinct inner motion, in which (per Boehme) the Power of Christ comes.
+  - Basis: Explicit 'viz.' gloss in III.3 ¶24.
+  - Also: “even then, as Jacob Boehme says, cometh the Power of Christ in the midst of such a motion” `III.3 ¶24`
+- **principle** — “the property of the fire is a desiring, and thereby it attracteth the virtue of the Light unto itself, and maketh it an essence, viz., Water” `III.3 ¶24` (QUOTED: Jacob Boehme)
+  - **Plain (stated):** Fire, as desire, draws the Light's power into itself and condenses it into an essence called Water; the red fire-form (containing the virtue, sulphur) and the thin water-form (the desiring tincture) combine into 'Blood', whose warmth is life and from which the Thin Water of Life proceeds. An interjected remark (voice unclear) notes an analogy in common chemistry, which condenses light into a fluid form.
+  - Basis: III.3 ¶24 (Boehme) gives these identities with 'viz.' and 'which is'.
+  - Also: “It cometh forth from anguish into the meekness of the light” `III.3 ¶24`
+  - Also: “both of which contracting together into one, are converted into Blood” `III.3 ¶24`
+- **result** — “the true Spirit which is born of the Soul, wherein is the Image of God, and the Divine Virgin of God’s wisdom consisteth” `III.3 ¶24` (QUOTED: Jacob Boehme; endorsed by ATWOOD)
+  - **Plain (stated):** The product is a Spirit born of the Soul that holds all understanding and can enter God if it gives up its own will ('the cunning fire of its own soul'), being then clothed with Divine Essentiality. Atwood adds that this Essentiality qualifies and sanctifies the true Adept and is the material of the Corner-Stone linking reason to Divinity.
+  - Basis: III.3 ¶24 (Boehme): 'casting away the cunning fire of its own soul, putteth its will into God; then it dwelleth with Him in power, and is clothed with the Divine Essentiality'; Atwood: 'It is this material of the Corner-Stone which links reason to Divinity'.
+  - Also: “casting away the cunning fire of its own soul, putteth its will into God” `III.3 ¶24`
+  - Also: “And this Essentiality it is which qualifies the true Adept” `III.3 ¶24`
+
+## Terms
+
+- **First Matter** — Named in the chapter heading as what is manifested and 'informed' by Light; not otherwise defined in this chunk. (ATWOOD)
+  - “Of the Manifestation of the First Matter, and its Information by Light.” `III.3 ¶1`
+- **Vital Spirit** — That which, purified through sacrifice of foreign attractions, revolves about its center with active and passive power united, about to generate its fullness. (ATWOOD)
+  - “the Vital Spirit theurgically purified and freed through sacrifice of all foreign attractions” `III.3 ¶3`
+- **Vital Principles** — Principles that subsist even in their extreme separation by Art. (ATWOOD)
+  - “His marvelous subsistence of the Vital Principles in their extreme separation by Art” `III.3 ¶9`
+- **hypostasis** (also: hypostatic) — 'Hypostatic union' of active and passive power in the Vital Spirit; 'hypostatic principles' of attraction, repulsion and circulation; a 'new hypostasis' is created out of darkness at the Soul's return. (ATWOOD)
+  - “the hypostatic principles of attraction and repulsion and circulation” `III.3 ¶9`
+  - “a new hypostasis is created out of the darkness to abide” `III.3 ¶10`
+- **Tears of Isis** — The blessed Water nature sheds, contemplated in the vestibule of the first Adytum. (ATWOOD)
+  - = blessed Water: “the Tears of Isis, even that blessed Water which nature sheds divinely for the world” `III.3 ¶3`
+- **Adytum** — Sanctuary approached; the first one has a vestibule where the Tears of Isis are contemplated. (ATWOOD)
+  - “to the gate of the first Adytum” `III.3 ¶3`
+- **threefold secret** — Bringing attraction, repulsion and circulation into equilibrium in the ethereal bond. (ATWOOD)
+  - “great care and diligence is needed at this juncture to apply the threefold secret of the Art” `III.3 ¶9`
+- **Chaos** — The 'new Chaos' of universal nature that appears unfolded and separated when the process is rightly done. (QUOTED: Khunrath)
+  - “the new Chaos of the Universal Nature” `III.3 ¶9`
+- **Azoth** — Something to be touched and seen which, with internal and external fire, suffices for the Stone. (QUOTED: Khunrath)
+  - = The Universal: “thou shalt see Azoth! The Universal!” `III.3 ¶9`
+- **Olympic Fire** — A fire with which the internal and external fire must be in sympathy; not defined. (QUOTED: Khunrath)
+  - “in harmonious sympathy with the Olympic Fire” `III.3 ¶9`
+- **Passive Spirit** — Spoken of as 'herself'; by returning faith and desire it draws the Soul back into itself at the extreme of tribulation. (ATWOOD)
+  - “the returning faith and desire of the Passive Spirit attracts the Soul again into herself” `III.3 ¶10`
+- **magnetic** — Atwood's 'chain of the magnetic series' moves when the Soul is drawn back into the Passive Spirit. (ATWOOD)
+  - “the first link in the chain of the magnetic series moves” `III.3 ¶10`
+- **Aimantique** — Name the cited French source gives to the work of repeated cooking until the rainbow colours and heavy drops appear ('magnetic', our translation). The chunk does not link it to Atwood's 'magnetic series' (III.3 ¶10). (QUOTED: Mystere de la Croix)
+  - “Cet ouvrage s’appelle Aimantique” `III.3 ¶18`
+- **Divine Fiat** — Divine command that blesses the union of Soul and Passive Spirit; the sensual dominant is occultated and subdued in it. (ATWOOD)
+  - “the Divine Fiat comes mercifully to bless the union” `III.3 ¶10`
+  - “when the sensual dominant is occultated in the Divine Fiat and subdued” `III.3 ¶15`
+- **ether** (also: ethereal) — The 'ethereal bond' in which the three principles are balanced (¶9); the 'liquid crystal of the understanding ether' in which the fiery soul is held and its light shines (¶10); the 'simple Understanding of its ether', identified with non-being, to which Thought unites (¶15). ¶13 also uses 'apparent ether' of the sky. (ATWOOD)
+  - = non-being: “unites itself to the non-being, or simple Understanding of its ether” `III.3 ¶15`
+  - “the liquid crystal of the understanding ether” `III.3 ¶10`
+  - “in the ethereal bond” `III.3 ¶9`
+- **solar sulphur** (also: souphre solaire) — Drawn by subtle operations from the vitriol left after the conjunction of Mars and Venus. (QUOTED: Mystere de la Croix)
+  - = living philosophic gold: “un souphre solaire ou or philosophique vivant” `III.3 ¶11`
+- **conjunction** (also: Conjonction) — The union (of Mars and Venus, ¶11) during which a spirituous vapour rises; in ¶13 its 'various hours' bring Darkness, Saturn, the Head of the Crow. (ATWOOD)
+  - “in the various hours of conjunction” `III.3 ¶13`
+- **Head of the Crow** — Listed with Darkness, Night, Saturn, the Antimony of the Wise and Obscurity as present in the hours of conjunction; not defined. (ATWOOD)
+  - “Obscurity and the Head of the Crow in the various hours of conjunction” `III.3 ¶13`
+- **Antimony of the Wise** — Listed among the dark presences of conjunction; not defined. (ATWOOD)
+  - “Night, Saturn and the Antimony of the Wise will be present” `III.3 ¶13`
+- **tail of the peacock** — With Iris, the appearance of all colours after darkness; a token of reconciliation. (ATWOOD)
+  - “all the colours of the world will be apparent; also Iris, God’s messenger, and the tail of the peacock” `III.3 ¶13`
+- **Microcosmic Heaven** — Where the rainbow-token of reconciliation appears, by analogy with the sky after storm. (ATWOOD)
+  - “the same beautiful token of reconciliation is made apparent in the Microcosmic Heaven” `III.3 ¶13`
+- **cross** (also: cruce) — Under which all is sown and fire and water fall together and germinate; under it true Wisdom comes (¶14, our translation); linked to the 'crucifixion of the cerebral life'. (ATWOOD)
+  - “All is sown under the cross and completed in its number” `III.3 ¶13`
+  - “out of the crucifixion of the cerebral life” `III.3 ¶15`
+- **marriage** (also: nuptials) — Union of Mind and Universe: solitary Thought uniting with the simple Understanding of its ether; prefigured by ancient mythic marriages. (ATWOOD)
+  - = union of Mind and Universe (Mentis et Universi): “This is the union supersentient, the nuptials sublime, Mentis et Universi” `III.3 ¶15`
+  - “the bridegroom crowneth the bride in the North” `III.3 ¶15`
+- **sensual dominant** — The dominance of the senses, subdued in the Divine Fiat and overcome by Spirit in regeneration; identified with the corporeal. (ATWOOD)
+  - = the corporeal: “overcomes the corporeal, which is the sensual dominant, in the regeneration” `III.3 ¶23`
+  - “when the sensual dominant is occultated in the Divine Fiat and subdued” `III.3 ¶15`
+- **Water of Myght** — Water with which sublimed arsenic and calcined mercury are ground; carries the entry of life and light into them. (QUOTED: Pierce, the Black Monk)
+  - “the Water of Myght, Which beareth ingression of Lyfe and Light” `III.3 ¶16`
+- **golden water** — The adept's water, taken from higher places, not wells, as ripe Mercury rises. (QUOTED: the adept)
+  - “Our golden water, says the adept, is not found in wells, nor in profundities, but in higher places” `III.3 ¶17`
+- **Mercury** (also: mercure, Mercurium) — Feminine ('her'); when ripe rises to her superior habitation; in ¶16 calcined with arsenic; in ¶21 congealed by the dissolved body (our translation). (QUOTED: the adept)
+  - “for Mercury, being ripe, arises to her superior habitation” `III.3 ¶17`
+- **Auripigment** — Drawn dry without moisture from the Fountain by the Crowned King; not defined. (QUOTED: the Hermetic Master)
+  - “drawing from thence the Auripigment, dry without moisture” `III.3 ¶17`
+- **Stone** (also: Philosopher’s Stone, Stone oft eh Philosophers) — The consummation; speaks of itself as earth-bodied and fire-empowered (¶8, our translation); appears after ashy, white and yellow as a glorified King, a shining carbuncle. (QUOTED: Khunrath)
+  - = our King: “thou shalt behold the Stone oft eh Philosophers; our King and Lord of hosts go forth” `III.3 ¶19`
+  - “as a shining carbuncle, most temperate in splendour” `III.3 ¶19`
+- **Corpus solutum** — The dissolved body, said to be a perennial water congealing Mercury (our translation only). (UNCLEAR)
+  - = aqua perennis (perennial water): “Corpus solutum est aqua perennis congelans Mercurium perpetua congelatione.” `III.3 ¶21`
+- **gold** — What must be destroyed as seed to be multiplied; saving it means resting in the first fruits of reason. (ATWOOD)
+  - = first fruits of his reason: “he that saves his gold, that is to say, remains satisfied in the first fruits of his reason” `III.3 ¶22`
+- **leaven** — The assimilating ferment by which bodies are transformed, spiritualized and preserved; the old leaven is to be purged. (ATWOOD)
+  - = must: “preserved by the assimilating must or leaven” `III.3 ¶23`
+  - “Purge out therefore the old leaven, that ye may be a new lump” `III.3 ¶23`
+- **Rational Light** — Once discovered and set in motion, actuates the Spirit, which then overcomes the corporeal. (ATWOOD)
+  - “The Rational Light, once discovered and set in motion, actuates the Spirit” `III.3 ¶23`
+- **earthly vessel** — The vessel containing fire, air and water in the work. (QUOTED: the Benedictine Monk)
+  - = gross body or composition: “in their earthly vessel, i.e., in their gross body or composition” `III.3 ¶24`
+- **heavenly fire** — The Monk's fire, which excites the elemental fire as the matter desires a fitting Form; contrasted with coals and common fire. (QUOTED: the Benedictine Monk)
+  - “For I have my heavenly fire, which excites and stirs up the elemental one” `III.3 ¶24`
+- **sulphur** — Monk: the incombustible sulphur heats or thickens the cold, crude quicksilver until they are one body. Boehme: the virtue in the red fire-form. (QUOTED: the Benedictine Monk; Jacob Boehme)
+  - = the virtue (of the red fire-form): “which is red, and therein the virtue, viz., sulphur is” `III.3 ¶24`
+  - “the incombustible sulphur that heats or thickens the coldness and crudities of the quicksilver” `III.3 ¶24`
+- **contrition** — Distress of the sensible nature in the conscience, the 'great darkness' where Light appears; the flinty conscience feels it only by fiery steel; also the fretting of particles in fermentation. (ATWOOD)
+  - = great darkness: “the Light is made manifest in great darkness, viz., in the contrition or distress of the sensible nature in the conscience” `III.3 ¶24`
+  - “feels no contrition, but by the fiery well-tempered steel” `III.3 ¶11`
+- **tincture** — The noble tincture arising in the light, coming forth from anguish into meekness; the thin water-form is 'the desiring tincture'. (QUOTED: Jacob Boehme)
+  - = water: “is water, which is the desiring tincture” `III.3 ¶24`
+  - “It cometh forth from anguish into the meekness of the light” `III.3 ¶24`
+- **Water** — In Boehme: the essence that desiring fire makes of the Light's virtue. (QUOTED: Jacob Boehme)
+  - = essence (of the Light's virtue): “maketh it an essence, viz., Water” `III.3 ¶24`
+- **Blood** — What the red fire-form and the thin water-form become when contracted into one; its original, fire, its warmth, is life; from that warmth the Thin Water of Life proceeds. (QUOTED: Jacob Boehme)
+  - “both of which contracting together into one, are converted into Blood” `III.3 ¶24`
+  - “the original in the blood, viz., fire, which is its warmth, is life” `III.3 ¶24`
+- **Thin Water of Life** — Proceeds in the virtue of the warmth (fire) in the blood. (QUOTED: Jacob Boehme)
+  - “in the virtue of the warmth, the Thin Water of Life proceedeth” `III.3 ¶24`
+- **Divine Essentiality** (also: Essentiality) — That with which the resigned Spirit is clothed; it qualifies and sanctifies the true Adept. (ATWOOD)
+  - = material of the Corner-Stone: “It is this material of the Corner-Stone which links reason to Divinity” `III.3 ¶24`
+  - “And this Essentiality it is which qualifies the true Adept” `III.3 ¶24`
+
+## Sources cited
+
+- **Book of Enoch**, *Book of Enoch, c. xl., v. 1.* — “Wisdom is poured forth like water, and glory faileth not before Him for ever.” `III.3 ¶2` — Epigraph: wisdom as water.
+- **Vaughan**, *Coelum Terrae* — “In chains of liquid pearl did fall” `III.3 ¶4, III.3 n1, III.3 n14` — Illustrates: Hyanthe's tears as the shed Water (Tears of Isis); also the work in which the Benedictine Monk (Mehung) passage is cited.
+- **Theatrum Chemicum**, *Theatrum Chemicum, vol. 3, p. 763* — “Terra mihi corpus, vires mihi praestitit ignis” `III.3 ¶8, III.3 n2` — Supplies the 'Prosopoiae of the Stone', called 'instructive' and 'elegant'.
+- **Khunrath**, *Amph. Sap. Etern.* — “Seek Three in One, and again seek One in Three, dissolve, congeal” `III.3 ¶9, III.3 n3, III.3 ¶19, III.3 n11` — Supports: threefold secret, separation, no manual labour, Azoth; and the colour sequence ending in the glorified Stone.
+- **the adept (unnamed)** — “Lux manifeste et visibilis ad oculum” `III.3 ¶10` — Supports: the Light becoming visible and subject to the artist.
+- **Mystere de la Croix**, *Mystere de la Croix, chap. 13 (n10 spells 'Mystere de la Crois')* — “Cet ouvrage s’appelle Aimantique” `III.3 ¶11, III.3 n4, III.3 ¶18, III.3 n10` — Supports: conjunction of Mars and Venus yielding solar sulphur; repeated cooking until rainbow colours; the magnetic work.
+- **Orpheus Eucharisticus**, *Orpheus Eucharisticus Emblema LVI. --- Apodosis.* — “Cui scelerum viru mens moribunda tumet” `III.3 ¶11, III.3 ¶12, III.3 n5` — Supports: the corrupt mind cannot draw the healthful waters.
+- **the ancients** — “This is the marriage, by the ancients so many times prefigured” `III.3 ¶15` — Illustrates: Peleus and Thetis, Earth and Heaven, Bacchus and Ariadne, Jason with Medea as prefigurations of the union of Mind and Universe.
+- **the Adept (unnamed)** — “the bridegroom crowneth the bride in the North!” `III.3 ¶15` — Glossed by Atwood as the Light arising out of the crucifixion of cerebral life.
+- **Pierce, the Black Monk**, *on the Elixir* — “In Arsenic sublimed there is a way straight” `III.3 ¶16, III.3 n6` — Illustrates: verse recipe for the Stone with the Water of Might.
+- **the adept (unnamed)**, *Mercury’s Caducean Rod* — “Our golden water, says the adept, is not found in wells” `III.3 ¶17, III.3 n7` — Supports: the water is taken from higher places.
+- **Proverbs of Solomon**, *Proverbs of Solomon, iv, 8, 9.* — “Exalt her, and she shall promote thee” `III.3 ¶17, III.3 n8` — Applied to Mercury/the water: exalted, she crowns.
+- **the Hermetic Master**, *Tract. Aur., cap. 2, and Ripley Revived* — “henceforth thou art a Crowned King, resting over the Fountain” `III.3 ¶17, III.3 n9` — Supports: the accomplished operator crowned.
+- **the Adepts** — “they who sow in tears shall reap in joy” `III.3 ¶20` — Maxim Atwood expands into the sacrifice of Self-Will.
+- **Eirenaeus**, *Ripley Revived, pp. 108, 198.* — “Never grudge, then, that thou hast destroyed thye gold” `III.3 ¶22, III.3 n12` — Supports: destruction of gold as sowing seed for increase; glossed as the first fruits of reason.
+- **the Apostle**, *1 Corinthians, 15: 6,7.; 1 Corinthians 15: 42, etc.* — “that which is sown is not the body that shall be, but mere grain” `III.3 ¶23, III.3 n13, III.3 ¶24, III.3 n17` — Answers how what is destroyed increases: law of resurrection, natural then spiritual body, leaven; closing 'sown in corruption'.
+- **the Benedictine Monk**, *Mehung in Vaughan’s Coelum Terrae, p. 122.* — “For I have my heavenly fire, which excites and stirs up the elemental one” `III.3 ¶24, III.3 n14` — Supports: solve et coagula, the gross body as vessel, the heavenly fire, work without tools.
+- **Jacob Boehme**, *Boehme’s Turned Eye, Quest. 37.* — “It cometh forth from anguish into the meekness of the light” `III.3 ¶24, III.3 n16` — Supports: Christ's power in the motion of contrition; tincture; fire drawing Light into Water; Blood; the Spirit born of the Soul entering God.
+- **Hermes**, *cap. 7.* — “the sure quality of the golden m,atter and the nature thereof is not sweetness” `III.3 n15` — Footnote to Boehme's 'mortifying anguish': the golden matter's quality is not sweetness.
+
+## Ambiguities
+
+- “carrying along with us the body of our Sphinx, subdued and contrite” `III.3 ¶3`
+  - Reading: The operator's own bodily/sensual nature, brought along subdued.
+  - Reading: The matter or subject of the work carried into the next stage.
+  - Basis: Reading 1: 'subdued and contrite' parallels the sensual dominant 'subdued' (III.3 ¶15) and contrition of the conscience (III.3 ¶24). Reading 2: III.3 ¶3 stresses experience 'in substance'.
+- “experience there was present with power and effect in substance to bear it witness” `III.3 ¶3`
+  - Reading: The Water is physically substantial.
+  - Reading: The experience is real and effective but inward.
+  - Basis: Reading 1: III.3 ¶9 'With thy hands thou shalt touch, and with thy eyes thou shalt see Azoth'; III.3 ¶10 'visibilis ad oculum'. Reading 2: III.3 ¶24 places the Light in the contrition of the conscience.
+- “Seek Three in One, and again seek One in Three, dissolve, congeal” `III.3 ¶9`
+  - Reading: The three are body, soul and spirit, alternately separated and reunited.
+  - Reading: The three are the hypostatic principles of attraction, repulsion and circulation.
+  - Basis: Reading 1: same paragraph 'the regeneration of the three principles --- body, soul and spirit'. Reading 2: the formula follows directly on the threefold secret of attraction, repulsion and circulation in III.3 ¶9.
+- “the animated spirit cannot be conjoined to the body, nor, in the other hand, will the body be reunited to the spirit” `III.3 ¶9`
+  - Reading: A warning that spirit and body cannot simply be rejoined, at least not before the separation is rightly done.
+  - Reading: A garbled or condensed statement, in tension with the reunion of Soul in III.3 ¶10 and with 'dissolve, congeal'.
+  - Basis: III.3 ¶9 introduces it with 'most carefully to observe' and follows with 'Which process, however, being rightly gone through'; III.3 ¶10 describes the Soul drawn back into the Passive Spirit; the chunk does not reconcile them.
+- “a triune furnace spherically round” `III.3 ¶11`
+  - Reading: A physical apparatus.
+  - Reading: The threefold human being (body, soul and spirit).
+  - Basis: Reading 1: 'furnace' paired with 'experimenting' in III.3 ¶11. Reading 2: three principles body, soul and spirit (III.3 ¶9); the vessel is the 'gross body' and no manual labour is used (III.3 ¶24, ¶9).
+- “If the horse’s strength be yet denied, in vain he will strike upon the mountain” `III.3 ¶11`
+  - Reading: The 'spiritual aid' just mentioned, without which the artist cannot make the matter appear.
+  - Reading: The force of contrition (the 'fiery well-tempered steel') needed to strike the 'flinty conscience'.
+  - Basis: Both in the same passage of III.3 ¶11; the chunk does not explain the horse.
+- “there arises a Light wonderfully about the summit” `III.3 ¶15`
+  - Reading: The head, given 'the crucifixion of the cerebral life' just before.
+  - Reading: The summit or culmination of the work, not a bodily location.
+  - Basis: Reading 1: 'cerebral life' in the same sentence; cf. 'higher places' (III.3 ¶17). Reading 2: the text says only 'summit'.
+- “is not found in wells, nor in profundities, but in higher places” `III.3 ¶17`
+  - Reading: Literal high locations.
+  - Reading: The head/upper part of the person, matching the Light 'about the summit' and 'cerebral life'.
+  - Basis: Reading 1: the Canary Islands tree-top analogy in III.3 ¶17. Reading 2: III.3 ¶15.
+- “Corpus solutum est aqua perennis congelans Mercurium perpetua congelatione.” `III.3 ¶21`
+  - Reading: Unattributed maxim cited in support.
+  - Reading: Atwood's own Latin summary.
+  - Basis: Set off as its own paragraph with no attribution or footnote.
+- “Whereas he that saves his gold, that is to say, remains satisfied in the first fruits of his reason” `III.3 ¶22`
+  - Reading: Atwood's own gloss following the cited Eirenaeus sentence.
+  - Reading: Continuation of Eirenaeus.
+  - Basis: Footnote marker (12) closes the Eirenaeus sentence before 'Whereas', favouring reading 1; no quotation marks either way.
+
+## Translations
+
+- `III.3 ¶5` “Ite profani! Fanum estfanum” → Begone, profane ones! The shrine is a shrine. *(ours)*
+- `III.3 ¶6` “Nihil ingreditur profanum.” → Nothing profane enters. *(ours)*
+- `III.3 ¶8` “In nominee Dei viventis et vivificantis. Terra mihi corpus, vires mihi praestitit ignis: Alta domus quareo, sedes est semper in imo: Et me perfundit dqui me cito deserit humor...” → In the name of the living and life-giving God. Earth is my body, fire has given me my powers; I seek a high house, my seat is always at the bottom; and the moisture that quickly deserts me pours through me... (reading 'quareo' as 'quaero' and 'dqui' as 'qui') *(ours)*
+- `III.3 ¶9` “motum in te, experis internum et pro gaudio, lachrymabis!” → you will experience an inner motion in yourself, and you will weep for joy! *(ours)*
+- `III.3 ¶10` “Lux manifeste et visibilis ad oculum” → Light manifest and visible to the eye *(ours)*
+- `III.3 ¶11` “Mars et Venus, ou plutot mars par Venus, en fait une fort noble medicine et precieuse, qui a le grain fixe solaire; et ces deux font ensemble le marriage si celebre aupres des amaters de la sagesse:pendant leur Conjonction, il s’eleve une vapeur tres spirituesuse et necessaire a un grand ouvrage: ilffaut prendre cette vapeur avec des filets bien subtils: dans le reste on trouve un vitriol bien beau, don’t on tire par des operations fort subtiles et de difficulte decouverte, un souphre solaire ou or philosophique vivant” → Mars and Venus, or rather Mars by Venus, make of it a very noble and precious medicine, which has the fixed solar grain; and these two together make the marriage so celebrated among lovers of wisdom: during their Conjunction a very spirituous vapour rises, necessary to a great work; this vapour must be caught with very subtle nets: in the remainder is found a very fine vitriol, from which, by very subtle operations difficult to discover, is drawn a solar sulphur or living philosophic gold. *(ours)*
+- `III.3 ¶11` “Haud licet laitces haurire salubres” → He may not draw the healthful waters (reading 'laitces' as 'latices'; uncertain) *(ours)*
+- `III.3 ¶12` “Cui scelerum viru mens moribunda tumet...” → whose dying mind swells with the venom of crimes... *(ours)*
+- `III.3 ¶14` “In cruce sub sphera venit Sapientia vera.” → In the cross, beneath the sphere, true Wisdom comes. *(ours)*
+- `III.3 ¶15` “Mentis et Universi” → of Mind and of the Universe *(ours)*
+- `III.3 ¶16` “In Arsenic sublimed there is a way straight, Wyth Mercury calcined, nyne tymes hys weight, And grownd together with the Water of Myght, Which beareth ingression of Lyfe and Light. And anon, as thye together byne, Alle runnyth to Water bright and schene; Upon this fire they grow together Till they be fast and flee no whyther: Then feed them forth with thine own Hand, With meat and bread, tyll they be strong, And thou shalt have a good Stone” → In sublimed arsenic there is a straight way, with calcined mercury nine times its weight, ground together with the Water of Might, which carries the entry of Life and Light. And as soon as they are together, all runs to water bright and shining; upon this fire they grow together till they are fixed and fly nowhere; then feed them with your own hand, with meat and bread, till they are strong, and you shall have a good Stone. *(ours)*
+- `III.3 ¶18` “Ce qi a ete attire doit etre cuit si long temps d’une certaine mainere de repetition, jusqu’a ce qu’il montre les couleurs de l’arc en ciel; signe de grace et de reconciliation; et que les goutes pesantes tombent dans le fond du vase recipient; quasi comme un mercure commun distille: ce qui vous donnera un Ophtalmique et Antiepileptique merveilleux; et meme quelque chose de plus si le Seigneur vous ouvre les yeux. Cet ouvrage s’appelle Aimantique” → What has been drawn in must be cooked a long time by a certain manner of repetition, until it shows the colours of the rainbow, sign of grace and reconciliation, and the heavy drops fall to the bottom of the receiving vessel, almost like a distilled common mercury: which will give you a marvellous ophthalmic and anti-epileptic, and even something more if the Lord opens your eyes. This work is called Magnetic. *(ours)*
+- `III.3 ¶21` “Corpus solutum est aqua perennis congelans Mercurium perpetua congelatione.” → The dissolved body is a perennial water congealing Mercury with a perpetual congelation. *(ours)*
+- `III.3 ¶24` “Solve et Coagula” → Dissolve and Coagulate *(book)*
+
+## Threads
+
+- `III.3 ¶3` 'as we have shown': an earlier demonstration that not all was vaporous vision or mere ideality, but experience present in substance.
+- `III.3 ¶9` The subsistence of the Vital Principles in their extreme separation by Art 'has been already noticed, and will be in the Practice more particularly hereafter' (back-reference and forward reference to the Practice).

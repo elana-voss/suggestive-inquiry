@@ -1,0 +1,269 @@
+# II.1_05
+
+*Atwood moves from the Kabalists' doctrine of man as containing the divine prototype, through Philo, Hermes, Solomon and the Platonists on Wisdom, to her thesis that the ancient Wisdom was the fruit of an inward 'vital experiment into nature' worked by sacred arts and rites; she turns from outward physical search to self-knowledge and proposes to recover that concealed experiment.*
+
+## Argument
+
+- Kabalists give man the supreme place. Ben Jochai: the Form of man contains all in heaven and earth; no world before the human prototype. The true man differs from the apparent; that form in man, the Celestial Prototype, makes man God's image. `II.1 ¶42, II.1 n38` — QUOTED: Rabbi Ben Jochai
+- Divine ideas differ from imagination's idols; apparent man, 'multiplication of a blind will', differs from the Motive Reason which is his life. Man contains the total Cause of existence and, given revelation, could perceive all within himself. These writers speak from conviction. `II.1 ¶42` — ATWOOD
+- Philo: God dwells in man's rational part as in a temple; the Logos is the seal of all things, the soul its impression. `II.1 ¶43, II.1 n39, II.1 n40` — QUOTED: Philo
+- Hermes: Wisdom is the good, fair, blessed Eternity; Mind in men is God, and some men are divine where humanity is annexed to divinity, when moved into the catholic Intuition of its Source. `II.1 ¶43, II.1 n41` — QUOTED: Hermes
+- Wisdom is the standard of truth in a rectified intellect; philosophy, reason's appetition for its antecedent light. Wisdom is an operative hypostasis sustaining all (the Stagyrite); Solomon: pure, all-pervading, entering holy souls to make prophets. `II.1 ¶44, II.1 n42` — ATWOOD
+- The outer man, senses and servile intellect dark, is left to calcine, weigh and measure matter; when that fails, extremes may meet. `II.1 ¶45` — ATWOOD
+- Atwood looks within, asking the ancients for the method and conditions of Self-Knowledge: not trance or vision, but true, catholic psychical experience. `II.1 ¶46` — ATWOOD
+- The Light of Alchemy requires inquiring into this experience's practical evolution. Alchemists propose reducing nature to reveal 'this Latex', destroying only the modal life, not her vehicle, and claim to have developed the Recreative Force. But they disguised the immediate efficient, the fire's direction, laboratory and vessels. Geber: men thought the confection of 'fold' (gold?) impossible, ignorant of the artificial destruction according to nature. `II.1 ¶47, II.1 ¶48, II.1 n43` — ATWOOD
+- Causal Truth lies in a deep well: one must ascend in thought to penetrate, descending, to superstantial experience. The true light, fountain of Universal Nature, is imprisoned, cut off by the senses' outward attraction. `II.1 ¶49` — ATWOOD
+- The philosopher: the purified soul recollects what embodiment made it forget. Plutarch: senses and passions reduce the Divine to a confused dream; freed, God leads. Rites fit the aspirant to know the Supreme Mind, whose temple is Reason, approached in sanctity of life. `II.1 ¶50, II.1 n44, II.1 n45` — QUOTED: the philosopher; Plutarch
+- Psellus: only material Rites strengthen the soul's vehicle; the soul cannot rise unaided but is led by divine illumination. Plato calls Zoroaster's magic the service of the gods. Synesius and Julian: Divine Works are needed for Divine union. `II.1 ¶51, II.1 ¶52` — QUOTED: Psellus; Plato; Synesius; Julian
+- These and the Eleusian accounts confirm Wisdom was the offspring of a vital experiment into nature, arts and media bringing the central efficient into conscious being. Archytas: right investigation makes discovery easy. `II.1 ¶52` — ATWOOD
+- The Initiated kept the means secret; ignorant of the method, we can neither test, accept nor deny the ancients. Atwood proposes recovering the ancient experiment, an entrance to the shut palaces of Mind, by descending into ourselves. `II.1 ¶53` — ATWOOD
+- After the Hebrews, spontaneous revelation ceased; the Platonic Successor says Jupiter gave Sacred Arts instead. A soul allied to antecedent realities may feel reminiscence; its road leads to its Native Land. `II.1 ¶53, II.1 n46` — ATWOOD
+
+## Method
+
+- **subject** — “on that form in man, which is the Celestial Prototype, rests the perfection of faith in all things” `II.1 ¶42` (QUOTED: Rabbi Ben Jochai)
+  - **Plain (interpreted):** Within man there is an archetypal form (the 'true man', distinct from the apparent man) which contains all things and is what makes man the image of God.
+  - Basis: II.1 ¶42: 'we must distinguish the true man from him who is here apparent' immediately precedes the Celestial Prototype clause; 'The Form of man ... contains all that is in the heaven and earth'. Identity of 'true man' with the Celestial Prototype is inferred from adjacency.
+  - Also: “But we must distinguish the true man from him who is here apparent” `II.1 ¶42`
+  - Also: “no form, no world, could exist before the human prototype” `II.1 ¶42`
+- **principle** — “within himself the total Cause of existence” `II.1 ¶42` (ATWOOD)
+  - **Plain (stated):** Because man exists, he holds within himself the whole cause of existence, and so could in principle know everything by perceiving what is in himself, if revelation were permitted.
+  - Basis: II.1 ¶42 states this directly.
+  - Also: “perceive and understand all, in that all-continental All which is in himself” `II.1 ¶42`
+- **agent** — “tat Motive Reason which is his life” `II.1 ¶42` (ATWOOD)
+  - **Plain (stated):** Man's real life is a moving, self-acting reason, contrasted with man as known here, the multiplied product of a blind will.
+  - Basis: II.1 ¶42 sets 'man as he is here known, the individualized multiplication of a blind will' against 'Motive Reason which is his life'.
+- **subject** — “God dwells, says the Jew Philo, in the rational part of man as in a palace” `II.1 ¶43` (QUOTED: Philo)
+  - **Plain (stated):** The seat of the divine in man is his rational/intellectual part.
+  - Basis: II.1 ¶43 (Philo) and II.1 ¶50 ('this Reason is her temple wherein the Eternal Self-existent dwells').
+  - Also: “the palace and temple of the great self-existent Deity is the intellectual portion of a man of Wisdom” `II.1 ¶43`
+  - Also: “For this Reason is her temple wherein the Eternal Self-existent dwells” `II.1 ¶50`
+- **principle** — “the soul of man is an impression of this seal of which the prototype and original characteristic is the everlasting Logos” `II.1 ¶43` (QUOTED: Philo)
+  - **Plain (stated):** The soul is stamped from the Logos, the pattern by which the world was made.
+  - Basis: II.1 ¶43: 'the Logos, by whom the world was framed, is the seal after the impression of which everything is made'.
+- **result** — “this Mind in men is God, and, therefore, are some men said to be divine, for there humanity is annexed to divinity” `II.1 ¶43` (QUOTED: Hermes)
+  - **Plain (interpreted):** Men become divine where the Mind in them is joined to divinity, which happens when that Mind is moved into intuition of its source.
+  - Basis: II.1 ¶43: the clause 'when it is moved into the catholic Intuition of its Source' is attached to the statement; whether it is Hermes' or Atwood's is unclear (see ambiguities).
+  - Also: “when it is moved into the catholic Intuition of its Source” `II.1 ¶43`
+- **result** — “namely, the standard of truth in a rectified intellect” `II.1 ¶44` (ATWOOD)
+  - **Plain (stated):** Wisdom, the goal of ancient science, is a corrected (rectified) intellect that serves as the measure of truth; history and observing nature's accidents cannot produce it.
+  - Basis: II.1 ¶44: 'Such then was Wisdom ... namely, the standard of truth in a rectified intellect'.
+  - Also: “Intellect does not extend herself towards the intelligible Cause in vain” `II.1 ¶44`
+- **principle** — “an appetition of reason for its antecedent light” `II.1 ¶44` (ATWOOD)
+  - **Plain (stated):** Philosophy is reason's desire for the light that precedes and grounds it.
+  - Basis: II.1 ¶44: 'philosophy was a desire of this kind, an appetition of reason for its antecedent light'.
+- **agent** — “an affirmative operative hypostasis, informing, invigorating, and sustaining all things” `II.1 ¶44` (ATWOOD)
+  - **Plain (stated):** Wisdom is a real, active power that forms and sustains everything, not an abstraction of the imagination.
+  - Basis: II.1 ¶44 states this of Wisdom 'in the ancient tradition'; Solomon's description follows.
+  - Also: “she passeth through all things by reason of her pureness” `II.1 ¶44`
+  - Also: “being but one, she can do all things, and, remaining in herself, she maketh all things new” `II.1 ¶44`
+  - Also: “what is richer than wisdom which worketh al things?” `II.1 ¶44`
+- **operator** — “in all ages entering into holy souls, she maketh them friends of God and prophets” `II.1 ¶44` (QUOTED: Solomon)
+  - **Plain (interpreted):** Wisdom enters only pure ('holy') souls and makes them prophets; nothing defiled can enter her.
+  - Basis: II.1 ¶44: 'therefore, can no defiled thing fall into her'; 'God loveth none but him that dwelleth with Wisdom'. Reading as a purity requirement on the operator is inferred.
+  - Also: “therefore, can no defiled thing fall into her” `II.1 ¶44`
+- **impediment** — “with his senses and servile intellect all dark within” `II.1 ¶45` (ATWOOD)
+  - **Plain (stated):** The outer, sense-bound man and his outward experiments (calcining, weighing, measuring matter) cannot reach the secret; Atwood sets that route aside.
+  - Basis: II.1 ¶45 leaves the outer man 'to work with his own instruments'; II.1 ¶46 says many 'foundered' seeking in the outer world.
+  - Also: “there to calcine, weight, and measure circumferences, from the first to the last round of material possibility” `II.1 ¶45`
+  - Also: “seek not at random any longer in the outer world where so many before have foundered” `II.1 ¶46`
+- **procedure** — “we look within” `II.1 ¶46` (ATWOOD)
+  - **Plain (stated):** The search is directed inward, toward self-knowledge, guided by the ancients' instructions on its method and conditions.
+  - Basis: II.1 ¶46: 'inquire of the wise ancients to direct us about the true method and conditions of Self-Knowledge'; II.1 ¶53 'Let us descend into ourselves'.
+  - Also: “Let us descend into ourselves, and believe in ourselves if we be able, that that which we are is worthy of our investigation” `II.1 ¶53`
+- **subject** — “the true psychical experience, catholic” `II.1 ¶46` (ATWOOD)
+  - **Plain (stated):** What is investigated is a real, universal psychical experience, explicitly not ordinary trance, day-dream or fanatical vision.
+  - Basis: II.1 ¶46: 'no common trance or day-dream, or any fanatical vision of celestials, that we propose to scrutinize, but the true psychical experience'.
+- **procedure** — “such a reducation of nature as shall discover this Latex without destroying her vehicle, but the modal life only” `II.1 ¶47` (QUOTED: the Alchemists)
+  - **Plain (interpreted):** The work reduces nature so as to expose a hidden principle, destroying only its present mode of life and not the bearer that carries it, i.e. casting off nature's superfluous forms.
+  - Basis: II.1 ¶47 also speaks of 'the rejection of her superfluous forms'. 'Latex' and 'vehicle' are not explained in this chunk (see ambiguities).
+  - Also: “where nature may be addressed in order to the rejection of her superfluous forms” `II.1 ¶47`
+- **result** — “man, by rationally conditionating, has succeeded in developing into action the Recreative Force” `II.1 ¶47` (QUOTED: the Alchemists)
+  - **Plain (stated):** The alchemists claim that man, by setting up the right conditions rationally, has brought a re-creating power into action.
+  - Basis: II.1 ¶47 reports the alchemists' profession; the nature of the Recreative Force is not further explained here.
+- **procedure** — “what was their immediate efficient? Whence and whereon did they direct their fire?” `II.1 ¶47` (ATWOOD)
+  - **Plain (stated):** The concealed points of the method: the direct active cause, the source and target of the 'fire', and what the laboratory and vessels stand for. Atwood says these were deliberately disguised; this chunk does not decode them.
+  - Basis: II.1 ¶47: 'These things, with the laboratory, its vessels and various apparatus, they have disguised'.
+  - Also: “These things, with the laboratory, its vessels and various apparatus, they have disguised” `II.1 ¶47`
+- **procedure** — “the artificial destruction according to the course of nature” `II.1 ¶47` (QUOTED: Geber)
+  - **Plain (interpreted):** A deliberate dissolution performed in accordance with nature is required for the confection (of 'fold', apparently gold); ignorance of it led men to think the work impossible. Not explained further here.
+  - Basis: II.1 ¶47 (Geber): men thought the confection impossible 'because they have not know' this destruction; connects with the 'reducation of nature' in the same paragraph.
+  - Also: “they have proved it to be of a strong composition, but of how strong a composition they have not proven” `II.1 ¶47`
+- **procedure** — “he must ascend in thought who would, descending, hope to penetrate so far as to the superstantial experience of things” `II.1 ¶49` (ATWOOD)
+  - **Plain (stated):** To reach the deepest (causal) experience one must first rise in thought; a shallow reason cannot sound it.
+  - Basis: II.1 ¶49: 'The well out of which she is drawn is deep, and not therefore to be fathomed by the plummet of a shallow reason'.
+  - Also: “The well out of which she is drawn is deep, and not therefore to be fathomed by the plummet of a shallow reason” `II.1 ¶49`
+- **impediment** — “the true light shut up as in a prison, the fountain of Universal Nature separated off from human understanding by the external attraction of it through the gates of sense” `II.1 ¶49` (ATWOOD)
+  - **Plain (stated):** The source-light of nature is present but cut off from our understanding because our attention is drawn outward through the senses.
+  - Basis: II.1 ¶49 states the cause of the separation directly.
+- **stage** — “becoming purified from the body, will recollect all those things, the remembrance of which she loses in the present life” `II.1 ¶50` (QUOTED: the philosopher)
+  - **Plain (stated):** Purification from bodily involvement restores the soul's self-contemplation and memory of what it has forgotten.
+  - Basis: II.1 ¶50: in the body 'she departs from self-contemplation'; purified, she recollects.
+  - Also: “whether it be possible to approach to a recollection of this ancient experiment” `II.1 ¶53`
+- **impediment** — “encompassed about with senses and passions” `II.1 ¶50` (QUOTED: Plutarch)
+  - **Plain (stated):** Senses and passions limit the soul's share in the Divine to dim glimpses; once freed from them, God becomes the soul's guide.
+  - Basis: II.1 ¶50 (Plutarch): 'obscure glimmerings ... a confused dream'; 'when they are freed from these impediments ... it is then that God becomes our leader'.
+  - Also: “any further than by obscure glimmerings, and as it were, in comparison, a confused dream” `II.1 ¶50`
+  - Also: “it is then that God becomes our leader” `II.1 ¶50`
+- **operator** — “the end of which, as of all ceremonial rites and disciplines, was that the aspirant might be prepared and fitted for the attainment of the knowledge of the Supreme Mind” `II.1 ¶50` (QUOTED: Plutarch)
+  - **Plain (stated):** The aspirant must be prepared by holiness, rites and discipline; the Supreme Mind is approached only with solemnity and sanctity of life. Desire for Truth is itself aspiration to the Divine Nature.
+  - Basis: II.1 ¶50: 'to desire and covet after the Truth is to aspire to be a partaker of the Divine Nature itself'; 'but with due solemnity, and sanctity of life'.
+  - Also: “but with due solemnity, and sanctity of life” `II.1 ¶50`
+- **procedure** — “there is no other means of strengthening the vehicle of the sold but by material Rites” `II.1 ¶51` (QUOTED: Psellus)
+  - **Plain (stated):** The soul (its 'vehicle') is strengthened and perfected only through material rites, i.e. through the power of materials on earth, which Plato calls the service of the gods.
+  - Basis: II.1 ¶51: 'To initiate or perfect the human soul by the power of materials here on earth'. What the rites and materials are is not specified (see ambiguities).
+  - Also: “To initiate or perfect the human soul by the power of materials here on earth” `II.1 ¶51`
+  - Also: “calls the magic of Zoroaster the service of the gods” `II.1 ¶51`
+- **agent** — “the work of Piety leads it by the hand of God, by illumination from thence” `II.1 ¶51` (QUOTED: Psellus)
+  - **Plain (stated):** The soul's highest faculty cannot rise to the Divine by itself; it is led by divine illumination through the work of piety, and (Synesius, Julian) without such Divine Works the union is neither achieved nor understood.
+  - Basis: II.1 ¶51: 'the supreme faculty of the soul cannot by its own guidance aspire'; II.1 ¶52 Julian: 'without such assistance the Divine union is neither effected not rightly understood'.
+  - Also: “without such assistance the Divine union is neither effected not rightly understood” `II.1 ¶52`
+  - Also: “bears witness to the efficacy of Divine Works” `II.1 ¶52`
+- **procedure** — “Wisdom was the offspring of a vital experiment into nature, by certain arts and media producing the central efficient into conscious being and effect” `II.1 ¶52` (ATWOOD)
+  - **Plain (stated):** Atwood's thesis: ancient Wisdom resulted from a living experiment on nature, using specific arts and means to bring the central active cause into conscious existence and operation.
+  - Basis: II.1 ¶52, presented as confirmed by the Eleusian accounts and the philosophers cited.
+- **procedure** — “has given us observation through Sacred Arts, by which we have at hand sufficient assistance” `II.1 ¶53` (QUOTED: the Platonic Successor)
+  - **Plain (stated):** Since spontaneous revelation ceased, communion with the divine is reached by experimental research through sacred arts.
+  - Basis: II.1 ¶53: spontaneous revelation 'without experimental research' ceased after the Hebrews; Sacred Arts given 'that we might not be deprived of all communication with the gods'.
+- **impediment** — “being ignorant of the method, how should we presume to test the truth of this philosophy?” `II.1 ¶53` (ATWOOD)
+  - **Plain (stated):** The Initiated kept the means secret, so the claims cannot be tested without recovering the method; right investigation is the key.
+  - Basis: II.1 ¶53: 'the Initiated were so profoundly silent upon these means'; II.1 ¶52 Archytas on investigating rightly.
+  - Also: “If you investigate rightly, says Archytas, discovery will be easy for you” `II.1 ¶52`
+  - Also: “that the Initiated were so profoundly silent upon these means” `II.1 ¶53`
+- **sign** — “should find familiar scenes recur, thrilling into reminiscence, as of some long past life forgotten” `II.1 ¶53` (ATWOOD)
+  - **Plain (stated):** A sign of aptitude: a soul more allied to antecedent realities feels the material as a recollection of something forgotten; such a one is on the road 'towards his Native Land'.
+  - Basis: II.1 ¶53: 'a less oblivious soul or intellect, more allied than ordinary to antecedent realities'.
+  - Also: “the road whereon we are journeying is towards his Native Land” `II.1 ¶53`
+- **result** — “whether there be still an entrance open, as there was once said to be, to the shut palaces of Mind” `II.1 ¶53` (ATWOOD)
+  - **Plain (interpreted):** The goal is access to the mind's hidden interior; Wisdom so reached would be a real, attainable good, not an outward acquisition.
+  - Basis: II.1 ¶53: 'the Wisdom of the ancients was not the outward, adventitious acquisition ... but a very real, substantial, and attainable good'; image of the palace as seat of God in II.1 ¶43.
+  - Also: “a very real, substantial, and attainable good” `II.1 ¶53`
+
+## Terms
+
+- **Celestial Prototype** — The form in man on which the world subsists and by which man is the image of God; distinguished from apparent man. (QUOTED: Rabbi Ben Jochai)
+  - = that form in man: “on that form in man, which is the Celestial Prototype” `II.1 ¶42`
+  - “no form, no world, could exist before the human prototype” `II.1 ¶42`
+- **Form of man** — That which contains all in heaven and earth. (QUOTED: Rabbi Ben Jochai)
+  - “The Form of man, says the Rabbi Ben Jochai, contains all that is in the heaven and earth” `II.1 ¶42`
+- **true man** — Man as distinct from 'him who is here apparent'. (QUOTED: Rabbi Ben Jochai)
+  - “But we must distinguish the true man from him who is here apparent” `II.1 ¶42`
+- **Motive Reason** — Man's life, as opposed to man as the individualized multiplication of a blind will. (ATWOOD)
+  - = his life: “tat Motive Reason which is his life” `II.1 ¶42`
+- **Logos** — That by which the world was framed; the seal whose impression makes all things and whose impression the soul is. (QUOTED: Philo)
+  - = the seal: “the Logos, by whom the world was framed, is the seal after the impression of which everything is made” `II.1 ¶43`
+  - “the soul of man is an impression of this seal of which the prototype and original characteristic is the everlasting Logos” `II.1 ¶43`
+- **Wisdom** (also: wisdom) — The theme of ancient science: a rectified intellect as the standard of truth; an operative hypostasis sustaining all things; offspring of a vital experiment into nature; a real, attainable good. (ATWOOD)
+  - = the good, the fair, and the blessed Eternity: “And what is Wisdom according to the ancient Hermes? Even the good, the fair, and the blessed Eternity” `II.1 ¶43`
+  - = the standard of truth in a rectified intellect: “the one theme and bulwark of ancient science, which no historical teaching or observance of the accidents of nature could realize or improve --- namely, the standard of truth in a rectified intellect” `II.1 ¶44`
+  - = an affirmative operative hypostasis: “an affirmative operative hypostasis, informing, invigorating, and sustaining all things” `II.1 ¶44`
+  - = the breath of the power of God: “For she is the breath of the power of God, and a pure influence flowing from the glory of the Almighty” `II.1 ¶44`
+  - “Wisdom was the offspring of a vital experiment into nature” `II.1 ¶52`
+- **Mind** — The divine in man; its 'shut palaces' are what Atwood seeks entrance to. (QUOTED: Hermes)
+  - = God: “For this Mind in men is God” `II.1 ¶43`
+  - “the shut palaces of Mind” `II.1 ¶53`
+- **Supreme Mind** — The object of the aspirant's knowledge, which the Goddess exhorts men to seek; dwells in Reason as in a temple. (QUOTED: Plutarch)
+  - “the attainment of the knowledge of the Supreme Mind, whom the Goddess exhorts them to search after” `II.1 ¶50`
+- **Reason** — The dwelling or temple of the Deity in man. (UNCLEAR)
+  - = her temple: “For this Reason is her temple wherein the Eternal Self-existent dwells” `II.1 ¶50`
+  - “God dwells, says the Jew Philo, in the rational part of man as in a palace” `II.1 ¶43`
+- **philosophy** — Reason's desire for its antecedent light. (ATWOOD)
+  - = an appetition of reason for its antecedent light: “philosophy was a desire of this kind, an appetition of reason for its antecedent light” `II.1 ¶44`
+- **Self-Knowledge** — The object of the inward search, whose true method and conditions are sought from the ancients; a true, catholic psychical experience, not trance or vision. (ATWOOD)
+  - = the true psychical experience: “For it is this, no common trance or day-dream, or any fanatical vision of celestials, that we propose to scrutinize, but the true psychical experience” `II.1 ¶46`
+  - “the true method and conditions of Self- Knowledge” `II.1 ¶46`
+- **Light of Alchemy** — What is discovered by inquiring into the substance and practical evolution of the psychical experience. (ATWOOD)
+  - “It is into the substantiality of this and for its practical evolution that we must inquire, if we would discover the true Light of Alchemy” `II.1 ¶47`
+- **Latex** — What the alchemical reduction of nature uncovers without destroying nature's vehicle; not defined in this chunk. (QUOTED: the Alchemists)
+  - “such a reducation of nature as shall discover this Latex without destroying her vehicle, but the modal life only” `II.1 ¶47`
+- **modal life** — The part of nature that the reduction destroys, as opposed to her vehicle; apparently her 'superfluous forms'. (QUOTED: the Alchemists)
+  - “where nature may be addressed in order to the rejection of her superfluous forms” `II.1 ¶47`
+- **vehicle** — In ¶47, what in nature is preserved during the reduction; in ¶51, the vehicle of the soul, strengthened by material Rites. (UNCLEAR)
+  - “there is no other means of strengthening the vehicle of the sold but by material Rites” `II.1 ¶51`
+- **Recreative Force** — The force the alchemists claim man has developed into action by rational conditioning. (QUOTED: the Alchemists)
+  - “man, by rationally conditionating, has succeeded in developing into action the Recreative Force” `II.1 ¶47`
+- **immediate efficient** — The direct operative cause of the work, concealed by the alchemists. ¶52 also speaks of a 'central efficient' produced into conscious being by arts and media; the text does not assert the two are identical. (ATWOOD)
+  - “what was their immediate efficient?” `II.1 ¶47`
+  - “producing the central efficient into conscious being and effect” `II.1 ¶52`
+- **artificial destruction** — A dissolution 'according to the course of nature' whose ignorance made men think gold-making impossible. (QUOTED: Geber)
+  - “the artificial destruction according to the course of nature” `II.1 ¶47`
+- **Causal Truth** — The truth of causes, as opposed to remote effects; drawn from a deep well. (ATWOOD)
+  - “who have never glanced even in imagination toward the Causal Truth” `II.1 ¶49`
+- **superstantial experience** — The deep experience of things reached by ascending in thought and then descending. (ATWOOD)
+  - “hope to penetrate so far as to the superstantial experience of things” `II.1 ¶49`
+- **true light** — Hidden, imprisoned light separated from understanding by the senses' outward attraction. (ATWOOD)
+  - = the fountain of Universal Nature: “the true light shut up as in a prison, the fountain of Universal Nature” `II.1 ¶49`
+- **material Rites** — The only means of strengthening the soul's vehicle; perfecting the soul by the power of materials on earth. (QUOTED: Psellus)
+  - “To initiate or perfect the human soul by the power of materials here on earth” `II.1 ¶51`
+- **magic** — The magic of Zoroaster, whose use is to perfect the soul by the power of materials. (QUOTED: Plato; Psellus)
+  - = the service of the gods: “calls the magic of Zoroaster the service of the gods” `II.1 ¶51`
+- **Divine Works** — Assistance without which the Divine union is neither effected nor understood. (QUOTED: Synesius)
+  - “bears witness to the efficacy of Divine Works” `II.1 ¶52`
+- **Divine union** — The goal effected only with the assistance of Divine Works. (QUOTED: Julian)
+  - “without such assistance the Divine union is neither effected not rightly understood” `II.1 ¶52`
+- **Sacred Arts** — Means given (by Jupiter, per the Platonic Successor) for communication with the gods after spontaneous revelation ceased. (QUOTED: the Platonic Successor)
+  - “has given us observation through Sacred Arts, by which we have at hand sufficient assistance” `II.1 ¶53`
+- **Initiated** — Those who knew the means of the Art and kept silent on them. (ATWOOD)
+  - “that the Initiated were so profoundly silent upon these means” `II.1 ¶53`
+- **reminiscence** — Recovery of what the soul forgot in embodied life; also the recovery of the ancient experiment; felt by souls allied to antecedent realities. (ATWOOD)
+  - “thrilling into reminiscence, as of some long past life forgotten” `II.1 ¶53`
+  - “will recollect all those things, the remembrance of which she loses in the present life” `II.1 ¶50`
+
+## Sources cited
+
+- **Kabalists** `II.1 ¶42` — Supports: their elevation of man as containing the prototype of creation.
+- **Rabbi Ben Jochai**, *Zohar* — “The Form of man, says the Rabbi Ben Jochai, contains all that is in the heaven and earth” `II.1 ¶42, II.1 n38` — Supports: man as Celestial Prototype and image of God; reads 'The Eternal has founded the earth upon his wisdom' as referring to the human prototype. Atwood endorses.
+- **Philo (the Jew Philo)**, *De Praemiis et Poenis; De Nobilitate; De Profugis; De Plantatione Noe* — “God dwells, says the Jew Philo, in the rational part of man as in a palace” `II.1 ¶43, II.1 n39, II.1 n40` — Supports: the rational part of man as God's temple; the soul as impression of the Logos-seal.
+- **Hermes (the ancient Hermes)**, *the Divine Pymander* — “For this Mind in men is God” `II.1 ¶43, II.1 n41` — Supports: Wisdom as the good and blessed Eternity; Mind in men is God.
+- **the Stagyrite** — “It is essentially, the most essential of that which is most essential.” `II.1 ¶44` — Supports: Wisdom as the most essential reality, not an abstraction ('before cited').
+- **Solomon (the wise king)**, *Wisdom of Solomon, chap. 7* — “Wisdom, says the wise king, is more moving than any motion” `II.1 ¶44, II.1 n42` — Supports/illustrates: panegyric of Wisdom as pure, all-pervading, renewing, entering holy souls.
+- **Scripture** `II.1 ¶45` — ¶45 refers to Scripture's promise with Wisdom (following Solomon's panegyric) and says there are other such places.
+- **Geber**, *Investig. of Perf., cap. 3; Russel's Geber* — “men have thought the confection of fold impossible, because they have not know the artificial destruction according to the course of nature” `II.1 ¶47, II.1 n43` — Supports: the work fails for ignorance of the 'artificial destruction'.
+- **Bloomfield**, *Bloomfield's Camp of Philosophy, v. 27* `II.1 ¶48, II.1 n43` — Reference only (cited in n43 with the verse at ¶48; attribution of the verse not stated).
+- **the philosopher**, *Plotinus's Select Works; Taylor, page 387* — “When the soul is situated in the body, says the philosopher, she departs from self-contemplation” `II.1 ¶50, II.1 n44` — Supports: purified soul recollects what it forgot.
+- **Plutarch**, *De Iside et Osiride* — “the souls of men are not able to participate of the Divine nature whilst they are thus encompassed about with senses and passions” `II.1 ¶50, II.1 n45` — Supports: senses and passions as impediments; rites prepare the aspirant for knowledge of the Supreme Mind. Called 'well initiated in these mysteries'.
+- **Isis (the old mythology)** `II.1 ¶50` — Illustrates: the divine beauty Isis pursues; 'the Goddess' whose temple is Reason.
+- **Psellus**, *commentary on the Chaldaic Oracles* — “there is no other means of strengthening the vehicle of the sold but by material Rites” `II.1 ¶51` — Supports: the soul perfected by material rites and divine illumination.
+- **Plato**, *the first Alcibiades* — “calls the magic of Zoroaster the service of the gods” `II.1 ¶51` — Supports: magic as divine service.
+- **Zoroaster** `II.1 ¶51` — His magic described as the service of the gods.
+- **Synesius**, *Treatise on Providence* `II.1 ¶52` — Supports: efficacy of Divine Works.
+- **the Emperor Julian**, *arguments preserved by Cyril; Julian's Arguments (Greek extract)* — “without such assistance the Divine union is neither effected not rightly understood” `II.1 ¶52, II.1 n46` — Supports: Divine union requires such assistance.
+- **Cyril** `II.1 ¶52` — Reference only: preserved Julian's arguments.
+- **Eleusian Mysteries (accounts of)** `II.1 ¶52` — Supports: Wisdom as offspring of a vital experiment into nature.
+- **Archytas** — “If you investigate rightly, says Archytas, discovery will be easy for you” `II.1 ¶52, II.1 ¶53` — Supports: right method of investigation is the key; mankind has not known how to investigate.
+- **the Platonic Successor**, *Iamblichus on the Mysteries; Taylor's Notes* — “has given us observation through Sacred Arts, by which we have at hand sufficient assistance” `II.1 ¶53, II.1 n46` — Supports: Sacred Arts replace lost spontaneous revelation.
+- **Taylor** `II.1 n44, II.1 n46` — Reference only (cited in footnotes).
+
+## Ambiguities
+
+- “when it is moved into the catholic Intuition of its Source” `II.1 ¶43`
+  - Reading: Part of the Hermes citation.
+  - Reading: Atwood's own qualifying addition to Hermes.
+  - Basis: The footnote marker (41) falls just before this clause, suggesting the citation ends there and the clause is Atwood's; but it continues the same sentence.
+- “such a reducation of nature as shall discover this Latex without destroying her vehicle” `II.1 ¶47`
+  - Reading: 'this Latex' refers back to 'the true Light of Alchemy' in the preceding clause.
+  - Reading: 'this Latex' is a hidden (latent) principle in nature, linked to the 'Recreative Force' named next.
+  - Reading: Unexplained term; no identity asserted.
+  - Basis: 'this' implies an antecedent; 'the true Light of Alchemy' precedes in the same sentence; 'Recreative Force' follows in the next clause.
+- “the vehicle of the sold” `II.1 ¶51`
+  - Reading: 'sold' is a misprint for 'soul' (the vehicle of the soul).
+  - Reading: The 'vehicle' here is the same as nature's 'vehicle' preserved in II.1 ¶47.
+  - Reading: The two 'vehicles' are unrelated.
+  - Basis: The following sentence speaks of perfecting 'the human soul'; ¶47 uses 'her vehicle' of nature; the text does not connect them.
+- “And all this because they knew not the verity Of altitude, latitude, and of profundity” `II.1 ¶48`
+  - Reading: Refers to Geber's 'how strong a composition' — the full extent of the matter's composition.
+  - Reading: Anticipates the depth image of II.1 ¶49 (the deep well; ascending and descending).
+  - Basis: Follows Geber directly in ¶47; ¶49 develops depth and ascent/descent. The verse is not explained.
+- “there is no other means of strengthening the vehicle of the sold but by material Rites” `II.1 ¶51`
+  - Reading: Literal ceremonial rites using physical materials.
+  - Reading: The material arts Atwood equates with the 'vital experiment into nature' (II.1 ¶52).
+  - Basis: ¶51 speaks of 'the power of materials here on earth'; ¶52 says Wisdom came 'by certain arts and media'.
+
+## Threads
+
+- `II.1 ¶44` 'the Stagyrite before cited' — an earlier citation of the Stagyrite.
+- `II.1 ¶45` 'nor is this the only place in Scripture where we have a promise with Wisdom' — other scriptural passages, unspecified.
+- `II.1 ¶47` 'as we have seen' — the alchemists' proposed reduction of nature was discussed earlier.
+- `II.1 ¶47` 'as we have already shown' — earlier demonstration that the alchemists disguised their fire, laboratory, vessels and apparatus.
+- `II.1 ¶53` 'as we before said' — earlier remark that this research may seem appalling or nugatory to readers.
+- `II.1 ¶53` 'Here, then, we take up our clue to weave onward as we proceed, unraveling the Mysteries by their traditional light' — announces the coming treatment of the Mysteries and the ancient experiment.

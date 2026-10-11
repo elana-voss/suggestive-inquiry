@@ -6,5 +6,5 @@ for spec in sys.argv[2:]:
     parts.append(f'\n\n######## {label} ########\n')
     for p in paths.split(','):
         parts.append(f'\n=== FILE: {p} ===\n'+open(p,encoding='utf-8').read())
-open(out,'w',encoding='utf-8').write(''.join(parts))
+open(out,'w', encoding='utf-8', newline='\n').write(''.join(parts))
 print(out, sum(len(x) for x in parts))

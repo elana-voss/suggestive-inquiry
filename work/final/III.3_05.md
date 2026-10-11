@@ -1,0 +1,310 @@
+# III.3_05
+
+*Atwood asserts that the Matter of all things is one Universal Identity, illustrates its death, preservation and revival with riddling inscriptions, alchemical verse, the dying-and-reviving god of the Mysteries and a hymn, and reads the heroes' ordeals as the soul's inward struggle by which the hidden Light is freed. She then names the circulation of the Vital Spirit (Altitude, Latitude, Profundity) and the resulting Water of the Adepts, and ends by identifying the alchemical Three (Sulphur, Mercury, Salt) with the Divine Word, the prepared selfhood and the Bodily Substance that results.*
+
+## Argument
+
+- The Matter of all things is one, proved simple in experience; under every form Nature stays one Unknown Identity. Chemists know water, air, earth, gold are no elements but never find Her, the true element; only in her own vessels does she bear her Universal Offspring sealed through dissolution to immortal resurrection. `III.3 ¶65` — ATWOOD
+- Two unattributed riddling inscriptions: something none of the opposites yet all, everywhere; corpse and sepulcher the same. `III.3 ¶66` — UNCLEAR
+- All is identical in the Universal Identity. Body, soul and spirit, the three hypostatic relations, are born, die and are fortified one in another, differing only as agent, patient and offspring. Number, weight, measure are Nature's dimensions, unfolding point, line, square, cube: foundation of the New physical Whole. `III.3 ¶67` — ATWOOD
+- Verse: battle won, lion and eagle dead (lion revived), dews cease, toad bursts, black shows spirit fixed; soul returns to earth; king and queen buried as one; timed periods yield crow, dove, fire-proof soul; silver tincture and fixity. The sophister fails: the Art is a fountain sealed that one thing unlocks. `III.3 ¶67, III.3 ¶68, III.3 n46` — QUOTED: Eirenaeus
+- Gentile Mythology carries in symbol the One Thing's powers and preservation; the Arkite Mysteries refer to the physical secret of regeneration: the god dead and revived (Cadmillus, Atys, Adonis, Osiris). `III.3 ¶69` — ATWOOD
+- Hymn: Bacchus's heart, saved in Aether after the Titans tore him, reappears as Dionysius renewed; the goddess gives a demiurgic impulse in the mind. `III.3 ¶70, III.3 n47` — QUOTED: Proclus
+- All heroes passed this ordeal; their adventures record the soul overcoming household enemies. Passions trifling to deadened conscience appear monstrous in the revealed light, make the inward man suffer, leave slowly; the will must break its compact with sense. `III.3 ¶71` — ATWOOD
+- Then artificial heat and exhalation bring the Light hidden in the Archaeus out as dry splendour: the Tincture of the Sapphiric Mine, the Subtendent. In this water the principle of all survives destruction, like Noah, to renew all tenfold. `III.3 ¶71` — ATWOOD
+- Wisdom bears the Demiurgic Fire, which sensual conception hides. True free Will is the Almighty Magnet freed from Tartarean bondage, not a motiveless chimera. `III.3 ¶71` — ATWOOD
+- 'It would seem' the whole secret is the circulation of the Vital Spirit under a threefold Law in three periods: Profundity (subjective life, water below), Altitude (objective Light, ether above), united as Latitude; their conflux in a Calx yields the physical Tetractys. `III.3 ¶72` — ATWOOD
+- This is the Adepts' Water under all its names, product of the mind's spiritual poles conjoined, regenerate in a sensible body by the physico-chemical art. `III.3 ¶73` — ATWOOD
+- Verse: the never-wasting Water, named by Democrit and Hermes. `III.3 ¶73, III.3 ¶74, III.3 n48` — QUOTED: Norton
+- Philosophy's Tablet to Experience: she made One Thing, the first Material Mother, divided into four elements; indestructible, easy to find, hard to get, a child begetting his own Father; Three Powers in one seat. `III.3 ¶75, III.3 ¶76, III.3 n49` — QUOTED: Experience and Philosophy
+- These Three are Sulphur, Mercury, Salt: the Word of God in regeneration, the prepared selfhood, and their union, the Bodily Substance. Matter is non-being; sacrificed in reunion it gives body to the Divine and unfolds the Powers. So by self-perceivance and resignation the human hypostasis becomes universal intelligence. `III.3 ¶77` — ATWOOD
+
+## Method
+
+- **subject** — “The Matter of all things is One and proved simple in the experience” `III.3 ¶65` (ATWOOD)
+  - **Plain (stated):** There is one single matter underlying all things, found simple when actually experienced; all its qualities and forms are manifestations of one identity, Nature.
+  - Basis: III.3 ¶65 states it directly; III.3 ¶67 repeats that all is identical.
+  - Also: “Nature remains one and the same Unknown Identity through all” `III.3 ¶65`
+  - Also: “All is identical --- need we repeat it? --- in the Universal Identity” `III.3 ¶67`
+- **impediment** — “she eludes their tests and closest vessels; all except those of her own ethereally wise construction” `III.3 ¶65` (ATWOOD)
+  - **Plain (interpreted):** Ordinary chemical tests and apparatus cannot catch the true element; only a vessel of Nature's own construction holds it. The chunk does not say what that vessel is.
+  - Basis: III.3 ¶65 contrasts chemists who 'have never found' the true element with vessels 'of her own ethereally wise construction'.
+- **result** — “she bears her Universal Offspring, hermetically sealed through the flood and wreck of this dissolute existence to a resurrection always glorious, and immortal at last” `III.3 ¶65` (ATWOOD)
+  - **Plain (interpreted):** Within her own vessel Nature carries a universal product intact through dissolution to a glorious, immortal renewal.
+  - Basis: III.3 ¶65; the same pattern of preservation through destruction is stated in III.3 ¶71 ('artificially preserved, as Noah in the Ark').
+- **principle** — “body, soul, and spirit --- the three hypostatic relations” `III.3 ¶67` (ATWOOD)
+  - **Plain (stated):** Body, soul and spirit are three relations of one life; they arise from, join, die in and strengthen each other, differing only in role as agent, patient and their common offspring, with nothing foreign added.
+  - Basis: III.3 ¶67: 'differing only, in respect one from the other, as agent, patient, and that universal offspring'.
+  - Also: “conjoin, die, and are mortified, one within the other; are fortified and increased, the one by the other” `III.3 ¶67`
+  - Also: “that universal offspring which is the All in all, without foreign admixture” `III.3 ¶67`
+- **stage** — “from the point proceeding into the line, from the root into the square superficies, and from the square by multiplication into that cubic form which is the supernatural foundation of the New physical Whole” `III.3 ¶67` (ATWOOD)
+  - **Plain (interpreted):** The Spirit's emanative Law unfolds Nature in successive dimensions (point, line, square, cube); the cube is the foundation of the new physical whole.
+  - Basis: III.3 ¶67 identifies number, weight and measure with 'the length, and breadth, and profundity of Nature'; reading the progression as stages of the work is an inference, supported by the threefold Law in three periods of III.3 ¶72.
+  - Also: “For these are the length, and breadth, and profundity of Nature, which the Spirit in her emanative Law displays” `III.3 ¶67`
+- **stage** — “The Lyon dead revived; The Eagle’s dead which did him slay, And both of sense deprived.” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (interpreted):** At the end of a struggle two opposed agents (lion and eagle) both die and the lion is revived. This chunk does not explain lion or eagle.
+  - Basis: III.3 ¶67-68 frames it as the outcome of a battle ('The battle’s fought, the conquest won'); no gloss given.
+  - Also: “The battle’s fought, the conquest won,” `III.3 ¶67`
+- **sign** — “The showers cease, the dews, which fell For six weeks, do not rise; The ugly toad, that did so swell, With swelling, bursts and dies.” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (interpreted):** Signs that a phase has ended: a six-week period of falling 'dews' stops, a swelling 'toad' bursts, and colours (silver stained with gold, violet) appear. This chunk does not explain them.
+  - Basis: III.3 ¶68 lists them among the marks of the won battle; no gloss in the chunk.
+  - Also: “The Argent field with Or is stained, With violet intermixed;” `III.3 ¶68`
+- **sign** — “The sable blacke is not disdained Which shows the spirit’s fixed;” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (stated):** Blackness is a welcome sign: it shows that the spirit has been fixed.
+  - Basis: The verse itself says what the black shows (III.3 ¶68); later 'a perfect crow, Whose blackness cheers hearts sadded'.
+  - Also: “These do produce a perfect crow, Whose blackness cheers hearts sadded;” `III.3 ¶68`
+- **procedure** — “The flying soul to th’ earth returned, The soaring bird descended.” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (interpreted):** The volatile part (soul, bird) is brought back down and joined with the earthly part, after the compound is reduced and its seeds blended.
+  - Basis: III.3 ¶68: preceding lines 'The compound into atoms turned, The seeds together blended'; later 'For soul and body so combine, The spirit interceding'.
+  - Also: “The compound into atoms turned, The seeds together blended,” `III.3 ¶68`
+- **procedure** — “The king and queen contumulate, And joined as one together, That which before was two by fate Is tyed, which none can sever.” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (interpreted):** Two principles (king and queen), related as brother/wife and son/mother of one father, are buried together and become inseparably one; each dies with, destroys and saves the other, and both are amended. The chunk does not name what king and queen are.
+  - Basis: III.3 ¶68 stanzas on king and queen; compare agent and patient that 'conjoin, die, and are mortified, one within the other' (III.3 ¶67). See ambiguity on their identity.
+  - Also: “The king is brother to his wife, And she to him is mother; One father is to both” `III.3 ¶68`
+  - Also: “The coffins one in which both lies, Each doth the other save:” `III.3 ¶68`
+  - Also: “Yet each the other doth destroy, And yet both are amended;” `III.3 ¶68`
+- **stage** — “Twice forty days do come and go, To which twice five are added; These do produce a perfect crow,” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (stated):** A timetable: 90 days produce the black 'crow'; 30 more a 'dove' with bright wings; 20 more until the soul needs 'no fire defender'.
+  - Basis: III.3 ¶68 gives the counts (twice forty plus twice five; twice fifteen more; twice ten more) and the sequence ('more'); only the arithmetic is ours. The dove's colour is given only as 'bright'.
+  - Also: “Twice fifteen more produce a dove, Whose wings are bright and tender;” `III.3 ¶68`
+  - Also: “Twice ten more make the soul above To need no fire defender;” `III.3 ¶68`
+- **result** — “For soul and body so combine, The spirit interceding, Tincture to give of silver fine,” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (stated):** With the spirit mediating, soul and body unite; the product gives a tincture of fine silver and a fixity that withstands fire.
+  - Basis: III.3 ¶68 states both results directly in the verse.
+  - Also: “Also such fixity to add Against the flames prevailing,” `III.3 ¶68`
+- **impediment** — “That ‘t is a fountain sealed, Which one thing only can unlocke;” `III.3 ¶68` (QUOTED: Eirenaeus)
+  - **Plain (stated):** Whoever seeks the concealed Art in fancies fails; it is closed, and only one thing opens it, which must be learned.
+  - Basis: III.3 ¶68: 'The sophister still failing, Who seeks in fancies for to find Our Art so much concealed'.
+  - Also: “The sophister still failing, Who seeks in fancies for to find Our Art so much concealed,” `III.3 ¶68`
+  - Also: “This one things learn to know,” `III.3 ¶68`
+- **principle** — “The god, dead and revived, is a principal character in all their ceremonial rites” `III.3 ¶69` (ATWOOD)
+  - **Plain (stated):** The dying-and-reviving god of the ancient rites (Cadmillus, Atys, Adonis, Osiris) symbolizes the physical secret of regeneration and the preservation of the One Thing.
+  - Basis: III.3 ¶69: 'the Arkite Mysteries have reference to the physical secret of the regeneration'; 'The same tradition of the manifold powers and preservation of the One Thing runs in symbol'.
+  - Also: “the Arkite Mysteries have reference to the physical secret of the regeneration throughout the Gentile Mythology” `III.3 ¶69`
+- **stage** — “The heart of Bacchus, swiftly slaughtered king, Was saved in Aether” `III.3 ¶70` (QUOTED: Proclus)
+  - **Plain (interpreted):** An instance of the dying-and-reviving god: the body is torn apart, the heart is preserved in Aether, and the god reappears renewed. Atwood does not gloss the hymn.
+  - Basis: The hymn follows directly on III.3 ¶69's statement about the god dead and revived; Bacchus is listed among the heroes of the ordeal in III.3 ¶71.
+  - Also: “Great Dionysius to the world at length Again appeared with renovated strength” `III.3 ¶70`
+- **impediment** — “the difficulties and dangers that the soul must endure overcoming her household enemies within the stronghold of life” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** The heroes' ordeals stand for the soul's inner struggle against her own passions, desires and vices; they are many and fearful.
+  - Basis: III.3 ¶71 glosses the heroes' adventures as 'so many records' of this struggle and names the enemies 'passions, desires, vices'.
+- **sign** — “by the revealed light of equilibriate justice, are monstrous; and, without metaphor, in their imaged atmosphere appear terrific” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** Under the revealed inner light, faults that a deadened conscience treats as trifling appear literally monstrous; the inward man actually suffers them, and they do not leave quickly or easily, even from the virtuous.
+  - Basis: III.3 ¶71 directly, including 'without metaphor' and 'they do not suddenly depart, or easily'.
+  - Also: “do force the inwardly placed man to suffer sensibly” `III.3 ¶71`
+  - Also: “For they do not suddenly depart, or easily, even from him in whom the exemplary virtue is revealed” `III.3 ¶71`
+- **operator** — “nor is it any trifling exertion which the will has to make to overcome the compact which it has made to sense” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** The operator's will must make a hard effort to break its attachment to the senses; this struggle is the meritorious part of the work.
+  - Basis: III.3 ¶71: 'herein consists the meritorious struggle of the powers'.
+  - Also: “but herein consists the meritorious struggle of the powers” `III.3 ¶71`
+- **procedure** — “by artificial force of heat and exhalation, the Light, so long hidden and enshrined in the Archaeus, comes forth as a dry splendour, surviving through all.” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** Heat and exhalation applied by art draw out a Light long hidden in the Archaeus; it emerges as a dry splendour that survives everything. What heat and exhalation physically are is not explained here.
+  - Basis: III.3 ¶71 directly; it follows ('until') the will's struggle with sense.
+- **result** — “And this is that Tincture of the Sapphiric Mine before alluded to, and that Subtendent which is found seminally equal to the whole of the parts whence it is derived.” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** The dry splendour drawn from the Archaeus is the Tincture of the Sapphiric Mine and the Subtendent, which in seed is equal to the whole of the parts it came from.
+  - Basis: III.3 ¶71 explicitly identifies the dry splendour with both.
+- **principle** — “In hac aqua rosa latet hieme” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** In this water, after destruction has done its worst to the elements of life, the principle of all is preserved by art, like Noah in the Ark, and can reproduce all things with tenfold perfection and increase.
+  - Basis: III.3 ¶71 follows the Latin with its own explanation: 'in this water, when destruction has done its worst with the elements of life, the principle of all is artificially preserved, as Noah in the Ark'.
+  - Also: “in this water, when destruction has done its worst with the elements of life, the principle of all is artificially preserved, as Noah in the Ark” `III.3 ¶71`
+  - Also: “that has power to reproduce all and each with tenfold perfection and increase out of itself” `III.3 ¶71`
+- **agent** — “For this Wisdom is the vehicle of the Catholic Reason in Identity, the bearer and measure of the Demiurgic Fire” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** Wisdom carries the universal Reason and bears and measures the creative (Demiurgic) Fire.
+  - Basis: III.3 ¶71 directly.
+- **impediment** — “that Fire which the sensual conception occultates, and so forcibly restricts, that man does not suspect it even” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** Sense-bound thinking hides and restrains the creative Fire so completely that man does not suspect it; in his willing bondage he fancies himself free.
+  - Basis: III.3 ¶71 directly.
+  - Also: “but in his willing thralldom, fancies himself at liberty” `III.3 ¶71`
+- **result** — “That was free Will, not the motiveless chimera which human fancy has been prone to coin, but the operative Almighty Magnet freed from Tartarean bondage and obscurity” `III.3 ¶71` (ATWOOD)
+  - **Plain (stated):** True free will is not unmotivated choice but the operative power released from bondage and drawn up to the higher Light, so that effects follow the will in full accord.
+  - Basis: III.3 ¶71 directly.
+  - Also: “effects follows the voluntary Axle in a necessitous full accord” `III.3 ¶71`
+  - Also: “drawn upward to the glorious consciousness of the revolving Light above” `III.3 ¶71`
+- **procedure** — “the whole secret of this discovery, it would seem, consists in the sanquinary circulation of the Vital Spirit” `III.3 ¶72` (ATWOOD)
+  - **Plain (stated):** Atwood tentatively says the whole secret lies in the 'sanquinary' (blood-linked) circulation of the Vital Spirit, governed by a threefold Law and carried through in three periods.
+  - Basis: III.3 ¶72; hedged by 'it would seem'. See ambiguity on 'sanquinary'.
+  - Also: “in which there is a threefold Law, as before explained, which has to be revolutionized also in three period” `III.3 ¶72`
+- **stage** — “called by the Alchemists, for certain accurate reason, Altitude, Latitude and Profundity” `III.3 ¶72` (ATWOOD)
+  - **Plain (stated):** The three periods: Profundity = the subjective life, the water below; Altitude = the objective Light, the ether above; Latitude = the two united at their extreme poles, which turns the wheel of Life.
+  - Basis: III.3 ¶72 gives each gloss explicitly.
+  - Also: “Altitude and Profundity, being united at their extreme poles, make Latitude; and so the wheel of Life is turned about” `III.3 ¶72`
+  - Also: “the Profundity is the subjective life, the water that is below; the Altitude is the objective Light, the ether that is above” `III.3 ¶72`
+- **result** — “the conflux of these two is in a Calx, out of which, as from a rocky fountain, the physical Tetractys springs through the contrite experience into life” `III.3 ¶72` (ATWOOD)
+  - **Plain (stated):** The lower water and upper ether flow together in a Calx, from which the physical Tetractys springs into life through a contrite experience, bearing prolific and enduring fruits. The chunk does not define Calx or Tetractys.
+  - Basis: III.3 ¶72 directly; 'contrite' may connect with the soul's struggle in III.3 ¶71, but the text does not say so.
+- **subject** — “That was the Water so much magnified by the wise Adepts, the miraculous product of the spiritual poles of mind in sublime conjunction at their source” `III.3 ¶73` (ATWOOD)
+  - **Plain (stated):** The Adepts' celebrated Water is the product of the mind's spiritual poles joined at their source; all their names (Elixir, Azoth, Prima Materia etc.) refer to it; it is regenerated in a body that is visible, tangible, local and finite.
+  - Basis: III.3 ¶73 identifies it and lists its names; 'That' refers back to the conflux of III.3 ¶72.
+  - Also: “regenerate in its once assumed body, visible, tangible, and sensible to every sense, local and finite” `III.3 ¶73`
+  - Also: “And this shall stand, said that noble clerke, For the Water within our werke” `III.3 ¶74`
+- **operator** — “made manifest of itself regeneratively, by the obstetric hand of the physico-chemical art” `III.3 ¶73` (ATWOOD)
+  - **Plain (interpreted):** The Water brings itself forth; the art acts like a midwife, assisting the birth rather than making the thing.
+  - Basis: III.3 ¶73: 'of itself' together with the 'obstetric' image.
+- **subject** — “One Thing I made when there was none; A mass confused and darkly clad, That in itself, all Nature had” `III.3 ¶76` (QUOTED: Experience and Philosophy)
+  - **Plain (stated):** In the verse, a single confused dark mass containing all Nature was made first, called the first Material Mother of all; the four elements were divided out of it.
+  - Basis: III.3 ¶76 verse states each point.
+  - Also: “It pleased me the same to call, The first Material Mother of all.” `III.3 ¶76`
+  - Also: “And from that lump divided I foure sundry elements,” `III.3 ¶76`
+- **sign** — “A matter easy to be found, And yet most hard to come by:” `III.3 ¶76` (QUOTED: Experience and Philosophy)
+  - **Plain (stated):** The one indestructible thing compasses the world and is easy to find, yet hard to obtain; it is despised and valued least.
+  - Basis: III.3 ¶76 verse.
+  - Also: “One tings was employed, Which shall not be destroyed; It compasseth the world so round,” `III.3 ¶76`
+  - Also: “A secret of secrets pardye, That is most vile and least set by,” `III.3 ¶76`
+- **agent** — “A childe begetting his own Father, and bearing hys Mother, Killing himself to give life and light to all other,” `III.3 ¶76` (QUOTED: Experience and Philosophy)
+  - **Plain (interpreted):** A paradox about the one thing: it produces its own source and sacrifices itself to give life and light to others. This chunk does not explain it further.
+  - Basis: III.3 ¶76: the line describes the 'One tings' that 'travels to the world’s ending'; compare the sacrifice of the material nature in III.3 ¶77.
+- **principle** — “the Sulphur and Mercury and Slat, the active and the passive, and the resulting experience of life” `III.3 ¶77` (ATWOOD)
+  - **Plain (stated):** The verse's 'Three Powers in one seat' are the alchemical Three. Sulphur = the active: the Word of God in regeneration, independent of human will; Mercury = the passive: the human selfhood, prepared and sanctified; Salt = their union: the Bodily Substance of things thenceforth created.
+  - Basis: III.3 ¶77 lists the Three in apposition to 'the active and the passive, and the resulting', then glosses them by order ('The first ... the second ... the result of these two'); 'these are the Three' refers back to III.3 ¶76.
+  - Also: “And these are the Three continually noted in Alchemy” `III.3 ¶77`
+  - Also: “the second is of the Humanity, i.e., of the selfhood, prepared and sanctified” `III.3 ¶77`
+  - Also: “Three Powers in one seat to sit” `III.3 ¶76`
+- **procedure** — “the sacrifice that is gratefully provided of the material nature in their reunion, as supplying body to the Divine, excites the Powers to participation” `III.3 ¶77` (ATWOOD)
+  - **Plain (stated):** Matter is non-being produced by severance from real being; when the material nature is gratefully given up in the reunion, it supplies a body for the Divine, draws the Powers in, conceives them and unfolds them into visible action.
+  - Basis: III.3 ¶77 directly.
+  - Also: “conceives them when they accede, and consciously unfolds them into visibility and act” `III.3 ¶77`
+- **result** — “the human hypostatis becomes, through a self-perceivance, into universal intelligence” `III.3 ¶77` (ATWOOD)
+  - **Plain (stated):** Through self-perception and voluntary surrender of self, the human being becomes universal intelligence, 'the All'; Atwood offers this, hedged, as how the microcosmical tradition arose.
+  - Basis: III.3 ¶77; hedged ('we may be enabled to conceive perhaps, in a measure at least').
+  - Also: “of its own voluntary resignation, from the nothingness of self oblivion, to be the All” `III.3 ¶77`
+  - Also: “with the desire of rest and contact, there is a power of accessions, and with accession a sufficience, operative and universal” `III.3 ¶77`
+
+## Terms
+
+- **Matter (the One)** (also: Matter of all things) — The single, simple substance of all things, one Identity under every quality and form; Nature, the true element chemists have never found. (ATWOOD)
+  - = Nature, the Unknown Identity: “Nature remains one and the same Unknown Identity through all” `III.3 ¶65`
+  - “The Matter of all things is One and proved simple in the experience” `III.3 ¶65`
+- **matter (non-being)** (also: matte) — Non-being, produced by severance from real being; when sacrificed in the reunion it supplies body to the Divine. (ATWOOD)
+  - = non-being: “By a severance from real being, non- being, that is to say matte, s produced” `III.3 ¶77`
+- **element** (also: elements) — Water, air, earth and gold are not true elements; Nature ('Her') is the true element, never found by chemists. In the verse the four elements are divided out of the first lump. (ATWOOD)
+  - = Nature ('Her'): “but Her, the true element, they have never found” `III.3 ¶65`
+  - “And from that lump divided I foure sundry elements,” `III.3 ¶76`
+- **Universal Offspring** (also: universal offspring) — What Nature bears sealed in her own vessel through dissolution to resurrection; also the third of the three hypostatic relations beside agent and patient, 'the All in all'. (ATWOOD)
+  - “in which she bears her Universal Offspring, hermetically sealed” `III.3 ¶65`
+  - “that universal offspring which is the All in all, without foreign admixture” `III.3 ¶67`
+- **Universal Identity** (also: Unknown Identity, Identity) — The one identity in which all is identical; every assertion of it is true; body, soul and spirit are born in it. (ATWOOD)
+  - “All is identical --- need we repeat it? --- in the Universal Identity, and every possible assertion of it will be true” `III.3 ¶67`
+- **hypostatic relations** (also: hypostatis) — Body, soul and spirit as three relations of one life, born one from another and distinguished only as agent, patient and offspring. (ATWOOD)
+  - = body, soul, and spirit: “body, soul, and spirit --- the three hypostatic relations” `III.3 ¶67`
+- **number, weight, and measure** — Nature's three dimensions as displayed by the Spirit in her emanative Law. (ATWOOD)
+  - = length, breadth and profundity of Nature: “For these are the length, and breadth, and profundity of Nature” `III.3 ¶67`
+- **One Thing** (also: one thing, One tings, one things) — In Atwood's prose, that whose manifold powers and preservation the Gentile Mythology carries in symbol. In the quoted verses: the only key to the sealed Art; the single confused mass made first, containing all Nature, called the first Material Mother; indestructible, easy to find, hard to get. (ATWOOD)
+  - = first Material Mother of all: “It pleased me the same to call, The first Material Mother of all.” `III.3 ¶76`
+  - “The same tradition of the manifold powers and preservation of the One Thing runs in symbol” `III.3 ¶69`
+  - “Which one thing only can unlocke; This one things learn to know,” `III.3 ¶68`
+  - “A mass confused and darkly clad, That in itself, all Nature had” `III.3 ¶76`
+- **Tincture** — In the verse, what soul and body combined through the spirit give: a tincture of fine silver, with fixity against fire. (For Atwood's 'Tincture of the Sapphiric Mine' see that entry.) (QUOTED: Eirenaeus)
+  - “Tincture to give of silver fine,” `III.3 ¶68`
+- **Arkite Mysteries** — Ancient rites which refer to the physical secret of regeneration; the god dead and revived is principal in them. (ATWOOD)
+  - “the Arkite Mysteries have reference to the physical secret of the regeneration” `III.3 ¶69`
+- **regeneration** (also: new birth) — The physical secret the Mysteries refer to; its first principle is the Word of God, conceived in the new birth. (ATWOOD)
+  - “The first, I the regeneration, is the Word of God independent without all human will” `III.3 ¶77`
+- **Archaeus** — That in which the Light lies long hidden until drawn out by artificial heat and exhalation. Not further defined here. (ATWOOD)
+  - “the Light, so long hidden and enshrined in the Archaeus” `III.3 ¶71`
+- **Tincture of the Sapphiric Mine** — The Light from the Archaeus emerging as a dry splendour; identified with the Subtendent. (ATWOOD)
+  - = dry splendour (the Light from the Archaeus): “comes forth as a dry splendour, surviving through all. And this is that Tincture of the Sapphiric Mine” `III.3 ¶71`
+  - = Subtendent: “this is that Tincture of the Sapphiric Mine before alluded to, and that Subtendent” `III.3 ¶71`
+- **Subtendent** — The extracted product, seminally equal to the whole of the parts from which it is derived; identified with the dry splendour and the Tincture of the Sapphiric Mine. (ATWOOD)
+  - = Tincture of the Sapphiric Mine: “this is that Tincture of the Sapphiric Mine before alluded to, and that Subtendent” `III.3 ¶71`
+  - “that Subtendent which is found seminally equal to the whole of the parts whence it is derived” `III.3 ¶71`
+- **Wisdom** — Perpetual theme of early poetry, ground of ancient science, proper subject of Divinity; vehicle of the Catholic Reason in Identity and bearer and measure of the Demiurgic Fire. (ATWOOD)
+  - “this Wisdom is the vehicle of the Catholic Reason in Identity, the bearer and measure of the Demiurgic Fire” `III.3 ¶71`
+- **Demiurgic Fire** — The creative fire borne by Wisdom, hidden and restricted by sensual conception so that man does not suspect it. (ATWOOD)
+  - “that Fire which the sensual conception occultates, and so forcibly restricts, that man does not suspect it even” `III.3 ¶71`
+- **free Will** — Not motiveless choice but the operative power freed from bondage, with effects following the will in full accord. (ATWOOD)
+  - = Almighty Magnet: “That was free Will, not the motiveless chimera which human fancy has been prone to coin, but the operative Almighty Magnet” `III.3 ¶71`
+- **Vital Spirit** — That whose 'sanquinary' circulation, under a threefold Law turned in three periods, is said ('it would seem') to be the whole secret. (ATWOOD)
+  - “consists in the sanquinary circulation of the Vital Spirit” `III.3 ¶72`
+- **Profundity** — One of the alchemists' three periods: the subjective life, the water below. (ATWOOD)
+  - = the subjective life, the water that is below: “the Profundity is the subjective life, the water that is below” `III.3 ¶72`
+- **Altitude** — One of the alchemists' three periods: the objective Light, the ether above. (ATWOOD)
+  - = the objective Light, the ether that is above: “the Altitude is the objective Light, the ether that is above” `III.3 ¶72`
+- **Latitude** — The union of Altitude and Profundity at their extreme poles, by which the wheel of Life is turned. (ATWOOD)
+  - “Altitude and Profundity, being united at their extreme poles, make Latitude” `III.3 ¶72`
+- **Calx** — Where the conflux of the water below and the ether above takes place; source from which the physical Tetractys springs. Not further defined here. (ATWOOD)
+  - “the conflux of these two is in a Calx” `III.3 ¶72`
+- **Tetractys** — The physical Tetractys springs from the Calx through the contrite experience into life, with prolific attributes and enduring fruits. Not further defined here. (ATWOOD)
+  - “the physical Tetractys springs through the contrite experience into life” `III.3 ¶72`
+- **Water (of the Adepts)** (also: water) — The product of the spiritual poles of mind in conjunction; regenerate in a visible, tangible, local, finite body, made manifest by the physico-chemical art; in it the principle of all is preserved through destruction; in the verse it never wastes. (ATWOOD)
+  - = Stilla roris, Lac Virginis, Elixir, Aqua Vitae, Azoth, Prima Materia Lapis et Rebis: “this was their Stilla roris, Lac Virginis, Elixir, Aqua Vitae, Azoth, Prima Materia Lapis et Rebis” `III.3 ¶73`
+  - = Lux umbra caresn, Water most orient (Democrit): “Which Democrit named to his intent, Lux umbra caresn, Water most orient;” `III.3 ¶74`
+  - = water of crude Mercury (Hermes): “As was water of crude Mercury: And this shall stand, said that noble clerke, For the Water within our werke” `III.3 ¶74`
+  - “the miraculous product of the spiritual poles of mind in sublime conjunction at their source” `III.3 ¶73`
+  - “in this water, when destruction has done its worst with the elements of life, the principle of all is artificially preserved” `III.3 ¶71`
+- **Experience** (also: experience) — In the verse Tablet, a personified creative power that framed all things from nothing and made the One Thing. In Atwood's prose, that in which the Matter is proved simple, and 'the resulting experience of life', third of the alchemical Three. (UNCLEAR)
+  - “That thou art the very same, That didst from nothing all things frame;” `III.3 ¶76`
+  - “the resulting experience of life” `III.3 ¶77`
+- **Sulphur, Mercury and Salt** (also: Slat) — The Three of alchemy: the active (Word of God in regeneration, independent of human will), the passive (the human selfhood prepared and sanctified), and the result of their union (the resulting experience of life, the Bodily Substance of things thenceforth created). (ATWOOD)
+  - = Three Powers in one seat: “And these are the Three continually noted in Alchemy, the Sulphur and Mercury and Slat” `III.3 ¶77`
+  - = the active, the passive, and the resulting experience of life: “the Sulphur and Mercury and Slat, the active and the passive, and the resulting experience of life” `III.3 ¶77`
+  - = Word of God (the first): “The first, I the regeneration, is the Word of God independent without all human will” `III.3 ¶77`
+  - = the selfhood (the second): “the second is of the Humanity, i.e., of the selfhood, prepared and sanctified” `III.3 ¶77`
+  - = Bodily Substance (the result): “the result of these two in unison is the Bodily Substance of things thenceforth created” `III.3 ¶77`
+- **microcosmical tradition** — The tradition Atwood suggests arose from the human hypostasis becoming universal intelligence through self-perceivance and voluntary resignation. (ATWOOD)
+  - “how the microcosmical tradition arose” `III.3 ¶77`
+
+## Sources cited
+
+- **Aelia Laelia Crispis** — “No male, nor female, nor hermaphrodite,” `III.3 ¶66` — Unattributed riddling inscription: a thing none of the opposites yet all, nowhere particular yet everywhere; follows the claim that the Matter is one Identity.
+- **Lucius Agatho Priscus** — “Both corpse and sepulcher the same!” `III.3 ¶66` — Companion inscription: corpse and sepulcher, contained and container, are the same.
+- **Scripture ('as it is written')** — “Thou hast disposed all things, in number, weight, and measure.” `III.3 ¶67` — Supports: number, weight and measure as Nature's three dimensions.
+- **Eirenaeus**, *Ripley Revived* — “That ‘t is a fountain sealed, Which one thing only can unlocke;” `III.3 ¶67, III.3 ¶68, III.3 n46` — Supports/illustrates: long verse on the signs, stages, timing and results of the work, and the one key to the sealed Art.
+- **Gentile Mythology** `III.3 ¶69` — Illustrates: carries in symbol the tradition of the manifold powers and preservation of the One Thing.
+- **Arkite Mysteries** `III.3 ¶69` — Supports: refer to the physical secret of regeneration.
+- **Cadmillus, Atys, Adonis, Osiris** `III.3 ¶69` — Illustrate the god dead and revived, among the Cabiri, in Phrygia, in Lydia and among the Egyptians.
+- **Proclus**, *Hymn to Minerva* — “The heart of Bacchus, swiftly slaughtered king, Was saved in Aether” `III.3 ¶70, III.3 n47` — Illustrates the god torn apart, preserved and renewed, and the demiurgic impulse in the mind.
+- **Taylor**, *Sallust* `III.3 n47` — Reference only: the Proclus hymn is given 'by Taylor, in his Sallust'.
+- **Cadmus, Deucalion, Osiris, Bacchus, Hercules, Orpheus** `III.3 ¶71` — Heroes who passed the same ordeal; their adventures read as records of the soul's struggle with her inner enemies.
+- **Poemander** — “do force the inwardly placed man to suffer sensibly” `III.3 ¶71` — Supports: language for the real suffering passions cause in the revealed light.
+- **Noah** — “as Noah in the Ark” `III.3 ¶71` — Illustrates the principle preserved in the water through destruction, which renews all things.
+- **the Alchemists** — “called by the Alchemists, for certain accurate reason, Altitude, Latitude and Profundity” `III.3 ¶72` — Source of the names for the three periods of the threefold Law.
+- **Norton**, *Ordinal, chap. 4* — “And this shall stand, said that noble clerke, For the Water within our werke” `III.3 ¶73, III.3 ¶74, III.3 n48` — Supports: verse on the never-wasting Water of the work, citing Democrit and Hermes for its names.
+- **Democrit** — “Lux umbra caresn, Water most orient;” `III.3 ¶74` — Reported within Norton's verse as naming the Water.
+- **Hermes** — “no liquor so necessary, As was water of crude Mercury:” `III.3 ¶74` — Reported within Norton's verse as naming the Water.
+- **Ashmole**, *Theat., p. 336; Experience and Philosophy* — “Blessed be thou, Experience!” `III.3 ¶75, III.3 ¶76, III.3 n49` — Supports: verse 'Tablet' erected by Philosophy to Experience, on the One Thing, the first Material Mother and the Three Powers in one seat, which III.3 ¶77 glosses as Sulphur, Mercury and Salt.
+
+## Ambiguities
+
+- “No male, nor female, nor hermaphrodite,” `III.3 ¶66`
+  - Reading: A riddle for the One Matter of III.3 ¶65 (one Identity, none and all).
+  - Reading: A riddle offered without stated referent.
+  - Basis: Placement directly after III.3 ¶65 and before 'All is identical --- need we repeat it?' (III.3 ¶67) supports the first; no attribution or gloss is given.
+- “The king and queen contumulate, And joined as one together,” `III.3 ¶68`
+  - Reading: The active and passive principles (Sulphur and Mercury) whose union yields the third.
+  - Reading: Soul and body, which the verse says 'so combine, The spirit interceding'.
+  - Reading: Left unexplained by the chunk.
+  - Basis: III.3 ¶77 names the Three as 'the active and the passive, and the resulting experience of life'; III.3 ¶68 later speaks of soul and body combining. The verse itself gives no identification.
+- “Twice ten more make the soul above To need no fire defender;” `III.3 ¶68`
+  - Reading: The soul becomes fixed enough to withstand fire without protection.
+  - Reading: External fire is no longer needed at this point.
+  - Basis: First: the following lines add 'fixity ... Against the flames prevailing'. Second: the literal wording 'need no fire defender'.
+- “the sanquinary circulation of the Vital Spirit” `III.3 ¶72`
+  - Reading: Literal circulation in the blood.
+  - Reading: Figurative, blood-like circulation of the Vital Spirit.
+  - Basis: 'sanquinary' is not explained; Atwood hedges with 'it would seem'.
+- “Prima Materia Lapis et Rebis” `III.3 ¶73`
+  - Reading: Three separate names: Prima Materia, Lapis, Rebis (a missing comma).
+  - Reading: One compound designation.
+  - Basis: The preceding names are comma-separated; here commas are absent and 'et' joins the last two.
+- “Blessed be thou, Experience!” `III.3 ¶75`
+  - Reading: Experience as personified divine creative power.
+  - Reading: Experience in Atwood's sense of the practical experience of the work.
+  - Basis: First: III.3 ¶76 calls Experience 'The High Omnipotent' that framed all things from nothing. Second: III.3 ¶65 'proved simple in the experience' and III.3 ¶77 'the resulting experience of life'.
+- “By a severance from real being, non- being, that is to say matte, s produced” `III.3 ¶77`
+  - Reading: The same one Matter of III.3 ¶65 viewed as severed from real being.
+  - Reading: A distinct sense: matter as mere non-being, opposed to the One Matter that is the true element.
+  - Basis: III.3 ¶65 calls the Matter of all things One and the true element; III.3 ¶77 calls matter non-being. The text does not relate the two uses.
+
+## Translations
+
+- `III.3 ¶71` “In hac aqua rosa latet hieme” → In this water the rose lies hidden in winter. (The book follows it with an explanatory expansion, not a literal translation: 'in this water, when destruction has done its worst with the elements of life, the principle of all is artificially preserved'.) *(ours)*
+- `III.3 ¶73` “Stilla roris, Lac Virginis, Elixir, Aqua Vitae, Azoth, Prima Materia Lapis et Rebis” → Drop of dew, Virgin's Milk, Elixir, Water of Life, Azoth, First Matter, Stone and Rebis. *(ours)*
+- `III.3 ¶74` “Lux umbra caresn” → Light lacking shadow (conjectural, reading 'caresn' as a misprint of 'carens'). *(ours)*
+
+## Threads
+
+- `III.3 ¶67` 'need we repeat it?' indicates the Universal Identity has been asserted before.
+- `III.3 ¶71` 'that Tincture of the Sapphiric Mine before alluded to' points to an earlier mention of the Tincture of the Sapphiric Mine.
+- `III.3 ¶71` 'as we may remember in the early tradition of Mysteries' points back to an earlier treatment of the Mysteries: material inflictors roused to vengeance by fate against rebels of her laws.
+- `III.3 ¶72` 'a threefold Law, as before explained' points to an earlier explanation of the threefold Law of the Vital Spirit's circulation.
+- `III.3 ¶75` 'Another Tablet' implies an earlier tablet, possibly the inscriptions at III.3 ¶66.

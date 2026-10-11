@@ -1,0 +1,1091 @@
+{
+  "chunk": "I.1_03",
+  "gist": "Continues the public history of the Hermetic art from the paradoxical epitaphs (read as describing the alchemists' universal subject) through early Christian and Alexandrian practitioners, the fall of Alexandria and withdrawal of the adepts, to the Arabian and later adepts (Geber, Rhasis, Morienus, Calid, Avicenna, Artephius). Along the way Atwood argues that sacramental types signified real efficacies, and that Geber's absurd-seeming recipes are deliberate veils over a practice conducted 'in a far different nature' than ordinary chemistry.",
+  "notes": [
+    {
+      "point": "Verse translations of the two epitaphs describe something neither male, female nor hermaphrodite, chaste nor harlot, 'but all of them', lying nowhere but everywhere; and a tomb neither pyramid nor grave yet all together, bodiless, 'corpse and sepulcher the same'.",
+      "refs": [
+        "I.1 ¶22",
+        "I.1 ¶23",
+        "I.1 n30"
+      ],
+      "voice": "QUOTED: periodical translations"
+    },
+    {
+      "point": "The alchemists say these contradictory claims relate to the properties of their universal subject; Atwood promises to explain later. Maier and Barnaud commented on the allusion.",
+      "refs": [
+        "I.1 ¶24",
+        "I.1 n31",
+        "I.1 n32"
+      ],
+      "voice": "QUOTED: the alchemists"
+    },
+    {
+      "point": "At Alexandria Christian Platonists discussed the Occult Art; St John is cited as practising it for the poor, healing and confecting gold, silver and gems, per St Victor and a Greek Catholic hymn.",
+      "refs": [
+        "I.1 ¶24",
+        "I.1 ¶25",
+        "I.1 n33"
+      ],
+      "voice": "QUOTED: St Victor; Greek Catholic hymn"
+    },
+    {
+      "point": "The early Church used powers gained by sanctity of life and faith; the Apostles' types (water, oil, salt, light) signified real efficacies. Reformers discarded them as superstitions; Papists placed holiness in the material signs apart from the spirit signified, falling into idolatry. Any revival should rest not on authority but on understanding and cooperating with the 'original virtue', without which they only mimic efficacy. Vaughan tells of faith spreading in China by open works of healing and purifying.",
+      "refs": [
+        "I.1 ¶26"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "In the Alexandrian revival Plotinus, Proclus, Jamblicus and others professed the Theurgic art and Hermetic experimental physics; Heliodorus, Synesius, Zosimus and others left treatises on the stone. Synesius, taught by Hypatia, kept the philosophy as bishop and with his brethren swore to initiate only the worthily prepared and approved.",
+      "refs": [
+        "I.1 ¶27",
+        "I.1 n34",
+        "I.1 n35",
+        "I.1 n36"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Heliodorus resigned his bishopric rather than disavow his romance; Athenagoras's Du Parfait Amour shows practical knowledge of the art it allegorizes.",
+      "refs": [
+        "I.1 ¶28",
+        "I.1 ¶29"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "After the Arab capture (640) and the library's burning, religion fell from its vital foundation (something like the Asclepian prophecy); priests without conscience tried to wield magic power; the Mysteries were abandoned and pursuing the 'Religion of Intellect' made capital. The few wise, seeing evil's ingression unfinished, hastened the crisis by burying their saving science in obscurity, leaving the world in darkness to this day.",
+      "refs": [
+        "I.1 ¶30"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Hermetic science has been professed in every religion and country. Geber, cited by the oldest authors and quoting none, is held by adepts greatest after Hermes; his three surviving treatises were revered by adepts, slighted by modern chemists.",
+      "refs": [
+        "I.1 ¶31",
+        "I.1 ¶32",
+        "I.1 n37"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Against the Faraday Society picture of crucible-brooders and 'gibberish' from Geber, Atwood says the philosophers experimented not with gross elements but in a far different nature, with a laboratory 'compact in one'. Geber's absurd literal recipes are wisdom's envelope: guarding the magistery, helping those on the right road, deceiving only the credulous; adepts say he spoke truth disguisedly.",
+      "refs": [
+        "I.1 ¶33"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Rhasis made public transmutations. Morienus became disciple of the adept Adfar and later initiated King Calid; Avicenna's alchemical remains are neither lucid nor numerous.",
+      "refs": [
+        "I.1 ¶34",
+        "I.1 ¶35",
+        "I.1 n38",
+        "I.1 n40"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Artephius claims a thousand-year life by the quintessence; seeing men fail through the philosophers' obscurity, he publishes all except one thing revealable only by God or a master, yet learnable from his book by the teachable and experienced. Atwood leaves credibility open.",
+      "refs": [
+        "I.1 ¶36",
+        "I.1 n41",
+        "I.1 n42"
+      ],
+      "voice": "QUOTED: Artephius"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "subject",
+      "veiled": "All these contradictory claims are said by the alchemists to relate to the properties of their universal subject",
+      "ref": "I.1 ¶24",
+      "plain": "The paradoxes of the epitaphs (neither one thing nor another but all; nowhere but everywhere; corpse and tomb the same) are descriptions of the properties of the single subject of the work. This chunk states the relation but defers the explanation.",
+      "status": "stated",
+      "basis": "I.1 ¶24 states the alchemists' reading; ¶23 gives the paradoxes.",
+      "voice": "QUOTED: the alchemists",
+      "also": [
+        {
+          "text": "Not in heaven, earth, or water broad It lies, but everywhere!",
+          "ref": "I.1 ¶23"
+        },
+        {
+          "text": "Both corpse and sepulcher the same!",
+          "ref": "I.1 ¶23"
+        }
+      ]
+    },
+    {
+      "aspect": "subject",
+      "veiled": "Not with our gross elements, our mercuries, sulfurs, and our lifeless salts; but in a far different nature, with stranger arts",
+      "ref": "I.1 ¶33",
+      "plain": "The philosophers' experiments were not on ordinary chemical substances but in some other order of nature; this chunk does not say what that nature is.",
+      "status": "stated",
+      "basis": "I.1 ¶33 directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "most complete with vessels, fuel, furnaces, and every material requisite, well adapted together and compact in one",
+      "ref": "I.1 ¶33",
+      "plain": "The philosophers' 'laboratory' unites vessel, fuel, furnace and material in a single compact whole, unlike a chemical laboratory. This chunk does not identify it.",
+      "status": "interpreted",
+      "basis": "I.1 ¶33: contrasted with laboratories 'now in use' and with 'gross elements'; 'compact in one' suggests a single self-contained thing. See ambiguities.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "they would observe the philosophers themselves, by a kindred light made visible, on their own ground",
+      "ref": "I.1 ¶33",
+      "plain": "One sees what the philosophers actually did only with a light (intellect) akin to theirs; without it they look like deluded crucible-brooders.",
+      "status": "interpreted",
+      "basis": "I.1 ¶33: conditional on 'had they one ray even of the antique intellect they deride'. See ambiguities.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "had they one ray even of the antique intellect they deride",
+          "ref": "I.1 ¶33"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "For they are a part of wisdom’s envelope, to guard her universal magistery from an incapable and dreaming world",
+      "ref": "I.1 ¶33",
+      "plain": "Geber's recipes, absurd if taken literally, are deliberate concealment: they protect the work from the unfit, stir rational curiosity, help those already on the right road, and mislead in practice only the credulous. Read rightly they are true and precise.",
+      "status": "stated",
+      "basis": "I.1 ¶33 directly.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "such ultra-foolishness in literality are his receipts, as folly is never found to venture or common sense invent",
+          "ref": "I.1 ¶33"
+        },
+        {
+          "text": "calculated they are, nevertheless, though closely sealed, to awaken rational curiosity, and lend a helping hand to those who have already entered on the right road",
+          "ref": "I.1 ¶33"
+        },
+        {
+          "text": "but to deceive in practice only the most credulous and inept",
+          "ref": "I.1 ¶33"
+        },
+        {
+          "text": "he has spoken the truth, though disguisedly, with great acuteness and precision",
+          "ref": "I.1 ¶33"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Right skillfully has old Geber veiled a fair discovery, by his own art alone to be unmasked",
+      "ref": "I.1 ¶33",
+      "plain": "The veil over Geber's discovery can be lifted only by his art itself, not by literal reading; the chunk does not say further how.",
+      "status": "interpreted",
+      "basis": "I.1 ¶33 'by his own art alone to be unmasked'; same paragraph says those who 'have really understood Geber' are 'his adept compeers'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "shows him to have been practically conversant with the art he allegorizes",
+      "ref": "I.1 ¶29",
+      "plain": "Allegorical writings (here a work titled Du Parfait Amour) can conceal genuine practical knowledge of the art.",
+      "status": "stated",
+      "basis": "I.1 ¶29 directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "that men have been unable to perfect the same magistery on account of the obscurity of the words of the philosophers",
+      "ref": "I.1 ¶36",
+      "plain": "The main obstacle to completing the work has been the obscure language of the authors.",
+      "status": "stated",
+      "basis": "I.1 ¶36 directly.",
+      "voice": "QUOTED: Artephius",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "I except one thing only, which it is not lawful that I should write, because it can be revealed truly only by God, or by a master",
+      "ref": "I.1 ¶36",
+      "plain": "One essential point is never written down; it is transmitted only by divine revelation or by a living teacher.",
+      "status": "stated",
+      "basis": "I.1 ¶36 directly. Atwood's narrative of Morienus seeking the adept Adfar and 'becoming at length his devoted disciple' (I.1 ¶35) illustrates transmission by a master.",
+      "voice": "QUOTED: Artephius",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "provided one be not stiff- necked, and have a little experience",
+      "ref": "I.1 ¶36",
+      "plain": "The withheld point can still be learned from the book by someone who is not obstinate and has some practical experience.",
+      "status": "stated",
+      "basis": "I.1 ¶36: 'Nevertheless, this likewise may be learned from this book'.",
+      "voice": "QUOTED: Artephius",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "to initiate none but such as had been worthily prepared and duly approved by the whole conclave",
+      "ref": "I.1 ¶27",
+      "plain": "Admission required prior preparation and approval by the whole body of initiates; the teaching was not expounded in public.",
+      "status": "stated",
+      "basis": "I.1 ¶27 directly.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "He was careful, however, to protect the mysteries of his religion from vulgar abuse",
+          "ref": "I.1 ¶27"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "the powers which sanctify of life and a well-grounded faith had gotten her",
+      "ref": "I.1 ¶26",
+      "plain": "Real powers were obtained through holiness of life and well-founded faith.",
+      "status": "stated",
+      "basis": "I.1 ¶26 directly (text reads 'sanctify of life').",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "having forsaken the law of conscience, attempted to wield without it the rod of magic power",
+      "ref": "I.1 ¶30",
+      "plain": "Trying to use magical power without conscience led to confusion and licentiousness and the downfall of the Mysteries; conscience is implied as a precondition.",
+      "status": "interpreted",
+      "basis": "I.1 ¶30: this is followed by 'Confusion and licentiousness followed' and the abandonment of the Mysteries.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "certain ordinances and elementary types, as of water, oil, salt and light, signified some real and notable efficacies",
+      "ref": "I.1 ¶26",
+      "plain": "The Church's sacramental signs stood for actual operative powers, not mere symbols.",
+      "status": "stated",
+      "basis": "I.1 ¶26 directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "by placing inherent holiness in those material signs, apart from the spirit and only thing signified",
+      "ref": "I.1 ¶26",
+      "plain": "Two opposite errors: treating the material sign as holy in itself (idolatry), or discarding signs as superstition. Both lose the real thing signified.",
+      "status": "stated",
+      "basis": "I.1 ¶26 directly.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "mistaking these things for superstitions",
+          "ref": "I.1 ¶26"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "but from a true understanding and cooperation of that original virtue, apart from which they do but mimic an efficacy, and gather unwholesome fruits",
+      "ref": "I.1 ¶26",
+      "plain": "There is an original power ('virtue') behind the signs; they work only when it is understood and actively cooperated with. This chunk does not say what the virtue is.",
+      "status": "interpreted",
+      "basis": "I.1 ¶26: 'that original virtue' refers back to the 'real and notable efficacies' the types signified.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "not only in healing the sick, but also confecting gold, silver and precious stones for their benefit",
+      "ref": "I.1 ¶24",
+      "plain": "Results attributed to the art as practised by St John: healing and making gold, silver and gems.",
+      "status": "stated",
+      "basis": "I.1 ¶24, ¶25 (reported tradition).",
+      "voice": "QUOTED: St Victor; Greek Catholic hymn",
+      "also": [
+        {
+          "text": "Qui de virgis fecit aurum Gemmas de lapidibus",
+          "ref": "I.1 ¶25"
+        }
+      ]
+    },
+    {
+      "aspect": "result",
+      "veiled": "by its open efficacy, and the power of works, in healing and purifying the lives of men",
+      "ref": "I.1 ¶26",
+      "plain": "Visible works of healing and moral purification established the faith, per a story Atwood takes from Vaughan.",
+      "status": "stated",
+      "basis": "I.1 ¶26.",
+      "voice": "QUOTED: Thomas Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "result",
+      "veiled": "by the grace of God alone, and the use of this admirable quintessence",
+      "ref": "I.1 ¶36",
+      "plain": "Artephius attributes a life of about a thousand years to the quintessence; Atwood calls it 'the elixir' and leaves the claim's credibility open.",
+      "status": "stated",
+      "basis": "I.1 ¶36: 'by the use of the elixir, is reported to have lived throughout the period of a thousand years'; 'with what truth or credibility opinions may vary'.",
+      "voice": "QUOTED: Artephius",
+      "also": [
+        {
+          "text": "by the use of the elixir, is reported to have lived throughout the period of a thousand years",
+          "ref": "I.1 ¶36"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "each professing a genuine knowledge of the Theurgic art, and experimental physics on the Hermetic ground",
+      "ref": "I.1 ¶27",
+      "plain": "The Alexandrian philosophers joined Theurgy with a Hermetic experimental physics; the chunk pairs them without defining either.",
+      "status": "stated",
+      "basis": "I.1 ¶27 directly.",
+      "voice": "ATWOOD",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "universal subject",
+      "variants": [],
+      "meaning": "The subject of the alchemists' work, whose properties the paradoxical epitaphs are said to describe; explanation deferred.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "All these contradictory claims are said by the alchemists to relate to the properties of their universal subject",
+          "ref": "I.1 ¶24"
+        }
+      ],
+      "voice": "QUOTED: the alchemists"
+    },
+    {
+      "term": "Occult Art",
+      "variants": [],
+      "meaning": "The art studied by Alexandrian Christian Platonists and divines; St John is said to have practised it for healing and making gold, silver and gems.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "studying and discussing the Occult Art in their writings",
+          "ref": "I.1 ¶24"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Hermetic science",
+      "variants": [],
+      "meaning": "Professed by men of every religion, time, country and occupation.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "men of every religion, time and country and occupation, have been found professing it",
+          "ref": "I.1 ¶31"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Theurgic art",
+      "variants": [
+        "Theurgic rites"
+      ],
+      "meaning": "Art professed by the Alexandrian philosophers alongside Hermetic experimental physics; its rites, 'no longer holy', were later proscribed.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "each professing a genuine knowledge of the Theurgic art, and experimental physics on the Hermetic ground",
+          "ref": "I.1 ¶27"
+        },
+        {
+          "text": "Theurgic rites, no longer holy, were proscribed",
+          "ref": "I.1 ¶30"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Mysteries",
+      "variants": [
+        "mysteries"
+      ],
+      "meaning": "What necessity compelled to be abandoned after Alexandria's fall, alongside the proscription of Theurgic rites; Synesius protected 'the mysteries of his religion' from vulgar abuse.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Necessity, at length, compelled an abandonment of the Mysteries",
+          "ref": "I.1 ¶30"
+        },
+        {
+          "text": "He was careful, however, to protect the mysteries of his religion from vulgar abuse",
+          "ref": "I.1 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Religion of Intellect",
+      "variants": [],
+      "meaning": "Name (in quotation marks) for what was punished by death when the Mysteries were abandoned and Theurgic rites proscribed; contrasted with tradition and secular delirium replacing 'intellectual enthusiasm'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a punishment, no less than death, was menaced against him who dared to pursue the \"Religion of Intellect\"",
+          "ref": "I.1 ¶30"
+        },
+        {
+          "text": "tradition and secular delirium had taken place of intellectual enthusiasm, and idle dreams were set up as oracles in the place of Divine inspiration",
+          "ref": "I.1 ¶30"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "saving science",
+      "variants": [],
+      "meaning": "The knowledge the few wise took with them into obscurity.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by burying themselves with their saving science in profound obscurity",
+          "ref": "I.1 ¶30"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "law of conscience",
+      "variants": [],
+      "meaning": "What the priests forsook while trying to wield magic power, leading to confusion.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "having forsaken the law of conscience, attempted to wield without it the rod of magic power",
+          "ref": "I.1 ¶30"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "types",
+      "variants": [],
+      "meaning": "Apostolic ordinances or signs (water, oil, salt, light) that signified real efficacies; also 'shadows and types of doctrines', a source of dissension; referred to as 'material signs'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "certain ordinances and elementary types, as of water, oil, salt and light, signified some real and notable efficacies",
+          "ref": "I.1 ¶26"
+        },
+        {
+          "text": "these very shadows and types of doctrines",
+          "ref": "I.1 ¶26"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "original virtue",
+      "variants": [],
+      "meaning": "The real power the types signify; without understanding and cooperating with it they only mimic efficacy.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "a true understanding and cooperation of that original virtue, apart from which they do but mimic an efficacy",
+          "ref": "I.1 ¶26"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "mystery of regeneration",
+      "variants": [],
+      "meaning": "Of which the Reformers retained little more than a traditional faith.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "retaining, indeed, little more of the mystery of regeneration than a traditional faith",
+          "ref": "I.1 ¶26"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "philosophers’ stone",
+      "variants": [],
+      "meaning": "Object of the treatises of the Alexandrian adepts and of Artephius; listed in the Faraday address among the alchemist's goals.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "have each left treatises which are extant on the philosophers’ stone",
+          "ref": "I.1 ¶27"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "magistery",
+      "variants": [
+        "Magistery"
+      ],
+      "meaning": "What wisdom's envelope guards ('universal magistery') and what men failed to perfect through the philosophers' obscurity; also in Geber's title 'The Sum of the Perfect Magistery'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "to guard her universal magistery from an incapable and dreaming world",
+          "ref": "I.1 ¶33"
+        },
+        {
+          "text": "unable to perfect the same magistery",
+          "ref": "I.1 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "elixir",
+      "variants": [],
+      "meaning": "By its use Artephius is reported to have lived a thousand years; 'elixir of life' appears in the Faraday quote.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "by the use of the elixir, is reported to have lived throughout the period of a thousand years",
+          "ref": "I.1 ¶36"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "quintessence",
+      "variants": [],
+      "meaning": "Artephius's name for what, with God's grace, gave him his long life.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the use of this admirable quintessence",
+          "ref": "I.1 ¶36"
+        }
+      ],
+      "voice": "QUOTED: Artephius"
+    },
+    {
+      "term": "alkahest",
+      "variants": [],
+      "meaning": "Named only in the Faraday Society list of alchemists' goals; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the philosophers’ stone, the transmutation of metals, the alkahest, and the elixir of life",
+          "ref": "I.1 ¶33"
+        }
+      ],
+      "voice": "QUOTED: Faraday Society address"
+    },
+    {
+      "term": "transmutation",
+      "variants": [
+        "transmuting"
+      ],
+      "meaning": "Of metals; practised publicly by Rhasis and reportedly by Avicenna.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "on account of the practical displays he made of his transmuting skill",
+          "ref": "I.1 ¶34"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "gibberish",
+      "variants": [
+        "geber"
+      ],
+      "meaning": "Per the Faraday address, derived from Geber's mysterious style; for Atwood his 'gibberish' is deliberate veiling.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "from whose peculiar and mysterious style of writing we derive the word geber or gibberish",
+          "ref": "I.1 ¶33"
+        }
+      ],
+      "voice": "QUOTED: Faraday Society address"
+    },
+    {
+      "term": "adept",
+      "variants": [
+        "adepts"
+      ],
+      "meaning": "Accomplished practitioner of the art; adepts are those who 'really understood Geber'.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "They who have really understood Geber, his adept compeers",
+          "ref": "I.1 ¶33"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Critic",
+      "work": "The Critic, new series, No. 13",
+      "quote": null,
+      "use": "Source of the English epitaph translations (1845).",
+      "refs": [
+        "I.1 ¶22",
+        "I.1 n30"
+      ]
+    },
+    {
+      "name": "Michael Maier",
+      "work": "Symbola (n31: Symbola Auriae Mensa)",
+      "quote": null,
+      "use": "Detailed the whole allusion of the epitaph.",
+      "refs": [
+        "I.1 ¶24",
+        "I.1 n31"
+      ]
+    },
+    {
+      "name": "N. Barnaud",
+      "work": "commentary in the Theatrum Chemicum (n32: Commentariolum in Enigmaticum quoddam Epitaphium Bononiae studiorum)",
+      "quote": null,
+      "use": "Commented on the epitaph.",
+      "refs": [
+        "I.1 ¶24",
+        "I.1 n32"
+      ]
+    },
+    {
+      "name": "St John, the Evangelist Apostle",
+      "work": null,
+      "quote": null,
+      "use": "Cited as practising the Occult Art for the poor (healing, making gold, silver, gems).",
+      "refs": [
+        "I.1 ¶24"
+      ]
+    },
+    {
+      "name": "St Victor",
+      "work": "a commentary",
+      "quote": null,
+      "use": "Relates the particulars of St John's practice.",
+      "refs": [
+        "I.1 ¶24"
+      ]
+    },
+    {
+      "name": "Greek Catholics' hymn for St John's day",
+      "work": null,
+      "quote": "Qui de virgis fecit aurum Gemmas de lapidibus",
+      "use": "Illustrates the tradition of St John making gold and gems.",
+      "refs": [
+        "I.1 ¶24",
+        "I.1 ¶25"
+      ]
+    },
+    {
+      "name": "Alexander Beauvais",
+      "work": "Speculo Naturali",
+      "quote": null,
+      "use": "Reference only (for the hymn).",
+      "refs": [
+        "I.1 n33"
+      ]
+    },
+    {
+      "name": "Thomas Vaughan",
+      "work": "Magia Adamica",
+      "quote": null,
+      "use": "Supports: story of an early Christian mission to China spreading faith by works of healing and purification.",
+      "refs": [
+        "I.1 ¶26"
+      ]
+    },
+    {
+      "name": "Plotinus, Philo-Judaeus, Proclus, Porphyry, Jamblicus, Julian, Apuleius",
+      "work": null,
+      "quote": null,
+      "use": "Alexandrian revival figures professing Theurgic and Hermetic knowledge; to be quoted later.",
+      "refs": [
+        "I.1 ¶27"
+      ]
+    },
+    {
+      "name": "Heliodorus, Olympiodorus, Synesius, Athenagoras, Zosimus, Archelaus",
+      "work": "treatises on the philosophers’ stone",
+      "quote": null,
+      "use": "Extant treatises on the stone.",
+      "refs": [
+        "I.1 ¶27",
+        "I.1 n34"
+      ]
+    },
+    {
+      "name": "Dufresnoy",
+      "work": "Hist. De l’Art Hermetique, vol. 3, Cat. Gr. Mss.",
+      "quote": null,
+      "use": "Reference only.",
+      "refs": [
+        "I.1 n34"
+      ]
+    },
+    {
+      "name": "Hypatia",
+      "work": null,
+      "quote": null,
+      "use": "Taught Synesius the occult truths of the philosophy.",
+      "refs": [
+        "I.1 ¶27"
+      ]
+    },
+    {
+      "name": "Synesius",
+      "work": "Epistola 36, 142; Alchemical commentary on Democritus; The True Book of Synesius, on the Philosophers’ Stone",
+      "quote": null,
+      "use": "Example of a bishop-adept who guarded the mysteries and bound initiation by oath.",
+      "refs": [
+        "I.1 ¶27",
+        "I.1 n35",
+        "I.1 n36"
+      ]
+    },
+    {
+      "name": "Democritus",
+      "work": null,
+      "quote": null,
+      "use": "Subject of Synesius's commentary (before mentioned).",
+      "refs": [
+        "I.1 ¶27"
+      ]
+    },
+    {
+      "name": "Artephius",
+      "work": "celebrated treatise on the philosophers’ stone (n42: Artefii Antiquissimi Philosophi de Arte Occulta atque Lapide Philosophorum Liber secretus)",
+      "quote": "I except one thing only, which it is not lawful that I should write, because it can be revealed truly only by God, or by a master",
+      "use": "Quoted at length: long life by the quintessence; publishes all but one unwritable point.",
+      "refs": [
+        "I.1 ¶27",
+        "I.1 ¶36",
+        "I.1 n42"
+      ]
+    },
+    {
+      "name": "Flamel",
+      "work": "Hieroglyphics",
+      "quote": null,
+      "use": "Reference only (Synesius's piece appended to it).",
+      "refs": [
+        "I.1 ¶27"
+      ]
+    },
+    {
+      "name": "Basil Valentine",
+      "work": "Chariot of Antimony (n36: The Triumphal Chariot of Antimony)",
+      "quote": null,
+      "use": "Reference only (published with Synesius in English).",
+      "refs": [
+        "I.1 ¶27",
+        "I.1 n36"
+      ]
+    },
+    {
+      "name": "Kirchringius",
+      "work": "commentaries",
+      "quote": null,
+      "use": "Called 'the adept'; his commentaries are 'useful'.",
+      "refs": [
+        "I.1 ¶27"
+      ]
+    },
+    {
+      "name": "Troics",
+      "work": "Traitez de la Philosophie, etc. (Paris 1612)",
+      "quote": null,
+      "use": "Reference only.",
+      "refs": [
+        "I.1 n36"
+      ]
+    },
+    {
+      "name": "Heliodorus",
+      "work": "Theagenes and Chariclea",
+      "quote": null,
+      "use": "Mystical romance attributed to him; he resigned his bishopric of Tricca rather than disavow it.",
+      "refs": [
+        "I.1 ¶28",
+        "I.1 n34"
+      ]
+    },
+    {
+      "name": "Zosimus",
+      "work": null,
+      "quote": null,
+      "use": "Egyptian, reputed a great practitioner.",
+      "refs": [
+        "I.1 ¶29"
+      ]
+    },
+    {
+      "name": "Athenagoras",
+      "work": "Du Parfait Amour",
+      "quote": null,
+      "use": "Shows practical knowledge of the art it allegorizes.",
+      "refs": [
+        "I.1 ¶29"
+      ]
+    },
+    {
+      "name": "Asclepian prophecy",
+      "work": null,
+      "quote": null,
+      "use": "Post-640 decline seen as something like its fulfilment, but worse than predicted.",
+      "refs": [
+        "I.1 ¶30"
+      ]
+    },
+    {
+      "name": "Geber",
+      "work": "The Investigation of Perfect, The Sum of the Perfect Magistery, Testament (n37: Gebri Arabum Summa Perfectionis magisterii in sua Natura)",
+      "quote": null,
+      "use": "Greatest after Hermes per adepts; his obscure recipes defended as deliberate veils.",
+      "refs": [
+        "I.1 ¶31",
+        "I.1 ¶32",
+        "I.1 ¶33",
+        "I.1 n37"
+      ]
+    },
+    {
+      "name": "Hermes",
+      "work": "books of the true Hermes",
+      "quote": null,
+      "use": "Standard of greatness (Geber ranks after him); Artephius learned the art from his books.",
+      "refs": [
+        "I.1 ¶31",
+        "I.1 ¶36"
+      ]
+    },
+    {
+      "name": "Albertus Magnus, Lully",
+      "work": null,
+      "quote": null,
+      "use": "Adepts who revered and cited Geber.",
+      "refs": [
+        "I.1 ¶32"
+      ]
+    },
+    {
+      "name": "Faraday Society, opening meeting address (1846)",
+      "work": null,
+      "quote": "from whose peculiar and mysterious style of writing we derive the word geber or gibberish",
+      "use": "Is criticized: modern view of alchemists as deluded crucible-brooders.",
+      "refs": [
+        "I.1 ¶33"
+      ]
+    },
+    {
+      "name": "Rhasis",
+      "work": null,
+      "quote": null,
+      "use": "Arabian alchemist famous for public transmutation displays.",
+      "refs": [
+        "I.1 ¶34"
+      ]
+    },
+    {
+      "name": "Roger Bacon",
+      "work": "Libro de Mirab. Natur. Operib.",
+      "quote": null,
+      "use": "Contains extracts from Rhasis; appears to credit Artephius's tale.",
+      "refs": [
+        "I.1 ¶34",
+        "I.1 ¶36",
+        "I.1 n41"
+      ]
+    },
+    {
+      "name": "Morienus (Morien)",
+      "work": "dialogue with Calid (n38: Morienus Eremita Hierosol. De Transfiguratione Metallorum)",
+      "quote": null,
+      "use": "Example of a disciple of an adept (Adfar) who later initiated King Calid.",
+      "refs": [
+        "I.1 ¶35",
+        "I.1 n38"
+      ]
+    },
+    {
+      "name": "Morienus's biographer",
+      "work": null,
+      "quote": null,
+      "use": "Relates Morienus's story; too long to extract.",
+      "refs": [
+        "I.1 ¶35"
+      ]
+    },
+    {
+      "name": "Adfar",
+      "work": null,
+      "quote": null,
+      "use": "Solitary adept of Alexandria, Morienus's master.",
+      "refs": [
+        "I.1 ¶35"
+      ]
+    },
+    {
+      "name": "Calid",
+      "work": "Liber Secretorum, or Secret of Secrets",
+      "quote": null,
+      "use": "King initiated and converted; wrote treatises.",
+      "refs": [
+        "I.1 ¶35"
+      ]
+    },
+    {
+      "name": "Theatr. Chem. vol. 5; Salmon’s Practical Physic; Le Bibliotheque des Philosophes Chimiques",
+      "work": null,
+      "quote": null,
+      "use": "Reference only (n39; no marker for it appears in the main text).",
+      "refs": [
+        "I.1 n39"
+      ]
+    },
+    {
+      "name": "Averroes",
+      "work": null,
+      "quote": null,
+      "use": "Named as demanding notice; nothing more said.",
+      "refs": [
+        "I.1 ¶35"
+      ]
+    },
+    {
+      "name": "Avicenna",
+      "work": "Avicenna de Tinctura Metallorum; Porta Elementa; de Mineralibus (attributed)",
+      "quote": null,
+      "use": "Reputed practitioner of transmutation and magic; remains neither lucid nor numerous.",
+      "refs": [
+        "I.1 ¶35",
+        "I.1 n40"
+      ]
+    },
+    {
+      "name": "Paracelsus",
+      "work": "Libro de Vita longa",
+      "quote": null,
+      "use": "Compared to Avicenna's ill-directed genius; appears to credit Artephius's tale.",
+      "refs": [
+        "I.1 ¶35",
+        "I.1 ¶36",
+        "I.1 n41"
+      ]
+    },
+    {
+      "name": "Pontanus",
+      "work": "Epistola",
+      "quote": null,
+      "use": "Appears to credit Artephius's tale.",
+      "refs": [
+        "I.1 ¶36",
+        "I.1 n41"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "most complete with vessels, fuel, furnaces, and every material requisite, well adapted together and compact in one",
+      "ref": "I.1 ¶33",
+      "readings": [
+        "A single self-contained thing in which vessel, fuel, furnace and material are united (not an external laboratory at all).",
+        "Simply a complete, well-equipped laboratory of a different kind from modern ones."
+      ],
+      "basis": "Reading A: 'compact in one', contrast with 'gross elements' and 'a far different nature'. Reading B: 'of common fittings, yet not inferior either' and the listing of ordinary apparatus."
+    },
+    {
+      "quote": "they would observe the philosophers themselves, by a kindred light made visible",
+      "ref": "I.1 ¶33",
+      "readings": [
+        "The observer would need a light akin to the philosophers' own intellect to see them.",
+        "The philosophers are shown by a light kindred to their own art or nature."
+      ],
+      "basis": "Reading A: preceding condition 'had they one ray even of the antique intellect they deride'. Reading B: the phrase grammatically attaches to 'the philosophers themselves'."
+    },
+    {
+      "quote": "observing by the aid of their remaining wisdom, that the ingression of evil was not yet fulfilled, hastened rather than delayed the crisis",
+      "ref": "I.1 ¶30",
+      "readings": [
+        "The wise withdrew so the decline would run its full course sooner.",
+        "Their withdrawal itself precipitated the crisis, which they accepted as unavoidable."
+      ],
+      "basis": "I.1 ¶30: the clause is followed by 'by burying themselves with their saving science in profound obscurity'; the text does not state their motive further."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "I.1 ¶25",
+      "original": "Cum gemmarum partes fractas Solidasset, has distractas Tribuit pauperibus. Inexhaustum fert thesaurum Qui de virgis fecit aurum Gemmas de lapidibus",
+      "translation": "When he had made whole the broken pieces of gems, he gave them out, dispersed, to the poor. He bears an inexhaustible treasure who made gold from twigs, gems from stones.",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶29",
+      "original": "Du Parfait Amour",
+      "translation": "On Perfect Love",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 ¶35",
+      "original": "Liber Secretorum",
+      "translation": "Secret of Secrets",
+      "by": "book"
+    },
+    {
+      "ref": "I.1 n42",
+      "original": "Artefii Antiquissimi Philosophi de Arte Occulta atque Lapide Philosophorum Liber secretus",
+      "translation": "The secret book of Artephius, most ancient philosopher, on the occult art and the philosophers' stone",
+      "by": "ours"
+    },
+    {
+      "ref": "I.1 n37",
+      "original": "Gebri Arabum Summa Perfectionis magisterii in sua Natura",
+      "translation": "Geber of the Arabs: the sum of the perfection of the magistery in its nature",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "I.1 ¶22",
+      "note": "'The following excellent translations' are of verses whose originals are not given in this chunk."
+    },
+    {
+      "ref": "I.1 ¶24",
+      "note": "'as we shall hereafter endeavor to explain': the properties of the universal subject to which the epitaphs' contradictions relate."
+    },
+    {
+      "ref": "I.1 ¶27",
+      "note": "'We shall have frequent occasion to quote their evidence hereafter': Plotinus, Philo-Judaeus, Proclus, Porphyry, Jamblicus, Julian, Apuleius."
+    },
+    {
+      "ref": "I.1 ¶27",
+      "note": "'Alchemical commentary on Democritus before mentioned': Synesius's commentary, mentioned earlier."
+    },
+    {
+      "ref": "I.1 ¶28",
+      "note": "'besides the writings already named': Heliodorus's writings, named earlier."
+    },
+    {
+      "ref": "I.1 ¶30",
+      "note": "'the Asclepian prophecy' is referred to as already known; its content is not given here."
+    },
+    {
+      "ref": "I.1 ¶36",
+      "note": "Artephius says the unwritable point 'may be learned from this book' — his treatise on the philosophers’ stone."
+    }
+  ]
+}

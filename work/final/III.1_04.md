@@ -1,0 +1,307 @@
+# III.1_04
+
+*Atwood argues that the operator cannot work by self-will or alone. The seeking Reason (Will, efficient, Sun, Power) must be joined with the Passive Intelligence (Moon, Wisdom), with agent and patient as equal spirits prepared together, and their mutual death and reunion yields a new life (Quintessence, Mercury, Elixir) that becomes living gold. She then sums up the aim as a regeneration that exchanges the sensible and the occult life, and illustrates it with the serpents-toad-dragon-swan-Phoenix allegory.*
+
+## Argument
+
+- Sophistry, avarice and ignorance do not lead in this Art. Whoever imposes his own blind purpose without the Divine Light, instead of inquiring patiently, is baffled by the Law of Nature. Hence the Inquisitor's training. `III.1 ¶38` — ATWOOD
+- Lovers of Art, whose Separator is a subtle artist within them, must first become wholly one with God's love and grace. One may show the way to the pearl, but not give the divine Separator into the bestial hand. `III.1 ¶39, III.1 n43` — QUOTED: Jacob Boehme
+- The divine cannot exactly be given into possession, save by 'mediate occupation'. Hence the guardian of the Light: fable heroes never labor alone (Ariadne, Medea, the Sybil). `III.1 ¶40` — ATWOOD
+- In Alchemy the Moon is the Passive Intelligence: freed and conjoined, she answers the Will of her seeking Reason and passes with him through the abyss. Knowledge and the true efficient spring from within, one in principle, distinguished for offspring. The Passive Understanding directs the analysis. `III.1 ¶40, III.1 n44` — ATWOOD
+- Per the Smagardine Table, agent and patient must both be prepared; only equal Spirits are allied, each needing the other, advancing from corporeal to spiritual. `III.1 ¶41, III.1 n45` — ATWOOD
+- External fire alters; only the purified internal fire perfects. `III.1 ¶42, III.1 ¶43, III.1 n46` — ATWOOD
+- Universal reason must be distinguished from perplexed mundane understanding; nothing gives a virtue it lacks. Hermes: mortify two Argent vives together. `III.1 ¶43, III.1 ¶44, III.1 n47, III.1 n48` — ATWOOD
+- These, the philosophical Sun and Moon, sound the depths together: force and Wisdom (Plutarch), action and contemplation (Synesius), arrow-darting and prophetic powers (Proclus). `III.1 ¶45, III.1 n49, III.1 n50` — ATWOOD
+- Power without Wisdom destroys; Intellect without the Hands cannot act. Concurring, they let the Will descend safely to the abodes of Power. `III.1 ¶45, III.1 ¶46, III.1 n51, III.1 n52` — ATWOOD
+- The Rational Efficient discovers the evil of its first conception and dissolves the Vital Bond. `III.1 ¶47` — ATWOOD
+- Seek not in the outward spirit. At the cross in the Fourth Form bring Sol and Luna through anguish into death, back to the center of the will, until it hungers for a body; give it Sol, the soul, and they conceive one. `III.1 ¶48, III.1 n53` — QUOTED: Jacob Boehme
+- By mutual death of agent and patient the old life is crucified; reunion under another law yields the Quintessence, Mercury, Elixir of Life, which with the Divine light becomes living gold. `III.1 ¶49` — ATWOOD
+- The stone comes with Light, then brings forth darkness, mother of all things. `III.1 ¶49, III.1 n54` — QUOTED: the Master
+- Summary: repeated Rational Analysis alters the Vital Spirit and dissolves the natural hypostasis. What was found is regeneration: the sensible becomes occult, the occult reason of life manifest. The body of gold is circulated with its kindred spirit until one conceives by the other. `III.1 ¶50` — ATWOOD
+- Two spiritual serpents, knotted and besieged with the fire of nature, become toad, dragon, swan, then a Phoenix fed with father's fire and mother's ether; nature reaches the horizon of Eternity. `III.1 ¶50, III.1 n55` — QUOTED: Cornelius Agrippa's ingenious disciple
+- The union sought requires the first unity; without the first love the elements never marry, the end of magic. `III.1 ¶50, III.1 n56` — UNCLEAR
+
+## Method
+
+- **impediment** — “he who presumes without the revelation of the Divine Light to introduce his own blind purpose, instead of conditionating and inquiring patiently, will be in danger of falling into infinite snares” `III.1 ¶38` (ATWOOD)
+  - **Plain (stated):** The main obstacle is imposing one's own self-directed aim on the work without divine illumination. The work requires patiently setting conditions and inquiring. Sophistry, avarice and ignorance are ruled out as guides.
+  - Also: “Sophistry, it will be observed therefore is no leader in this Art, or avarice, or ignorance,” `III.1 ¶38`
+- **operator** — “that he may know what, and where, and how he ought to obey, and inquire, and will, and hope” `III.1 ¶38` (ATWOOD)
+  - **Plain (stated):** The operator (the 'true Inquisitor') is trained to obtain a clear 'passport' and to know what, where and how to obey, inquire, will and hope.
+  - Also: “all the care that is taken to train the true Inquisitor, that he may obtain the passport clear” `III.1 ¶38`
+- **operator** — “that they first seek God’s love and grace, and resign up themselves to become wholly one with that: else all their seeking is but a delusion” `III.1 ¶39` (QUOTED: Jacob Boehme)
+  - **Plain (stated):** The first requirement of the operator is self-surrender to divine love and grace; without it the search finds only a shadow.
+- **agent** — “whose Separator is an artist of great subtlety in them” `III.1 ¶39` (QUOTED: Jacob Boehme)
+  - **Plain (interpreted):** The 'divine Separator' is a subtle working power inside the lovers of Art. The way to it may be shown, but it may not be handed to an unworthy ('bestial') person. Atwood doubts the divine can be given into possession at all, except as 'a mediate occupation'. The chunk does not further define the Separator.
+  - Basis: III.1 ¶39 places the Separator 'in them', calls it 'the divine Separator' and forbids giving it 'into the bestial hand'; III.1 ¶40 'We do not see either that it is exactly possible to give into such possession that which is divine'.
+  - Also: “to give the divine Separator into the bestial hand is prohibited” `III.1 ¶39`
+- **agent** — “the Moon is singularly honored, for it is the Passive Intelligence which, freed by art and set in conjunction, responds to the Will of her seeking Reason” `III.1 ¶40` (ATWOOD)
+  - **Plain (stated):** The alchemical Moon is a receptive intelligence. Once art frees it and joins it to the active seeking Reason (Will), it answers that Will, finds the way forward, unravels each tangled thought, removes obstacles, and goes with the Reason through the 'abyss' or 'kingdom of confusion' unharmed. It follows Atwood's mention of the 'guardian of the Light' and the fable helpers of heroes (Ariadne, Medea, Minerva, the Sybil); the text does not explicitly identify these with the Moon, nor say whether this is an inner faculty or a second person (see ambiguities).
+  - Basis: III.1 ¶40 identifies the Moon as the Passive Intelligence and describes its role; the link to the 'guardian of the Light' and the fable helpers is only by sequence in ¶40.
+  - Also: “the representative understanding, measure, and guardian of the Light” `III.1 ¶40`
+  - Also: “the heroic adventurer with all his divine equipment, though he loses his first companion, never goes through the labors alone; but is aided by stratagem and wise counsel in the way” `III.1 ¶40`
+  - Also: “passes with him through the abyss, as it were the very kingdom of confusion, triumphant over all and unconfounded” `III.1 ¶40`
+- **principle** — “It is from within that the knowledge springs together with the true efficient” `III.1 ¶40` (ATWOOD)
+  - **Plain (stated):** The knowledge and the working cause both arise inside. They are one in principle but are treated as two in practice 'for the sake of offspring', i.e. so that they can generate. Together they reveal their own origin, essence and destination.
+  - Also: “which are indeed one in principle, but in their practical operation and for the sake of offspring are distinguished and separately represented in the Art” `III.1 ¶40`
+- **procedure** — “The mode of analysis however is directed, and the means for the most part provided by the Passive Understanding gotten in transcendental contemplation of herself” `III.1 ¶40` (ATWOOD)
+  - **Plain (stated):** The receptive understanding guides the analysis and supplies most of its means; it is attained when it contemplates itself in a transcendent state.
+- **subject** — “Istud est vas Hermetis, quod Stoici occultaverunt, et non est vas nigromaniticum sed est Mesnura Ignis tui” `III.1 ¶40` (QUOTED: Maria Practica)
+  - **Plain (interpreted):** The 'vessel of Hermes' is not a necromantic vessel but the 'measure of thy fire'. Placed directly after the Passive Understanding sentence, it appears to name that understanding as the vessel.
+  - Basis: Rests on our translation (the book gives none) and only on placement in III.1 ¶40; the text does not state the identification. See ambiguities.
+- **procedure** — “Both therefore have to be prepared --- the spiritual agent and the spiritual patient” `III.1 ¶41` (ATWOOD)
+  - **Plain (stated):** The work needs two spiritual principles, one active and one receptive. Both must be prepared, they must be of like and equal nature, and each needs the other's help.
+  - Also: “It is not lawful therefore, in this work, to conjoin unlike natures; but, in order to bettering in the offspring equal Spirits are allied” `III.1 ¶41`
+  - Also: “both need the help of the other, for the precepts demand a medium” `III.1 ¶41`
+- **result** — “even to the order of bodies permanent, being changed from a corporeal to a spiritual extreme” `III.1 ¶41` (ATWOOD)
+  - **Plain (stated):** As the crude natural life was first improved within the natural order, the supernatural is advanced further, to a permanent 'body' that has passed from a corporeal to a spiritual state.
+- **agent** — “The fire of the natural life stirs up and, being manumitted, alters; but the internal alone is able, being purified, to perfect the work begun” `III.1 ¶43` (ATWOOD)
+  - **Plain (stated):** There are two fires. The fire of natural life, once released, stirs up and changes the matter. Only the purified inner fire can complete the work.
+  - Basis: Atwood's gloss in III.1 ¶43 on the verse in III.1 ¶42.
+  - Also: “L’externe feu de charbon Rend la matiere alteree, Mais l’interne et l’artheree Faira ton ouvrage bon” `III.1 ¶42`
+- **principle** — “distinguish, in our conception, the pure from the impure, the rectified spirit of universal reason and its intelligence from the gross ether and perplexed understanding” `III.1 ¶43` (ATWOOD)
+  - **Plain (stated):** The operator must keep the refined universal reason and its intelligence apart from the coarse ether and confused understanding of ordinary life. Nothing yields a virtue it lacks, but what is present can be improved and magnified.
+  - Also: “For there cannot come of any thing that virtue which it has not; though that which it has indeed may be improved and magnified.” `III.1 ¶43`
+- **procedure** — “it behooves us to mortify two Argent vives together” `III.1 ¶43` (QUOTED: Hermes)
+  - **Plain (interpreted):** Two 'quicksilvers', of Auripigment and the Oriental of magnesia, must be put to death together, each venerating and venerated. In context they appear to be the paired natures (agent/patient, Sun/Moon) of the argument; the chunk does not say which is which.
+  - Basis: III.1 ¶41 paired agent and patient; III.1 ¶43 'both to venerate and to be venerated'; III.1 ¶45 'These are they which sound the depths together; the Sun and Moon, philosophical'; III.1 ¶49 'death and contrition of the agent in the patient, and vice versa'. See ambiguities.
+  - Also: “the Argent vive of Auripigment and the Oriental Argent vive of magnesia” `III.1 ¶43`
+- **agent** — “These are they which sound the depths together; the Sun and Moon, philosophical.” `III.1 ¶45` (ATWOOD)
+  - **Plain (interpreted):** The philosophical Sun and Moon work the depths jointly. Per Plutarch the Moon reflects reason and proceeds from Wisdom, the Sun works by strength and force; Atwood's following 'Wisdom with Power' appears to map Moon to Wisdom and Sun to Power, though she does not state the mapping.
+  - Basis: III.1 ¶45: Plutarch's Moon reflects 'the works of reason' and proceeds 'from Wisdom'; the Sun works 'by mere dint of strength and force'; Atwood follows with 'Wisdom with Power' without naming Sun or Moon.
+  - Also: “the influence of the Moon, says Plutarch, seems to reflect the works of reason, and to proceed from Wisdom” `III.1 ¶45`
+- **principle** — “there are two pairs of eyes, and it is requisite that the pair which are beneath should be closed when the pair which are above them perceive” `III.1 ¶45` (QUOTED: Synesius)
+  - **Plain (stated):** Contemplation and action alternate: when the higher faculty perceives, the lower is shut, and the reverse; an intermediate nature works by each in turn.
+  - Basis: Synesius' explanation in III.1 ¶45: 'an enigma indicative of contemplation and action'.
+  - Also: “this is an enigma indicative of contemplation and action; the intermediate nature alternately energizing according to each of these” `III.1 ¶45`
+- **principle** — “these two concurring, Wisdom with Power in subtle and firm texture of divine splendor and prophetic companionship, the Will may descend in safety to the abodes of Power” `III.1 ¶45` (ATWOOD)
+  - **Plain (stated):** Power alone destroys, and intellect alone cannot act without 'the Hands'. Only when Wisdom and Power are joined can the Will safely descend into the region of Power.
+  - Also: “Intellect is therefore useless for the purposes of action when deprived of the subserviency of the Hands” `III.1 ¶45`
+  - Also: “the prophetic power unfolds the simplicity of truth and takes away the variety of that which is false; but the arrow-darting power exterminates everything, furious and wild” `III.1 ¶45`
+- **stage** — “it proceeds even to a dissolution of the Vital Bond, continually imaging its revelation in act” `III.1 ¶47` (ATWOOD)
+  - **Plain (stated):** The active Rational Efficient, guided by intelligence, finds the defect of its original conception, now showing 'manifold within the veil', and goes on to dissolve the bond of the natural life, continually enacting what it sees. The chunk does not further define the Vital Bond.
+  - Basis: III.1 ¶47; cf. III.1 ¶50 'dissolution of the whole natural born hypostasis'.
+  - Also: “the Rational Efficient, armed with a bright intelligence, discovers the evil of its first conception, now appearing manifold within the veil” `III.1 ¶47`
+- **impediment** — “if you would seek the Mystery, seek it not in the outward spirit; you will there be deceived” `III.1 ¶48` (QUOTED: Jacob Boehme)
+  - **Plain (stated):** The Mystery is not found in the outward spirit; there one gets only a glance of it and an imperfect product. The pure product must be sought 'in another world'.
+  - Also: “in this world you will find only the drossy child, that is altogether imperfect” `III.1 ¶48`
+  - Also: “You must seek in another world for the pure child that is without spot” `III.1 ¶48`
+- **stage** — “bring them through an anguish into death, and bruise that composed magical body so long until it becomes again that which it was before in the center of the will” `III.1 ¶48` (QUOTED: Jacob Boehme; glossed by ATWOOD)
+  - **Plain (stated):** At 'the cross in the Fourth Form', where Sol and Luna are together, the pair is brought through suffering into death until the compound returns to its original state in the will's center. Atwood glosses this as the mutual death of agent in patient, by which the old life is crucified. The chunk does not explain 'Fourth Form'.
+  - Basis: Atwood's gloss in III.1 ¶49.
+  - Also: “enter I even to the cross in the Fourth Form, there you have Sol and Luna together” `III.1 ¶48`
+  - Also: “by death and contrition of the agent in the patient, and vice versa, the old life is finally crucified” `III.1 ¶49`
+- **stage** — “give it Sol, viz., the soul, that conjoining they may conceive a body according to that soul” `III.1 ¶48` (QUOTED: Jacob Boehme)
+  - **Plain (stated):** Once reduced, the compound becomes 'magical and hungry after nature' and longs for a body. Sol, which the text says is the soul, is given to it, and together they conceive a body matching that soul; the Will then springs up 'in Paradise'. Atwood calls this 'reunion of the principles under another law'.
+  - Basis: III.1 ¶48 identifies Sol as the soul; III.1 ¶49 gloss.
+  - Also: “then it becometh magical and hungry after nature. It is a longing in the eternal desire, and would fain have a body” `III.1 ¶48`
+  - Also: “So the Will springs up in Paradise with fair golden fruits.” `III.1 ¶48`
+- **result** — “which life is a very real and pure Quintessence, the Mercury so much sought after, even the Elixir of Life” `III.1 ¶49` (ATWOOD)
+  - **Plain (stated):** The new life drawn out of the crucifixion and reunion is itself the Quintessence, Mercury and Elixir of Life. With the strengthening virtue of the Divine light it draws, it becomes the philosophers' 'living gold', transmuting and multiplying, of which metal gold is only the dead form.
+  - Also: “needs only the corroborative virtue of the Divine light which it draws, in order to become the living gold of the philosophers, transmuting and multiplicative” `III.1 ¶49`
+- **sign** — “Our stone comes with Light, and with Light it is generated; and then it brings forth the clouds, or darkness, which is the mother of all things” `III.1 ¶49` (QUOTED: the Master)
+  - **Plain (interpreted):** The stone comes and is generated with Light, then produces darkness, called 'the mother of all things'. Whether this is a sequence of stages is not said; the chunk does not explain it (see ambiguities).
+  - Basis: Quoted without Atwood's comment in III.1 ¶49; only the stated order (Light, then darkness) is taken.
+  - Also: “which containest and separatest all things in a middle principle” `III.1 ¶49`
+- **procedure** — “the object was to produce an alteration in the Vital Spirit and that this was operated by a true Rational Analysis, which, repeatedly passed through, leads on to a dissolution of the whole natural born hypostasis” `III.1 ¶50` (ATWOOD)
+  - **Plain (stated):** After the preliminaries, the life-spirit is changed by a genuine rational analysis, repeated many times, until the whole natural-born constitution dissolves. That dissolution is the condition for a new life and growth into consciousness.
+  - Also: “is the condition proper to induce a new life and growth into consciousness” `III.1 ¶50`
+- **result** — “this miraculous principle of regeneration; by which the relationships of the vital elements are exchanged” `III.1 ¶50` (ATWOOD)
+  - **Plain (stated):** What the philosophers found in the Stone is a principle of rebirth that reverses the order of the vital elements: the sensible medium, dominant in ordinary life, becomes hidden, and the hidden, supernatural, universal ('catholic') reason of life becomes manifest and powerful.
+  - Also: “the sensible medium, which in this present birth is dominant, being made occult; and the occult supernatural reason of life, which is catholic, becoming manifest in self-evidence and power” `III.1 ¶50`
+- **procedure** — “joining it with a spirit that is consanquineous and proper to it, and circulating these two natures one upon the other, until one have conceived by the other” `III.1 ¶50` (ATWOOD)
+  - **Plain (stated):** Once found, the 'metaphysical body of gold' becomes useful only when joined with a spirit of its own kind and the two are worked repeatedly on each other until one is impregnated by the other.
+- **subject** — “Take our two serpents, which are to be found everywhere on the face of the earth; they are a living male and a living female” `III.1 ¶50` (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - **Plain (interpreted):** The two serpents are a male and a female principle, found everywhere, to be understood spiritually and not bodily (stated). They appear to be the two natures, the body and its consanguineous spirit, that the preceding sentence says must be joined (interpreted).
+  - Basis: III.1 ¶50 '(understand in relation to the spirit always without all corporeal allusion)' states the spiritual sense; Atwood introduces the allegory directly after the joining of body and spirit.
+  - Also: “Pinge duos Angues” `III.1 ¶50`
+- **procedure** — “Thou must incamp against them with the fire of nature, and be sure thou dost bring thy line round about. Circle them in, and stop all avenues, that they find no relief.” `III.1 ¶50` (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - **Plain (interpreted):** First labor: bind the two principles in a 'love knot' and enclose them in the 'Arabian Caraha'. Second, harder labor: besiege them with the 'fire of nature', every outlet closed, and continue patiently. The chunk defines neither 'Caraha' nor 'fire of nature' (see ambiguities).
+  - Basis: III.1 ¶50: 'This is the first labor; but the next is more difficult' and 'Continue this siege patiently'.
+  - Also: “tie them in a love knot and shut them up in the Arabian Caraha” `III.1 ¶50`
+  - Also: “Continue this siege patiently” `III.1 ¶50`
+- **sign** — “they turn into an ugly venomous black toad; which will be transformed to a horrible devouring dragon, creeping and weltering in the bottom of her cave, without wings” `III.1 ¶50` (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - **Plain (interpreted):** Successive appearances mark the stages: black toad; wingless dragon (a poison not to be touched); swan whiter than snow; then, after the fire is strengthened, a deep red Phoenix. The chunk does not explain these images beyond their order and the instructions attached.
+  - Basis: III.1 ¶50 gives the sequence as the outcome of the siege ('As thou hast begun so proceed', 'Henceforth I will allow thee to fortify thy fire, till the Phoenix appears'); no gloss is given.
+  - Also: “Touch her not by any means, continues the adept, not so much as with thy hands, for there is not upon the earth such a vehement transcendent poison” `III.1 ¶50`
+  - Also: “this dragon will turn into a swan, but more white than the hovering virgin snow” `III.1 ¶50`
+  - Also: “Henceforth I will allow thee to fortify thy fire, till the Phoenix appears. It is a red bird of a most deep color with a shining fiery hue.” `III.1 ¶50`
+- **procedure** — “Feed this bird with the fire of his father and the ether of his mother; for the first is meat, the second is drink” `III.1 ¶50` (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - **Plain (stated):** The Phoenix is nourished from both parents: fire from the father, ether or moisture from the mother. Fire alone is dry and choleric; only a proper moisture tempers it and brings it to exaltation. The text marks this as a secret: fire must itself be fed.
+  - Also: “Be sure to understand this secret; for fire feeds not well unless it be first fed.” `III.1 ¶50`
+  - Also: “a proper moisture tempers it, gives it a heavenly complexion and brings it to the desired exaltation” `III.1 ¶50`
+- **result** — “thou hast placed nature in the horizon of Eternity” `III.1 ¶50` (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - **Plain (stated):** The completed work raises nature to the border of the eternal, fulfilling the Kabalist's command to unite end to beginning.
+  - Also: “Unite the end to the beginning as the flame is united to the coal” `III.1 ¶50`
+- **principle** — “Without this love the elements will never be married; they will never inward and essentially unite; which is the end and perfection of magic” `III.1 ¶50` (UNCLEAR)
+  - **Plain (stated):** The lasting, transmuting union sought depends on the 'first unity'. Creating and transmuting naturally and without violence belongs to the first power, wisdom and love; without that love the elements cannot inwardly unite, and that union is the goal of magic.
+  - Also: “you seek an insoluble, miraculous, transmuting, uniting union; but such a tie cannot be without the first unity” `III.1 ¶50`
+  - Also: “to create and to transmute essentially and naturally without violence is the proper office of the first power, the first wisdom and the first love” `III.1 ¶50`
+
+## Terms
+
+- **Law of Nature** — Simple and harmoniously framed; it baffles and condemns the operator who introduces his own blind purpose. (ATWOOD)
+  - “The Law of Nature, being simple and harmoniously framed, will baffle him” `III.1 ¶38`
+- **Inquisitor** — The trained seeker or operator of the Art, who must learn what, where and how to obey, inquire, will and hope. (ATWOOD)
+  - “all the care that is taken to train the true Inquisitor” `III.1 ¶38`
+- **Divine Light** (also: Divine light) — Revelation without which the operator's purpose is blind; its 'corroborative virtue', drawn by the new life, turns the Quintessence into living gold. ¶40 also speaks of the 'guardian of the Light'. (ATWOOD)
+  - “he who presumes without the revelation of the Divine Light to introduce his own blind purpose” `III.1 ¶38`
+  - “needs only the corroborative virtue of the Divine light which it draws” `III.1 ¶49`
+- **Separator** (also: divine Separator) — A divine 'artist of great subtlety' within the lovers of Art; it must not be given into the bestial hand. (QUOTED: Jacob Boehme)
+  - “whose Separator is an artist of great subtlety in them” `III.1 ¶39`
+- **Passive Intelligence** — The receptive intelligence (spoken of as 'her') which, freed by art and set in conjunction, answers the Will of her seeking Reason, finds the way, removes obstacles and passes with him through the abyss. (ATWOOD)
+  - = Moon: “the Moon is singularly honored, for it is the Passive Intelligence” `III.1 ¶40`
+  - “responds to the Will of her seeking Reason” `III.1 ¶40`
+- **Passive Understanding** — Understanding gotten in transcendental contemplation of herself; it directs the mode of analysis and provides most of its means. The chunk does not explicitly identify it with the Passive Intelligence. (ATWOOD)
+  - “the Passive Understanding gotten in transcendental contemplation of herself” `III.1 ¶40`
+- **Moon** (also: Luna) — In Alchemy, the Passive Intelligence; with the Sun, one of the pair that 'sound the depths together'; per Plutarch, reflects the works of reason and proceeds from Wisdom. Boehme finds Sol and Luna together at the cross. (ATWOOD)
+  - = Passive Intelligence: “the Moon is singularly honored, for it is the Passive Intelligence” `III.1 ¶40`
+  - “the influence of the Moon, says Plutarch, seems to reflect the works of reason, and to proceed from Wisdom” `III.1 ¶45`
+- **Sun** (also: Sol) — Partner of the Moon in the work; per Plutarch its operations work by strength and force. In Boehme's passage Sol is given to the reduced body as its soul. (ATWOOD)
+  - = soul: “give it Sol, viz., the soul” `III.1 ¶48`
+  - “the operations of the Sun are seen to resemble those strokes which by mere dint of strength and force bear down all before them” `III.1 ¶45`
+- **seeking Reason** — The active principle (spoken of as 'him') whose Will the Passive Intelligence answers and accompanies through the abyss. (ATWOOD)
+  - “responds to the Will of her seeking Reason” `III.1 ¶40`
+- **efficient** (also: true efficient, Rational Efficient) — The working cause. The 'true efficient' springs from within together with knowledge, one with it in principle but distinguished in practice for the sake of offspring. The 'Rational Efficient', armed with intelligence, discovers the evil of its first conception and dissolves the Vital Bond. The chunk does not explicitly say the two phrases name the same thing. (ATWOOD)
+  - = knowledge: “which are indeed one in principle” `III.1 ¶40`
+  - “It is from within that the knowledge springs together with the true efficient” `III.1 ¶40`
+  - “the Rational Efficient, armed with a bright intelligence” `III.1 ¶47`
+- **spiritual agent and spiritual patient** (also: agent, patient) — The two principles of the work, active and receptive, equal Spirits that must both be prepared and allied; each dies in the other, the old life is crucified, and their reunion under another law yields the new life. (ATWOOD)
+  - “Both therefore have to be prepared --- the spiritual agent and the spiritual patient” `III.1 ¶41`
+  - “by death and contrition of the agent in the patient, and vice versa” `III.1 ¶49`
+- **One Thing** — That whose miracles are performed according to the Smagardine Table, whence all the rest proceed by adaptation. (QUOTED: Smagardine Table)
+  - “for performing the miracles of the One Thing whence all the rest proceed by adaptation” `III.1 ¶41`
+- **medium** — Something the precepts demand, given as why the two Spirits need each other. Separately, the 'sensible medium' is what is dominant in this present birth and is made occult in regeneration. (ATWOOD)
+  - “for the precepts demand a medium” `III.1 ¶41`
+  - “the sensible medium, which in this present birth is dominant, being made occult” `III.1 ¶50`
+- **internal fire** (also: the internal, l’interne et l’artheree) — The inner fire which, purified, alone perfects the work; contrasted with the external coal fire and the fire of the natural life, which only alter. (ATWOOD)
+  - “the internal alone is able, being purified, to perfect the work begun” `III.1 ¶43`
+- **fire of nature** — The fire used to besiege the bound serpents. Not defined here; the chunk does not say whether it is the 'fire of the natural life' of ¶43. (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - “Thou must incamp against them with the fire of nature” `III.1 ¶50`
+- **Argent vive** (also: Argent vives) — Two are to be mortified together, each venerating and venerated: of Auripigment and the Oriental of magnesia. Not otherwise explained here. (QUOTED: Hermes)
+  - “the Argent vive of Auripigment and the Oriental Argent vive of magnesia” `III.1 ¶43`
+- **Vital Bond** — What the Rational Efficient proceeds to dissolve; not further defined here. (ATWOOD)
+  - “it proceeds even to a dissolution of the Vital Bond” `III.1 ¶47`
+- **Vital Spirit** — The life-spirit in which, after the first preliminaries, the work aims to produce an alteration by Rational Analysis. (ATWOOD)
+  - “the object was to produce an alteration in the Vital Spirit” `III.1 ¶50`
+- **Rational Analysis** — The operation, repeatedly passed through, that alters the Vital Spirit and dissolves the whole natural born hypostasis. ¶40 says 'the mode of analysis' is directed by the Passive Understanding; the chunk does not explicitly link the two phrases. (ATWOOD)
+  - “a true Rational Analysis, which, repeatedly passed through, leads on to a dissolution of the whole natural born hypostasis” `III.1 ¶50`
+- **hypostasis** — The 'natural born' constitution whose dissolution is the condition for new life and growth into consciousness. (ATWOOD)
+  - “a dissolution of the whole natural born hypostasis” `III.1 ¶50`
+- **Quintessence** — The new life elicited from the crucifixion of the old by reunion of the principles under another law; with the Divine light it becomes living gold. (ATWOOD)
+  - = Mercury: “which life is a very real and pure Quintessence, the Mercury so much sought after, even the Elixir of Life” `III.1 ¶49`
+  - = Elixir of Life: “which life is a very real and pure Quintessence, the Mercury so much sought after, even the Elixir of Life” `III.1 ¶49`
+  - “the new life is elicited” `III.1 ¶49`
+- **living gold of the philosophers** — What the Quintessence becomes with the Divine light's virtue: transmuting and multiplicative, the concrete form of what is valued in dead metal. (ATWOOD)
+  - “the living gold of the philosophers, transmuting and multiplicative --- the concrete form of that which in the dead metal we esteem” `III.1 ¶49`
+- **metaphysical body of gold** — Something to be found and then made profitable only by joining it with a consanguineous spirit and circulating the two until one conceives by the other. (ATWOOD)
+  - “this is the true way and means by which the metaphysical body of gold will be made profitable” `III.1 ¶50`
+- **Stone** (also: stone) — What the philosophers searched for; what they found in it is the miraculous principle of regeneration. The Master says it comes and is generated with Light, then brings forth darkness. (ATWOOD)
+  - = principle of regeneration: “That which they sought after, and profess accordingly to have discovered, therefore, is this miraculous principle of regeneration” `III.1 ¶50`
+  - “Our stone comes with Light, and with Light it is generated” `III.1 ¶49`
+- **regeneration** — The miraculous principle by which the relationships of the vital elements are exchanged: the sensible medium becomes occult and the occult, catholic reason of life becomes manifest. (ATWOOD)
+  - “by which the relationships of the vital elements are exchanged” `III.1 ¶50`
+- **darkness** — What the stone brings forth after Light; called the mother of all things. (QUOTED: the Master)
+  - = clouds: “it brings forth the clouds, or darkness, which is the mother of all things” `III.1 ¶49`
+- **middle principle** — That in which Nature contains and separates all things. (QUOTED: the Master)
+  - “which containest and separatest all things in a middle principle” `III.1 ¶49`
+- **Cross** (also: cross) — In Boehme, what one must enter, 'in the Fourth Form', where Sol and Luna are together, to seek gold. Atwood's gloss speaks of the old life being 'crucified'. (QUOTED: Jacob Boehme)
+  - “enter in even to the Cross, then seek gold and you will not be deceived” `III.1 ¶48`
+  - “out of that crucifixion, by reunion of the principles under another law, the new life is elicited” `III.1 ¶49`
+- **Fourth Form** — Where the cross is entered and Sol and Luna are found together; not otherwise explained here. (QUOTED: Jacob Boehme)
+  - “enter I even to the cross in the Fourth Form, there you have Sol and Luna together” `III.1 ¶48`
+- **Arabian Caraha** — Where the two serpents, tied in a love knot, are shut up; not explained here. (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - “tie them in a love knot and shut them up in the Arabian Caraha” `III.1 ¶50`
+- **serpents** (also: Angues) — Two, found everywhere on earth: a living male and a living female, to be understood spiritually, without corporeal allusion. (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - “they are a living male and a living female (understand in relation to the spirit always without all corporeal allusion)” `III.1 ¶50`
+- **Phoenix** — The deep red bird that appears after the fire is fortified; fed with the fire of his father (meat) and the ether of his mother (drink). (QUOTED: Cornelius Agrippa's ingenious disciple)
+  - “It is a red bird of a most deep color with a shining fiery hue.” `III.1 ¶50`
+- **first unity** — Required for the insoluble, transmuting, uniting union that is sought; creating and transmuting without violence belong to the first power, wisdom and love. (UNCLEAR)
+  - “such a tie cannot be without the first unity” `III.1 ¶50`
+- **magic** (also: magical) — Its end and perfection is the inward, essential union (marriage) of the elements through the first love. Boehme also speaks of a 'composed magical body' that, bruised, becomes 'magical and hungry after nature'. (UNCLEAR)
+  - “they will never inward and essentially unite; which is the end and perfection of magic” `III.1 ¶50`
+  - “bruise that composed magical body” `III.1 ¶48`
+
+## Sources cited
+
+- **Jacob Boehme**, *Epistles; The Turned Eye* — “that they first seek God’s love and grace, and resign up themselves to become wholly one with that” `III.1 ¶39, III.1 ¶40, III.1 n43` — Supports: the operator must first surrender to divine grace; the divine Separator may not be given into unworthy hands. Atwood qualifies that the divine cannot exactly be given into possession.
+- **Boehme**, *Forty, Quest. 17* — “enter in even to the Cross, then seek gold and you will not be deceived” `III.1 ¶48, III.1 ¶49, III.1 n53` — Supports the core operation (Sol and Luna brought through death at the cross and reconceived); Atwood says it comprehends 'the end and beginning of the Sacred Art'.
+- **the fables (Theseus, Ariadne, Jason, Medea, Hercules, Eurystheus, Achilles, Ulysses, Minerva, Aeneas, the Sybil)** `III.1 ¶40` — Illustrates: the hero never labors alone but is aided by wise counsel, as the Moon or Passive Intelligence aids the seeking Reason.
+- **Maria Practica**, *Maria Practica, in fine* — “Istud est vas Hermetis, quod Stoici occultaverunt” `III.1 ¶40, III.1 n44` — Supports or illustrates: the vessel of Hermes as the 'measure of thy fire', placed after the Passive Understanding.
+- **Smagardine Table**, *Smagardine Table* — “That which is above is as that which is below, and that which is below is as that which is above” `III.1 ¶41` — Supports: both the spiritual agent and the spiritual patient must be prepared.
+- **Hermes**, *Tract. Aureus, cap. 2* — “both need the help of the other” `III.1 ¶41, III.1 n45` — Supports: equal Spirits allied, each needing the other, for the precepts demand a medium.
+- **Tract. Aur., Scholium**, *Tract. Aur., Scholium, cap. 1* — “Que l’art imite la nature” `III.1 ¶42, III.1 n46` — Supports: external fire alters, internal fire perfects.
+- **the sage** — “Si pariat ventum valet auri pondera centum” `III.1 ¶43` — Supports the superiority of the purified internal fire.
+- **Hermes**, *Tract. Aur., cap. 3* — “it behooves us to mortify two Argent vives together” `III.1 ¶43, III.1 n47` — Supports: two natures to be mortified together.
+- **Idem (Tract. Aur.)**, *Tract. Aur., cap. 4* — “Protégé me et protegam te” `III.1 ¶44, III.1 n48` — Illustrates the mutual relation of Sun and Moon; the speaker is not named in the text.
+- **Plutarch**, *Isis and Osiris* — “the influence of the Moon, says Plutarch, seems to reflect the works of reason” `III.1 ¶45, III.1 n49` — Supports: Moon as reason and Wisdom, Sun as force.
+- **Synesius**, *treatise on Providence (Extracts at the end of Plotinus’ Selct Workd, by Taylor, p. 531)* — “this is an enigma indicative of contemplation and action” `III.1 ¶45, III.1 n49` — Supports: the two pairs of eyes of the Mysteries as alternating contemplation and action.
+- **Egyptian Mythology of Isis and Osiris** `III.1 ¶45` — The mythology Synesius is said to explain with the two-pairs-of-eyes enigma.
+- **Proclus**, *Proclus on the Theology of Plato --- Scholia on the Cratylus* — “the prophetic power unfolds the simplicity of truth and takes away the variety of that which is false” `III.1 ¶45, III.1 n50` — Supports: the twofold Apollonical Intellect (prophetic and arrow-darting powers), paralleling Wisdom and Power.
+- **the wise king**, *Proverbsm chap. 24, 27; Eccles. 4* — “A wise man is strong, says the wise king, and knowledge increaseth strength” `III.1 ¶45, III.1 n51` — Supports: Wisdom joined with strength; two are better than one.
+- **Iliad**, *Iliad, book 10: 265* — “By mutual confidence and mutual aid” `III.1 ¶45, III.1 ¶46, III.1 n52` — Illustrates mutual aid between two.
+- **the Master**, *Tractatus Aureaus, cap. 3* — “Our stone comes with Light, and with Light it is generated” `III.1 ¶49, III.1 n54` — Quoted after Atwood's gloss on Boehme: Nature's middle principle; the stone generated with Light, bringing forth darkness.
+- **Cornelius Agrippa** — “Pinge duos Angues” `III.1 ¶50` — Illustrates the two natures to be joined.
+- **his ingenious disciple (of Cornelius Agrippa; not named)** — “Take our two serpents, which are to be found everywhere on the face of the earth” `III.1 ¶50` — Illustrates in 'more suggestive language' the joining, siege and creature sequence of the work.
+- **the Kabalist**, *Liber Jezirah, cap. 1* — “Unite the end to the beginning as the flame is united to the coal” `III.1 ¶50, III.1 n55` — Supports: the completed work unites end and beginning.
+- **Vaughan**, *Lumen de Lumine, p. 62* `III.1 ¶50, III.1 n56` — Reference for the closing passage on the uniting union and the first love; whether the words are quoted is not marked in the text.
+
+## Ambiguities
+
+- “except, indeed, the Theosophist alludes to a mediate occupation” `III.1 ¶40`
+  - Reading: The divine Separator is held only through a mediating helper, the 'guardian of the Light' (Passive Intelligence) Atwood next discusses.
+  - Reading: Some other intermediate or partial possession, unspecified.
+  - Basis: Reading 1: the next sentence, 'And this brings us to consider more particularly the representative understanding, measure, and guardian of the Light' (III.1 ¶40). Reading 2: the phrase itself is undefined.
+- “the representative understanding, measure, and guardian of the Light” `III.1 ¶40`
+  - Reading: An inner faculty, the Passive Intelligence or Moon, within the practitioner.
+  - Reading: A second person who guides or accompanies the seeker.
+  - Basis: Reading 1: ¶40 goes on to 'the Moon ... is the Passive Intelligence' and 'It is from within that the knowledge springs'. Reading 2: the fable helpers are separate persons, and ¶39 speaks of 'unless one doth entrust another with somewhat' and 'him tat desires it'.
+- “Istud est vas Hermetis, quod Stoici occultaverunt, et non est vas nigromaniticum sed est Mesnura Ignis tui” `III.1 ¶40`
+  - Reading: The vessel of Hermes is the Passive Understanding just described.
+  - Reading: It refers more generally to the inner process of ¶40, with no specific identification.
+  - Basis: The line follows the Passive Understanding sentence with no connective; the translation is ours.
+- “Mesnura Ignis tui” `III.1 ¶40`
+  - Reading: 'Mesnura' as a misprint for 'Mensura': 'the measure of thy fire'.
+  - Reading: Some other word; meaning uncertain.
+  - Basis: Text spelling only; the translation adopts reading 1.
+- “the Argent vive of Auripigment and the Oriental Argent vive of magnesia” `III.1 ¶43`
+  - Reading: The two Argent vives are the spiritual agent and patient of ¶41.
+  - Reading: They are the philosophical Sun and Moon of ¶44–45.
+  - Reading: Both, if agent/patient and Sun/Moon are the same pair.
+  - Reading: The text gives no mapping of which Argent vive is which.
+  - Basis: ¶41 'Both therefore have to be prepared'; ¶43 'both to venerate and to be venerated'; ¶45 'These are they which sound the depths together'; ¶48 Sol and Luna brought to death, glossed in ¶49 as 'death and contrition of the agent in the patient'. No explicit assignment is made.
+- “These are they which sound the depths together; the Sun and Moon, philosophical.” `III.1 ¶45`
+  - Reading: 'These' are the two Argent vives of ¶43.
+  - Reading: 'These' are the Sol and Luna of the Latin in ¶44.
+  - Reading: 'These' are the spiritual agent and patient of ¶41.
+  - Basis: All three are pairs named just before; the text does not specify the referent.
+- “discovers the evil of its first conception, now appearing manifold within the veil” `III.1 ¶47`
+  - Reading: The defect of the natural-born state becomes visible to inward intelligence.
+  - Reading: Literal appearances ('manifold') perceived during the work.
+  - Basis: Reading 1: ¶50 'dissolution of the whole natural born hypostasis'. Reading 2: 'appearing' and 'within the veil' suggest something perceived; not explained.
+- “Our stone comes with Light, and with Light it is generated; and then it brings forth the clouds, or darkness, which is the mother of all things” `III.1 ¶49`
+  - Reading: A sequence of the work: light first, then a dark phase.
+  - Reading: A cosmological statement about Nature's middle principle, not a stage sequence.
+  - Basis: Reading 1: 'and then' gives an order; the black toad of ¶50 is not linked by the text. Reading 2: preceded by the address to Nature 'which containest and separatest all things in a middle principle'.
+- “Thou must incamp against them with the fire of nature” `III.1 ¶50`
+  - Reading: The same as the 'fire of the natural life' of ¶43, which alters but cannot perfect.
+  - Reading: A different fire; the term is not defined here.
+  - Basis: Reading 1: similar wording, and ¶50 later has the fire fortified and fed, as if a further stage. Reading 2: the text never equates the two.
+- “Consider that it is you seek: you seek an insoluble, miraculous, transmuting, uniting union” `III.1 ¶50`
+  - Reading: Atwood's own voice.
+  - Reading: Quotation from Vaughan, Lumen de Lumine (n56).
+  - Basis: No quotation marks; n56 to Vaughan is attached at the end of the passage.
+
+## Translations
+
+- `III.1 ¶40` “Istud est vas Hermetis, quod Stoici occultaverunt, et non est vas nigromaniticum sed est Mesnura Ignis tui” → This is the vessel of Hermes, which the Stoics concealed; and it is not a necromantic vessel, but it is the measure of thy fire. *(ours)*
+- `III.1 ¶42` “Ouvrier, sur tout aye cure Que l’art imite la nature L’externe feu de charbon Rend la matiere alteree, Mais l’interne et l’artheree Faira ton ouvrage bon” → Workman, above all take care that art imitate nature. The external fire of charcoal renders the matter altered, but the internal and ethereal [fire] will make your work good. *(ours)*
+- `III.1 ¶43` “Si pariat ventum valet auri pondera centum” → if wind be made of gold it is worth a hundredfold *(book)*
+- `III.1 ¶44` “Sol meus et radii sunt in me intime, Luna vero propria meum lumen est, omne lumen superans; et bona mea omnibus bonis meliora sunt. Protégé me et protegam te, largiri, vis, mihi meum ut adjuvem te” → My Sun and its rays are inmost in me; but my own Moon is my light, surpassing every light; and my goods are better than all goods. Protect me and I will protect thee; bestow on me, if thou wilt, what is mine, that I may help thee. *(ours)*
+- `III.1 ¶50` “Pinge duos Angues” → Paint two serpents. *(ours)*
+
+## Threads
+
+- `III.1 ¶38` 'that he may obtain the passport clear, as we have shown it' refers back to an earlier showing of the Inquisitor's training and passport.
+- `III.1 ¶50` 'We have seen that, next to the first preliminaries, the object was to produce an alteration in the Vital Spirit' refers back to earlier treatment of the preliminaries, the Vital Spirit and Rational Analysis.
+- `III.1 ¶50` Forward pointer: 'that we may be prepared to learn some more definite particulars of their practice, and in what condition the vital elements are placed during their experiment and recreation'.

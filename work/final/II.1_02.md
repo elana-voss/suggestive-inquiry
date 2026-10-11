@@ -1,0 +1,258 @@
+# II.1_02
+
+*Atwood gathers adepts' testimony that the root, seed and Mercury of the Hermetic work lie in man (his vital fire, blood and spirit), then restates this through three principles of attraction, repulsion and circulation: human life is out of balance, and the Art uses an Antimonial Spirit / Invisible Mercury to harmonize them, beginning with a blackening called the head of Hermes' crow.*
+
+## Argument
+
+- The preceding adept's assertions help explain Trismegistus: the work is in us and about us; the mystery lies in hidden elements. `II.1 ¶11` — ATWOOD
+- Geber: who knows no natural principles in himself lacks the true root for the labor. `II.1 ¶11` — QUOTED: Geber
+- Basil: metals have one root; mercury, salt, sulfur (spirit, body, soul) lie together in one well-known thing, a golden seed or magnet, without destroying metals; it is real. `II.1 ¶11` — QUOTED: Basil
+- Crollius: the light and mineral vapor producing gold in the earth is also in man, generating all creatures. `II.1 ¶12` — QUOTED: Crollius
+- Albertus Magnus: gold is everywhere, but the highest mineral virtue is in man, where fire, the aurific principle, burns brightest. `II.1 ¶12` — QUOTED: Albertus Magnus
+- Our Mercury is fiery, vital, prepared and coagulated in the innermost chamber of life. `II.1 ¶12, II.1 n10` — UNCLEAR
+- Verse: man, noblest creature, is the mine from which a costless natural mercury is brought by art. `II.1 ¶12, II.1 ¶13, II.1 n11` — QUOTED: Ripley's Admonition
+- Philosophers said little (the work being short, per Maria) but found and increased the hidden elements. `II.1 ¶14` — UNCLEAR
+- Aliphili: man, by the water and earth in himself, unknowingly produces the true fiery water, which reduces even gold to black earth yielding water and mild salt; poor and rich have it equally. `II.1 ¶14, II.1 n12` — QUOTED: Aliphili
+- Hermes: the aspirant must quit vice and be just and helpful; the vicious defile by evil imagination the Spirit to be refined. Crollius' true physician is sincere and knows all qualities lie in salt, mercury, sulfur. `II.1 ¶14, II.1 n13` — QUOTED: Hermes; Crollius
+- These three principles, attraction, repulsion, circulation, are in all. `II.1 ¶14` — ATWOOD
+- Verse: blood holds the three things and gold's nature, is the principal matter of growth, found without cost in the noblest. `II.1 ¶15, II.1 n14` — QUOTED: Theat. Chem. Brit. (verse)
+- Morien: the thing is extracted from the king himself and increases by love and delight. `II.1 ¶16, II.1 n15` — QUOTED: Morien
+- Modern adepts call man's life an unmingled fire capable of melioration. The diffused Matter could partly be taken anywhere, but the aim is to perfect it and manifest the Causal light. How the human circulatory system can be made to comprehend all inferior existences and supersede nature may be gathered from this philosophy, which gives reasons for choosing the most noble subject and only vessel. `II.1 ¶17` — ATWOOD
+- Attraction (occult), repulsion (its reaction) and circulation (their conflict) move everything, including chemical affinity. Predominance gives ellipse, equilibrium a circle; circulation harmonizes if the matter is qualified. `II.1 ¶18, II.1 ¶19` — UNCLEAR
+- Nature lost balance; human life drifts to dissolution; only the Antimonial Spirit rectified by Art, balanced in attraction and repulsion, withstands this. `II.1 ¶20, II.1 n16` — QUOTED: the Alchemists (via Bohme)
+- Bohme: the Invisible Mercury, spiritual air of Antimony, prepares this spirit by harmonizing the three principles. `II.1 ¶21, II.1 n17` — QUOTED: Bohme
+- This is the vital spirit of arterial blood, where repulsion predominates, drawing consciousness from its First Cause; the Art occults the opposing principle to restore the true rector. `II.1 ¶21` — UNCLEAR
+- Latin: salt of blood transmuted by urinous ferment; Solve, Coagula, Fige. `II.1 ¶21, II.1 n18, II.1 ¶22` — UNCLEAR
+- Hermes: one must know to mortify, generate, vivify, cleanse and illuminate until whiteness rises from blackness. `II.1 ¶23, II.1 n19` — QUOTED: Hermes
+- Modern exponent: after three months' circulation the powder blackens; the attraction of the fixed and repulsion of the volatile are slain by circulation and all rest: the head of Hermes' crow. The fixed sentient medium dissolves, revealing original evil and the principle of rectification. `II.1 ¶23` — QUOTED: our modern exponent
+
+## Method
+
+- **subject** — “the work is both in us and about us” `II.1 ¶11` (QUOTED: Trismegistus)
+  - **Plain (interpreted):** The subject of the work lies within the human being, not only in outer nature.
+  - Basis: II.1 ¶11 literal wording; reinforced by ¶12 (gold-producing vapor 'is also in man'), ¶16 ('extracted from thee'), ¶17 ('the most noble subject').
+  - Also: “the whole mystery is comprehended in the hidden elements of his Wisdom” `II.1 ¶11`
+- **operator** — “he who in himself knows no natural principles, is very remote from this sacred science, because he has not the true root in him” `II.1 ¶11` (QUOTED: Geber)
+  - **Plain (stated):** The operator must know the natural principles within himself; the root of the work is in him.
+  - Basis: II.1 ¶11.
+- **subject** — “there is a nearer place yet in which these three, viz., the mercury, slat and sulfur --- spirit, body and soul --- lie hid together in one thing, well known” `II.1 ¶11` (QUOTED: Basil)
+  - **Plain (stated):** Mercury, salt and sulfur, glossed as spirit, body and soul, are found together in one well-known thing, so metals need not be broken down to get them.
+  - Basis: II.1 ¶11 gives the gloss and the contrast with destroying metals.
+  - Also: “this golden seed or magnet” `II.1 ¶11`
+  - Also: “this metallic seed, or root” `II.1 ¶11`
+- **agent** — “the same light and mineral vapor, which produces gold within the bowels of the earth is also in man” `II.1 ¶12` (QUOTED: Crollius)
+  - **Plain (stated):** The generative agent that forms gold in the earth is present in man and generates all creatures.
+  - Basis: II.1 ¶12: 'the same is the generating spirit of all creatures'.
+- **principle** — “fire, which is the true aurific principle in the life of all, burns more than all glorious in him erect” `II.1 ¶12` (QUOTED: Albertus Magnus)
+  - **Plain (stated):** The gold-making principle is fire in the life of all things, strongest in man; hence the highest mineral virtue is in man.
+  - Basis: II.1 ¶12: 'the highest mineral virtue nevertheless resides in man; for fire...'.
+- **agent** — “Our Mercury is philosophic, fiery, vital” `II.1 ¶12` (UNCLEAR)
+  - **Plain (interpreted):** The philosophic Mercury is a living fire, prepared and coagulated within the innermost seat of life.
+  - Basis: II.1 ¶12: 'prepared in the innermost chamber of life, and there it is coagulated'; read with the fire in man just before.
+  - Also: “it is prepared in the innermost chamber of life, and there it is coagulated” `II.1 ¶12`
+- **subject** — “A naturall mercuryalyte which cost right nought, Out of hy myner by arte yt most be brought” `II.1 ¶13` (QUOTED: Ripley's Admonition)
+  - **Plain (interpreted):** Man (the noblest creature, with the four elements proportioned) is the mine; a free natural mercury must be drawn out of him by art.
+  - Basis: II.1 ¶12-13: 'hy myner' follows 'man, ys most noble creature ... In whom are the fowre elements'.
+  - Also: “For our mettalls be nought ells but miners too, Of our Soon and Moone” `II.1 ¶13`
+- **agent** — “producest an essence, called, by us, the expert, the great and miraculous mystery of the world; that is the true fiery water” `II.1 ¶14` (QUOTED: Aliphili)
+  - **Plain (stated):** Man, by conjoining the elements of water and earth within himself, produces the essence called the true fiery water, without knowing it.
+  - Basis: II.1 ¶14 names the essence and its source in man.
+  - Also: “through the breath and power of the water and earth in thyself, conjoinest the elements and makest them one” `II.1 ¶14`
+- **procedure** — “it dissolves radically, incrudates even the mature, constant, and very fixed, fiery and abiding mass and matter of gold, and reduces it into a fit black earth, like to black spittle” `II.1 ¶14` (QUOTED: Aliphili)
+  - **Plain (stated):** The fiery water is a universal solvent that returns even fixed gold to a raw state, a black earth from which a water and a mild salt are obtained.
+  - Basis: II.1 ¶14.
+  - Also: “wherein we find a water and the true salt destitute of all odor, vehemency, and corrosive nature of the fire” `II.1 ¶14`
+- **subject** — “the poor as well as the rich may have it in the same equal plenty” `II.1 ¶14` (QUOTED: Aliphili)
+  - **Plain (stated):** The matter is free and equally available to everyone.
+  - Basis: II.1 ¶14; ¶13 'cost right nought'; ¶15 'without labour or cost'.
+  - Also: “The true blood to find without labour or cost” `II.1 ¶15`
+  - Also: “which cost right nought” `II.1 ¶13`
+- **operator** — “to quit himself from the usurpations of vice, to be good and just and of a profound reason, ready at hand to help mankind” `II.1 ¶14` (QUOTED: Hermes)
+  - **Plain (stated):** The operator must be morally purified, just, reasoning deeply and benevolent.
+  - Basis: II.1 ¶14.
+  - Also: “true, sincere, intelligent, faithful” `II.1 ¶14`
+- **impediment** — “being destitute of light, defile by an evil imagination the very Spirit that ought to be refined” `II.1 ¶14` (QUOTED: Hermes)
+  - **Plain (interpreted):** The idle or vicious operator corrupts, through his imagination, the Spirit that is the material refined in the work.
+  - Basis: II.1 ¶14: the defiling is by 'evil imagination', and the Spirit is what 'ought to be refined', implying the operator's mind acts on the matter.
+- **principle** — “these three principles of attraction, repulsion, and circulation, the universal accord of life, are everywhere and in all” `II.1 ¶14` (ATWOOD)
+  - **Plain (interpreted):** Salt, mercury and sulfur are restated as attraction, repulsion and circulation, present in everything.
+  - Basis: II.1 ¶14: 'these three principles' directly follows 'salt, mercury, and sulfur'; see ambiguities.
+- **subject** — “For blood is the principle matter of each thing, Which hath any manner of increasing” `II.1 ¶15` (QUOTED: Theat. Chem. Brit. (verse))
+  - **Plain (interpreted):** Blood contains the three principles and the nature of gold and is the principal matter of growth; it is to be sought in 'the noblest'.
+  - Basis: II.1 ¶15 states blood's role; 'the noblest' read against ¶12 'man, ys most noble creature' and ¶17 'the most noble subject'.
+  - Also: “Blood containeth the three things I have told, And in his tincture hath nature of gold” `II.1 ¶15`
+  - Also: “See out the noblest, as I said before” `II.1 ¶15`
+- **subject** — “The thing, O king, is extracted from thee, in the which mineral thou dost even exist” `II.1 ¶16` (QUOTED: Morien)
+  - **Plain (stated):** The matter of the Stone is drawn from the person himself; it grows when tested 'by the love and delight in thee'.
+  - Basis: II.1 ¶16.
+  - Also: “when thou shalt have proved all by the love and delight in thee, it will increase” `II.1 ¶16`
+- **subject** — “a pure, naked, and unmingled fire of infinite capability” `II.1 ¶17` (QUOTED: the more modern class of adepts)
+  - **Plain (stated):** Human life, as revealed by the Art, is a pure fire capable of education and improvement beyond other creatures.
+  - Basis: II.1 ¶17.
+- **result** — “the object was not simply to obtain the Matter or prove it only, but to improve, perfect, and bring the Causal light to manifestation” `II.1 ¶17` (ATWOOD)
+  - **Plain (stated):** The aim is not merely to obtain or prove the matter but to perfect it and make the Causal light manifest; reasons for choosing 'the most noble subject' and 'this only vessel' are said to be given in this philosophy.
+  - Basis: II.1 ¶17.
+  - Also: “why the most noble subject was chosen, and this only vessel for its elaboration” `II.1 ¶17`
+- **subject** — “in what our human circulatory system differs and occultly approximates, so that it can be made to comprehend all inferior existences, and supersede nature in her course” `II.1 ¶17` (ATWOOD)
+  - **Plain (stated):** The human circulatory system can be made to comprehend all lower existences and surpass nature's course; how is to be gathered from this philosophy, not explained here.
+  - Basis: II.1 ¶17.
+- **principle** — “the medium is always in the circulation produced from the action and reaction of centrifugal and centripetal forces” `II.1 ¶19` (UNCLEAR)
+  - **Plain (stated):** Circulation mediates between attraction and repulsion; when they are equal it forms a circle and harmonizes them, if the matter is suitably qualified; predominance of either gives an ellipse.
+  - Basis: II.1 ¶18-19.
+  - Also: “when they are in equilibrium, a circle is produced” `II.1 ¶19`
+  - Also: “will succeed if the matter be duly qualified for it” `II.1 ¶19`
+- **impediment** — “the wheel of human life turns forth, deviating from its axis, into a line which terminated finally in dissolution” `II.1 ¶20` (QUOTED: the Alchemists (via Bohme))
+  - **Plain (stated):** Since nature lost her original balance, human life runs off-center toward death.
+  - Basis: II.1 ¶20.
+  - Also: “nature has fallen off from her original balance” `II.1 ¶20`
+- **agent** — “their Antimonial Spirit rectified by Art, being in bright lines of equal attraction and repulsion, as it were a perfect magnet in a star-like circle of irradiated circulation” `II.1 ¶20` (QUOTED: the Alchemists (via Bohme))
+  - **Plain (stated):** Only one Matter can be so harmonized; only the Antimonial Spirit, rectified by Art and with equal attraction and repulsion, can withstand life's drift to dissolution.
+  - Basis: II.1 ¶20.
+  - Also: “there is but One Matter truly qualifiable or capable of qualifying matter to be harmonized in this way” `II.1 ¶20`
+- **agent** — “the agent in the preparation of this spirit, continues Bohme, is the Invisible Mercury” `II.1 ¶21` (QUOTED: Bohme)
+  - **Plain (stated):** The Invisible Universal Mercury (spiritual air of Antimony), held in a suitable vehicle, prepares the spirit; its action is to harmonize attraction, repulsion and circulation.
+  - Basis: II.1 ¶21.
+  - Also: “condensed in its proper vehicle in any of the degrees of permanency” `II.1 ¶21`
+  - Also: “the Principle of its operation consists in the power of harmonizing the three discordant principles” `II.1 ¶21`
+- **subject** — “this is the vital spirit of the arterial blood, where the universal principles are in their natural generation unequally composed” `II.1 ¶21` (UNCLEAR)
+  - **Plain (interpreted):** The vital spirit of the arterial blood is where the three principles are unequally composed: repulsion outweighs inner attraction, so life flows outward and consciousness is turned from its First Cause.
+  - Basis: II.1 ¶21; referent of 'this' uncertain (see ambiguities); voice after n17 unclear.
+  - Also: “the total circulatory life is expulsive, and drawn without to a debilitated consciousness away from its First Cause” `II.1 ¶21`
+- **result** — “by occultation of the opposive principle, to restore the true rector to his original rule” `II.1 ¶21` (UNCLEAR)
+  - **Plain (interpreted):** The Art suppresses the dominant opposing (repulsive) force so that the proper governing principle rules again, reversing the outward drift of life.
+  - Basis: II.1 ¶21: the disorder named just before is repulsion predominating over interior attraction; the remedy is of 'this inverse order'.
+- **procedure** — “sanquinis salem per urinaceum fermentum sic transmutari debere, ut ultiman vitam amittat, mediamque servet, salsedinemque retineat” `II.1 ¶21` (QUOTED: Arcanum Liquaris Alkahest)
+  - **Plain (interpreted):** (Our translation) The salt of blood is to be transmuted by a urinous ferment so it loses its last life, keeps its middle life and retains its saltiness. This chunk does not explain it.
+  - Basis: II.1 ¶21 Latin, translation ours only.
+- **procedure** — “Sove, Coagula, Fige” `II.1 ¶22` (UNCLEAR)
+  - **Plain (interpreted):** Dissolve the fixed, make it volatile, then fix the volatile. This chunk gives no further explanation.
+  - Basis: II.1 ¶22 Latin couplet, translation ours.
+  - Also: “Si fixum solvas faciasque volare solutum Et volucrem figas” `II.1 ¶22`
+- **stage** — “to mortify and induce generation, to vivify the spirit, to cleanse and introduce light, until they fight and contend with each other, and grow white and freed form their defilements, rising, as it were, from blackness and darkness” `II.1 ¶23` (QUOTED: Hermes)
+  - **Plain (stated):** Sequence: mortification, then generation, vivifying the spirit, cleansing and illumination, a struggle, and emergence from black to white.
+  - Basis: II.1 ¶23.
+- **sign** — “in three months circulation, says he, by digestion, the powder becomes black, the opposition of attraction and repulsion ceases (in the vital spirit)” `II.1 ¶23` (QUOTED: our modern exponent)
+  - **Plain (stated):** After about three months of circulation by digestion, the matter turns black and still: the three principles stop opposing and rest.
+  - Basis: II.1 ¶23.
+  - Also: “sunk down black and motionless” `II.1 ¶23`
+  - Also: “the attraction of the fixed which produced the repulsion of the volatile, is slain by the circulation which also dies itself, and all three enter into rest” `II.1 ¶23`
+- **sign** — “the head of Hermes’ crow is said to be in the beginning of this work” `II.1 ¶23` (QUOTED: our modern exponent)
+  - **Plain (interpreted):** 'Crow's head' names this black, motionless state at the beginning of the work.
+  - Basis: II.1 ¶23: 'And thus' links the name to the blackening just described; the identification is implied, not stated.
+- **stage** — “that which at first was fixed, viz., the sentient medium, is dissolved” `II.1 ¶23` (QUOTED: our modern exponent)
+  - **Plain (stated):** The fixed element dissolved in the blackening is the sentient medium; deeper working exposes the original evil in the matter and with it the principle of correction.
+  - Basis: II.1 ¶23 gives the gloss 'viz., the sentient medium'.
+  - Also: “the original evil is made manifest in the matter to be renewed, and hence the principle of amendment and rectification also will appear, and on either side it is a signal of Art” `II.1 ¶23`
+
+## Terms
+
+- **Mercury, salt and sulfur** (also: mercury, slat and sulfur, salt, mercury, and sulfur) — Three constituents found together in one thing; every constant quality of a body lies in them; blood contains 'the three things'. (QUOTED: Basil; Crollius)
+  - = spirit, body and soul: “the mercury, slat and sulfur --- spirit, body and soul --- lie hid together in one thing” `II.1 ¶11`
+  - “there is no constant quality of any body which is not to be found in the salt, mercury, and sulfur thereof” `II.1 ¶14`
+- **root** (also: true root, true root of life) — The single origin of metals and minerals, also the inner basis the operator must have in himself. (QUOTED: Basil; Geber)
+  - = metallic seed: “this metallic seed, or root” `II.1 ¶11`
+  - “all metals and minerals have one root from whence their descent is” `II.1 ¶11`
+- **golden seed** — The one thing holding mercury, salt and sulfur; knowing it gives the root of life. (QUOTED: Basil)
+  - = magnet: “this golden seed or magnet” `II.1 ¶11`
+- **Mercury (philosophic)** (also: Our Mercury, mercuryalyte) — Philosophic, fiery, vital; mixable with and separable from metals; prepared and coagulated in the innermost chamber of life; a natural mercury drawn by art from man's mine. (UNCLEAR)
+  - “Our Mercury is philosophic, fiery, vital” `II.1 ¶12`
+- **Invisible Mercury** (also: invisible Universal Mercury) — The agent preparing the Antimonial Spirit; works when condensed in its vehicle; its operation harmonizes the three principles. (QUOTED: Bohme)
+  - = spiritual air of Antimony: “the invisible Universal Mercury, or spiritual air of Antimony” `II.1 ¶21`
+- **Antimonial Spirit** — Rectified by Art; with equal attraction and repulsion; the only thing that withstands life's drift toward dissolution. (QUOTED: the Alchemists (via Bohme))
+  - “their Antimonial Spirit rectified by Art” `II.1 ¶20`
+- **true fiery water** — Essence produced in man by conjoining the elements; dissolves gold into black earth; nothing else does this. (QUOTED: Aliphili)
+  - = the great and miraculous mystery of the world: “called, by us, the expert, the great and miraculous mystery of the world; that is the true fiery water” `II.1 ¶14`
+- **aurific principle** — The gold-making principle; fire in the life of all, strongest in man. (QUOTED: Albertus Magnus)
+  - = fire: “fire, which is the true aurific principle in the life of all” `II.1 ¶12`
+- **hidden elements** — What the whole mystery is comprehended in; the philosophers found and increased them. (UNCLEAR)
+  - “they themselves found out these hidden elements, and themselves increased them” `II.1 ¶14`
+- **blood** (also: true blood) — Contains the three things and the nature of gold; has the proportion of the four elements; principal matter of everything that increases. (QUOTED: Theat. Chem. Brit. (verse))
+  - “For blood is the principle matter of each thing” `II.1 ¶15`
+- **the Matter** (also: One Matter) — Diffused everywhere and in part obtainable anywhere, but the aim is to perfect it; only One Matter can be harmonized. (ATWOOD)
+  - “there is but One Matter truly qualifiable or capable of qualifying matter to be harmonized in this way” `II.1 ¶20`
+- **Causal light** — What the Art brings to manifestation; this chunk does not define it further. (ATWOOD)
+  - “bring the Causal light to manifestation” `II.1 ¶17`
+- **vessel** — 'this only vessel' for elaborating the most noble subject; in context (¶17) apparently the human circulatory system, not defined further here. (ATWOOD)
+  - “this only vessel for its elaboration” `II.1 ¶17`
+- **Three Principles (attraction, repulsion, circulation)** (also: Attraction, Repulsion, Circulation) — Attraction is the occult first principle of motion; repulsion its reaction; circulation arises from their conflict and mediates; equilibrium gives a circle, predominance an ellipse. (UNCLEAR)
+  - “Circulation is the third principle, proceeding from the conflict of the former two” `II.1 ¶18`
+- **Elective Attraction** — Chemical affinity, ruled by the three principles. (UNCLEAR)
+  - = chemical affinity: “chemical affinity, called Elective Attraction” `II.1 ¶19`
+- **vital spirit** (also: vital spirit of the arterial blood) — Where the three principles are unequally composed, repulsion predominating; where opposition ceases in the blackening. (UNCLEAR)
+  - “this is the vital spirit of the arterial blood” `II.1 ¶21`
+- **First Cause** — What consciousness is drawn away from by expulsive life. (UNCLEAR)
+  - “drawn without to a debilitated consciousness away from its First Cause” `II.1 ¶21`
+- **true rector** — What the Art restores to its original rule by hiding the opposing principle; not otherwise defined here. (UNCLEAR)
+  - “to restore the true rector to his original rule” `II.1 ¶21`
+- **head of Hermes’ crow** — The black, motionless state at the beginning of the work, after three months' circulation. (QUOTED: our modern exponent)
+  - “the head of Hermes’ crow is said to be in the beginning of this work” `II.1 ¶23`
+- **sentient medium** — What was at first fixed and is dissolved in the blackening. (QUOTED: our modern exponent)
+  - “that which at first was fixed, viz., the sentient medium, is dissolved” `II.1 ¶23`
+- **incrudates** — Said of the fiery water's action on fixed gold, reducing it to black earth. (QUOTED: Aliphili)
+  - “incrudates even the mature, constant, and very fixed, fiery and abiding mass and matter of gold” `II.1 ¶14`
+- **proto-chemistry of Hermes** — The field in which the cited adept claims manual experience. (ATWOOD)
+  - “his own manual experience in the proto-chemistry of Hermes” `II.1 ¶11`
+- **Sun and Moon** (also: Soon and Moone) — Our metals are 'miners' (mines) of our Sun and Moon; not explained here. (QUOTED: Ripley's Admonition)
+  - “our mettalls be nought ells but miners too, Of our Soon and Moone” `II.1 ¶13`
+
+## Sources cited
+
+- **Trismegistus / Hermes**, *Golden Treatise (Tract. Aur.)* — “the work is both in us and about us” `II.1 ¶11, II.1 n6, II.1 ¶14, II.1 n13, II.1 ¶23, II.1 n19` — Supports: the work is within man; also moral requirements of the operator (¶14) and the black-to-white sequence (¶23).
+- **Geber**, *Sum of Perf., Book 1* — “he has not the true root in him whereon to base his labor and intention” `II.1 ¶11, II.1 n7` — Supports: the root is in the operator himself.
+- **Basil (the monk)**, *Stone of Fire (n8: 'See the Stone of Fire, Kirchringius; Ed. Webster’s Hist. of Minerals, the Extract.')* — “all metals and minerals have one root from whence their descent is” `II.1 ¶11, II.1 n8` — Supports: one root and one thing containing mercury, salt, sulfur.
+- **Crollius**, *Philosophy Reformed (Phil. Refor.)* — “the same is the generating spirit of all creatures” `II.1 ¶12, II.1 n9, II.1 ¶14, II.1 n13` — Supports: gold-producing vapor is in man; describes the true physician.
+- **Paracelsus** `II.1 ¶14, II.1 ¶21` — Mentioned as calling Crollius a natural divine; 'salem Paracelsi' in the Latin.
+- **Albertus Magnus**, *book of Minerals* — “fire, which is the true aurific principle in the life of all, burns more than all glorious in him erect” `II.1 ¶12` — Supports: highest mineral virtue is in man.
+- **Tract. Aureus. Text et Scholium**, *Tract. Aureus, cap. 1* — “Our Mercury is philosophic, fiery, vital” `II.1 ¶12, II.1 n10` — Reference for the 'Our Mercury' passage.
+- **Ripley**, *Admonition of Erroneous Experiments* — “Out of hy myner by arte yt most be brought” `II.1 ¶13, II.1 n11` — Supports: man is the mine of the natural mercury.
+- **Reymond** — “Of our Soon and Moone, wyse Reymond seyd so” `II.1 ¶13` — Cited within Ripley's verse as authority.
+- **Maria** `II.1 ¶14` — Cited for the shortness of the work as reason philosophers say little.
+- **Aliphili (the Arabian)**, *Centrum Naturae Concentratum* — “even thou art he who through the breath and power of the water and earth in thyself, conjoinest the elements” `II.1 ¶14, II.1 n12` — Supports: man produces the true fiery water.
+- **Theat. Chem. Brit.**, *Theat. Chem. Brit.* — “For blood is the principle matter of each thing” `II.1 ¶15, II.1 n14` — Illustrates: blood as principal matter.
+- **Morien**, *De Transm. Metal. Artis Auriferae, vol. 1 end* — “The thing, O king, is extracted from thee” `II.1 ¶16, II.1 n15` — Supports: the matter is taken from man himself.
+- **Bohme / Jacob Boehme**, *on the Generation of the Three Principles* — “the agent in the preparation of this spirit, continues Bohme, is the Invisible Mercury” `II.1 ¶20, II.1 n16, II.1 ¶21, II.1 n17` — Supplies the three-principle account, the Antimonial Spirit and Invisible Mercury, and the disorder of arterial blood.
+- **Phillips**, *Lives of the Alchemists* `II.1 n17` — Reference only.
+- **Arcanum Liquaris Alkahest**, *Arcanum Liquaris Alkahest Resp. 876, 78* — “sanquinis salem per urinaceum fermentum sic transmutari debere” `II.1 ¶21, II.1 n18` — Latin on transmuting salt of blood.
+- **our modern exponent** — “in three months circulation, says he, by digestion, the powder becomes black” `II.1 ¶23` — Confirms and illustrates Hermes' process in terms of the three principles.
+- **the more modern class of adepts** — “a pure, naked, and unmingled fire of infinite capability” `II.1 ¶17` — Supports: man's life as fire capable of improvement.
+- **Kirchringius**, *Stone of Fire (as given in n8)* `II.1 n8` — Reference only (n8, for Basil's passage).
+- **Webster**, *Hist. of Minerals* `II.1 n8` — Reference only (n8).
+
+## Ambiguities
+
+- “And these three principles of attraction, repulsion, and circulation, the universal accord of life, are everywhere and in all.” `II.1 ¶14`
+  - Reading: Identifies salt, mercury and sulfur with attraction, repulsion and circulation.
+  - Reading: Introduces the three forces as a parallel triad without asserting identity.
+  - Basis: Reading 1: 'these three principles' directly follows 'salt, mercury, and sulfur'. Reading 2: no explicit 'is' or 'that is'; the triad is then developed independently in ¶18-19.
+- “and this is the vital spirit of the arterial blood” `II.1 ¶21`
+  - Reading: 'this' = the Invisible Mercury / spirit just discussed.
+  - Reading: 'this' = the Principle of harmonizing the three principles.
+  - Reading: 'this' = the field where the three principles act, i.e. the material on which the Art works.
+  - Basis: ¶21: the clause follows both 'the Invisible Universal Mercury' and 'the Principle of its operation'; what follows describes the blood's disorder as what the Art remedies.
+- “to restore the true rector to his original rule” `II.1 ¶21`
+  - Reading: The interior attraction, over which repulsion now predominates.
+  - Reading: The First Cause, from which consciousness has been drawn away.
+  - Basis: ¶21 names both: 'repulsive force so far predominating over the interior attraction' and 'away from its First Cause'.
+- “See out the noblest, as I said before” `II.1 ¶15`
+  - Reading: The noblest = man.
+  - Reading: The noblest = the noblest blood or part within a body.
+  - Basis: ¶12 'man, ys most noble creature'; ¶17 'the most noble subject'. The verse itself does not name the noblest.
+- “Attraction is the first principle of motion in nature” `II.1 ¶18`
+  - Reading: ¶18-20 are Bohme's words, since ¶21 says 'continues Bohme'.
+  - Reading: ¶18-19 are Atwood's own exposition, with Bohme taken up only from ¶20 (n16).
+  - Basis: ¶21 'continues Bohme' implies a prior Bohme passage; n16 is attached at the end of ¶20; ¶18-19 carry no attribution.
+
+## Translations
+
+- `II.1 ¶14` “Eschva mayim, Erascha mayim” → Not translated in the book; stands in apposition to 'the true fiery water'. 'mayim' appears to mean 'water'; full rendering uncertain. *(ours)*
+- `II.1 ¶14` “Omne Aurum est aes, sed non omne aes est aurum” → All gold is bronze (aes), but not all bronze is gold. *(ours)*
+- `II.1 ¶21` “Sanquinem urinamque pariter dat nobis natura, et ab horum natura salem dat Pyrotechnia, quem circulat ares in salem Paracelsi. Hoc addam: sanquinis salem per urinaceum fermentum sic transmutari debere, ut ultiman vitam amittat, mediamque servet, salsedinemque retineat” → Nature gives us blood and urine alike, and from their nature Pyrotechnia (the fire-art) gives a salt, which 'ares' circulates into the salt of Paracelsus. This I will add: the salt of blood must be so transmuted by a urinous ferment that it loses its last life, keeps its middle one, and retains its saltiness. ('ares' unclear as printed.) *(ours)*
+- `II.1 ¶22` “Si fixum solvas faciasque volare solutum Et volucrem figas, faciunt tutum Sove, Coagula, Fige.” → If you dissolve the fixed and make the dissolved fly, and fix the winged, they make [you] safe. Dissolve, Coagulate, Fix. ('Sove' read as 'Solve'.) *(ours)*
+
+## Threads
+
+- `II.1 ¶11` 'Such are the distinctive assertions of one esteemed an adept' points back to the adept quoted in the preceding chunk.
+- `II.1 ¶17` 'The foregoing evidence ... may help to lead on the inquiry to a more explicit ground' points forward; the ground is not specified.
+- `II.1 ¶17` 'may reasons are given why the most noble subject was chosen, and this only vessel' refers to reasons given in 'this philosophy', not supplied here.
+- `II.1 ¶19` 'as was before observed' points to the earlier statement (¶19 itself) that equilibrium forms a circle.
+- `II.1 ¶23` 'our modern exponent' refers to a modern source cited earlier, apparently the one of ¶18-21 (Bohme per ¶21); not named in ¶23.

@@ -89,7 +89,7 @@ for path in sorted(glob.glob(os.path.join(IN, '0*.txt'))):
                f"paragraphs: {g[0]+1}-{g[-1]+1}\nfootnotes: {ns if ns else 'none'}\n"
                f"words_text: {sum(wc(ptext[i]) for i in g)}\nwords_notes: {wc(nbody)}\n---\n\n")
         doc = hdr + '## Text\n\n' + body + ('\n\n## Footnotes\n\n' + nbody if ns else '') + '\n'
-        open(os.path.join(OUT, cidk + '.md'), 'w', encoding='utf-8').write(doc)
+        open(os.path.join(OUT, cidk + '.md'), 'w', encoding='utf-8', newline='\n').write(doc)
         index.append(dict(chunk=cidk, chapter=cid, source=fn, lines=[a+1, b+1],
                           paragraphs=[g[0]+1, g[-1]+1], footnotes=ns,
                           words_text=sum(wc(ptext[i]) for i in g), words_notes=wc(nbody)))
@@ -98,5 +98,5 @@ for path in sorted(glob.glob(os.path.join(IN, '0*.txt'))):
     if covered != [j for j, l in enumerate(lines) if l.strip()]: problems.append(f'{fn}: line coverage')
     allnotes = sorted(x for ns in pnotes for x in ns)
     if allnotes != sorted(notes): problems.append(f'{fn}: note coverage')
-json.dump(index, open(os.path.join(OUT, 'index.json'), 'w', encoding='utf-8'), indent=1)
+json.dump(index, open(os.path.join(OUT, 'index.json'), 'w', encoding='utf-8', newline='\n'), indent=1)
 print(len(index), 'chunks;', 'problems:', problems or 'none')

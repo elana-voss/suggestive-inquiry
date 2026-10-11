@@ -1,0 +1,276 @@
+# II.3_02
+
+*Atwood argues that the terrifying apparitions and 'demons' met in the Mysteries are products of the soul's own moist, condensed imaginative vehicle, a Hades of images to be passed through unmoved until the soul is dried and purified, and she identifies this chaotic state with the alchemists' First Matter, in whose purified extreme the Seed of Spirit is found. She ends with the start of a Rosicrucian allegory of the guarded mountain reached at night with a guide.*
+
+## Argument
+
+- Philosophers echo the preceding accounts: Plato likens the soul's descent into the oblivious realms of generation to an earthquake. `II.3 ¶20` — ATWOOD
+- Psellus: Chaldaic-rite apparitions include 'superinspection', a light in some form; the oracle forbids heeding it or trusting its voice. Such apparitions come from the soul's passions and have no substance. `II.3 ¶20, II.3 n15` — QUOTED: Psellus (endorsed)
+- The poets veiled this vaporous estate as Pan, who wears monstrous disguises to frighten would-be captors; Virgil's lines on Aeneas and the shades follow (untranslated in the book). `II.3 ¶20, II.3 ¶21` — ATWOOD
+- The imaginative spirit makes these images, like dreams but stronger. The humid, condensed pneumatic vehicle forms apparitions as moisture forms clouds; the ancients' demons arise from this vapor. By rapport one meets the whole phantasmagoric universe of one's sphere. `II.3 ¶22` — ATWOOD
+- Proclus: material images, even divine-seeming, draw unpurified souls from truth; mystics meet many-shaped forms first, then, unmoved and inside the Temple, receive illumination. Atwood places these images in the evaporative purification, before the inner light. `II.3 ¶22, II.3 n17` — QUOTED: Proclus (endorsed)
+- Basil Valentine: these exterior spirits know arts, including healing, and so trap the imperfect spiritual intellect. `II.3 ¶23, II.3 n18` — QUOTED: Basil Valentine (endorsed)
+- Many authorities describe them: desire vivifies the aerial forms; the oracle allows pure demons and useful products of evil matter; Synesius calls them matter's progeny at war with the soul; Proclus' hymn says they keep souls toiling, forgetful of their origin. `II.3 ¶24, II.3 ¶25, II.3 n19, II.3 n20, II.3 n21, II.3 n22, II.3 n23, II.3 n24, II.3 n25, II.3 n26` — ATWOOD
+- The oracle: keep the eyes upward, away from image-loving Hades. `II.3 ¶26, II.3 n27` — QUOTED: oracle (endorsed)
+- Porphyry: a soul clinging to nature grows moist, shadowed and heavy; one leaving nature becomes a dry splendor. Heraclitus' dry soul, turned to itself, radiates its own light. Hermes: withdraw the watery nature from the fire until the redness is pure. `II.3 ¶27, II.3 n29, II.3 n30, II.3 n31` — ATWOOD
+- The 'earth' holding the Stone is our chaotic sense-life, which rectified becomes a spiritual body. Life is fire imprisoned in aerial moisture; unpurified, that moisture is Hades, the Purgatory of the wise, where consciousness is perplexed and opposing powers clash until union. Phantoms guard the mineral soul. `II.3 ¶28, II.3 ¶29, II.3 n32` — ATWOOD
+- Vaughan: the First Matter never keeps one shape, driven by the fire of nature, which Atwood parallels with the re-entering Light of Reason, the adepts' Sulfur. Lully's monstrous 'first principles', known by self-inspection, are so called because the Seed of Spirit is found in their purified extreme. `II.3 ¶30, II.3 n33, II.3 n34, II.3 n35` — ATWOOD
+- That seed, a heavy star-like ens, is the whole Demogogon not yet animated by its returning light: a hidden 'rock in the wilderness', the viscous soul, the deformed divine germ of humanity, like Glaucus. `II.3 ¶30, II.3 n36` — ATWOOD
+- A Rosicrucian letter, applied to initiation: an invisible central mountain guarded by beasts, sought on the darkest night with prayer, a self-offering guide and courage, without weapons. Themistus: a conductor opens the vestibule to the perplexed initiate. `II.3 ¶31, II.3 ¶32, II.3 n37` — ATWOOD
+
+## Method
+
+- **impediment** — “These apparitions are created by the passions of the soul, in performing divine rites, mere appearances, having no substance, and therefore not signifying anything true” `II.3 ¶20` (QUOTED: Psellus (endorsed))
+  - **Plain (stated):** Visions such as lights in various forms that appear during the work come from the operator's own passions. They are insubstantial and must not be trusted or attended to.
+  - Also: “he apply not his mind to it, nor esteem the voice proceeding thence to be true” `II.3 ¶20`
+  - Also: “the first called superinspection, when he who celebrates the divine rites sees a mere apparition, as, for instance, of light in some form or figure” `II.3 ¶20`
+- **impediment** — “the poets also fabulously concealed under the satiric form of Pan, who exhibited himself in every variety of atrocious disguises of wild beasts, and monsters, and demoniacal appearances, that he might affright those who would captivate him” `II.3 ¶20` (ATWOOD)
+  - **Plain (stated):** Pan stands for the 'vaporous estate of universal-being', which shows itself in frightening shapes that deter whoever tries to grasp it.
+  - Also: “Monstrum, horrendum, informe, ingens, cui lumen ademptu.” `II.3 ¶30`
+- **agent** — “For it is the imaginative spirit which is the maker of these images, as in dreams, only more intense” `II.3 ¶22` (ATWOOD)
+  - **Plain (stated):** The imaginative faculty itself produces the visions and 'demons'. They work like dreams but are stronger.
+  - Also: “from an included vapor of the imagination” `II.3 ¶22`
+- **stage** — “our pneumatic vehicle, becoming humid and condensed beneath her heaven, presents many formidable apparitions to the inner sense” `II.3 ¶22` (ATWOOD)
+  - **Plain (stated):** When the soul's subtle vehicle is moist and condensed, it throws up apparitions to the inner sense, just as condensed moisture forms clouds that the wind shapes.
+  - Also: “the soul looking at things posterior to herself beholds the shadow and images of her vaporous vehicle” `II.3 ¶27`
+- **sign** — “each by rapport in this state becomes conversant with the whole phantasmagoric universe of his sphere” `II.3 ¶22` (ATWOOD)
+  - **Plain (stated):** In this state the person perceives, through rapport, the whole image-world of his sphere and not only his own images. This explains the crowded imagery of the accounts.
+- **impediment** — “material images, assuming the appearance even of things divine, constantly attended on the Mysteries, drawing towards them souls not yet sufficiently purified, and separating them from truth” `II.3 ¶22` (QUOTED: Proclus (endorsed))
+  - **Plain (stated):** Some deceptive images even look divine. They pull an insufficiently purified soul away from truth and toward matter.
+  - Also: “the impulsive forms of certain terrestrial demons appear, which call the attention off from undefiled advantages to matter” `II.3 ¶22`
+- **stage** — “on entering the interior part of the Temple, unmoved and guarded by the sacred rites, they genuinely receive into their bosom divine illumination” `II.3 ¶22` (QUOTED: Proclus (endorsed))
+  - **Plain (stated):** The order is fixed: many-shaped phantoms come first. Only a soul that stays unmoved by them and goes further inward receives true illumination. Atwood places the phantoms during purification and before the vision of the inner light.
+  - Also: “during the evaporative process of purification, and before the lucid vision of the light within” `II.3 ¶22`
+  - Also: “the mystics at first meet with the multiform and many-shaped genera which are hurled forth before the gods” `II.3 ¶22`
+- **procedure** — “the evaporative process of purification” `II.3 ¶22` (ATWOOD)
+  - **Plain (interpreted):** Purification works as a drying: the moist vapor of the soul's vehicle, which breeds images, is driven off.
+  - Basis: II.3 ¶22 links the images to 'an included vapor' and a humid, condensed vehicle. II.3 ¶27 says the soul that leaves nature 'becomes a dry splendor' and that 'a dry soul is the wisest'.
+- **impediment** — “the spiritual also, not et perfected, is liable to be caught in the traps of these exterior spirits” `II.3 ¶23` (ATWOOD)
+  - **Plain (stated):** An imperfect spiritual faculty can be captured by these spirits. Citing Basil Valentine, Atwood says they seem intelligent, skilled and even able to heal, and that this is how they divert the seeker from better things.
+  - Also: “endowed with senses and understanding, know Arts, and have in themselves an occult operative life” `II.3 ¶23`
+  - Also: “by which they deceive and detain the unwary from the search of better things” `II.3 ¶23`
+- **principle** — “desire, entering into those aerial forms, is said to vivify them” `II.3 ¶24` (QUOTED: Psellus, Proclus, Iamblicus, Porphyry (as reported by Atwood))
+  - **Plain (stated):** Desire entering the aerial forms is said to give them life and effect. The chunk does not say whose desire.
+- **principle** — “and that the germinations even of evil matter are of use” `II.3 ¶24` (QUOTED: Chaldaic oracle)
+  - **Plain (stated):** The products of impure matter are not wholly worthless and can serve a use. The chunk does not say what use.
+  - Also: “the Chaldaic oracle even persuades that there are pure demons” `II.3 ¶24`
+- **procedure** — “Let the immortal depth of thy soul be predominant, and all thy eyes extend upwards” `II.3 ¶26` (QUOTED: oracle (endorsed))
+  - **Plain (stated):** Keep the deepest part of the soul in command and direct all attention upward. Do not turn toward the image-filled dark world.
+  - Also: “incline not to the dark world whose depth is a faithless bottom and Hades dark all over, squalid, delighting in images” `II.3 ¶26`
+- **impediment** — “it attracts moisture when it continually endeavors to associate with nature, whose operations are effected in moisture” `II.3 ¶27` (QUOTED: Porphyry (endorsed))
+  - **Plain (stated):** The soul becomes moist, heavy and image-bound because it keeps clinging to nature.
+  - Also: “If the soul on its departure, says Porphyry, still possesses a spirit turbid from humid exhalations, it then attracts to itself a shadow and becomes heavy” `II.3 ¶27`
+- **procedure** — “when however the soul earnestly desires to depart from nature (i.e., strives to penetrate centrally without exploring the intermediate spheres), then she becomes a dry splendor from exhalation” `II.3 ¶27` (QUOTED: Porphyry, with Atwood's parenthetical gloss)
+  - **Plain (stated):** The cure is a direct turn inward to the center, without lingering in the intermediate spheres of images. This dries the soul and makes it luminous. The parenthesis glosses 'depart from nature'.
+  - Also: “a dry soul is the wisest” `II.3 ¶27`
+- **result** — “when she is converted to herself, she evolves her proper essence and irradiates the whole circumference with her own abundant oxygenating and dispersive light” `II.3 ¶27` (UNCLEAR (follows Heraclitus' saying; n30 cites Proclus))
+  - **Plain (stated):** When the soul turns to itself, it unfolds its own essence and lights its whole sphere with its own light, instead of seeing shadows.
+- **procedure** — “take, my son, this watery and corrupted nature, which is as a coal holding the fire, which if thou salt withdraw so often until the redness is made pure” `II.3 ¶27` (QUOTED: Hermes (endorsed))
+  - **Plain (interpreted):** Repeatedly separate the watery, obscuring element from the fire it holds until that fire, the 'redness', is pure. It then unites with the operator.
+  - Basis: II.3 ¶27 introduces Hermes with 'Thus' directly after Porphyry and Heraclitus on drying the moist spirit, so the 'watery' part is read as the soul's moisture. The 'clouds' over the ray echo the cloud image for the vapor in II.3 ¶22.
+  - Also: “Extract from the ray its shadow and its obscurity, by which the clouds hang over it, and corrupt and keep away the light” `II.3 ¶27`
+  - Also: “then it will associate with thee, by whom it was cherished and in whom it rests” `II.3 ¶27`
+- **subject** — “not the feculent dead soil, but our dark divulsed chaotic life from sense, which opened and rectified, dissolved and reunited, is changed from an earthly to a spiritual body, by rapport divine” `II.3 ¶29` (ATWOOD)
+  - **Plain (stated):** The 'earth' whose interior holds the Stone is the operator's own disordered sense-life, not literal soil. The steps are: open it, rectify it, dissolve it, reunite it. It then becomes a spiritual body through divine rapport.
+  - Also: “Visit the interior of the earth rectifying, says the sage, and thou shalt find the hidden Stone, the true medicine” `II.3 ¶29`
+- **principle** — “the life of all things here below to be a thick fire imprisoned in a certain incombustible aerial moisture” `II.3 ¶29` (QUOTED: the Alchemists (endorsed))
+  - **Plain (stated):** Life is a fire held inside a moisture. Atwood says alchemists found this by experiment, passing through the animal and vegetable into the mineral circulation of nature's Law.
+  - Also: “Ignis rubber super dorsum ignis candidi” `II.3 ¶29`
+- **stage** — “which moisture in its native state, before it is purified by the inflowing light of reason, is that Hades we are treating of, the Purgatory of the wise” `II.3 ¶29` (ATWOOD)
+  - **Plain (stated):** The unpurified moisture is the Hades of the Mysteries. It is a stage in which the consciousness is anxious, perplexed and unable on its own to see the reality it aims at.
+  - Also: “wherein the consciousness, becoming artificially wrapped by the Mysteries, continues for a while in a state of solicitude and painful amazement” `II.3 ¶29`
+  - Also: “unable of itself to discover, through so great a cloud of darkness, that Hypostatic Reality towards which it is instructed evermore to aspire” `II.3 ¶29`
+  - Also: “the initiated is seized at first with solicitude and perplexity, unable to move a step forward” `II.3 n37`
+- **stage** — “until this attraction is found and finally established in union, the opposive powers display their mutual forces in discordant dissolute array” `II.3 ¶29` (ATWOOD)
+  - **Plain (stated):** The conflict of opposing forces lasts until the attraction to the Hypostatic Reality is found and fixed in union.
+- **impediment** — “the many real, though chimerical horrors and enticing phantoms that haunt around, guarding the secret chamber of their mineral soul” `II.3 ¶29` (ATWOOD)
+  - **Plain (stated):** Terrifying and alluring phantoms surround the inner 'mineral soul'. They are real as experiences but illusory, and the alchemists warn how to conduct oneself among them.
+  - Also: “there is an angel standing upon it, and that angel struggles to prevail” `II.3 ¶29`
+  - Also: “is compassed about with very cruel beasts and ravenous birds, which make the way thither both difficult and dangerous” `II.3 ¶32`
+- **agent** — “the re-entering Light of Reason in the Mysteries, which is that Sulfur of adepts, causing all this manifold scenery in the disruption of life” `II.3 ¶30` (ATWOOD)
+  - **Plain (stated):** The adepts' 'Sulfur' is the Light of Reason re-entering the soul. As it enters, it breaks up the life and causes the changing scenery of images. It also purifies the moisture.
+  - Also: “before it is purified by the inflowing light of reason” `II.3 ¶29`
+- **sign** — “The eye of man never saw her twice under one and the same shape” `II.3 ¶30` (QUOTED: Vaughan (endorsed))
+  - **Plain (stated):** The First Matter never holds one form. Like wind-driven clouds, it keeps changing shape under the 'fire of nature', which Atwood sets in parallel with the re-entering Light of Reason.
+  - Also: “so is she persecuted by the fire of nature” `II.3 ¶30`
+  - Also: “certain fugitive spirits condensed in the air, in shape of divers monsters, beasts, and men, which move like clouds hither and thither” `II.3 ¶30`
+- **principle** — “Our Stone comes with light and with light it is generated, and then it brings forth the clouds, and darkness which is the mother of all things” `II.3 ¶30` (QUOTED: Hermes)
+  - **Plain (interpreted):** Light both generates the Stone and brings on the clouds and darkness, so the cloudy phase is a product of the light entering.
+  - Basis: In II.3 ¶30 the quote directly follows Atwood's statement that the re-entering Light of Reason causes 'all this manifold scenery'. The chunk does not explain the saying further.
+  - Also: “which containest and separatest all things in a middle principle” `II.3 ¶30`
+- **procedure** — “as from the self-inspection of them in life” `II.3 ¶30` (ATWOOD)
+  - **Plain (stated):** Lully's monster-shaped 'first principles' would be absurd if taken outwardly. Atwood holds they were known by inspecting one's own inner life.
+- **result** — “within the material extreme of this life, when it is purified, the Seed of Spirit is at last found” `II.3 ¶30` (ATWOOD)
+  - **Plain (stated):** The chaotic forms are called 'first principles' only because, once the lowest material level of this life is purified, the Seed of Spirit is found within it.
+  - Also: “not because they are permanent or their essence rational, in that unctuous dark condition” `II.3 ¶30`
+- **sign** — “a decompounded ens, extremely heavy, shining through the darkness like a fiery star, being full of eyes like pearls or aglets” `II.3 ¶30` (QUOTED: the adept (unnamed))
+  - **Plain (stated):** This is how the found Seed appears: heavy, decompounded and shining like a star in the darkness, full of eye-like points. The chunk gives no further explanation.
+- **subject** — “For it is the whole Demogogon, as yet not actually animated by contact of his own returning light” `II.3 ¶30` (ATWOOD)
+  - **Plain (interpreted):** What is found is the whole being in potential, not yet brought to life because its own light has not yet returned to it.
+  - Basis: II.3 ¶30 follows the description of the Seed of Spirit and links 'returning light' with the 're-entering Light of Reason' earlier in the same paragraph. The referent of 'it' is uncertain (see ambiguities).
+  - Also: “The father of it, says Vaughan, is a certain inviolable mass” `II.3 ¶30`
+- **subject** — “In such a deplorable condition is the divine germ of humanity said to be beheld under the thousand evils of its birth” `II.3 ¶30` (ATWOOD)
+  - **Plain (stated):** In its raw state the subject is the divine germ in humanity, overgrown and deformed like Plato's Glaucus, and hard to find, like a 'rock in the wilderness'.
+  - Also: “This is the rock in the wilderness,, because in great obscurity and difficult to find the way of” `II.3 ¶30`
+  - Also: “Our viscous soul, as Synesius calls it, circulating in the midst of all her Adamical defilements” `II.3 ¶30`
+- **subject** — “There is a mountain situated in the midst of the earth or center of the world, which is both small and great” `II.3 ¶32` (QUOTED: Brethren of the Rosy Cross (applied by Atwood))
+  - **Plain (interpreted):** The goal of initiatory progress is a hidden, central place of treasure: paradoxical, invisible and guarded. It is reached only through the worthy person's own labor.
+  - Basis: II.3 ¶31: Atwood says the letter 'appears to have reference to this passage of initiatory progress in the Mysteries'. II.3 ¶32 adds 'it is invisible' and 'only by the worthy man’s self-labor and investigation'. Its central placement parallels 'penetrate centrally' in II.3 ¶27.
+  - Also: “but, by the providence of God, it is invisible” `II.3 ¶32`
+  - Also: “but only by the worthy man’s self-labor and investigation” `II.3 ¶32`
+- **operator** — “It is necessary that you arm yourself with a resolute heroic courage, lest you fear those things that will happen and fall back” `II.3 ¶32` (QUOTED: Brethren of the Rosy Cross (applied by Atwood))
+  - **Plain (stated):** The operator must prepare by prayer, go in the deepest darkness, and have firm courage so as not to retreat from what will happen. No physical means are needed, only sincere seeking of God.
+  - Also: “To this mountain you should go in a certain night, when it comes most long and dark; and see that you prepare yourself by prayer” `II.3 ¶32`
+  - Also: “You need no sword or other bodily weapon, only call upon you God, sincerely and heartily seeking Him” `II.3 ¶32`
+- **agent** — “ask not of any man where it lies; only follow your guide who will offer himself to you and will meet you in the way” `II.3 ¶32` (QUOTED: Brethren of the Rosy Cross (applied by Atwood))
+  - **Plain (stated):** A guide appears on the way, unasked, and is to be followed. The footnote compares him to the conductor who opens the vestibule to the perplexed initiate, and to the light promised to one who approaches the fire. The chunk does not identify the guide.
+  - Also: “till the conductor laying open for him the vestibule, he enters” `II.3 n37`
+  - Also: “the Chaldaic oracle promises that the mortal, approaching the fire, will have a light from divinity” `II.3 n37`
+
+## Terms
+
+- **superinspection** — The first of two kinds of apparition in the Chaldaic rites: a mere apparition, for example of light in some form, seen by the celebrant. It is not to be heeded. (QUOTED: Psellus)
+  - “the first called superinspection, when he who celebrates the divine rites sees a mere apparition” `II.3 ¶20`
+- **imaginative spirit** — The faculty that makes the apparitions, as in dreams but more intensely. (ATWOOD)
+  - “For it is the imaginative spirit which is the maker of these images” `II.3 ¶22`
+- **pneumatic vehicle** (also: vaporous vehicle) — The soul's subtle vehicle. When humid and condensed it presents apparitions to the inner sense, and the soul looking outward sees its shadow and images. (ATWOOD)
+  - “our pneumatic vehicle, becoming humid and condensed beneath her heaven” `II.3 ¶22`
+  - “beholds the shadow and images of her vaporous vehicle” `II.3 ¶27`
+- **rapport** — A connection by which the person in this state meets the whole image-world of his sphere. The change to a spiritual body happens 'by rapport divine'. (ATWOOD)
+  - “each by rapport in this state becomes conversant with the whole phantasmagoric universe of his sphere” `II.3 ¶22`
+  - “is changed from an earthly to a spiritual body, by rapport divine” `II.3 ¶29`
+- **demons** (also: Demons, demonas) — Apparitional beings arising from the enclosed vapor of imagination. They are called progeny of matter and are said to have sense, arts and an operative life, which they use to deceive. They are vivified by desire and are at war with the truth-seeking soul. The Chaldaic oracle also speaks of 'pure demons'. (ATWOOD)
+  - “all the race of demons, so much celebrated by antiquity, appear to have their origin in a life of this kind, viz., from an included vapor of the imagination” `II.3 ¶22`
+  - “as the progeny of matter, and as having an energetic virtue, but at natural war with the truth-seeking soul” `II.3 ¶24`
+- **Musai** — The term is used once, in connection with the material images seen during the evaporative purification. Its referent is unclear (see ambiguities). (ATWOOD)
+  - “And that such actually appeared to be the Musai, during the evaporative process of purification” `II.3 ¶22`
+- **speculation of Wholes** — Contemplation in which, according to Proclus, the same order holds as in the Mysteries: phantasms first, illumination later. (QUOTED: Proclus)
+  - “the same method takes place in the speculation of Wholes” `II.3 ¶22`
+- **Hades** — The dark, image-loving lower world, and the aerial moisture of life in its unpurified state. In it, consciousness wrapped by the Mysteries is anxious and perplexed. (ATWOOD)
+  - = Purgatory of the wise: “is that Hades we are treating of, the Purgatory of the wise” `II.3 ¶29`
+  - = aerial moisture in its native (unpurified) state: “which moisture in its native state, before it is purified by the inflowing light of reason, is that Hades we are treating of” `II.3 ¶29`
+  - “Hades dark all over, squalid, delighting in images, unintelligible, precipitous” `II.3 ¶26`
+- **dry soul** (also: dry splendor) — The state of a soul that has left nature and its moisture. It turns to itself and radiates its own light. Heraclitus calls it the wisest. (ATWOOD)
+  - “then she becomes a dry splendor from exhalation” `II.3 ¶27`
+  - “a dry soul is the wisest” `II.3 ¶27`
+- **earth (interior of the earth)** (also: interiora terrae) — In the sage's saying, the earth means our chaotic sense-life, not soil. (ATWOOD)
+  - = our dark divulsed chaotic life from sense: “not the feculent dead soil, but our dark divulsed chaotic life from sense” `II.3 ¶29`
+  - “Visit the interior of the earth rectifying” `II.3 ¶29`
+- **Stone** (also: lapidem, Our Stone) — Hidden in the interior of the 'earth'. It is generated with light and brings forth clouds and darkness. (ATWOOD)
+  - = the true medicine: “thou shalt find the hidden Stone, the true medicine” `II.3 ¶29`
+  - “Our Stone comes with light and with light it is generated” `II.3 ¶30`
+- **aerial moisture** — The incombustible moisture in which the thick fire of life is imprisoned. Unpurified, it is Hades. (QUOTED: the Alchemists (endorsed))
+  - “a thick fire imprisoned in a certain incombustible aerial moisture” `II.3 ¶29`
+- **Hypostatic Reality** — What the consciousness in Hades is taught to aspire to but cannot find by itself through the darkness. (ATWOOD)
+  - “that Hypostatic Reality towards which it is instructed evermore to aspire” `II.3 ¶29`
+- **mineral soul** — The inner 'secret chamber' that horrors and phantoms guard. (ATWOOD)
+  - “guarding the secret chamber of their mineral soul” `II.3 ¶29`
+- **First Matter** — Never seen twice in the same shape. It is driven like clouds by the fire of nature. (QUOTED: Vaughan)
+  - = mineral nature: “speaking of the mineral nature or First Matter” `II.3 ¶30`
+  - “The eye of man never saw her twice under one and the same shape” `II.3 ¶30`
+- **Sulfur** — The adepts' Sulfur. It causes the manifold scenery as life is disrupted. (ATWOOD)
+  - = the re-entering Light of Reason in the Mysteries: “the re-entering Light of Reason in the Mysteries, which is that Sulfur of adepts” `II.3 ¶30`
+  - “which is that Sulfur of adepts, causing all this manifold scenery in the disruption of life” `II.3 ¶30`
+- **Light of Reason** (also: light of reason) — It flows into and purifies the aerial moisture, and re-enters in the Mysteries. (ATWOOD)
+  - = Sulfur of adepts: “the re-entering Light of Reason in the Mysteries, which is that Sulfur of adepts” `II.3 ¶30`
+  - “before it is purified by the inflowing light of reason” `II.3 ¶29`
+- **first principles** — Lully's term for the chaotic monster-shaped spirits. Atwood says they are so called because the Seed of Spirit is found in their purified material extreme, not because they are permanent or rational. (ATWOOD)
+  - = fugitive spirits condensed in the air: “calls the first principles of the Art, Spiritus fugitives in aero condensators” `II.3 ¶30`
+  - “But Lully, indeed, calls these chaotic forms first principles” `II.3 ¶30`
+- **Seed of Spirit** — Found at last within the purified material extreme of this life. It is described as a heavy, decompounded ens shining like a fiery star. (ATWOOD)
+  - “within the material extreme of this life, when it is purified, the Seed of Spirit is at last found” `II.3 ¶30`
+- **Demogogon** — 'The whole Demogogon', not yet animated by contact with its own returning light. (ATWOOD)
+  - “For it is the whole Demogogon, as yet not actually animated by contact of his own returning light” `II.3 ¶30`
+- **rock in the wilderness** — So called because it is in great obscurity and hard to reach, surrounded by darkness, clouds and exhalations, as though in the bowels of the earth. (ATWOOD)
+  - “This is the rock in the wilderness,, because in great obscurity and difficult to find the way of” `II.3 ¶30`
+- **viscous soul** — Synesius' term, as Atwood cites it, for the soul circulating among its 'Adamical defilements'. Plato compares it to the deformed Glaucus. (ATWOOD)
+  - “Our viscous soul, as Synesius calls it, circulating in the midst of all her Adamical defilements” `II.3 ¶30`
+- **divine germ of humanity** — Seen in a deformed condition under the evils of its birth. (ATWOOD)
+  - “the divine germ of humanity said to be beheld under the thousand evils of its birth” `II.3 ¶30`
+- **Mysteries** — The rites in which apparitions precede divine illumination and the consciousness is 'artificially wrapped' in Hades. The Rosicrucian letter is read as describing a 'passage of initiatory progress' within them. (ATWOOD)
+  - “wherein the consciousness, becoming artificially wrapped by the Mysteries” `II.3 ¶29`
+
+## Sources cited
+
+- **Plato** `II.3 ¶20` — Supports: likens the soul's descent into generation to an earthquake.
+- **Plato**, *Republic, book 7* `II.3 ¶30, II.3 n36` — Illustrates: Glaucus deformed by weeds, compared to the viscous soul.
+- **Psellus**, *commentary; Pesllus de Oraculis* — “mere appearances, having no substance, and therefore not signifying anything true” `II.3 ¶20, II.3 n15` — Supports: the apparitions in the Chaldaic rites, including superinspection, are empty products of the soul's passions.
+- **Oracula Chaldaeorum**, *Oracula Chaldaeorum Deomes Sacrificia* `II.3 n15` — Reference only.
+- **the oracle (Chaldaic)** — “he apply not his mind to it, nor esteem the voice proceeding thence to be true” `II.3 ¶20` — Supports: do not attend to the apparitions.
+- **the Chaldaic oracle**, *Oracula Zoroastri* — “Natura suadet esse demonas puros, et malae materiae germina utilia et bona” `II.3 ¶24, II.3 n25` — Supports: there are pure demons and the products of evil matter are useful.
+- **the oracle**, *Zoroastri Oracula Anima, Corpus, Homo.* — “Let the immortal depth of thy soul be predominant, and all thy eyes extend upwards” `II.3 ¶26, II.3 n27` — Supports: turn upward, away from the image-loving Hades.
+- **the Chaldaic oracle** — “the mortal, approaching the fire, will have a light from divinity” `II.3 n37` — Supports: the guide and the promised light.
+- **the poets** `II.3 ¶20` — Illustrates: Pan as a veil for the vaporous estate and its frightening disguises.
+- **Aeneid**, *Aeneid, lib. 6:290* — “Corripit hic subita trepidus formidine ferrum” `II.3 ¶21, II.3 n16` — Illustrates the apparitions (Latin given untranslated; per our translation, Aeneas draws his sword on bodiless shades until warned).
+- **Aeneid**, *Aeneid, lib. 6:389* — “Umbrarum hic locus est, somni noctisque soporae” `II.3 ¶26, II.3 n28` — Illustrates: the place of shades.
+- **Aeneid**, *Aeneid, lib. 6:260* — “Nunc animis opus, Aenea, nunc pectore firmo.” `II.3 n37` — Illustrates: the courage required.
+- **Proclus**, *commentary on the First Alcibiades of Plato; Proclus on the Theology of Plato, vol. 1, p.9; De anima et Demona* — “In the most holy Mysteries, says he, before the presence of the god, the impulsive forms of certain terrestrial demons appear” `II.3 ¶22, II.3 n17` — Supports: deceptive images precede illumination in the Mysteries; the same holds in the speculation of Wholes.
+- **Proclus**, *Excerpta M. Ficini ex Graecis Procli Com. in Alcibiad.* `II.3 ¶24, II.3 n22` — Reference only: on the demons' material efficacy in Divine Works.
+- **Proclus**, *Hymn to the Sun* — “Demons who machinate a thousand ills,” `II.3 ¶24, II.3 ¶25` — Supports: demons keep souls in the body, forgetful of their origin.
+- **Proclus**, *Proclus on the Theology of Plato, book 1,cap. 3* `II.3 ¶27, II.3 n30` — Reference for the dry soul turned to itself radiating its own light.
+- **Basil Valentine**, *Alchemical Chariot; Triumphal Chariot of Antimony, Kirchringius edit.* — “endowed with senses and understanding, know Arts, and have in themselves an occult operative life” `II.3 ¶23, II.3 n18` — Supports: exterior spirits are intelligent and deceive the unwary.
+- **Agrippa**, *Occult Philosophy, book 2* `II.3 ¶24, II.3 n19` — Reference only: regular descriptions of demoniacal natures.
+- **Trithemius**, *De Spetem Intellignetia, etc.* `II.3 ¶24, II.3 n20` — Reference only: descriptions of demoniacal natures.
+- **Psellus**, *Michaele Psello de Demonibus* `II.3 ¶24, II.3 n21` — Reference only: on the demons' material efficacy.
+- **Iamblicus**, *De Mysteriis Aegypt-Chaldeor.* `II.3 ¶24, II.3 n23` — Reference only: on the demons' material efficacy.
+- **Porphyry**, *De Divinis atque Demonibus* `II.3 ¶24, II.3 n24` — Reference only: on the demons' material efficacy.
+- **Porphyry**, *Auxil. To Intelligib., sect. 1* — “If the soul on its departure, says Porphyry, still possesses a spirit turbid from humid exhalations, it then attracts to itself a shadow and becomes heavy” `II.3 ¶27, II.3 n29` — Supports: a moist spirit binds the soul to images and to earth, and leaving nature makes it a dry splendor.
+- **Synesius**, *De Somni* `II.3 ¶24, II.3 n26` — Supports: demons are progeny of matter at war with the truth-seeking soul.
+- **Synesius** — “Our viscous soul” `II.3 ¶30` — Supports: names the soul in its defiled state.
+- **Heraclitus** — “a dry soul is the wisest” `II.3 ¶27` — Supports: the dry, self-turned soul.
+- **Hermes**, *Tract. Aur., cap.2* — “Extract from the ray its shadow and its obscurity” `II.3 ¶27, II.3 n31` — Supports: separate the watery, obscuring nature from the fire until the redness is pure.
+- **Hermes**, *Tract. Aur., cap. 3* — “O Nature! The most wonderful creatrix of natures” `II.3 ¶30, II.3 n34` — Supports: the Stone is generated with light and brings forth clouds and darkness.
+- **the sage** — “Visitabis interiora terrae rectificando” `II.3 ¶28, II.3 ¶29` — Supports: Atwood reads the saying as referring to sense-life.
+- **the Alchemists** — “Ignis rubber super dorsum ignis candidi” `II.3 ¶29` — Supports: life is a fire imprisoned in aerial moisture; they warn of the horrors and phantoms.
+- **the sage in Enoch**, *Book of Enoch, chap. 64: 7,8* — “there is an angel standing upon it, and that angel struggles to prevail” `II.3 ¶29, II.3 n32` — Illustrates: the guarded mineral soul.
+- **Vaughan**, *Regio Phantastica of his Hieroglyphic; Lumen de Lumine, Introd. Coelum Terrae, p. 90.* — “The eye of man never saw her twice under one and the same shape” `II.3 ¶30, II.3 n33` — Supports: the First Matter keeps changing form under the fire of nature.
+- **Vaughan**, *Lumen de Lumine,p. 68.* — “a certain inviolable mass” `II.3 ¶30, II.3 n35` — Supports: describes the 'father' of the Seed.
+- **Raymond Lully**, *Compendium of Alchemy* — “Spiritus fugitives in aero condensators, in forma monstrorum diversorum et animalium etiam hominum” `II.3 ¶30` — Supports: first principles as cloud-like monstrous spirits. Atwood reads this as known from inner self-inspection.
+- **the adept** — “a decompounded ens, extremely heavy, shining through the darkness like a fiery star” `II.3 ¶30` — Supports: describes the Seed of Spirit found in the process.
+- **Brethren of the Rosy Cross**, *a letter circulated under the name of the Brethren of the Rosy Cross* — “There is a mountain situated in the midst of the earth or center of the world” `II.3 ¶31, II.3 ¶32` — Illustrates: an allegory of the initiatory passage (mountain, beasts, night, guide, courage).
+- **Themistus** — “the initiated is seized at first with solicitude and perplexity” `II.3 n37` — Supports: the initiate's perplexity until the conductor opens the vestibule.
+- **Warburton**, *Divine Legation, the Extract, col. 1* `II.3 n37` — Reference only (for Themistus).
+- **The adepts** — “The adepts, many of them, are at some pains to denote the peculiar disposition and appearance of this guide” `II.3 n37` — Supports: the guide.
+
+## Ambiguities
+
+- “And that such actually appeared to be the Musai” `II.3 ¶22`
+  - Reading: The 'Musai' are the material images or demons that appear during purification.
+  - Reading: The 'Musai' are the initiates to whom such images appeared.
+  - Basis: Grammatically, 'such' (the material images) 'appeared to be the Musai', which supports reading 1. The Proclus passage that follows speaks of 'the mystics' meeting these forms, which could support reading 2.
+- “divested of the Divine Nature” `II.3 ¶22`
+  - Reading: As printed: the mystics are 'divested' of something on receiving illumination.
+  - Reading: The phrase is hard to reconcile with receiving 'divine illumination' in the same clause and may be corrupt; the intended sense is unclear.
+  - Basis: II.3 ¶22: the phrase immediately follows 'they genuinely receive into their bosom divine illumination'.
+- “For it is the whole Demogogon” `II.3 ¶30`
+  - Reading: 'it' is the Seed of Spirit / decompounded ens just described.
+  - Reading: 'it' is the chaotic material extreme of life as a whole.
+  - Basis: The sentence follows the ens description directly, which supports reading 1. 'the whole' and 'not yet animated' fit the unpurified chaotic forms discussed just before, which supports reading 2.
+- “This is the rock in the wilderness,, because in great obscurity” `II.3 ¶30`
+  - Reading: 'This' is Vaughan's 'inviolable mass', the father of it.
+  - Reading: 'This' is the Seed / Demogogon. The following 'Our viscous soul' stands in apposition and names the same thing.
+  - Basis: The phrase directly follows the Vaughan quote, which supports reading 1. The dash and 'Our viscous soul ... In such a deplorable condition is the divine germ' tie it to the soul or germ, which supports reading 2.
+- “Ignis rubber super dorsum ignis candidi” `II.3 ¶29`
+  - Reading: It restates the preceding image: a red fire (the thick fire of life) carried on a white fire (the moisture).
+  - Reading: It is a separate emblem the text does not explain.
+  - Basis: In II.3 ¶29 it is set off with dashes right after 'a thick fire imprisoned in a certain incombustible aerial moisture'. No gloss is given.
+
+## Translations
+
+- `II.3 ¶21` “Corripit hic subita trepidus formidine ferrum Aeneas strictamque aciem venientibus offert. Et ni docta comes tenues sine corpore vitas Admoneat volitare cava sub imagine formae, Irruat, et frustra ferro diverberet umbras” → Here Aeneas, trembling with sudden fear, seizes his sword and turns the drawn edge on those approaching. Had his learned companion not warned him that these were thin, bodiless lives flitting under a hollow semblance of form, he would rush in and vainly cleave the shades with steel. *(ours)*
+- `II.3 ¶24` “Natura suadet esse demonas puros, et malae materiae germina utilia et bona” → the Chaldaic oracle even persuades that there are pure demons ... and that the germinations even of evil matter are of use *(book)*
+- `II.3 ¶26` “Ducat animae profunditas immortalis oculosque affatim, --- Omnes sursum extende.” → Let the immortal depth of thy soul be predominant, and all thy eyes extend upwards *(book)*
+- `II.3 ¶26` “Umbrarum hic locus est, somni noctisque soporae” → This is the place of shades, of sleep and of drowsy night. *(ours)*
+- `II.3 ¶28` “Visitabis interiora terrae rectificando, invneies Occultum lapidem, veram medicianam.” → Visit the interior of the earth rectifying, says the sage, and thou shalt find the hidden Stone, the true medicine *(book)*
+- `II.3 ¶29` “Ignis rubber super dorsum ignis candidi” → Red fire upon the back of white fire. *(ours)*
+- `II.3 ¶30` “Spiritus fugitives in aero condensators, in forma monstrorum diversorum et animalium etiam hominum, qui vadunt sicut nubes, modo hinc modo illuc” → certain fugitive spirits condensed in the air, in shape of divers monsters, beasts, and men, which move like clouds hither and thither *(book)*
+- `II.3 ¶30` “Monstrum, horrendum, informe, ingens, cui lumen ademptu.” → A monster, dreadful, shapeless, huge, whose light (sight) has been taken away. *(ours)*
+- `II.3 n37` “Nunc animis opus, Aenea, nunc pectore firmo.” → Now there is need of courage, Aeneas, now of a steadfast heart. *(ours)*
+
+## Threads
+
+- `II.3 ¶20` 'And all this, extravagant and fanciful though it should appear' refers back to the preceding account of the convulsions and apparitions at the Mysteries, which is not in this chunk.
+- `II.3 ¶29` 'that Hades we are treating of' points to an earlier discussion of Hades.
+- `II.3 ¶30` Vaughan 'notes the same in the Regio Phantastica of his Hieroglyphic, and elsewhere', pointing to Vaughan's works outside this chunk.
+- `II.3 ¶31` The Rosicrucian letter 'appears to have reference to this passage of initiatory progress in the Mysteries', tying it to the stage just described. The letter continues past the end of this chunk.
+- `II.3 n37` 'The adepts, many of them, are at some pains to denote the peculiar disposition and appearance of this guide' points to fuller treatments of the guide elsewhere. 'See Warburton’s Divine Legation' gives the source for Themistus.

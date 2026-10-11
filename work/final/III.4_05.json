@@ -1,0 +1,827 @@
+{
+  "chunk": "III.4_05",
+  "gist": "Concludes Atwood's instructions: the working-place must be secret, still and unpolluted by evil associates or lingering imaginative impressions; Vaughan's 'lessons' prescribe self-examination, moderate heat, charity, piety, solitude and perseverance; Atwood then ends her 'suggestive' introduction, saying the end is implied in the beginning and the rest must come from practice and the Master Key.",
+  "notes": [
+    {
+      "point": "Secrecy was a principal aim, hard to combine with other conditions varying with the spiritual guide; a locality like Virgil's for his Bees, without evil associates, is desirable.",
+      "refs": [
+        "III.4 ¶42"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Air currents disturb communion; imaginative impressures absorbed by the entranced Subject linger and pollute a place's ether (adepts, Cornelius Agrippa). A fitting working-place is a grace.",
+      "refs": [
+        "III.4 ¶42",
+        "III.4 ¶43"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "Vaughan's lessons, adopted as conclusion: examine yourself; you co-operate with God. Excess heat divides the Chaos; the Quintessence leaves violent hands. Speak little. Knowing the First Matter finds Nature's Sanctuary; only the Door remains.",
+      "refs": [
+        "III.4 ¶44"
+      ],
+      "voice": "QUOTED: Vaughan (endorsed by Atwood)"
+    },
+    {
+      "point": "Vaughan: charity nurses faith; heart in heaven, hands on earth; live heavenly to commune with superiors; be one, not alone; day as contracted year; indeterminate agents until a determinate one; avoid extremes; perseverance ends in miracles.",
+      "refs": [
+        "III.4 ¶44"
+      ],
+      "voice": "QUOTED: Vaughan (endorsed by Atwood)"
+    },
+    {
+      "point": "Enough for suggestive purposes. Perseverance ranks next to benevolence and right intention; effects lead to causes; as in a seed, the end is implied in the beginning.",
+      "refs": [
+        "III.4 ¶45",
+        "III.4 ¶46"
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "point": "The introduction to the Sphinx’s lair ends; applying the Master Key moves the first vital cause; practice opens the rest.",
+      "refs": [
+        "III.4 ¶47",
+        "III.4 ¶48"
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "method": [
+    {
+      "aspect": "procedure",
+      "veiled": "Secrecy having been a principal object with those practicing this Art",
+      "ref": "III.4 ¶42",
+      "plain": "Practitioners aimed above all at keeping the work secret, which was often hard to secure together with the other required conditions.",
+      "status": "stated",
+      "basis": "III.4 ¶42 states it directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "the other conditions, which vary with the constitution and instinct of the spiritual guide",
+      "ref": "III.4 ¶42",
+      "plain": "The proper conditions of the work are not fixed but depend on the constitution and instinct of the 'spiritual guide'; the chunk does not say who or what the guide is.",
+      "status": "interpreted",
+      "basis": "III.4 ¶42 only; see ambiguities for the identity of the 'spiritual guide'.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "It is a grace - To finde a fitting working-place.",
+      "ref": "III.4 ¶43",
+      "plain": "The work needs a suitable place, like the locality Virgil appointed for his Bees, kept free of corrupt and evil associates (exclusions the text calls 'allegorical') and of strong air currents.",
+      "status": "stated",
+      "basis": "III.4 ¶42 calls such a locality 'desirable' and names the exclusions as allegorical; ¶43 gives the verse. The chunk does not describe Virgil's locality further or decode the allegory.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "Just such a locality as Virgil appointed for his Bees, has been mentioned as desirable with all his appropriate allegorical exceptions of corrupt and evil associates",
+          "ref": "III.4 ¶42"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "Strong currents of air are well known to disturb communion",
+      "ref": "III.4 ¶42",
+      "plain": "Draughts or wind in the working-place disturb the 'communion' the work depends on; this chunk does not define communion.",
+      "status": "stated",
+      "basis": "III.4 ¶42 states it directly.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "the entranced Subject is more or less susceptible of all imaginative impressures, which, even after their act has passed away, hang and pollute the ether of their pertinacious abode",
+      "ref": "III.4 ¶42",
+      "plain": "The person in trance (the 'Subject') takes in imaginative impressions; these linger in a place after the act that produced them and contaminate its 'ether', so the place must be clean of such residues.",
+      "status": "stated",
+      "basis": "III.4 ¶42 states susceptibility and lingering pollution, citing adepts and Cornelius Agrippa.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "consider well with thyself what manner of man thou art, and what it is that thou wouldst do: For it is no small matter.",
+      "ref": "III.4 ¶44",
+      "plain": "Before attempting the practice, the operator must examine his own character, intention, knowledge and practice.",
+      "status": "stated",
+      "basis": "III.4 ¶44 direct precepts.",
+      "voice": "QUOTED: Vaughan (endorsed by Atwood as 'lessons of an English Adept')",
+      "also": [
+        {
+          "text": "let him first examine his knowledge, and especially his practice",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Thou hast resolved with thyself to be a co-operator with the living God, and to minister to Him in his work of generation.",
+      "ref": "III.4 ¶44",
+      "plain": "The operator does not make the result himself; he assists God's own generative work and must not hinder it.",
+      "status": "stated",
+      "basis": "III.4 ¶44, followed by 'Have a care, therefore, that thou dost not hinder his work'.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "Have a care, therefore, that thou dost not hinder his work",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "if thy heat exceeds the natural proportion, thou hast stirred up the wrath of the moist natures, and they will stand up against the central fire",
+      "ref": "III.4 ¶44",
+      "plain": "Applying 'heat' beyond the natural proportion sets the moist natures and the central fire against each other and divides the Chaos; the passage ties this failure to the operator's violent handling. What the heat literally is, is not said.",
+      "status": "interpreted",
+      "basis": "Consequences stated in III.4 ¶44; the link to operator violence rests on 'thy violent destructive Hands', 'a few violent knocks' and 'charitable and not destructive to thyself' in the same paragraph. See ambiguities.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "there will be a terrible division in the Chaos",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "agent",
+      "veiled": "the sweet spirit of Peace, the true eternal Quintessence, will depart from the elements, leaving both of them and thee to confusion",
+      "ref": "III.4 ¶44",
+      "plain": "The Quintessence, identified with the 'spirit of Peace', abides in the elements; under violent handling it withdraws and will not act on the Matter, leaving matter and operator in confusion.",
+      "status": "stated",
+      "basis": "III.4 ¶44: the apposition asserts the identity; departure and refusal to 'apply himself' are stated.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "neither will he apply himself to that Matter as long as it is in thy violent destructive Hands",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Nature gave us one tongue and two ears, that we might hear much and speak little",
+      "ref": "III.4 ¶44",
+      "plain": "The operator should listen and learn much and speak little, not publishing his ignorance.",
+      "status": "stated",
+      "basis": "III.4 ¶44 draws this application explicitly.",
+      "voice": "QUOTED: Vaughan, citing Zeno",
+      "also": [
+        {
+          "text": "Let not any man therefore be ready to vomit forth his own shame and ignorance",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "impediment",
+      "veiled": "lest upon the experience of a few violent knocks he presume to judge of Nature in her very sobrieties",
+      "ref": "III.4 ¶44",
+      "plain": "Failures from forcing the work are no basis for judging how Nature works when handled gently.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44 contrasts 'violent knocks' with Nature's 'sobrieties', following the warning against excess heat and violent hands.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "subject",
+      "veiled": "if thou knowest the principal First Matter, know also for certain thou hast discovered the Sanctuary of Nature",
+      "ref": "III.4 ¶44",
+      "plain": "Knowing the First Matter is equivalent to having found the inner seat of Nature's treasures.",
+      "status": "stated",
+      "basis": "III.4 ¶44 asserts the equivalence directly.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "stage",
+      "veiled": "There is nothing between thee and her treasures but the Door: that indeed must be opened.",
+      "ref": "III.4 ¶44",
+      "plain": "Once the First Matter is known, one further step remains: opening a 'Door' to Nature's treasures. This chunk does not explain the Door.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44 sequence: First Matter known = Sanctuary found; only the Door remains.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Have therefore a charitable seraphic mind, charitable and not destructive to thyself.",
+      "ref": "III.4 ¶44",
+      "plain": "The operator needs a charitable disposition: charitable works produce hope of heaven, hope produces faith; works of darkness yield no hope and only the devils' faith 'to believe and tremble'.",
+      "status": "stated",
+      "basis": "III.4 ¶44 gives the chain charity -> hope -> faith explicitly.",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "as God is the Father, so Charity is the nurse of Faith",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Have thy heart in heaven and thy hands upon earth. Ascend in piety and descend in charity.",
+      "ref": "III.4 ¶44",
+      "plain": "The operator keeps his mind directed upward while his practical work stays on earth, rising by piety and turning outward in charity; this is called 'the Nature of Light'.",
+      "status": "stated",
+      "basis": "III.4 ¶44: 'For this is the Nature of Light and the way of the children of it.'",
+      "voice": "QUOTED: Vaughan",
+      "also": [
+        {
+          "text": "Settle not in the lees and puddles of the world.",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "operator",
+      "veiled": "You must live, as says Agrippa, according to God and the angels, rejecting all things that are dissimilar to the heaven; otherwise thou canst have no communion with superiors.",
+      "ref": "III.4 ¶44",
+      "plain": "Communion with higher powers requires a way of life made like heaven, rejecting what is unlike it.",
+      "status": "stated",
+      "basis": "III.4 ¶44 states the condition.",
+      "voice": "QUOTED: Vaughan, citing Agrippa",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "Unus esto non solus. Avoid the multitude, as well of passions as of persons.",
+      "ref": "III.4 ¶44",
+      "plain": "The operator should be inwardly unified, not merely alone, withdrawing from crowds both of people and of passions.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44: the following English sentence is read as glossing the Latin (not marked as a gloss); 'inwardly unified' rests partly on our translation.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "every day is a contracted year, and that each year is an extended day. Anticipate the year in the day, and lose not a day in the year.",
+      "ref": "III.4 ¶44",
+      "plain": "A day and a year are treated as the same cycle, contracted and extended; how this applies to the work is not explained in this chunk.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44 only; see ambiguities.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "agent",
+      "veiled": "Make use of indeterminate agents till thou canst find a determinate one: the many wish well, but one only loves.",
+      "ref": "III.4 ¶44",
+      "plain": "Work with general, non-specific agents until the one specific agent is found; the chunk identifies neither.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44 only; contrast 'the many' / 'one only'. See ambiguities.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "Circumferences spread, but centers contract; so superiors dissolve and inferiors coagulate",
+      "ref": "III.4 ¶44",
+      "plain": "Higher things dissolve (expand, as a circumference spreads), lower things coagulate (condense, as a center contracts).",
+      "status": "stated",
+      "basis": "III.4 ¶44: the 'so' states the analogy directly.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "sign",
+      "veiled": "stand not long in the sun nor long in the shade, where extremes meet, there look for complexions",
+      "ref": "III.4 ¶44",
+      "plain": "Avoid staying in either extreme; the 'complexions' sought appear where extremes meet. This chunk does not say what the complexions are.",
+      "status": "interpreted",
+      "basis": "III.4 ¶44 only; fits the earlier warning against heat exceeding 'the natural proportion'.",
+      "voice": "QUOTED: Vaughan",
+      "also": []
+    },
+    {
+      "aspect": "operator",
+      "veiled": "There is nothing stronger than Perseverance, for it ends in miracles",
+      "ref": "III.4 ¶44",
+      "plain": "Persistence, learning from errors and misfortunes, is essential; after benevolence and right intention it is the requirement most insisted on.",
+      "status": "stated",
+      "basis": "III.4 ¶44 (Vaughan) and III.4 ¶45 (Atwood) state it.",
+      "voice": "QUOTED: Vaughan; endorsed by Atwood",
+      "also": [
+        {
+          "text": "Nothing is more generally insisted on, next to benevolence and rectitude of intention, than perseverance for this experiment",
+          "ref": "III.4 ¶45"
+        },
+        {
+          "text": "Learn from thy errors to be infallible, and from they misfortunes to be constant.",
+          "ref": "III.4 ¶44"
+        }
+      ]
+    },
+    {
+      "aspect": "principle",
+      "veiled": "effects rationally investigated lead into their causes",
+      "ref": "III.4 ¶45",
+      "plain": "Reasoned study of effects leads back to their causes.",
+      "status": "stated",
+      "basis": "III.4 ¶45 direct statement.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "principle",
+      "veiled": "in this philosophy the end is implied in the beginning, and the purpose is by the product made manifest",
+      "ref": "III.4 ¶45",
+      "plain": "As a seed grows according to its species in congenial soil, the outcome of the work is contained in its start; the product reveals the purpose, proceeding from motive through action and a metaphysical cause into a physical effect.",
+      "status": "stated",
+      "basis": "III.4 ¶45 gives the seed analogy and the chain motive -> action -> metaphysical cause -> physical effect.",
+      "voice": "ATWOOD",
+      "also": [
+        {
+          "text": "the motive, through the resulting action, by the metaphysical cause, into physical effect",
+          "ref": "III.4 ¶45"
+        }
+      ]
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "The first link in the chain of vital causes moves, as we apply the Master Key.",
+      "ref": "III.4 ¶47",
+      "plain": "Applying the 'Master Key' sets the chain of vital causes in motion; this chunk does not say what the Master Key is.",
+      "status": "interpreted",
+      "basis": "III.4 ¶47 only.",
+      "voice": "ATWOOD",
+      "also": []
+    },
+    {
+      "aspect": "procedure",
+      "veiled": "Portus Explicit, at Praxis manaulis caetera pandet.",
+      "ref": "III.4 ¶48",
+      "plain": "The introductory part ends; the remainder is to be learned by hands-on practice.",
+      "status": "interpreted",
+      "basis": "III.4 ¶48 (our translation) with ¶45 'without practical information' and ¶47 'we conclude our introduction'.",
+      "voice": "ATWOOD",
+      "also": []
+    }
+  ],
+  "terms": [
+    {
+      "term": "spiritual guide",
+      "variants": [],
+      "meaning": "The one with whose constitution and instinct the conditions of the work vary; not further defined here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "which vary with the constitution and instinct of the spiritual guide",
+          "ref": "III.4 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "entranced Subject",
+      "variants": [],
+      "meaning": "The person in trance, susceptible to imaginative impressions that linger in the place.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "the entranced Subject is more or less susceptible of all imaginative impressures",
+          "ref": "III.4 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "communion",
+      "variants": [],
+      "meaning": "The connection the work requires: disturbed by air currents; communion 'with superiors' needs a heavenly way of life.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Strong currents of air are well known to disturb communion",
+          "ref": "III.4 ¶42"
+        },
+        {
+          "text": "otherwise thou canst have no communion with superiors",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "imaginative impressures",
+      "variants": [],
+      "meaning": "Impressions of the imagination which persist in a place after their act and pollute its ether.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "even after their act has passed away, hang and pollute the ether of their pertinacious abode",
+          "ref": "III.4 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "ether",
+      "variants": [],
+      "meaning": "Something belonging to a place, which lingering imaginative impressions can pollute.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "pollute the ether of their pertinacious abode",
+          "ref": "III.4 ¶42"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Philosophic Work",
+      "variants": [],
+      "meaning": "The 'ultimate' work to which 'the practice' refers.",
+      "equivalences": [
+        {
+          "with": "the practice",
+          "quote": "the practice (that is of the ultimate Philosophic Work)",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "quotes": [],
+      "voice": "UNCLEAR"
+    },
+    {
+      "term": "heat",
+      "variants": [],
+      "meaning": "What the operator applies ('thy heat'), which must not exceed 'the natural proportion'; its literal nature is not stated (see ambiguities).",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "if thy heat exceeds the natural proportion",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "moist natures",
+      "variants": [],
+      "meaning": "Natures that, provoked by excess heat, rise against the central fire.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "thou hast stirred up the wrath of the moist natures, and they will stand up against the central fire",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "central fire",
+      "variants": [],
+      "meaning": "The fire which the moist natures oppose, and which opposes them, when heat is excessive.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "they will stand up against the central fire, and the central fire against them",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "Chaos",
+      "variants": [],
+      "meaning": "That in which division occurs when moist natures and central fire are set against each other.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "there will be a terrible division in the Chaos",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "Quintessence",
+      "variants": [],
+      "meaning": "The eternal spirit of Peace in the elements, which departs from them under violent handling.",
+      "equivalences": [
+        {
+          "with": "spirit of Peace",
+          "quote": "the sweet spirit of Peace, the true eternal Quintessence",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "quotes": [
+        {
+          "text": "will depart from the elements, leaving both of them and thee to confusion",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "First Matter",
+      "variants": [],
+      "meaning": "The 'principal' matter whose knowledge amounts to discovering the Sanctuary of Nature.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "if thou knowest the principal First Matter, know also for certain thou hast discovered the Sanctuary of Nature",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "Sanctuary of Nature",
+      "variants": [],
+      "meaning": "Where Nature's treasures lie, behind a Door that must be opened; discovered by knowing the First Matter.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "There is nothing between thee and her treasures but the Door: that indeed must be opened.",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "Charity",
+      "variants": [
+        "charitable"
+      ],
+      "meaning": "The nurse of Faith: charitable works yield hope of heaven, and hope leads to belief.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "as God is the Father, so Charity is the nurse of Faith",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "superiors / inferiors",
+      "variants": [
+        "superiors",
+        "inferiors"
+      ],
+      "meaning": "Higher and lower orders: superiors dissolve, inferiors coagulate; communion with superiors needs a heavenly life.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "so superiors dissolve and inferiors coagulate",
+          "ref": "III.4 ¶44"
+        },
+        {
+          "text": "no communion with superiors",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "indeterminate agents / determinate one",
+      "variants": [],
+      "meaning": "Agents to be used provisionally until a single determinate agent is found; not further defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "Make use of indeterminate agents till thou canst find a determinate one",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "complexions",
+      "variants": [],
+      "meaning": "What is to be sought where extremes meet; not further defined.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "where extremes meet, there look for complexions",
+          "ref": "III.4 ¶44"
+        }
+      ],
+      "voice": "QUOTED: Vaughan"
+    },
+    {
+      "term": "experiment",
+      "variants": [],
+      "meaning": "Atwood's word for the work, for which perseverance is insisted on.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "than perseverance for this experiment",
+          "ref": "III.4 ¶45"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Sphinx’s lair",
+      "variants": [],
+      "meaning": "Figure for that to which Atwood's preceding exposition has been an introduction; not explained.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "we conclude our introduction, as it may be called, to the Sphinx’s lair",
+          "ref": "III.4 ¶47"
+        }
+      ],
+      "voice": "ATWOOD"
+    },
+    {
+      "term": "Master Key",
+      "variants": [],
+      "meaning": "That whose application moves the first link in the chain of vital causes; not explained here.",
+      "equivalences": [],
+      "quotes": [
+        {
+          "text": "The first link in the chain of vital causes moves, as we apply the Master Key.",
+          "ref": "III.4 ¶47"
+        }
+      ],
+      "voice": "ATWOOD"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Virgil",
+      "work": null,
+      "quote": null,
+      "use": "Illustrates: the locality he appointed for his Bees, with its allegorical exclusions of corrupt and evil associates, as the desirable working-place.",
+      "refs": [
+        "III.4 ¶42"
+      ]
+    },
+    {
+      "name": "adepts",
+      "work": null,
+      "quote": null,
+      "use": "Supports: said to 'well testify' that imaginative impressures linger and pollute the ether of a place.",
+      "refs": [
+        "III.4 ¶42"
+      ]
+    },
+    {
+      "name": "Cornelius Agrippa",
+      "work": "Occult Philosophy",
+      "quote": null,
+      "use": "Supports: said to expound diffusely that imaginative impressions linger and pollute the ether of a place.",
+      "refs": [
+        "III.4 ¶42"
+      ]
+    },
+    {
+      "name": "unnamed verse",
+      "work": null,
+      "quote": "It is a grace - To finde a fitting working-place.",
+      "use": "Supports the need for a fitting working-place.",
+      "refs": [
+        "III.4 ¶43"
+      ]
+    },
+    {
+      "name": "Vaughan",
+      "work": null,
+      "quote": "consider well with thyself what manner of man thou art, and what it is that thou wouldst do",
+      "use": "Supports: 'an English Adept, neither antique nor envious'; his lessons on self-examination, moderate heat, charity, piety, solitude and perseverance are quoted at length and offered 'in conclusion of the rest'.",
+      "refs": [
+        "III.4 ¶44",
+        "III.4 n35"
+      ]
+    },
+    {
+      "name": "Zeno",
+      "work": null,
+      "quote": "Nature gave us one tongue and two ears, that we might hear much and speak little",
+      "use": "Cited within Vaughan's lessons: supports listening much and speaking little.",
+      "refs": [
+        "III.4 ¶44"
+      ]
+    },
+    {
+      "name": "Agrippa",
+      "work": null,
+      "quote": "according to God and the angels, rejecting all things that are dissimilar to the heaven",
+      "use": "Cited within Vaughan's lessons: a heavenly life is the condition of communion with superiors.",
+      "refs": [
+        "III.4 ¶44"
+      ]
+    },
+    {
+      "name": "Anima Magia Abscondita",
+      "work": "Anima Magia Abscondita",
+      "quote": null,
+      "use": "Reference only (p. 51, etc.), footnote to the Vaughan passage.",
+      "refs": [
+        "III.4 n35"
+      ]
+    },
+    {
+      "name": "Coelum Terrae",
+      "work": "Coelum Terrae",
+      "quote": null,
+      "use": "Reference only (p. 137), footnote to the Vaughan passage.",
+      "refs": [
+        "III.4 n35"
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "quote": "the constitution and instinct of the spiritual guide",
+      "ref": "III.4 ¶42",
+      "readings": [
+        "A human director of the work, paired with the entranced Subject, whose own constitution sets the conditions.",
+        "A guiding spirit or spiritual influence active in the work."
+      ],
+      "basis": "III.4 ¶42 gives no further description; the same paragraph's 'entranced Subject' suggests a guide/subject pair, while 'communion' and 'spiritual' fit either."
+    },
+    {
+      "quote": "if thy heat exceeds the natural proportion",
+      "ref": "III.4 ¶44",
+      "readings": [
+        "Literal heat applied in an operation.",
+        "The operator's own vehemence or violence of handling."
+      ],
+      "basis": "Fire/moist natures language supports the first; 'thy violent destructive Hands', 'a few violent knocks' and 'charitable and not destructive to thyself' (III.4 ¶44) support the second. The text does not gloss 'heat'."
+    },
+    {
+      "quote": "every day is a contracted year, and that each year is an extended day",
+      "ref": "III.4 ¶44",
+      "readings": [
+        "A rule of diligence: use each day fully ('lose not a day in the year').",
+        "A correspondence in the work's process: a short cycle reproduces the long one in small ('Anticipate the year in the day')."
+      ],
+      "basis": "Both rest on the following sentence in III.4 ¶44; 'contracted'/'extended' also parallels 'centers contract'/'Circumferences spread' in the same paragraph, favouring the second."
+    },
+    {
+      "quote": "Make use of indeterminate agents till thou canst find a determinate one: the many wish well, but one only loves.",
+      "ref": "III.4 ¶44",
+      "readings": [
+        "Agents in the operation: general means until the one specific agent is found.",
+        "Persons: many well-wishers versus one who truly loves, i.e. a single devoted helper or guide."
+      ],
+      "basis": "'agents' suggests the operation; 'the many wish well, but one only loves' and the preceding 'Avoid the multitude, as well of passions as of persons' suggest persons."
+    },
+    {
+      "quote": "the practice (that is of the ultimate Philosophic Work)",
+      "ref": "III.4 ¶44",
+      "readings": [
+        "Atwood's interpolated gloss within the quotation.",
+        "Part of Vaughan's own text."
+      ],
+      "basis": "The parenthesis precedes 'says Vaughan'; the text does not mark whose words it is."
+    },
+    {
+      "quote": "Portus Explicit, at Praxis manaulis caetera pandet.",
+      "ref": "III.4 ¶48",
+      "readings": [
+        "'Explicit' as the conventional closing word: 'Here ends the harbour/approach'.",
+        "'Explicit' as 'unfolds': 'The harbour (approach) is unfolded'."
+      ],
+      "basis": "III.4 ¶47 says the introduction is concluded; ¶45 says more words are of little use 'without practical information'. Both readings rest on our translation."
+    }
+  ],
+  "translations": [
+    {
+      "ref": "III.4 ¶44",
+      "original": "Unus esto non solus.",
+      "translation": "Be one, not alone.",
+      "by": "ours"
+    },
+    {
+      "ref": "III.4 ¶46",
+      "original": "Qui capit, Ille sapit.",
+      "translation": "He who grasps it, he is wise.",
+      "by": "ours"
+    },
+    {
+      "ref": "III.4 ¶48",
+      "original": "Portus Explicit, at Praxis manaulis caetera pandet.",
+      "translation": "Here ends the approach (harbour); but manual practice will lay open the rest.",
+      "by": "ours"
+    }
+  ],
+  "threads": [
+    {
+      "ref": "III.4 ¶42",
+      "note": "'has been mentioned as desirable' points back to an earlier mention of a locality like Virgil's for his Bees."
+    },
+    {
+      "ref": "III.4 ¶45",
+      "note": "'the foregoing instructions' refers back to the instructions given before this point (not specified here)."
+    },
+    {
+      "ref": "III.4 ¶47",
+      "note": "Atwood calls everything so far an 'introduction ... to the Sphinx’s lair' and says the first vital cause moves 'as we apply the Master Key', pointing forward to the practice."
+    },
+    {
+      "ref": "III.4 ¶48",
+      "note": "Latin close (our translation): manual practice will lay open 'the rest'."
+    }
+  ]
+}
