@@ -37,5 +37,6 @@
 
 - [Overall Book Synthesis](20_Overall_Book_Synthesis.md)
 - [The Method in Plain Terms](23_The_Method_in_Plain_Terms.md)
+- [The Method in Plain Language](24_The_Method_Plain_Language.md)
 - [Appendix: Atwood's Table Talk and Memorabilia](21_Appendix_Table_Talk_and_Memorabilia.md)
 - [Master Lexicon and Concordance](22_Master_Lexicon_and_Concordance.md)
