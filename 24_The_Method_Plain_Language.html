@@ -1,0 +1,373 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>The Method in Plain Language - Suggestive Inquiry: Summaries</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="A book compiled from summary notes.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon-de23e50b.svg">
+        <link rel="shortcut icon" href="favicon-8114d1fc.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-e96d0476.css">
+        <link rel="stylesheet" href="css/chrome-d279d366.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+            window.path_to_searchindex_js = "searchindex-ee565365.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-39c3eebc.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Suggestive Inquiry: Summaries</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="the-method-in-plain-language"><a class="header" href="#the-method-in-plain-language">The Method in Plain Language</a></h1>
+<p>This page describes, in everyday words, the method Mary Anne Atwood points to in <em>A Suggestive Inquiry into the Hermetic Mystery</em> (1850): what a person needs before starting, and what the work itself is, step by step. Everything here comes from her book and nothing from elsewhere. It gives no passage numbers and uses none of the old symbolic names; the page <em>The Method in Plain Terms</em> gives the passages behind each point. The book never sets the method out as one list, and Atwood says openly that she holds back part of the practice, so the order below follows the main line the book gives. Where the book leaves something open, this page says so. A later collection of Atwood’s sayings, headed “Begun August 1860”, is kept apart in its own section near the end.</p>
+<h2 id="what-the-work-is"><a class="header" href="#what-the-work-is">What the work is</a></h2>
+<p><strong>What is worked on: your own life.</strong> Atwood’s conclusion is that the human being is the real workshop of the art. The material is the living spirit, which she ties to the life in the blood, and, at its root, your very self. In its ordinary state this inner life is tied to the senses: restless, hidden from view, full of images, not ruled by reason, and marked by the impressions and desires it has taken in since birth. Nothing from outside has to be added to it. Everyone has this material and lives by it, but having it does not make anyone fit to work with it. The living spirit in a person corresponds to the spirit that runs through all of nature, and the book sometimes describes the work in terms of nature as a whole.</p>
+<p><strong>What does the work: a light within that life.</strong> Hidden in the ordinary life is a light, which Atwood identifies with reason or intellect once it has been purified. She says light is the only thing that can grow and multiply. In her account the inner life works on itself: once set free, its own light changes it. A verse the book quotes says the matter cannot change of its own accord: there must be an inward agent, a form of light the matter lacked. The right motive and the will drive the work, and the mind directs it. Ordinary, unpurified reasoning cannot do it, and the decisive steps are a gift of God rather than the person’s own achievement.</p>
+<p><strong>What it is for.</strong> The aim is to dissolve the old life that is bound to the senses and rebuild it, purified, as a stable and lasting form of light; to come to know yourself down to your source; and so to be united with God. Atwood holds that the old books about making gold describe this inner work in disguise, and that the initiation rites of the ancient world were the same work.</p>
+<h2 id="what-you-need-before-you-begin"><a class="header" href="#what-you-need-before-you-begin">What you need before you begin</a></h2>
+<h3 id="understanding"><a class="header" href="#understanding">Understanding</a></h3>
+<ol>
+<li><strong>Ground yourself in the teaching, and expect to learn by doing.</strong> Atwood reports that the philosophers insist theory should come before practice, and she expects a good grounding in theory to make the work surer and quicker. But books give only general principles: the working understanding comes only through practice, and some practice is needed from the beginning to pick out the true light from among the many shadowy figures the books use for it. She notes three things said to be needed: study, experience, and God’s blessing.</li>
+<li><strong>Find the true intention.</strong> Atwood says success depends on discovering it; it is present in every mind but clearly seen in few. Then reason backwards from the goal, step by step, until you reach the first means that is actually in your own power. There the inquiry ends and the work begins.</li>
+<li><strong>Test everything.</strong> Do not believe blindly, and do not reject something just because it is new. Weigh it, keep what is true and drop what is false. Faith is needed as well: not blind belief, but a real conviction, however small, that is fed and grows with knowledge. Without it, Atwood says, nothing can be proved.</li>
+<li><strong>Do not expect the books to give you the practice.</strong> From the books only general principles can be gathered, and Atwood thinks no one could find the practice from them alone. The old writings often put their parts out of order and repeat themselves to keep the truth from being obvious. Read them for their meaning, not their literal words.</li>
+</ol>
+<h3 id="motive"><a class="header" href="#motive">Motive</a></h3>
+<ol start="5">
+<li><strong>Seek wisdom for its own sake.</strong> Not for money, gold or any other side benefit. The motive must be universal, not private. Even a small portion of reason, if it is pure, will make its way in and grow. If it is not pure, that is, if the motive is not universal, it has to be taken back, worked on, thought over and tested again.</li>
+<li><strong>Know that your intention comes back to you.</strong> The power of the work springs from the person doing it and follows that person’s will. So, unlike in any ordinary craft, the intention behind the work is returned exactly in kind, and a fault in the worker passes into the result. This, Atwood says, is why so much caution and secrecy surrounded the art: so that the power would be found only through the long labour of an experienced and upright mind.</li>
+</ol>
+<h3 id="character"><a class="header" href="#character">Character</a></h3>
+<ol start="7">
+<li><strong>Purify yourself.</strong> Bring the passions under control step by step. Arrogant self-will, sensuality, foolishness, greed and fickleness must be removed from the mind of anyone who is to go through the deep dissolving of life, until nothing is left but the one willing faith to correct and perfect. Be faithful, simple, patient, constant, hopeful and kind, and give your mind to truth alone.</li>
+<li><strong>Be willing to give up living for yourself.</strong> Atwood puts the real cost of the work as giving up selfhood and turning whatever comes of it to good and truthful ends.</li>
+<li><strong>Want it, and will it.</strong> Without real desire on your part, the work does nothing. Will is the greater part of the cleansing.</li>
+<li><strong>Pray, and work.</strong> Every desire of the mind is a kind of prayer. Pray, but also do the work: prayer alone is not enough. You can prepare the conditions, but you cannot force the result; God gives it.</li>
+</ol>
+<h3 id="practice-and-temperament"><a class="header" href="#practice-and-temperament">Practice and temperament</a></h3>
+<ol start="11">
+<li><strong>Turn inward in earnest.</strong> Atwood means self-examination as something actually done, not only thought about. Only those who have gone within by actual experience to know themselves, she says, can truly recognize what this rests on.</li>
+<li><strong>Be patient.</strong> The work is slow, gentle and continuous, and it is repeated many times. It needs continual labour, skill, close attention, and the honesty to find and admit your own mistakes. Do not hurry.</li>
+<li><strong>Know that few are suited.</strong> Atwood says only a philosopher, a true lover of wisdom, has ever done the work, and that it is the reward of hard and particular discipline. With the right qualities and time free for the work, she says, everything may be hoped for, step by step.</li>
+<li><strong>Find suitable help.</strong> Once the theory is known, Atwood says, the next difficulty is finding suitable help: without a subject to work with that answers to your design, the work fails, and the descent is not safe alone. In a footnote to the book she says no one can do the work alone. Elsewhere she says that each person who would unravel the mystery must labour at it for themselves.</li>
+<li><strong>A suitable place.</strong> Private and out of strong draughts, which disturb the connection. A person in trance is more or less open to all the imagined impressions left in a place, which linger after the events that made them. Finding a fitting place, the book says, is a grace.</li>
+<li><strong>Afterwards: guard it.</strong> Use what you gain as a good steward, stay humble, and stay watchful so that you do not misuse it, even without meaning to.</li>
+</ol>
+<h2 id="the-method-step-by-step"><a class="header" href="#the-method-step-by-step">The method, step by step</a></h2>
+<p>The book gives several schemes of stages, and it never lines them up against each other. What it states firmly is that dissolving comes before rebuilding, that the work passes through a black stage, then a white stage, then a red stage, and that the process is repeated. Atwood treats these colours as changes in the inner life. The steps below follow that main line.</p>
+<h3 id="step-1-turn-inward-and-set-the-mind-going"><a class="header" href="#step-1-turn-inward-and-set-the-mind-going">Step 1: Turn inward and set the mind going</a></h3>
+<p>The first step, in a saying Atwood approves, is to set the mind going. Attention is withdrawn from the senses. Atwood names ways of putting the senses to sleep that were known in her day: by the hands or eyes of another person, or by a passive, fixed gaze. She calls this trance the doorway of the work and insists it is only a beginning. Do not stop at its first effects: had the ancients mistaken dreams for revelation, instinct for insight or numbness for the highest good, she says, they would have been servants of nature, not its masters. She rejects drugs such as ether and chloroform for this purpose: they darken and confuse the mind and can kill.</p>
+<h3 id="step-2-dissolve-the-old-life"><a class="header" href="#step-2-dissolve-the-old-life">Step 2: Dissolve the old life</a></h3>
+<p>The first rule of the work is a complete dissolving. The inner life is loosened from the impressions, images and desires that living through the senses has stamped on it.</p>
+<ul>
+<li><strong>How it is done.</strong> By slow, gentle, continuous working, repeated again and again without tiring. Atwood judges that in this early work the hand was the instrument, used both to pass on the life and, by steady repeated working, to dissolve its faults. She does not say whose hand. The hand carries out what the mind has first thought through.</li>
+<li><strong>What happens.</strong> The life that is tied to the senses is dissolved, and consciousness is carried down beneath it, into darkness, towards its central source. Atwood says the order in which this was done is probably known to very few today, being wholly concealed.</li>
+<li><strong>Keep reason awake.</strong> The unpurified inner life is said to be such that anyone who goes deep into it will be lost in confusion unless they quickly use their mind and understand it on its own ground. If reason stays passive, this nature takes over the whole mind.</li>
+<li><strong>Signs.</strong> Darkness: this is the black stage, which Atwood treats as the gate to everything that follows. The corruption in the person comes into view, and Atwood counts this as a sign that the work is going right. The inner life first appears in vision in frightening, demon-like forms. Any light that has a shape or figure is the mind’s own image; a true light has no form.</li>
+</ul>
+<h3 id="step-3-go-to-the-edge-and-let-go"><a class="header" href="#step-3-go-to-the-edge-and-let-go">Step 3: Go to the edge and let go</a></h3>
+<p>An old proposal that Atwood favours is to press the dissolving until nothing of the old forms is left, to the very edge of annihilation, but to catch and hold the bare spirit, not let it escape, and help it to act by the freed will it is said to have.</p>
+<ul>
+<li><strong>Letting go of the bond to life.</strong> If the soul knows how and is rightly disposed, it can loosen even the bond it was born with and return consciously to life under a different law, while its elements remain and are not let go. Atwood stresses that this happens without harm to the body.</li>
+<li><strong>The central knot.</strong> The hardest knot of the whole mystery is loosening the bond of the will; whoever knows how to loosen it, the book says, knows the old sages’ secret. Atwood says neither the hands nor the intellect can do this part, that it has never been written down, and that only God can reveal it.</li>
+<li><strong>Signs.</strong> The passage looks fearful, and dread fills the soul as it is about to let go of its bond to life.</li>
+</ul>
+<h3 id="step-4-purify-by-repetition-until-clear"><a class="header" href="#step-4-purify-by-repetition-until-clear">Step 4: Purify by repetition until clear</a></h3>
+<p>Light is separated from darkness again and again; one scheme in the book has it done seven times. Each round, the inner life is dissolved and refined again until it becomes a stable and lasting form of light.</p>
+<ul>
+<li><strong>The cleansing is moral.</strong> Atwood reports the old teaching in moral terms: the right corroding act of will wears away the stains, gentleness softens what is hard, kindness sweetens what is bitter, and justice tempers what is harsh. The inner life is filled with hope, truth, beauty and understanding, until the rule of the senses gives way and selfhood itself is overturned.</li>
+<li><strong>Mind is the key.</strong> Reason works its way into the darkened natural understanding until it is clear throughout and no longer what it was. Once the mind knows itself by looking within, what it intends is carried out in life.</li>
+<li><strong>Refuse the rewards along the way.</strong> At each stage the inner life offers products of its imagination to tempt you to stop. Accept none of them; give up every intermediate benefit and go on until the end is reached.</li>
+<li><strong>Sign.</strong> Whiteness: a clear, shining, white state.</li>
+<li><strong>The threshold.</strong> The real work is said to begin only when the right motive has been found, the cleansing is complete in both ways, and everything has become as clear as crystal. Nothing may be made permanent before that, or the immature result will not last.</li>
+</ul>
+<h3 id="step-5-reunite-and-the-sudden-light"><a class="header" href="#step-5-reunite-and-the-sudden-light">Step 5: Reunite, and the sudden light</a></h3>
+<p>The parts that were separated are joined again in the right proportion. At the last extreme of distress, as life is departing, the receptive spirit’s returning faith and desire draw the soul back into itself, and an act of God blesses the union. A new and lasting being is formed out of the darkness. The book does not say how this moment lines up with the white stage.</p>
+<ul>
+<li><strong>Contact.</strong> According to those who have experienced it, the inner light shows itself in so bright a form that the mind’s eye, which has kept looking faithfully, is suddenly drawn into contact with it and can no longer stand apart. Atwood calls this the method of self-knowledge and the narrow way of rebirth.</li>
+<li><strong>Now stop striving.</strong> For this final knowledge, quiet and a stopping of mental activity are needed. The ancient teaching she endorses puts this stopping after all the preparation has been done.</li>
+<li><strong>Sign.</strong> A sudden light kindled in the soul, like a leaping fire.</li>
+</ul>
+<h3 id="step-6-ripen-the-new-life-and-make-it-permanent"><a class="header" href="#step-6-ripen-the-new-life-and-make-it-permanent">Step 6: Ripen the new life and make it permanent</a></h3>
+<p>By the book’s comparison with farming, the seed of light, planted in ground made ready for it, brings forth its increase. Its light is white before it turns red. The joined parts are fixed so firmly that they can never be separated again. Atwood equates this last operation with what is called the union of the person, brought back to a simple unity, with God.</p>
+<ul>
+<li><strong>Sign.</strong> The red stage.</li>
+</ul>
+<h3 id="step-7-let-it-grow"><a class="header" href="#step-7-let-it-grow">Step 7: Let it grow</a></h3>
+<p>The book also speaks of increasing the finished light by repeating the work. Dissolved and fixed again, it grows stronger with each round. Changed itself, it changes what it acts on, and it multiplies its own substance freely, as one leaven makes more leaven. Each new generation improves on the last, up to the fourth or fifth, if that is reached.</p>
+<h2 id="what-it-leads-to"><a class="header" href="#what-it-leads-to">What it leads to</a></h2>
+<ul>
+<li><strong>A lasting form of light.</strong> The purified life is made firm and stable.</li>
+<li><strong>Self-knowledge to the root.</strong> The first cause of nature is said to come back to memory and to be lived in the renewed life. Knower and known become one; the person is united with God.</li>
+<li><strong>Reason awakened.</strong> Reason becomes an immortal light and the ruler of life, and the lower powers are brought into order under it. United with God, the person is given power, passes through the lower world and rises over it, overcoming evil, falsehood, ignorance and death.</li>
+<li><strong>A changed life.</strong> The person is reborn and made holy, all without harm to the body.</li>
+<li><strong>Healing and gold.</strong> Atwood speaks of a medicine more powerful than any other, and says that the gold and the life-giving medicine the alchemists sought are products of life itself. Whether they are meant literally the book both affirms and denies; Atwood says the aim was not gold or silver but the substance behind them.</li>
+<li><strong>Progress in degrees.</strong> Every step counts as progress as long as reason leads.</li>
+</ul>
+<h2 id="the-rules-behind-the-whole-work"><a class="header" href="#the-rules-behind-the-whole-work">The rules behind the whole work</a></h2>
+<ul>
+<li><strong>One thing, working on itself.</strong> Nothing foreign is added. The inner life purifies and is purified by itself, taking turns as worker and as worked-upon.</li>
+<li><strong>No new life without dissolving the old.</strong> Nothing is found until it has been taken apart. What birth binds, only dissolving can loosen.</li>
+<li><strong>Reverse the natural order.</strong> Go back to the origin. The end depends on the beginning.</li>
+<li><strong>Only light grows and multiplies.</strong></li>
+<li><strong>The living substance changes, not the kind of thing.</strong> What the work transforms is the living substance underneath things, not one kind of thing into another.</li>
+<li><strong>Nature, helped by art, is said to go beyond herself.</strong></li>
+<li><strong>Your intention returns in kind.</strong></li>
+<li><strong>You prepare; God gives.</strong> A person can plough, plant and water, but cannot force the blessing.</li>
+<li><strong>Knowledge comes by direct contact.</strong> Self-knowledge is the root of the whole tradition, and the experience is its own proof.</li>
+<li><strong>Read the old books for meaning.</strong> They give general principles and conceal the practice.</li>
+</ul>
+<h2 id="mistakes-and-dangers"><a class="header" href="#mistakes-and-dangers">Mistakes and dangers</a></h2>
+<ul>
+<li><strong>Taking the old books literally:</strong> working with stills, coals and furnaces, chemicals and ordinary fire. Atwood says modern chemistry drives out the very thing the ancients valued.</li>
+<li><strong>Hurrying or forcing:</strong> too much haste, stirring up the depths before the rest is ready to receive them, or making something permanent too early.</li>
+<li><strong>Stopping the dissolving halfway:</strong> the old nature takes control again unnoticed and the work is undone.</li>
+<li><strong>Going in unpurified:</strong> turning inward with a confused and tainted spirit is useless; unprepared souls may be taken captive by deceiving and deadly desires and do lasting harm; a fantasy that is allowed to take over turns everything into its own folly.</li>
+<li><strong>Sinking in the dark passage:</strong> falling asleep in it means being swallowed up in all its corruption.</li>
+<li><strong>Greed, private ends and pride.</strong> Atwood calls greed the first and last fault. A worker’s faults are carried into the result.</li>
+<li><strong>Settling for less:</strong> accepting the gifts offered along the way, or taking the first white light for the end. Without the final ripening it does not last.</li>
+<li><strong>Relying on thought alone, or on outward things alone.</strong> Reasoning, enthusiasm, strong desire, a clear idea or abstract thinking do not by themselves bring union with God, as the old teaching has it. The two opposite failures are resting content in the dreams and visions of a shut-in imagination, and being drawn wholly into outward things.</li>
+<li><strong>Lack of desire, faith or steadiness, and blind disbelief.</strong></li>
+<li><strong>A poor working place:</strong> draughts, and impressions left behind by what went on there before.</li>
+</ul>
+<h2 id="her-later-sayings"><a class="header" href="#her-later-sayings">Her later sayings</a></h2>
+<p>A later collection of Atwood’s sayings, headed “Begun August 1860”, touches on the method in short notes. How it relates to the book is not stated. Among its points:</p>
+<ul>
+<li><strong>Three lives.</strong> There are three lives in a person: a head life; a middle life of feeling, receptiveness and instinct, centred in the pit of the stomach and the heart; and a lowest life, the life of will and generation, seated in the lower back. One note says fallen man is in the lowest life, which has to be raised up and reborn through the middle life and so become open to the divine; the finished result is that lowest life perfected. Another note says we live only in the head life. The two statements are not reconciled. The task, the notes say, is to be active not in the head life but in the middle life, in faith.</li>
+<li><strong>From trance to the deeper life.</strong> A life worked on by a life like itself leads into ordinary trance; that life, worked on again in the same way, leads into the deeper third life.</li>
+<li><strong>Go back in consciousness.</strong> The first material is not found on earth. You have to go back in consciousness to the origin of life it springs from, which lies just before the first stirrings of consciousness.</li>
+<li><strong>In the body.</strong> The process takes place in and through the body, in the blood. The order of circulation is reversed: the life of the senses goes into hiding, the inner source of life awakens, and consciousness is drawn to the centre, until it knows itself in its own source.</li>
+<li><strong>Images on the way.</strong> As the seeking spirit enters the inner life, the light it seeks stirs that life into all sorts of fantastic forms, which the imagination makes. All of them have to be destroyed to reach the simple root of the reason that seeks.</li>
+<li><strong>Will.</strong> Will is the only true substance. What will has bound, only will can unbind.</li>
+<li><strong>Love.</strong> Only love can move the self from its self-centred point into self-forgetting.</li>
+<li><strong>Dying to oneself.</strong> The human spirit has to die to everything it now lives for, and lastly even to its own identity, to become a simple receiver for what God plants.</li>
+<li><strong>A still point.</strong> The notes record the alchemists’ saying that there comes a point of passivity, indifferent to both life and death; then the worker has to stir the motion up again.</li>
+<li><strong>Do not stop.</strong> If you seek a limited end first, gifts are offered at every stage; stopping at any of them is idolatry.</li>
+<li><strong>Passing it on.</strong> The matured life can flow out through the hand and bring another life into the same consciousness.</li>
+<li><strong>Not finished here.</strong> The work is not completed in this world.</li>
+</ul>
+<h2 id="what-the-book-leaves-open"><a class="header" href="#what-the-book-leaves-open">What the book leaves open</a></h2>
+<ul>
+<li><strong>Inner only, or also physical?</strong> Atwood places the whole art in the human being, yet she also speaks of the hand literally, asserts physical results in some places, and denies literal readings in others. She does not resolve this.</li>
+<li><strong>Who the helper is.</strong> The book calls for a subject to work with and says no one can do the work alone, and it speaks of another person’s hands or eyes and of people putting one another into trance. It does not say plainly who or what the helper is, and it also says each person must labour at the mystery for themselves.</li>
+<li><strong>The role of trance.</strong> It is clearly only the doorway. Atwood credits it with giving the first introduction to the ancient science; how far it belongs to the method itself is not settled.</li>
+<li><strong>Whose light.</strong> The book speaks of the light that does the work as the inner life’s own; a verse it quotes calls it a form of light the matter lacked, without which it could not change of its own accord. It does not settle which.</li>
+<li><strong>What is held back.</strong> Atwood says she deliberately withholds an important link in applying these principles to practice. The preparation of the material is never given, and part of the practice was passed on almost only by word of mouth.</li>
+<li><strong>The order of stages.</strong> The book’s schemes agree only on black, then white, then red. How the rest line up is never stated.</li>
+<li><strong>Times and numbers.</strong> Atwood says the periods given for one stage are often to be taken figuratively, and that people reach the light sooner or later. The other times and numbers in the old books are left unexplained.</li>
+<li><strong>Effort or stillness, force or freedom.</strong> The book asks for strong mental effort and also for its complete stopping, and for forcing the inner life as well as setting it free, without saying plainly how these fit together.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="23_The_Method_in_Plain_Terms.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="21_Appendix_Table_Talk_and_Memorabilia.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="23_The_Method_in_Plain_Terms.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="21_Appendix_Table_Talk_and_Memorabilia.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-609e4cb8.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
